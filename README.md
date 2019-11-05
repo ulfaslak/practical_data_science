@@ -10,4 +10,4 @@ This course is an introduction to Data Science. It touches basic python programm
 
 Now you have all the course files on your computer. When I update the course material (and I do every now and then) you can get the newest version of all the files by executing `git pull origin master` from inside the course folder in your terminal/console.
 
-Check out the [Wiki](https://github.com/ulfaslak/practical_data_science/wiki) for this course, where all information about the course is posted.
+Check out the [Wiki](https://github.com/ulfaslak/practical_data_science/wiki) for this course, where all information is posted.
