@@ -9,3 +9,5 @@ This course is an introduction to Data Science. It touches basic python programm
 3. Run `git clone https://github.com/ulfaslak/caobd_f19`
 
 Now you have all the course files on your computer. When I update the course material (and I do every now and then) you can get the newest version of all the files by executing `git pull origin master` from inside the course folder in your terminal/console.
+
+Check out the [Wiki](https://github.com/ulfaslak/practical_data_science/wiki) for this course, where all information about the course is posted.
