@@ -1,0 +1,66 @@
+{{notability|date=June 2018}}
+{{Infobox comics character <!--Wikipedia:WikiProject Comics-->
+|character_name=Baron Von Blitzschlag
+|image=BVonBlitzschlag.jpg
+|imagesize=
+|converted=y
+|caption=Baron Werner Von Blitzschlag.<br>Art by [[Stefano Caselli]].
+|real_name=Werner Von Blitzschlag
+|publisher=[[Marvel Comics]]
+|debut=''[[Avengers: The Initiative]]'' # 1<br> (April 2007)
+|creators= [[Dan Slott]] (writer)<br>[[Stefano Caselli]] (artist)
+|alliances=[[Avengers: The Initiative]]<br/>[[Nazi Party]]<br/>[[Commission on Superhuman Activities]]
+|aliases=
+|supports=
+|powers= Genius level intellect and an ability to generate and control electricity
+|cat=super
+|subcat=Marvel Comics
+|villain=y
+|sortkey=Blitzschlag, Baron Von
+}}
+'''Baron Werner Von Blitzschlag''' is a fictional [[Character (arts)|character]] appearing in [[American comic book]]s published by [[Marvel Comics]]. Created by writer [[Dan Slott]] and artist [[Stefano Caselli]], the Baron's last name is [[German language|German]] for "Lightning-Strike."
+
+==Publication history==
+Character creator Dan Slott describes<ref>{{cite web|url=http://www.comicbookresources.com/?page=article&id=9844|title=In the Army Now: Slott Talks "Avengers: The Initiative"|publisher=[[Comic Book Resources]]|date=2007-04-03|accessdate=2008-05-30}}</ref> Baron Von Blitzschlag as {{quote|A Nazi supervillain that you've never seen. He's someone who had off panel run-ins with [1940s era] guys like the [[Whizzer (Robert Frank)|Whizzer]], [[Miss America (Madeline Joyce)|Miss America]], and [[Thin Man (comics)|Thin Man]]. But no one really remembers him. The way he works in this book is that he's one of the guys in [[Hank Pym]]'s lab in [[Avengers: The Initiative|the Initiative]]. You read stuff like '[[Civil War (comics)|Civil War]]' and you see that they're making heroes like [[The Order (comics)#The initiative|the new Champions]]. And that's one of the places he comes in. The Baron is a [[Nazi]] [[geneticist]] who is helping out the Initiative in the same way [[Wernher von Braun]] was helping out the [[NASA]] space program. As much as we hate the Nazis and they were awful human beings, we used guys who worked on the [[V-2]] rockets to help us put men on the moon and the Russians were using them too. There's something like that going on in the Initiative but I can't say any more about it.}}
+
+Originally, Blitzschlag's role was going to be filled by the pre-existing character [[Arnim Zola]]. This plan was changed due to [[Ed Brubaker]]'s plans for Zola in ''[[Captain America (comic book)|Captain America]]'', and Blitzschlag was created to fill the villain's role.<ref>{{cite web |url=http://forum.newsarama.com/showthread.php?t=138571 |title=CHRISTOS GAGE JOINS DAN SLOTT ON THE INITIATIVE |publisher=[[Newsarama]] |date=2007-12-05 |accessdate=2008-05-25 |deadurl=yes |archiveurl=https://web.archive.org/web/20090206164559/http://forum.newsarama.com/showthread.php?t=138571 |archivedate=2009-02-06 |df= }}</ref>
+
+==Fictional character biography==
+During [[World War II]], Baron Werner Von Blitzschlag was a Nazi supervillain who fought an assortment of [[Golden Age of Comic Books|Golden Age]] superheroes.<ref name=ati15>''Avengers: The Initiative'' #15</ref>
+
+Following the conclusion to [[Civil War (comics)|Civil War]], Baron Von Blitzschlag is recruited into [[Avengers: The Initiative|The Initiative]] and works at [[Camp Hammond (comics)|Camp Hammond]], seemingly taking the position as the head of scientific research. He sits in on training sessions and is particularly interested in the development of [[Trauma (comics)|Trauma]]'s abilities.<ref>''Avengers: The Initiative'' #1</ref>
+
+Following the death of [[Michael Van Patrick|MVP]], Von Blitzschlag is asked to perform the autopsy. After discovering MVP's naturally formed peak human abilities, he argues with [[Hank Pym]] over whether exploiting MVP's genetic material in order to create more [[superheroes]] is [[medical ethics|ethical]]. 
+
+When the  Vulturions (criminals using the flying technology created by the original [[Vulture (Marvel Comics)|Vulture]]) stole a briefcase containing classified research on [[gamma ray|gamma radiation]] from Von Blitzschlag, he attempted to stop them, and displayed a power to generate electricity.<ref>''Avengers: Initiative'' #7</ref>
+
+Von Blitzschlag creates several clones of MVP, three of which become the [[Scarlet Spiders]].<ref>''Avengers: The Initiative Annual'' #1</ref> Blitzschlag becomes emotionally attached to his three 'sons'<ref>''Avengers: The Initiative'' #10</ref> and shows distress when two of them are killed in combat<ref name=ati22>''Avengers: The Initiative'' #22</ref> and the third one rejects him.<ref name=ati22 /><ref>''Avengers: The Initiative'' #23</ref>
+
+When a new clone of MVP named KIA interfaces with [[Armory (comics)|Armory]]'s Tactigon weapon, he remembers the death of the original like it was his own. He then goes on a rampage and severely injures the Baron.<ref>''Avengers: The Initiative'' #11</ref>
+
+Wounded during the mission, he is left in a wheelchair and relies on a life-supporting apparatus powered by his own bioelectricity. He asks for a [[Purple Heart]] medal for being wounded in service, but is refused by [[Nighthawk (Marvel Comics)|Nighthawk]], due to his past as a Nazi.<ref>''Avengers: The Initiative'' #13</ref>
+
+When [[War Machine|Jim Rhodes]]' life support is rendered unable to sustain his life functions due to a [[Skrull]] attack during the [[Secret Invasion]], Von Blitzschlag is willing to share his energy to keep Rhodes alive until the crisis is resolved.<ref name=ati15 />
+
+When Thor's clone [[Ragnarok (comics)|Ragnarok]] reawakens, he seemingly kills the Baron with his hammer.<ref name=ati21>''Avengers: The Initiative'' #21</ref> Instead, the electric discharges make Von Blitzschlag even more powerful and able to stand as electricity "is his blood". The Baron later manages to surprise Ragnarok and drives him off by revealing his real origins.<ref name=ati22 /> Von Blitzschlag also appears when [[Star-Lord]] and the [[Guardians of the Galaxy (2008 team)|Guardians of the Galaxy]] brief [[Gauntlet (comics)|Gauntlet]] and [[Mister Fantastic]] about the conquest of the [[Negative Zone]] prison.<ref>Guardians of the Galaxy #10</ref>
+
+When the Avengers Resistance invades Camp H.A.M.M.E.R., Hardball and Cloud 9 walk in on a depowered Komodo holding Baron Von Blitzschlag at gunpoint. They take her gun away but only so she doesn't shoot Hardball before he can inject her with something that inhibits the SPIN Tech in her bloodstream. Cloud 9 then gets Komodo to listen to Hardball explain his actions by mentioning how Hardball aided the Shadow Initiative. Before they talk, Baron Von Blitzschlag surrenders and offers to give the three heroes a flash-drive containing records of every illegal order Osborn gave at Camp H.A.M.M.E.R. in exchange for leniency.<ref>''Avengers: The Initiative'' #35</ref>
+
+==In other media==
+===Television===
+* Baron von Blitzschlag appears in ''[[The Avengers: Earth's Mightiest Heroes]]'', in the episodes "The Red Skull Strikes!" and "If This Be Doomsday!" in a flashback, as lead scientist of Hydra during World War II.
+
+==References==
+{{Reflist|2}}
+
+==External links==
+*{{comicbookdb|type=character|id=13733|title=Baron Von Blitzschlag}}
+
+{{Initiative}}
+
+[[Category:Characters created by Dan Slott]]
+[[Category:Fictional characters with electric or magnetic abilities]]
+[[Category:Fictional scientists]]
+[[Category:Marvel Comics supervillains]]
+[[Category:Nazis in comic book fiction]]
+[[Category:Comics characters introduced in 2007]]

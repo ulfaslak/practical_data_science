@@ -1,0 +1,55 @@
+{{refimprove|date=November 2014}}
+{{Infobox comics character| <!--Wikipedia:WikiProject Comics-->
+image=[[File:IronLad.jpg|200px]]
+|caption=Iron Lad. Art by [[Jim Cheung]].
+|character_name=Iron Lad
+|real_name=Nathaniel Richards
+|publisher=[[Marvel Comics]]
+|debut=''Young Avengers'' #1 (April 2005)
+|creators=[[Allan Heinberg]] (writer)<br>[[Jim Cheung]] (artist)<br>(based upon [[Kang the Conqueror]] by [[Stan Lee]] and [[Jack Kirby]])
+|alliances=[[Young Avengers]]
+|aliases=[[Kang the Conqueror]], Kid Immortus
+|powers=Wears neurokinetic armor which responds to his thoughts and grants him:<br>Superhuman strength<br>Flight<br>Energy blast projection<br>Magnetic field creation<br>Time travel<br>Shapeshifting<br>Ability to hack into computer systems
+}}
+'''Iron Lad''' ('''Nathaniel "Nate" Richards''') is a fictional [[superhero]] appearing in [[American comic book]]s published by [[Marvel Comics]]. The character appears in particular in ''[[Young Avengers]]'', a team of which Iron Lad is a member. He first appeared in ''Young Avengers'' #1 (April 2005), created by writer [[Allan Heinberg]] and illustrator [[Jim Cheung]]. He is an adolescent version of [[Kang the Conqueror]], armed with a bio-metal suit that responds to mental commands. He is named after the [[Nathaniel Richards (Marvel Comics)|father]] of [[Mister Fantastic|Reed Richards]].
+
+==Fictional character biography==
+Sixteen-year-old '''Nathaniel "Nate" Richards''' is rescued by his [[time travel|time-traveling]] adult self, the villainous [[Kang the Conqueror]], moments before [[bullying|bullies]] would cause him to be [[Inpatient care|hospitalized]] for years of his life from a knife attack, an event that originally shaped his development into a villain. Kang takes his [[adolescence|teenage]] self through time to witness the future battles and glory that would result in his transformation into Kang the Conqueror, hoping to inspire his younger self. However, it backfires and Nate is horrified at the life of [[evil]] his future self shows him. Kang presses Nate to accept his future by killing the bully who would have hospitalized him. Instead, Nate takes the time travel technology given to him by Kang and transports himself to the past, hoping to avoid his sinister destiny.<ref>Young Avengers #2</ref>
+
+He seeks the Avengers for assistance, but finds the [[Avengers (comics)|Avengers]] [[Avengers Disassembled|disbanded]]. Seeking answers, he downloads the remnants of the destroyed [[Vision (Marvel Comics)|Vision]]'s operating system into his armor.  This reveals a [[fail-safe]] plan created by the android to reform the Avengers should they disband or fall in action by locating the next generation of Avengers, all of whom have some tie to the original team. Using this plan, Nate assembles his new team, the [[Young Avengers]], with the sole purpose of defeating his future self and reshaping his own future. He models his armor after the Avenger [[Iron Man]], calling himself '''Iron Lad'''. He forms a brief romantic relationship with fellow Young Avenger teammate [[Cassandra Lang|Stature]].<ref>Young Avengers #5</ref>
+
+Eventually, Kang comes to the past looking for Nate, wanting to return his younger self to his proper place in the timestream. Nate refuses to return, unwilling to become the infamous future villain. The team battle the [[Growing Man]], a robot created by Kang, and are able to defeat him. Kang battles the remaining Avengers and the teen heroes, seemingly gaining the upper hand when Iron Lad runs [[Hawkeye (Kate Bishop)|Hawkeye]]'s sword through Kang's chest. This kills Kang, but the ramifications cause several changes to the timeline, including all the Avengers being dead and Young Avengers [[Wiccan (comics)|Wiccan]] and [[Hulkling]] disappearing as well as [[Jessica Jones]] losing her baby. Iron Lad realizes that the only way to restore everything is to go back to his time and assume his role as Kang the Conqueror. In doing so he will also lose his memories of his time in the past as a Young Avenger. Before he goes back in time, he asks his teammates to forgive him for the actions he will commit in the future and kisses Stature goodbye. He leaves behind his armor, which has activated the Vision's operating software, effectively recreating the armor into a sentient being—an inexperienced [[Vision (Jonas)|"young" Vision]]. The new Vision carries Nate's brain patterns, similar to the original Vision and [[Wonder Man]].{{issue|date=September 2012}}
+
+Stature and the Vision eventually feel attracted to one another, due initially to Nate's mental imprint. They later begin a relationship. While fighting the [[cosmic cube]]-altered [[Absorbing Man]], during the "[[Dark Reign (comics)|Dark Reign]]" storyline, the new Vision (now a joint member of the Young Avengers and the [[The Mighty Avengers|Mighty Avengers]]) is affected by the cube's cosmic radiation and splits into both Iron Lad and the original Vision. Iron Lad appears to maintain the memories of the events prior to going back in time. After the Absorbing Man is defeated, the original Vision and Iron Lad merge back together as the new Vision once again.<ref>''Mighty Avengers'' #33</ref>
+
+Iron Lad appears in the 2010-12 miniseries, ''[[Avengers: The Children's Crusade]]'', in which he prevents [[Wolverine (character)|Wolverine]] from killing an amnesiac and de-powered [[Scarlet Witch|Wanda Maximoff]] (whom Wolverine feels presents [[Decimation (comics)|too great a threat]]). Iron Lad states that he does this because the future depends on their survival.<ref name="ACC4">{{Cite comic| writer = [[Allan Heinberg]]| penciller = [[Jim Cheung]]| inker = [[Mark Morales (artist)|Mark Morales]]| story = Avengers: The Children's Crusade| title = Avengers: The Children's Crusade| volume = 1| issue = 4| date = January 2011| publisher = Marvel Comics| location =| page =| panel =| id =}}</ref> Soon thereafter, Stature's deceased father [[Ant-Man (Scott Lang)]] is plucked from the past and saved, but Stature is killed. Iron Lad insists upon travelling back to the past to save her, and he kills the new Vision when he protests.  When the Young Avengers tell Iron Lad that this is most likely the event that will lead him down the path to becoming Kang the Conqueror, he states that "I will be better than Kang the Conqueror", and disappears into the timestream.<ref>''Avengers: The Children's Crusade'' #9 (May 2012)</ref>
+
+Nate, now going by the name '''Kid Immortus''', later provides information to [[Doctor Doom]] regarding the [[Future Foundation]]. He is also seen in the company of a young [[Ravonna]].<ref>''FF'' (vol. 2) #8 (June 2013)</ref>
+
+After Doom's plan fails, Iron Lad returns and rescues [[Captain America]] from the timestream. He and two of his future counterparts, Kang the Conqueror and Immortus, attempt to hold Captain America prisoner so that he cannot interfere with the [[Illuminati (comics)|Illuminati]]'s plan to save Earth by destroying numerous alternate worlds during the "[[Time Runs Out]]" storyline, but Captain America manages to escape.<ref>''Avengers'' (vol. 5) #34</ref>
+
+In 2018 Richards returns once again as Iron Lad in the new Exiles series. Along side original member Blink and new members including Wolvie, Sharon Carter and Valkyrie.
+
+==Powers and abilities==
+Nate's Iron Lad armor is composed of neuro-kinetic nano-metal and he can alter its appearance and shape with his thoughts. The armor grants Iron Lad superhuman strength and allows him to fly. It also enables him to fire blasts of various kinds of energy, hack into computer systems, create magnetic fields and travel through time. Kang's psychic link with his armor also enables him to mentally control the Iron Lad armor from a close range.{{citation needed|date=July 2012}}
+
+==Other versions==
+In ''What If the Runaways had formed the [[Young Avengers]]''?, with Iron Lad having never learned about the Vision's Avengers' Fail-Safe Initiative, he instead recruits the Runaways as his allies, forcing them to be an actual superhero team with costumes. Although it is later revealed that the Iron Lad that brought them together was actually [[Victor Mancha]]— Iron Lad ran into Victor's future self when attempting to flee to the Avengers' era, with Victorious travelling back with him and using Victor to hijack his equipment—Kang's attempt to rescue his younger self results in Iron Lad being killed and Kang being erased from history. After Victor destroys his future self, he departs via Kang's time-belt to find his own way, leaving the Runaways to continue as Young Avengers, with [[Chase Stein]] now using parts of the Iron Lad armor after he was injured in their last fight.
+
+==In other media==
+Iron Lad appears as an unlockable character in the mobile game ''[[Marvel Avengers Academy]]''. He appears as part of the "Armor Wars" mini-event.<ref>Glass, Joe (July 28, 2017). [https://www.bleedingcool.com/2017/07/28/avengers-academy-armor-wars-mobile/ "Avengers Academy Brings Armor Wars To iOS And Android"]. [[Bleeding Cool]].</ref>
+
+==References==
+{{reflist}}
+
+==External links==
+{{Young Avengers}}
+* [https://marvel.com/universe/Iron_Lad Iron Lad] at Marvel.com
+* [http://marvel.wikia.com/wiki/Nathaniel_Richards_(Iron_Lad)_(Earth-6311) Iron Lad] at Marvel Wiki
+* [https://comicvine.gamespot.com/iron-lad/4005-2263/ Iron Lad] at Comic Vine
+
+[[Category:Comics about time travel]]
+[[Category:Marvel Comics superheroes]]
+[[Category:Comics characters introduced in 2005]]
+[[Category:Time travelers]]
+[[Category:Fictional future people]]

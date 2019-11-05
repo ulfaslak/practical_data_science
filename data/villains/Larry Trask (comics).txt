@@ -1,0 +1,52 @@
+{{refimprove|date=March 2009}}
+{{Superherobox| <!--Wikipedia:WikiProject Comics-->
+image=<!-- Deleted image removed: [[Image:HY11PG01.jpg|225px]] -->
+|caption=
+|character_name=Larry Trask
+|real_name=Lawrence Trask
+|species=[[Mutant (Marvel Comics)|Human Mutant]]
+|publisher=[[Marvel Comics]]
+|debut=''[[X-Men]]'' #57 (June 1969)
+|creators=[[Roy Thomas]]<br>[[Neal Adams]]
+|alliances=[[Sentinels (comics)|Sentinels]]
+|aliases= 
+|powers=Genius level intellect, precognitive knowledge of future events
+|}}
+
+'''Larry Trask''' is a [[fictional character]] appearing in [[American comic book]]s published by [[Marvel Comics]]. He was a [[Mutant (Marvel Comics)|mutant]] who was introduced as a villain for the [[X-Men]].
+
+==Fictional character biography==
+Larry Trask is the son of scientist [[Bolivar Trask]]. At the age of five, Larry's mutant power of [[precognition]] manifested when he predicted the death of his mother. He lost his older sister Tanya soon after, as she was a mutant time-traveler who had become lost in the timestream.
+
+Fearful of the "mutant menace," Bolivar crafted a medallion that would block Larry's powerful visions of the future, as well as erase any memory of them. As his son grew older, Bolivar enlisted Larry's help in the creation of the first wave of [[Sentinels (comics)|Sentinels]]. Bolivar occasionally removed Larry's medallion so that he could secretly observe and record Larry's predictions about mutants in the future, and Larry accurately predicted the assassination attempt of Senator [[Robert Kelly (comics)|Robert Kelly]] (as told in the classic "[[Days of Future Past]]" storyline).
+
+Larry was skeptical of his father's hatred of mutants, until the night his sister Tanya (now calling herself [[Madame Sanctity]]) returned to the past. Tanya hoped to change the future by stopping her father's creation of the Sentinels, but she was thwarted by her friend [[Rachel Summers]]. Though Rachel successfully prevented Larry from witnessing the psychic duel that ensued, she could not hide the physical damage caused by the fight. This convinced Larry that dangerous mutants did exist.
+
+Larry Trask later blamed the [[X-Men]] for his father's death, and used Bolivar's notes to create a new, stronger wave of Sentinels. He was aided in his effort by Federal Judge Robert Chalmers, who was a friend of Bolivar's and knew Larry's secret. Larry Trask created a base for his Sentinels inside the [[Colorado Rockies (mountains)|Colorado Rockies]], and he ordered the robots to abduct and detain all known mutants. One of these mutants was [[Havok (comics)|Alex Summers]]; Larry gave him a containment suit to control his unstable powers, and a new codename: Havok.<ref>''X-Men'' #57-59</ref>
+
+Chalmers became disillusioned with Larry's plans, and he forcefully removed Larry's medallion, hoping that Larry would cease his attacks on mutants if he learned the truth about his own mutation. This, however, backfired; when a furious Larry gave the order for Sentinels to destroy all mutants, he himself was targeted for annihilation.{{issue|date=July 2014}}
+
+The Sentinels were eventually outwitted by [[Cyclops (Marvel Comics)|Cyclops]], and flew into space to meet their destruction. Meanwhile, Larry had plunged into a state of catatonic shock, and Chalmers put the medallion back on him to erase the knowledge of what had happened to him.{{issue|date=July 2014}}
+
+Larry did not return to his mutant-hunting ways, though he would have another brush with the Sentinels. The Mark II Sentinels returned from space with a new directive, and they abducted the [[Scarlet Witch]] as part of an elaborate plan to [[Human sterilization|sterilize]] humanity (thus preventing the birth of future mutants). Larry was abducted by Wanda's brother, [[Quicksilver (comics)|Quicksilver]], who remembered Trask from when he and his sister were previously abducted by the Sentinels. Quicksilver removed Larry's medallion, restoring Larry's knowledge of a Sentinel base in [[Australia]]. This also re-awakened Larry's precognitive abilities, and he had a powerful vision of an all-encompassing darkness that he interpreted to be the end of the world.<ref>''Avengers'' #102-104. Marvel Comics.</ref>
+
+Larry and Quicksilver traveled to Australia and joined [[Avengers (comics)|the Avengers]] in the effort to save the Scarlet Witch. Larry turned on the base's mutant detector, which revealed that Number 2, the leader of the Sentinels, had been mutated due to close contact with the sun's radiation in space. Larry used logic to turn the Sentinels against their "mutant" leader, and the robots destroyed each other. Larry saved the world from his father's creations; however, he was crushed to death when the Sentinels toppled. The black void Larry saw was not the end of the world; he had unknowingly predicted his own death.<ref>''Avengers'' #102-104. Marvel Comics.</ref>
+
+==Other versions==
+===''What if?''===
+In the one-shot special ''What If...Magneto & Professor X Had Formed the X-Men Together?'', Larry Trask is the billionaire leader of Trask Industries. His anti-mutant prejudice leads him to attack [[Professor X|Charles Xavier's]] Good Shepherd Clinic with a fleet of Sentinels. The strike is unsuccessful, but it spurs the formation of the X-Men in that universe. Later, Larry Trask is revealed to be one of the Lords Cardinal of the [[Hellfire Club (comics)|Hellfire Club]] (along with [[Sebastian Shaw (comics)|Sebastian Shaw]], [[Harry Leland]], and [[Donald Pierce]]). It is unclear if this version of Larry is aware of his own status as a mutant, or that he is working with mutants as well.{{issue|date=December 2012}}
+
+===Mutant X===
+In the alternate universe of [[Mutant X (comics)|Mutant X]], Dr. Lawrence Trask has physically bonded with the Sentinel hardware inside his mountain base, becoming a Prime-Sentinel. He is possessed by the wicked [[Madelyne Pryor]], who leads his Sentinels in an attack on the heroes of [[New York City]].<ref>''Mutant X'' #8. Marvel Comics.</ref>
+
+==References==
+{{reflist}}
+
+{{X-Men}}
+
+[[Category:Characters created by Neal Adams]]
+[[Category:Characters created by Roy Thomas]]
+[[Category:Comics characters introduced in 1969]]
+[[Category:Fictional characters with precognition]]
+[[Category:Marvel Comics mutants]]
+[[Category:Marvel Comics supervillains]]

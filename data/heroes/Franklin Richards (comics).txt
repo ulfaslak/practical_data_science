@@ -1,0 +1,218 @@
+{{Infobox comics character<!--Wikipedia:WikiProject Comics-->
+| character_name=Franklin Richards
+| image=Franklin richards.jpg
+| converted=y
+| caption=Franklin Richards.<br>Art by [[Barry Kitson]].
+| real_name=Franklin Benjamin Richards
+| species=[[Mutant (Marvel Comics)|Human Mutant]]
+| publisher=[[Marvel Comics]]
+| debut=''[[Fantastic Four (comic book)|Fantastic Four Annual]]'' #6 (November 1968)
+| creators=[[Stan Lee]] (writer)<br>[[Jack Kirby]] (artist)
+| alliances=[[Future Foundation]]<br>[[Fantastic Four]]<br/>[[Fantastic Force]]<br/>[[Power Pack]]<br/>[[Generation X (comics)|Generation X]]<br/>Daydreamers
+| aliases=Powerhouse, Psi-Lord, Ego-Spawn, Avatar, Tattletale, Franklin Benjamin, Richard Franklin
+| powers=
+* [[Matter]] and [[energy]] manipulation
+*  Energy projection
+* [[psionics|Psionic abilities]] such as [[Psychokinesis|telekinesis]], [[telepathy]], [[astral projection]], and [[precognition]]
+* [[Teleportation]]
+* [[Immortality]]
+* [[Pocket universe]] creation
+| cat=super
+| subcat=Marvel Comics
+| hero=y
+| sortkey=Richards, Franklin
+}}
+'''Franklin Benjamin Richards''' is a [[fiction]]al [[character (arts)|character]] appearing in [[American comic book]]s published by [[Marvel Comics]]. The character is usually depicted as a supporting character in ''[[Fantastic Four (comic book)|Fantastic Four]]''. He's generally portrayed as a child and as a budding super-hero, albeit inexperienced.
+
+Franklin is a [[Mutant (Marvel Comics)|mutant]] beyond [[Mutant (Marvel Comics)#Omega-level mutants|Omega-Level]]<ref name="FF13">''FF'' #13</ref><ref name="Fantastic604">''Fantastic Four'' #604</ref> with vast reality-manipulating and [[psionic]] powers. He is the young son of [[Mister Fantastic]] and the [[Invisible Woman]] of the [[Fantastic Four]], the older brother of [[Valeria Richards]], and the nephew of Invisible Woman's younger brother, the [[Human Torch]]. His parents named him Franklin Benjamin Richards; his middle name is taken from his godfather Benjamin Jacob Grimm, the [[Thing (comics)|Thing]]. Franklin's first name comes from [[Franklin Storm]], his maternal grandfather. He has started using the code name '''Powerhouse'''.<ref name="Fantastic Four #2">''Fantastic Four'' Vol. 6 #2. Marvel Comics.</ref><ref>{{cite web|url=http://www.adventuresinpoortaste.com/2018/09/06/exclusive-marvel-preview-fantastic-four-2/|title=[EXCLUSIVE] Marvel Preview: Fantastic Four #2|website=Adventure is in Poor Taste|date=September 6, 2018|accessdate=September 6, 2018}}</ref>
+
+==Publication history==
+{{Expand section|date=September 2008}}
+Franklin first appears in ''[[Fantastic Four (comic book)|Fantastic Four Annual]]'' #6 (November 1968), and was created by [[Stan Lee]] and [[Jack Kirby]], although he didn't receive his name until two years later in ''Fantastic Four'' #94 (January 1970). Lee recounted: {{quote|In trying to be realistic, as we always did ... Sue Storm and Reed Richards in ''The Fantastic Four'' had been married for quite a while, and I figured the most natural thing in the world would be for them to have a baby. Then it occurred to me we could have a lot of fun with that, because we would assume that if two people with super powers have a baby, the baby might have a super power. But what super power would he have? And we could keep the readers guessing for years until the baby grew up. ... Of course, Sue's pregnancy took about a year and a half or two years, because comic book time is somewhat different than [[Real time (media)|real-world time]]. And we wanted to stretch that out a long as we could while we tried to figure out whether she'd have a boy or a girl and what to name it. We finally decided on a boy named Franklin Richards.<ref>{{cite journal|last= Thomas|first= Roy|date= August 2011|title= Stan Lee's Amazing Marvel Interview!|journal= [[Alter Ego (magazine)|Alter Ego]]|issue= 104| pages= 38–39|publisher= [[TwoMorrows Publishing]]}}</ref>}}
+
+Appearing sporadically in the pages of ''Fantastic Four'' over the following fifteen years, Franklin became a member of the pre-teen superhero team [[Power Pack]] as of issue #17 (December 1985) of that title until its cancellation with issue #62 (February 1991). From November 1994 an older version of the same character (aged for the purposes of a story) appeared in the pages of Marvel's ''Fantastic Force'' until publication ceased as of April 1996. Between appearances in these other titles, Franklin has remained a recurring cast member of the ''Fantastic Four'' comic book. From July 2007 until the series' cancellation in February 2009, an alternate version of Franklin appeared as a cast member in the [[Marvel Adventures]] all-ages ''Power Pack'' series of titles.
+
+==Fictional character biography==
+
+===Origin===
+Franklin Benjamin Richards was born in [[New York City]] to [[Mister Fantastic|Reed]] and [[Invisible Woman|Susan Richards]].<ref>''Fantastic Four Annual'' #6</ref> Unlike most mutants (whose abilities are initially activated at the onset of puberty), Franklin began manifesting his powers while still a toddler due to his parents' radiation-altered genes.{{Issue|date=January 2012}} This drew the attention of [[Annihilus]], who sought to use Franklin as a source for his own resurgence, transferring some measure of the child's latent power to himself with a gene-based machine, and releasing Franklin's full potential in the process. Fearing the immediate threat of his son's powers to the entire populace of Earth and unable to find another solution in time, Reed Richards shut down Franklin's mind.<ref>''Fantastic Four'' #140-141</ref>
+
+During a battle between [[Ultron]]-7 and the Fantastic Four, Ultron's energy output awoke Franklin and again released his powers, resulting in the sentient robot's defeat. Free of the energies expended in the confrontation with Ultron, Franklin was seemingly returned to his normal power level.<ref>''Fantastic Four'' #150</ref>
+
+Needing someone to watch over Franklin in their absence, Reed and Susan Richards came to rely on the services of an elderly woman known as [[Agatha Harkness]],{{Issue|date=January 2012}} who is also a benevolent witch. Franklin and Agatha soon developed a familial-like bond, even residing together for a time at Whisper Hill (Agatha's old residence, which was regularly destroyed and rebuilt). Eventually, Agatha returned to live in the secret witch community of New Salem, Colorado, and Franklin moved back in permanently with his parents and the rest of the Fantastic Four.{{Issue|date=January 2012}} His powers, no longer dormant, continued to manifest themselves.<ref>''Fantastic Four'' #227 — "The Brain Parasites!"</ref>
+
+Under the care of yet another guardian, a robot nicknamed [[H.E.R.B.I.E.]], Franklin unintentionally used his reality warping abilities to age himself into adulthood.<ref>''Fantastic Four'' #244 — "When Calls Galactus!"</ref> In this form, Franklin was an adept at molecular manipulation and psionics. Upon realizing his mistake, he soon restored himself to childhood.<ref>''Fantastic Four'' #245 — "Childhood's End!"</ref>
+
+Despite his youth and inexperience, Franklin, a victim of many threats and abductions, has exhibited great courage in the face of overwhelming peril. Time and again, he has unknowingly saved innocent lives, including that of his famous family, from the likes of villainous perpetrators, such as [[Blastaar]],<ref>''Fantastic Four'' #216 — "Where There Be Gods!"</ref> [[Norman Osborn]],<ref name="Dark Reign: Fantastic Four #5"/> [[Onslaught (comics)|Onslaught]],<ref>''Onslaught: Marvel Universe''</ref> [[Nicholas Scratch]],<ref>''Fantastic Four Annual'' #14</ref> and even the all-powerful [[Mephisto (comics)|Mephisto]], whom he temporarily destroyed and later defeated on two separate occasions.<ref>''Fantastic Four'' #277 — "Back From Beyond"</ref><ref>''Fantastic Four Annual'' #20</ref>
+
+===Attempt at a normal life===
+[[Image:Frankkttattletale.jpg|250px|right|thumb|The first appearance of Franklin Richards as the superhero/[[Power Pack]] member ''Tattletale'' (Power Pack #17, December 1985), alongside the similarly-aged [[Katie Power]], who suggests his codename. Art by [[June Brigman]].]]To try to give his son a "normal" life, Reed Richards devised psychic inhibitors to prevent his powers from being used, but Franklin, whether by fault or by intent, could still at times bypass the inhibitors and use his powers, such as projecting an image of himself at a long distance. At this point he secretly joined a team of pre-teen superheroes called [[Power Pack]], in which he was code-named "Tattletale".{{issue|date=January 2013}}
+
+[[Image:Mutant Reg Ad.JPG|250px|left|thumb|A promotional advertisement for the "[[Fall of the Mutants]]" storyline which ran in various Marvel Comics cover dated November 1987. Franklin Richards is pictured at the far right in his "Tattletale" costume. Art by [[Jon Bogdanove]].]]
+
+Franklin's adventures with Power Pack gained him an enemy in the alien [[Zn'rx]], and allies and friends in the [[Kymellian]] Whitemanes. Franklin was particularly close to the young [[Kofi Whitemane]], who declared Franklin an honorary cousin in much the same way as the children of Power Pack had been adopted as honorary Whitemanes. Franklin also regarded the Power children and their parents as a sort of surrogate family — his association with them beginning at a time when he was feeling particularly distant from his parents at a time when they were living at [[Avengers Mansion]]. During this period Franklin also bonded emotionally with Avengers associate and manservant [[Edwin Jarvis]], as Jarvis was his primary caretaker while Franklin stayed at the mansion. His friendship with the Power children also gave Franklin a taste of life among siblings, which the lonely Franklin would not experience until much later when his sister [[Valeria Richards|Valeria]] was born.{{issue|date=January 2013}}
+
+The Richards and Power families became fast friends, though neither family's parents realized that any of the children other than Franklin were superpowered (though Susan and Reed discovered this later). Franklin even kept his membership of Power Pack a secret from his own parents: when he appeared before them in image form (see above) he would stick to ordinary clothes, only appearing in his Power Pack outfit before other heroes such as [[Kitty Pryde]].<ref>''Fantastic Four versus the X-Men'', drawn by regular ''[[Power Pack]]'' artist [[Jon Bogdanove]], published in 1987</ref>
+
+Franklin even lived with the Power family for a time, when his parents decided that a superhero headquarters was a dangerous place for a child to live, and wanted Franklin to spend time in a "normal" family environment. He returned to his family when Power Pack temporarily left Earth for the Kymellian homeworld.{{issue|date=January 2013}}
+
+===Psi-Lord===
+Franklin was later [[child abduction|kidnapped]] by his [[time travel|time-traveling]] grandfather [[Nathaniel Richards (Marvel Comics)|Nathaniel Richards]], and replaced with his teenage counterpart, '''Psi-Lord''', who had been raised by Nathaniel in a dimension outside of time.{{Issue|date=February 2012}} Franklin, as Psi-Lord, helped create the short-lived team known as [[Fantastic Force]].{{Issue|date=February 2012}} By tapping a stud hidden within the glove of his costume, Franklin was able to summon battle armor from a pocket dimension; it was designed specifically to siphon off the full measure of his powers.<ref>''Fantastic Four'' #384</ref> As such, Franklin's abilities at this time were limited to telepathy, precognition, and psionic energy blasts.
+
+Nathaniel eventually revealed that in another possible future timeline, Franklin Richards would, with [[Rachel Summers]], father a terrible time-and dimension-traveling supervillain named [[Hyperstorm]].<ref>''Fantastic Four'' #414</ref> In an effort to divert the attention of the Fantastic Four, Hyperstorm traveled back to the precise point in time when Franklin was abducted by Nathaniel Richards; he returned the child to his parents mere seconds after he was first kidnapped, thus rendering the Psi-Lord version of Franklin Richards obsolete in the Earth-616 timeline.<ref>''Fantastic Four'' #413-414</ref>
+
+===Onslaught===
+Shortly after these events, [[Onslaught (comics)|Onslaught]] kidnaps Franklin in order to use his abilities to reshape reality. To defeat Onslaught, the Fantastic Four, the [[Avengers (comics)|Avengers]], the [[X-Men]], and several other heroes destroy first his physical form, and then his psychic form. In the process, Franklin's parents seemingly die. Franklin displays his true power, singlehandedly creating the "[[Heroes Reborn (comics)|Heroes Reborn]]" pocket universe to contain the heroes who had "died" in that adventure. Some of them are recreated based on Franklin's memories of them, such as the temporally-displaced teenage [[Iron Man|Tony Stark]] becoming an adult once more while the mutated [[Wasp (comics)|Wasp]] is restored to human form. While his parents are away in the Heroes Reborn universe, [[Generation X (comics)|Generation X]] and [[Alicia Masters]] look after Franklin. This universe comes to be represented by a small, bluish ball which Franklin carries with him.{{issue|date=January 2013}}
+
+Franklin travels with several X-Men to the farm owned by [[Beast (comics)|Hank McCoy]]'s parents. He plays with [[Artie Maddicks]] and [[Leech (comics)|Leech]], both mutant children. The [[Celestial (comics)|Celestials]] recognize that Franklin represents the culmination of their genetic experiments, that he has power to rival even theirs. [[Ashema the Listener|Ashema]], one of the Celestials, representing herself as a human, visits Franklin. Ultimately, Franklin, Ashema and other forces allow the rightful heroes to return and both universes to remain functioning.{{issue|date=January 2013}}
+
+In the wake of Mr. Fantastic's activation of the [[Ultimate Nullifier]] to destroy [[Abraxas (comics)|Abraxas]], Franklin loses all his powers in the process of reforming [[Galactus]] and thus becomes a normal child.<ref>''Fantastic Four'' vol. 3 #49</ref> Shortly afterwards, [[Doctor Doom]] makes a pact with the [[Haazareth Three]] to gain vast magical power. During Doom's attacks upon the Fantastic Four, Franklin is sucked into [[Hell]] by the Haazareth.<ref>''Fantastic Four'' vol. 3 #68</ref> After the defeat of Doom, his parents rescue him, but Franklin has a hard time coping with the traumatic experience of being tormented in Hell. The Thing helps Franklin make a complete mental recovery by assuring him that, even if they couldn't always keep him safe, they would never give up on him.<ref>''Fantastic Four'' #502</ref>
+
+When the [[Scarlet Witch]] uses her powers to [[Decimation (comics)|depower]] countless mutants, including [[Magneto (comics)|Magneto]] and [[Professor X]], the power lost by Magneto and Xavier combines and restores Onslaught, whose consciousness still lingered after his death. Onslaught takes control of both the [[Human Torch]] and [[Mister Fantastic]] in an attempt to get Franklin but is interrupted by the [[Thing (comics)|Thing]] and [[Invisible Woman]].{{issue|date=June 2012}}
+
+When Franklin flees to [[Counter-Earth (comics)|Counter-Earth]], Onslaught follows him. The Avengers assess their new threat which did not exist until Franklin appeared.{{issue|date=June 2012}} After a brief skirmish, the heroes and villains decide to work together to defeat Onslaught. [[Rikki Barnes]] defeats him using a [[Fantasticar]] to send them both through the [[Negative Zone]] barrier in the Fantastic Four's lab, trapping them. Franklin returns home, Barnes finds herself on Earth-616, and Onslaught is seen floating outside the Area 42 Prison in the Negative Zone.{{issue|date=June 2012}}
+
+===Secret Invasion===
+In the beginning of the [[Skrull]] strike on Earth, the Skrull [[Lyja]], impersonating Sue Richards, sends the entire Baxter Building into the Negative Zone with Franklin, Valeria, and Johnny Storm inside. Franklin and Valeria team up with Johnny and the Thing to fight the Skrulls. Benjamin Grimm asks the help of the [[Tinkerer]], who is a prisoner in the prison for the unregistered villains in the Negative Zone. The Tinkerer refuses, seeing no reason to help the people who arrested him as he was taking his grandchildren out for ice cream, and sent him to prison without [[due process]]. Franklin and Valeria plead with the Tinkerer. They strongly remind the old man of his own grandchildren. He is moved to tears, repents and agrees to help, in exchange for his freedom and reunion with his grandkids.{{issue|date=January 2013}}
+
+===Dark Reign===
+During the ''Dark Reign: Fantastic Four'' miniseries; Franklin finds himself along with his sister under siege by [[Norman Osborn]], [[Mac Gargan|Venom]] and a high number of [[H.A.M.M.E.R.]] agents. The siblings were on their own due to their father's experiment which left him unreachable and the other members of the Fantastic Four stranded in alternate realities.<ref>''Dark Reign: Fantastic Four'' #1-3</ref>
+
+Valeria manages to separate Osborn from the rest of the H.A.M.M.E.R. agents by using a bureaucratic technicality and by having them underestimate her. Osborn is led into a room where he faces Franklin who is wearing a Spider-Man mask and calls him a villain. In the next scene, the two are chased down a hall by Osborn who is getting ready to shoot them.<ref>''Dark Reign: Fantastic Four'' #4</ref> The Fantastic Four return just in time to protect the children.<ref name="Dark Reign: Fantastic Four #5">''Dark Reign: Fantastic Four'' #5</ref> Mister Fantastic tells Osborn to leave the Baxter Building and not to come back. Osborn attempts to shoot Reed, only to be shot in the shoulder by Franklin. The gun Franklin used is by all accounts, a simple toy.<ref name="Dark Reign: Fantastic Four #5"/>
+
+On his birthday, Franklin is seemingly attacked by a strange intruder which is later revealed to be a future version of Franklin himself sent back through time to deliver a warning to Valeria about an approaching conflict. In the final pages, it is revealed that the attack by the adult Franklin was to plant a telepathic suggestion in the mind of his present-day counterpart, thereby reawakening young Franklin's dormant mutant powers.<ref>''Fantastic Four'' #574</ref>
+
+===Search for the Invisible Woman===
+Franklin and his sister contact X-Factor Investigations, led by [[Jamie Madrox|Madrox the Multiple Man]]. They find that their mother has strangely disappeared and think that their father had something to do with it.<ref>''X-Factor''#200</ref> According to the children, Reed Richards had been acting very strange the last couple of days. The team investigates and find that not only Sue was trapped, but also Reed, who has been replaced with an alternate version being mind-controlled by an alternate version of Doctor Doom. X-Factor find the real Reed in Latveria.<ref>''X-Factor'' #200-201</ref> X-Factor and the Fantastic Four battle Doctor Doom and Layla Miller. Doom lets them "rescue" Sue and tells them all to leave. During the battle in New York, the alternate Doom/Reed is accidentally killed.<ref>''X-Factor'' #202</ref>
+
+===Fear Itself===
+During the ''[[Fear Itself (comics)|Fear Itself]]'' storyline, Franklin, against his father's prior wishes, uses his reality-warping powers to free [[Thing (comics)|Ben Grimm]] from the possession of an [[Asgard (comics)|Asgardian]] warrior general named Angrir: Breaker of Souls by transforming him back into the Thing.<ref>Evans, Alex. [http://weeklycomicbookreview.com/2011/08/12/fear-itself-5-review/ "Fear Itself #5 – Review"]. Weekly Comic Book Review. August 12, 2011</ref><ref>{{Cite comic|writer=Matt Fraction|penciller=Stuart Immonen|inker=Wade von Grawbadger|story=Brawl|title=Fear Itself|volume=1|issue=5|date=October 2011|publisher=Marvel Comics|page=|panel=}}</ref>
+
+===Future Foundation===
+Franklin is approached by a mysterious stranger, who has been secretly tutoring him in the use of his powers.<ref>''Fantastic Four'' #600</ref> The stranger is later revealed to be a future adult incarnation of Franklin himself, who reiterates to his young counterpart that his powers must be properly harnessed for a singular intent: the act of life preservation.<ref>''FF'' #15</ref> In a confrontation between the [[Future Foundation]] and the Mad Celestials of Earth-4280, Franklin is described by one of the Celestials as a mutant 'beyond [[Omega-level mutant|Omega]] classification', and is subsequently attacked with concussion beams. Franklin repels their attacks.<ref name="FF13"/>
+
+Upon successfully creating a new future and simultaneously acting as an anchor for the changes he made in the process following the collapse of all reality into a single timestream, culminating with the heat death of everything, the adult Franklin, alongside his sister, a future incarnation of Valeria Richards, enters the fray in the final struggle against the Mad Celestials of Earth-4280.<ref name="Fantastic604"/><ref>''Fantastic Four'' #582</ref> He warps the three Celestials away to the inner sphere of a local gas giant. He then acquires an orb containing his younger counterpart's powers, which he stores within his chest. When the Celestials return, the adult Franklin again confronts them, and destroys them all in a prolonged battle.<ref name="Fantastic604"/> In the aftermath, the adult Franklin shares a brief moment with Galactus. The two discuss the heat death of everything and the revelation of Franklin's [[immortality]], specifically that he will, billions of years from now, stand beside Galactus to witness the birth of a new universe.<ref name="FF16">''FF'' #16</ref>
+
+Some years later, Franklin Richards' reality-warping abilities was getting depleted from rebuilding the Multiverse as he, his parents, Valeria, and the Future Foundation are confronted by the Griever at the End of All Things. During this time, he has taken up the codename of Powerhouse.<ref name="Fantastic Four #2"/>
+
+==Powers and abilities==
+Franklin is a [[Mutant (Marvel Comics)|mutant]] who possesses the power to warp reality, i.e., to make any thought or desire come to fruition, even up to a cosmic scale. He is able to rearrange the molecular structure of matter and energy at will. Franklin once subconsciously created his own [[pocket universe]], encompassing a virtual replica of [[Earth-616]]. As a result, several cosmic entities, including [[Galactus]], [[Eternity (comics)|Eternity]], and [[Infinity (Marvel Comics)|Infinity]], as well as Omniversal Guardian [[Roma (comics)|Roma]] and Omniversal Majestrix [[Saturnyne|Opal Luna Saturnyne]], began to take notice of Franklin's tremendous gifts,<ref>''Fantastic Four'', vol 3, #8</ref> going so far to describe him as a "being whom the [[Celestial (comics)|Celestials]] felt was on par with themselves".<ref>''Heroes Reborn: The Return'' #4, December 1997</ref> Two Celestials, [[Ashema the Listener]] and [[Nezarr the Calculator]], were at one time tasked with retrieving Franklin for evaluation as a new member of the Celestial Host,<ref>''Heroes Reborn: The Return'' #1 (December 1997)</ref> a group of beings recognized as "gods" by the [[Eternals (comics)|Eternals]] and [[Deviant (comics)|Deviants]].<ref>''Eternals'' #1 (July 1976)</ref>
+
+In addition to reality and molecular manipulation, Franklin has vast psionic powers that have manifested as [[telepathy]], [[psychokinesis|telekinesis]], energy blasts of concussive force, [[precognition]], and [[astral projection]]. Being a child, Franklin's abilities are restricted to an extent by his limited control. Moreover, it remains unclear what power levels Franklin will ultimately achieve as an adult, as several future incarnations from [[Multiverse (Marvel Comics)|alternate realities]] as well as [[Earth-616|the mainstream Marvel universe]] have been shown to vary in power. One such manifestation of Franklin in adult form was able to destroy two Celestials from Earth-4280 during physical combat; in the aftermath of their defeat, Franklin's immortality was strongly implied. The same individual also tapped into the power of his younger self to resurrect and transform Galactus into his own personal herald after the Devourer of Worlds had been rendered unconscious in battle against a host of Celestials.<ref name="Fantastic604"/><ref name="FF16"/>
+
+==Other versions==
+
+===''Days of Future Past''===
+In the 1981 X-Men storyline ''[[Days of Future Past]]'', it was revealed that in one possible future, Franklin (known as ''''Scrapper'''') would be the lover of [[Rachel Summers]]; he would also meet his untimely death at the hands of Omega [[Sentinel (comics)|Sentinels]].<ref>''X-Men'' #202</ref> In variants of this timeline, Franklin and Rachel give birth to the nigh-unstoppable villain [[Hyperstorm]], a mutant who is capable of drawing virtually limitless energy from Hyperspace itself.{{issue|date=February 2013}} Another child Franklin fathers with Rachel (in a reality that only slightly diverges from [[Days of Future Past|Earth-811]]) is known as Dream Summers. Dream, a mutant like her parents, demonstrates telepathy/empathy.{{issue|date=February 2013}}
+
+The [[Astral projection|dream-self]] of the deceased adult Franklin Richards of [[Days of Future Past|Earth-811]] (seen in the 1990 ''[[Days of Future Present]]'' crossover) tapped into the powers of both his younger [[Earth-616]] counterpart and Rachel Summers, augmenting his own abilities with the near-infinite energy of the [[Phoenix Force (comics)|Phoenix Force]].<ref>''Uncanny X-Men Annual'' #14</ref>
+
+===''Fantastic Four: Annual 1998''===
+In ''Fantastic Four: Annual 1998'', a version of Franklin is seen where he aged in real time from his first appearance. He is married to a [[Wakanda]]n woman named Zawadi and has a daughter named N'Yami. Franklin is also a member of the Fantastic Four named Zero Man and had the ability to access the [[Negative Zone]] through a portal that he could create. He had to wear a special [[Vibranium]] headband to help him control his abilities.
+
+===''Earth X''===
+In ''[[Earth X]]'', Franklin Richards curses [[Namor]] for killing the Human Torch. Half of Namor's body is now constantly burning, even underwater. Afterwards, Franklin takes Galactus' armor and, entering the third stage of his evolution, becomes Galactus himself. As stated in the story, he is Galactus as long as no one tells him he isn't.{{Issue|date=January 2010}} As Galactus, Franklin Richards saves the Earth by consuming the Celestial growing inside. He reveals himself to his father, Reed, before leaving the Earth, stating he will never return.{{Issue|date=January 2010}} At the end of the story, Reed, after gaining the cosmic consciousness, states his first task will be to save his son.{{Issue|date=January 2010}}
+
+===Exiles===
+The [[Exiles (Marvel Comics)|Exiles]], a group of superheroes taken from several different realities, traveled to a future Earth where their mission was to stop Franklin Richards' son from conquering that world.{{Issue|date=January 2011}} Franklin himself is not shown in this storyline.
+
+===''Franklin Richards: Son of a Genius''===
+[[Image:Frichardsherbie.jpg||Art by [[Chris Eliopoulos]]|thumb|150px|right]]
+
+In the out-of-[[continuity (fiction)|continuity]] humor series ''Franklin Richards: Son of a Genius'', Franklin is portrayed as a [[Calvin (Calvin and Hobbes)|Calvin]]-esque troublemaker who can't resist "playing" with his father's inventions, with disastrous results. Franklin must then scramble to reverse the effects/clean up after the results of his "play", with the help of his long-suffering robot nanny [[H.E.R.B.I.E.]] (who essentially plays a [[Hobbes (Calvin and Hobbes)|Hobbes]]-esque role), or face punishment from his parents. The first twelve ''Son of a Genius'' [[one-shot (comics)|one-shots]] were drawn by [[Chris Eliopoulos]] and co-written by Eliopoulos and [[Marc Sumerak]]. Since then, Eliopoulos has written them solo.
+
+''Franklin Richards: Son of a Genius'' began as a series of back-up strips, each one appearing in all Marvel books released in a certain publishing week. The strips were well received by Marvel readership and the concept was granted a self-titled one-shot, which primarily reprinted the published strips to date. Subsequent books in the series have consisted of new material, and they are currently being published on a roughly quarterly basis. There have been fourteen specials published so far, and this particular version of Franklin and H.E.R.B.I.E. has since appeared with [[Lockjaw and the Pet Avengers]] in ''Tails of the Pet Avengers: Dogs of Summer'' (July 2010).<ref>{{cite web|url=http://marvel.com/catalog/?id=15695|title=Marvel Catalog}}</ref>
+# ''Fantastic Four Presents Franklin Richards'' (Nov. 2005)
+# ''Everybody Loves Franklin'' (Apr. 2006)
+# ''Super Summer Spectacular'' (Sept. 2006)
+# ''Happy Franksgiving'' (Jan. 2007)
+# ''March Madness'' (May 2007)
+# ''World Be Warned'' (Aug. 2007)
+# ''Monster Mash'' (Nov. 2007)
+# ''Fall Football Fiasco'' (Jan. 2008)
+# ''Spring Break'' (May 2008)
+# ''Not-So-Secret Invasion'' (July 2008)
+# ''Summer Smackdown'' (Oct. 2008)
+# ''Sons of Geniuses'' (Jan. 2009)
+# ''It's Dark Reigning Cats and Dogs'' (Apr. 2009)
+# ''April Fools'' (June 2009)
+# ''School's Out!'' (July 2009)
+
+===''House of M''===
+In ''[[House of M]]'', Franklin is mentioned by [[Emma Frost]] as being one of her patients since the death of his parents.<ref>''House of M'' #2</ref>
+
+===''Marvel Zombies: Dead Days''===
+In the ''[[Marvel Zombies: Dead Days]]'' [[One-shot (comics)|one-shot]] (which served as a [[prequel]] to the [[Marvel Zombies]] 2005/2006 [[miniseries]]), Franklin and his sister Valeria were suddenly eaten by zombie [[She-Hulk]].
+
+===MC2===
+In the [[Marvel Comics 2|MC2]] universe, Franklin is in the [[Fantastic Five]] under the name of Psi-Lord, his powers reduced to [[psychokinesis|telekinesis]] after a battle with [[Hyperstorm]].<ref>Flashback in ''Fantastic Five'' #4</ref> He's also that universe's Nexus Being, someone who exists in all possible realities, a focus of mystical energies. He has a friendly relationship with [[Spider-Girl]]. They are mutually attracted to each other until her father, [[Alternative versions of Spider-Man#MC2|Spider-Man]], points out that she is only 15, several years younger than Franklin. After that, Franklin stops flirting with her.<ref>''Spider-Girl'' #47</ref> It was revealed that Franklin recommended [[Katie Power|Kate Power]] to help the Avengers find the powerless [[Thunderstrike (Kevin Masterson)|Thunderstrike]].<ref>''Avengers Next'' #2</ref> During ''Fantastic Five'' (volume two) #4, a huge increase in his powers, triggered when Franklin deliberately exposes himself to [[cosmic ray]]s to enhance his powers to cope with the threat posed by the newly returned Doctor Doom, leaves him with stronger psionic powers and with a blazing skull for a face, forcing him to wear a containment helmet at all times.<ref>''Fantastic Five'' Volume 2 #5</ref>
+
+===Power Pack – All Ages Version===
+In the ''Fantastic Four and Power Pack'' miniseries, an alternate timeline Franklin Richards is promoted a few grades and enrolled in the same class as [[Jack Power (Marvel Comics)|Jack Power]]. Because of persecution as a result of him having the Richards name, Reed later decides that he should be kept in the [[Baxter Building]] for home schooling, possibly as long as college. Franklin then runs away with Jack, then proceeds to get captured by [[Doctor Doom]]. Doom switches bodies with Franklin for a short time to pursue the destruction of the Fantastic Four, leaving Franklin trapped in Doom's comatose body. When Jack Power undoes the body swap, Franklin wakes up and immediately leads the Power Pack in sending Doctor Doom to the [[Negative Zone]].
+
+After this adventure, [[Julie Power]] creates a costume for Franklin, dubbing him the "honorary fifth member". The costume looks like a standard Power Pack costume, done in orange and having the [[eye of Providence|all-seeing eye]] icon of his "Tattletale" costume from the original series. Although the costume was made of regular materials instead of using the alien materials that accounts for the special abilities of the other Power Pack costumes, Franklin's father has modified the "Tattletale" costume using unstable molecules.<ref>''Skrulls vs. Power Pack #1</ref>
+
+In the ''Power Pack: Day One'' miniseries, Franklin is staying with the Power family, due to the Fantastic Four going on a space mission. During his stay, Franklin is learning from the Power siblings the origin of how they became Power Pack.
+
+In the first issue of the ''Skrulls vs. Power Pack'' miniseries, Franklin and the Power siblings were at a bowling alley, when they were attacked by bounty hunters. While the hunters captured and delivered the Pack to Patchworld, Franklin managed to return to the Baxter Building to ask his parents to help rescue them, but instead depended upon the aid from both the Smartship Friday and his robot nanny H.E.R.B.I.E.
+
+This version of Franklin to date hasn't displayed any powers; he does have great courage and intelligence. He also has some impressive high-tech gadgets that Reed and Franklin built together. These save his life during the Galactic bounty hunter attack.
+
+Franklin, the Power siblings, H.E.R.B.I.E., and Friday eventually reach the Puzzle Planet and solve the mystery of the planet of origin of Eternity's Children, as named in an ancient secret prophecy. All the children do their part with their intelligence and powers to solve the puzzles, but it is Franklin who ties it all together with his scientific knowledge and analytic ability.<ref>''Skrulls vs. Power Pack'' #4, October 2008.</ref>
+
+With the main continuity, the "Son of a Genius" series, and the all ages version of Power Pack, there are now three different versions (within the different continuities) of Franklin Richards fighting the Skrull invasion.
+
+===Forever Yesterday===
+In an alternate reality detailed in ''[[New Warriors]]'' #11–13, the Richards family is part of a resistance movement against the tyrannical [[Sphinx (Marvel Comics)|Sphinx]]. They join with the family of [[Night Thrasher (Dwayne Taylor)|Dwayne Taylor]]. Despite their age differences, Franklin and Dwayne are shown as friends. An attack by agents of the Sphinx leaves all but Dwayne murdered.
+
+===Other future incarnations===
+[[Image:Ultiman.jpg|185px|thumb|left|Future incarnations of Franklin as appearing in Power Pack #36]]In ''[[Power Pack]]'' #36 (published in April 1987), Franklin and his friends battled the giant robot [[Master Mold]]. The Master Mold's primary objective was to eliminate [[Apocalypse: The Twelve|The Twelve]], the future leaders of mutant-kind. Describing Franklin as a mutant entity of the "ultimate" potential, and the only mutant ever to develop such power, the machine visualizes possible future incarnations of the child prior to seeking him out for annihilation. One image depicts Franklin as a young man clad in a dark blue suit with a red jacket, yellow boots, yellow and gloves. Master Mold refers to this adolescent version of Franklin as '''Ultiman'''. Another image shows a striking figure somewhat older in appearance than Ultiman (closely resembling the [[Silver Surfer]]) with marks upon his face similar to the "[[Hounds (comics)|hound scars]]" commonly associated with [[Rachel Summers]] of [[Days of Future Past|Earth-811]]. As per Master Mold, this adult incarnation of Franklin is simply called "'''The Twelfth'''".
+
+===Ultimate Marvel===
+In ''[[Ultimate X-Men]]/[[Ultimate Fantastic Four|Fantastic Four]] Annual #1'', a young Franklin Richards is part of a future team of X-Men. It is revealed that in all of the possible futures, Franklin is Reed (as [[Annihilus|Nihil]]) and Sue's son. He is also revealed to be the host to that timeline's [[Phoenix Force (comics)|Phoenix force]].<ref>''Ultimate X-Men/Ultimate Fantastic Four Annual'' #1</ref>
+
+==In other media==
+
+===Television===
+* Franklin Richards (alongside members of [[Power Pack]]) makes a cameo appearance in ''[[The Super Hero Squad Show]]'' episode "Support Your Local Sky-Father!" at a playground Thor is opening, appearing in a blue T-shirt marked with a "4".
+
+===Video games===
+* In the game ''[[Marvel: Ultimate Alliance]]'', Franklin is briefly mentioned when speaking to the Invisible Woman in the Hall of Warriors on the Asgard level.
+* In the game's sequel, ''[[Marvel: Ultimate Alliance 2]]'', Franklin is seen sleeping alongside his sister [[Valeria Richards]]. He is left in the care of his father [[Mister Fantastic|Reed Richards]] when his mother leaves to join the Anti-Registration movement.
+
+==Awards==
+Awards include:
+
+*[[2008 in comics|2008]]: Chris Eliopoulos was nominated for the "Special Award for Humor" [[Harvey Award]] for his work on ''Franklin Richards''.<ref name=harvey2008>[http://www.comicbookresources.com/?page=article&id=18247 2008 Harvey Award Winners], [[Comic Book Resources]], September 28, 2008</ref>
+
+==References==
+{{Reflist|2}}
+
+==External links==
+* {{Marvunapp|http://www.marvunapp.com/Appendix2/franklindofp.htm|Franklin Richards}}
+* {{gcdb|type=credit|search=Franklin+Richards|title=Franklin Richards}}
+* {{comicbookdb|type=character|id=1230|title=Franklin Richards}}
+
+{{Fantastic Four}}
+{{Marvel Cosmic}}
+{{Power Pack}}
+{{Stan Lee}}
+{{Jack Kirby}}
+{{DEFAULTSORT:Richards, Franklin}}
+[[Category:Characters created by Jack Kirby]]
+[[Category:Characters created by Stan Lee]]
+[[Category:Child characters in comics]]
+[[Category:Child superheroes]]
+[[Category:Comics characters introduced in 1968]]
+[[Category:Fictional characters by physics or reality manipulation]]
+[[Category:Fictional characters from New York City]]
+[[Category:Fictional characters with energy manipulation powers]]
+[[Category:Fictional characters with immortality]]
+[[Category:Fictional characters with precognition]]
+[[Category:Fictional telekinetics]]
+[[Category:Male characters in comics]]
+[[Category:Marvel Comics characters who can teleport]]
+[[Category:Marvel Comics mutants]]
+[[Category:Marvel Comics superheroes]]
+[[Category:Marvel Comics telepaths]]
+[[Category:Marvel Comics 2]]

@@ -1,0 +1,57 @@
+{{Infobox comics character| <!--Wikipedia:WikiProject Comics--> 
+image=
+|caption=
+|character_name=Brynocki
+|real_name=None
+|species=Terrestrial [[robot]]
+|publisher=[[Marvel Comics]]
+|debut=''[[Master of Kung Fu (comics)|Master of Kung Fu]] #33'' (Oct 1975)
+|creators=[[Doug Moench]] and [[Paul Gulacy]]
+|alliances=MI-6
+|aliases=
+|powers=
+|}}
+
+'''Brynocki''' is a fictional character appearing in [[American comic book]]s published by [[Marvel Comics]].
+
+==Publication history==
+Brynocki first appeared in ''[[Master of Kung Fu (comics)|Master of Kung Fu]]'' #33-35 (October–December 1975), and was created by [[Doug Moench]] and [[Paul Gulacy]].
+
+The character subsequently appears in ''Master of Kung-Fu'' #72-75 (January–April 1979), #119 (December 1982), ''ROM'' #47 (October 1983), ''Marc Spector Moon Knight Special Edition'' (1992) #1 (October 1992), and ''Thing'' #1-3 (January–March 2006).
+
+Brynocki received an entry in the ''All-New Official Handbook of the Marvel Universe A to Z: Update'' #1 (2007), and in the ''Official Handbook of the Marvel Universe A to Z'' HC vol. 02 (2008).
+
+==Fictional character biography==
+Brynocki is a toy-like robot created by [[Mordillo (comics)|Mordillo]], an insane assassin, an adversary of Shang-Chi. Mordillo's intent is for Brynocki to serve as his assistant and comic relief.<ref>{{cite book
+  | last = Jacobs
+  | first = Will
+  | authorlink = 
+  |author2=Jones, Gerard 
+  | title = The Comic Book Heroes: From the Silver Age to the Present
+  | publisher = Crown Publishers
+  | year = 1985
+  | location = 
+  | pages = 235–236
+  | url = https://books.google.com/books?id=JYhQAAAAMAAJ&q=Brynocki&dq=Brynocki&lr=&pgis=1
+  | doi = 
+  | id = 
+  | isbn = 0-517-55440-2}}</ref> Brynocki has the ability to instantly change the appearance of his clothing and his choice of clothes reflects his emotional state of the moment.<ref>{{Marvunapp|http://www.marvunapp.com/Appendix/brynocki.htm|Brynocki}}</ref>
+
+===Rom Spaceknight===
+While [[Rom (comics)|Rom]] and [[Starshine (comics)|Starshine]] are flying over the East China Sea they enter into what Brynocki considers Mordillo's airspace and he launches an attack on them but the Spaceknights survive and retaliate.  Shot down along with his boss Brynocki leaves Mordillo's skeleton behind so he can get back to the main base quicker and launch a new attack but he inadvertently places it on top of a pit of quicksand so it sinks.  Rom and Starshine determine that Brynocki is not involved with their own enemies and leave the island and Brynocki goes to retrieve his boss but can't find Mordillo's now submerged remain.  Brynocki decides he's been abandoned and needs to find a new friend.<ref>''Rom Spaceknight'' #47 (Oct. 1983)</ref>
+
+===Iron Man===
+Many years later, [[Arcade (Marvel Comics)|Arcade]], also an assassin, finds and employs Brynocki, using his former master's island as a new Murderworld.  [[Iron Man]] reprograms Brynocki, who helps Iron Man defeat Arcade. The [[Thing (comics)|Thing]] also becomes heavily involved in the situation. Brynocki takes on the features of the armored Avenger.<ref>''Thing'' Vol 2 #1-3 (2005)</ref>
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{Marvunapp|http://www.marvunapp.com/Appendix/brynocki.htm|Brynocki}}
+
+{{Shang-Chi}}
+
+[[Category:Comics characters introduced in 1975]]
+[[Category:Fictional henchmen]]
+[[Category:Fictional robots]]
+[[Category:Marvel Comics supervillains]]

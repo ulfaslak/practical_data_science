@@ -1,0 +1,133 @@
+{{Use mdy dates|date=January 2019}}
+{{Dablink|This article is about the Marvel Comics fictional villain and its succession of alter egos. For the most well known Goblin, see [[Norman Osborn]]. For a comprehensive list of the Goblin characters, see [[Goblin (Marvel Comics)]]}}
+
+{{Infobox comics character <!--Wikipedia:WikiProject Comics-->
+| character_name = Green Goblin
+| image          = Green Goblin (Alex Ross's art).jpg
+| converted      = y
+| caption        =  Norman Osborn as Green Goblin. Artwork for the cover of ''Amazing Spider-Man'' #797 (March 2018 Marvel Comics). Art by [[Alex Ross]].
+| publisher      = [[Marvel Comics]]
+| debut          = ''[[The Amazing Spider-Man]]'' #14 (July 1964)
+| creators = [[Stan Lee]]<br />[[Steve Ditko]]
+|alter_ego       = [[Norman Osborn]]<br />[[Harry Osborn]]<br />[[#Bart Hamilton|Bart Hamilton]]<br />[[Phil Urich]]
+| species        = [[Mutate (comics)|Human mutate]]
+| alliances      =
+| aliases        = Goblin King, Goblin Knight, Red Goblin
+| supports       =
+| powers         =
+* Superhuman strength, stamina, durability, agility and reflexes due to ingesting the Goblin Formula
+* Regenerative healing factor
+* Genius-level intellect
+* Skilled in hand-to-hand combat and martial arts
+* Uses goblin-themed weapons and a Goblin Glider which has a variety of offensive weapons as paraphernalia
+| cat            = super
+| subcat         = Marvel Comics
+| villain        = y
+| sortkey        = Green Goblin
+}}
+
+The '''Green Goblin''' is the alias of several fictional [[supervillain]]s appearing in [[American comic book]]s published by [[Marvel Comics]]. The first and best known incarnation, '''[[Norman Osborn]]''', created by [[Stan Lee]] and [[Steve Ditko]], is generally considered to be the [[archenemy]] of [[Spider-Man]]. The Green Goblin is a [[Halloween]]-themed supervillain whose weapons resemble bats, ghosts and [[jack-o'-lantern]]s. Comics journalist and historian [[Mike Conroy (writer)|Mike Conroy]] writes of the character: "Of all the costumed villains who've plagued Spider-Man over the years, the most flat-out unhinged and terrifying of them all is the Green Goblin."<ref>Conroy, Mike. ''500 Comicbook Villains'' (Collins & Brown, 2004), p. 55</ref> The Green Goblin has appeared in several films including 2002's ''[[Spider-Man (2002 film)|Spider-Man]]'' as [[Norman Osborn]], and 2007's ''[[Spider-Man 3]]'' and 2014's ''[[The Amazing Spider-Man 2]]'' as [[Harry Osborn]].
+
+==Publication history==
+[[File:Amazing Spider-Man no, 14 (1964) (cover).jpg|thumb|left|''[[The Amazing Spider-Man]]'' #14 (July 1964), the Green Goblin's first appearance; the character originally used a turbo-fan-powered "flying [[broom]]stick." Cover art by [[Steve Ditko]].]]
+According to Steve Ditko: "Stan's synopsis for the Green Goblin had a movie crew, on location, finding an [[Egypt]]ian-like [[sarcophagus]]. Inside was an ancient, [[mythology|mythological]] [[demon]], the Green Goblin. He naturally came to life. On my own, I changed Stan's mythological demon into a human villain."<ref name=Ditko>{{Cite journal | title=Spider Time | first= Will |last=Murray | work= Starlog and Comics Scene present Spider-Man and other Comics Heroes|date=July 2002 | postscript={{inconsistent citations}}}}</ref>
+
+The Green Goblin debuted in ''The Amazing Spider-Man'' #14.<ref>{{cite book|last = Manning|first = Matthew K.|last2= Gilbert|first2= Laura, ed.|chapter= 1960s|title = Spider-Man Chronicle Celebrating 50 Years of Web-Slinging|publisher = [[Dorling Kindersley]]|year = 2012|page = 26|isbn = 978-0756692360|quote= Spider-Man's arch nemesis, the Green Goblin, as introduced to readers as the 'most dangerous foe Spidey's ever fought.' Writer Stan Lee and artist Steve Ditko had no way of knowing how true that statement would prove to be in the coming years.}}</ref> At this time his identity was unknown, but he proved popular and reappeared in later issues, which made a point of his [[secret identity]]. According to both Stan Lee and [[John Romita, Sr.]], who replaced Ditko as the title's artist, Lee always wanted the Green Goblin to be someone Peter Parker knew, while Ditko wanted his civilian identity to be someone who hadn't yet been introduced.<ref>Ro, Ronin. ''Tales to Astonish: Jack Kirby, Stan Lee and the American Comic Book Revolution'', p. 107 (Bloomsbury, 2004)</ref><ref>{{cite web|last1=Cronin|first1=Brian|title=Comic Book Legends Revealed #400 (Part 1)|url=http://goodcomics.comicbookresources.com/2013/01/04/comic-book-legends-revealed-400-part-1/|website=Comic Book Resources|accessdate=February 14, 2016|date=January 4, 2013}}</ref><ref name="Alter104">{{cite journal|last= Thomas|first= Roy|date= August 2011|title= Stan Lee's Amazing Marvel Interview!|journal= [[Alter Ego (magazine)|Alter Ego]]|issue= 104| page= 7|publisher= [[TwoMorrows Publishing]]}}</ref> Lee elaborated: "Steve wanted him to turn out to be just some character that we had never seen before. Because, he said, in real life, very often a villain turns out to be somebody that you never knew. And I felt that that would be wrong. I felt, in a sense, it would be like cheating the reader. ... if it's somebody you didn't know and had never seen, then what was the point of following all the clues? I think that frustrates the reader."<ref name="Alter104"/> However, Lee prefaced this statement by admitting that, due to his self-professed poor memory, he may have been confusing the Green Goblin with a different character,{{efn|It is possible that Lee was thinking of [[Big Man (comics)|The Big Man]]. The Big Man was a mob villain who, like the Green Goblin, was created by Lee/Ditko and had the mystery of his identity played up before being unmasked as someone Spider-Man knew from his civilian life. Moreover, later in the interview Lee suggests that he had the Green Goblin confused with "a gangster."}}<ref name="Alter104"/> and in an earlier essay he had said that he could not remember whether Norman Osborn being the Green Goblin was his idea or Ditko's.<ref>{{cite book|title=Spider-Man Vs. Green Goblin|date=August 1995|publisher=[[Marvel Comics]]|isbn=9780785101390|pages=4–5|edition=First|chapter=Preface}}</ref> Ditko has maintained that it was his idea, even claiming that he had decided on it before the first Green Goblin story was finished, and that a character he drew in the background of a single panel of ''Amazing Spider-Man'' #23 was meant to be Norman Osborn (who is not introduced until issue #37).<ref name="Ditko"/><ref>{{Cite web|url=http://goodcomics.comicbookresources.com/2013/01/04/comic-book-legends-revealed-400-part-1/|title=Comic Book Legends Revealed #400 (Part 1) {{!}} Comics Should Be Good @ CBR|date=January 4, 2013|language=en-US|access-date=July 17, 2016}}</ref>
+
+Ditko left the series with issue #38, just one issue after Norman Osborn was introduced as the father of [[Harry Osborn]]. The first issue without Ditko saw the Green Goblin unmasked. [[John Romita, Sr.]], who replaced Ditko as the title's artist, recalled: {{blockquote|Stan wouldn't have been able to stand it if Ditko did the story and didn't reveal that the Green Goblin was Norman Osborn. I didn't know there was any doubt about Osborn being the Goblin. I didn't know that Ditko had just been setting Osborn up as a straw dog. I just accepted the fact that it was going to be Norman Osborn when we plotted it. I had been following the last couple of issues and didn't think there was really much mystery about it. Looking back, I doubt the Goblin's identity would have been revealed in ''Amazing'' #39 if Ditko had stayed on.<ref>''Comics Creators on Spider-Man'', pg 29–30, Tom Defalco. (Titan Books, 2004)</ref>}}
+
+In the landmark story "[[The Night Gwen Stacy Died]]" (''The Amazing Spider-Man'' #121–122), the Green Goblin kills [[Gwen Stacy]] and later perishes in a fight against Spider-Man. However, the story's writer, [[Gerry Conway]], had Harry Osborn adopt the Green Goblin identity in the aftermath of "The Night Gwen Stacy Died", later remarking that "I never had any intention of getting rid of the Green Goblin as a concept".<ref>{{cite journal|last= Williams|first= Scott E.|date= October 2010|title= Gerry Conway: Everything but the Gwen Stacy Sink|journal= [[Back Issue!]]|issue= 44| page= 14|publisher= [[TwoMorrows Publishing]]}}</ref> Harry Osborn's becoming the Green Goblin was mostly well-received, with fans remarking that Harry was more menacing than his father had ever been.<ref>{{cite journal|last= Walker|first= Karen|date= October 2010|title= Gwen, the Goblin, and the Spider-Fans|journal= [[Back Issue!]]|issue= 44| page= 20|publisher= [[TwoMorrows Publishing]]}}</ref>
+
+Several other characters would take on the Green Goblin identity, and writer [[Roger Stern]] later introduced the [[Hobgoblin (comics)|Hobgoblin]] to replace the Green Goblin as Spider-Man's archenemy.<ref name="Creators">{{cite book |title=Comics Creators on Spider-Man |last=DeFalco |first=Tom |year=2004 |publisher=Titan Books |isbn=1-84023-422-9 }}</ref> In addition, a [[retcon]] during the "[[Clone Saga]]" determined that the original Green Goblin survived the events of ''The Amazing Spider-Man'' #122 and had been playing a behind-the-scenes role in Spider-Man's adventures since then.
+
+==Fictional character biography==
+
+===Norman Osborn===
+{{main|Norman Osborn}}
+'''Norman Osborn''' is the main character connected with the alias who developed the equipment used by the other Green Goblins ever since he was exposed to the Goblin Formula. He was also the cause of Gwen Stacy's death. He then died soon after, but was soon revived by the formula within him.
+
+===Harry Osborn===
+{{main|Harry Osborn}}
+'''Harry Osborn''', Norman Osborn's son, becomes the second Green Goblin. After being defeated and placed under the care of Dr. Bart Hamilton, Harry, while under hypnosis, reveals many Green Goblin secrets and Hamilton decides to become the third Green Goblin. Harry recovers and fights Hamilton until an explosion renders Harry [[amnesia]]c of his time as the Green Goblin and kills Hamilton.<ref name="ASM180">''The Amazing Spider-Man'' #180</ref> Years later, Harry's memories return<ref>''The Spectacular Spider-Man'' #177–180</ref> and he uses a new stronger Goblin serum to augment his power, but dies from it.<ref>''The Spectacular Spider-Man'' #200</ref> Harry would later return thanks to the machinations of [[Mephisto (comics)|Mephisto]] in "[[Spider-Man: One More Day|One More Day]]".
+
+===Bart Hamilton===
+'''Dr. Barton "Bart" Hamilton''' was a psychologist born in [[Scarsdale, New York]]. Before his death, Harry is put under the medical care of Dr. Hamilton, who manages to make Harry bury his vendetta and identity as the Goblin in his [[subconscious]] via [[hypnosis]].<ref>''The Amazing Spider-Man'' #174</ref> Dr. Hamilton uses Harry's secrets to become the third Green Goblin.<ref>''The Amazing Spider-Man'' #176</ref> However, Harry has no knowledge of where the Green Goblin strength-enhancing formula is, and Hamilton is thus unable to locate it. He hatches an elaborate plot to kill [[Silvermane]], but Harry Osborn resumes the Green Goblin identity to stop him. They battle and Hamilton is accidentally killed by a bomb with which he meant to kill Spider-Man, and Harry becomes amnesiac.<ref name="ASM180"/> Years later, there was speculation that Hamilton was the Hobgoblin, but this is disproved.<ref>''Hobgoblin Lives'' #1–3</ref>
+
+A Green Goblin that is presumably Hamilton appears as a member of the second incarnation of the [[Legion of the Unliving]], created by the [[Grandmaster (Marvel Comics)|Grandmaster]]. After being pitted against the Avengers, the group and their master are vanquished by [[Death (Marvel Comics)|Death]].<ref>''Avengers Annual'' #16</ref>
+
+During the ''[[Dead No More: The Clone Conspiracy]]'' storyline, Bart Hamilton's Green Goblin form is cloned by [[Ben Reilly|Jackal]] and his company New U Technologies.<ref>''Clone Conspiracy'' #2</ref>
+
+===Phil Urich===
+{{main|Phil Urich}}
+
+After Harry's insanity relapses and he becomes the Green Goblin again on numerous occasions until he dies from the side effects of a modified Goblin serum, his equipment and the Green Goblin identity are then briefly used by '''[[Phil Urich|Philip Benjamin "Phil" Urich]]''' (nephew of [[Ben Urich]] of the [[Daily Bugle]]) trying to gain a reputation as a [[superhero]], although he is sometimes seen as being as maniacal as his villainous predecessors. When his equipment is damaged during a battle against a [[Sentinel (comics)|Sentinel]] in the [[Onslaught (comics)|Onslaught]] crossover, Phil is unable to repair or replace it and the fourth Green Goblin thereafter retires. He later forms the team [[Loners (comics)|Excelsior]]. Currently, Phil has become the new Hobgoblin, but, after being caught by Spider-Man, he is broken out of jail and becomes the Goblin Knight, a servant of the Green Goblin.
+
+===Nameless construct===
+After returning from the dead, Norman begins trying to convince the public that he was never the Green Goblin, so he has an associate named Doctor Angst genetically engineer a new Green Goblin, one slavishly devoted to him, to help his case.<ref name = "PPSM18">''Peter Parker: Spider Man'' vol. 2, #18</ref> Norman uses the Goblin as a [[bodyguard]],<ref>''The Spectacular Spider-Man'' vol. 2, #259–261</ref> to torment Spider-Man,<ref>''Peter Parker: Spider-Man'' #88</ref> and in ploys (such as kidnapping [[Normie Osborn]] for [[ransom]]) designed to draw public sympathy.<ref>''The Spectacular Spider-Man'' vol. 2, #255</ref>
+
+After Norman is incapacitated by [[The Gathering of Five and The Final Chapter|the Gathering of Five]], the Goblin is left alone, and begins to degenerate due to no longer having access to the formula required to keep him stable. The Goblin goes after Harry Osborn's wife [[Liz Allan]] in a desperate bid to find a cure for his condition, but is driven off by Spider-Man.<ref>''The Amazing Spider-Man'' vol. 2, #18</ref> During a second attempt to capture Liz, the Goblin unmasks himself in front of Spider-Man (shuffling through a variety of faces, the most prominent being Harry, after doing so) and melts into a pile of goo as he claims Norman would return.<ref name = "PPSM18"/>
+
+==Powers and abilities==
+{{anchor|Weapons_as_the_Green_Goblin}}
+In his first appearances, the Green Goblin seems to be a normal man (albeit very nimble and athletic) who gets his powers from his many gadgets. In later appearances, it is established that due to the "Goblin Formula", Norman and most successor to the Goblin persona possesses superhuman strength (lifting 9 tons under optimal conditions), increased speed, reflexes, endurance, and healing rate. Though much slower than the likes of [[Wolverine (character)|Wolverine]], he can regenerate damaged tissue and organs. However, if seriously wounded, it would leave scars on his body. His intelligence has been enhanced to gifted levels, though at the price of his sanity. His involvement with the Gathering of the Five loosened his grip on reality, though he is able to maintain some semblance of his sanity via chemically treated dermal patches. When not impaired by [[mental illness]], Osborn is a cunning businessman, masterful strategist, and highly skilled in electronics, mechanics, engineering and chemistry. The Green Goblin is armed with a variety of bizarre devices. He travels on his [[bat]]-shaped "Goblin Glider", an incredibly fast and maneuverable rocket glider equipped with various armaments. Other weapons the Goblin uses include incendiary Pumpkin Bombs, smoke- and gas-emitting grenades resembling ghosts and jack-'o'-lanterns, razor-edged [[boomerang]]-like throwing weapons called razor bats and gloves woven with micro-circuited filaments which channel pulsed discharges of electricity at nearly 10,000 [[volt]]s. He wears a green costume underneath bulletproof [[mail (armour)|chainmail]] with an overlapping purple tunic. His mask has a built-in gas filter to keep him safe from his own gasses.
+
+===Goblin Glider===
+In the Green Goblin's first appearance in "The Amazing Spider-Man" #14, he rides a steel, rocket powered wingless broomstick, not a glider.  In issue #17, his second appearance, he changes it to the familiar bat-shaped glider.  The Goblin Glider's controls and [[microprocessor]] are located behind the head of the glider. The pilot is attached to the glider via [[electromagnetism|electromagnetic]] clasps on the wings of the glider. It has great maneuverability and is steered mostly by leaning, but manual controls are available behind the head of the glider. The Green Goblin later added radio-linked voice controls to his mask. Its top speed is {{convert|90|mi/h|km/h}}, and it can support about {{convert|400|lb|abbr=on}}, though it could lift far more for brief periods. Flying at top speed with a full load and a full fuel tank would deplete its fuel supply in about an hour.
+
+In the Goblin's later appearances, the glider possesses a wide array of armaments, including heat-seeking and smart missiles, machine guns, extending blades, a flamethrower and a pumpkin bomb dispenser/launcher.
+
+===Pumpkin Bombs, Ghost Bombs, and the "Bag of Tricks"===
+A [[grenade]] used by the Green Goblin, the Pumpkin Bomb resembles a miniature [[Jack-o'-lantern]] and, when thrown, ignites almost soundlessly and produces enough heat to melt through a {{convert|3|in|mm|adj=on}} thick sheet of steel. The Goblin carries these and a variety of other weapons, such as razor bats (akin to bladed boomerangs) and miniature "Ghost Bombs" in an over-the-shoulder [[satchel]] he calls his "Bag Of Tricks". The Green Goblin has a range of other "Pumpkin Bombs" and "Ghost Bombs" at his disposal, including smoke-and gas-emitting bombs. Some release [[Psychedelics, dissociatives and deliriants|hallucinogenic]] gases, while others emit a specially-created mixture that neutralizes [[Spider-Man]]'s spider-sense for a limited period of time.  Still others emit a flame-retarding gas, which the Goblin uses against the [[Human Torch]].<ref>"The Amazing Spider-Man", issue #17.</ref> All of these are covered in a light plastic coating.
+
+==Groups==
+
+===Goblinettes===
+Some time after Harry's death, his son Norman is abducted by a trio of mysterious female Goblins. With the aid of [[Ben Urich]] and [[Molten Man]], Spider-Man discovers that these "Goblinettes" are robots created by Harry, and controlled by a supercomputer containing copies of Harry and Norman's minds. The Goblinettes are destroyed along with the computer, which had been programmed to expose Normie to the same version of the Goblin Serum that killed Harry, in attempt to create a new Green Goblin.<ref>''Spider-Man: Legacy of Evil''</ref>
+
+===Order of the Goblin===
+An offshoot of the Scriers cult founded by Norman, consisting of only his most loyal followers.
+
+===Goblin Gangs===
+Following Norman Osborn's [[Dark Reign (comics)|rise]] and [[Siege (comics)|fall]] from power, a number of Goblin Gangs sprang up across America. Composed mostly of [[White supremacy|white supremacists]] who agreed with his plans to remove the [[Asgardians (Marvel Comics)|Asgardians]] from the country, they wear purple clothes, green face makeup and have goblin-based tattoos.<ref>''The Amazing Spider-Man'' #649</ref> [[Vin Gonzales]] was revealed to have received one of these tattoos while in prison when he passed a message from [[Norman Osborn|Norman]] to [[Harry Osborn|Harry]] about Stanley, Harry's newborn son.<ref>''The Amazing Spider-Man'' #647</ref>
+
+===Goblin Underground===
+The Goblin Underground is a group of organized crime composed of Goblin-themed villains led by Goblin King against their nemesis [[Doctor Octopus|Spider-Man]].
+
+=== War Goblins ===
+
+In the eight month [[timeskip]] that occurred subsequent to the events of ''[[Secret Wars (2015 comic book)|Secret Wars]]'', a heavily bandaged arms dealer claiming to be Norman Osborn began selling Green Goblin-based costumes and equipment on the [[black market]], establishing [[Private army|private armies]] of "War Goblins".<ref>{{Cite comic|writer = Dan Slott|penciller = Giuseppe Camuncoli|inker = Cam Smith|colorist = Marte Gracia|letterer = VC's Joe Caramagna|editor = Nick Lowe|story = High Priority|title = The Amazing Spider-Man|volume = 1|issue = #4|date = December 9, 2015|publisher = Marvel Comics|location = United States}}</ref>
+
+==Other versions==
+{{Main|Alternative versions of the Green Goblin}}
+As a fictional character, the Green Goblin has appeared in a number of media, from [[comic book]]s to [[film]]s and [[television program|television series]]. Each version of the character is typically established within its own [[continuity (fiction)|continuity]] within [[parallel universe (fiction)|parallel universes]], to the point where distinct differences in the portrayal of the character can be identified. Various versions of the Goblin are depicted in works such as Marvel's [[Ultimate Marvel|Ultimate line]] and ''[[Earth X]]''.
+
+==In other media==
+{{Main|Green Goblin in other media}}
+The Green Goblin has also appeared in many [[Spider-Man in other media|''Spider-Man'' related media]].
+
+==Notes==
+{{notelist}}
+
+==References==
+{{reflist|30em}}
+
+==External links==
+* [http://www.marvel.com/universe/Green_Goblin_(disambiguation) Green Goblin (disambiguation)] at the Marvel Universe
+* [[MarvelDatabase:Green Goblin|Green Goblin]] at the Marvel Database Project
+
+{{Goblin (Marvel Comics)}}
+{{Spider-Man characters}}
+{{Avengers}}
+{{Black Cat}}
+{{Sinister Six}}
+{{Stan Lee}}
+{{The Joker}}
+
+[[Category:Animated series villains]]
+[[Category:Spider-Man characters code names]]
+[[Category:Fictional goblins]]
+[[Category:Fictional mass murderers]]
+[[Category:Fictional serial killers]]
+[[Category:Marvel Comics titles]]
+[[Category:Fictional murderers]]
+[[Category:Fictional assassins]]

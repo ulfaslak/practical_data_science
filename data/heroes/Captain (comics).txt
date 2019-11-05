@@ -1,0 +1,56 @@
+{{dablink|For Steve Rogers, who was the first character known as "The Captain," see [[Captain America]].}}
+{{merge to|Nextwave|discuss=Talk:Nextwave#Proposed merge with Captain (comics)|date=January 2019}}
+{{refimprove|date=July 2016}}
+
+{{Infobox comics character| <!--Wikipedia:WikiProject Comics-->
+image=<!-- Deleted image removed:  [[Image:Thecaptain.png]] -->
+|caption=Art by Stuart Immonen
+|character_name=Captain
+|real_name= 
+|publisher=[[Marvel Comics]]
+|debut=''[[Nextwave]] #1'' January 2006
+|creators=[[Warren Ellis]]<br />[[Stuart Immonen]]
+|alliances=[[H.A.T.E.]]<br>[[Nextwave]]
+|aliases=Captain ☠☠☠☠, [[Captain Power]], [[Captain Ron]], Captain [[L. Ron Hubbard|L. Ron]], [[Captain Universe]], [[Captain Ultra]], Captain [[Avengers (comics)|Avenger]], Captain [[Avalon (Roxy Music album)|Avalon]], [[Captain Marvel (Marvel Comics)|Captain Marvel]], Captain [[Kerosene]]
+|powers=Superhuman strength and endurance<br>Flight<br>Enhanced sight
+}}
+
+'''The Captain''' (formerly '''Captain ☠☠☠☠''', with the crosses denoting censorship of an [[Profanity|expletive]]) is a [[fictional character]] appearing in [[American comic book]]s published by [[Marvel Comics]]. He is a satiric superhero appearing in the book ''[[Nextwave]]''. He was created by [[Warren Ellis]] and [[Stuart Immonen]] and first appeared in ''Nextwave'' #1 (January 2006).
+
+In 2006 Editor-in-Chief [[Joe Quesada]] stated that Nextwave's setting was in a universe separate from the main Marvel continuity.<ref>Wade Gum (2006-07-01). "Heroes Con: Joe Quesada Panel", {{cite web |url=http://www.wizarduniverse.com/magazine/wizard/000765389.cfm |title=Archived copy |accessdate=2007-07-11 |deadurl=yes |archiveurl=https://web.archive.org/web/20070711133600/http://www.wizarduniverse.com/magazine/wizard/000765389.cfm# |archivedate=2007-07-11 |df= }}</ref> However, recent issues of [[Official Handbook of the Marvel Universe]], as well as ''Civil War: Battle Damage Report'',<ref name="civilwarbattledamage">{{Comic book reference | Writer = [[Anthony Flamini]] & [[Ronald Byrd]] | Penciller =  [[Scott Kolins]] | Inker = [[Scott Kolins]] | Story =  | Title = Civil War: Battle Damage Report | Issue = 1 | Date = March 2007 | Publisher = [[Marvel Comics]] | }}</ref> consistently place Nextwave's activities in mainstream continuity.
+
+According to Warren Ellis' series proposal (within Volume 1's collection of stories), he stated that the Captain was pretty much every pointless character who utilized "Captain" in his codename.
+
+==Fictional character biography==
+===Nextwave===
+Little is known about the Captain's past before he joined [[H.A.T.E.]], the organization which assembled Nextwave. One flashback shows that when he was a child, his mother [[Hanging|hanged]] his favorite teddy bear, Special Bear; due to this, he dislikes teddy bears even in adulthood. (As with all of the flashbacks shown in the series, the accuracy of this memory is suspect, as ''[[Civil War (comics)#Comic tie-ins|Civil War: Battle Damage Report]]'' states that members of Nextwave may have had memories altered by the [[Beyond Corporation©]]) He claims to be "from ☠☠☠☠ Brooklyn".
+
+The Captain gained his powers from "the Heartstar of the space between the galaxies",<ref>Nextwave #4</ref> also referred to as the "[[Messiah|Messianic]] [[Siddhi|Siddhe]]-[[Messiah complex|complex]]," which was bestowed upon him by a pair of small, green, [[Altruism|altruistic]] [[Extraterrestrial life|extraterrestrials]] named Spa-Fon and Squa-Tront<ref>''Spa-Fon'' (1968-?) and ''Squa Tront'' (1967-?) were the names of [[EC Comics|EC]] [[Fanzine#Comics|fanzines]] that have been published and republished intermittently since the late 1960s. Apparently the 'zines names were drawn from EC science fiction comic dialog. "Spa-Fon!" and "Squa Tront!" were derived from alien-language phrases expressing surprise, equivalent to "Oh, My Lord!" (both first used in "The Aliens", drawn by [[Al Williamson]], ''[[Weird Fantasy]]'' #17 [Jan-Feb 1953]).</ref> in order to make [[Brooklyn]] a better place. As the Captain was incredibly drunk at the time, it is unknown if he remembers this event exactly, as he immediately attacked both aliens, believing them to be gold-bearing [[leprechaun]]s.
+
+By his own admission, he used to go by Captain ☠☠☠☠, a moniker so offensive that, when he met [[Captain America]], the Avenger beat him severely and left him unconscious in a dumpster with a bar of [[soap]] in his mouth. The Captain used a lot of codenames as well, all of them starting with 'Captain', and had to abandon them all because someone else was already using them. In ''Nextwave'' #7 he mentions that he had to pay a "marine-looking [[motherfucker|melon farmer]]" to even use his current codename.
+
+The Captain continues to use his codename in the Nextwave group while the other members have dropped them; according to [[Machine Man|Aaron Stack]], this is due to an inability to remember his real name. According to the official theme song of the comic, in tone with the satirical quality of the stories, he doesn't have a name anymore at all, with "The Captain" serving both as a moniker, and as an impromptu first name.
+
+Similar to the rest of Nextwave, the Captain dresses in civilian clothes—sneakers, [[camouflage]] pants, a trenchcoat, and a white T-shirt with a black star which resembles the Heartstar—despite becoming a superhero "for the mask," as he stated in issue #1.
+
+The Captain is extremely cynical, foul-mouthed, and hard-drinking. His age is as yet undetermined, but he has said his mother conceived him while listening to [[Roxy Music]]'s 1982 album ''[[Avalon (Roxy Music album)|Avalon]]''.
+
+A text box in one issue states that, despite his name, he is not actually the captain of anything.
+
+===Initiative===
+The Captain and other ''Nextwave'' members appear on the [[:Image:Avengers Initiavive number 1.jpeg|solicited cover]] to ''[[Avengers: The Initiative]]''.<ref>[https://archive.is/20120526061017/http://www.marvel.com/news/comicstories.947 Avengers: The Initiative #1 Character Map]</ref>
+
+==="Civil War II"===
+The Captain resurfaces in the 2016 "[[Civil War II]]" storyline, reduced to possible homelessness and whiling away his time in New York City's dive bars. He is spurred back into action when [[Nova (Sam Alexander)|Nova]]'s battle with the forces of Mole Monster causes his beer to spill, an innocuous occurrence that the Captain interprets as an epiphany-inducing "metaphor for something".<ref>{{Cite comic|writer = Sean Ryan|penciller = R.B. Silva|inker = Adriano Di Benedetto|colorist = Andres Mossa|letterer = Deschesne, Albert|editor = Devin Lewis|title = [[Nova (Sam Alexander)|Nova]]|volume = 6|issue = #9|date = June 2016|publisher = Marvel Comics|location = New York}}</ref>
+
+==References==
+{{reflist}}
+
+==External links==
+* [https://web.archive.org/web/20161209013607/http://www.marvunapp.com/list/appcharc.htm List of obscure Marvel characters named 'Captain ____']
+
+[[Category:Fictional military captains]]
+[[Category:Marvel Comics characters with superhuman strength]]
+[[Category:Marvel Comics mutates]]
+[[Category:Marvel Comics superheroes]]
+[[Category:Characters created by Warren Ellis]]

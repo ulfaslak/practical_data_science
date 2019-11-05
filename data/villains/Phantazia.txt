@@ -1,0 +1,58 @@
+{{merge to|List of Marvel Comics characters: P|discuss=Talk:List of Marvel Comics characters: P#Proposed merge with Phantazia|date=September 2018}}
+{{Infobox comics character| <!--Wikipedia:WikiProject Comics--> 
+|image=Phantazia_without_costume_from_X-Men_Unlimited.jpg
+|image_size=150
+|caption= Phantazia without her costume<br>Art by [[Jan Duursema]]
+|character_name=Phantazia
+|real_name=Eileen Harsaw
+|species=[[Mutant (Marvel Comics)|Depowered Mutant]]
+|publisher=[[Marvel Comics]] 
+|debut=''[[X-Force]]'' #6 (Jan 1992)
+|creators=[[Fabian Nicieza]] (writer)<br>[[Rob Liefeld]] (artist)
+|alliances=[[Brotherhood of Mutants]]
+|aliases=
+|powers= Electromagnetic energy wavelength manipulation/disruption; invisibility, flight
+}} 
+
+'''Phantazia''' ('''Eileen Harsaw''') is a fictional [[Mutant (Marvel Comics)|mutant]] supervillain appearing in [[American comic book]]s published by [[Marvel Comics]]. The character first appeared in ''[[X-Force]]'' #6 (1992).
+
+==Fictional character biography==
+Phantazia was recruited by [[Toad (comics)|Toad]] into his lineup of the [[Brotherhood of Mutants]]. She was one of the more powerful members of the group, possessing a mutant ability that allowed her to manipulate and disrupt not only the electronic systems and weaponry of her opponents, but their physical senses and superhuman powers as well. Her first mission with the Brotherhood led her to battle the mutant strike force called [[X-Force]].{{issue|date=December 2012}} There, she easily located the team's hidden bunker, shut off [[Cable (comics)|Cable's]] weaponry, and disrupted [[Cannonball (comics)|Cannonball]]'s blast field, allowing [[Sauron (comics)|Sauron]] to stab him in the chest.<ref>''X-Force'', vol. 1 #7</ref>
+
+After [[Thornn (comics)|Thornn]]'s defeat, Phantazia fled, leaving [[Masque (comics)|Masque]] to be killed by [[Shatterstar]]'s sword.{{issue|date=December 2012}} Other missions set the Brotherhood up against [[X-Factor (comics)|X-Factor]],{{issue|date=December 2012}} [[Darkhawk]],{{issue|date=December 2012}} [[Spider-Man]],{{issue|date=December 2012}} and [[Sleepwalker (comics)|Sleepwalker]].{{issue|date=December 2012}} Eventually, Phantazia was invited to [[Providence (comics)|Avalon]], a mutant sanctuary, by [[Exodus (comics)|Exodus]]. She rejected the offer and stayed with the Brotherhood.{{issue|date=December 2012}} [[Pyro (Marvel Comics)|Pyro]]'s sickness was getting to him, so they stayed with the mutant [[Empyrean (comics)|Empyrean]], who could ward off Pyro's pain.{{issue|date=December 2012}} The [[X-Men]] eventually found out what was going on and during the battle, Phantazia was defeated by a strike from [[Psylocke]]'s psychic blade.{{issue|date=December 2012}} After the skirmish, Phantazia departed the island with her teammates.{{issue|date=December 2012}} Though the Brotherhood would make several appearances after this, she was not seen among their roster.
+
+Phantazia resurfaced in the altered reality of [[House of M]] as one of [[Magneto (comics)|Magneto]]'s daughters.{{issue|date=December 2012}} After the timeline was restored, she was confirmed as one of the many mutants who lost their powers on [[Decimation (comics)|M-Day]].{{issue|date=December 2012}} She is held in [[S.H.I.E.L.D.]]'s psychological ward, apparently having been reduced to a partial [[catatonic]] state by the trauma of the reality shift. S.H.I.E.L.D. Director Maria Hill states in a conversation with Iron Man (Tony Stark) that Eileen has been muttering the words "House of M" repeatedly in her cell for some time after losing her powers.<ref>''New Avengers'', vol. 1 #16</ref> 
+
+Later an alternate Earth version of her, with powers intact, assisted Raze's Brotherhood against the X-Men. <ref>X-Men: No More Humans</ref>
+
+==Powers and abilities==
+Phantazia is a former mutant who possessed the ability to sense and manipulate electromagnetic energy fields.
+
+As a mutant, Phantazia was able to sense, manipulate, and disrupt various fields and wavelengths of various forms of energy (she has referred to her power as 'harmonizing'). Though the upper limits of her powers were never clearly defined, it is assumed that Phantazia could use her power to disrupt anything of an electromagnetic nature. This ability allowed her to levitate herself, presumably by using her power to create an anti-gravity field around herself.
+
+By disrupting the electrical fields of machinery, Phantazia could short them out completely, or control them to some degree; opening computer-locked doors, jamming weapon and targeting systems, etc.  Phantazia was able to disrupt the bioelectric energy fields and nervous systems of other living beings as well, resulting in pain, paralysis, loss of physical coordination, and in the case of superhumans, the inability to control their powers, causing them to fluctuate in strength, cease functioning altogether, or spew out uncontrollably.  She has, for example, disrupted the blast field of [[Cannonball (comics)|Cannonball]], making him vulnerable, and also caused the superhero [[Sleepwalker (comics)|Sleepwalker]] to temporarily lose control of his reality-warping ability.  
+
+Phantazia could also generate a masking effect, rendering herself and others near her undetectable to human senses and electronic surveillance. Her power also granted her the ability to sense various forms of energy in her environment, such as electronic devices and the atmospheric distortion preceding a teleportation event.
+
+Phantazia's powers required her conscious will to activate, as she was once caught off guard by a surprise energy blast from [[Darkhawk]].
+
+==Other versions==
+===Age of Apocalypse===
+Phantazia had a very brief appearance in the [[Age of Apocalypse]] storyline, in which she was one of the prisoners of Sinister's Breeding Pens. She was one of the countless victims of the [[Dark Beast]]'s genetic experiments, to the point that she lost her hair and was too weak to use her powers. She tried to escape with other prisoners, but was quickly recaptured, being too weak to defend herself. She and her companions were returned to Dark Beast, who killed them by dissolving them into his genetic "soup".{{issue|date=January 2013}}
+
+===House of M===
+Phantazia was seen as part of Magneto's elite guard. Phantazia was one of but a few people to remember the events of House of M, although this led to her going insane.{{issue|date=January 2013}}
+
+==References==
+{{reflist}}
+
+{{Brotherhood of Evil Mutants}}
+
+[[Category:Characters created by Fabian Nicieza]]
+[[Category:Characters created by Rob Liefeld]] 
+[[Category:Comics characters introduced in 1992]]
+[[Category:Female characters in comics]]
+[[Category:Female supervillains]]
+[[Category:Fictional characters who can turn invisible]]
+[[Category:Marvel Comics mutants]]
+[[Category:Marvel Comics supervillains]]

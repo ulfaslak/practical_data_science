@@ -1,0 +1,75 @@
+{{Infobox comics set index <!--Wikipedia:WikiProject Comics-->
+|code_name  = Iron Man
+|image      = <!-- filename format only -->
+|imagesize  = <!-- default 250 -->
+|caption    = 
+|publisher  = [[Marvel Comics]]
+|debut      = ''[[Tales of Suspense]]'' #39
+|debutmo    = March
+|debutyr    = 1963
+|debutyr1   = 
+|debutyr2   = 
+|debutyr3   = 
+|debutyr4   = 
+|debutyr5   = 
+|debutyr6   = 
+|debutyr7   = 
+|debutyr8   = 
+|creators   = [[Stan Lee]]<br />[[Larry Lieber]]<br />[[Don Heck]]<br />[[Jack Kirby]]
+|characters = [[Iron Man|Tony Stark]]<br />[[Weasel Wills]]<br />[[Happy Hogan (comics)|Happy Hogan]]<br />[[Life Model Decoy|Tony Stark LMD]]<br />[[Eddie March]]<br />[[War Machine|James Rhodes]]<br />[[Iron Man#Late 1980s and 1990s|Teen Tony Stark]]
+|seealso    = [[Alternative versions of Iron Man]]
+|cat        = super
+|subcat     = Marvel Comics
+|hero       = y
+|sortkey    = Iron Man
+}}
+
+'''[[Iron Man]]''' is the name of several [[fictional character]]s appearing in [[American comic book]]s published by [[Marvel Comics]]. The first, and main, character is Tony Stark, who was created by writers [[Stan Lee]] and [[Larry Lieber]] and artists [[Don Heck]] and [[Jack Kirby]]. Other characters have adopted the alias over the years, using it both for good and bad (but mostly good).
+
+==Fictional character biographies==
+===Tony Stark===
+{{main|Iron Man}}
+'''Tony Stark''' - A billionaire scientist and playboy, Stark created the first Iron Man armor when injured after being taken captive by terrorists, using it to escape. In the years that followed, he created dozens more armors, and was the user of the Iron Man identity for most of that time.
+
+===Weasel Wills===
+'''Weasel Wills''' - A two-bit thief who broke into Stark Industries, Wills stole the [[Iron Man's armor#Iron Man Armor MK III (Original Red & Gold)|MK III Iron Man armor]] and used it and the identity to criminally benefit himself. Within a short amount of time, he was defeated by Tony Stark, who was wearing the [[Iron Man's armor#Iron Man Armor MK II (Golden Avenger)|MK II Iron Man armor]].<ref>Tales of Suspense #65 (May 1965)</ref>
+
+===Happy Hogan===
+{{main|Happy Hogan (comics)}}
+'''Happy Hogan''' - Tony Stark's chauffeur/bodyguard, Hogan first donned the armor of Iron Man when Stark was hospitalized (and to make people think Stark and Iron Man weren't one and the same). He has become Iron Man various times since.<ref>Tales of Suspense #84 (December 1966)</ref>
+
+===Tony Stark LMD===
+{{main|Life Model Decoy}}
+A '''Tony Stark LMD''' once went rogue and took the Iron Man role, pretending to be the real one.<ref>Iron Man vol. 1 #17 (September 1969)</ref> It was in turn defeated by the real Stark wearing the MK II armor<ref>Iron Man vol. 1 #18 (October 1969)</ref>
+
+===Eddie March===
+{{main|Eddie March}}
+'''Eddie March''' - March, a retired boxer, assumed the role of Iron Man when Tony Stark no longer wanted it. A blood clot in his brain brought his brief stint to an end, but he survived the ordeal and remained friends with Stark.<ref>Iron Man vol. 1 #21 (January 1970)</ref>
+
+===James Rhodes===
+{{main|War Machine}}
+'''James Rhodes''' - A longtime friend and associate of Tony Stark, Rhodes became Iron Man when Stark fell back into alcoholism as a result of the machinations of [[Iron Monger|Obadiah Stane]].<ref>Iron Man vol. 1 #170 (May 1983)</ref> He took on the role again a few more times before becoming [[War Machine]], a hero on his own right.
+
+===Teen Tony Stark===
+When Tony Stark was taken control of by [[Kang the Conqueror]], the [[Avengers (comics)|Avengers]] recruited '''a teenage version of Stark'''.<ref>Avengers: Timeslide #1 (February 1996)</ref>
+
+==See also==
+* [[Alternative versions of Iron Man]]
+
+==References==
+{{reflist}}
+
+==External links==
+*{{comicbookdb|type=character|id=203|title=Iron Man (Tony Stark)}}
+*{{comicbookdb|type=character|id=36677|title=Weasel Wills}}
+*{{comicbookdb|type=character|id=4698|title=Iron Man (Happy Hogan)}}
+*{{comicbookdb|type=character|id=31341|title=Iron Man (Eddie March)}}
+*{{comicbookdb|type=character|id=4700|title=Iron Man (James Rhodes)}}
+*{{comicbookdb|type=character|id=6189|title=Iron Man (Teen Tony Stark)}}
+
+{{Iron Man}}
+
+{{SIA|comics}}
+
+[[Category:Iron Man]]
+[[Category:Incarnations of comics characters]]

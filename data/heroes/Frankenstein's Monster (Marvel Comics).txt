@@ -1,0 +1,135 @@
+{{Infobox comics character <!--Wikipedia:WikiProject Comics--> 
+|character_name=Frankenstein's Monster
+|image=MonsterOfFrankenstein1.jpg
+|converted=y
+|imagesize=
+|caption=''The Monster of Frankenstein'' #1 (Jan. 1973). Cover art by [[Mike Ploog]]<!--both pencils & inks per GCD-->
+|real_name=
+|species=
+|publisher=[[Marvel Comics]]
+|debut='''(Atlas Comics)''':<br>''Menace'' #7 (Sept. 1953)<br>'''(Marvel Comics)''':<br>''[[Silver Surfer (comic book)|The Silver Surfer]]'' #7 (Aug. 1969) 
+|creators=[[Stan Lee]]<br>[[Joe Maneely]] 
+|alliances=[[Legion of the Unliving]]<ref name="Avengers #131">''Avengers'' #131</ref><br>[[First Line (comics)|First Line]]<br>Fearsome Four<br>[[Howling Commandos]] 
+|aliases=Frankenstein, Adam
+|powers=Superhuman strength and stamina<br>Resistance to extreme cold temperatures 
+|cat=super
+|subcat=Marvel Comics
+|hero=y
+|sortkey=Frankenstein&#39;s Monster (Marvel Comics)
+|}}
+
+'''Frankenstein's Monster''' is a [[Character (arts)|fictional character]] appearing in [[American comic book]]s published by [[Marvel Comics]]. The character is based on the [[Frankenstein's monster|character]] in the novel ''[[Frankenstein]]'' by [[Mary Shelley]]. The character has been [[Frankenstein (comics)|adapted often]] in the [[comic book]] [[mass media|medium]].
+
+==Publication history==
+The first appearance of Frankenstein's Monster in the [[Marvel Comics Universe]] came in the five-page [[horror comics]] story "Your Name Is Frankenstein", by writer-editor [[Stan Lee]] and artist [[Joe Maneely]] in ''Menace'' #7 (Sept. 1953),<ref>[http://www.comics.org/issue/215837/ ''Menace'' #7 (Sept. 1953)] at the [[Grand Comics Database]]</ref><ref>Baron Frankenstein, though not the Monster, had earlier appeared in the story [http://www.comics.org/issue/6012/#61077 "Horror at Haunted Castle"] in ''[[Blonde Phantom]] Comics'' #14 (Summer 1947), from Marvel's 1940s predecessor, [[Timely Comics]].</ref> from Marvel's 1950s forerunner, [[Atlas Comics (1950s)|Atlas Comics]]. The following decade, a [[robot]] replica of Frankenstein's Monster appeared as an [[antagonist]] in ''[[The X-Men]]'' #40 (Jan. 1968), by writer [[Roy Thomas]] and [[penciler]] [[Don Heck]],<ref name="gcdx40">[http://www.comics.org/issue/21601/ ''X-Men'' #40 (Jan. 1968)] at the Grand Comics Database</ref> and was destroyed by the titular team of [[Mutant (Marvel Comics)|mutant]] [[superheroes]]. The actual Monster first appeared in Marvel Comics continuity in a [[cameo appearance|cameo]] [[Flashback (narrative)|flashback]] in "The Heir of Frankenstein" in ''[[The Silver Surfer]]'' #7 (Aug. 1969), by writer-editor Lee and penciler [[John Buscema]].<ref>[http://www.comics.org/issue/22912/#161063 ''Silver Surfer, The'' #7 (Aug. 1969)] at the Grand Comics Database</ref>
+
+The character received an ongoing series, titled ''Frankenstein'' in the postal [[indicia (publishing)|indicia]] and initially ''The Monster of Frankenstein'' (issues #1-5) and later ''The Frankenstein Monster'' as the cover logo, that ran 18 issues (Jan. 1973 - Sept. 1975).<ref>{{gcdb series|id=2119|title=''Frankenstein''}}</ref><ref>{{comicbookdb|type=title|id=8463|title=''Frankenstein''}}</ref> This series began with a three-issue retelling of the original novel, by writer [[Gary Friedrich]] and artist [[Mike Ploog]]. Several more issues continued his story into the 1890s, until he was placed in [[suspended animation]] and revived in modern times.
+
+Thomas, Marvel Comics' editor-in-chief at that point in the 1970s, recalled in 2009:
+{{quote|text=I'd been working with [artist] [[Dick Giordano]] adapting [[Bram Stoker]]'s ''[[Dracula (novel)|Dracula]]'' [in the black-and-white horror-comics magazine ''Vampire Tales'', published by Marvel parent company [[List of magazines publisher by Marvel Comics in the 1970s|Magazine Management]]<nowiki>]</nowiki>, so I wanted to start with the Shelley ''Frankenstein'' [novel], then bring [Frankenstein's Monster] into the present. But eager as I was to work with Mike Ploog on ''Frankenstein'', I just didn't have the time. So I turned the project over to Gary, who did a fine job with it.<ref>Roy Thomas interviewed in Browning, Michael. "The Monster of Frankenstein", ''Back Issue'' #36, October 2009, p. 11</ref>}}
+
+Friedrich in 2009 said he did not recall "whose idea it was to do a Frankenstein book", noting that "at this time, Marvel was cranking up the gears on the monster mags", which were introducing such new characters as [[Werewolf by Night]] and [[Ghost Rider (Johnny Blaze)|Ghost Rider]].<ref>Gary Friedrich interviewed in Browning. p. 11</ref> Ploog based his rendition of the Monster on a drawing by [[John Romita, Sr.]], Marvel's [[art director]], who was instructed to make the character dissimilar to the familiar [[Universal Pictures]] movie version.<ref>Browning, pp. 11-12</ref>
+
+Ploog drew the first six issues, self-[[inker|inked]] except for issues #4-5, which were embellished by Marvel [[production manager]] and occasional inker [[John Verpoorten]]. The following four issues were penciled by John Buscema. After a final Friedrich-written issue, drawn by [[Bob Brown (comics)|Bob Brown]], the creative team of writer [[Doug Moench]] and penciler [[Val Mayerik]] brought the Monster from the 19th century to the present day, beginning with issue #12 (Sept. 1974). The duo continued through the final issue, with [[Bill Mantlo]] rather than Moench writing the finale.<ref>[http://www.maelmill-insi.de/UHBMCC/frankst.htm#S927 The Unofficial Handbook of Marvel Comics Creators: ''Frankenstein • The Monster of Frankenstein • The Frankenstein Monster'' (1973-1975)]</ref>
+
+Ploog had departed, Thomas recalled, because "Marvel was in a great surge of growth at that time, which resulted in frequent changes on artist/writer lineups on many, if not most of the titles. Mike was quite busy then".<ref>Thomas in Browning, p. 13</ref> Ploog recalled disliking the planned change to bring the Monster into the present-day Marvel Universe. "I couldn't see Frankenstein battling with [[Spider-Man]] on [[42nd Street (Manhattan)|42nd Street]]".<ref>Mike Ploog interviewed in Browning, p. 13</ref> His successor, Buscema, was an established veteran and one of Marvel's premier artists. Friedrich said, "Working with Buscema [on the series] was a wonderful experience. John could draw about any type [of] book you could imagine. ... We never had a disagreement about anything, and his storytelling sense was superb".<ref>Friedrich in Browning, p. 13</ref> The series ended "because sales weren't good enough", Thomas recalled. "At the start, the book [had] sold well".<ref>Thomas in Browning, p. 14</ref>
+
+Concurrent with the color-comics series, the character appeared in his own modern-day feature in two of Curtis' black-and-white horror-comics magazines: ''[[Monsters Unleashed (comics)|Monsters Unleashed]]'' #2, 4-10 (Sept. 1973, Feb. 1974 - Feb. 1975), by the Friedrich/Buscema team initially, followed by the Moench/Mayerik team; and in ''Legion of Monsters'' #1 (Sept. 1975), by Moench and Mayerik.
+
+During the 1970s, the Monster guest-starred in the [[superhero]] titles ''[[Avengers (comics)|The Avengers]]'' #131-132 (Jan.-Feb. 1975); ''[[Marvel Team-Up]]'' #36-37 (Aug.-Sept. 1975), appearing in the latter series opposite [[Spider-Man]]; and ''[[Iron Man (comic book)|Iron Man]]'' #101-102 (Aug.-Sept. 1977); and in the supernatural title ''[[Tomb of Dracula]]'' #49 (Oct. 1976). As well, writer John Warner and artist [[Dino Castrillo]] adapted the Shelley novel in ''[[Marvel Classics Comics]]'' #20 (1977), in a 48-page story outside mainstream Marvel continuity. The character made only two Marvel appearances in the 1980s.<ref>''[[Fantastic Four]]'' #274 (Jan. 1985), continued in the spin-off title ''[[Ben Grimm|The Thng]]'' #19 (Jan. 1985)</ref> The first four issues of ''The Monster of Frankenstein'' were reprinted in the [[miniseries]]  ''[[Book of the Dead (comics)|Book of the Dead]]'' #1-4 (Dec. 1993 - March 1994). Also that decade, he again confronted Spider-Man in ''Spider-Man Unlimited'' #21 (Aug. 1998).
+
+In the 21st century, the Monster appeared prominently in the four-issue miniseries ''[[Elsa Bloodstone|Bloodstone]]'' (Dec. 2001 - March 2002), and starred in a 14-page story, "To Be a Monster" by writer-artist [[Skottie Young]] in ''Legion of Monsters: Werewolf by Night'' #1 (April 2007).
+
+==Fictional character biography==
+Frankenstein's Monster was built from human corpses by a scientist named Victor Frankenstein, in Ingolstadt, Bavaria, in the late 18th century. His efforts to fit in with regular humanity were futile due to his horrific form, and he was infuriated. Victor Frankenstein created and subsequently killed a mate for the Monster, who killed Frankenstein's bride Elizabeth in retaliation. After killing several people, the Monster fled to the Arctic. His creator pursued him, but died due to the cold. The Monster, anguished, tried to kill himself but only went into a state of suspended animation from the cold.<ref>The Monster related these events to 19th century Captain Robert Walton IV in ''The Monster of Frankenstein'' #1-4</ref>
+
+In 1898, heat revived the Monster and he wandered again. He searched for the descendant of Victor Frankenstein and finally ended up in Transylvania. The Monster clashed with [[Dracula (Marvel Comics)|Dracula]], and his vocal cords were injured. Vincent Frankenstein finally found him and tried to give him a new brain, dying in the process as he was shot by an angry maidservant before the Monster could kill him. Frustrated, the Monster returned to a state of suspended animation.<ref>''The Frankenstein Monster'' #8-9</ref>
+
+At some point, the Monster was temporarily pulled out of time to serve in [[Kang the Conqueror]]'s [[Legion of the Unliving]] to fight the [[Avengers (comics)|Avengers]].<ref name="Avengers #131" />
+
+The Monster eventually emerged from suspended animation in a glacier and into the modern world.<ref>''Monsters Unleashed'' #2</ref> After several adventures (during one of which his brain was transferred with that of a scientist longing for a new life, then a rat, and later restored,<ref>''Monsters Unleashed'' #4-6</ref> and another in which he first battled, then aided, the [[Werewolf by Night]] (Jack Russell)),<ref>''Giant-Size Werewolf'' #2</ref> he was aided by Veronica Frankenstein, a distant relative of his creator. This woman was kindly, and repaired his vocal cords.<ref>''The Frankenstein Monster'' #16</ref> Later, the Monster met and joined Veronica's sister, Baroness Victoria Frankenstein and her charges, the Children of the Damned, beings who were created by Basil and Ludwig Frankenstein's failed human experiments.<ref>''The Frankenstein Monster'' #18</ref>
+
+The Monster was captured, along with [[Spider-Man]] and the [[John Jameson (comics)|Man-Wolf]] by Baron Ludwig von Schtupf, a.k.a. the Monster Maker, to be used to create an army of amalgamated monsters with the Monster's superhuman strength, Spider-Man's wall-crawling powers and the Man-Wolf's appearance. Von Schtupf was defeated by Spider-Man and the Monster, then Spider-Man defeated the Man-Wolf on his own. Both of them were taken into custody of [[S.H.I.E.L.D.]], due to S.H.I.E.L.D. agent Judith Klemmer's involvement in the case.<ref>''Marvel Team-Up'' #36-37</ref> 
+
+Victoria discovered the man who would become the [[Dreadknight]] while he was dying in the wilderness. While under her care, he gained a variety of weapons and took possession of the Hellhorse, the flying mutant horse (which the Children found and Victoria, using her ancestor's methods, tried to restore to normal, but instead only mutated it further) employed by the original criminal [[Black Knight (Nathan Garrett)|Black Knight]]. He attempted to force more resources from Victoria and took over the new Castle Frankenstein, but was defeated by the Monster and [[Iron Man]].<ref>''Iron Man'' #101-102</ref> The Dreadknight, left wounded at the finale of the battle, was returned to Victoria's custody, though he later escaped with the Hellhorse and his personal weaponry.
+
+The Monster then met Spider-Man for a second time.<ref>''[[Spider-Man Unlimited (comics)#1993 series (vol. 1)|Spider-Man Unlimited]]'' vol. 1 #21</ref>
+
+The Monster later departed from Victoria's company.<ref>As related in ''Doctor Strange'' vol. 2 #37</ref>
+
+[[Ulysses Bloodstone]] later befriended the Monster, who came to occasionally stay at his mansion, eventually acting as its caretaker. The Monster, sometimes using the name Adam, accompanied Bloodstone on missions. Bloodstone trusted Adam to give his daughter [[Elsa Bloodstone|Elsa]] a fragment of the Bloodgem in the Bloodstone choker when she was old enough.
+
+When exploring Bloodstone House, an adult Elsa discovers a secret chamber in which she encounters Adam who tells Elsa about her father. Adam gives her the Bloodstone Choker, which attaches itself to her neck. Adam later designs a costume for Elsa, patterned after her father's. The two have a number of adventures together, encountering beings such as Dracula and [[N'Kantu, the Living Mummy]]. Elsa lives in Bloodstone Manor with her mother and ally Adam the Frankenstein Monster, while pursuing a monster-hunting occupation.<ref>''[[Elsa Bloodstone|Bloodstone]]'' #1-4</ref>
+
+At some point, an intelligent clone of the monster, simply named Frankenstein, was created. The clone became a member of [[S.H.I.E.L.D.]]'s Paranormal Containment Unit, nicknamed the [[Nick Fury's Howling Commandos|Howling Commandos]].<ref name="ReferenceA">''Nick Fury's Howling Commandos'' #1</ref>
+
+During the ''[[Fear Itself (comics)|Fear Itself]]'' storyline, Frankenstein's Monster, [[Howard the Duck]], [[Nighthawk (Marvel Comics)|Nighthawk]], and the [[She-Hulk]] come together as the Fearsome Four when the [[Man-Thing]] is driven on a rampage. They later discover a plot by the [[Psycho-Man]] to use the Man-Thing's volatile empathy to create a weapon.<ref>''Fear Itself: Fearsome Four'' #1-4</ref>
+
+The [[Hellfire Club (comics)|Hellfire Club]] sent an army of Frankenstein Monsters (created by Victor Frankenstein's contemporary descendant Baron Maximilian von Katzenelnbogen) to attack the [[X-Mansion|Jean Grey School for Higher Learning]], but they were defeated by the [[X-Men]].<ref>''Wolverine and the X-Men'' #2</ref> Learning of the existence of a Frankenstein descendant, the Monster comes to exact his vengeance on the Hellfire Club.<ref>''Wolverine and the X-Men'' #19, 21-23</ref>
+
+Frankenstein's Monster is later recruited by [[Phil Coulson]] to join his incarnation of the [[Howling Commandos]] in order to combat Dormammu's Mindless Plague.<ref>''S.H.I.E.L.D.'' vol. 3 #6</ref>
+
+==Powers and abilities==
+Frankenstein's Monster is a result of a biological experiment by Baron Victor Frankenstein which grafted pieces of various corpses together which were animated through an undisclosed procedure involving electricity. In the first issue of ''The Monster of Frankenstein'', a series of injections is used rather than the traditional electric jump-starting procedure to make the creature live.<ref>{{cite journal|last=Marvel Comics Group|journal=The Monster of Frankenstein|year=1973|issue=#1|pages=12}}</ref> The Monster has superhuman strength and stamina, and can be placed in suspended animation when exposed to intense cold without suffering any physical damage.
+
+==Clones of Frankenstein's Monster==
+There had been many clones of Frakenstein's Monster that appeared in the comics:
+
+===First Nazi clone===
+The first Nazi clone of Frankenstein's Monster was a creation of [[Nazism|Nazi]] sympathizer Anna Frankenstein and her lover Von Rottz in the Summer of 1944. They had hoped to use the works of Victor Frankenstein to create an army of monsters to sell to the Nazis. When her Frankenstein's Monster was complete, Anna wrote a letter to [[Captain America]] and [[Bucky Barnes]] in order to lure them to her. They were attacked by the Nazi clone Frankenstein's Monster twice with the second time had Bucky snatched by Frankenstein's Monster. Von Rottz assisted Captain America into rescuing Bucky from being thrown off the castle by the Nazi clone Frankenstein's Monster. Before Von Rottz could betray Captain America, he is strangled to death by the Nazi clone of Frankenstein's Monster. Then the Nazi clone of Frankenstein's Monster grabbed Anna Frankenstein and fled into the woods. After freeing Anna, Captain America lured the Nazi clone of Frankenstein's Monster into the quicksand where it drowned. Anna felt guilty over what she did and joined her creation's fate upon committing suicide by quicksand. Although Anna Frankenstein's father set fire to the laboratory, other people have utilized Victor's technique to create other monsters.<ref>''USA'' #13 (Summer of 1944)</ref>
+
+===Second Nazi clone===
+[[File:Ww2frank.jpg|thumb|Marvel's [[World War II]]-era Frankenstein Monster, in ''[[Invaders (comics)|The Invaders]]'' #31 (Aug. 1978). Cover art by [[Joe Sinnott]].]]
+When Jackie Falsworth finds an oversized Nazi cap inside a box of souvenirs, Captain America tells her of the mission of how they acquired the hat and who it originally belonged to. In early 1942, Dr. Basil Frankenstein is a Nazi scientist who is the descendant of Victor Frankenstein. Basil Frankenstein and his Japanese assistant Dr. Kitagowa had moved to Victor Frankenstein's castle to continue his mission of creating an army of zombie Nazi soldiers. However, word of Basil Frankenstein's activities leaked out to the Allied Forces and the [[Human Torch (android)|Human Torch]] and [[Toro (comics)|Toro]] went out to investigate. When Human Torch and Toro didn't return, [[Captain America]], [[Bucky (Marvel Comics)|Bucky]], and [[Namor]] went out to look for them. When the other [[Invaders (comics)|Invaders]] arrive, they find the villagers that live near Castle Frankenstein about to storm the castle. The villagers explained to the Invaders about the arrival of Human Torch and Toro and the info about the monster that had torn through their village. Captain America and Bucky went to Castle Frankenstein to investigate while Namor held the angry mob at bay. Captain America and Bucky entered the castle and were overcome by the Nazi clone of Frankenstein's Monster. Upon Captain America and Bucky being brought before Basil Frankenstein, he revealed that he not only was making an army of Nazi zombies for [[Adolf Hitler]], he plans to transplant his brain into Captain America's body. It turned out that Basil Frankenstein had been in a lab accident that paralyzed his hands and legs. Due to Basil Frankenstein being in love with Dr. Kitagowa, Basil wanted her to place his brain into Captain America's body so that they can finally have a physical love. It was then shown that Basil Frankenstein had captured Human Torch and Toro so that Basil Frankenstein can siphon Human Torch's energies so that he can make his Nazi clone of Frankenstein's Monster bigger and stronger. In the nick of time, Namor arrived into the castle and freed the Invaders. During the battle with the Nazi clone of Frankenstein's Monster, the creature was knocked into a wall of electrical equipment. This was enough to free the Nazi clone of Frankenstein's Monster from Basil's mental control where he grabbed Basil and Dr. Kitagowa and took them to the Castle's parapets. Proclaiming that he was no longer Basil Frankenstein's slave, the Nazi clone of Frankenstein's Monster wanted to return to death and jumped from the castle taking Basil Frankenstein and Dr. Kitagowa with him.<ref>[http://www.comics.org/issue/32515/ ''The Invaders'' #31 (Aug. 1978)] at the Grand Comics Database</ref>
+
+===Howling Commandos' clone===
+An intelligent clone of Frankenstein's Monster nicknamed "Frank" was a member of the Paranormal Containment Unit of the international law-enforcement agency [[S.H.I.E.L.D.]] in issues of the series ''[[Nick Fury's Howling Commandos]]''. Unlike Frankenstein's Monster and his other clones, Frank has a mace for a right hand where it can be launched out on a chain similar to a flail. There is a large cannon where the radius of his left arm is supposed to be where it houses different fire arms like machine gun barrels and one detachable handheld gun. How this cloning process did not produce different clones of the various individual body parts making up the original Monster was briefly mentioned in issue #1. The response was "Don't go there."<ref name="ReferenceA"/><ref>Browning, p. 14</ref>
+
+Frank was among the monsters that gathered to prepare a defense on Area 13 when [[Merlin (Marvel Comics)|Merlin]]'s army was attacking.<ref>''Nick Fury's Howling Commandos'' #4</ref> Frank held his ground while [[Warwolf (Marvel Comics)|Warwolf]] and [[Gorilla-Man]] released all the giant monsters in their possession where they trampled over Merlin's army. When Frank opted to tend to the injured, the Howling Commandos chose to pursue the remaining members of Merlin's army.<ref>''Nick Fury's Howling Commandos'' #5</ref> Frank was present when [[Mole Man]]'s forces showed up to help fight Merlin's army.<ref>''Nick Fury's Howling Commandos'' #6</ref>
+
+==In other media==
+===Television===
+* In 1981, an animated [[television movie]] loosely based on ''The Monster of Frankenstein'' was released called [[Kyoufu Densetsu Kaiki! Frankenstein]].<ref>Jones, Stephen. ''The Essential Monster Movie Guide''. Billboard Books, 2000. pp. 146, 148</ref> This was the second and final animated project that Marvel did with [[Toei Animation|Toei]], the first being ''Dracula: Sovereign of the Damned'' which was loosely based on ''[[The Tomb of Dracula]]''. Much of the main plot was condensed and many characters and subplots were truncated or omitted. The film was animated in [[Japan]] by [[Toei Animation|Toei]] and sparsely released in 1984 on cable TV in [[North America]] by [[Harmony Gold USA|Harmony Gold]] dubbed into English. The dubbed version never had a title but was advertised as both ''Monster of Frankenstein'' and ''Frankenstein Legend of Terror''.<ref>Lyons, Kevin. [http://www.eofftv.com/eofftvreview/index.php?option=com_content&view=article&id=58:kyofu-densetsu-kaiki-furankenshutain-1981&catid=5:horror&Itemid=16 ''Kyofu densetsu Kaiki! Furankenshutain'' (1981)], ''The EOFFTV Review'', 16 August 2009</ref>
+* Frankenstein's Monster appears in the ''[[Ultimate Spider-Man (TV series)|Ultimate Spider-Man]]'' episodes "Blade" and "The Howling Commandos",<ref>http://www.comicbookresources.com/?page=article&id=48001</ref> voiced by [[Kevin Michael Richardson]]. This version has a sledgehammer for a left hand and has a retractable right hand machine gun similar to the clone version in the comics. Frankenstein's Monster is a member of Nick Fury's Howling Commandos.
+* Frankenstein's Monster appears in the ''[[Hulk and the Agents of S.M.A.S.H.]]'' episode "Hulking Commandos", voiced again by Kevin Michael Richardson. He's a member of Nick Fury's Howling Commandos. During the fight against Dormammu, Frankenstein's Monster compared himself to Hulk where both of them were feared by people. In the episode "Days of Future Smash: Dracula," Hulk encounters Frankenstein's Monster in 1890 during the [[Victorian era]] where they work to free N'Kantu the Living Mummy and Werewolf by Night's grandfather from Dracula. After that, Frankenstein's Monster, N'Kantu the Living Mummy, and Werewolf by Night's grandfather help Hulk thwart Dracula and Leader's plans to blanket the Earth in darkness with their Gamma Furnace. In the episode "Planet Monster" Pt. 2, Frankenstein's Monster was with the Howling Commandos when they help the Agents of S.M.A.S.H. and the Avengers fight the forces of the [[Supreme Intelligence]].
+
+==Reception==
+This version of the character was ranked #8 on a listing of Marvel Comics' monster characters in 2015.<ref>{{cite web|url= http://www.denofgeek.com/us/books-comics/marvel/250132/marvels-31-best-monsters/page/0/2|title= Marvel's 31 Best Monsters|first= Marc|last= Buxton|date= October 30, 2015|publisher= [[Dennis Publishing|Den of Geek]]|archiveurl= https://www.webcitation.org/72pLEeep0|archivedate= September 30, 2018|deadurl= no|df= mdy-all|quote= The Marvel version of Frankenstein is pretty much a mashup up of Mary Shelley’s literary monster and the Universal classic creature feature.}}</ref>
+
+==Collected editions==
+A number of the characters appearances have been collected into a [[trade paperback (comics)|trade paperback]]:
+
+''[[Essential Marvel|Essential]] Monster of Frankenstein'' (496 pages, collects ''Monster of Frankenstein'' #1-5, ''Frankenstein's Monster'' #6-18, ''Giant-Size Werewolf'' #2, ''[[Monsters Unleashed (comics)|Monsters Unleashed]]'' #2, 4-10 and ''[[Legion of Monsters]]'' #1, October 2004, {{ISBN|0-7851-1634-6}})
+
+==See also==
+* [[Dick Briefer]]
+* [[Frankenstein (DC Comics)]]
+* [[Frankenstein (Prize Comics)]]
+
+==References==
+{{Reflist|2}}
+
+==External links==
+* [http://www.marvel.com/universe/Frankenstein%5C's_Monster Frankenstein's Monster] at Marvel.com
+* {{Marvunapp|http://www.marvunapp.com/Appendix/franknst.htm|Frankenstein's Monster}}
+* {{Marvunapp|http://www.marvunapp.com/Appendix7/cloneoffrankenstein.htm|Howling Commandos' Clone of Frankenstein's Monster}}
+* {{comicbookdb|type=character|id=3889|title=Frankenstein's Monster}}
+* [http://www.toonopedia.com/franken3.htm Monster of Frankenstein] at [[Don Markstein's Toonopedia]]. [https://www.webcitation.org/6fru5tNrL Archived] from the original on March 8, 2016.
+
+{{Frankenstein}}
+{{Howling Commandos}}
+{{Stan Lee}}
+[[Category:1953 comics debuts]]
+[[Category:Characters created by Joe Maneely]]
+[[Category:Characters created by John Buscema]]
+[[Category:Characters created by Stan Lee]]
+[[Category:Comics based on Frankenstein]]
+[[Category:Comics characters introduced in 1953]]
+[[Category:Comics characters introduced in 1969]]
+[[Category:Comics characters introduced in 1973]]
+[[Category:Fictional cryonically preserved characters in comics]]
+[[Category:Fictional cyborgs]]
+[[Category:Fictional undead]]
+[[Category:Male characters in comics]]
+[[Category:Marvel Comics characters with superhuman strength]]
+[[Category:Marvel Comics robots]]

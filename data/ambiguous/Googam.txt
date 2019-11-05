@@ -1,0 +1,55 @@
+{{In-universe|date=August 2018}}
+{{Infobox comics character <!--Wikipedia:WikiProject Comics-->
+|character_name=Googam
+|image=TOS-17.jpg
+|converted=y
+|caption=Googam's first appearance in ''[[Tales of Suspense]]'' vol. 1, #17.
+|real_name=Googam
+|publisher=[[Marvel Comics]]
+|debut=''[[Tales of Suspense]]'' #17 (May 1961).
+|creators=[[Stan Lee]]<br>[[Steve Ditko]]
+|alliances=[[Fin Fang Four]]
+|aliases=
+|powers=Superhuman strength and durability<br>Telekinesis<br>Ability to shrink matter
+|cat=super
+|subcat=Marvel Comics
+|hero=y
+|villain=y
+|sortkey=Googam
+}}
+'''Googam''' is a [[fictional character]] appearing in [[American comic book]]s published by [[Marvel Comics]]. He is depicted as the son of [[Goom]].
+
+==Publication history==
+{{expand-section|date=January 2017}}
+Googam first appeared in ''[[Tales of Suspense]]'' vol. 1, #17 (May 1961) and was created by [[Stan Lee]] and [[Steve Ditko]].
+
+==Fictional character biography==
+Googam was originally an {{convert|8|ft|m|abbr=on}} humanoid alien from Planet "X" and was brought to Earth by his father [[Goom]]. When Goom invades Earth, he hides the still developing Googam in a cave where he is later discovered by a young boy. Googam follows the boy back to his house, and to prevent the destruction of the family home the boy challenges Googam to a game of [[Tag (game)|tag]]. The boy leads Googam into a pit of quicksand, where he then apparently drowns.<ref>''Tales of Suspense'' vol. 1, #17</ref>
+
+Googam survives and is deposited on Monster Isle by the [[Fantastic Four]]. Following the lead of fellow monster [[Fin Fang Foom]], Googam enters a rehabilitation program which involves him being shrunken down to human size and hypnotically stripped of his powers so as to allow him to enter human society. Googam takes up a job as a parking attendant in the [[Baxter Building]], but is later tricked by the microscopic alien conqueror [[Tim Boo Baa]] into using the scientific equipment of [[Mr. Fantastic]] to enlarge him (Tim Boo Baa pretends to be Googam's father, Goom). Tim Boo Baa's size increases to giant proportions until he is finally defeated by Googam, Fin Fang Foom and fellow monsters [[Elektro (comics)|Elektro]] and [[Gorgilla]], now calling themselves the "[[Fin Fang Four]]."<ref>''[[Fin Fang Four]]'' #1 (2005)</ref> At one point, he is a guest on the [[David Letterman]] show. {{Citation needed|date=April 2010}}
+
+Later, Googam resigns from his job at the [[Baxter Building]] and tries his hand at script-writing.<ref>"Marvel Monsters: From The Files of Ulysses Bloodstone Monster Hunter" #1</ref> He is later considered a potential Initiative recruit; a fighter for the government, by [[Iron Man]].<ref>"Civil War Battle Damage Report" #1</ref>
+
+During the ''[[Monsters Unleashed (comics)|Monsters Unleashed]]'' storyline, Googam and his father Goom are among the monsters that are shown falling out of the sky near San Diego.<ref>''Monsters Unleashed'' Vol. 2 #2</ref> Googam struggled in his fight against an [[Insectoid]] Leviathon causing his father to mock him. Luckily, Googam was saved by [[Doctor Strange]] who teleported the Insectoid Leviathon away. Three days later, Googam stormed the [[Sanctum Sanctorum]] to get revenge on Doctor Strange for humiliating him only for Doctor Strange to persuade him to help track down the Insectoid Leviathon. They find it in Nunavut, Canada where it shoots down Doctor Strange's aircraft causing Googam to save him. During the fight against the Insectoid Leviathon, Googam followed Doctor Strange's advice where he tricked the Insectoid Leviathon into ending up on thin ice where it fell through enough for Doctor Strange to force-feed it a mushroom that shrunk it and bind it with the Bonds of Krottak. No longer needing to get approval from his father, Googam accepted Doctor Strange's thanks for his help in subduing the Insectoid Leviathon.<ref>''Doctor Strange'' Vol. 4 #1.MU</ref>
+
+==Powers and abilities==
+Googam has superhuman strength and durability, telekinesis, and the ability to alter the size of others.
+
+==References==
+{{Reflist}}
+
+==External links==
+* [http://marvel.wikia.com/wiki/Googam_(Earth-616) Googam] at Marvel Wiki
+* [http://www.marvunapp.com/Appendix/googam.htm Googam] at the Appendix to the Handbook of the Marvel Universe
+* {{comicbookdb|type=character|id=1953|title=Googam}}
+
+{{Stan Lee}}
+
+[[Category:Comics characters introduced in 1961]]
+[[Category:Characters created by Stan Lee]]
+[[Category:Characters created by Steve Ditko]]
+[[Category:Marvel Comics aliens]]
+[[Category:Marvel Comics characters with superhuman strength]]
+
+
+{{Marvel-char-stub}}

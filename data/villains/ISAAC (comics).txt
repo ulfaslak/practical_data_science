@@ -1,0 +1,50 @@
+{{refimprove|date=December 2018}}
+{{In-universe|date=August 2018}}
+{{Infobox comics character| <!--Wikipedia:WikiProject Comics--> 
+image=
+|caption=
+|character_name=ISAAC
+|real_name=
+|species=
+|publisher=[[Marvel Comics]]
+|debut=''[[Iron Man]] #55'' (Feb 1968)
+|creators=[[Jim Starlin]]<br />[[Mike Friedrich]]
+|alliances=[[Eternal (comics)|Eternals]]
+|aliases=
+|powers=
+}} 
+
+'''ISAAC''' is a fictional character appearing in [[American comic book]]s published by [[Marvel Comics]].
+
+ISAAC is an English version of an acronym in the language of the [[Eternal (comics)|Eternals]] of [[Titan (Marvel Comics location)|Titan]] standing for: '''Integral Synaptic Anti+/Anionic Computer'''.
+
+==Fictional character biography==
+ISAAC is a complex and intelligent computer system which fills almost the entire interior of Saturn's moon, Titan.  ISAAC controls Titan's artificial biosphere environment and all mechanical operations on Titan.  
+
+ISAAC observed a conflict between [[Mar-Vell]], the [[Avengers (comics)|Avengers]], and [[Thanos]].<ref>''Captain Marvel'' #32-35</ref> [[Thanos]] later reprogrammed ISAAC with a virus prior to his death, to menace the Eternals of Titan. The computer enslaved the Titanian Eternals.<ref>''Captain Marvel'' #58</ref> ISAAC dispatched Stellarax and Lord Gaea,<ref>''Captain Marvel'' #59</ref> and then [[Elysius]],<ref>''Captain Marvel'' #60</ref> and finally Chaos against Mar-Vell and [[Drax the Destroyer|Drax]].<ref>''Captain Marvel'' #61</ref> [[Starfox (comics)|Eros]], [[A'lars|Mentor]], and Elyuis eliminated the virus in ISAAC's system, and Mar-Vell defeated Stellarax. The computer was then restored to its original benevolent programming.<ref>''Captain Marvel'' #62</ref>
+
+Some time later, ISAAC took on an android form, and allied itself with Stellarax, Chaos, and Lord Gaea, in a renewed attempt to carry out Thanos's will.<ref>''Marvel Spotlight'' Vol. 2 #1</ref> ISAAC then went mad when Mar-Vell forced it to experience the totality of life. ISAAC gave up its android form, and its minions were defeated.<ref>''Marvel Spotlight'' Vol. 2 #2</ref>
+
+ISAAC confers with Mentor when Drax and [[Phyla-Vell|Quasar]] arrive on Titan to consult him, and questions Mentor as he apparently murders them.<ref>''Guardians of the Galaxy'' #9</ref>
+
+==Powers and abilities==
+ISAAC is a vast supercomputer which honeycombs the moon of Titan, as well as controls it.<ref>''Captain Marvel'' #30</ref> ISAAC has a vast range of computational functions, most of which have not been catalogued. Its power source is the thermal energy found at [[Titan (Marvel Comics location)|Titan]]'s core. ISAAC is stationary; however, it has been observed to project its holographic representation as far as Earth. This holographic projection takes the form of a humanoid figure in order to facilitate communications with and observation of humanoid life forms.
+
+ISAAC has the ability to take an android form, Isaac-Prime, which has superhuman strength, stamina, durability, and reflexes.
+
+==References==
+{{reflist}}
+
+==External links==
+* {{Marvunapp|http://www.marvunapp.com/Appendix2/isaactitan.htm|ISAAC}}
+* {{comicbookdb|type=character|id=3459|title=ISAAC}}
+
+{{Eternals}}
+{{Jim Starlin}}
+
+[[Category:Characters created by Jim Starlin]]
+[[Category:Characters created by Mike Friedrich]]
+[[Category:Comics characters introduced in 1973]]
+[[Category:Fictional androids]]
+[[Category:Marvel Comics Eternals]]
+[[Category:Marvel Comics supervillains]]

@@ -1,0 +1,52 @@
+{{Infobox comics character <!--Wikipedia:WikiProject Comics-->
+|image=Growing Man on the cover of Thor.jpg
+|caption=The ''Growing Man'' on the cover of ''Thor'' #140 (May 1967).<br>Art by [[Jack Kirby]] and [[Vince Colletta]]. 
+|character_name=The Growing Man
+|real_name=
+|publisher=[[Marvel Comics]]
+|debut=''[[Thor (Marvel Comics)|Thor]]'' #140 (May 1967)
+|creators=[[Stan Lee]] (Writer)<br>[[Jack Kirby]] (Artist)
+|alliances=[[Hydra (comics)|HYDRA]]
+|aliases=
+|powers=Size and mass manipulation<br>Ability to absorb kinetic energy
+|}}
+
+The '''Growing Man''' is a [[fictional character]] appearing in [[American comic book]]s published by [[Marvel Comics]].
+
+==Publication history==
+The Growing Man first appears in ''[[Thor (Marvel Comics)|Thor]]'' #140 (May 1967); and reappears in ''[[The Avengers (comic book)|Avengers]]'' #69 (Oct. 1969) and was created by [[Stan Lee]] and [[Jack Kirby]]. After an appearance in ''[[Iron Man (comic book)|Iron Man]]'' #108 (March 1978), the Growing Man is not seen in Marvel continuity until ''Avengers'' #268 (June 1986), and then #300 (Feb. 1989).
+
+After being found and used by new masters [[Hydra (comics)|HYDRA]] in ''[[Thunderbolts (comics)|Thunderbolts]]'' #5 (Aug. 1997), the android appeared in ''[[Young Avengers]]'' #3 (June 2005) and in upgraded form in ''Sentinel Squad O*N*E'' #2 (April 2006). The Growing Man later appeared in ''Avengers vs. Atlas'' #1 (Jan. 2010).
+
+==Fictional character biography==
+The Growing Man is an [[Android (robot)|android]] built by an enslaved [[Extraterrestrial life|alien]] race on behalf of the time-traveling villain [[Kang the Conqueror]]. First appearing on Earth as an inert [[doll]]-sized figure, the android is found by [[New York (state)|New York]] [[police]], reactivating and causing havoc until coming into conflict with the Thunder God [[Thor (Marvel Comics)|Thor]]. The Growing Man is then deactivated and recovered by Kang, who is in turn defeated by Thor.<ref>''Thor'' #140 (May 1967)</ref>
+
+Kang also uses the Growing Man to abduct [[Tony Stark]] (the alter-ego of hero [[Iron Man]]) from a [[hospital]]. Superhero team the [[Avengers (comics)|Avengers]] (including Thor) attack the Growing Man and follow the android into the future, where they become involved in a competition between Kang and the [[Elder of the Universe]] the [[Grandmaster (Marvel Comics)|Grandmaster]].<ref>''Avengers'' #69 - 71 (Oct. - Dec. 1969)</ref> The alien colonizers of Rigel eventually find the Growing Man in one of Kang's abandoned vessels and send it back to Earth to use it against Iron Man, who defeats the android by overloading its circuitry.<ref>''Iron Man'' #108 (March 1978)</ref>
+
+The Growing Man reappears in the dimension of [[Limbo (Marvel Comics)|Limbo]] and attacks the Avenger [[Hercules (Marvel Comics)|Hercules]], who hit it so hard that it collapses as its cells are overtaxed.<ref>''Avengers'' #268 (June 1986)</ref> Eventually, it finds its way to Earth, where temporary member [[Mister Fantastic]] devises a means of reversing the growing process, causing the android to shrink from sight.<ref>''Avengers'' #300 (Feb. 1989)</ref>
+
+The Growing Man is found and reactivated by the subversive organization [[Hydra (comics)|HYDRA]]. The leader of HYDRA, [[Baron Strucker]], orders the android to attack New York as part of a ploy to destroy the formative team the [[Thunderbolts (comics)|Thunderbolts]]. The heroes manage to defeat the android and also activate a beacon in its circuitry that will warn the ancestors of the original aliens of Kang's coming.<ref>''Thunderbolts'' #5 (Aug. 1997)</ref> Kang discovers the android when attempting to track his younger self<ref>''Young Avengers'' #3 (June 2005)</ref> and in upgraded form is sent by HYDRA to disrupt a political [[Demonstration (people)|rally]], but is stopped when its powers are overloaded.<ref>''Sentinel Squad O*N*E'' #2 (April 2006)</ref>
+
+==Powers and abilities==
+The Growing Man is a stimuloid — a form of [[Android (robot)|android]] that absorbs any [[kinetic energy]] directed against it. The kinetic energy stimulates the rapid multiplication of the stimuloid's artificial cells, causing it to grow significantly in size with a proportionate increase in strength and resistance to damage. The character's normal size is that of a child's doll, although it can grow to hundreds of feet in height. Its ability to absorb damage, while significant, is apparently not limitless, as Hercules has managed to overload it by hitting it exceptionally hard.
+
+==In other media==
+===Television===
+* Growing Man appears in the ''[[Avengers Assemble (TV series)|Avengers: Ultron Revolution]]'' episode "The Thunderbolts", voiced by [[Travis Willingham]].<ref>{{cite episode|title=The Thunderbolts|series=Avengers Assemble|network=Disney XD|season=3|number=5|airdate=April 10, 2016}}</ref> It is a stimuloid that was modified with stolen Stark Industries tech by [[Justin Hammer]]. It took the combined attacks of the [[Avengers (comics)|Avengers]] and the [[Thunderbolts (comics)|Thunderbolts]] to defeat Growing Man.
+
+==References==
+{{reflist}}
+
+==External links==
+* {{Marvunapp|http://www.marvunapp.com/Appendix5/growingman.htm|Growing Man}}
+
+{{Avengers}}
+{{Thor}}
+{{Thunderbolts}}
+{{Stan Lee}}
+{{Jack Kirby}}
+[[Category:Comics characters introduced in 1967]]
+[[Category:Characters created by Jack Kirby]]
+[[Category:Characters created by Stan Lee]]
+[[Category:Marvel Comics robots]]
+[[Category:Marvel Comics supervillains]]

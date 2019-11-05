@@ -1,0 +1,53 @@
+<!-- Please do not remove or change this AfD message until the discussion has been closed. -->
+{{Article for deletion/dated|page=Protocide|timestamp=20190204230106|year=2019|month=February|day=4|substed=yes|help=off}}
+<!-- Once discussion is closed, please place on talk page: {{Old AfD multi|page=Protocide|date=4 February 2019|result='''keep'''}} -->
+<!-- End of AfD message, feel free to edit beyond this point -->
+{{Infobox comics character <!--Wikipedia:WikiProject Comics-->
+|image=http://static.comicvine.com/uploads/original/10/101073/2059183-protocide.png
+|caption= 
+|character_name=Protocide
+|real_name=
+|publisher=[[Marvel Comics]]
+|debut= ''[[Captain America (comic book)|Captain America]]'' Vol. 3 # 28 (April 2000)
+|creators= Dan Jurgens
+|alliances= [[Weapon Plus#Weapon I|Project Rebirth]]
+|alter_ego= Clinton McIntyre
+|powers= Physical attributes enhanced to peak of human potential
+skilled martial artist and hand-to-hand combatant
+All terrain acrobatics
+}}
+
+'''Protocide''' is a fictional super-soldier appearing in [[American comic book]]s published by [[Marvel Comics]]. He originally appears in stories written and illustrated by [[Dan Jurgens]].
+
+==Fictional character biography==
+'''Clinton McIntyre''', guilty of killing his commanding officer, is offered leniency by General Maxfield Saunders to act as a test subject for Dr. [[Abraham Erskine]]'s super-soldier serum.  Unhappy with the choice of Steve Rogers as the test subject, General Saunders gives McIntyre the serum before Rogers arrives. McIntyre indeed becomes stronger and faster, but almost immediately goes berserk with pain, smashing the lab.  After rushing out to the street, he attacks a motorist before collapsing and dying of a heart attack. There are two additional additives that must be given to the test subject after drinking the serum, unknown to Saunders.<ref>''Captain America Annual'' 2000</ref>
+
+His body is preserved and kept in government storage.  Ending up in a [[S.H.I.E.L.D.]] storage facility, the body is discovered by Agent Clete Billups.  Billups steals the body and takes it to [[Advanced Idea Mechanics|AIM]], revealing himself to be a mole. AIM is able to revive McIntyre and correct for the deficiencies in the serum he received. Naming him Protocide, as he was the prototype for Captain America, AIM convinces McIntyre that the man who became Captain America was responsible for his death and purposefully stole the mantle of America's super-soldier from him.<ref>''Captain America'' Vol. 3 #31</ref>
+
+Protocide first clashes with [[U.S. Agent (comics)|U.S. Agent]], and severely injures him.<ref>''Captain America'' Vol. 3 #34</ref> He next battles Captain America and badly injures him as well before being forced to pull out by AIM. Not able to surprise the Captain when they next fight, Protocide is fought to a standstill and falls into an energy reactor. Captain America helps him out, and is immediately tossed in by McIntyre to make his escape.  Protocide does realize that Rogers's actions and comments don't seem to match what he'd expect of a man who murdered him decades ago.<ref>''Captain America'' Vol. 3 #35</ref>
+
+A showdown between the two super-soldiers happens when Rogers and SHIELD invade the AIM base McIntyre is in. While the two soldiers do fight, McIntyre apparently realizes that Rogers had nothing to do with his origins and death, and chooses to throw Rogers out of the AIM base when it explodes.  Using the explosion to cover his own disappearance from SHIELD and AIM, Protocide is last seen hitching a ride, wanting to get "far away."<ref>''Captain America'' Vol. 3 #38</ref>
+
+==Powers and abilities==
+Protocide has all the physical abilities of Captain America.  He has no superhuman powers, but as a result of the super-soldier serum, he is transformed into a "nearly perfect" specimen of human development and conditioning. Protocide is as strong, fast, agile, and durable as it is possible for a human being to be without being considered superhuman. The serum prevents the build-up of fatigue poisons in his muscles, and Protocide thus does not tire. McIntyre is also unable to become intoxicated by alcohol and is immune to many diseases. While Rogers has had his intelligence boosted by the serum, McIntyre appears to be often confused and have trouble thinking clearly. This may be a side effect of the decades he spent dead before his revival.
+
+It is suggested by AIM and SHIELD agents that Protocide, originally a strong man before his transformation, is physically stronger than Captain America. As Captain America and Protocide are both heightened to the height of human potential, it's not apparent if McIntyre's strength before the serum is a factor, as opposed to Rogers being frail before his transformation. Rogers and McIntyre appear fairly evenly matched in fights without the element of surprise, since the formula was designed to maximize the body to its limits that all humans have, but this may be due to Rogers's advanced fighting training. Protocide is only known to possess basic Army combat training, though the extent of his training is never clarified.
+
+Protocide is also proficient with use of a shield. Unlike Captain America's current shield, Protocide utilitizes a shield similar to Cap's original. He makes full use of the sharp point in his attacks, and is also seen throwing his shield primarily to impale with the pointed end.
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://marvel.wikia.com/wiki/Clinton_McIntyre_(Earth-616) Protocide] at the Marvel Wiki
+
+{{Captain America}}
+{{Weapon Plus}}
+
+[[Category:Characters created by Dan Jurgens]]
+[[Category:Comics characters introduced in 2000]]
+[[Category:Fictional murderers]]
+[[Category:Fictional super soldiers]]
+[[Category:Marvel Comics characters with superhuman strength]]
+[[Category:Marvel Comics mutates]]
+[[Category:Marvel Comics supervillains]]

@@ -1,0 +1,54 @@
+{{refimprove|date=March 2016}}
+{{Superherobox| <!--Wikipedia:WikiProject Comics-->
+| character_name = Lifter
+| image =
+| caption =
+| real_name = Ned Lathrop
+| species=[[Mutant (Marvel Comics)|Human Mutant]]
+| publisher = [[Marvel Comics]]
+| debut = ''[[Captain America]] Annual'' Vol.1 #4 (1977)
+| creators = [[Jack Kirby]]
+| alliances = [[Mutant Force]]<br/>[[Resistants]]<br/>[[Brotherhood of Mutants|Brotherhood of Evil Mutants]]
+| aliases = Meteorite
+| powers = Can manipulate gravity, increasing his density, strength, and endurance, and levitate matter.
+}}
+'''Lifter''' ('''Ned Lathrop''') is a [[fictional character|fictional]] [[Mutant (Marvel Comics)|mutant]] [[supervillain]] appearing in [[American comic book]]s published by [[Marvel Comics]]. He was created by [[Jack Kirby]] in ''[[Captain America]] Annual'' #4 (1977).
+
+==Publication history==
+The fictional character '''Lifter''' first appeared in ''Captain America Annual'' #4 in 1977, and was created by [[Jack Kirby]]. Lifter subsequently appeared in ''Defenders'' vol. 1 #78-80, 83, 87, 125-126, and 128-130. As '''Meteorite''', he appeared in ''Captain America'' vol. 1 #343, 346, 368, 394, and 426. He appeared once again as Lifter in ''New Warriors'' vol. 2, #6.
+
+Lifter appeared as part of the "Mutant Force" entry in the ''[[Official Handbook of the Marvel Universe|Official Handbook of the Marvel Universe Deluxe Edition]]'' #9.
+
+==Fictional character biography==
+Ned Lathrop was discovered and recruited by [[Magneto (comics)|Magneto]] to become a member of his Brotherhood of Evil Mutants, taking the code-name '''Lifter'''.<ref>''Captain America Annual'' #4</ref> After being abandoned by Magneto, Lathrop and his teammates become known as Mutant Force.<ref>''Defenders'' vol. 1 #78-80 (December 1979-February 1980)</ref> Under this name they work for the United States government,<ref>''Defenders'' vol. 1 #83 (May 1980)</ref> and, later, the [[Secret Empire (organization)|Secret Empire]].<ref>''Defenders'' vol. 1 #125</ref>
+
+Lathrop changes his code-name to '''Meteorite''' when the Mutant Force become the Resistants. The Resistants' protest against the [[United States]]' [[Registration Acts (comics)#Mutant Registration Act|Mutant Registration Act]] was cut short by a clash with [[U.S. Agent (comics)|John Walker]], the then-current [[Captain America]].<ref>''Captain America'' #343</ref>
+
+==Powers and abilities==
+Lifter's mutant power gives him the ability to lift heavy objects by canceling the effect of gravity upon them.
+
+His name has been included on a list of mutants who have been depowered by the events of ''[[House of M]]'' and "[[Decimation (comics)|Decimation]]" that was printed by ''[[Wizard Magazine]]''.{{cn|date=July 2017}} However the accuracy of the list has been disputed [http://www.comixfan.com/xfan/forums/showpost.php?p=1152661&postcount=576] and Lifter has not yet been listed or shown as depowered in any Marvel Comics publications.
+
+==Other versions==
+
+===Civil War: House of M===
+Lifter was seen as a member of [[Magneto (comics)|Magneto]]'s mutant army during his rise to power.<ref>''Civil War: House of M'' #4</ref>
+
+==References==
+{{Reflist}}
+
+==External links==
+* {{Marvunapp|http://www.marvunapp.com/Appendix3/liftermutantforce.htm|Lifter}}
+
+{{Jack Kirby}}
+
+[[Category:Characters created by Jack Kirby]]
+[[Category:Comics characters introduced in 1977]]
+[[Category:Fictional activists]]
+[[Category:Fictional mercenaries]]
+[[Category:Marvel Comics characters with superhuman strength]]
+[[Category:Marvel Comics mutants]]
+[[Category:Marvel Comics supervillains]]
+
+
+{{Marvel-villain-stub}}

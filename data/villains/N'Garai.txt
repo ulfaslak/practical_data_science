@@ -1,0 +1,57 @@
+{{In-universe|date=September 2018}}
+{{Infobox comics species
+<!--Wikipedia:WikiProject Comics-->
+<!-- |species   = N'Garai -->
+|image     = Uncanny X-Men 143.jpg
+|imagesize = <!-- default 250 -->
+|caption   = An N'Garai demon surprises [[Kitty Pryde]] in ''[[Uncanny X-Men]]'' #143 (March [[1981 in comics|1981]]).
+|publisher = [[Marvel Comics]]
+|debut     = ''[[Uncanny X-Men|X-Men]]'' #96
+|debutmo   = December
+|debutyr   = 1975
+|creators  = [[Bill Mantlo]]<br>[[Chris Claremont]]<br>[[Dave Cockrum]]
+|deities   =
+|homeworld =
+|members   =
+|powers    =
+|subcat    = Marvel Comics
+|altcat    = Marvel Comics alien species
+|sortkey   = N'Garai
+}}
+The '''N'Garai''' are a [[fictional character|fictional race]] appearing in [[American comic book|American]] [[comic book]]s published by [[Marvel Comics]].
+
+==Publication history==
+The N'Garai first appeared in ''[[Uncanny X-Men|X-Men]]'' #96 (December 1975), and were created by [[Bill Mantlo]], [[Chris Claremont]], and [[Dave Cockrum]].
+==Fictional history==
+The N'Garai are a race of [[Demons in the Marvel Universe|demons]] created by [[Chthon (Marvel Comics)|Chthon]], and have come into conflict with the [[Midnight Sons]],{{Issue|date=April 2011}} the [[Hulk (comics)|Hulk]],{{Issue|date=April 2011}} and the [[X-Men]].  The N'Garai are ruled by [[Kierrok|Kierrok the Damned]].
+
+The N'Garai once lived on Earth, but left for another dimension (located within Chthon's "Flickering Realms"<ref>{{cite book|last1=Sexton|first1=David|title=The Marvel Tarot|date=November 2007|publisher=Marvel Comics|page=6<!--|pages=48-->}}</ref>) roughly a million years ago and are now intent on returning to Earth. Their extensions into the physical world tend to take the form of small, stone towers. Destruction of these towers has, many times, harmed the N'Garai, though the towers sometimes regenerate over time.
+
+One of these towers has appeared time and time again on the grounds of the [[X-Mansion]]. [[Cyclops (Marvel Comics)|Cyclops]] accidentally blew open the top of the cairn in anger over [[Thunderbird (comics)|Thunderbird's]] death. While Cyclops and the other X-Men fought Kierrok, [[Storm (Marvel Comics)|Storm]] was able to seal the tomb again later in the fight with a massive electrical discharge.   In the same issue, the long-running supporting character [[Moira MacTaggert]] was introduced, making a memorable first impression by attacking the demon with a machine gun.<ref>''[[Uncanny X-Men]]'' #96 (1975)</ref> One of the first incursions involved a larger demon confronting [[Kitty Pryde|Shadowcat]], who was alone in the mansion at the time. She eventually destroyed it with the jet engines of the X-Men's plane.<ref>''Uncanny X-Men'' #143 (1981)</ref>
+
+Further incursions have been met with resistance from, notably, [[Wolverine (character)|Wolverine]], [[Marrow (comics)|Marrow]], [[Cecilia Reyes]], [[Maggott]], and [[Nightcrawler (comics)|Nightcrawler]].<ref>''X-Men'' #75 (1998)</ref>
+
+In one incident, a subset of demons had taken to kidnapping various members of Earth's dimensions, such as people from the nearby town of [[North Salem, New York|Salem Center]] and Russian oil refinery workers. They were submitting them to various forms of dissection, suspect by Salem police as murders. Maggott was suspected of causing the murders{{why|date=February 2017}}, but he was cleared when Reyes, a doctor, saw that Wolverine, who was able to heal from his injuries, had been classically autopsied.{{Issue|date=April 2011}}
+
+The fight was taken to the N'Garai dimension, where the X-Men rescued many innocent people and seemingly stopped the wave of murders. Several of the demons had escaped to the forest around the X-Mansion. A squad involving Cecila, Marrow, and [[Beast (comics)|Beast]] faced them down and defeated them. The X-Men and the rescued civilians returned in another location on Earth. One of the men showed signs a powerful N'Garai demon had in fact made the return trip inside of him.{{Issue|date=April 2011}}
+
+Wolverine has entered the N'Garai dimension on at least two different occasions. It is difficult for him, as the creatures are hostile to Earth and the fact time passes slower there makes it easy for him to lose himself in long stretches of slaying. In both occasions, it took the presence of other X-Men to help bring him back from the brink.{{Issue|date=April 2011}}
+
+In the [[Free Comic Book Day]] X-Men special released on May 2008, the former New X-Man [[Pixie (X-Men)|Pixie]] encountered the N'Garai in her hometown after the X-Men were temporarily disbanded.  In a mine just outside the city, Pixie fought the demons alongside [[Cyclops (Marvel Comics)|Cyclops]], Wolverine, [[Emma Frost]], Beast, [[Colossus (comics)|Colossus]], and Nightcrawler and actually tricked the demons into causing a cave-in which sealed their gateway to Earth.{{Issue|date=April 2011}}
+
+They once revealed to [[Satana (Marvel Comics)|Satana]] when they were hunting her for revenge, that their invasion of Earth in prehistoric times was repelled by an [[Lucifer (Marvel Comics)#Lucifer|angel]], who was at that time the head of Heaven's army, claiming that he was actually the biblical Lucifer.{{Issue|date=February 2011}}
+
+In the story ''Apocalypse vs. Dracula'', Margaret Slade claims to have witnessed Apocalypse "single-handedly cut a whole tribe of N'Garai demons to pieces".<ref>''Apocalypse vs. Dracula'' #4 (2006)</ref>
+
+==References==
+{{reflist}}
+
+==External links==
+*{{Marvunapp|http://www.marvunapp.com/Appendix2/ngaraidemons.htm|N'Garai}}
+
+[[Category:Comics characters introduced in 1975]]
+[[Category:Characters created by Bill Mantlo]]
+[[Category:Characters created by Chris Claremont]]
+[[Category:Characters created by Dave Cockrum]]
+[[Category:Marvel Comics demons]]
+[[Category:Marvel Comics supervillains]]

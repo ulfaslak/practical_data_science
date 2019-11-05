@@ -1,0 +1,46 @@
+{{Infobox comics character <!--Wikipedia:WikiProject Comics-->
+|image=
+|caption=
+|character_name=Aldrich Kilian
+|real_name=
+|species=
+|publisher=[[Marvel Comics]]
+|debut=''[[Iron Man (comic book)|Iron Man]]'' vol. 4 #1 (January 2005)
+|creators=[[Warren Ellis]] (writer)<br>[[Adi Granov]] (artist)
+|alliances=
+|aliases=
+|powers=Genius-level intellect
+|}}
+'''Aldrich Killian''' is a fictional character appearing in [[American comic book]]s published by [[Marvel Comics]]. The character first appeared in ''[[Iron Man (comic book)|Iron Man]]'' vol. 4, #1 (Jan. 2005) and was created by [[Warren Ellis]] and [[Adi Granov]].
+
+Aldrich Killian was portrayed by actor [[Guy Pearce]] in the 2013 film ''[[Iron Man 3]]'', set in the [[Marvel Cinematic Universe]].
+
+==Publication history==
+Created by Warren Ellis and Adi Granov, the character first appeared in ''[[Iron Man (comic book)|Iron Man]]'' vol. 4, #1 (Jan. 2005).
+
+==Fictional character biography==
+Within the context of the stories, Killian is a scientist who developed the [[Extremis]] virus alongside [[Maya Hansen]]. He steals a sample of the virus and sells it to domestic terrorists, but, unable to cope with the guilt, he confesses in a note and shoots himself.<ref name="IMv4_1">{{Cite comic | writer = [[Warren Ellis]] | penciller = [[Adi Granov]] | inker = Adi Granov | story = Extremis (Part I of VI) | title = Iron Man | volume = 4 | issue = 1 | date = January 2005 | publisher = Marvel Comics}}</ref> However, [[Iron Man]] later discovered that Maya had a hand in selling Extremis to the domestic terrorists.<ref name="IMv4_6">{{Cite comic | writer = [[Warren Ellis]] | penciller = [[Adi Granov]] | inker = Adi Granov | story = Extremis (Part VI of VI) | title = Iron Man | volume = 4 | issue = 6 | date = April 2006 | publisher = Marvel Comics}}</ref>
+
+==In other media==
+===Film===
+Aldrich Killian appears as the main antagonist in ''[[Iron Man 3]]'', portrayed by [[Guy Pearce]]. Killian is the developer of the [[Extremis]] virus,<ref name="Pearce">{{cite news|date=April 20, 2012 |first1=Marc |last1=Graser |first2=Justin |last2=Kroll |title=Guy Pearce bonds with 'Iron Man 3' |url=http://www.variety.com/article/VR1118052904 |work=[[Variety (magazine)|Variety]] |archiveurl=https://www.webcitation.org/6APHN98XU?url=http://www.variety.com/article/VR1118052904 |archivedate=September 3, 2012 |accessdate=April 20, 2012 |deadurl=no |df= }}</ref> and the founder of the think tank [[Advanced Idea Mechanics]].<ref name="Pearce3">{{cite news |date=March 22, 2013 |title=Iron Man 3: Under the Armor with Guy Pearce |url=http://marvel.com/news/story/20330/iron_man_3_under_the_armor_with_guy_pearce |publisher=Marvel.com |accessdate=March 23, 2013 |archiveurl=https://www.webcitation.org/6FKyoT3FD?url=http://marvel.com/news/story/20330/iron_man_3_under_the_armor_with_guy_pearce |archivedate=2013-03-23 |deadurl=yes |df= }}</ref> On why he took the role, Pearce said, "I feel a little more experimental in what I'll take on these days, but I still don't know that I would want to play the superhero myself, since I'm playing a different kind of character in this film... The main difference was that, when I did ''[[The Time Machine (2002 film)|The Time Machine]]'', I was pretty much in all of it, so it was a really grueling experience. ''[[Prometheus (2012 film)|Prometheus]]'' and ''Iron Man'' are really kind of cameo stuff, so the experience of shooting them... I mean, on some level, it's tricky because you feel like a bit of an outsider. You don’t really live the experience that you do when you're there all day every day with everybody. But at the same time, it can be more fun sometimes because you're just working in concentrated spurts."<ref name="Pearce2">{{cite news|date=August 30, 2012 |first=Kyle |last=Buchanan |title=Guy Pearce on Lawless, Prometheus, and Finely Calibrated Camp |url=http://www.vulture.com/2012/08/guy-pearce-prometheus-and-camp.html |publisher=''[[New York (magazine)|New York]]'' / Vulture.com |accessdate=September 3, 2012 |archiveurl=https://www.webcitation.org/6APR6KGUq?url=http://www.vulture.com/2012/08/guy-pearce-prometheus-and-camp.html |archivedate=September 3, 2012 |deadurl=yes |df= }}</ref> Pearce described his character as a man "who came into this world with a number of physical disabilities. He’s never been able to accept those limitations though and has spent most of his life trying to overcome them in any way he can. His tenacity and blind determination in fighting for a better life are seen by some as irritating, as he often comes across as obnoxious. He just won’t accept the cards he was dealt, and being as intelligent as he is, has real drive to change and become a different person."<ref name="Pearce3" /> Of the character Mandarin, Kevin Feige stated, "The Mandarin is [Iron Man's] most famous foe in the comics mainly because he’s been around the longest. If you look, there’s not necessarily a definitive Mandarin storyline in the comics. So it was really about having an idea."<ref name="Collider">{{cite news|date=November 26, 2012 |title=Producer Kevin Feige Talks 'Iron Man 3', How It Relates to 'The Avengers', The Mandarin, Iron Patriot, and More |url=http://collider.com/iron-man-3-avengers-mandarin-iron-patriot/213638/ |publisher=''[[Empire (magazine)|Empire]]'' via Collider |accessdate=November 27, 2012 |archiveurl=https://www.webcitation.org/6Cv8N9mCH?url=http://collider.com/iron-man-3-avengers-mandarin-iron-patriot/213638/ |archivedate=December 15, 2012 |deadurl=no |df= }}</ref> As the film's version of the '''[[Mandarin (comics)|Mandarin]]''' as signified by the dragon tattoos on Killian's chest, he uses [[Trevor Slattery]] as a public face for his actions while [[Coldblood|Eric Savin]] and [[Ellen Brandt]] as enforcers. Killian's scheme is to eliminate President Matthew Ellis, convincing Vice President Rodriguez (portrayed by [[Miguel Ferrer]]) to follow in exchange for Rodriguez's disabled daughter (portrayed by [[Jenna Ortega]]) getting Extremis to restore a missing right leg.<ref>[http://www.latinospost.com/articles/17153/20130421/iron-man-3-spoilers-mandarin-twist-unveiled-will-fans-upset.htm "'Iron Man 3' Spoilers: The Mandarin Twist Unveiled? Will Fans Be Upset?"]. Latinos Post, April 21, 2013</ref> He fights with [[Tony Stark (Marvel Cinematic Universe)|Tony Stark]], whom he overpowers, but is then killed by [[Pepper Potts]] (who has been exposed to the Extremis virus), while Slattery and Rodriguez are arrested.
+
+===Video games===
+* The ''[[Iron Man 3: The Official Game|Iron Man 3]]'' video game shows Aldrich Killian's subconscious (via A.I.M.) converted into [[MODOK]] (voiced by Nick Sullivan).
+* The ''Iron Man 3'' version of Aldrich Killian appears in ''[[Lego Marvel Super Heroes]]'', voiced by [[Robin Atkin Downes]]. He and his Extremis soldiers accompany the [[Mandarin (comics)|Mandarin]] in an attack on Avengers Tower. He and the Mandarin are defeated by [[Iron Man]] and [[Captain America]].
+* The ''Iron Man 3'' version of Aldrich Killian appears in ''[[Lego Marvel's Avengers]]'', voiced by [[Greg Miller (Internet celebrity)|Greg Miller]].
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://marvel.wikia.com/Aldrich_Killian_%28Earth-616%29 Aldrich Killian] at Marvel Wiki
+* [http://www.comicvine.com/dr-aldrich-killian/4005-83640/ Aldrich Killian] at Comic Vine
+
+{{Iron Man}}
+
+{{DEFAULTSORT:Killian, Aldrich}}
+[[Category:Characters created by Warren Ellis]]
+[[Category:Comics characters introduced in 2005]]
+[[Category:Fictional scientists]]
+[[Category:Marvel Comics supervillains]]

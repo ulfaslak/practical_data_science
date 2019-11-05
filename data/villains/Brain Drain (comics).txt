@@ -1,0 +1,51 @@
+{{lead too short|date=August 2018}}
+{{refimprove|date=July 2016}}
+{{Infobox comics character| <!--Wikipedia:WikiProject Comics-->
+image=[[Image:BrainDrain.jpg|250px]]
+|caption=''Brain Drain'' as featured in a panel from ''[[Invaders (comics)|Invaders]]'' #2 (Oct. 1975). Art by [[Frank Robbins]].
+|character_name=Brain Drain
+|real_name=Werner Schmidt
+|species=
+|publisher=[[Marvel Comics]]
+|debut='''First mentioned''':<br>''Giant-Size [[Invaders (comics)|Invaders]]'' #1 (June 1975)<br>'''Full appearance''':<br>''Invaders'' #2 (Oct. 1975) 
+|creators=[[Roy Thomas]]<br>[[Frank Robbins]]
+|alliances=[[Omega Flight]]
+|aliases=
+|powers=Brilliant scientist<br>Mind control<br>Robot body
+|}}
+'''Brain Drain''' is a [[fictional character]] appearing in [[American comic book]]s published by [[Marvel Comics]].
+
+==Publication history==
+{{expand-section|date=April 2017}}
+Brain Drain first appears in ''[[Invaders (comics)|Invaders]]'' #2 (Oct. 1975) and was created by writer [[Roy Thomas]] and artist [[Frank Robbins]].
+
+==Fictional character biography==
+'''Werner Schmidt''' first appears as Brain Drain in the title ''[[Invaders (comics)|Invaders]]'', leading a group of beings claiming to be [[Continental Germanic mythology|Teutonic]] gods against [[World War II]] superhero team the Invaders. Brain Drain recounts in [[Flashback (narrative)|flashback]] his origin to [[Captain America]], explaining how a falling meteorite all but killed him. The "meteorite" was in fact a spaceship, with the four alien inhabitants saving Schmidt's brain and eyes and placing them in a robot body. With his brain waves heightened during the process, Schmidt dubs himself "Brain Drain" and taking mental control of the aliens - which he calls "Star Gods" - renames them after old German gods: [[Donar]], Log, [[Froh]], and [[Brunnhilde]]. When Brunnhilde is released, she taunts Brain Drain into committing suicide in a vat of chemicals, which destroy the characters. The Invaders escape as the aliens then destroy themselves and the installation.<ref>''Invaders'' # 1 - 2 (Aug. & Oct. 1975)</ref>
+
+The character is mentioned by fellow [[Nazism|Nazi]] villain [[Red Skull]] in the title ''[[Marvel Premiere]]'',<ref>''Marvel Premiere'' #30 (June 1976)</ref> and reappears in a two-part story in the title ''[[Marvel Two-In-One]]'', and together with Nazi allies [[Master Man (Marvel Comics)|Master Man]], [[U-Man]] and ''Skyshark'' plans to sabotage [[New York City]] with a new super weapon. The plan, however, is foiled by time-travelling [[Fantastic Four]] member the [[Thing (comics)|Thing]] and the [[Liberty Legion]].<ref>''Marvel Two-in-One Annual'' #1 (Jan. 1976) & ''Marvel Two-In-One'' #20 (Oct. 1976)</ref>
+
+The title ''[[Alpha Flight]]'' reveals that Brain Drain's brain casing is apparently lost in the snow below a mountain for decades, and is rescued after taking mental control of a nearby hiker. The character allies himself with the [[Master of the World (comics)|Master]], a perennial foe of the superhero team Alpha Flight. Joining the Master's team [[Omega Flight]] in a new robot body, Brain Drain and other villains battle the heroes on several occasions, before finally being defeated.<ref>''Alpha Flight'' #108 (May 1992); #110 - 112 (July - Sep. 1992) & #129 - 130 (Feb. - March 1994)</ref>
+
+Brain Drain is mentioned in the [[One-shot (comics)|one shot]] ''Miss America Comics 70th Anniversary Special'', as heroine [[Miss America (Madeline Joyce)|Miss America]] believes the character to be the mastermind behind a Nazi plan.<ref>''Miss America Comics 70th Anniversary Special'' (Aug. 2009)</ref>
+
+Brain Drain returns as an antagonist in ''[[The Unbeatable Squirrel Girl]]'' and is quickly defeated due to his extremely outdated technology (such as vacuum tubes) and crucial design flaws (specifically exposed wires). Upon realizing that Brain Drain did not have a choice about his evil actions due to his programming, [[Squirrel Girl]] and her roommate Nancy Whitehead updated his technology to modern standards. Upon awakening, he reveals that he intended to reform and was specifically seeking Squirrel Girl's help, after which he decides to audit computer science courses at [[Empire State University]], under the human name "Bryan Drain".<ref>''[[The Unbeatable Squirrel Girl]]'' vol. 2 #1 (Dec. 2015)</ref> Afterwards, he takes the recurring role as one of Squirrel Girl's superhero friends.
+
+==Powers and abilities==
+Werner Schmidt was a brilliant scientist.
+
+After his brain was transplanted into a robot body by aliens, Brain Drain gained the power of mind control.
+
+==References==
+{{reflist}}
+
+==External links==
+* {{Marvunapp|http://www.marvunapp.com/Appendix4/braindrain.htm|Brain Drain}}
+* [https://web.archive.org/web/20110716101025/http://www.alphaflight.net/alphanex/index.php?title=Brain_Drain '''AlphaFlight.Net''' Alphanex Entry on - Brain Drain]
+
+{{Flight Program}}
+{{Invaders}}
+
+[[Category:Characters created by Roy Thomas]]
+[[Category:Comics characters introduced in 1975]]
+[[Category:Marvel Comics supervillains]]
+[[Category:Nazis in comic book fiction]]

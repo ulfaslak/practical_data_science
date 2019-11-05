@@ -1,0 +1,51 @@
+
+{{Infobox comics character| <!--Wikipedia:WikiProject Comics-->
+image=[[Image:Lukin.PNG]]
+|caption=Aleksander Lukin<br>Art by [[Steve Epting]].
+|publisher=[[Marvel Comics]]
+|debut=''[[Captain America (comic book)|Captain America]]'' vol. 5 #1 (January 2005)
+|creators=[[Ed Brubaker]] (writer)<br>[[Steve Epting]] (artist)
+|alliances=Kronas Corporation<br/>[[Roxxon Energy Corporation|Roxxon Oil]]<br/>[[KGB]]
+|aliases=General Lukin, [[Red Skull]]
+|powers=Strategic genius, political mastermind
+}}
+'''Aleksander Lukin''' ({{lang-ru|Александр Лукин}}) is a [[fictional character]] appearing in [[American comic book]]s published by [[Marvel Comics]]. Lukin first appeared in ''[[Captain America (comic book)|Captain America]]'' vol. 5 #1 (January 2005), and was created by [[Ed Brubaker]] and [[Steve Epting]]. The character serves as the main [[antagonist]] of the Winter Soldier storyline.
+
+==Fictional character biography==
+Aleksander Lukin was born in the [[Soviet Union|Soviet]] village of Kronas some time in the late 1930s. His village was used as the [[Red Skull]]'s base of operations during the [[Second World War]].<ref>''Captain America'' vol. 5 #1</ref> Soviet troops attempt to retake the town, assisted by the [[Allies of World War II|Western Allies]]' [[Invaders (comics)|Invaders]] superhero team which include [[Captain America]] and [[Bucky Barnes]]; Aleksander's mother was killed during the battle's course. The Soviet forces' leader [[Vasily Karpov]] takes the orphaned Lukin under as a protege.<ref>''Captain America'' vol. 5 #5</ref>
+
+In the ensuing decades, Lukin became an important figure in the Soviet military and the [[KGB]], rising to the General rank.<ref name="Cap6">''Captain America'' vol. 5 #6</ref> After his mentor's passing, Lukin is left in custody of a large cache of special projects developed over the decades, including the Winter Soldier.<ref name="Cap6"/> He sells some of these devices to the highest bidders to raise funds. In one instance, he sells weapons to the Red Skull himself, but refuses to part with the Winter Soldier for anything less than the reality-altering [[Cosmic Cube]] (which the Red Skull was not in possession of and would not give up in any case).<ref>''Captain America'' vol. 5 #9</ref>
+
+Five years after that meeting, the Red Skull finally recovers the Cosmic Cube, only to be assassinated by the Winter Soldier on Lukin's orders. However, the Red Skull used the Cosmic Cube to transfer his own mind right before death into Lukin's body, leaving the two men stuck together "like rats in a cage".<ref>''Captain America'' vol. 5 #12-15</ref>
+
+Lukin uses the Cosmic Cube to enrich his legitimate business front Kronas Corporation. But when, in a fit of rage, the Cosmic Cube harms one of his friends, Lukin has the Cosmic Cube sent away. After the Winter Soldier destroys the Cosmic Cube and regains his own memories, Lukin and the Red Skull have worked uneasily together against their common foe Captain America, even as the Red Skull wages a campaign for control of Lukin's body; Lukin vows to kill himself before allowing that to happen.<ref>''Captain America'' vol. 5 #18</ref>
+
+Upon the Winter Soldier's discovery of Lukin's connection with the Red Skull, the Red Skull and Lukin fake 'their' death to continue to operate from the shadows.<ref>''Captain America'' vol. 5 #25</ref> With Bucky as Captain America, the pair contrive to abduct [[Sharon Carter]] to attach to a machine that will bring back the time-displaced Steve Rogers, however, their captive rebels and destroys the machine. In a last-ditch maneuver, [[Arnim Zola]] transfers the Red Skull's consciousness into a robot while Lukin is free at last before being gunned down by Carter only a few seconds afterwards.
+
+It was later revealed that Lukin was brought back from the dead by his wife Alexa, with the help of [[Grigori Rasputin|Rasputin]] and [[Selene (comics)|Selene]], amongst others.<ref name=":0">''Captain America'' vol. 9 #6</ref>
+
+==In other media==
+
+===Television and film===
+* Aleksander Lukin is mentioned in ''[[The Avengers: Earth's Mightiest Heroes]]''. In the episode "Widow's Sting", he has been contacted for his organized crime connections (along with [[Count Nefaria]]'s [[Maggia (comics)|connections]]) by [[Black Widow (Natasha Romanova)|Black Widow]] at [[Baron Strucker]]'s behest for [[Hydra (comics)|HYDRA]]. 
+* The character himself does not appear in the 2014 film ''[[Captain America: The Winter Soldier]]'' but [[Alexander Goodwin Pierce|Alexander Pierce]] ([[Robert Redford]]) bears many similarities to the character, primarily that of being the Winter Soldier's handler.<ref>http://marvelcinematicuniverse.wikia.com/wiki/Alexander_Pierce</ref>
+
+===Video games===
+* Aleksander Lukin's Kronas Corporation is featured in ''[[Spider-Man: Web of Shadows]]'' as the [[Vulture (Marvel Comics)|Vulture]]'s hideout to construct armor for the [[Kingpin (comics)|Kingpin]]'s forces.
+* Aleksander Lukin's Kronas Corporation appears in ''[[Lego Marvel Super Heroes]]''.
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://marvel.wikia.com/Aleksander_Lukin_%28Earth-616%29 Akelsander Lukin] at Marvel Wiki
+
+{{Captain America}}
+
+{{DEFAULTSORT:Lukin, Aleksander}}
+[[Category:Characters created by Ed Brubaker]]
+[[Category:Comics characters introduced in 2004]]
+[[Category:Fictional businesspeople]]
+[[Category:Fictional generals]]
+[[Category:Fictional Russian people]]
+[[Category:Marvel Comics supervillains]]

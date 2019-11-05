@@ -1,0 +1,41 @@
+{{Infobox comics character<!--Wikipedia:WikiProject Comics-->
+|character_name = Man-Eater
+|image          = 
+|caption        = 
+|publisher      = [[Marvel Comics]]
+|debut          = ''[[Silver Sable|Silver Sable and the Wild Pack]]'' #8 (January 1993)
+|creators       = [[Gregory Wright (comics)|Gregory Wright]] (writer)<br/>[[Steven Butler]] (artist)
+|alter_ego      = Malcolm Gregory "Greg" Murphy
+|full_name      =
+|species        = [[Human]]/[[Tiger]] hybrid
+|homeworld      = <!-- optional -->
+|alliances      = <br/>[[Wild Pack]]<br/>[[Avengers: The Initiative|The Initiative]]
+|partners       = <!-- optional -->
+|supports       = <!-- optional -->
+|aliases        =  <!-- optional: actual identities the character uses, not nicknames -->
+|powers         = Super-strength, durability, speed, agility, stamina, and senses<br>Claws
+}}
+'''Man-Eater''' is a [[fictional character]] published by [[Marvel Comics]]. He first appears in ''[[Silver Sable|Silver Sable and the Wild Pack]]'' #8, (January 1993), and was created by [[Gregory Wright (comics)|Gregory Wright]] and [[Steven Butler]].
+
+==Fictional character biography==
+Malcolm Gregory "Greg" Murphy, as the Man-Eater, is a merged tiger and human, in body and mind. This experiment was conducted by a splinter cell of [[Hydra (comics)|Hydra]] called the Genesis Coalition. He was freed from the experimentation that combined Malcolm Murphy with a tiger by [[Battlestar (comics)|Battlestar]] of [[Silver Sable]]'s [[Wild Pack]].<ref>''Silver Sable & the Wild Pack'' #8. Marvel Comics.</ref>
+
+He was a member of Silver Sable's [[Wild Pack#The Intruders|Intruders]] (with the [[Fin (comics)#Second Fin|Fin]], [[Lightbright]], [[Paladin (comics)|Paladin]], and [[Sandman (Marvel Comics)|Sandman]]) and served alongside the Wild Pack.<ref>''Silver Sable & the Wild Pack'' #9-16. Marvel Comics.</ref>
+
+Man-Eater was with the Wild Pack when they assisted Spider-Man in [[Latveria]] when rescuing [[Betty Brant]] from [[Dreadknight]].<ref>''Spider-Man Unlimited'' #16. Marvel Comics.</ref>
+
+Following the "[[Civil War (comics)|Civil War]]" storyline, Man-Eater is a member of the [[Avengers: The Initiative|Fifty State Initiative]]'s Vermont team called the Garrison,<ref>''The Official Handbook of the Marvel Universe A-Z hardcover'' Volume #5 (October 2008)</ref> alongside his old ally the Fin. They were first seen having been assigned to apprehend [[Thunderbolts (comics)|Thunderbolts]] member [[Robbie Baldwin|Penance]] only to be defeated by him.<ref>''Penance: Relentless'' #3. Marvel Comics.</ref>
+
+==Powers and abilities==
+Man-Eater possesses super-strength, durability, speed, agility, stamina, and senses that also include an acute sense of smell. In addition, he can also use his claws as weapons.
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://marvel.wikia.com/wiki/Malcolm_Murphy_(Earth-616) Man-Eater] at Marvel Wiki
+
+[[Category:Marvel Comics superheroes]]
+[[Category:Fictional tigers]]
+
+{{Marvel-hero-stub}}

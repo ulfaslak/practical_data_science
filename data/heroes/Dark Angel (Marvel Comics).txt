@@ -1,0 +1,50 @@
+{{for|Kathisul Evin, a herald of Galactus|Cyberspace 3000}}
+{{about|the [[Marvel UK]] comics character|other uses of the name in comics|Dark Angel (comics)}}
+{{Refimprove|date=August 2007}}
+{{Infobox comics character <!--Wikipedia:WikiProject Comics-->
+|image=
+|caption=
+|character_name=Dark Angel
+|real_name=Shevaun Haldane
+|species=[[Mutant (Marvel Comics)|Human Mutate]]
+|publisher=[[Marvel Comics]]
+|debut=''Hell's Angel'' #1 (July 1992)
+|creators= Bernie Jaye<br>[[Geoff Senior]]
+|alliances=[[MI-13 (comics)|MI-13]]
+|aliases=Hell's Angel
+|powers=
+}}
+'''Dark Angel''' ('''Shevaun Haldane'''), originally '''Hell's Angel''', is a [[fictional character|fictional]] [[superheroine]] from the [[Marvel Comics]] imprint [[Marvel UK]]. She first appeared in ''Hell's Angel'' #1 (July 1992); the character and the comic book were both renamed to ''Dark Angel'' with issue #6 due to legal threats from the [[Hells Angels]] biker club.<ref>[https://www.blogger.com/comment.g?blogID=5510941869814453320&postID=893451523810667361 Blog comment by former Marvel UK editor John Freeman]</ref> Their lawsuit was settled by Marvel agreeing to pay $35,000.00 as a charitable gift to Ronald McDonald House in the name of both Marvel and the Hell's Angels, in addition to renaming the character.<ref>Yves Lavigne, Hell's Angels At War, HarperCollins, 1999</ref>
+
+==Fictional character biography==
+In the Middle Ages, the sorcerers who would become the [[Mys-Tech]] Board of Directors were granted immortality by the demon [[Mephisto (comics)|Mephisto]] in exchange for the continued sacrifice of mortal souls. One of these men, Ranaulph Haldane, had a daughter named Shevaun in the modern period. When Shevaun was 21 years old, Mephisto killed her father for betraying him. Shevaun then saw the Angel of Death arrive for her father. The angel placed a fragment of the universe itself within Shevaun, and gave her a suit of high-tech body armor to control her new power. She fought Mys-Tech's agents and other techno-magical monsters across the Earth, in other dimensions, and in the afterlife.
+
+She teamed up with numerous other American heroes and anti-heroes in the process, including the [[X-Men]] (particularly [[Wolverine (character)|Wolverine]] and [[Psylocke]]), [[Hercules (Marvel Comics)|Hercules]], [[Sabretooth (comics)|Sabretooth]], [[Doctor Strange]], the [[Fantastic Four]] and the [[Avengers (comics)|Avengers]], as well as the "soul fragments" of the deceased [[Nuke (Squadron Supreme)|Nuke]] and [[Nighthawk (Marvel Comics)#Nighthawk I|Nighthawk]] of the [[Squadron Supreme]]. She also teamed up with and/or fought fellow Marvel UK characters [[Death's Head II]], the [[Knights of Pendragon]], the [[Warheads (comics)|Warheads]], [[Genetix (comics)|Genetix]], Wild Thing, and [[Motormouth (comics)|Motormouth]] and [[Killpower]], and joined several of these heroes in the short-lived team called the Dark Guard.
+
+Shevaun was one of the many superheroes who gathered to fight Mys-Tech in a literal apocalyptic showdown. The organization had created a double of the earth, which would grant them absolute power over the original one. The heroes would fight their way to the core of Mys-Tech, losing dozens of their own to death and destruction. Shevaun not only had to fight, she had to maintain her wildly fluctuating and painful powers to help the cosmos on a level few of her companions understood. In the end, only a small number of heroes were left alive and even a smaller number made it to the devices that could reverse time. Sevaun joined with the group, which included [[Professor X]], [[Doctor Strange]], Albion of the Knights of Pendragon, Death's Head and Motormouth (the last out of pure need more than anything else) and managed to reverse time just enough so that none of the heroes died and the earth wasn't in real danger. The Counter-Earth was blocked off from Mys-Tech. Only the heroes who made it to the end actually remembered all the chaos and death that had gone on before.
+
+Dark Angel later reappeared as one of British intelligence agency [[MI-13 (comics)|MI:13]]'s reserve agents, battling against an army of vampires on the moon. The caption accompanying her reintroduction stated that she was "back from space".<ref>''Captain Britain and MI13'' #15 (September 2009)</ref>
+
+Years later, she fought the Battle of London Bridge against Mys-Tech: the board were trying to get out of their deal with Mephisto by sending all of Britain to Hell. She was forced to have her allies [[Killpower]] and Kether Troop trapped in Hell to stop the demons from coming to Earth.<ref>''Revolutionary War: Alpha'' by Andy Lanning, Alan Cowsill and Rich Elson (2014)</ref>
+
+Shevaun found herself stuck with her father's 'karmic debts', as it turned out he'd signed ''her'' "in perpetuity" into his deal for power with Mephisto in order to get extra power and wealth ("I owe the Devil for a loan that has nothing to do with me"); she was forced to work for Mephisto in putting down demonic rebellions, which left her with exhausted powers and unable to do much superhero work. Instead, she was left slumped in front of DVD boxsets. Mephisto and the Psycho-Wraith Prime manipulated her into despair and trying to sign a deal of her own, giving up the Dark Angel powers. This saw her tricked and captured,<ref>''Revolutionary War: Dark Angel'' by Andy Lanning, Alan Cowsill and Rich Elson (2014)</ref> itself a trick so Mephisto could return her full power in the enemy's base and stop a Hell invasion that he'd helped set up: it got all his energies tied up in Mys-Tech contracts returned to himself, ''his'' debts nullified, and Shevaun left as a near-powerless "Miss Tech Hacker" who'd have to deal with the inevitable problems for him.<ref>''Revolutionary War: Omega'' by Andy Lanning, Alan Cowsill and Rich Elson (2014)</ref>
+
+==Reception==
+{{expand section|date=September 2017}}
+[[Comic Book Resources]] placed Hell's Angel as one of the superheroes Marvel wants you to forget.<ref>{{cite web|last1=Smith|first1=Gary|title=15 Superheroes Marvel Wants You To Forget|url=http://www.cbr.com/superheroes-marvel-wants-you-to-forget/|website=CBR|accessdate=2 September 2017|date=20 August 2017}}</ref>
+
+==Notes==
+{{reflist}}
+
+==References==
+{{refbegin}}
+*[http://www.marvunapp.com/Appendix/darkangelhaldane.htm Hell's Angel] at the Appendix to the Handbook of the Marvel Universe
+*[http://www.internationalhero.co.uk/h/hellangl.htm Hell's Angel] at the International Catalogue of Superheroes
+*{{gcdb series|id=4454|title=''Hell's Angel''}}
+*{{comicbookdb|type=character|id=6720|title=Dark Angel}}
+{{refend}}
+
+[[Category:Marvel Comics superheroes]]
+[[Category:Marvel Comics mutates]]
+[[Category:Marvel Comics characters who can teleport]]
+[[Category:Marvel UK characters]]

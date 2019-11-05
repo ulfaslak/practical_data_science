@@ -1,0 +1,60 @@
+{{Notability|date=February 2019}}
+{{Infobox comics character
+<!--Wikipedia:WikiProject Comics-->
+| character_name = Spear
+| image          = <!-- filename format only -->
+| imagesize      = <!-- default 250 -->
+| caption        = 
+| publisher      = [[Marvel Comics]]
+| debut          = ''[[Luke Cage|Power Man]]'' #28 (February 1976)
+| creators       = [[Don McGregor]]<br>[[Frank Robbins]]
+| full_name      = Jasper Daniels
+| species        = 
+| homeworld      = <!-- optional -->
+| alliances      = Flashmob 
+| powers         = Skilled marksman<br>Expert hand-to-hand combatant
+| cat            = 
+| subcat         = 
+| hero           = 
+| villain        = y
+| sortkey        = 
+| addcharcat#    = 
+}}
+
+'''Spear''' is a fictional supervillain appearing in [[American comic book]]s published by [[Marvel Comics]].
+
+==Publication history==
+Spear first appeared in ''[[Luke Cage|Power Man]]'' #28 and was created by [[Don McGregor]] and [[Frank Robbins]]. His full name was revealed in ''[[Fear Itself (comics)|Fear Itself]]: Fellowship of Fear'' #1.
+
+==Fictional character biography==
+Jasper Daniels is the brother of a convict named Jack Daniels and an unnamed brother who operated as [[Mangler]]. When Jack was dying of an inoperable brain tumor, he was a candidate for the "Power Man" experiments. When Jack couldn't survive the early "Power Man" experiments, Spear blamed Dr. [[Noah Burstein]] and began developing identities that would serve him in his quest to avenge his brother.<ref>''Power Man'' #35</ref>
+
+Spear watched Noah Burnstein from the shadows. Noah noticed him, but did not say anything to [[Luke Cage|Power Man]].<ref>''Power Man'' #28</ref>
+
+Spear fired on Dr. Burnstein while he was walking with Luke Cage and Claire Foster so that he can fight with Luke Cage. Despite Luke Cage's best efforts, Spear managed to do a near fatal shot on Dr. Burnstein and escaped. Shortly after the attack, Spear shot a hollow shaft with a message to Dr. Burnstein confirming his attack on him.<ref>''Power Man'' #33</ref>
+
+Spear later tracked Luke Cage's movements and was on hand to rescue Mangler after an ill-advised attack on Luke Cage. While Mangler distracted Luke Cage, Spear sent another message to Dr. Burnstein and once again decided to let him live. He left a message for him to meet him at the East River pier. When Dr. Burnstein did so, he was speared by Spear in front of Luke Cage's eyes. Two young adults witnessed Spear escaping the pier. Spear then attempted to rescue Mangler from police custody which was thwarted by Luke Cage. Not wanting to lose another son, Spear's mother tipped off Luke Cage and Quentin Chase as to his whereabouts. Luke Cage and Quentin Chase confronted Spear at his tenement apartment. He engaged Luke Cage in a running battle which took to the top of an outbound bus which crashed into the Hudson River. After knocking out Spear, Luke Cage handed him over to the police.<ref>''Power Man'' #34</ref>
+
+During the ''[[Shadowland (comics)|Shadowland]]'' storyline, Spear appeared as a member of [[Nightshade (Marvel Comics)|Nightshade]]'s Flashmob (which also consisted of [[Chemistro]] II, [[Cheshire Cat (comics)|Cheshire Cat]], [[Comanche (comics)|Comanche]], [[Dontrell Hamilton]], and [[Mr. Fish]] II) where they attacked [[Power Man (Victor Alvarez)|Victor Alvarez]] on a rooftop. Spear was quickly pinned to the wall by Power Man and then knocked out by Luke Cage. Flashmob was remanded to Ryker's Island. Nightshade's solicitor [[Big Ben Donovan]] was able to secure Spear's release.<ref>''Shadowland: Power Man'' #2</ref>
+
+During the ''[[Spider-Island]]'' storyline, Spear was with Flashmob when they tried to leave a spider-infested Manhattan only to be defeated by [[Heroes for Hire]].<ref>''Spider-Island: Heroes for Hire'' #1</ref>
+
+After his brother Mangler is attacked by a gang of "[[Precrime|preemptive]]" vigilantes, Spear and the relatives of other ex-cons who had been assaulted resort to asking the Heroes for Hire for help. The vigilantes crash the meeting followed by the New York City Police Department. In the confusion that follows, Spear is arrested along with Iron Fist.<ref> {{Cite comic|writer = David Walker|penciller = Flaviano|inker = Flaviano|colorist = John Rauch|letterer = VC's Clayton Cowles|editor = Jake Thomas|title = Power Man and Iron Fist|volume = 3|issue = #6|date = 13 July 2016|publisher = Marvel Comics|location = United States}} </ref> Spear is remanded to Ryker's Island where he reunites with his brother Mangler. Together, the two form a group with Iron Fist and fellow inmates [[Gamecock (comics)|Gamecock]] and Big Ben Donovan's son Little Ben Donovan.<ref> {{Cite comic|writer = David Walker|penciller = Sanford Greene and Flaviano|inker = Sanford Greene and Flaviano|colorist = John Rauch|letterer = VC's Clayton Cowles|editor = Jake Thomas|title = Power Man and Iron Fist|volume = 3|issue = #7|date = 17 August 2016|publisher = Marvel Comics|location = United States}} </ref>
+
+==Powers and abilities==
+Spear is a skilled marksman where he is an expert with a unique speargun that he created where it fires a variety of unique ammunition like forked spears, incendiary and explosive shafts, and hollow shafts containing messages or gasses. He is also an expert at hand-to-hand combat.
+
+==In other media==
+Spear appears in ''[[The Avengers: Earth's Mightiest Heroes]]'' episode "To Steal an Ant-Man." He appears as a member of [[Crossfire (comics)|William Cross]]' gang.
+
+==References==
+{{reflist}}
+
+==External links==
+* [https://marvel.fandom.com/wiki/Jasper_Daniels_(Earth-616) Spear] at Marvel Wiki
+* [http://comicvine.gamespot.com/spear/4005-57273/ Spear] at Comic Vine
+* {{Marvunapp|http://www.marvunapp.com/Appendix/spearpm.htm|Spear}}
+
+{{Luke Cage}}
+
+[[Category:Marvel Comics supervillains]]

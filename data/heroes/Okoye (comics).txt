@@ -1,0 +1,55 @@
+{{Infobox comics character
+<!--Wikipedia:WikiProject Comics-->
+| character_name = Okoye
+| image          =https://vignette.wikia.nocookie.net/marveldatabase/images/7/7d/Okoye_%28Earth-616%29_from_Amazing_Spider-Man_Wakanda_Forever_Vol_1_1_cover_001.jpg/revision/latest?cb=20180906014011 
+| imagesize      = <!-- default 250 -->
+| caption        =
+| publisher      = [[Marvel Comics]]
+| debut          = ''[[Black Panther (comic book)|Black Panther]]'' #1 (November [[1998 in comics|1998]])
+| creators       = [[Christopher Priest (comics)|Christopher Priest]]<br>[[Mark Texeira]]
+| species        = Human
+| alliances      = [[Dora Milaje]]<br>Agents of Wakanda
+| sortkey        = Okoye
+|Abilities=Expert martial artist}}
+'''Okoye''' is a fictional character, a member of the [[Dora Milaje]] in [[Marvel Comics]]. The character, created by [[Christopher Priest (comics)|Christopher Priest]] and [[Mark Texeira]], first appeared in ''[[Black Panther (comic book)|Black Panther]]'' #1 (November [[1998 in comics|1998]]) within the comics.
+
+She appears more prominently in the [[Marvel Cinematic Universe]] films ''[[Black Panther (film)|Black Panther]]'' and ''[[Avengers: Infinity War]]'' portrayed by [[Danai Gurira]].
+
+==Publication history==
+Okoye first appeared in ''[[Black Panther (comic book)|Black Panther]]'' #1 (November 1998). She last appeared in ''Black Panther'' #62 in 2003 until returning in ''Black Panther'' #171. (2018)<ref>{{cite web|author=Erao, Matthew|title=Black Panther's Okoye Jumps from Movie to Marvel Comics|url=https://screenrant.com/black-panther-okoye-marvel-comics-return/|website=[[ScreenRant]]|accessdate=May 12, 2018|date=March 28, 2018}}</ref>
+
+==Fictional character biography==
+She joined alongside her friend [[Malice (comics)#Malice (Black Panther villain)|Nakia]] to be among T'Challa's wives-in-training. However, when Okoye discovered that T'Challa had no interest in marrying either of them, she immediately came to accept this.<ref>''Black Panther'' (Vol. 3) #11. Marvel Comics.</ref> She has since stood at T'Challa's side preferring only to speak in Xhosa. Okoye accompanied T'Challa when he recruited Queen Divine Justice.<ref>''Black Panther'' (Vol. 3) #25. Marvel Comics.</ref> She was also with T'Challa when they tested [[White Tiger (Kasper Cole)|Kasper Cole]] on whether he was worthy of the Black Panther garb. Okoye herself tested Kasper if he would stay with his pregnant girlfriend or leave her for Okoye.<ref>''Black Panther'' (Vol. 3) #62. Marvel Comics.</ref>
+
+Okoye later appears as a member of the Agents of Wakanda.<ref>''Avengers'' Vol. 8 #12. Marvel Comics.</ref>
+
+==Skills and abilities==
+Okoye is highly skilled in multiple forms of combat, being one of the key members of the Dora Milaje. She is exceptional in using various Wakandan weaponry and tools.
+
+==In other media==
+===Television===
+* Okoye has a non-voiced cameo in ''[[The Avengers: Earth's Mightiest Heroes]]''. She is a member of T'Challa's Dora Milaje.
+* Okoye appears in ''[[Lego Marvel Super Heroes - Black Panther: Trouble in Wakanda]]'', voiced by [[Yvette Nicole Brown]].<ref>https://news.marvel.com/tv/89419/okoye-works-to-help-save-shuri-in-new-lego-marvel-super-heroes-black-panther-trouble-in-wakanda-short/</ref>
+
+===Film===
+* [[Danai Gurira]] portrays Okoye in the [[Marvel Cinematic Universe]].<ref>{{cite web|url=http://marvel.com/news/movies/26504/sdcc_2016_marvels_black_panther_confirms_additional_cast |title=SDCC 2016: Marvel's 'Black Panther' Confirms Additional Cast |last=Strom |first=Marc |work=[[Marvel Comics|Marvel.com]] |date=July 23, 2016 |accessdate=July 23, 2016 |archiveurl=https://archive.is/20160724070422/https://marvel.com/news/movies/26504/sdcc_2016_marvels_black_panther_confirms_additional_cast |archivedate=July 24, 2016 |deadurl=no |df= }}</ref>
+** Okoye appears in ''[[Black Panther (film)|Black Panther]]'' where she is the general of the Dora Milaje. She has the utmost respect for T'Challa and the nation of Wakanda and is the lover of [[W'Kabi]]. She stands beside T'Challa for the majority of the film, but is forced to switch her allegiance to [[Erik Killmonger]] when he usurps the throne. After seeing that T'Challa is alive, and thus still legally King with the personal combat challenge incomplete, she leads the Dora to fight against Killmonger the moment he invalidates his own claim by refusing to continue the challenge. During W'Kabi's fight with M'Baku, Okoye eventually convinces W'Kabi to stand down causing those fighting alongside him to also stand down.
+** Okoye returns in ''[[Avengers: Infinity War]]''.<ref>{{cite web|url=http://deadline.com/2017/06/avengers-infinity-war-danai-gurira-the-walking-dead-all-eyez-on-me-tupac-shakur-1202112987/|title=‘The Walking Dead’s Danai Gurira Starring In ‘Avengers: Infinity War’|first=Mike Fleming|last=Jr|date=14 June 2017|publisher=}}</ref> She fights alongside the Avengers in Wakanda against [[Thanos]]' forces. She survives when Thanos eliminates half of all life in the universe, but watches in horror as T'Challa disintegrates.
+
+===Video games===
+* Okoye appears in ''[[Lego Marvel Super Heroes 2]]''.<ref>{{Cite web|url=http://www.ign.com/articles/2018/02/13/lego-marvel-super-heroes-2-black-panther-dlc-revealed|title=LEGO Marvel Super Heroes 2 Black Panther DLC Revealed|last=Dornbush|first=Jonathon|date=13 February 2018|website=IGN|language=en-US|access-date=21 April 2018}}</ref> She appears in the "Black Panther" DLC.
+* Okoye appears in ''[[Avengers Academy]]'' voiced by [[Bindy Cody]].
+
+==References==
+{{reflist}} 
+
+{{Black Panther}}
+
+[[Category:Characters created by Christopher Priest]]
+[[Category:Comics characters introduced in 1998]]
+[[Category:Female characters in comics]]
+[[Category:Wakandans]]
+[[Category:Marvel Comics martial artists]]
+[[Category:Fictional women soldiers and warriors]]
+<br />
+[[Category:Marvel Comics superheroes]]

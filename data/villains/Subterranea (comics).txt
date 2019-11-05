@@ -1,0 +1,165 @@
+{{Infobox fictional location
+| name        = Subterranea
+| image       = 
+| image_size  = 
+| caption     =
+| blank_label = [[:Category:Comics publishing companies|Publisher]]
+| blank_data  = [[Marvel Comics]]
+| first       = ''[[Fantastic Four]]'' #1 (November 1961)
+| blank_label1 = Creators
+| blank_data1 =
+| type        = 
+| people      = [[Mole Man]]<br>[[Tyrannus (comics)|Tyrannus]]
+| races       = Deviant Mutates<br>Ghouls<br>Gortokians<br>Lava Men<br>Lizard Men<br>Molans<br>Moloids<br>Tyrannoids
+| locations   = 
+}}
+'''Subterranea''' is a fictional realm far beneath the Earth's surface appearing in [[American comic book]]s published by [[Marvel Comics]].
+
+==Description==
+Subterranea is a network of massive caves, passages, and tunnels, some large enough to hold cities, that are inhabited by the various races of '''Subterraneans'''. The first recorded entrance to Subterranea was found at [[Monster Isle]]. Subterranea contains water in underground rivers, pools, and lakes. It has high temperatures and no weather and its atmosphere is roughly the same as Earth's surface with fresh air supplied through passages to the surface world.
+
+In addition to the different races of Subterraneans, the [[Outcasts (Marvel Comics Subterranea)|Outcasts]] live in Subterranea and serve the [[Mole Man]].
+
+==History==
+Subterranea is a kingdom that was built beneath the surface of the [[Earth]]. At one point, it was home to the [[Deviant (comics)|Deviants]]. Subterranea did not actually lie at the center of the Earth, but instead consisted of a seemingly planet-wide network of caverns lying miles beneath Earth's surface. Around 20,000 years ago, the priests of the city of [[Kala (comics)|Netheria]] (which was located on [[Atlantis (Marvel Comics)|Atlantis]]) foresaw that Atlantis would be attacked by the Deviants who had their empire based in Lemuria. Therefore, the people of Netheria enclosed their city in a dome of an unknown plastic-like substance and excavated and fortified their city's foundations. Consequently, when Atlantis sank, Netheria remained intact and its people survived, having discovered a means of recycling their air supply. Netheria sank more deeply over the years until it finally came to rest in a huge sub-sea cavern. Afterwards, the Netherians renamed their realm the Netherworld and are now known as the Netherworlders.
+
+The Fantastic Four made their first journey into Subterrenea where they discovered that [[Mole Man]] and his Moloids reside there. It is also where the Deviant Mutates from Monster Isle make their home.<ref>''Fantastic Four'' #1</ref>
+
+The immortal Roman scientist/sorcerer [[Tyrannus (comics)|Tyrannus]] also makes his home in Subterranea where he rules over the Moloid offshoots called the Tyrannoids.
+
+During the ''[[Avengers vs. X-Men]]'' storyline, [[Mister Sinister]] has built his own city (based on Victorian-era London) in the Moloids' underground tunnels within Subterranea. The city is inhabited solely by clones of himself and his castle is on the back of a clone of [[Krakoa]]. After disposing of a rebel clone, he explains to one of his other clones that he has foreseen that the Phoenix Force would come after [[Hope Summers (comics)|Hope Summers]] and that the Avengers would try to stop it and clash against the X-Men, resulting in the creation of the Phoenix Five (consisting of Phoenix Force-possessed versions of [[Cyclops (Marvel Comics)|Cyclops]], [[Colossus (comics)|Colossus]], [[Emma Frost]], [[Magik (comics)|Magik]] and [[Namor]]). He also knows that the Phoenix Five will soon come after him and intends to take the Phoenix energy away from them by using a group of [[Madelyne Pryor]] clones.<ref>''Uncanny X-Men'' vol. 2 #14</ref> The Phoenix Five leave their teammates behind and track Mister Sinister to [[Anchorage, Alaska]] (Cyclops' birthplace) finding out that he built his city in the underground tunnels beneath Anchorage. Mister Sinister then orders his clones to enter into war against the Phoenix Five.<ref>''Uncanny X-Men'' Vol. 2 #15</ref>
+
+==Points of interest==
+There are some famous locations in Subterranea:
+
+* '''The Abandoned City''' - This was an abandoned city that was once used by the [[High Evolutionary]]. It has recently been raised to the surface world in the United States with its inhabitants wanting their city to be declared its own independent nation.
+* '''Lechuguilla''' - One of the Moloid cities in Subterranea.
+* '''Meramec''' - An underwater city that is inhabited by aquatic Moloids.
+* '''The Valley of Diamonds''' - A valley made up of many diamonds that are so bright, they can blind anyone that sees it. Anyone who wants to travel through the Valley of Diamonds must wear special sunglasses.
+
+==Subterraneans==
+{{Infobox comics species
+<!--Wikipedia:WikiProject Comics-->
+|species   = Subterraneans
+|image   = <!-- filename format only -->
+|imagesize = <!-- default 250 -->
+|caption   = 
+|publisher = [[Marvel Comics]]
+|debut     = '''(Ghouls)'''<br>''[[Marvel Mystery Comics]]'' #10 (August 1940)<br>'''(Gortokians)'''<br>''[[Uncanny X-Men|X-Men]]'' vol. 1 #41 (February [[1968 in comics|1968]])<br>'''(Lava Men)'''<br>''[[Journey into Mystery]]'' vol. 1 #97 (October [[1963 in comics|1963]])<br>'''(Lizard Men)'''<br>''[[Tales to Astonish]]'' vol. 1 #24 (October [[1961 in comics|1961]])<br>'''(Molans)'''<br>''[[Avenging Spider-Man]]'' #1 (January 2012)<br>'''(Moloids)'''<br>''[[Fantastic Four]]'' vol. 1 #22 (January [[1964 in comics|1964]])<br>'''(Tyrannoids)'''<br>''[[The Incredible Hulk (comic book)|The Incredible Hulk]]'' vol. 1 #5 (May [[1962 in comics|1962]])
+|creators  = '''(Gortokians)'''<br>[[Roy Thomas]] and [[Don Heck]]'''<br>(Lava Men)'''<br>[[Jack Kirby]]<br>'''(Moloids)'''<br>[[Stan Lee]] and Jack Kirby
+|deities   = 
+|homeworld = 
+|members   = 
+|powers    = 
+|subcat    = Marvel Comics
+|altcat    = 
+|sortkey   = Subterranea
+|human+    = y
+}}
+Subterranea has various races that live in this underground location. The races of Subterranea are referred to as '''Subterraneans'''. Among the known Subterraneans are:
+
+===Ghouls===
+The '''[[Ghoul]]s''' (also known as the '''Demons of the Mist''') are a Subterranean race of unknown origin. There were two variants of the race, distinguished by their different sizes.
+
+* The smaller Ghouls were more savage and worshipped the molten lava in their domain as some kind of fire god where they would offer up sacrifices.
+* The larger Ghouls are more civilized and have constructed massive underground cities.
+
+The Ghouls first appeared in ''Marvel Mystery Comics'' #10.
+
+===Gortokians===
+The '''Gortokians''' were the first race of Subterraneans. They were created millennia ago by the Deviants as a slave race but they soon rebelled. In recent years, the Gortokians were planning an invasion of the surface world but an underground nuclear test staged by an unwitting surface nation devastated the entire race, killing them all either outright or by the resulting radiation poisoning. The only known survivor is [[Grotesk (comics)|Grotesk]], who is best known for having apparently killed the [[X-Men]]'s leader [[Professor X]] (but who was actually the shape-shifter [[Kevin Sydney|Changeling]]).
+
+The Golden People of the [[Savage Land]] are the descendants of the Gortokians.
+
+The Gortokians first appeared in ''X-Men'' #41 (February 1968), and were created by [[Roy Thomas]] and [[Don Heck]].
+
+===Lava Men===
+The '''Lava Men''' are a race of Subterraneans who were mutated by the demon Cha'sa'dra (a native of [[Otherplace|Limbo]]) into a lava-skinned form. The first Lava Man to visit the surface world was Jinku, who was propelled to the surface by a volcanic reaction triggered by the trickster god [[Loki (comics)|Loki]]. This Lava Man fought [[Thor (Marvel Comics)|Thor]] before he was returned underground. Later he and other Lava Men later fought Thor's teammates, the [[Avengers (comics)|Avengers]]. Cha'sa'dra was among the demons of Limbo who appeared on Earth during the "[[Inferno (Marvel Comics)|Inferno]]" storyline, and when he was destroyed in combat with the Avengers, the Lava Men were apparently transformed into solid, non-living matter.
+
+Lava Men have red skin of rock-hard consistency. A Lava Man's body has twice the density of a normal human being's. Upon death a normal Lava Man immediately decomposes into dust. A small number of Lava Men have undergone a metamorphosis giving them golden skins. Grotesk has rendered all Lava Men mute under his rule. No clearly female Lava Men have been depicted to date.
+
+Less than one thousand Lava Men are known to exist. The Lava Men formerly had a tribal government, but became a monarchy ruled by Grotesk, although the golden Lava Men remained under tribal rule. Their technology level is primitive and the Lava Men are deeply religious, and peaceful except when stirred to war by religious fervor. Lava Men were formerly nomadic. Though not a Lava Man himself, Grotesk ruled the red Lava Men. Jinku was a shaman of the gold Lava Men. Other known Lava Men have included the golden Lava Men Akor, Danka and Kelak, as well as the deceased Molto. Enemies of the Lava Men have included the [[Avengers (comics)|Avengers]], [[Thor (Marvel Comics)|Thor]], the Moloid and Tyrannoid Subterraneans, Brutus and the [[Deviant (comics)|Deviants]]. Major allies of the Lava Men have included Grotesk, [[Monica Rambeau|Captain Marvel II]] and formerly Cha'sa'dra.
+
+The first reported appearance of a Lava Man on Earth's surface was Molto, in ''[[Journey into Mystery]] #97'' (October 1963) by [[Jack Kirby]].
+
+Molto appeared on Earth's surface, and battled [[Thor (Marvel Comics)|Thor]] in New York City. Molto became Thor's friend afterwards, however.<ref>''Journey Into Mystery'' #97</ref> The [[Avengers (comics)|Avengers]] later fought the Lava Men in Subterranea when they tried to force a 'living rock' that was emitting deadly sound waves to the surface, hoping that when it eventually exploded it would wreck Earth and not their realm. However the Hulk was tricked into striking the spot, which ended up destroying it. Thor allowed the rest of the Lava Men to return home.<ref>''Avengers'' #5</ref>
+
+Jinku plotted to use the [[Mole Man]]'s machine to activate all volcanoes on the Earth. Molto was mortally wounded by Jinku, but warned Thor and the [[Human Torch]] about Jinku before dying. Thor wrecked the machine and the Torch led the Moloid Subterraneans in defeating the Lava Men.<ref>''Marvel Team-Up'' #26</ref>
+
+A [[Project Pegasus|Project: Pegasus]] borer probe wreaked havoc in a Lava Men settlement and they retaliated by invading Project: Pegasus. The Lava Men clashed with the Avengers again before returning to Subterranea.<ref>''Avengers'' #236-237</ref> The Lava Men became involved in a war against the other Subterranean races and managed to capture the Mole Man.<ref>''Fantastic Four'' #313</ref>
+
+Jinku magically created a group of non-sentient Lava Men that attacked the Avengers and [[Hydro-Base]]. It was revealed how the demon Cha'sa'dra transformed a group of Gortokian Subterraneans into the first Lava Men and how Cha'sa'dra's death killed hundreds of Lava Men and placed others in an immobile "chrysalis" state. The vengeful Jinku unleashed a monster against the Avengers in Subterranea.  The immobile Lava Men attained new golden forms and Jinku was similarly transformed. However, they all made peace with the Avengers.<ref>''Avengers'' #305-306, 308</ref>
+
+Later, the remaining untransformed red Lava Men came under the rule of [[Grotesk (comics)|Grotesk]]. Some of the Lava Men fled to the surface to escape the war in Subterranea, but were forced to return.<ref>''Avengers Annual'' #20</ref>
+
+Lava Men have a high resistance to extreme heat and flame. They continually generate intense heat from their bodies and can increase the amount of heat at will, enough to be able to melt a weapon in its vicinity. They have a mystical ability to cause large amounts of volcanic ash to appear, seemingly from nowhere, and to transform metal into ash. They also have immunity to aging. Some Lava Men can mystically transform themselves into {{convert|20|ft|m|adj=mid|-tall}} giants composed of hardened lava. Some Lava Men can mystically command molten lava to do their bidding by performing a ritual prayer to the [[List of Marvel Comics demons|demons]] they worship. The golden Lava Men can transform their shapes, and in doing so, even merge their bodies with one another. They once formed themselves into a large sphere that could defy gravity. Jinku has mystically created non-sentient Lava Men which possess the superhuman powers of the real Lava Men. Lava Men had unusually acute hearing and night vision to enable them to function more easily in the darkness of Subterranea.
+
+===Lizard Men===
+The '''[[List of reptilian humanoids|Lizard Men]] of Subterranea''' are a race of humanoid [[lizard]]s created as slaves to the Deviants. When the Deviants abandoned Subterranea, the Lizard Men of Subterranea grew into an underground society.
+
+The Lizard Men of Subterranea traveled through a system of Earth's caves where one of their numbers became lost in the Himalaya Mountains. They sent a scout with a fur covering out to look for that operative where the Lizard Man in question was mistaken for a [[Yeti]]. The scout ended up coming across Victor Cartwright who was faking a documentary of a Yeti when he and his assistant Fred Cooper could not find the actual one. The scout took Victor underground with Fred in pursuit. When the Lizard Men planned to kill Victor in order to keep their society a secret, Fred came to Victor's rescue.<ref>''Tales to Astonish'' #24</ref>
+
+Sometime later, a hardened convict named Eric Kane serving a life sentence in an African prison camp escaped and hid in a cave behind a waterfall where he stumbled into the underground society of unrelated Lizard Men while looking for another way out. The Lizard Men ended up welcoming him and stating that a special diamond had given them light. When Eric asked the Lizard Men why they have not gone to the surface for light, they tell him that they cannot breathe the surface world's air even in the upper regions of the cave. The Lizard Men allowed Eric to be their honored guest. Eric was interested only in taking the diamond. When Eric managed to take the diamond and run, the Lizard Men went after him as they warned him to drop the diamond while he has the chance as it was dangerous. Eric was too fast for the Lizard Men. The diamond emitted radiation that transformed him into a Lizard Man, making him unable to breathe the surface world's air, and he retreated back to the Lizard Men. The other Lizard Men shunned Eric despite the fact that he had returned the diamond to them. While living as an outcast, Eric was left wondering if the diamond's effects will ever wear off and return him to human form.<ref>''Journey into Mystery'' #64</ref>
+
+Kro later dispatched the Lizard Men to the Midnight Mountains in Borneo in order to assist in the capture of Makkari (who had taken the disguise of the superhero Hurricane to serve as a member of the Monster Hunters). Makkari's teammates aided him in the fight against the mutant monster [[Gorgilla]] as Makkari is ensnared by a Bloodhound Missile launched by the Lizard Men. The Lizard Men dragged Makkari down into Subterranea with [[Ulysses Bloodstone]] in hot pursuit. The Lizard Men destroyed the entrance to their tunnel to keep Ulysses Bloodstone from following them. At least one Lizard Man was left behind and his mind was probed by [[Doctor Druid]].<ref>''Marvel Universe'' #6</ref> The Monster Hunters later left the last Lizard Men under the care of Gorgilla.<ref>''Marvel Universe'' #7</ref>
+
+The Lizard Men of Subterranea are much different from the Lizard Men that reside in the [[Savage Land]] and the Lizard Men of Tok (from the [[Features of the Marvel Universe#Extradimensional places|Microverse]]).
+
+The Lizard Men of Subterranea first appeared in ''Tales to Astonish'' #24.
+
+===Molans===
+The '''Molans''' are a race that was created by the Deviants. After the Deviants left Subterranea, the Molans grew into their own distinct society. They first appeared in ''Avenging Spider-Man'' #1 when they alongside their leader Ra'ktar end up overthrowing Mole Man after his Moloids had captured Mayor [[J. Jonah Jameson]].<ref>''Avenging Spider-Man'' #1</ref> Spider-Man and [[Thunderbolt Ross|Red Hulk]] end up coming to J. Jonah Jameson's rescue where Red Hulk ends up fighting Ra'ktar. Ra'ktar manages to easily cut down Red Hulk.<ref>''Avenging Spider-Man'' #2</ref> Spider-Man manages to get J. Jonah Jameson back to the surface while he goes back for Red Hulk. Spider-Man later duels Ra'ktar using a weapon that Ra'ktar forged for him. Spider-Man managed to defeat Ra'ktar and managed to work out a treaty between the Molans and Mole Man.<ref>''Avenging Spider-Man'' #3</ref>
+
+The Molans first appeared in ''[[Avenging Spider-Man]]'' #1.
+
+===Moloids===
+The '''Moloids''' (or '''Mole People''') were the next race to be created by the Deviants. The Moloids are the physically weakest of the Subterraneans and consequently they almost always act in great numbers. Due to their physical and mental weakness, the Deviants rejected them and attempted to exterminate them all. Today, they serve the [[Mole Man]], and have frequently fought the [[Fantastic Four]] alongside their master and his monsters.
+
+The Moloids have a yellow-skinned subspecies called the Disians who live in the underground tunnels of the [[Savage Land]].
+
+Moloids are seen collecting and spiriting away the [[Punisher]]'s body parts, after he is [[dismemberment|dismembered]] and [[decapitation|decapitated]] by [[Wolverine (character)|Wolverine]]'s son [[Daken]], acting on the orders of [[Green Goblin|Norman Osborn]]. They are seemingly operating under the protection of [[Man-Thing]].<ref>''Dark Reign - The List - The Punisher'' #1</ref>
+
+Four evolved Moloids named Kor, Mik, Tong and Turg are members of the [[Future Foundation]].
+
+The Moloids first appeared in ''Fantastic Four'' #22 (January 1964), and were created by [[Stan Lee]] and [[Jack Kirby]].
+
+===Tyrannoids===
+The '''Tyrannoids''' are an offshoot of the Moloids who serve the near-immortal surface-world exile [[Tyrannus (comics)|Tyrannus]], to whom they showed the [[Fountain of Youth]]. They are not quite as weak or simple-minded as their Moloid cousins. As pawns of Tyrannus, the Tyrannoids have fought [[Hulk (comics)|Hulk]] on several occasions.
+
+The Tyrannoids first appeared in ''The Incredible Hulk'' #5.
+
+==Other versions==
+===''JLA/Avengers''===
+In the crossover miniseries ''[[JLA/Avengers]]'', Subterraneans are among the enthralled villains defending [[Krona (comics)|Krona]]'s stronghold.<ref>''JLA/Avengers'' #4</ref> The Lava Men are among the first villains faced. The Moloids are defeated by [[Iron Man]] and [[Aquaman]].{{issue|date=July 2016}}
+
+===''Secret Wars'' (2015)===
+During the 2015 ''[[Secret Wars (2015 comic book)|Secret Wars]]'' storyline, the Mole Man of Technopolis establishes the underground kingdom of Subterranea near the Shield. Mole Man even had the security of Subterranea by using stolen technology from Technopolis and modifying deactivated Ultron Sentinels from Perfection. The Punisher of Egyptia and the Iron Fist of the Domain of Apocalypse stumbled onto this where they help to stop a malfunctioning Ultron. Even though Mole Man broke one of God Emperor Doom's laws, he was allowed to continue running Subterranea as the Shield's sub-domain without having to submit to God Emperor Doom.<ref>''Secret Wars Journal'' #5</ref>
+
+==In other media==
+
+===Television===
+* Subterranea appears in the 1967 ''[[Fantastic Four (1967 TV series)|Fantastic Four]]'' episodes "Menace of the Mole Man" and "Return of the Mole Man."
+* Subterranea appears in the 1978 ''[[Fantastic Four (1978 TV series)|Fantastic Four]]'' episode "The Mole Man."
+* Subterranea appears in the 1994 ''[[Fantastic Four (1994 TV series)|Fantastic Four]]'' episode "Mole Man."
+* Subterranea first appears in the ''[[Fantastic Four: World's Greatest Heroes]]'' episode "De-Mole-ition." Here, the Moloids are fungus-based life-forms similar to the Ultimate Marvel version of them.
+* Subterranea appears in the ''[[Hulk and the Agents of S.M.A.S.H.]]'' episode "Of Moles and Men." The Moloids hail Hulk as their king where they thanked Hulk for defeating a Larvae-Beast that has been tormenting their city. Hulk considers remaining in Subterranea to protect the Moloids in case another Larvae-Beast shows up. It was also shown that the Moloids were also defended by Mole Man until he was captured by the Larvae-Beasts. The Queen Larvae-Beast has been using the floor that has lava underneath it to incubate its eggs. When the Queen Larvae-Beast reaches the surface, the Agents of S.M.A.S.H. end up fighting it where they are assisted by Mole Man and the Moloids where they used their solar-powered spears to fight the back the Queen Larvae-Beast. Upon luring it out of town, the Agents of S.M.A.S.H. use a large rock structure to crush the Queen Larvae-Beast. Afterwards, Hulk decides to stay in Vista Verde while Mole Man and the Moloids return to Subterranea.
+
+===Video games===
+* The Moloids and the Lava Men appear in ''[[Marvel Heroes (video game)|Marvel Heroes]]''.
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://marvel.wikia.com/Subterranea Subterranea] at Marvel Wiki
+* [http://www.comicvine.com/subterranea/34-56652/ Subterranea] at Comic Vine
+* [http://www.marveldirectory.com/groupsandteams/lavamen.htm Lava Man of Subterranea] at Marvel Directory
+* {{Marvunapp|http://www.marvunapp.com/Appendix/lizardmen.htm|Lizard Men of Subterrenea}}
+
+{{Use mdy dates|date=March 2012}}
+{{Stan Lee}}
+{{Jack Kirby}}
+[[Category:Fictional henchmen|Subterraneans]]
+[[Category:Fictional subterranea|Subterranea]]
+[[Category:Marvel Comics locations|Subterranea]]
+[[Category:Marvel Comics supervillains]]

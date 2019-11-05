@@ -1,0 +1,57 @@
+{{refimprove|date=January 2017}}
+{{Infobox comics character| <!--Wikipedia:WikiProject Comics-->
+| image = 
+| caption = 
+| character_name = Tusk
+| publisher = [[Marvel Comics]]
+| debut = [[X-Factor (comics)|X-Factor]]  #65 (April 1991)
+| creators = [[Jim Lee]]<br>[[Chris Claremont]]<br>[[Whilce Portacio]] 
+| alter_ego = 
+| species = [[Inhumans|Inhuman]]
+| alliances =[[Dark Riders (comics)|Dark Riders]]
+| aliases = 
+| powers = <br>
+*Generation of miniature genetic duplicates
+*Superhuman strength
+}}
+'''Tusk''' is a fictional [[supervillain]] appearing in [[American comic book]]s published by [[Marvel Comics]]. His name comes from the two large tusks that protrude out of his shoulders. He has superhuman strength and the ability to create smaller duplicates of himself that do his bidding.
+
+==Publication history==
+Tusk first appeared in ''[[X-Factor (comics)|X-Factor]]'' #65 and was created by [[Jim Lee]], [[Chris Claremont]], and [[Whilce Portacio]]
+
+==Fictional character biography==
+Tusk is a member of The [[Dark Riders (comics)|Dark Riders]], a team of evil [[Inhumans]] that served [[Apocalypse (comics)|Apocalypse]] by carrying out his "survival of the fittest" program of eliminating mutants that were deemed to be weak.{{issue|date=December 2012}}
+
+Tusk has rarely been present in later incarnations of The Dark Riders, such as the one that abducted [[Wolverine (character)|Wolverine]] and attempted to infuse [[adamantium]] to his skeleton once more.{{issue|date=December 2012}}
+
+He and the Dark Riders reappear against Magneto's [[Uncanny X-Men]]. The Riders are trying to kill mutant healers, but are ambushed by Magneto on Genosha. It is assumed that they are dead, as Magneto tied them to a bomb that leveled the entire island.<ref>Uncanny X-Men Vol 4 Issue #5</ref>
+
+==In other media==
+
+===Television===
+* Tusk made minor appearances in the [[X-Men (TV series)|''X-Men'' animated series]], though here he was established as a mutant and not an Inhuman. He appeared in the fourth season episode "Secrets, No Longer Buried" working as a [[mechanic]] in the town of Skull Mesa (he mentioned a family and showing a generally friendly demeanor). Tusk later comes to the aid of a de-powered [[Cyclops (Marvel Comics)|Cyclops]]. In "Graduation Day," Tusk was later seen as a soldier in [[Magneto (comics)|Magneto's]] mutant army.
+
+===Video games===
+* In the SNES video game ''[[X-Men: Mutant Apocalypse]]'', Tusk is also established as a mutant, and also a servant of [[Apocalypse (comics)|Apocalypse]].
+* Tusk was a boss in ''[[X-Men 2: Clone Wars]]''.
+
+===Toys===
+* Tusk was developed into an [[action figure]] in an early X-Men line by [[Toy Biz]]. The toy featured a miniature duplicate hidden in his back.
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://marvel.wikia.com/wiki/Tusk_(Earth-616) Tusk] at Marvel.com
+
+{{Inhumans}}
+
+[[Category:Characters created by Chris Claremont]]
+[[Category:Characters created by Jim Lee]]
+[[Category:Comics characters introduced in 1991]]
+[[Category:Inhumans]]
+[[Category:Marvel Comics characters with superhuman strength]]
+[[Category:Marvel Comics supervillains]]
+
+
+{{Marvel-villain-stub}}

@@ -1,0 +1,47 @@
+<!-- Please do not remove or change this AfD message until the discussion has been closed. -->
+{{Article for deletion/dated|page=Fixx|timestamp=20190131171045|year=2019|month=January|day=31|substed=yes|help=off}}
+<!-- Once discussion is closed, please place on talk page: {{Old AfD multi|page=Fixx|date=31 January 2019|result='''keep'''}} -->
+<!-- End of AfD message, feel free to edit beyond this point -->
+{{other uses}}
+{{unreferenced|date=February 2012}}
+{{Notability|date=August 2018}}
+{{In-universe|date=August 2018}}
+{{Infobox comics character
+|image=Fixx.jpg
+|imagesize=200
+|caption=Fixx
+|character_name=Fixx
+|real_name=Unknown
+|publisher=[[Marvel Comics]]
+|debut=''X-Factor'' #140 (December, 1997)
+|creators= [[Howard Mackie]] (writer)<br/>[[Duncan Rouleau]] (artist)
+|alliances=[[X-Factor (comics)|X-Factor]]<br/>[[Xavier's Security Enforcers]]<br/>[[Xavier's Underground Enforcers]]
+|species=[[Mutant (Marvel Comics)|Human Mutant]]
+|aliases=Jane Doe
+|powers=Psionic energy sprites
+}}
+
+'''Fixx''' is a fictional [[Mutant (Marvel Comics)|mutant]] character appearing in [[American comic book]]s published by [[Marvel Comics]]. The character is depicted as originating from an alternate future. She is a member of [[X-Factor (comics)|X-Factor]], X.S.E., and X.U.E. She first appeared in ''X-Factor (1st. series)'' #140. Fixx was created by [[Howard Mackie]] and [[Duncan Rouleau]].
+
+==Fictional character biography==
+A woman named Fixx exists in [[Bishop (comics)|Bishop]]'s future timeline. She, along with [[Greystone (comics)|Greystone]], [[Archer (Marvel Comics)|Archer]], and [[Shard (comics)|Shard]] made up a clandestine group of heroes known as '''[[Xavier's Underground Enforcers]]''' (X.U.E.) which pursued the ideals of [[Professor X|Charles Xavier]] in a way differing from the mainstream '''[[Xavier's Security Enforcers]]''' (X.S.E.).
+
+When Shard, a former X.U.E. member who had been transported to the [[Earth-616|main Marvel Universe]] by her brother Bishop in [[holograph]]ic form, became anchored in [[Polaris (comics)|Polaris]]' body following [[Sabretooth (comics)|Sabretooth]]'s escape from [[United States government|US government]] custody, this allowed her teammates to follow her.
+Fixx was able to use her [[telepathy|telepathic]] power to lock on to Shard and psychically transport herself and her teammates to our time, implanting themselves in recently deceased host bodies with the mission of preventing their future from occurring.
+
+One thing that the group did was hunt down a man from their timeline named Micah—just a child in our time—and attempt to stop him from becoming the madman who helped kill mutants and who killed Greystone's mother. Greystone believed that the boy must be killed in order to stop his tyranny, but Fixx and Archer tried to convince him that it was unethical to judge a man for a crime he did not yet commit. After stopping him, the trio decided to join with [[X-Factor (comics)|X-Factor]], but their tenure was short-lived.
+
+Greystone slowly developed temporal insanity, believing that his mission was accomplished, and he could go home to a better world and be reunited with his mother, who might theoretically be alive. In an attempt to return to his own time, Greystone built a flying time machine, but due to shoddy craftmanship and unsound theories, the craft exploded, seemingly killing Greystone and [[Havok (comics)|Havok]], who was attempting to stop him. With Archer's retirement and Greystone's demise, Fixx is the sole survivor of the X.U.E., but she may still continue to fulfill their mission in some way. It is unknown if Fixx retained her mutant powers after [[Decimation (comics)|M-Day]].
+
+==Powers and abilities==
+Fixx manifests psionic sprites from her mind as small fairy-shaped psychic projections that channel her powerful telepathic and psychokinetic abilities. They can relay messages, or cause immense mental pain by burrowing into the thoughts of another individual. Her fairies can move objects or repel a physical assault if Fixx concentrates hard enough. Fixx can also switch her appearance between "Jane Doe" and herself, but her host was an [[amnesia]]c and has no memories of her own which could normally be accessed (like Archer with his host body).
+
+==External links==
+*[http://www.uncannyxmen.net/db/characters/showquestion.asp?fldAuto=464 Uncannyxmen.net character bio on Fixx]
+
+[[Category:Characters created by Howard Mackie]]
+[[Category:Comics characters introduced in 1997]]
+[[Category:Female characters in comics]]
+[[Category:Marvel Comics superheroes]]
+[[Category:Marvel Comics mutants]]
+[[Category:Marvel Comics telepaths]]

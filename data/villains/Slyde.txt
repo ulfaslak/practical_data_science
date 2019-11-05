@@ -1,0 +1,62 @@
+{{Notability|date=August 2018}}
+{{Infobox comics character| <!--Wikipedia:WikiProject Comics-->
+  image =[[Image:Slyde1stapp.jpg|250px]]
+| caption = Slyde in his first appearance cover by [[Ron Frenz]] and [[Josef Rubinstein]]
+| character_name = Slyde
+| publisher = Marvel Comics
+| debut = ''[[The Amazing Spider-Man]]'' #272 (Jan 1986)
+| creators = [[Tom DeFalco]]<br>[[Sal Buscema]]
+| alter_ego = Jalome Beacher
+| alliances =[[Masters of Evil]]<br/>[[Thunderbolts (comics)|Thunderbolts]]
+| aliases = 'The Teflon Coated Man'
+| powers = Skilled chemist<br>Wears chemical laced suit that grants:<br>Ability to move at superhuman speeds<br>Incredible maneuverability<br>Ability to easily escape from a grappling hold 
+}}
+'''Slyde''' ('''Jalome Beacher'''), is a [[fictional character]] who is a [[supervillain]] appearing in [[American comic book]]s published by [[Marvel Comics]].
+
+==Publication history==
+{{expand section|date=August 2016}}
+Slyde first appeared in ''[[The Amazing Spider-Man]]'' #272 and was created by [[Tom DeFalco]] and [[Sal Buscema]].
+
+==Fictional character biography==
+Jalome Beacher was a [[chemical engineer]] who created a [[non-stick]] coating that could be applied to anything, only to be fired by his employers. He created a [[costume]] coated in the substance and decided to use it to [[bank robbery|rob banks]]. His all-white bodysuit allows him to slide across floors with relative ease, and renders him impervious to [[Spider-Man]]'s webbing. The suit has pads on the gloves so that Slyde can grip objects without them slipping from his grasp.<ref>''Amazing Spider-Man'' #272</ref>
+
+Slyde was part of the seventh such group called the [[Masters of Evil]] when the villainous assemblage tangled with the [[Thunderbolts (comics)|Thunderbolts]], ironic because the Thunderbolts are mostly made up of reformed members of the Masters of Evil.<ref>''Thunderbolts'' #24-25</ref>
+
+Upon the realization that he was turning forty soon, he got a new costume, gave himself a new (and fictional) origin, and made an attempt at robbing a bank with henchmen—but it was all a ploy to lure Spider-Man out in order to fight him.. At the end of the story, on the way to jail, he mused that, knowing that he "went toe to toe with Spider-Man", he is entirely all right with middle age.<ref>''Spider-Man Unlimited'' (vol. 3) #1</ref>
+
+In ''[[Wolverine (comic book)|Wolverine]]'' #26, Slyde was apparently killed by the sword of [[Elektra (comics)|Elektra]] who was presumed dead/resurrected by [[Hand (comics)|The Hand]].<ref>''Wolverine'' (vol. 3) #26-27</ref> This was later revealed to be Jalome's stepbrother Matt, wearing Jalome's costume and using the Slyde identity while Jalome was in prison.<ref>''Official Handbook of the Marvel Universe: Spider-Man: Back In Black'' #1</ref>
+
+===Civil War===
+Slyde is among the army of villains recruited by [[Baron Zemo|Zemo]] and his Thunderbolts to serve as "hero-hunters" during the events of the ''[[Civil War (comics)|Civil War]]''.<ref>''Thunderbolts'' vol. 2 #104-107</ref>
+
+Jalome, as Slyde again, along with the [[Trapster]], met with mob boss [[Hammerhead (comics)|Hammerhead]], who was attempting to organize a group of super-criminals to take advantage of the [[Civil War (comics)|Civil War]] between the Marvel superheroes. However, Slyde balked at the proposal. He was shot in the back of the head and apparently killed by Hammerhead's enforcer [[Underworld (comics)|Underworld]], in order to send a message to those who would refuse to join Hammerhead's organization.<ref>''Civil War: War Crimes'' one-shot (February 2007)</ref>
+
+==Other Slydes==
+* Following the death of Beacher another person assumes his costumed identity. The identity of this Slyde is unknown, but he appears in Jalome's costume and was seen on the cover of ''Avengers: The Initiative'' #1 as one of the 142 registered superheroes.<ref>[[Avengers: The Initiative]] #1</ref><ref>[http://www.marvel.com/news/comicstories.947 Avengers: The Initiative #1 Character Map]</ref> Slyde's appearance however is not proof of his involvement in the Initiative, or may mean the Slyde costume has passed on to an heroic successor.
+* A new version of Slyde appeared though the costume was now completely blue. After a brief chase with Spider-Man, it was revealed that this Slyde was an undercover police officer.<ref>''The Amazing Spider-Man'' #602</ref>
+
+==Ripcord==
+After M-Day, the second [[Donyell Taylor|Night Thrasher]] (formerly Bandit) gave several former mutants technology he had obtained using the organization he owned.{{issue|date=December 2010}}  Former prostitute and mercenary [[Stacy X]] was given a modified Slyde suit, along with modified [[Stilt-Man]] armor, web shooters, and [[Frog-Man]] springs.{{issue|date=December 2010}}  She became a New Warrior, died in an explosion during battle{{issue|date=December 2010}}, but later resurfaced again with her Stacy X appearance.{{issue|date=October 2011}}
+
+==Powers and abilities==
+The chemicals on Slyde’s suit allow him to move at nearly {{convert|30|mi/h|km/h}}. He is almost impossible to grasp and he is incredibly maneuverable. He's also a skilled chemist.
+
+==References==
+{{reflist|3}}
+
+==External links==
+* [http://marvel.com/universe/Slyde Slyde's entry at Marvel.com ]
+* {{Marvunapp|http://www.marvunapp.com/Appendix5/slydebeacher.htm|Slyde (Beacher)}}
+* {{Marvunapp|http://www.marvunapp.com/Appendix5/slyde_nypd.htm|Slyde (NYPD)}}
+
+{{Spider-Man}}
+
+[[Category:Characters created by Sal Buscema]]
+[[Category:Characters created by Tom DeFalco]]
+[[Category:Comics characters introduced in 1986]]
+[[Category:Comics characters introduced in 2009]]
+[[Category:Fictional African-American people]]
+[[Category:Fictional engineers]]
+[[Category:Fictional New York City Police Department officers]]
+[[Category:Fictional police officers]]
+[[Category:Marvel Comics supervillains]]

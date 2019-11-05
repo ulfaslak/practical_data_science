@@ -1,0 +1,60 @@
+<!-- Please do not remove or change this AfD message until the discussion has been closed. -->
+{{Article for deletion/dated|page=Dirk Anger|timestamp=20190204162202|year=2019|month=February|day=4|substed=yes|help=off}}
+<!-- Once discussion is closed, please place on talk page: {{Old AfD multi|page=Dirk Anger|date=4 February 2019|result='''keep'''}} -->
+<!-- End of AfD message, feel free to edit beyond this point -->
+{{Infobox comics character <!--Wikipedia:WikiProject Comics-->
+|image=One Crazy MammaJamma.jpg
+|caption=Art by Stuart Immonen
+|character_name=Dirk Anger
+|real_name=Dirk Anger
+|publisher=[[Marvel Comics]]
+|debut=''[[Nextwave]] #1'' January 2006
+|creators=[[Warren Ellis]]<br>[[Stuart Immonen]]
+|alliances=[[H.A.T.E.]]
+|powers= Chemically retarded aging process
+}}
+'''Dirk Anger''' is a satirical fictional character appearing in [[American comic book]]s published by [[Marvel Comics]]. The character has been primarily featured in the book ''[[Nextwave]]'' designed by [[Nick Fury]]. 
+
+Despite the appearance of Nextwave characters in other Marvel titles, in 2006 Editor-in-Chief [[Joe Quesada]] stated that Nextwave's setting was in a universe separate from the main Marvel continuity.<ref>Wade Gum (2006-07-01). "Heros Con: Joe Quesada Panel", {{cite web |url=http://www.wizarduniverse.com/magazine/wizard/000765389.cfm |title=Archived copy |accessdate=2007-07-11 |deadurl=yes |archiveurl=https://web.archive.org/web/20070711133600/http://www.wizarduniverse.com/magazine/wizard/000765389.cfm |archivedate=2007-07-11 |df= }}</ref> However, recent issues of [[Official Handbook of the Marvel Universe]], as well as Civil War: Battle Damage Report,<ref name="civilwarbattledamage">{{Comic book reference | Writer = [[Anthony Flamini]] & [[Ronald Byrd]] | Penciller =  [[Scott Kolins]] | Inker = [[Scott Kolins]] | Story =  | Title = Civil War: Battle Damage Report | Issue = 1 | Date = March 2007 | Publisher = [[Marvel Comics]] | }}</ref> consistently place Nextwave's activities in mainstream continuity.
+
+==Publication history== 
+{{Expand section|date=February 2019}}
+Dirk Anger was created by [[Warren Ellis]] and [[Stuart Immonen]].
+
+Anger was by them as a thinly veiled, over-the-top parody of [[Nick Fury]]. Ellis originally intended to use Fury,<ref>{{cite web|url=http://www.comicon.com/ubb/ultimatebb.php/ubb/get_topic/f/36/t/004065.html |title=Archived copy |accessdate=2006-07-06 |deadurl=yes |archiveurl=https://web.archive.org/web/20070926220219/http://www.comicon.com/ubb/ultimatebb.php/ubb/get_topic/f/36/t/004065.html |archivedate=2007-09-26 |df= }}</ref> but when that character was unavailable, he created Dirk Anger.
+
+==Fictional character biography==
+Dirk Anger is the Director of the Highest Anti Terrorist Effort ([[H.A.T.E.]]), and apparently oversees all operations aboard the Aeromarine (a reference to the [[S.H.I.E.L.D.]] [[Helicarrier]] - but while the Helicarrier is essentially a flying [[aircraft carrier]], the Aeromarine appears to consist of several [[submarine]]s, bolted together, with rocket engines).  Anger is fully aware that The [[Beyond Corporation©]], which funds H.A.T.E., is the newest version of [[covert cell|terrorist cell]] S.I.L.E.N.T. However, he simply doesn't care.
+
+Anger is over ninety years old, but has, through chemical means ("H.A.T.E. has the best drugs"), an extended lifespan.  It has been hinted that Anger has been married at least once, and that he has met [[Winston Churchill]] and bested him in a [[hula hoop]] contest.
+
+Anger has a multitude of psychological issues, including [[misogyny]], [[bulimia nervosa|bulimia]], [[alcoholism]], [[tobacco smoking|nicotine addiction]], [[clinical depression|depression]], [[sadomasochism|sadism]], and a fixation on a flowery house dress that may have belonged to his mother (in a scene reminiscent of [[Norman Bates]]). It is implied that his mother is in fact [[Andrea Dworkin]], although this was made during an off-the-cuff comment.<ref>''Nextwave: Agents of H.A.T.E.'' #7</ref> At one point, he was fed [[Blender|pureed]] baby [[chicken|chick]]s through an [[intravenous therapy|intravenous tube]]; it is unknown whether this is a regular treatment. He has also revealed (in ''Nextwave'' #6) that his wife, upon turning forty, refused to give in any longer to a [[sexual fetishism|fetish]] of his involving a wig, a chicken, and a bathful of acid; she then apparently took all his money, painted everything pink, had him adopt 'a million screaming little snot-factory children', and went under the belief that her [[uterus|womb]] would fall out should he touch her.
+
+Dirk has been seen playing a bizarre form of [[Russian Roulette]] with a pistol larger than a semi-truck. The barrel curves back around to point at Dirk's seat atop the gun. He also attempted to kill himself by taking an overdose of pills in a bowl of ice cream. Shortly after he began to eat however, he got word that NextWave was in a death situation and he was free to watch them. Given a new will to live, he asks for "A case of vodka, eight loose women and a stomach pump!", which is how he apparently survives the poisoning.
+
+Dirk Anger accidentally (and finally) committed suicide by hanging during his pursuit of the Nextwave squad. However, the Beyond Corporation© had installed a "Zombie Switch" in his brain, preventing him from dying, yet leaving him craving human brains.  He apparently was completely destroyed when he ordered his aeromarine to ram Nextwave's ship into Beyond's floating city, claiming to the aeromarine crew that he "reinvented suicide as a group activity.  Go me."
+
+His final words are "My Name's Dirk Anger and I say ☠☠☠☠ all of you."
+
+==Reception==
+{{Expand section|date=February 2019}}
+* Dirk Anger won the "Favorite Comics Villain" [[Eagle Award (comics)|Eagle Award]] in 2007.
+
+==References==
+{{reflist}}
+
+==External links==
+* {{Comicbookdb|type=character|id=13144|title=Dirk Anger}}
+
+{{Nick Fury}}
+
+{{DEFAULTSORT:Anger, Dirk}}
+[[Category:Comics characters introduced in 2006]]
+[[Category:Characters created by Warren Ellis]]
+[[Category:Fictional generals]]
+[[Category:Fictional secret agents and spies]]
+[[Category:Fictional soldiers]]
+[[Category:Fictional undead]]
+[[Category:Marvel Comics mutates]]
+[[Category:Marvel Comics superheroes]]
+[[Category:Nick Fury]]

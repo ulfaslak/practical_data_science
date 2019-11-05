@@ -1,0 +1,95 @@
+{{Infobox comics character and title <!--Wikipedia:WikiProject Comics-->
+| image = 
+| caption = 
+| character_name = The Black Rider
+| publisher = [[Timely Comics]]
+| debut = ''[[All Winners Comics|All-Western Winners]]'' #2 (Winter 1948)
+| creators = [[Syd Shores]] (art)
+| alter_ego = Matthew "Doc" Masters
+| full_name =
+| species = <!-- optional -->
+| homeworld = <!-- optional -->
+| alliances = <!-- optional -->
+| aliases = The Cactus Kid, Black Mask
+| supports=<!--optional-->
+| powers = Skilled horseman and marksman
+<!--Series section-->
+|title               = The Black Rider
+|cvr_image           = 
+|cvr_caption         = 
+|cvr_alt             =
+|schedule            = Bimonthly
+|format              = [[Ongoing series]]
+|limited             =
+|ongoing             = y
+|1shot               =
+|genre               = [[Western comics|Western]]
+|pub_series          = [[Timely Comics]]
+|date                =
+|1stishhead          = 
+|1stishyr            = 1950
+|1stishmo            = Mar.
+|endishyr            = 1955
+|endishmo            = Mar.
+|1stishhead1          = Western Tales of the Black Rider
+|1stishyr1            = 1955
+|1stishmo1            = May
+|endishyr1            = 1955
+|endishmo1            = Nov.
+|issues              = 24
+|main_char_team      = The Black Rider
+|writers             = 
+|artists             = [[Syd Shores]]
+|pencillers          = 
+|inkers              = 
+|letterers           =
+|colorists           =
+|editors             = 
+|creative_team_month = 
+|creative_team_year  = 
+|creators_series     = 
+|TPB                 = 
+|ISBN                = 
+|TPB1                = 
+|ISBN1               = 
+|nonUS               =
+|}}
+
+The '''Black Rider''' is a fictional [[Western comics|Western]] character appearing in [[American comic book]]s published by [[Marvel Comics]]. He first appeared in ''[[All Winners Comics|All-Western Winners]]'' #2 (Winter 1948), from the company's 1940s forerunner, [[Timely Comics]].
+
+==Publication history==
+After appearing in subsequent issues of the ''[[All Winners Comics|All-Western Winners]]'' omnibus, by issue #8 the book changed its title to ''Black Rider'', with the character becoming the lead feature. Other company characters, like [[Kid Colt]] and Arrowhead also made appearances. After slightly changing its name again, to ''Western Tales of Black Rider'', by issue #32 the book reverted to an anthology format and was renamed ''[[Gunsmoke Western]]'' (which took over the numbering of the Black Rider title) through the 1950s. 
+
+Most of the Black Rider's adventures were drawn by [[Syd Shores]]. When the character's adventures were reprinted in the 1970s in ''[[Western Gunfighters]]'', the character was renamed the '''Black Mask.'''
+
+A [[one-shot (comics)|one-shot]] revival, ''Strange Westerns Starring the Black Rider'' appeared in 2006, with a story by [[Steve Englehart]] and art by [[Marshall Rogers]].
+
+==Fictional character biography==
+As a young man, Matthew Masters was known as the '''Cactus Kid''', an outlaw.  His criminal career ended one day at the Last Chance Saloon in Jefferson County, [[Texas]], when he faced the David Gang, who had taken the town hostage.  When the dust cleared, the killers were dead, and the Cactus Kid was summoned to the mansion of the governor of Texas. The governor pardoned the young outlaw as a reward for getting rid of the Davis Gang, and the Cactus Kid promised to go to medical school and become a doctor.<ref>''All-Winners Western'' #2 (Winter 1948)</ref>
+
+Years later, "Doc" Masters became the new physician for the small town of Leadville, Texas.  Masters' new peaceful lifestyle left him unwilling to use violence when a hired killer came to town, and he was branded a coward by the townspeople.  Masters decided to disguise himself as the Black Rider, so that he could fight criminals without revealing his criminal past to the town.<ref>''All-Winners Western'' #2 (Winter 1948)</ref>
+
+Sometimes later, the Black Rider investigates a crime in Texas that leads him to [[New York City]]'s [[Chinatown]]. There he receives help from a mysterious Chinese man, who is eventually revealed to be a younger version of the [[Ancient One]], future mentor of the occult [[superhero]] [[Doctor Strange]].<ref>''The Mighty Marvel Westerns: Strange Westerns Starring the Black Rider'' #1 (October 2006)</ref>
+
+==Other versions==
+A modern-day version of the character stars in the five-issue ensemble [[miniseries]] ''Six Guns'' (#1-4 [[cover-date]]d Jan.-March 2012), by writer [[Andy Diggle]] and artist Davide Gianfelice, and also starring the extant female mercenary [[Tarantula (Marvel Comics)#Maria Vasquez|Tarantula]] and new contemporary versions of the Marvel [[Old West]] heroes Tex Dawson a.k.a. the [[Western Kid]]; [[Matt Slade (comics)|Matt Slade]]; and the [[Two-Gun Kid]].<ref>{{cite web |url=http://marvel.com/news/story/16788/six_guns_trigger_happy |title=Six Guns: Trigger Happy |date=October 6, 2011 |first=Jim |last=Beard |publisher=Comic News (column), [[Marvel Comics|Marvel.com]] |archiveurl=https://www.webcitation.org/63L7Tnvbw?url=http://marvel.com/news/story/16788/six_guns_trigger_happy |archivedate=November 20, 2011 |deadurl=no |df= }}</ref><ref>{{cite web |url=http://marvel.com/news/story/16160/six_guns_locked_and_loaded |title=Six Guns: Locked and Loaded |date=June 23, 2011 |first=Jim |last=Beard |publisher=Comic News (column), [[Marvel Comics|Marvel.com]] |archiveurl=https://www.webcitation.org/63L9C9i7J?url=http://marvel.com/news/story/16160/six_guns_locked_and_loaded |archivedate=November 20, 2011 |deadurl=no |df= }}</ref><ref>[http://www.maelmill-insi.de/UHBMCC/smisc6.htm#S6259 "''Six Guns'' (2012)"] at The Unofficial Handbook of Marvel Comics Creators. [https://www.webcitation.org/63L7qFZFz?url=http://www.maelmill-insi.de/UHBMCC/smisc6.htm Archived] from the original (required scrolldown) November 20, 2011</ref>
+
+==References==
+{{reflist}}
+
+==External links==
+*[http://toonopedia.com/blakridr.htm Black Rider] at [[Don Markstein's Toonopedia]]. [https://www.webcitation.org/6b63wgzEJ?url=http://toonopedia.com/blakridr.htm Archived] from the original on August 27, 2015.
+*[http://www.internationalhero.co.uk/b/blackmasktimely.htm Black Rider at International Heroes]
+
+{{Marvel Western Characters}}
+
+[[Category:Comics characters introduced in 1948]]
+[[Category:Fictional cowboys and cowgirls]]
+[[Category:Western (genre) characters]]
+[[Category:Marvel Comics superheroes]]
+[[Category:Timely Comics characters]]
+[[Category:1948 comics debuts]]
+[[Category:Western (genre) comics]]
+[[Category:American comics characters]]
+[[Category:1950 comics debuts]]
+[[Category:1955 comics endings]]

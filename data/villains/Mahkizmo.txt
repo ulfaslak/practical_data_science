@@ -1,0 +1,58 @@
+{{Infobox comics character| <!--Wikipedia:WikiProject Comics--> 
+image=
+|caption=
+|character_name=Mahkizmo
+|real_name=Mahkizmo
+|species=
+|publisher=[[Marvel Comics]]
+|debut=''[[Fantastic Four (comic book)|Fantastic Four]]'' #151 (Oct 1974)
+|creators=[[Gerry Conway]]<br>[[Rich Buckler]]
+|alliances=Men of Machus
+|aliases=The Nuclear Man
+|powers=Superhuman strength and durability, ability to release explosive energy with his punch ("nuclear punch")
+}} 
+
+'''Mahkizmo''', also known as the '''Nuclear Man''', is a fictional character in the [[Marvel Universe]]. As his name suggests, he is an extreme [[male chauvinism|male chauvinist]].
+
+==Publication history==
+He was created as an antagonist of [[Thundra]], herself a character meant to symbolize extreme [[feminism]].<ref>{{cite book
+  | last = Robinson
+  | first = Lillian S.
+  | authorlink = 
+  | coauthors = 
+  | title = Wonder Women: Feminisms and Superheroes
+  | publisher = Routledge
+  | year = 2004
+  | location = 
+  | pages = 103
+  | url = https://books.google.com/books?id=nN8wvtMrmuIC&pg=PA103&dq=Mahkizmo&lr=&sig=S5zu-3nVZUXOe4VE93c9YK4l8Fw
+  | doi = 
+  | id = 
+  | isbn = 0-415-96631-0}}</ref>
+
+Mahkizmo first appeared in ''Fantastic Four'' #151-153 (October–December 1974) and was created by [[Gerry Conway]] and [[Rich Buckler]].
+
+The character subsequently appears in ''The Sensational She-Hulk'' #34 (December 1991), #38-39 (April–May 1992), ''Fantastic Four: Foes'' #1 (March 2005), #5-6 (July–August 2005).
+
+Mahkizmo received an entry in the ''Marvel Legacy: The 1970s Handbook'' #1 (2006).
+
+==Fictional character biography==
+Mahkizmo is the superhumanly strong ruler of '''Machus''', a warlike alternate future Earth in which women are enslaved by men.  Like [[Thundra]], he came from the 23rd century; although in Thundra's future, women enslaved the men, in Mahkizmo's timeline the men subjugated the women.  Thundra had gone to the 20th century of [[Earth-616]] to prevent the existence of Machus by altering the past, and Machus was sent to stop her.  He fought and defeated the [[Fantastic Four]] and teleported Thundra back to Machus.  There, he used an energy beam to imprison her and sap her will.  The Fantastic Four followed them using [[Doctor Doom]]'s time machine, but Mahkizmo and the men of Machus defeated the heroes and claimed [[Medusa (comics)|Medusa]] (who was a member of the Fantastic Four at the time) as his prize.  Medusa entranced Mahkizmo, and knocked him out by hitting in the head with a jug of wine to escape.  Mahkizmo sentenced Thundra and the Fantastic Four to death in the gladiatorial arena, fighting them himself when they defeated his champions.  As Mahkizmo defeated them all, Medusa arrived with Thundra's Femizons, who fought the Machans.  Mahkizmo summoned the energy for his devastating nuclear-punch, but Thundra and the [[Thing (comics)|Thing]] punched him at the same time and caused an energy implosion, destroying Mahkizmo.<ref>''Fantastic Four'' #153</ref>  This caused the last barriers between the two Earths of Machus and Femizonia to dissolve and the two worlds merged.{{issue|date=March 2013}}
+
+Mahkizmo survived the implosion as an intangible, invisible cloud of atoms.  He was furious that the men and women of the now-joined world were able to live in harmony.  He took over the body of one of the new world's men and transformed it into his own.  He traveled back to the 20th century and planned to kill all of the women in the past to prevent the worlds from merging.  He attacked the [[She-Hulk]], until [[Cupid (Marvel Comics)|Cupid]] shot him with an arrow that caused him to fall in love with the She-Hulk. He took her back to his world to make her his bride, but the Thing and [[Wyatt Wingfoot]] followed them.  The She-Hulk and the Thing combined their power and defeated Mahkizmo.<ref>''The Sensational She-Hulk'' #39</ref>
+
+Mahkizmo was originally depicted as a straightforward villain. During his appearance in ''The Sensational She-Hulk'', writer/artist [[John Byrne (comics)|John Byrne]] treated Mahkizmo as a comedy character by accentuating the character's oafishness to grotesque proportions. Part of the story's humor was based on the character's limited intelligence. In issue #39, it was revealed that Mahkizmo did not know how babies were conceived, and hence had not realized that his plan to kill all women would prevent future generations from being born. 
+
+Mahkizmo was one of the Fantastic Four's enemies that attended a gathering by the [[Puppet Master (Marvel Comics)|Puppet Master]] in an effort to combine forces.  The Fantastic Four captured Mahkizmo and transferred him to the newly constructed [[Vault (comics)|Vault]] in the [[Negative Zone]]. Mahkizmo and the rest of the inmates were released from their cells by the Negative Zone sorceress [[Threska]]; however, the inmates fought the Fantastic Four, and were returned to their cells.<ref>''Fantastic Four: Foes'' #1, 5, 6</ref>
+
+==References==
+{{Reflist}}
+
+==External links==
+* {{Marvunapp|http://www.marvunapp.com/Appendix/mahkizmo.htm|Mahkizmo}}
+
+{{She-Hulk}}
+
+[[Category:Characters created by Gerry Conway]]
+[[Category:Comics characters introduced in 1974]]
+[[Category:Marvel Comics supervillains]]

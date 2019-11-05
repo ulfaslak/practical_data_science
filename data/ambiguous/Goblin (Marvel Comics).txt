@@ -1,0 +1,122 @@
+{{Refimprove|date=June 2015}}
+{{Infobox comics set index <!--Wikipedia:WikiProject Comics-->
+|code_name  = Goblin
+|image      = Superior-Spider-Man-26.jpg
+|imagesize  = 200
+|caption    = Two of the most recurring Goblins, [[Green Goblin]] and [[Hobgoblin (comics)|Hobgoblin]], battling each other in the cover photo of ''[[The Superior Spider-Man]]'' #26. Art by [[Ryan Stegman]] and [[Jason Howard]]
+|publisher  = [[Marvel Comics]]
+|debut      = ''[[The Amazing Spider-Man]]'' #14
+|debutmo    = July
+|debutyr    = 1964 <!--Norman-->
+<!--1974 Harry, well after the character's 1st appearance-->
+|debutyr1   = 1977 <!--Hamilton-->
+<!--1983 Hobgoblin/Kingsley. Character appeared w/o costume well prior and not a "Green Goblin"-->
+<!--1987 Demogoblin/Macendale. Character appeared well prior and not a "Green Goblin"-->
+|debutyr2   = 1995 <!--Urich-->
+|debutyr3   = 1997 <!--van Adder-->
+|debutyr4   = 1997 <!--Lowell-->
+|debutyr5   = 2004 <!--Stacy, "Gray Goblin"-->
+<!--2008 Menace/Hollister. Character appeared w/o costume prior and not a "Green Goblin"-->
+|creators   = [[Stan Lee]]<br>[[Steve Ditko]]
+|characters = [[Green Goblin]]<br />[[Hobgoblin (comics)|Hobgoblin]]<br />[[Demogoblin]]<br />[[#Proto-Goblin|Proto-Goblin]]<br />[[#Grey Goblin|Grey Goblin]]<br/>[[Carnage (comics)#Red Goblin|Red Goblin]]
+|cat        = super
+|subcat     = Marvel Comics
+|hero       = y
+|villain    = y
+|sortkey    = Goblin
+|seealso    =
+}}
+'''Goblins''' are [[goblin]]-themed fictional characters appearing in [[American comic book]]s published by [[Marvel Comics]]. They are usually depicted as [[supervillain]]s and enemies of [[Spider-Man]].
+
+==Description==
+They all started with the [[Green Goblin]] ([[Norman Osborn]]). They are usually people in a goblin costume terrorizing [[New York City]] with pumpkin bombs and a goblin glider, or who have been transformed by using the Goblin Formula developed by Osborn and his former professor and business partner [[Mendel Stromm]].
+
+==Known Goblins==
+
+===Proto-Goblin===
+In a retcon, it was revealed that after Norman Osborn had Mendel Stromm arrested for embezzlement, he had found only a portion of the notes detailing his partner's formula. Norman tests the incomplete version of the formula on Oscorp employee '''Nels van Adder''', driving van Adder insane and causing him to transform into a red, demon-like being known as the "'''Proto-Goblin'''". Killing several people and blaming Norman for his condition, van Adder harasses and later attempts to kill him before being knocked out an Oscorp window by Chief of Security Arthur Stacy and his brother Detective [[George Stacy]]. In order to escape conviction for what he had done to van Adder, Norman convinces the police that van Adder had been experimenting on himself and that he had been trying to help him. Van Adder was last seen fleeing into the wilderness and his current fate is unknown.<ref>''Peter Parker: Spider-Man'' #-1</ref> As well as endowing van Adder with super strength and agility, the prototypical Goblin Formula gave him claws, talons, fangs, glowing green eyes, and near-impenetrable red skin that is capable of withstanding several close range bullet shots.
+
+===Green Goblin===
+{{Main|Green Goblin}}
+
+===Hobgoblin===
+{{main|Hobgoblin (comics)}}
+
+===Demogoblin===
+{{main|Demogoblin}}
+
+===Grey Goblin===
+The '''Grey Goblin''' is the alias of two [[fictional character]]s that appears in [[comic books]] published by [[Marvel Comics]] that are enemies of [[Spider-Man]]. The overall persona's concept resembles the [[Green Goblin]].
+
+'''[[Gabriel Stacy and Sarah Stacy|Gabriel Stacy]]''', the twin brother of Sarah Stacy and son of [[Norman Osborn]] and [[Gwen Stacy]], appeared as the first Grey Goblin in ''[[The Amazing Spider-Man]]''. He also appeared in ''[[The Spectacular Spider-Man]]'' and ''Amazing Spider-Man Presents: American Son''.
+
+'''[[Menace (Marvel Comics)|Lily Hollister]]''', [[Harry Osborn]]'s ex-fiancé, first appeared in ''[[The Amazing Spider-Man]]'' #545 and had her first appearance as [[Menace (Marvel Comics)|Menace]] (Grey Goblin) is in ''The Amazing Spider-Man'' #549.
+
+===Red Goblin===
+The Red Goblin was [[Norman Osborn]] as Green Goblin using the [[Carnage (comics)|Carnage]] symbiote. When the Carnage [[Symbiote (comics)|symbiote]] was bonded to Norman Osborn, it got mixed with the Goblin Formula, making it stronger and purging its weaknesses. Normie Harold Osborn, Norman’s grandson, became the second Red Goblin when he bonded with Carnage and became known as the Goblin Childe.<ref>''Amazing Spider-Man'' #797-800</ref>
+
+===Goblin King===
+The '''Goblin King''' was the name of the leader of the Goblin Underground.
+
+* Norman Osborn, under the alias of Mason Banks, was the first person to go by the name the Goblin King at the time when he fought the [[The Superior Spider-Man|Superior Spider-Man]] ([[Doctor Octopus]]' mind in Peter Parker's body). When Peter Parker's consciousness was restored to his body, he defeated the Goblin King.
+* Former Hobgoblin and Goblin Knight [[Phil Urich]] later became the second Goblin King.
+
+===Monster===
+{{Main|Carlie Cooper}}
+After being abducted by Menace, '''Carlie Cooper''' was exposed to the Goblin Formula by Goblin King which turned her into Monster.
+
+===War Goblins===
+General Mwenye of Nadua allied with Norman Osborn who provided Pumpkin Bombs, Razor Bats, and Goblin Gliders to General Mwenye, which he used to equip his soldiers who were dubbed '''War Goblins'''. When the War Goblins attacked a Naduan village, Spider-Man fought them off.<ref>''The Amazing Spider-Man'' vol. 4 #4</ref>
+
+==Characters exposed to the Goblin Formula==
+
+===Mendel Stromm===
+{{Main|Mendel Stromm}}
+
+The creator of the Goblin Formula, '''Mendel Stromm''' subjected himself to the earliest known version of it. While Stromm's concoction failed to imbue him with overt superhuman abilities, it did cause him to enter a recuperative state of suspended animation after his apparent death at the hands of Norman Osborn, who later revived Stromm as Gaunt.<ref>{{Cite comic|writer = Glenn Greenberg|penciller = Kyle Hotz|inker = Al Kyle Hotz, Al Milgrom, and Jerome Moore|colorist = Mark Bernardo|letterer = Comicraft|editor = Ralph Macchio|story = The Osborn Journals|title = Spider-Man: The Osborn Journals|volume = 1|issue = #1|date = February 1997|publisher = Marvel Comics|location = United States}}</ref>
+
+===Lefty Donovan===
+'''Lefty Donovan''' was used as a test subject to [[Roderick Kingsley]] as the [[Hobgoblin (comics)|Hobgoblin]] to test out the goblin formula. Kingsley later killed him after figuring out the formula.
+
+===Sundown===
+An Oscorp employee named '''Doctor David Patrick Lowell''' worked in the Osborn Chemical Company division, where his main project was a "super fertilizer" that could increase the solar absorption and growth rate of flora. After being passed over for a promotion, an irritated Lowell showed Osborn his work, and Osborn, noticing Lowell's chemical was uncannily similar to the Goblin Formula, immediately fired him and ordered all his work terminated. As his life's work was being destroyed by Oscorp employees, an enraged Lowell tried to fight them off, only to become drenched in his formula, and knocked into a wall of solar lamps. The combination of the Goblin Serum-esque chemical and the electricity caused Lowell to mutate into a light-based being dubbed "'''Sundown'''". After going on a rampage through New York, Sundown was defeated and imprisoned by Spider-Man and several other heroes. After being incarcerated for ten years, Sundown was released from prison, but was blackmailed back into supervillainy shortly afterward by mob boss Lucky Lobo. Eventually turning against Lobo, Sundown, with Spider-Man's help, was able to expose his crimes. Afterward, Sundown declined Spider-Man's offer of becoming a superhero in favor of a normal life.<ref>''Untold Tales of Spider-Man'' 1997 Annual</ref>
+
+===Albert Moon===
+'''Albert Moon''', brother of [[Silk (comics)|Silk]], got infected with the Goblin Formula and is a member of the Goblin Nation.<ref>''Amazing Spider-Man'' Vol 4 #1</ref>
+
+==Goblins (species)==
+===Goblins of Asgard===
+The '''Goblins of Asgard''' are one of the archetype of [[Asgard (comics)|Asgard]]'s Ten Realms alongside the [[Angels (Marvel Comics)|Angels]], Asgardian Gods, [[Dwarves (Marvel Comics)|Dwarves]], [[Elves (Marvel Comics)|Elves]], [[Giants (Marvel Comics)|Giants]], and Men.<ref>''Mighty Thor'' Vol. 2 #23</ref>
+
+===Goblins of Weirdworld===
+A race of Goblins reside in [[Weirdworld]] and are known to devour the flesh of Dwarves, Elves, [[Gnome]]s, and other humanoid creatures. Many of them were in the services of a wizard named Lord Raven where some of them would be transformed to make the pillars in his castle.<ref>''Marvel Fanfare'' #25</ref>
+
+===Goblins of Limbo===
+A race of Goblins are a type of demon that reside in [[Limbo (Marvel Comics)|Limbo]].<ref>''X-Terminators'' #1</ref>
+
+==In other media==
+===Television===
+* The Green Goblin and Hobgoblin appeared in the 1994 ''[[Spider-Man (1994 TV series)|Spider-Man]]'' TV series, voiced by [[Neil Ross]] and [[Mark Hamill]] respectively.
+* Both versions of Green Goblin appear in ''[[Ultimate Spider-Man (TV series)|Ultimate Spider-Man vs. The Sinister Six]]''. In addition to the two different Green Goblins, the two-part episode "HYDRA Attacks" featured the [[Hydra (comics)|HYDRA]] Goblins that were created by Doctor Octopus where he used the Goblin Formula on some HYDRA Agents.
+* The Goblins of Asgard appear in the ''[[Avengers Assemble (TV series)|Avengers: Secret Wars]]''. In the episode "The Most Dangerous Hunt", they make their way to Asgard while evading [[Executioner (comics)|Executioner]], [[Black Panther (comics)|Black Panther]] and the [[Hulk (comics)|Hulk]] had to cross a mountain range where they were attacked by Goblins. Black Panther and Bruce Banner were able to fend them off by collapsing some rock structures with one of [[Ulik]]'s pounders.
+
+===Film===
+* The Norman Osborn incarnation of the Green Goblin appears in [[Sam Raimi|Sam Raimi's]] [[Spider-Man in film|Spider-Man]] trilogy, portrayed by [[Willem Dafoe]]. The third installment also features Harry Osborn as a New Goblin portrayed by [[James Franco]].
+* In the film ''[[The Amazing Spider-Man (2012 film)|The Amazing Spider-Man]]'', Van Adder was originally reported as the character that [[Irrfan Khan]] would play until he was revealed to be portraying Dr. Ratha.<ref name="Dr. Ratha">{{cite web | url=http://www.thewrap.com/movies/article/new-amazing-spider-man-website-crawling-plot-details-33670 | title='Amazing Spider-Man' Website Is Crawling With Plot Details | publisher=TheWrap.com | date= December 15, 2011 | accessdate=June 26, 2015 }}</ref><ref name="parents">{{cite news|last=Kit|first=Borys|url=http://www.hollywoodreporter.com/blogs/heat-vision/spider-man-set-parents-villain-56039|title=EXCLUSIVE: Spider-Man Gets a Set of Parents and Another Villain|work=The Hollywood Reporter|publisher=Nielsen Company|date=June 6, 2015| accessdate=December 6, 2010}}</ref>
+* Dane Dehaan portrays the Harry Osborn version of Green Goblin in ''[[The Amazing Spider-Man 2]]''.
+
+===Video games===
+* The Ultimate Marvel version of Green Goblin and a variation of Proto-Goblin appear as bosses in ''[[Spider-Man: Battle for New York]]''. The video game had Green Goblin using the OZ formula to create an army of Goblins.
+* The Noir version of Green Goblin and a 2099 version of Hobgoblin appear in ''[[Spider-Man: Shattered Dimensions]]''.
+
+==References==
+{{reflist}}
+
+{{Goblin (Marvel Comics)}}
+{{Spider-Man characters}}
+{{Spider-Man}}
+{{Symbiote Family and Hosts}}
+{{Stan Lee}}
+
+[[Category:Spider-Man characters]]
+[[Category:Fictional goblins]]

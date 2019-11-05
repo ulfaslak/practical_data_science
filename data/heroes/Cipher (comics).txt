@@ -1,0 +1,55 @@
+{{Distinguish|Cypher (Marvel Comics)|Cipher (newuniversal)|Cypher (DC Comics)}}
+{{refimprove|date=July 2016}}
+
+{{Infobox comics character <!--Wikipedia:WikiProject Comics-->
+|character_name= Cipher (Marvel Comics)
+|image= [[File:X-men Cipher main.jpg|250px]]
+|caption= Cipher in her first appearance by Rapha Sandoval. ''Young X-Men'' #8.
+|real_name=Alisa Tager
+|species=Human Mutant
+|publisher=[[Marvel Comics]]
+|debut=''[[Young X-Men]]'' #8 (Nov. 2008)
+|creators=[[Marc Guggenheim]]<br>[[Rafa Sandoval]]
+|alliances=[[List of X-Men members#X-Men-In-Training (2006–present)|X-Men-In-Training]]<br/>[[Young X-Men]]<br/>[[List of Xavier Institute students and staff#Students|Jean Grey School Students]]
+|aliases=
+|powers= Invisibility, phasing/intangibility, complete stealth
+}}
+
+'''Cipher''' ('''Alisa Tager''') is a fictional [[Mutant (Marvel Comics)|mutant]] character, a [[superhero]] appearing in [[American comic book]]s published by [[Marvel Comics]]. She is a young African-American female who first appeared in ''Young X-Men'' #8 (Nov. 2008) and was created by [[Marc Guggenheim]] and Rafa Sandoval.
+
+==Publication history==
+Cipher's first appearance was in ''Young X-Men'' #8 by writer Marc Guggenheim and artist Rafa Sandoval.  However, references to her character began in ''Young X-Men'' #3 and were initially written to deceptively reference long-deceased [[New Mutants]] character [[Cypher (comics)|Cypher]].  Through [[retcon]]s, Cipher is depicted as having been present during events prior to her character's creation, including [[Grant Morrison]]'s 2001 run on ''[[X-Men: Legacy#New X-Men|New X-Men]]'' and [[Joss Whedon]]'s 2004 tenure on ''[[Astonishing X-Men]].''  She became a featured character in the series ''[[Young X-Men]]'', and after that series ended, she appeared in ''[[Uncanny X-Men]]'' and ''[[Wolverine and the X-Men (comics)|Wolverine and the X-Men]]'' as part of the student cast.
+
+==Fictional character biography==
+A new character in the ongoing series ''[[Young X-Men]]'', [[Graymalkin (comics)|Graymalkin]], mentions a "Cypher" twice. The first is when he is alone in the air ducts inside of the [[Danger Cave]]. He mentions that he is "not the only one that can help them. There is Cypher."<ref>''Young X-Men'' #3</ref> The second time is when he tells [[Donald Pierce]], who was disguised as Cyclops, that "Cypher told [him] everything."<ref>''Young X-Men'' #4</ref>
+
+The new "Cypher," an African-American girl named Alisa Tager, reveals herself at the end of ''Young X-Men'' #8, however her codename is spelled "Cipher" rather than "Cypher" (as it is spelled in earlier mentions).<ref>''Young X-Men'' #8</ref>  She had come to warn [[Ink (comics)|Ink]] that his teammates were in trouble and he is needed to come with her to save them. Although Ink is very skeptical about this young girl's motivations or intentions, she is shown wearing the standard uniform of the Young X-Men, and has a jet from the X-Men's headquarters to transport him to his team as well, to show that her information is legitimate, even though she refuses to give any more information, about herself or the team, other than that. However, she also gives into his demand to take him to his tattooist to give him some new abilities, even though she voices that she feels he is wasting his time while his friends are "dead or dying."  She is still able to get him to the battle with the Y-Men in time, though, where Ink is able to turn the tide and save his teammates.<ref>''Young X-Men'' #9</ref>  Revealing herself in order to save the Young X-Men causes several members of the team and X-Men faculty to question who she is and why they had never been aware of her.
+
+[[Cyclops (Marvel Comics)|Cyclops]] reveals that Cipher was first discovered during events depicted in ''New X-Men'' vol. 2. During a riot in [[Mutant Town]], [[Jean Grey]] was able to detect Alisa's presence. Jean and Cyclops chose to keep Alisa's presence a secret per her request, giving her the codename "Cipher," an act made easier by Alisa's mutant ability to become completely undetectable either psychically or physically. In the meantime, Cipher developed a friendship with [[Blindfold (comics)|Blindfold]], secretly communicating with her during past events in ''Astonishing X-Men'' vol. 3, explaining Ruth's behavior of seemingly talking to herself. Cipher was also present to greet Graymalkin when he awoke during the events of [[X-Men: Messiah Complex]] and present for various other events in ''Young X-Men'', always secretly assisting the team. Her newly revealed presence generated feelings of uneasiness and anger over their seeming lack of privacy and Cipher's ability to go about undetected in their lives.<ref name= Young1>''Young X-Men'' #10''</ref>
+
+In a conversation with Alisa, Cyclops theorizes that she had chosen to reveal herself out of a subconscious desire to make herself known to those around her. Regardless, Alisa remains uneasy of her "outing" as she fears an individual only referred to as "he" will now know where to find her and will come for her. Cyclops assures her that "he" will have to get through the X-Men to reach her, reassuring Alisa enough for her to decide to drop her stealth mode.<ref name= Young1 /> She is next seen helping containing the riots in San Francisco alongside Colossus.<ref>''Dark Avengers/Uncanny X-Men: Utopia'' #1</ref> Following the split between Wolverine and Cyclops in Schism, Cipher decides to return to Westchester with Wolverine and become a student at the newly renamed "Jean Grey School for Higher Learning".<ref>Wolverine and the X-men #1</ref>
+
+==Powers and abilities==
+Cipher's abilities include full spectrum invisibility and complete stealth, able to mask even her psychic imprint from most telepaths with the exception of particularly high-level telepaths like Jean Grey. She is also able to enter a phased state making her capable of passing through solid objects and levitating through the air.  She also exhibits the ability to mask her voice to only those she chooses.  Coupled with her invisibility, this makes her a highly adept spy, and she was employed as such by Cyclops.
+
+She is also able to pilot the X-Men's jets.
+
+==References==
+{{Reflist}}
+
+==External links==
+* {{Comicbookdb|type=character|id=27849|title=Cipher}}
+{{Portal bar|2000s|Fictional characters|Superhero fiction|Comics}}
+{{X-Men}}
+
+{{DEFAULTSORT:Cipher (Comics)}}
+[[Category:2008 comics debuts]]
+[[Category:Female characters in comics]]
+[[Category:African-American superheroes]]
+[[Category:Fictional characters who can turn intangible]]
+[[Category:Fictional characters who can turn invisible]]
+[[Category:Marvel Comics mutants]]
+[[Category:Fictional secret agents and spies]]
+[[Category:Marvel Comics superheroes]]
+[[Category:Comics characters introduced in 2008]]
+[[Category:Characters created by Marc Guggenheim]]

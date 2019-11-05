@@ -1,0 +1,322 @@
+{{for|the character from Ultimate Spider-Man|Spider-Woman (Ultimate Marvel character)}}
+{{Infobox comics character <!--Wikipedia:WikiProject Comics-->
+| character_name = Spider-Woman 
+| image = Spider-Woman (Jessica Drew) - Jonathan Luna's art.png
+| converted = y 
+| caption = Textless cover of ''Spider-Woman: Origin'' #1 (February 2006).<br>Art by [[Jonathan Luna (comics)|Jonathan Luna]].
+| real_name = Jessica Miriam Drew
+| publisher = [[Marvel Comics]]
+| debut = ''[[Marvel Spotlight]]'' #32 (February 1977)
+| creators = [[Archie Goodwin (comics)|Archie Goodwin]]<br />[[Marie Severin]]
+| alliances = [[Avengers (comics)|Avengers]]<br />[[Hydra (comics)|HYDRA]]<br />[[Lady Liberators]]<br />[[The New Avengers (comics)|New Avengers]]<br />[[S.H.I.E.L.D.]]<br />[[S.W.O.R.D. (comics)|S.W.O.R.D.]]<br />[[Secret Avengers]]<ref>"Secret Avengers" Vol. 3</ref><br>[[Spider-Verse#Web-Warriors|Spider-Army/Web-Warriors]]
+|partners=
+| aliases = Arachne, Ariadne Hyde, Hunter
+| powers =
+* Master spy
+* Superhuman strength, speed, durabilty, reflexes, and senses
+* Gliding
+* Pheromone manipulation
+* Bio-electric energy projection
+* Wallcrawling
+| cat = super
+| subcat = Marvel Comics
+| hero = y
+| sortkey = Spider-Woman (Jessica Drew)
+|}}
+
+'''Spider-Woman''' ('''Jessica Drew''') is a [[fictional character|fictional]] [[superheroine]] appearing in [[American comic book]]s published by [[Marvel Comics]]. The character first appeared in ''[[Marvel Spotlight]]'' #32 ([[cover-date]]d February 1977), and 50 issues of an ongoing series titled ''Spider-Woman'' followed. At its conclusion, she was killed, and though later resurrected, she fell into disuse, supplanted by other characters using the name [[Spider-Woman]].
+
+Writer [[Brian Michael Bendis]] added Spider-Woman to the roster of the [[The New Avengers (comics)|New Avengers]]. In 2009, the character received her second [[Spider-Woman (comic book)|self-titled]] [[Limited series (comics)|limited series]], written by Bendis, which ran for seven issues. As part of the 2014 "[[Spider-Verse]]" event, Spider-Woman began her third ongoing series, written by [[Dennis Hopeless]]. The series was interrupted by Marvel's 2015 "[[Secret Wars (2015 comic book)|Secret Wars]]" event, and ended with issue #10. ''Spider-Woman'' was relaunched several months later with a new issue #1, still written by Hopeless and continuing the story from the previous volume.
+
+==Concept and creation==
+Marvel Comics' then-publisher [[Stan Lee]], said in 1978, shortly after Spider-Woman's debut in ''Marvel Spotlight'' #32 and the start of the character's 50-issue, self-titled series (April 1978 - June 1983), that the character originated because
+{{bquote|I suddenly realized that some other company may quickly put out a book like that and claim they have the right to use the name, and I thought we'd better do it real fast to copyright the name. So we just batted one quickly, and that's exactly what happened. I wanted to protect the name, because it's the type of thing [where] someone else might say, 'Hey, why don't we put out a Spider-Woman; they can't stop us.' ... You know, years ago we brought out [[Wonder Man]], and <nowiki>[</nowiki>[[DC Comics]]<nowiki>]</nowiki> sued us because they had [[Wonder Woman]], and... I said okay, I'll discontinue Wonder Man. And all of a sudden they've got [[Power Girl]] [after Marvel had introduced [[Luke Cage|Power Man]]<nowiki>]</nowiki>. Oh, boy. How unfair.<ref>{{cite news | title = Hello, Culture Lovers: Stan the Map Raps with Marvel Maniacs at [[James Madison University]] | work = [[The Comics Journal]] | issue = 42 | date = October 1978 | page = 55}}</ref>}}
+
+Spider-Woman's origin and basic character were designed by [[Archie Goodwin (comics)|Archie Goodwin]], while her visual appearance was designed by freelancer [[Marie Severin]].<ref name="Back17">{{cite journal|last= Johnson|first= Dan|date= August 2006|title= Marvel's Dark Angel: ''Back Issue'' Gets Caught in Spider-Woman's Web|journal= [[Back Issue!]]|issue= 17|pages= 57–63|publisher= [[TwoMorrows Publishing]]}}</ref>
+
+==Publication history==
+[[File:Spider-Woman v1 1.png|thumb|upright|left|''Spider-Woman'' #1 (April 1978). Cover art by [[Joe Sinnott]].]]
+
+===Original series===
+Though by most accounts Spider-Woman was originally intended as a one-off character for the sake of simply establishing trademark, ''Marvel Spotlight'' #32 sold unexpectedly well and writer/editor [[Marv Wolfman]] was asked to take the character to an ongoing series.<ref name="Back17" />
+
+In her first appearance, Spider-Woman was to be an actual spider evolved into a human as imagined by writer/co-creator Goodwin. Her debut was shortly followed by a four-issue story arc in ''[[Marvel Two-in-One]]'' in which Wolfman presented a different origin [[retcon]] as he felt her original origin was too implausible for mid-1970s readers.<ref name="Back17" /> During this arc and the premiere issue of her own comic Spider-Woman was identified as the human Jessica Drew (combining the first name of Wolfman's daughter and the last name of fictional detective [[Nancy Drew]]<ref name="Back17" />) who had memories of being a spider implanted into her by the terrorist group [[Hydra (comics)|HYDRA]]. Her costume was also redesigned for her series so that her long hair was uncovered, becoming a prominent part of the character's appearance.
+
+[[File:Reflective scene Spider-Woman 2.jpeg|thumb|Jessica Drew's feelings of isolation from other people were a major theme of the first year and a half of her series. Scene from ''Spider-Woman'' #2 (May 1978); story by [[Marv Wolfman]], pencils by [[Carmine Infantino]], inks by [[Tony DeZuniga]].]]
+Wolfman introduced Spider-Woman's mentor [[Magnus the Sorcerer|Charles Magnus]] and archenemies [[Morgan le Fay (Marvel Comics)|Morgan le Fay]] and the [[Brothers Grimm (comics)|Brothers Grimm]]. He left the series after issue #8, citing a heavy workload,<ref>"Venom Blasts" letter pages in ''Spider-Woman'' #8 and 12.</ref> but later admitted "If truth be told I never felt comfortable writing her. I never found a handle for her and kept trying until I finally decided to leave the book."<ref name="Back17" /> Neophyte [[Mark Gruenwald]] became the writer, while the series's regular penciler, comics legend [[Carmine Infantino]], remained on board, having developed a fondness for the character and her stories.<ref name="Back17" /> Gruenwald continued with the macabre themes Wolfman had used, while putting more focus on Drew's struggles to deal with her social awkwardness, shyness, and the negative reactions she produced in nearly everyone she met. The last of these is revealed to be caused by fear-inducing pheromones, a previously unrevealed ability. Gruenwald also introduced outgoing aspiring actress Lindsay McCabe, who became Drew's best friend and the mainstay of her supporting cast.
+
+Marvel had been heavily advertising the series from the start, and during Gruenwald's run [[Spider-Woman (TV series)|an animated TV series]] began airing. But [[Roger Stern]], who replaced Wolfman as editor, recounted that Spider-Woman had already lost her status as a top seller by this time. Despite her differing origin and powers and Wolfman's deliberate effort to avoid Spider-Man guest appearances or crossovers, readers still tended to see the character as a female Spider-Man. "They saw her, and later the She-Hulk," Stern explained, "as running a good idea into the ground, much as DC had done in the ’60s with its then-ever-growing families of Super- and Bat-characters."<ref name="Back17" />
+
+Issue #20 saw the departure of Gruenwald, Infantino, and Stern. New writer [[Michael Fleisher]] gave Spider-Woman a career as a [[bounty hunter]], abandoned both the series' macabre tone and outstanding subplots such as Charles Magnus' mysterious disappearance, and replaced them with such superhero standbys as criminal masterminds and a love interest who is enamored with the protagonist's costumed guise but oblivious to her in her civilian identity. Many fans criticized that Fleisher had taken away everything that made the character special.<ref>"Venom Blasts" letter pages in ''Spider-Woman'' #27-28.</ref> Fleisher would be retained on the series up until #32, after which [[Chris Claremont]], already a big-name writer for his work on ''Uncanny X-Men'', took over and switched Jessica Drew's occupation from bounty hunter to [[private investigator]]. [[Steve Leialoha]] was drawing the series by this time.
+
+The series had already come under criticism for its rapid turnover of writers,<ref>"Venom Blasts" letter page in ''Spider-Woman'' #33.</ref> and like all of its writers, Claremont had a fairly short stay on ''Spider-Woman''. After 13 issues, both he and Leialoha were compelled to leave for other projects.<ref>"Venom Blasts" letter page in ''Spider-Woman'' #46.</ref> Their final issue marked the return of Gruenwald, this time as editor. He was promptly informed that due to dwindling sales, Marvel was canceling the series, and issue #50 would be the last.<ref>{{cite web|url=http://goodcomics.comicbookresources.com/2012/02/11/the-abandoned-an%E2%80%99-forsaked-spider-womans-dead-and-forgotten/|title=The Abandoned An’ Forsaked – Spider-Woman’s Dead and Forgotten?!?|first=Brian | last= Cronin|publisher=[[ComicBookResources.com]]|date=February 11, 2012|accessdate=January 19, 2013}}</ref> Gruenwald hired comic book novices [[Ann Nocenti]] and Brian Postman as writer and penciler for the final four issues, under the theory that their inexperience in the medium would give them a unique perspective and perhaps take the series out with a bang.<ref name="Back17" /> Under Gruenwald's direction, the series returned to its macabre roots and resumed the long-abandoned subplot of Magnus's disappearance. The final issue used a photo cover of Marvel staffers (including Gruenwald and Nocenti) in costume as the issue's cast,<ref name="Back17" /> and had Spider-Woman perish in a climactic battle with her nemesis Morgan le Fay. Nocenti reasoned "These are licensed characters and you want them to have a forever life. At the same time, they live in a violent world and occasionally you feel like someone has to die, otherwise it’s too unreal."<ref name="Back17" />
+
+Readers were outraged at the character being killed, and Nocenti and Gruenwald both came to feel remorse over their decision.<ref name="Back17" /> Gruenwald took the readers' reaction especially to heart, and became determined to fix what he saw as a major mistake. He and Stern had been paired up again on ''Avengers'', but with their jobs swapped, and he instructed Stern to write a story reviving Drew.<ref name="Back17" /> Less than a year after her death, Spider-Woman was resurrected in ''The Avengers'' #240-241 (Feb.-March 1984).
+
+===Decline===
+For the next four years she was limited to a handful of guest appearances. In 1988, she and Lindsay McCabe joined the supporting cast of ''[[Wolverine (comic book)|Wolverine]]'', appearing through the first 16 issues of the character's series, followed by brief returns in issues #27 and 125-128. She was never depicted in costume during her appearances in ''Wolverine'', sticking with her civilian identity, though she did often use her powers to aid Wolverine.
+
+In 1996, Mark Gruenwald returned to the character with a short back-up feature in ''Sensational Spider-Man Annual'' '96. Titled "The Return of Spider-Woman", it put Drew back in costume for the first time in over a decade and ended with a teaser for further Spider-Woman adventures in ''Spider-Man Team Up''. Gruenwald died, however, before these stories could be written, and subsequent appearances treated "The Return of Spider-Woman" as non-canon. In 1999, Drew was again placed in the role of non-costumed supporting character, this time to the third Spider-Woman, [[Spider-Woman (Mattie Franklin)|Mattie Franklin]], for the first 11 issues of ''Spider-Woman'' volume 3.
+
+Drew made an appearance in a 2003 story arc in ''[[Alias (comics)|Alias]]'', a series written by [[Brian Michael Bendis]]. Bendis would write most of the character's adventures for the next decade.
+
+===Revival through New Avengers===
+In January 2005, ''[[The New Avengers (comics)|The New Avengers]]'' was launched, ostensibly with Jessica Drew as a member of the titular supergroup, back in costume as Spider-Woman. Though this Jessica Drew would later be revealed as an imposter, this prominent exposure of the character opened the door for new attention to her original adventures. Firstly, on 21 December 2005, Marvel released the first issue of ''Spider-Woman: Origin,'' a five-part miniseries co-written by Brian Michael Bendis and Brian Reed, illustrated by the art team of the [[Luna Brothers]], Jonathan and Joshua Luna. It was largely an extended retelling of ''Marvel Spotlight'' #32, though some details were changed.
+
+Secondly, the original ''Spider-Woman'' series was reprinted in its entirety, along with ''Marvel Spotlight'' #32 and all her contemporaneous guest appearances, in a pair of ''Essentials'' [[Trade paperback (comics)|trade paperback]]s, the first released simultaneously with ''Spider-Woman: Origin'' #1, the second in 2007.
+
+In 2009, the "[[Secret Invasion]]" storyline revealed that, with the exception of some flashback scenes, all of Jessica Drew's appearances in ''New Avengers'' over the past four years were actually made by a [[Skrull]] imposter. Writer Bendis said he had this planned since ''New Avengers'' #1. 
+{{quote|You can go back to issue #1 and see hints. [...] Now you know why the ''Spider-Woman'' series didn't happen. We thought about doing it and having her revealed as a Skrull in the first issue of her series. [...] I wrote it, but in the end I just thought it wasn't selling somebody what they thought you were selling them.<ref>{{cite web | date = June 4, 2008 | author = David Richards |title= Spoilers of War: Secret Invasion #3, Comic Book Resources |url= http://www.comicbookresources.com/?page=article&id=16695l; | archiveurl = https://web.archive.org/web/20081011094504/http://www.comicbookresources.com/?page=article&id=16695l; | archivedate = 2008-10-11 |publisher= ComicBookResources.com |accessdate= 2013-08-16 }}</ref>}}
+
+Following this revelation, the real Drew supplanted her doppelganger as a regular member of The New Avengers. She was also featured in [[Spider-Woman (2009 series)|another solo limited series]] during this time, which was published both in printed form and as a [[motion comic]]. It was written by Bendis with art by [[Alex Maleev]] and lasted 7 issues. Following the cancellation of ''New Avengers'', Spider-Woman appeared as a regular character throughout the 2010-2013 ''Avengers'' series, from issue #1 (July 2010) through its final issue #34 (January 2013). She appears as a regular character in the 2014 ''Secret Avengers''.
+
+===''Spider-Verse'' and a new solo series===
+In 2014, Jessica was a key player in the ''[[Spider-Verse]]'' event. Spinning out of that event, a new fifth volume ''Spider-Woman'' series was started, written by [[Dennis Hopeless]]. In issue #5 the series featured the first redesign of Jessica's costume since it was created in the 1970s.<ref>http://www.newsarama.com/23037-spider-woman-gets-a-new-costume.html</ref> This series was interrupted by Marvel's 2015 ''[[Secret Wars (2015 comic book)|Secret Wars]]'' event, and ended with issue #10. ''Spider-Woman'' Volume 6 was relaunched several months later with a new issue #1, still written by Hopeless and continues the story from the previous volume.<ref>[http://marvel.com/news/comics/25097/spider-woman_brings_baby_on_board Spider-Woman Brings Baby On Board] September 15, 2015</ref>
+
+==Fictional character biography==
+{{overly detailed|section=y|date=March 2015}}
+
+===Origins===
+Spider-Woman was born Jessica Miriam Drew, daughter of Jonathan Drew and Merriam Drew, in [[London]], [[England]]. At a young age, her family moves to a lab built by her father and [[High Evolutionary|Herbert Wyndham]] near [[Wundagore|Mount Wundagore]] in [[Transia]], where she becomes gravely ill from months of uranium exposure. To save her life, her father injects her with an experimental serum based on irradiated spiders' blood. Because the serum requires a month's incubation, Wyndham places her in a genetic accelerator. Shortly after, her mother dies and her father leaves for the United States, leaving Wyndham to care of her.<ref name="SW1">''Spider-Woman'' #1</ref> While in the accelerator, she ages at a decelerated rate. When she is finally released, decades later, Drew is only 17 years old.
+
+Drew is ostracized by the other residents of Mount Wundagore, the High Evolutionary's [[New Men (Marvel Comics)|New Men]], since she was originally human while they were animals. Because of this, she eventually leaves to seek human civilization. She is captured by a [[Hydra (comics)|HYDRA]] reserve unit under [[Count Otto Vermis]]'s leadership who erases her memories, brainwashes her, and recruits her as a HYDRA agent under the codename Arachne.<ref name="SW1" /> One of HYDRA's top agents, Jared, is assigned to train her in combat and espionage, and to seduce her. Once Jessica has become his lover, he allows himself to be captured by [[S.H.I.E.L.D.]], so that she can be goaded into assassinating S.H.I.E.L.D. commander [[Nick Fury]].<ref name="debut">''Marvel Spotlight'' #32</ref>
+
+While battling Fury, Jessica accidentally kills Jared and learns HYDRA's true nature. She quits HYDRA and assaults the unit's base, sending Count Vermis into a fatal crash, but not before he unlocks memory implants that she was actually an evolved spider and had killed a man before her association with HYDRA.<ref name="debut" /> Despondent from these revelations, she wanders the woods where Vermis crashed until being recaptured and hypnotised by HYDRA.<ref>''Marvel Two-in-One'' #31</ref>
+
+====''Spider-Woman: Origin''====
+''Origin'' does away with the spider-blood serum and genetic accelerator elements of the character's previous origin story.{{Issue|date=April 2009}} Instead, Jessica's powers derive from her mother's womb being hit by a laser beam containing the DNA traits of several different species of spiders while she was carrying Jessica (the Drews were trying to splice and harness spiders' environmental adaptive capabilities, in order to graft them into the human genome).
+
+After Jessica's parents disappear under mysterious circumstances, Jessica is recruited into HYDRA (under false pretenses), where she is made into a formidable fighter and assassin. She is trained and mentored by [[Taskmaster (comics)|Taskmaster]], who schools her in many martial disciplines and more than seven different fighting styles out of his own "arsenal".
+
+In this re-telling, Otto Vermis, originally recruiting her into HYDRA, is rather an old, retired HYDRA agent who Jessica seduces in order to gain information that will lead her to her mother.
+
+In addition, ''Origin'' made the following modifications:
+* Merriem Drew was now Miriam Drew.
+* The Drews moved to Wundagore Mountain prior to Jessica's conception, establishing without a doubt that she was born on the European landmark. Afterwards, she was raised by her nanny [[Bova (comics)|Bova]] (human in appearance), as well as her mother.
+* Jessica's father, Jonathan, never found uranium on their land. Instead, their research was funded by HYDRA, and their direct liaison/financier from the group was General Wyndham. It is not clear what connection, if any, he had with Edgar Wyndham (who in the original Spider-Woman books was Jonathan's best friend and research partner), nor with the High Evolutionary.
+* Jessica's father worked in large part with [[Jackal (Marvel Comics)|Miles Warren]] who later left the project because he felt that there was more potential in experimenting with the [[Clone Saga|cloning]] of human cells.
+
+===Spider-Woman===
+Going by the "[[Spider-Woman]]" name, Jessica Drew is ordered to abduct [[Alicia Masters]] vacationing in London. During the resultant conflict with [[Thing (comics)|Ben Grimm]], she recovers from her brainwashing and joins him in saving Masters.<ref>''Marvel Two-in-One'' #30-32</ref> She and Grimm then encounter [[Modred the Mystic]], who removes HYDRA's memory implants and restores her memories.<ref>''Marvel Two-in-One'' #33</ref>
+
+Jessica moves into an apartment in London, but finds it impossible to get a job due to her complete lack of background and her tendency to inspire dislike and even fear in other people. Following an aborted break-in she is unmasked by [[Scotland Yard]] officer (and S.H.I.E.L.D. agent) Jerry Hunt who becomes obsessed with her.<ref name="SW1" /> During this troubled time she is approached by the mysterious sorcerer [[Magnus the Sorcerer|Magnus]], who offers help. After defending him from Excaliber who was sent by [[Morgan le Fay (Marvel Comics)|Morgan Le Fay]] to recover the [[Darkhold]], he suggests she relocate with him to [[Los Angeles]].<ref>''Spider-Woman'' #2</ref> Magnus tutors her in the ways of civilization and informs her that her father was murdered, leading her on a hunt for his killer.<ref>''Spider-Woman'' #3-4</ref> She is distracted from this hunt when Morgan Le Fey's ghost again seeks the Darkhold, this time in person. During the battle, Hunt catches up with Jessica, and they begin a romantic relationship.<ref>''Spider-Woman'' #5-6</ref> With his help, she identifies her father's murderer who dies immediately after confessing.<ref>''Spider-Woman'' #7</ref>
+
+For the time, Jessica chooses to keep her doings as Spider-Woman a secret. Her relationship with Hunt sours, and following a final battle with the [[Brothers Grimm (comics)|Brothers Grimm]], he and Magnus part ways with her.<ref>''Spider-Woman'' #12-13, 16</ref> For the next three months she makes a hand-to-mouth living by working as a receptionist at the Hatros Institute while undergoing group therapy there. Though she ultimately loses the position due to a change in management, during her time there she received medication to suppress her pheromones so that she could move effectively among people without producing any unwanted side-effects, formed a strong friendship with fellow patient and aspiring actress Lindsay McCabe, and developed acquaintances with several other superheroes.<ref>''Spider-Woman'' #13-20</ref>
+
+The next few months of Jessica's life are not covered by published stories. During this time, she goes public as Spider-Woman, becomes a [[bounty hunter]] working in partnership with [[paraplegic]] [[criminologist]] [[Hornet (comics)#Hornet (Scotty McDowell)|Scotty McDowell]], acquires a full wardrobe of disguises for use in her work, and finds a police liaison in Captain Walsh.<ref>''Spider-Woman'' #21</ref> This situation lasts for several months. When her working relationship with Scotty fails, Jessica accepts an offer from Lindsay to move into an apartment with her in [[San Francisco]],<ref>''Spider-Woman'' #35</ref> where she begins a romantic relationship with their landlord David Ishima,<ref>''Spider-Woman'' #37</ref> and sets up a practice as a licensed private investigator.<ref>''Spider-Woman'' #38</ref> Her move there allows Lindsay to deduce her secret identity; she is unbothered by the danger involved in being Spider-Woman's friend, and the shared secret deepens the friendship between them.<ref>''Spider-Woman'' #43. Lindsay implies she had deduced Spider-Woman's identity following her first public appearance in San Francisco, which was in ''Spider-Woman'' #38.</ref>
+
+While working as a P.I., she battles Morgan once again.<ref>''Spider-Woman'' #41</ref> Not long after that, Jessica gives up her immunity powers to save [[Bill Foster (comics)|Giant-Man]].<ref>''Marvel Two-in-One'' #85</ref> Her relationship with David Ishima develops to the point where she reveals her Spider-Woman identity to him, only to have him break up with her because he wants to be with an ordinary woman.<ref>''Spider-Woman'' #49-50</ref>
+
+Jessica travels in astral form with Magnus to Sixth Century England to free her friends' souls in a showdown with Morgan le Fey in the 6th century. She manages to vanquish Morgan, but her human body dies while her spirit was gone.<ref>''Spider-Woman'' #50</ref> At her request, Magnus places a spell over humanity to remove all memory of Jessica's existence. This spell is faulty; when [[Tigra]] and the Shroud discover Jessica's dead body, they contact the [[Avengers (comics)|Avengers]] and [[Doctor Strange]]. The Avengers and Strange travel to the astral plane to battle Morgan Le Fay, who was trying to claim Jessica's body so she could return to the physical realm. Eventually, Doctor Strange and Magnus reunite Jessica's spirit with her human body, though Magnus's life and Jessica's powers are sacrificed to do so. She thus abandons her Spider-Woman identity<ref>''Avengers'' #240-241</ref> and continues her life as a private investigator in San Francisco, assisted by Lindsay McCabe and, for a time, by Tigra.<ref>''West Coast Avengers'' #1</ref>
+
+Jessica and Lindsay take a job delivering the Black Blade to Japan, but while passing through [[Madripoor]] she is ensorcelled by the blade. By this time her superhuman strength and agility, and ability to cling to walls, have returned. She is freed from the blade's power by Lindsay and an underworld figure called Patch,<ref>''Wolverine'' Vol. 2 #1-3</ref> who she immediately recognizes as the X-Man [[Wolverine (comic book)|Wolverine]].<ref>''Wolverine'' Vol. 2 #14</ref> Following the incident, she and Lindsay set up new business lodgings in Madripoor, with Patch as a frequent ally and information source.<ref>''Wolverine'' Vol. 2 #4-8, 10-16</ref>
+
+Jessica Drew's life settles down until [[Spider-Woman (Charlotte Witter)|Charlotte Witter]], a villainess going by the Spider-Woman name, steals her powers and leaves her near death.<ref>''Amazing Spider-Man'' Vol. 2 #5</ref> Jessica is taken from the hospital to New York City by [[Madame Web]] who directs her and [[Spider-Woman (Mattie Franklin)|Mattie Franklin]] (yet another woman who has assumed the Spider-Woman name) to track down Witter. Under Madame Web's guidance, Franklin absorbs from Witter the powers of all four Spider-Women.<ref>''Spider-Woman'' Vol. 3 #1</ref> Afterwards, Jessica remains with Madame Web for a time, helping her to watch over Mattie.<ref>''Spider-Woman'' Vol. 3 #3-11</ref> Jessica's powers gradually return to her during this time,<ref>''Spider-Woman'' Vol. 3 #4-5</ref> but are now unreliable, failing her unexpectedly on occasion.<ref>''Alias'' #20</ref>
+
+For untold reasons, Jessica moves back to San Francisco, resuming her private investigator practice there.<ref>''Alias'' #17</ref> When she hears that Mattie Franklin has gone missing, she goes to New York to find her. With the help of local P.I. [[Jessica Jones]], she rescues Mattie from a drug dealer who had abducted her and was cannibalizing her tissue to make the Mutant Growth Hormone.<ref>''Alias'' #19-21</ref>
+
+===Secret Invasion===
+One day, a HYDRA agent known as Connely offers her powers back if she would rejoin S.H.I.E.L.D. as a double agent.<ref>{{cite web|url= http://spiderfan.org/comics/reviews/giant_size_spider_woman/001.html|title=''Giant-Size Spider-Woman''|volume=1|year=2005|accessdate=January 19, 2013}}</ref> Knowing Connely would kill her if she says no, Jessica Drew contacts Nick Fury who confronts her securely and urges her to accept the offer. He tells Jessica that he will feed her limited info until S.H.I.E.L.D. can analyze the HYDRA cell and then use the info to take it down.<ref>{{cite web|url=http://www.spiderfan.org/comics/reviews/new_avengers/014.html|title=''New Avengers''|publisher=SpiderFan|volume=14|year=2006|accessdate=January 19, 2013}}</ref> The HYDRA cell is in fact a team of [[Skrull]]s who made the offer as a trap to abduct Drew, so that their current Queen [[Veranke]] could take her place in the New Avengers and assume her role as Fury's spy in preparation for the upcoming [[Secret Invasion|invasion]].<ref>''New Avengers'' #42 (August 2008)</ref>
+
+After the invasion is repulsed, [[Iron Man|Tony Stark]] finds a Skrull ship in orbit with all the replaced heroes, including Drew.<ref>''Secret Invasion'' #8</ref>
+
+===Avenger and agent of S.W.O.R.D.===
+Jessica Drew joins the New Avengers, claiming she has nowhere else to go.<ref>''New Avengers'' #48</ref> She also joins the [[Lady Liberators]] along with the [[Invisible Woman]], [[Storm (Marvel Comics)|Storm]], [[Valkyrie (Marvel Comics)|Valkyrie]], [[Thundra]], Tigra, [[Black Widow (Natalia Romanova)|Black Widow]], [[She-Hulk]] and [[Patsy Walker|Hellcat]] who are trying to discover the identity of the [[Thunderbolt Ross|Red Hulk]].<ref>{{cite web|url=http://marvel.com/catalog/?id=10014 |title=Hulk (2008) #7 |publisher=Marvel.com |date= |accessdate=2012-06-11}}</ref> Alongside her work with the Avengers, Jessica Drew joins [[S.W.O.R.D. (comics)|S.W.O.R.D.]], under an invitation by [[Abigail Brand]]. Her membership in the organization takes her on a number of missions eliminating hostile aliens operating on Earth.<ref>''Spider-Woman'' Vol. 4 #1-7 (2009)</ref>
+
+Before the Siege of Asgard, Ronin attempts to assassinate Norman Osborn but is captured by the Dark Avengers. Jessica Drew teams up with [[Carol Danvers|Ms. Marvel]], [[Mockingbird (Marvel Comics)|Mockingbird]] and Jessica Jones to rescue him. After he is saved, the New Avengers relocate to a safehouse in Brooklyn where they meet up with [[Captain America|Steve Rogers]].<ref>''New Avengers Annual'' #3 (2010)</ref>
+
+Jessica is then paired with [[Spider-Man]] to do reconnaissance on Avengers Tower, where she reveals to him she is an agent of S.W.O.R.D. The duo are then found by Mandrill and Griffin who proceed to attack them. During the fight Mandrill gets close enough to Jessica and controls her into attacking Spider-Man.<ref>''New Avengers'' #61</ref> Spider-Man appears to be on the losing end of the fight but manages to lure Jessica away from Mandrill and the effects of his control begin to wear off. The duo trick Mandrill and Griffin into thinking Jessica has beaten Spider-Man and when they approach Spider-Woman to give her new commands, Jessica punches Mandrill in the face and shoves her hand in his mouth, firing off a venom blast and knocking him out. Furious, Jessica wants to kill both villains for what they have done but is stopped by Spider-Man. The duo heads back to the safehouse where they head off with the Avengers to help the [[Asgard (comics)|Asgardians]].<ref>''New Avengers'' #62</ref> Upon arriving in Asgard, Jessica and the rest of the heroes engage [[Norman Osborn|Iron Patriot]]'s forces and witnesses the insane [[Sentry (Robert Reynolds)|Sentry]]'s defeat.<ref>''Siege'' #3-4</ref>
+
+Jessica is asked by Steve Rogers himself to join his team of Avengers. During their first meeting, Jessica expresses her doubts to Wolverine about being on the team, feeling she has not earned the role. Wolverine advises her if she feels that way, she will then have to work towards earning it then. Suddenly [[Kang the Conqueror]] appears in the middle of the meeting with a dire warning about the future and all of reality, blaming the children of the Avengers.<ref>''Avengers'' #1 (2010)</ref> After recruiting the Protector and building a time machine, the time machine is destroyed by a furious Wonder Man. Once the dust has settled, an alternate version of [[Apocalypse (comics)|Apocalypse]] and his Four Horsemen appear.<ref>''Avengers'' #2 (2010)</ref> After Apocalypse's defeat, Jessica and a few of her teammates are sent into New York City to protect its citizens from the attacks coming from the timestream.<ref>''Avengers'' #3 (2010)</ref> While in Washington Square Park, they come across Killraven and join forces to help the citizens.<ref>''Avengers'' #4 (2010)</ref> Once their mission is completed and all the attacks have stopped, Jessica is the first to realize Killraven has not been returned to his proper future.<ref>''Avengers'' #6 (2010)</ref>
+
+Later Jessica is present when Red Hulk comes to warn the Avengers that the Hood is seeking to collect the Infinity Gems.<ref>''Avengers'' #7 (2010)</ref> She is present along with the rest of the Avengers when they confront the Illuminati in Attilan about their existence and goes with a team of Avengers to the ruins of the Xavier Institute to get to Professor Xavier's Infinity gem.<ref>''Avengers'' #10 (2011)</ref>
+
+During the ''[[Fear Itself (comics)|Fear Itself]]'' storyline, Spider-Woman, [[Ms. Marvel]] and [[Noh-Varr|Protector]] arrive in [[Brazil]] to help [[Red She-Hulk]] fight [[Hulk (comics)|Hulk]], who was transformed into Nul: Breaker of Worlds.<ref>{{Cite comic|writer=[[Bendis, Brian Michael]]|penciller=[[Romita, John Jr.]]|inker=[[Janson, Klaus]]|title=Avengers|volume=4|issue=15|date=August 2011|publisher=Marvel Comics}}</ref>
+
+While on a mission for S.W.O.R.D., Jessica is sent to locate an unusual alien energy surge in Wakanda. Upon finding the remains of a [[Spaceknights|Spaceknight]], Jessica is ambushed by the [[Intelligencia (comics)|Intelligencia]] who take her as a prisoner. Abigail Brand approaches the Avengers for help and a team is put together to help locate Jessica. Jessica wakes up naked and is interrogated by two members of the Intelligencia. While the Intelligencia study the Spaceknight, the Avengers interrupt their attempts and the body activates, revealing it was containing [[Ultron]]'s consciousness. The new Ultron escapes and Jessica is reunited with the Avengers.<ref>''Avengers'' #12.1 (2011)</ref>
+
+Jessica Drew becomes a member of the new [[Secret Avengers]].<ref>''Secret Avengers'' Vol. 3 #1</ref>
+
+===Spider-Verse and Post-Avenger life===
+During the ''[[Spider-Verse]]'' storyline, Spider-Woman joins [[Anya Corazon|Spider-Girl]] and Spider-Man 2099 in confronting Spider-Man about Spider-Man 2099 witnessing his counterpart being killed by [[Morlun]]. She is among the spider-themed superheroes brought to Earth-13 by Spider-UK, [[Spider-Girl]] of Earth-982, and [[Spider-Ham]], to form a resistance against Morlun and his family, the [[Inheritors (comics)|Inheritors]].<ref name="auto">''Amazing Spider-Man'' Vol. 3 #9</ref>  When the resistance was visiting Earth-928 and encountered a past version of [[The Superior Spider-Man|Superior Spider-Man]] (Doctor Octopus' mind in Peter Parker's body) with his own army, they attracted the attention of the Inheritors.<ref>''Amazing Spider-Man'' Vol. 3 #10</ref> Spider-Woman followed [[Silk (comics)|Silk]] with Spider-Man Noir to an unknown reality where they were being tracked by the Inheritors Brix and Bora. Spider-Man Noir was wounded and the trio escaped to his home world to allow him to recover from his injuries. After this, she was sent by Spider-Man to the Loomworld, home of the Inheritors to gather more information on the Inheritors.<ref>''Spider-Woman'' Vol. 5 #1</ref> After encountering and replacing her doppelganger from Loomworld, who was Morlun's lover, she was able to gather intelligence in regards to the Master Weaver and his role in the conflict, which helped the Spider Army ultimately win the battle against the Inheritors.{{issue|date=March 2015}}
+
+After the battle with the Inheritors, Jessica decided to quit the Avengers in order to start a new life and to focus on helping ordinary civilians.<ref>''Spider-Woman'', Vol. 5 #4</ref> Jessica decides to help common people solve crimes, and enlists [[Ben Urich]] and the [[Porcupine (comics)|Porcupine]].
+
+===Secret Wars===
+[[File:Spider-Woman (Jessica Drew) by Javier Rodriguez.jpg|thumb|right|Jessica's new look in the aftermath of [[Spider-Verse]] was the first costume change in over 35 years since the character's creation. Cover art of ''Spider-Woman Volume 5 #9'' by [[Javier Rodríguez (artist)|Javier Rodríguez]].]]
+Knowing the universe will end soon, [[Mister Fantastic|Reed Richards]] and [[Invisible Woman|Susan Storm]] choose Jessica and [[Black Widow (Natalia Romanova)|Natasha Romanoff]] to copilot a ship that will contain a handpicked few to restart humanity and escape the destruction of the universe. Their ship is shot down when the Children of Tomorrow from the [[Ultimate Marvel|Ultimate Universe]] invade, and she and the ship's passengers are killed in the ensuing explosion.<ref>''Secret Wars'' #1</ref> This timeline and the resulting deaths were later undone.<ref>''Secret Wars'' #9</ref>
+
+===Post-Secret Wars===
+In the debut issue of the new volume set after the Secret Wars, Jessica is in the [[second trimester]] of [[pregnancy]] and still works as a private investigator.<ref>''Spider-Woman'' Vol. 6 #1</ref> Although there were various debates about the father's identity, after the baby's birth, Jessica admitted that, while she had been in a relationship over nine months ago that started her interest in a family, the man left before she could bring it up directly, prompting her to go to a sperm bank instead.<ref>''Spider-Woman'' Vol. 6 #5</ref> She eventually gives birth to a son whom she names Gerry.{{issue|date=March 2017}} Gerry also inherited her power set.{{issue|date=March 2017}} After Porcupine is nearly killed by the Hobgoblin, Jessica and Roger fall in love and start dating while continuing to raise Gerry.{{issue|date=March 2017}}
+
+During the "[[Secret Empire (comics)|Secret Empire]]" storyline, Spider-Woman is among the heroes that are trapped in the Darkforce dome that surrounds Manhattan following a fight with Hydra's Army of Evil.<ref>''Secret Empire'' #0. Marvel Comics.</ref> Spider-Woman was attracted to a signal flare fired by Jennie Sheldon and J. Jonah Jameson as she saves them from [[Kraven the Hunter]]. Jennie Sheldon took pictures of the fight.<ref>''Secret Empire: Brave New World'' #3. Marvel Comics.</ref> She, along with Ben Urich and the Kingpin, also helped Doctor Strange reclaim his Sanctum Santorum from Baron Mordo, who had also captured Daredevil, Iron Fist, Luke Cage and Cloak.<ref>''Doctor Strange'' Vol. 4 #21-24</ref>
+
+During the "[[Spider-Geddon]]" storyline, Spider-Woman comes together with the Spider-Army again as she is part of [[Kaine Parker]]'s group on their mission to claim the crystal containing Solus' lifeforce before Verna claims it. She was able to escape with it during the fight with Verna and the Hounds.<ref>''Spider-Force'' #1-2. Marvel Comics.</ref> Spider-Woman makes it back to Earth-616 where she has the crystal. Unfortunately, she arrived at New U Technologies where she is grabbed by Jennix. After being hit by Spider-Woman's venom blasts, Jennix instructs Daemos to share his food with Brix and Bora. As Daemos starts to feed off of Spider-Woman, she states that she got her powers from a radiation blast which Daemos notices the radiation in her lifeforce. Jennix has a change of plans and instructs Daemos to place Spider-Woman in stasis so that Jennix can study her later. Right now, Jennix places the crystal in the cloning machine enabling Solus to live again.<ref>''Spider-Geddon'' #4. Marvel Comics.</ref> In the end, the Spider-Army manages to free Jessica and defeat the Inheritors, by using the cloning technologies to revert them into babies.<ref>''Spider-Geddon'' #5. Marvel Comics.</ref>
+
+==Powers and abilities==
+After her mother was struck with a beam of radiation containing the DNA of several different types of spiders while she was in-utero, Jessica Drew developed superhuman powers patterned after several different types of spiders when she was born. Jessica is superhumanly strong and is able to lift around seven tons at her peak. She also possesses superhuman speed, stamina, agility, and reflexes. Jessica's body is more resistant to injury than an ordinary person, allowing her to take far more physical punishment compared to an ordinary human. Jessica also possesses superhuman hearing and smell, the latter of which allowed her to distinguish a life-model decoy from the real Nick Fury.<ref>''New Avengers Vol. 1'' #23</ref> Jessica's palms and soles secrete a special fluid that allows her to cling to solid objects, like a true spider. Jessica's physical makeup also makes her highly resistant to all terrestrial poisons, toxins, and completely immune to radiation. While she is typically rendered dizzy by the initial dose, she is completely immune to it after being exposed again. She also exudes a high concentration of pheromones that elicit pleasure and attraction in men and revulsion in women, although she typically uses a chemical "perfume" that renders these pheromones inert. Jessica's body also produces an inordinate amount of bio-electrical energy, which she can discharge from her hands. She refers to these discharges as "venom blasts" although they actually have nothing to do with poison and typically cause pain and unconsciousness, and Jessica can kill a man in the same way that a lightning bolt would and can pierce solid metals like steel by using her blasts at their greatest intensity. Jessica was also able to glide through unknown means using the web-like extensions of her costume, but seems to have gained the power to fly after being replaced by the Skrull Queen Veranke.{{issue|date=September 2013}} Jessica has lost her powers in numerous ways and on several occasions,{{issue|date=September 2013}} but after returning to Earth at the end of the Secret Invasion, Jessica's powers were restored and are greater than ever.{{issue|date=September 2013}}
+
+In addition to her powers, she is also a superb hand-to-hand combat fighter, and has trained in several styles of fighting including boxing, judo, karate, and [[capoeira]], learned under the training of the Taskmaster. She has also had training in fencing and the use of many other weapons. Jessica was trained by HYDRA (and later on by S.H.I.E.L.D.) in covert operations, stealth, espionage, and information gathering and is a superb athlete. She speaks several foreign languages, including Korean, Russian, French, Spanish, Portuguese, and German. Jessica has also received vocational training in undercover detective work and sometimes carries a [[Walther PPK]] handgun.
+
+==Other versions==
+
+===Age of X===
+In the [[Age of X]] reality, Jessica Drew is a member of the Avengers, mutant hunters who answer to General Frank Castle. Going by the codename '''Redback''', Jessica is one of America's top killers and has been for eight years. She uses lethal force during fights and has never uttered a word, she uses hisses to communicate on occasion.<ref>''Age of X: Universe'' #1</ref> She finally sacrifices herself using a gauntlet from the now-deceased Iron Man to stop the [[Alternative versions of Hulk#Age of X|Hulk]] from destroying a mutant sanctuary with a chemical bomb, having come to recognize that their persecution of mutants is wrong.<ref>''Age of X: Universe'' #2</ref>
+
+===Earth-65===
+During the 2016 Spider-Women event, Spider-Gwen's interdimensional transporter is stolen by Jessica's male Earth-65 counterpart, Jesse Drew.<ref>''Spider-Women: Alpha'' #1</ref> In this universe, Jesse is married with a wife and two children, a son and daughter, who is unaware he is actually Agent 77 of the criminal organization S.I.L.K.<ref>''Spider-Woman'' Vol. 6 #6</ref>
+
+Jesse's backstory is discovered by Gwen while searching files stolen by Cindy Moon's Earth-65 doppelgänger. It is revealed he is the son of two S.H.I.E.L.D. astronaut spies, sent up to the moon to live on a secret base for ten years, during which they gave birth to Jesse. His father turned out to be a Russian double agent, who is then killed by his mother. Joining S.H.I.E.L.D. after high school, Jesse is sent back to the moon to renovate the base where he and his crew were attacked by alien spider creatures. Jesse makes it out alive, but the spider's spit starts poisoning his blood and turning it into black goo. He is saved by the head of S.I.L.K., Cindy Moon, who uses her spider formula to fix his blood and grant him spider powers. She deceives Jesse into thinking he needs two doses of the formula a day to survive, but it is discovered by Gwen that he is already cured and the doses are just maintaining his superhuman powers.<ref>''Spider-Woman'' Vol. 6 #7</ref>
+
+After learning of this, he quits S.I.L.K. and escapes the state with his family, but not before he aids the three Spider-Women by giving them access codes to Earth-65 Cindy's home base.<ref>''Spider-Women: Omega'' #1</ref>
+
+===Marvel Adventures Spider-Man===
+In this version, Jessica Drew appeared in issue 52 and is a freelance agent who arrived at Peter's school as a substitute teacher when she discovered Peter's biology report mixed up with HYDRA's bio-weapons plan. She is one of the few people who knew Peter's secret identity.{{Issue|date=August 2009}}
+
+===Marvel Zombies===
+Spider-Woman is seen on the S.H.I.E.L.D. Helicarrier after the beginning of the zombie infection. She fights alongside the other uninfected heroes but is eventually infected herself. She is then seen in ''Ultimate Fantastic Four'' #23 along with the other zombies.
+
+===MC2===
+In the [[Marvel Comics 2|MC2]] reality, Jessica never regained her powers after losing them. She got married and had a child [[Spider-Man (Gerry Drew)|Gerald]] (or Gerry for short). She learned that her radioactive blood caused Gerry to develop a crippling illness and attempted to use the same genetic treatments her father gave her to save him. As Gerry "incubated" in a genetic accelerator, Jessica's husband blamed her for Gerry's health and divorced her. When Gerry emerged from the genetic accelerator, Jessica found that her son had gained spider-like powers (superhuman strength and agility as well as the ability to organically produce webs), but still had his disease.{{issue|date=January 2013}} Teenaged Gerry used his powers to become Spider-Man,{{issue|date=January 2013}} and had several run-ins with [[Spider-Girl]] (Spider-Man's daughter).{{issue|date=January 2013}} He was pushing his body far beyond its limits, and Jessica asked Spider-Man to convince her son to give up his "career" as Spider-Man.{{issue|date=January 2013}} Peter Parker has attempted to find someone capable of finding a cure to Gerry's disease,{{issue|date=January 2013}} and apparently succeeded (at least that is suggested in the Spider-Girl comic series).{{issue|date=January 2013}}<ref>[http://www.marvunapp.com/Appendix4/drewjessicamc2.htm Jessica Drew (MC2)] at the Appendix to the handbook of the Marvel Universe</ref>
+
+===''Spider-Verse''===
+During the ''[[Spider-Verse]]'' storyline, the Earth-001 version of Jessica Drew is a servant of the Inheritors. She was sent to pick up the wine from [[Robbie Robertson (comics)|Robbie Robertson]]'s import company which is needed for the feast that the Inheritors will be having.<ref name="auto"/> Spider-Woman of Earth-616 met her counterpart while in Earth-001. She and ''[[Morlun]]'' are in relationship in which ''[[Bora (comics)|Bora]]'' describes her as "...one of Morlun's toys."<ref>''Amazing Spider-Man'' Vol. 3 #12</ref>
+
+===Ultimate Marvel===
+[[File:Ultimate Spider-Woman.jpg|upright|thumbnail|Ultimate Spider-Woman. Cover art to ''Ultimate Spider-Man'' #98 (October 2006). Art by Mark Bagley and Richard Isanove.]]
+{{main|Spider-Woman (Ultimate Marvel character)}}
+The [[Ultimate Marvel]] incarnation of Jessica Drew, known as Spider-Woman and for a time as the Black Widow, has been an agent of SHIELD, a member of the [[Ultimates]] and [[New Ultimates]], and a supporting character for both [[Spider-Man (Ultimate Marvel character)|Peter Parker]] and [[Spider-Man (Miles Morales)|Miles Morales]].<ref>''[[Ultimate Spider-Man]]'' #98</ref> A clone of Peter Parker, she has heightened agility, strength, reflexes, a precognitive danger sense (spider sense), the ability to stick to walls, and organic webbing she can shoot from her fingertips.<ref name="Ultimate Spider-Man #102">''Ultimate Spider-Man'' #102</ref>{{issue|date=July 2013}}
+
+===''What If...?''===
+In ''[[What If (comics)|What If...?]]'' #17, which is set during the events of ''Marvel Spotlight'' #32, Jessica succeeded in killing Nick Fury after the accidental death of Jared. She escaped and came back to HYDRA headquarters but was pursued by S.H.I.E.L.D. Agents led by agent [[Valentina Allegra de Fontaine]]. Spider-Woman (still known as ''Arachne'') became a supervillain who wanted to know her real origin, just like Earth-616 version. Count Otto Vermis is still alive but captured by S.H.I.E.L.D. and Agent Val chase Arachne to get revenge for Fury's death.<ref>''What If...?'' v1 #17</ref> This parallel universe is known as Earth-79101.<ref>[http://www.marvunapp.com/Appendix3/earthspiderwomanvillain.htm Article on Earth-79101] at the Appendix to the Handbook of the Marvel Universe</ref>
+
+==Reception==
+The character was ranked 20th in [[IGN]]'s list of "The Top 50 Avengers",<ref>{{cite web |last= |first= |date=April 30, 2012 |title=The Top 50 Avengers |url=http://www.ign.com/top/avengers/20 |publisher=[[IGN]] |accessdate=July 28, 2015}}</ref> and 54th in ''[[Comics Buyer's Guide]]'s'' "100 Sexiest Women in Comics" list.<ref>{{cite book|last=Frankenhoff|first=Brent|authorlink=Brent Frankenhoff| title = Comics Buyer's Guide Presents: 100 Sexiest Women in Comics|publisher=[[Krause Publications]]|year=2011|page=38|isbn=1-4402-2988-0}}</ref>
+
+==Collected editions==
+{| class="wikitable"
+|-
+! Title !! Material collected !! Publication date !! ISBN
+|-
+| ''Marvel Masterworks: Spider-Woman, Vol. 1''
+| ''Marvel Spotlight'' (1971) #32, ''Marvel Two-in-one'' (1974) #29-33, and ''Spider-woman'' Vol. 1 #1-8
+| November 24, 2015
+| {{ISBNT|978-0785191780}}
+|-
+| ''Essential Spider-Woman, Vol. 1''
+| ''Marvel Spotlight'' (1971) #32, ''Marvel Two-In-One'' (1974) #29-33, & ''Spider-Woman'' Vol.1 #1-25
+| December 21, 2005
+| {{ISBNT|978-0785117933}}
+|-
+| ''Essential Spider-Woman, Vol. 2''
+| ''Spider-Woman'' Vol. 1 #26-29, ''Marvel Team-Up'' (1972) #97, ''Spider-Woman'' Vol. 1 #30-39, ''Uncanny X-Men'' #148, ''Spider-Woman'' Vol. 1 #40-50
+| August 8, 2007
+| {{ISBNT|978-0785127017}}
+|-
+| ''Spider-Woman: Agent of S.W.O.R.D.''
+| ''Spider-Woman'' Vol. 4 #1-7 
+| March 2, 2011
+| {{ISBNT|978-0785126300}}
+|-
+| ''Spider-Woman Volume 1: Spider-Verse''
+| ''Spider-Woman'' Vol. 5 #1-4 
+| June 30, 2015
+| {{ISBNT|978-0785154587}} 
+|-
+|''Spider-Woman Vol. 2: New Duds''
+|''Spider-Woman'' Vol. 5 #5-10 
+| February 9, 2016
+|{{ISBNT|978-0785154594}}
+|-
+| ''Spider-Woman: Shifting Gears Vol. 1: Baby Talk''
+| ''Spider-Woman'' Vol. 6 #1-5, ''Amazing Spider-Man'' #1 (Spider-Woman story)
+| June 14, 2016
+| {{ISBNT|978-0785196228}}
+|-
+| ''Spider-Women''
+| ''SILK'' 7-8, ''SPIDER-GWEN'' 7-8, ''SPIDER-WOMAN'' Vol. 6 #6-7
+| July 26, 2016
+| {{ISBNT|978-1302900939}}
+|-
+|''Spider-Woman: Shifting Gears Vol. 2: Civil War II''
+|''Spider-Woman'' Vol. 6 #8-12
+| January 10, 2017
+|{{ISBNT|978-0785196235}}
+|-
+|''Spider-Woman: Shifting Gears Vol. 3: Scare Tactics''
+|''Spider-Woman'' Vol. 6 #13-17
+| June 13, 2017
+|{{ISBNT|978-1302903305}}
+|}
+
+==In other media==
+
+===Television===
+* An animated ''[[Spider-Woman (TV series)|Spider-Woman]]'' series, featuring Jessica Drew, launched on [[American Broadcasting Company|ABC's]] Saturday Morning Cartoon block in 1979 (produced by [[DePatie-Freleng Enterprises]] and Marvel Comics Animation), where Jessica Drew is voiced by [[Joan Van Ark]].
+* Spider-Woman has made two live action appearances on TV:
+** A cameo role on the short-lived TV series ''[[Once a Hero]]'' about a comic strip hero who leaves his "world" to find his creator. Near the end of one episode Captain Justice returns to the "Real Earth", and a crowd of comic book characters can be seen cheering him on, including Spider-Woman.
+** The ''[[Saturday Night Live]]'' sketch "Superhero Party" (originally broadcast March 17, 1979) featured [[Margot Kidder]] as [[Lois Lane]] with [[Superman]] ([[Bill Murray]]), [[Flash (comics)|Flash]] ([[Dan Aykroyd]]), [[Lana Lang]] ([[Jane Curtin]]), [[Hulk (comics)|Hulk]] ([[John Belushi]]), [[Thing (comics)|Thing]], [[Spider-Man]], Spider-Woman, [[Hank Pym|Ant-Man]] ([[Garrett Morris]]), and [[Invisible Woman|Invisible Girl]].
+
+===Film===
+*Jessica Drew / Spider-Woman will appear in a female-centered spin-off to the 2018 animated film ''[[Spider-Man: Into the Spider-Verse]]''.<ref name="Spider-VerseSequelPlans">{{cite web|url=https://www.superherohype.com/movies/430257-amy-pascal-teases-into-the-spider-verse-sequel-plans-new-characters |title=Amy Pascal Teases Into the Spider-Verse Sequel Plans, New Characters |last=Abbate |first=Jake |publisher=SuperHeroHype |date=December 14, 2018 |accessdate=December 15, 2018 |deadurl=no }}</ref>
+
+===Video games===
+* Spider-Woman is a playable character in the video game ''[[Marvel: Ultimate Alliance]]'', voiced by [[Tasia Valenza]].<ref name="btva">{{cite web | title=Voice Of Spider-Woman - Marvel Universe <nowiki>|</nowiki> Behind The Voice Actors | url=http://www.behindthevoiceactors.com/characters/Marvel-Universe/Spider-Woman/ | work=Behind The Voice Actors | accessdate=October 18, 2017| postscript=. Check mark indicates role has been confirmed using screenshots of closing credits and other reliable sources}}</ref> She possesses all of the powers she has in the comic book except super-strength. She has a S.H.I.E.L.D. agent variant costume (a navy blue and black unmasked version of her classic costume, with white glider webs and a silver belt). In addition, she also has unlockable costumes in the form of [[Julia Carpenter]] (Secret War edition) and [[Spider-Girl]], and faces the [[Wrecker (comics)|Wrecker]] in her simulator disc mission. If a player were to ask her a question revolving around Spider-Man, she tells the player that she's not related to Spider-Man (though she seems to show a slight attraction to him by stating that he's "kinda cute in a geeky sort of way"). Spider-Woman has special dialogue with [[Black Widow (Natalia Romanova)|Black Widow]], [[Edwin Jarvis]], [[Grey Gargoyle]], [[Enchantress (Marvel Comics)|Enchantress]], and [[Doctor Doom]] (while in Doctor Doom's castle).
+* Jessica Drew appears in the [[PlayStation 2]] and [[PlayStation Portable|PSP]] versions of ''[[Spider-Man: Web of Shadows]]'', voiced by [[Mary Elizabeth McGlynn]].{{cn|date=October 2017}} Spider-Man encounters her on the S.H.I.E.L.D. Helicarrier and saves her from infected S.H.I.E.L.D. Agents. Following the path of her downed Helicopter, Spider-Man encounters Jessica, who has become infected and trying to fight the symbiotic control. Spider-Man manages to defeat Symbiote-Jessica and obtain the S.H.I.E.L.D. plans.<ref>{{cite web|title=Spiderman: Web of Shadows|url=http://spiderman.neoseeker.com/wiki/Spiderman%3A_Web_Of_Shadows|accessdate=1 April 2014}}</ref>
+* Spider-Woman appears in ''[[Marvel: Ultimate Alliance 2]]'', voiced by [[Elizabeth Daily]].<ref>{{cite web |first=Jesse |last=Schedeen |url=http://uk.comics.ign.com/articles/101/1018503p1.html |title=Touring the Marvel: Ultimate Alliance 2 Universe |publisher=UK comics |date=September 14, 2009 |accessdate=2012-06-11 |deadurl=yes |archiveurl=https://www.webcitation.org/6AOjqEKEw?url=http://www.ign.com/articles/2009/09/15/touring-the-marvel-ultimate-alliance-2-universe |archivedate=September 3, 2012 |df= }}</ref> She is allied with [[Captain America]]'s Anti-Registration movement. She is a boss in the Pro-Registration side, and an ally on the Anti-Registration side who also assists the player during a mission. Spider-Woman first appears in Stark Tower after the events in Washington and tells the heroes she does not plan on signing the SRA. If the player chooses Anti Registration, she assists the heroes in the first mission but is captured by S.H.I.E.L.D agents. Spider-Woman is one of the many heroes presumed deceased after the battle in the [[Negative Zone]] prison. She later gets taken over by The Fold and attacks the heroes outside of the Repeater Tower alongside [[Wonder Man]].
+* Spider-Woman is a playable character in ''[[Marvel Super Hero Squad Online]]'', voiced by [[Grey DeLisle]].{{cn|date=October 2017}}
+* Spider-Woman is a playable character in the [[Facebook]] game ''[[Marvel: Avengers Alliance]]''.{{cn|date=October 2017}} Spider-Woman later becomes one of the Worthy as Kurth: Breaker of Stones.
+* Spider-Woman appears in ''[[Marvel Heroes (video game)|Marvel Heroes]]'' as a non-playable character.{{cn|date=October 2017}}
+* Spider-Woman appears as a playable character in ''[[Lego Marvel Super Heroes]]'',<ref>{{cite web |url=http://www.bricksandbloks.com/lego-sdcc-2013-exclusives-minifigures-green-arrow-spider-woman/ |title=LEGO SDCC 2013 Exclusives Minifigures! Green Arrow! Spider-Woman! |date=July 12, 2013 |accessdate=2013-07-16| publisher=bricksandbloks.com}}</ref> voiced by [[Kari Wahlgren]].<ref>{{cite web|title=Kari Wahlgren IMSB|url=https://www.imdb.com/name/nm1312566/|accessdate=1 April 2014}}</ref>
+* Spider-Woman and other versions of the character appear in ''[[Spider-Man Unlimited (video game)|Spider-Man Unlimited]]'' as playable characters, where Jessica Drew is voiced by [[Laura Bailey (voice actress)|Laura Bailey]].<ref name="btva"/>
+* A teenage version of Spider-Woman appears as a playable character in ''[[Marvel Avengers Academy]]'', voiced by [[Kiernan Shipka]].<ref>{{cite web|url=http://www.comicbookresources.com/article/john-cena-colton-haynes-alison-brie-lend-voices-marvel-avengers-academy|title=John Cena and Colton Haynes Lend Voices to "Marvel Avengers Academy"|work=Comic Book Resources}}</ref>
+* The Ultimate version of Jessica Drew is playable in the Spider-Man [[Downloadable content|DLC]] pack for ''[[Lego Marvel's Avengers]]'', though she is referred to as '''Spider-Girl''' for unknown reasons.<ref>http://marvel.com/news/video_games/26213/spider-man_swings_into_lego_marvels_avengers{{dead link|date=March 2018 |bot=InternetArchiveBot |fix-attempted=yes }}</ref>
+* Spider-Woman is a playable character in the match-three mobile game ''[[Marvel Puzzle Quest]]''. She was added to the game in August 2016.<ref>{{Cite web |url=https://news.marvel.com/games/26637/piecing_together_marvel_puzzle_quest_spider-woman/ |title=Archived copy |access-date=2017-02-06 |archive-url=https://web.archive.org/web/20170206192004/https://news.marvel.com/games/26637/piecing_together_marvel_puzzle_quest_spider-woman/ |archive-date=2017-02-06 |dead-url=yes |df= }}</ref>
+
+===Miscellaneous===
+* Spider-Woman was among the ten Marvel characters on a set of ''Marvel Comics Super Heroes'' commemorative postage-stamps that were issued in 2007.<ref>{{cite web|url=http://www.usps.com/communications/newsroom/2007/sr07_024.htm|title=''USPS Stamp News: Spider-Man and Nine Other Marvel Super Heroes to Deliver for Postal Service''|publisher=[[Usps.com]]|deadurl=yes|archiveurl=https://web.archive.org/web/20090509022721/https://www.usps.com/communications/newsroom/2007/sr07_024.htm|archivedate=2009-05-09|df=}}</ref>
+* Spider-Woman [[motion comics]] have also been made as part of the [[Marvel Knights Animated]] line, based on the series written by Brian Michael Bendis. They are called ''Spider-Woman: Agent of S.W.O.R.D.'' and came out 14 June 2011. In the series, Jessica Drew is voiced by actress Nicolette Reed.<ref name="btva"/>
+* Spider-Woman appears in the ''[[Wolverine: Weapon X]]'' motion comics, voiced by [[Lisa Ann Beley]].<ref name="btva"/>
+
+==References==
+{{Reflist|3}}
+
+==External links==
+{{Portal|1970s|Superhero fiction|Speculative fiction|Fictional characters|Comics|United Kingdom}}
+* {{Marvelwiki|Spider-Woman_(Jessica_Drew)|Spider-Woman (Jessica Drew)}}
+* [[MarvelDatabase:Spider-Woman (Jessica Drew)|Spider-Woman (Jessica Drew)]] at the Marvel Database Project
+*[http://toonopedia.com/spidrwom.htm Spider-Woman (Jessica Drew)] at [[Don Markstein's Toonopedia]]. [https://www.webcitation.org/6sQXbLcEe?url=http://toonopedia.com/spidrwom.htm Archived] from the original on August 2, 2017.
+* [http://www.spiderfan.org/characters/spiderwoman1.html Spider-Woman (Jessica Drew)] at Spiderfan.org
+* {{Comicbookdb|type=character|id=405|title=Spider-Woman (Jessica Drew)}}
+
+{{Spider-Woman}}
+{{Spider-Man characters}}
+{{Jessica Jones}}
+{{S.H.I.E.L.D.}}
+{{Ms. Marvel}}
+{{Spiderman}}
+
+[[Category:1978 comics debuts]]
+[[Category:American superheroes]]
+[[Category:British superheroes]]
+[[Category:Characters created by Archie Goodwin]]
+[[Category:Characters created by Marie Severin]]
+[[Category:Comics characters introduced in 1977]]
+[[Category:Female characters in comics]]
+[[Category:Fictional British people]]
+[[Category:Fictional capoeira practitioners]]
+[[Category:Fictional characters with electric or magnetic abilities]]
+[[Category:Fictional double agents]]
+[[Category:Fictional immigrants to the United States]]
+[[Category:Fictional people from London]]
+[[Category:Fictional private investigators]]
+[[Category:Fictional SIS agents]]
+[[Category:Hydra agents]]
+[[Category:Marvel Comics characters who can move at superhuman speeds]]
+[[Category:Marvel Comics characters with superhuman strength]]
+[[Category:Marvel Comics martial artists]]
+[[Category:Marvel Comics mutates]]
+[[Category:Marvel Comics special forces personnel]]
+[[Category:Marvel Comics titles]]
+[[Category:S.H.I.E.L.D. agents]]
+[[Category:Spider-Woman]]

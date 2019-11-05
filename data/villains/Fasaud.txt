@@ -1,0 +1,55 @@
+<!-- Please do not remove or change this AfD message until the discussion has been closed. -->
+{{Article for deletion/dated|page=Fasaud|timestamp=20190205025946|year=2019|month=February|day=5|substed=yes|help=off}}
+<!-- Once discussion is closed, please place on talk page: {{Old AfD multi|page=Fasaud|date=5 February 2019|result='''keep'''}} -->
+<!-- End of AfD message, feel free to edit beyond this point -->
+{{Multiple issues|
+{{Notability|date=August 2018}}
+{{In-universe|date=August 2018}}
+{{More citations needed|date=August 2018}}
+}}
+{{Infobox comics character <!--Wikipedia:WikiProject Comics-->
+|image=Fasaud 2.jpg
+|imagesize=200
+|caption=Fasaud as he appears in the Union Jack miniseries. Art by [[Michael Perkins (comics)|Michael Perkins]]
+|character_name=Fasaud
+|real_name=Sheikh Farouk Al-Fasaud
+|publisher=[[Marvel Comics]]
+|debut=''[[Fantastic Four (comic book)|Fantastic Four]]'' #308 (November 1987)
+|creators=[[Steve Englehart]] and [[John Buscema]]
+|alliances=
+|previous_alliances=
+|aliases=
+|powers=Intangibility,<br>Electrical manipulation,<br>Teleportation 
+}}
+
+'''Fasaud''' ('''Sheikh Farouk Al-Fasaud'''), is a [[fictional character]] appearing in [[American comic book]]s published by [[Marvel Comics]]. Fasaud is usually portrayed as a [[supervillain]] and initially appeared as an adversary of the [[Fantastic Four]].
+
+==Publication history==
+The character first appeared in ''[[Fantastic Four (comic book)|Fantastic Four]]'' #308-310 (November 1987-January 1988) and was created by writer [[Steve Englehart]] and artist [[John Buscema]]. The character reappeared many years later in the second Union Jack limited series as a terrorist.
+
+Fasuad received an entry in the ''[[Official Handbook of the Marvel Universe|Official Handbook of the Marvel Universe Update '89]]'' #3.
+
+==Fictional character biography==
+Sheikh Farouk Al-Fasaud was the oil minister of the fictional country of Aqiria, and because of that position, he was one of the richest and most powerful men on the planet. Secretive, but very influential, Fasaud had sufficient international clout to influence organizations such as [[OPEC]]. This inspired a reporter named Gregory Dunbar to open an investigation. Dunbar uncovered information unsavory enough to prompt a full-scale investigation by the news media.
+
+This new media fixation, and the erosion of the secrecy behind which he had lived, brought his personal finances (both mundane and unsavory) to the attention of the public. Fasaud found himself losing his supporters and backers rapidly. In true comic fashion, Fasaud blamed Dunbar for all of his recent calamity, and attempted to kill Dunbar with a knife during a television broadcast. Dunbar evaded the strike, and the knife punctured a nearby camera instead and somehow converted Fasaud's body to energy.
+
+Fasaud pursued Dunbar to [[New York City]] and renewed his vendetta, bringing him to the attention of the Fantastic Four. After a pitched battle, wherein the [[Human Torch]] was nearly killed by his own nova flame, the Thing managed to disrupt Fasaud's image with cable insulation. Afterwards, the [[Thing (comics)|Thing]] and [[She-Thing|Ms. Marvel]] journeyed to Aqiria to investigate Fasaud.
+
+Despite a warm greeting by the government of Aquaria, the Thing and Ms. Marvel rapidly uncovered some very suspicious behavior within the Aquarian regime. Meanwhile, Fasaud again attacked Dunbar in New York but was driven off by an electrical storm triggered by [[Crystal (comics)|Crystal]]. Fasaud retreated to Aquaria where he incapacitated the Thing and Ms. Marvel with an electrical discharge, and chained them in a shuttle launch platform. The Thing and his companion escaped and commandeered the shuttle, doing battle with Fasaud in Earth orbit and destroying the telecommunications satellite with which Fasaud intended to distribute his image around the globe. The destruction of the Satellite trapped Fasaud within the shuttle itself, and the Thing then destroyed all the controls and electronics on the shuttle. With no ability to transmit his image anywhere safe, it was believed that Fasaud perished with the shuttle.<ref>''Fantastic Four'' #308-310 (November 1987-January 1988)</ref>
+
+He was later involved in an attack on England.<ref>''Union Jack'' #2</ref>
+
+==Powers and abilities==
+The accident that gave Fasaud his powers left him as a living electronic image. As a result, Fasaud can generate enough electric current to inflict damage as minor as a second degree burn, or electrocute a person to death. He can also increase the output of his electric current faster than the Human Torch can raise the intensity of his flame. Fasaud can teleport his image faster than the eye can blink, travel through devices that transmit electronic signals, and take over any electronic device to put it under his control. Fasaud can become intangible by transforming into pure energy to escape harm, or turn solid so that he may cause physical injury to others. Fasaud has also claimed that since he is not of the flesh, he cannot die even though his image may be disrupted.
+
+==Footnotes==
+<references />
+
+==External links==
+* {{Marvunapp|http://www.marvunapp.com/Appendix6/fasaudff.htm|Fasaud}}
+* [http://www.ameu.org/page.asp?iid=142&aid=186&pg=4 Americans for Middle East Understanding - the Comic Book Arab]
+* [http://www.marvel.com/universe/Fasaud Fasaud at the Marvel Universe Character Bio Wiki]
+
+[[Category:Comics characters introduced in 1987]]
+[[Category:Marvel Comics supervillains]]

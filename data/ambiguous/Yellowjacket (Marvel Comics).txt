@@ -1,0 +1,64 @@
+{{Use mdy dates|date=September 2016}}
+{{Superherobox <!--
+Wikipedia:WikiProject Comics-->
+<!-- |code_name = Yellowjacket -->
+| image          = 
+| imagesize      =
+| caption        = Darren Cross as Yellowjacket in ''The Astonishing Ant-Man'' #12 (September 2016).<br>Art by Brent Shoonover.
+|publisher = [[Marvel Comics]]
+|debut     = ''[[Avengers (comic book)|The Avengers]]'' #59 (December 1968)
+|creators  = [[Roy Thomas]]<br>[[John Buscema]]
+|real_name = [[Hank Pym]]<br />[[Yellowjacket (Rita DeMara)|Rita DeMara]]<br />[[Ultron]]<br />[[Darren Cross]]
+|powers    = 
+*Size-shifting
+*Bio-energy projection
+*Flight using costume "wings"
+*Superhuman strength
+*Telepathy with insects
+}}
+'''Yellowjacket''' is the name of several fictional characters appearing in [[American comic book]]s published by [[Marvel Comics]].
+
+==Fictional character biography==
+
+===Hank Pym===
+{{main|Hank Pym}}
+'''Dr. Henry "Hank" Pym''', also known as [[Ant-Man]], [[Giant-Man]] and [[Goliath (Marvel Comics)|Goliath]], is the first character to take on the Yellowjacket codename. The character has been associated with several superhero teams in the Marvel Universe, including the [[Avengers (comics)|Avengers]] and the [[Defenders (comics)|Defenders]].
+
+===Rita DeMara===
+{{main|Yellowjacket (Rita DeMara)}}
+'''Rita DeMara''' is the second character to go by the Yellowjacket codename. She debuted as a [[supervillainess]], joining [[Masters of Evil|supervillain]] [[Femizons|groups]]. She later becomes a [[superheroine]], joining the [[Guardians of the Galaxy (1969 team)|Guardians of the Galaxy]]'s ranks. She is killed by [[Immortus]],<ref>''Avengers: The Crossing'' #1</ref> but is later resurrected.<ref>''Chaos War'' #2</ref>
+
+===Darren Cross===
+{{main|Darren Cross}}
+'''Darren Cross''' is the third character to use the Yellowjacket codename after gaining the costume thanks to [[Egghead (Marvel Comics)|Egghead]].<ref>''Astonishing Ant-Man'' #12. Marvel Comics.</ref>
+
+==Other versions==
+
+===Ultimate Marvel===
+The original [[Ultimate Marvel]] incarnation of Yellowjacket is '''[[Ultron]]''', a robot designed to be an expendable super soldier. Ultron is later killed by Hank Pym who later takes up the Yellowjacket mantle, wanting to make up for what his creation did.<ref>''Ultimates 3'' #1 - 4 (Feb. - May 2008); ''Ultimates'' #5 (Nov. 2008)</ref>
+
+==In other media==
+
+===Television===
+* The Hank Pym version of Yellowjacket makes his animated debut in ''[[The Avengers: Earth's Mightiest Heroes]]'' after suffering from a mental breakdown.<ref>{{cite web|url=http://www.abc.net.au/abc3/shows/guide/201206/ZX8905A018.htm |title=ABC3 – TV Program – The Avengers (Series 2) Yellowjacket |publisher=ABC3 |accessdate=2012-05-28}}</ref>
+* The Darren Cross version of Yellowjacket appears in ''[[Lego Marvel Super Heroes: Avengers Reassembled]]'', voiced by [[Travis Willingham]].<ref>{{cite episode |title=Lego Marvel Super Heroes: Avengers Reassembled | series = Lego Marvel Super Heroes | serieslink=Lego Super Heroes | work = Disney XD | at=Closing credits | date = November 16, 2015}}</ref>
+
+===Film===
+[[File:AntManYellowjacket.jpg|thumb|[[Corey Stoll]] as Yellowjacket as depicted in the film ''[[Ant-Man (film)|Ant-Man]]'']]
+* In the 2015 [[Marvel Studios]] film ''[[Ant-Man (film)|Ant-Man]]'', [[Darren Cross]] ([[Corey Stoll]]) builds the Yellowjacket suit to sell to [[Hydra (comics)|Hydra]] and the [[Mandarin (comics)|Ten Rings]] and later wears the prototype himself.<ref name="Marvel2014SDCC">{{cite web|url=http://marvel.com/news/movies/2014/7/26/22968/sdcc_2014_official_evangeline_lilly_corey_stoll_join_marvels_ant-man|title=SDCC 2014: OFFICIAL: Evangeline Lilly & Corey Stoll Join Marvel's Ant-Man|publisher=[[Marvel Comics|Marvel.com]]|date=July 26, 2014|accessdate=July 26, 2014|archiveurl=https://www.webcitation.org/6RMwOxtAS|archivedate=July 26, 2014|deadurl=no}}</ref><ref>{{cite web|url=http://www.ew.com/ew/static/longform/antman/desktop/|title=Exclusive First Look at Ant-Man|last=COLLIS|first=Clark|work=Entertainment Weekly|date=January 8, 2015|accessdate=January 8, 2015}}</ref>
+
+===Video games===
+* The Hank Pym incarnation of Yellowjacket appears as a boss character in ''[[Marvel: Ultimate Alliance 2]]'', voiced by [[Wally Wingert]].
+* The Hank Pym incarnation of Yellowjacket is a playable character in ''[[Lego Marvel Super Heroes 2]]''.<ref>{{cite web|title=Characters|url=http://m.ign.com/wikis/lego-marvel-super-heroes-2/Characters|website=IGN Database|accessdate=22 December 2017}}</ref>
+* The [[Marvel Cinematic Universe]] version of Yellowjacket appears in ''[[Marvel: Avengers Alliance]]'', ''[[Marvel: Contest of Champions]]'', ''[[Marvel: Future Fight]]'' and ''[[Lego Marvel's Avengers]]''.
+{{clear}}
+
+==References==
+{{Reflist}}
+
+{{Henry Pym}}
+
+[[Category:Fictional characters who can change size]]
+[[Category:Marvel Comics superheroes]]
+[[Category:Marvel Comics supervillains]]
+[[Category:Marvel Comics robots]]

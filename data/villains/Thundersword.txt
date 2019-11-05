@@ -1,0 +1,55 @@
+<!-- Please do not remove or change this AfD message until the discussion has been closed. -->
+{{Article for deletion/dated|page=Thundersword|timestamp=20190116091946|year=2019|month=January|day=16|substed=yes|help=off}}
+<!-- Once discussion is closed, please place on talk page: {{Old AfD multi|page=Thundersword|date=16 January 2019|result='''keep'''}} -->
+<!-- End of AfD message, feel free to edit beyond this point -->
+{{Infobox comics character
+<!--Wikipedia:WikiProject Comics-->
+| character_name = Thundersword
+| image          = <!-- filename format only -->
+| imagesize      = <!-- default 250 -->
+| caption        = 
+| alt            = 
+| publisher      = [[Marvel Comics]]
+| debut          = ''[[Secret Wars II]]'' #1
+| creators       = [[Jim Shooter]]<br>[[Al Milgrom]]<br>[[Steve Leialoha]]
+| alter_ego      = Stewart Cadwall
+| species        = [[Human]]
+| homeworld      = <!-- optional -->
+| alliances      = <!-- optional -->
+| aliases        = <!-- optional -->
+| powers         = Super-Strength
+| cat            = 
+| subcat         = 
+| hero           = 
+| villain        = y
+| sortkey        = Thundersword
+| addcharcat#    = 
+}}
+'''Thundersword''' is a [[fictional character]] appearing in [[American comic book]]s published by [[Marvel Comics]].
+
+==Publication history==
+Thundersword first appeared in ''[[Secret Wars II]]'' #1 and was created by [[Jim Shooter]], [[Al Milgrom]], and [[Steve Leialoha]].
+
+==Fictional character biography==
+At the time of the ''[[Secret Wars II]]'' storyline, Stewart Cadwall is a struggling [[Hollywood]] [[screenwriter]] who was arguing with his agent about the merits that involved more violence in his scripts. His angry phone call attracted the attention of the [[Beyonder]] who was on Earth wanting to know more about humanity. When he hears Stewart mentioning his desire to have superpowers, Beyonder granted his wish by empowering the [[Academy of Comic Book Arts#Shazam Award|Shazam Award]] trophy that Stewart was holding at the time. This transforms Stewart into a character he once created called Thundersword. Upon creating his winged steed Boromir, Thundersword took off on his campaign to deal with the mediocrity in the world. His first stop was [[NBC]] where they were the ones who forced him to rewrite his scripts. [[X-Men]] members [[Colossus (comics)|Colossus]], [[Magneto (comics)|Magneto]], [[Rachel Summers]], [[Rogue (comics)|Rogue]], [[Kitty Pryde|Shadowcat]] and [[Wolverine (character)|Wolverine]] and [[New Mutants]] members [[Cannonball (comics)|Cannonball]] and [[Magik (Illyana Rasputin)|Magik]] arrived where they mistook him for the Beyonder. Before they can attack Thundersword, he turned his attention towards the [[McDonald's]] that they crashed through. [[Captain America]] and [[War Machine|James Rhodes]] (who was operating as [[Iron Man]] at the time) arrived to engage Thundersword in battle. Using his shield, Captain America knocked Thundersword's sword out of his hand causing him to revert to Stewart Cadwall while the sword regressed back to the Shazam Award trophy. Stewart was then overcome with the fact that he attacked the place that he worked at.<ref>''Secret Wars II'' #1</ref>
+
+As Iron Man was delivering him to the police, Stewart Cadwall realized that the Thundersword powers that the Beyonder bestowed upon him came from himself and not the Shazam Award trophy. After breaking out of prison, Thundersword forged a new sword and recreated Boromir. When Iron Man arrived upon learning that Thundersword is back, Iron Man was then defeated by Thundersword who left. Realizing that he is no match for Thundersword, James Rhodes contacted Tony Stark where they came up with a plan to power up the Iron Man armor. Now sporting the extra strength, Iron Man resisted Thundersword's blows and was able to use one punch to knock him into the ocean. Thundersword's body was never found.<ref>''Iron Man'' #197</ref>
+
+During the ''[[Civil War II]]'' storyline, Stewart Cadwall resurfaced where he has been paroled from prison. He settled in [[Van Nuys]] and had a family. Due to [[Ulysses Cain]]'s vision of an energy anomaly originating from Stewart's home that was going to cause a tragedy, [[Carol Danvers|Captain Marvel]] and the [[Alpha Flight]] Space Program arrived to arrest Stewart Cadwall when it was discovered that he still has the Shazam Award trophy. Captain Marvel discovered that it has not reached dangerous levels yet.<ref>''Captain Marvel'' Vol. 9 #8</ref> When [[Master of the World (comics)|Master of the World]] disguised as Phillipe Beaulieu of Alpha Flight Space Program's Board of Governors took the Shazam Award trophy from the evidence lock-up, he used it to empower himself into a Thundersword-like form where he fought Captain Marvel, [[Aurora (comics)|Aurora]], [[Puck (Marvel Comics)|Puck]], and [[Sasquatch (comics)|Sasquatch]] where their fight ended up in a bar. Stewart Cadwall showed up at the bar where he got his hands on the sword enough for Master of the World to lose his power upgrade and be defeated by Captain Marvel. Afterwards, Captain Marvel allowed Stewart Cadwall to keep the Shazam Award trophy and Cadwall resumed his family life.<ref>''Captain Marvel'' Vol. 9 #10</ref>
+
+==Powers and abilities==
+When using the thunderbolt-shaped sword as a conduit, Thundersword has super-human strength. His sword is strong enough to cut through brick and metal.
+
+Thundersword also has the ability to manifest his winged horse Boromir.
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://marvel.wikia.com/wiki/Stewart_Cadwall_(Earth-616) Thundersword] at Marvel Wiki
+* [http://comicvine.gamespot.com/thundersword/4005-43177/ Thundersword] at Comic Vine
+* {{Marvunapp|http://www.marvunapp.com/Appendix/thundersword.htm|Thundersword}}
+
+
+[[Category:Marvel Comics supervillains]]
+[[Category:Fictional writers]]

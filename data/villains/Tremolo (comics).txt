@@ -1,0 +1,37 @@
+{{Superherobox| <!--Wikipedia:WikiProject Comics-->
+image=
+|caption=
+|character_name=Tremolo
+|real_name=
+|species=[[Mutant (Marvel Comics)|Human Mutant]]
+|publisher=[[Marvel Comics]]
+|debut=''X-Factor'' vol. 1 #80
+|creators=
+|alliances=[[Hell's Belles]]
+|aliases=
+|powers=Depowered<br>'''Formerly''':<br>Sound Control<br>Flight
+|}}
+
+'''Tremolo''' is a fictional [[Mutant (Marvel Comics)|mutant]] character appearing in [[American comic book]]s published by [[Marvel Comics]].
+
+==Fictional character biography==
+Tremolo was a member of female [[Mutant (Marvel Comics)|mutant]] terrorists. She was resuscitated by [[Cyber (Marvel Comics)|Cyber]] to commit acts of [[extortion]], and worked for a notorious [[drug cartel]]. Another member of group, [[Shrew (comics)|Shrew]] eventually quit the team and agreed to [[testify]] against the cartel for [[immunity from prosecution|immunity]].{{Issue|date=September 2009}} Tremolo and other The Belles, upon discovering their former teammate's betrayal, sought out to kill Shrew. The government then placed Shrew under the protection of [[X-Factor (comics)|X-Factor]].{{Issue|date=September 2009}} The Belles ambushed X-Factor in a hotel, and in the ensuing battle. She was initially driven off by Wolfsbane, and was later punched out by Quicksilver and taking them into custody with other defeated Belles.{{Issue|date=September 2009}}
+
+She is currently depowered due to events of [[Decimation (comics)|M-Day]].{{Issue|date=September 2009}}
+
+==Powers and abilities==
+Tremolo radiates sound and sonic waves around her body at all times, allowing her to fly, giving off explosive shock blasts, and vibro-shattering anything within range. 
+
+==Notes==
+*There is a member of the [[Great Game (comics)|Great Game]] that is also called '''Tremolo''', that first appeared in ''New Thunderbolts'' #2
+
+==References==
+{{reflist}}
+
+{{DEFAULTSORT:Tremolo (Comics)}}
+[[Category:Female supervillains]]
+[[Category:Marvel Comics mutants]]
+[[Category:Marvel Comics supervillains]]
+
+
+{{Marvel-villain-stub}}

@@ -1,0 +1,537 @@
+{{Overly detailed|date=September 2018}}
+{{Infobox comics character and title
+<!--Wikipedia:WikiProject Comics-->
+| image = Moon Knight 1cover.jpg
+| caption = Textless cover of ''Moon Knight'' #1.<br/>Art by [[David Finch (comics)|David Finch]] and Frank D'Armata.
+| publisher = [[Marvel Comics]]
+| debut = ''[[Werewolf by Night]]'' #32 (August 1975)
+| creators = [[Doug Moench]]<br>[[Don Perlin]]
+| alter_ego = Marc Spector
+| full_name =
+| species = [[Homo sapiens|Human]]
+| homeworld = [[Marvel Universe|Earth]]
+| alliances = [[Secret Avengers]]<br/>[[Avengers (comics)|Avengers]]<br/>[[West Coast Avengers]]<br/>[[Defenders (comics)|Defenders]]<br/>[[Marvel Knights]]<br/>[[Heroes for Hire]]<br/>[[United States Marine Corps]]
+| partners = [[Frenchie (comics)|Jean "Frenchie" DuPaul-Champ]]
+| supports = 
+| aliases = Steven Grant, Jake Lockley, The Fist of Khonshu, Yitzak Topol, Mr. Knight
+| powers = 
+* Expert detective
+* Proficient in martial arts and armed combat<br>'''Formerly''':
+*Increased strength, endurance, and agility depending on the lunar cycle
+<!--Series section-->
+|title = Moon Knight
+|cvr_image = Moonknight v3 1.jpg
+|cvr_caption = Cover art for ''Marc Spector: Moon Knight'' #1 (1989)<br>Art by Carl Potts, Sal Velluto and Kevin Nowlan
+|cvr_alt =
+|schedule = Monthly
+|format = [[Ongoing series]]
+|limited =
+|ongoing = y
+|1shot =
+|genre = [[Superhero comics|Superhero]]
+|pub_series =
+|date =
+|1stishhead = vol. 1
+|1stishyr = 1980
+|1stishmo = November
+|endishyr = 1984
+|endishmo = July
+|1stishhead1 = vol. 2
+|1stishyr1 = 1985
+|1stishmo1 = June
+|endishyr1 = 1985
+|endishmo1 = December
+|1stishhead2 = Marc Spector: Moon Knight
+|1stishyr2 = 1989
+|1stishmo2 = June
+|endishyr2 = 1994
+|endishmo2 = March
+|1stishhead3 = vol. 3
+|1stishyr3 = 2006
+|1stishmo3 = June
+|endishyr3 = 2009
+|endishmo3 = December
+|1stishhead4 = Vengeance of the Moon Knight
+|1stishyr4 = 2009
+|1stishmo4 = November
+|endishyr4 = 2010
+|endishmo4 = September
+|1stishhead5 = vol. 4
+|1stishyr5 = 2011
+|1stishmo5 = July
+|endishyr5 = 2012
+|endishmo5 = April
+|1stishhead6 = vol. 5
+|1stishyr6 = 2014
+|1stishmo6 = March
+|endishyr6 = 2015
+|endishmo6 = August
+|1stishhead7 = vol. 6
+|1stishyr7 = 2016
+|1stishmo7 = April
+|endishyr7 = 2017
+|endishmo7 = July
+|1stishhead8 = Legacy
+|1stishyr8 = 2018
+|1stishmo8 = January
+|endishyr8 = 2018
+|endishmo8 = December
+|issues = '''(vol. 1)''': 38<br>'''(vol. 2)''': 6<br>'''(Marc Spector)''': 60<br>'''(vol. 3)''': 30<br>'''(Vengeance)''': 10<br>'''(vol. 4)''': 12<br>'''(vol. 5)''': 17<br>'''(vol. 6)''': 14<br>'''(Legacy)''': 13
+|main_char_team =
+|writers = '''(vol. 1)'''<br>[[Doug Moench]], [[Alan Zelenetz]], [[Tony Isabella]]<br>'''(vol. 2)'''<br>Alan Zelenetz<br>'''(Marc Spector)'''<br>[[Chuck Dixon]], [[J. M. DeMatteis]], [[Terry Kavanagh]]<br>'''(vol. 3)'''<br>[[Charlie Huston]], [[Mike Benson (screenwriter)|Mike Benson]]<br>'''(vol. 4)'''<br>[[Brian Michael Bendis]]<br>'''(vol. 5)'''<br>[[Warren Ellis]], [[Brian Wood (comics)|Brian Wood]], [[Cullen Bunn]]<br>'''(vol. 6)'''<br>[[Jeff Lemire]]<br>'''(Legacy)'''<br>[[Max Bemis]]
+|artists =
+|pencillers = '''(vol. 1)'''<br>[[Bill Sienkiewicz]], [[Kevin Nowlan]], [[Bo Hampton]]<br>'''(vol. 2)'''<br>[[Chris Warner (comics)|Chris Warner]]<br>'''(Marc Spector)'''<br>Sal Velluto, [[Ron Garney]], Gary Kwapisz, [[James Fry]], Stephen Platt<br>'''(vol. 3)'''<br>[[David Finch (comics)|David Finch]], [[Mark Texeira]], Mico Suayan, Javier Saltares, Jefte Palo<br>'''(vol. 4)'''<br>[[Alex Maleev]]<br>'''(vol. 5)'''<br>[[Declan Shalvey]], Greg Smallwood, Ron Ackins<br>'''(vol. 6)'''<br>Greg Smallwood<br>'''(Legacy)'''<br>[[Jacen Burrows]], [[Ty Templeton]], Paul Davidson
+|inkers = '''(vol. 2)'''<br>Mark Farmer, [[Tom Palmer (comics)|Tom Palmer]]<br>'''(vol. 4)'''<br>Danny Miki
+|letterers =
+|colorists =
+|editors =
+|creative_team_month =
+|creative_team_year =
+|creators_series =
+|TPB =
+|ISBN =
+|nonUS =
+}}
+
+'''Moon Knight''' ('''Marc Spector''') is a [[Character (arts)|fictional]] [[superhero]] appearing in [[American comic book]]s published by [[Marvel Comics]]. Created by [[Doug Moench]] and [[Don Perlin]], the character first appeared in ''[[Werewolf by Night]]'' #32 (August 1975).
+
+==Publication history==
+The character debuted in ''[[Werewolf by Night]]'' #32 (August 1975), written by [[Doug Moench]] with art by [[Don Perlin]], as a villain hired by the [[Committee (comics)|Committee]] to capture the title character for them in a two-part story continuing in #33. He finds out that the Committee wanted to use him as a weapon and helps the Werewolf escape, briefly fighting alongside him. Moon Knight later returned in the form of a demonic apparition taking on his appearance in #37 (March 1976) to battle the Werewolf once again. Editors [[Marv Wolfman]] and [[Len Wein]] liked the character, prompting them to grant him a solo spot in ''[[Marvel Spotlight]]'' #28–29 (June/August 1976),<ref>{{cite journal|last=Buttery|first=Jarrod|title=Ready for the Spotlight|journal=[[Back Issue!]]|issue=71|page=8 |publisher=[[TwoMorrows Publishing]] |date=April 2014|location=Raleigh, North Carolina}}</ref> again written by Doug Moench with art by Don Perlin. The story, along with the Bill Mantlo-penned ''[[Spectacular Spider-Man]]'' #22 and #23 (September/October 1978), recast Moon Knight as a hero and his villainous first appearance as a cover to infiltrate the Committee. Subsequent appearances came in ''[[Marvel Two-in-One]]'' #52, written by [[Steven Grant]] with art by [[Jim Craig (comics)|Jim Craig]] and ''[[The Defenders (comic book)|The Defenders]]'' #47–51, which had him briefly join the Defenders during their war against the Zodiac Cartel.
+
+Moon Knight then gained a backup strip in ''Hulk! Magazine'' #11–15, #17–18, and #20, which saw the character first drawn with artist [[Bill Sienkiewicz]] on issues #13-15, 17-18, and #20 as well as a black and white story in the magazine publication ''Marvel Preview'' #21. Sienkiewicz's [[Neal Adams]]-influenced art style helped cement the early perception of Moon Knight as a mere [[Batman]] clone.<ref>{{cite journal |last=Buchanan|first=Bruce |title=The New Mutants: From Superhero Spin-Off to Sci-Fi/Fantasy|journal=[[Back Issue!]]|issue=29|pages=65–66 |publisher=[[TwoMorrows Publishing]]|date=August 2008|location=Raleigh, North Carolina}}</ref> The ''Hulk'' backups and ''Marvel Preview'' issue, which were all written by Doug Moench, provided Moon Knight with a partial origin story and introduced one of his most notable recurring villains: Randall Spector, who would later become [[Shadow Knight (comics)|Shadow Knight]].
+
+Moon Knight received his first ongoing series in 1980, with Doug Moench and Bill Sienkiewicz as its main creative team. The character received a complete origin story, and most of his notable recurring villains were introduced; particularly his arch enemy [[Bushman (comics)|Bushman]]. Early sales were good for the book, leading to Marvel, as of issue #15, moving the title from newsstand distribution and making it one of its flagship titles for a group of books only available in comic shops. A companion mini-series was also released, ''Moon Knight: Special Edition'', which reprinted the ''Hulk'' and ''Marvel Preview'' Moon Knight stories in color and in comic format, as opposed to their original magazine format. Sienkiewicz left the series after issue #30, though continued to contribute covers until the final issue (#38).
+
+In 1985, Marvel followed up the series with ''Moon Knight – Fist Of Khonshu'' by Alan Zelenetz and Chris Warner, a six issue mini-series that established Moon Knight as suffering from schizophrenia due to the stress of his various aliases. Moon Knight appeared in ''Marvel Fanfare'' for two issues (#30 and #38) and in the pages of ''West Coast Avengers'' (#21–41 and ''Annual''s #1–3), with the character written by Steven Englehart.
+
+With the arrival of John Byrne onto the title, Moon Knight was written out of the [[West Coast Avengers]] and after a guest spot in ''Punisher Annual'' #2 (part of the "Atlantis Attacks" storyline), the character was given a new ongoing title in 1989, ''Marc Spector: Moon Knight''. The series was originally written by Chuck Dixon, who left the title after issue #24. Dixon left the book with several storylines unresolved (most notably, the fate of Moon Knight's errant sidekick, the second Midnight) and the plotline with the sidekick was resolved in the pages of ''The Amazing Spider-Man'' #353–358, written by Al Milgrom.
+
+The series was canceled with #60 (March 1994), with four of the last six issues drawn by Stephen Platt, who was hired by Image Comics based on the strength of his work on the series. Two one-shots, ''Marc Spector: Moon Knight Special Edition'' #1 and ''Moon Knight: Divided We Fall,'' were published during the run of the title.
+
+In 1998, writer [[Doug Moench]], artist [[Tommy Edwards]], and inker Robert Campanella brought the deceased hero back in a four-part [[mini-series]] called the ''Resurrection Wars''.<ref>''Moon Knight Resurrection War'' Vol 1 #1</ref>  In 1999, Moench and artist [[Mark Texeira]] worked together on another four-part mini-series called "High Strangeness" which was nominated for the [[Comics Buyer's Guide Fan Award]] for Favorite Limited Series. The title of the story was mistakenly given as "High Strangers" on the covers of the mini-series. The correct title of the story, "High Strangeness", appeared on the title page of each issue.<ref>''Moon Knight: High Strangers'' Vol 1 #1</ref>
+
+A ''Moon Knight'' ongoing series was launched in April 2006, written by [[Charlie Huston]] with art by [[David Finch (comics)|David Finch]].<ref>[https://archive.is/20100117012349/http://forum.newsarama.com/showthread.php?threadid=38948 Huston Talks Moon Knight], [[Newsarama]], July 25, 2005</ref><ref>[http://www.comicbookresources.com/?page=article&id=5488 Dark Side of the Moon Knight: Huston talks "Moon Knight: The Bottom"], [[Comic Book Resources]], August 8, 2005</ref><ref>[http://www.comicbookresources.com/?page=article&id=6312 Waxing Moon Knight: Huston talks "Moon Knight"], [[Comic Book Resources]], February 1, 2006</ref> As of #14 of this series, [[Mike Benson (screenwriter)|Mike Benson]] took over writing duties<ref>[http://www.comicsbulletin.com/features/11885380822002.htm Mike Benson: Of Moon Knight and Redemption] {{webarchive|url=https://web.archive.org/web/20110523075836/http://www.comicsbulletin.com/features/11885380822002.htm |date=2011-05-23 }}, [[Comics Bulletin]], August 31, 2007</ref><ref>[http://www.comicsbulletin.com/features/120466700781781.htm Bring on the Knight: An Interview with Moon Knight's Mike Benson] {{webarchive|url=https://web.archive.org/web/20080515215051/http://www.comicsbulletin.com/features/120466700781781.htm |date=2008-05-15 }}, [[Comics Bulletin]], March 4, 2008</ref> with Huston acting as story-outline adviser according to Benson in an interview with Marvel published as a one-page excerpt in various Marvel comic books throughout late 2007 and early 2008.{{Citation needed|date=September 2009}} [[Peter Milligan]] also wrote a 2008 seasonal one-shot titled  "Moon Knight: Silent Knight" with artist [[Laurence Campbell]].<ref>[http://www.comicbookresources.com/?page=article&id=18868 O Holy Knight: Milligan on Moon Knight Xmas Special], [[Comic Book Resources]], November 18, 2008</ref>  The 2006 series ended with #30 (July 2009), and only one Annual in the series was printed in 2008.
+
+That series was followed by a ten-issue maxi-series titled ''Vengeance of the Moon Knight'', beginning in September 2009, written by [[Gregg Hurwitz]] and drawn by Jerome Opena.<ref>{{cite web|url=https://www.cbr.com/heroescon-vengeance-of-the-moon-knight/|title=HeroesCon: Vengeance of the Moon Knight! |website=Cbr.com|accessdate=29 January 2019}}</ref> After ''Vengeance of the Moon Knight'' was canceled, Moon Knight was placed in the team book ''Secret Avengers'' (appearing for the title's first 21 issues), in the ''Shadowland'' three issue storyline and in a 2010 relaunch of ''Heroes for Hire''.
+
+It was announced at the New York Comic Con that 2011 would see the launch of a new ''Moon Knight'' series by [[Brian Michael Bendis]] and [[Alex Maleev]]. The series, which saw Moon Knight replace his multiple personalities with heroes such as Spider-Man, Captain America, and Wolverine, was canceled after 12 issues due to poor sales.
+
+In March 2014, Marvel launched a new ongoing series as part of the [[Marvel NOW!]] initiative that introduced a new suit-and-tie costume for the character, with a revolving door of creative teams that included [[Warren Ellis]] and [[Declan Shalvey]] for issues #1-6, [[Brian Wood (comics)|Brian Wood]] and Greg Smallwood for issues #7-12, and [[Cullen Bunn]] and Ron Ackins for issues #13-17.<ref>{{cite web|url=http://comicsalliance.com/warren-ellis-moon-knight-declan-shalvey-jordie-bellaire-all-new-marvel-now/ |title=Archived copy |accessdate=2017-02-19 |deadurl=yes |archiveurl=https://web.archive.org/web/20160303234647/http://comicsalliance.com/warren-ellis-moon-knight-declan-shalvey-jordie-bellaire-all-new-marvel-now/ |archivedate=2016-03-03 |df= }}</ref> 
+
+The series was relaunched as part of the "[[All-New, All-Different Marvel]]" initiative. The new series, written by [[Jeff Lemire]] and artist Greg Smallwood (returning from his run with Brian Wood), debuted in April 2016 and saw Marc Spector waking up in a mental institution, told that his life as Moon Knight was a hallucination.<ref>{{cite web|title = A New Moon Knight Rises {{!}} News {{!}} Marvel.com|url = http://marvel.com/news/comics/25171/a_new_moon_knight_rises|website = marvel.com|accessdate = 2015-12-14}}</ref> The series ended on May 31, 2017 after 14 issues before being relaunched with the corporate-wide initiative called [[Marvel Legacy]]. 
+
+The new "[[Marvel Legacy]]" volume launched in January of 2018, starting with issue number 188 and continued through issue 200. The initial issue was written by [[Max Bemis]] (who also suffers from [[Bipolar disorder|mental health disorders]]) and was drawn by [[Jacen Burrows]].<ref>{{cite web|url=https://650centplague.wordpress.com/2018/04/21/its-differently-abled-now-review-of-moon-knight-188-193/|title=It’s ‘differently abled’ now: Review of Moon Knight #188-193|date=21 April 2018|website=650centplague.wordpress.com|accessdate=29 January 2019}}</ref> [[Ty Templeton]] then steps in as the primary artist for issue 194, with Paul Davidson on issues 195, 196, and 199, and Burrows returning for 197-198.<ref>{{cite web|url=https://comicstore.marvel.com/Ty-Templeton/comics-creator/1821|title=Ty Templeton Digital Comics - Marvel Comics|website=Comicstore.marvel.com|accessdate=29 January 2019}}</ref> Issue 200 had several artists from Moon Knight's run contributing art.<ref>{{cite web|url=https://comicstore.marvel.com/Moon-Knight-2017-2018-200/digital-comic/49547?r=1|title=Moon Knight (2017-2018) #200 - Marvel Comics|website=Comicstore.marvel.com|accessdate=29 January 2019}}</ref>
+
+==Fictional character biography==
+===Origin===
+Born in [[Chicago|Chicago, Illinois]], '''Marc Spector''' is a [[Jewish-American]] [[rabbi]]'s wayward son. As an adult, Spector had been a heavyweight [[boxer]] before becoming a [[U.S. Marine]], afterward, he left the [[United States military]] to become a [[mercenary]]. He later becomes a strong and skilled combatant and befriends the [[France|French]] [[aviator|pilot]] Jean-Paul DuChamp, whom he affectionately calls "[[Frenchie (comics)|Frenchie]]". While working for the [[Africa]]n mercenary [[Bushman (comics)|Raoul Bushman]] in [[Egypt]], the group stumbles upon an [[archaeology|archaeological]] dig whose crew includes Dr. Peter Alraune and his daughter [[Marlene Alraune]]. The dig had uncovered an ancient temple where artifacts included a statue of the [[Egyptian mythology|Egyptian]] moon god [[Khonshu (Marvel Comics)|Khonshu]]. Intent on looting the dig, Bushman kills Dr. Alraune. In response to Alraune's murder, Spector challenges Bushman to personal combat and is defeated by Bushman and left to die in the sub-zero temperatures of the desert night.
+
+The [[Egyptian people|Egyptians]] who worship the ancient gods find Spector and carry him to their temple. Helpless before the statue of Khonshu, Spector's heart stops. Khonshu appears to him in a [[Vision (religion)|vision]], offering Spector a second chance at life if he becomes the god's avatar on Earth. Spector awakens, wraps himself in the silver shroud that covers Khonshu's statue, and again confronts Bushman. He defeats Bushman and returns to [[United States of America|America]] with Marlene, Frenchie, and the statue of Khonshu. Deciding to become a crimefighter, Spector creates a silver cloaked costume, based on the silver shroud, and becomes Moon Knight aka "The Fist of Khonshu".
+
+After his return to the United States, Spector invests the money that he had accumulated as a mercenary and develops a small fortune. To distance himself from his mercenary past, he creates the identity of [[millionaire]] [[entrepreneur]] '''Steven Grant''', using this identity to purchase a spacious estate. To remain in contact with the street and criminal element, he also creates the identity of [[taxicab]] driver '''Jake Lockley''' and has acquired civilian allies such as [[Bertrand Crawley]] and Gena Landers and her sons.
+
+In the character's first appearance, the criminal organization the [[Committee (comics)|Committee]] supplies Marc Spector with the name Moon Knight, his costume and weapons (using silver) to hunt down [[Werewolf by Night|Jack Russell]]. In [[Los Angeles]], Moon Knight captures the Werewolf for the Committee, but then frees him and halts the Committee's plans, fighting Russell again.<ref>''Werewolf by Night'' #32–33</ref>  He battles [[Conquer Lord]],<ref>''Marvel Spotlight'' #28–29</ref> teams up with [[Spider-Man]] to fight [[Cyclone (Marvel Comics)|Cyclone]],<ref>''The Spectacular Spider-Man'' (1976) #23</ref> and fights Lupinar,<ref>''Rampaging Hulk!'' #13–14</ref> and his brother [[Shadow Knight (comics)|Randall]], the Hatchet-Man.<ref>''Rampaging Hulk!'' #17–18</ref>
+
+His origin of being "created by The Committee" is explained as a ruse set up by Frenchie so Marc can shut the Committee down.<ref>''Moon Knight'' #1–4</ref> He then encounters the [[Midnight Man (comics)|Midnight Man]]<ref>''Moon Knight'' #3</ref> and returns to Chicago to prevent the poisoning of its water supply by a group called the Werewolves,<ref>''Moon Knight'' #7–8</ref> encounters [[Morpheus (Marvel Comics)|Morpheus]]<ref name="auto">''Moon Knight'' #12</ref> and teams with [[Daredevil (Marvel Comics character)|Daredevil]] to fight the [[Jester (Jonathan Powers)|Jester]].<ref name="auto1">''Moon Knight'' #13</ref> It is around this time that he first encounters Stained Glass Scarlet.<ref>''Moon Knight'' #14</ref> Later, he battled the Werewolf once again,<ref>''Moon Knight'' #29–30</ref> battled Bora, and met the [[X-Men]], the [[Fantastic Four]],<ref>''Moon Knight'' #35</ref> and [[Doctor Strange]].<ref>''Moon Knight'' #36</ref>
+
+===Volume 2: ''Fist of Khonshu''===
+Spector abandons his Moon Knight, Grant, and Lockley identities after the effects of Russell's bite (lunar cycle-based strength)<ref>''Moon Knight: Fist of Khonshu'' volume 2</ref> fade away, and functions as an independently wealthy man opening art galleries around the world, with the help of art historian Spence. Spector's estranged relationship with Marlene ends when she finally leaves him for her ex-husband when he becomes Moon Knight again.
+
+The cult of Khonshu [[telepathy|telepathically]] summons Spector to Egypt and supplies him with a new arsenal of [[moon]]-themed projectile weaponry, originally designed by a time-traveling [[Hawkeye (comics)|Hawkeye]] in ancient Egypt. Khonshu himself appears to Spector and enters his body, giving him the same lunar abilities he previously had.<ref>''Moon Knight: Fist of Khonshu'' Vol. 2 #1</ref>
+
+As the agent of Khonshu, he aids the [[West Coast Avengers]], but at the cost of alienating Frenchie and further distancing Marlene.<ref>''West Coast Avengers'' Vol. 2 #21</ref> He time travels to 2940 BC to rescue the Avengers, where he learns of his weapons' design by Hawkeye.<ref>''West Coast Avengers'' Vol. 2 #23</ref> He officially joins the West Coast Avengers<ref>''West Coast Avengers'' Vol. 2 #24</ref> and enters a relationship with [[Tigra]] for the remainder of his tenure on the team.
+
+While investigating the [[Phantom Rider]] with [[Daimon Hellstrom]], Moon Knight and the Avengers are attacked by soldiers working for Khonshu's rival, [[Seth (Marvel Comics)|Seth]], who is invading [[Asgard (comics)|Asgard]]. Khonshu abandons Moon Knight to battle Seth after explaining it was his wish to join the team, not Spector's. Moon Knight resigns from the team,<ref>''West Coast Avengers'' Vol. 2 #41, February 1989</ref> and reunites with Marlene and Frenchie,{{issue|date=August 2013}} only to die and be resurrected by Khonshu once more.{{issue|date=August 2013}}
+
+===''Marc Spector: Moon Knight''===
+[[File:Marc Spector 39.jpg|thumb|right|180px|''Marc Spector: Moon Knight'' #39<br/>Art by Gary Kwapisz.]]
+
+This volume introduces Moon Knight's teenage sidekick Jeff Wilde, also known as "[[Midnight (Jeff Wilde)|Midnight]]", the son of [[Midnight Man (comics)|Midnight Man]], a member of Moon Knight's rogues gallery. At this time, Moon Knight first encounters the [[Black Cat (Marvel Comics)|Black Cat]].<ref>''Marc Spector: Moon Knight''  #4–5</ref> Midnight is turned into a cyborg by the [[Secret Empire (organization)|Secret Empire]], then is seemingly killed in a battle with Moon Knight, Spider-Man, [[Darkhawk]], the [[Punisher]], [[Nova (Richard Rider)|Nova]] and [[Night Thrasher (Dwayne Taylor)|Night Thrasher]].<ref>''Amazing Spider-Man'' #353-358</ref>
+
+Teaming up with the Punisher, Moon Knight defeated [[ULTIMATUM (comics)|ULTIMATUM]],<ref>''Moon Knight'' Vol. 3 #8–9</ref> and during the "[[Acts of Vengeance]]", fought [[Killer Shrike]], [[Coachwhip (comics)|Coachwhip]], and the second [[Ringer (Keith Kraft)|Ringer]].<ref>''Marc Spector: Moon Knight'' #10</ref> He then encountered [[Silver Sable]] and her allies [[Sandman (Marvel Comics)|Sandman]] and [[Paladin (comics)|Paladin]].<ref>''Marc Spector: Moon Knight'' #15</ref> As Marc Spector, he was tried for murder in Bosqueverde, South America.<ref>''Marc Spector: Moon Knight'' Vol. 3 #18</ref> Moon Knight teamed up with the Punisher again, as well as [[Spider-Man]] against the Secret Empire.<ref>''Marc Spector: Moon Knight'' #19–21</ref>
+
+While fighting with his brother [[Shadow Knight (comics)|Randal Spector]] over who is destined to carry the mantle of Moon Knight, Marc discovers Khonshu is not the god of vengeance but the god of justice.<ref>''Marc Spector: Moon Knight''  #37</ref>
+
+Moon Knight eventually upgrades his armor to [[adamantium]] armor rather than his original [[Kevlar]] costume.<ref>''Marc Spector: Moon Knight'' #38</ref> This upgrade is critical since Moon Knight needs the armor to hold his body together after being infected by the then-possessed [[Hobgoblin (comics)|Hobgoblin]]. The disease is revealed to be the villain known as [[Demogoblin]] trying to possess him.<ref>''Marc Spector: Moon Knight'' #45</ref> With the help of [[Doctor Strange]] and [[Mister Fantastic]], the Demogoblin parasite is removed. Moon Knight seemingly severs his ties to the [[Avengers (comics)|Avengers]] by burning his membership ID card after being brought in by [[Thor (Marvel Comics)|Thor]] to answer charges in regard to his illegal actions against [[Doctor Doom]].<ref>''Marc Spector: Moon Knight'' #50</ref> By the end of the series, Moon Knight is killed violently, sacrificing himself to save his loved ones from a computerized villain called Seth and his "Zero Hour" program.<ref>''Marc Spector: Moon Knight'' #60</ref>
+
+===''Resurrection Wars'' and ''High Strangeness''===
+Moon Knight was resurrected in two separate limited series in 1998 and 1999.
+{{Expand section|date=April 2017}}
+
+=== Minor appearances ===
+In 1998 Spector uses his [[Egyptian soul|Ka]] to help a critically injured [[Black Panther (comics)|Black Panther]] through the Kingdom of the Dead.<ref>{{Cite comic|writer=[[Christopher Priest (comics)|Priest, Christopher]]|penciller=[[Sal Velluto|Velluto, Sal]]|inker=[[Bob Almond|Almond, Bob]]|story=Nightmare|title=[[Black Panther (comics)|Black Panther]]|volume=3|issue=2|date=September 2000|publisher=Marvel Comics}}</ref>
+
+In 2001 and 2002 Moon Knight joins the "Marvel Knights" non-team to capture The Punisher.<ref>''Marvel Knights'' #1–15</ref> After making a brief appearance in the "[[Avengers Disassembled]]" story-arc, he makes a minor return in the 2005 ''[[Marvel Team-Up]]'' miniseries, fighting alongside [[Spider-Man]], [[Daredevil (Marvel Comics character)|Daredevil]], and the Punisher. He later appears in issue #2 of the ''[[Great Lakes Avengers]]'' mini-series where [[Doorman (comics)|Doorman]] offered to recruit him in the GLA, but he immediately rejects the offer.<ref>''G.L.A.'' #2</ref>
+
+===''Moon Knight'' Volume 3 (2006)===
+This volume opens with Marc Spector's early retirement which comes after a brutal battle with [[Bushman (comics)|Bushman]]. Although his body is broken after a tremendous fall and both knees shattered, Moon Knight finally defeats his nemesis [[Bushman (comics)|Bushman]] by carving off his face with a crescent moon dart. Spector's is then haunted by a spiritual apparition of Khonshu, who chose a faceless Bushman as his ethereal representation. Marc Spector's background is [[Retroactive continuity|updated]], so he fought in the [[Gulf War]] and that his time as a mercenary was during the 1990s. It is also revealed that Frenchie is a [[homosexual]] and in love with Marc Spector; which is why he stuck around for so long.
+
+The new Secret Committee then hires [[Profile (comics)|The Profile]], an amoral character who can analyze a persona past and future habits with a glance, to help them entrap Moon Knight. He escapes after the plan collapses because they authorized a mugging of Frenchie too soon. Profile then becomes a reluctant source of information for Spector himself, even giving him advice on rekindling his relationship with Marlene.
+
+Moon Knight eventually gets drawn into the [[Civil War (comics)|Superhero Registration Act]] as he investigates a string of murders perpetrated by [[Midnight (Jeff Wilde)|Midnight]], his former sidekick. Other Marvel heroes take notice of his violent return to vigilantism. [[Spider-Man]] attempts to contact Moon Knight but is rebuked.<ref>''Moon Knight'' #7</ref> [[Captain America]] pays him a visit to deliver a warning and they quarrel.<ref>''Moon Knight'' #8</ref> The [[Punisher]] and Moon Knight have a lengthy conversation about the nature of their vigilantism and their shared past.<ref>''Moon Knight'' #10</ref> Moon Knight is forced into a final confrontation with his cybernetically enhanced former sidekick Midnight, seemingly killing him for good.<ref name="auto"/>
+
+[[Iron Man]] also investigates Moon Knight's activities by placing him under close surveillance. Finding his mental condition unstable, [[Iron Man]] decides that arresting Moon Knight under the Registration Act might make his mental instability worse. Moon Knight begrudgingly applies for registration after much prodding from Khonshu, not wanting the law to keep him from his work. The new law requires him to submit to a psychiatric exam. The psychiatrist controlling the exam, along with the government and Tony Stark, has no intention of granting Marc Spector approval for registration. After speaking with Spector's repressed alter egos Jake Lockley and Steven Grant, the psychiatrist begins the process of officially turning him down, suggesting possible future imprisonment. Subconsciously Spector breaks the doctor's will by speaking in the voice of Khonshu and pointing out the doctor's own [[Anti-social behavior|antisocial]] tendencies, as told to him earlier by the Profile. The psychiatrist not only approves his application but bows to worship him as well. However, later on, Marc meets the Profile with their dialogue suggesting that the personalities above were just an act to be approved for registration.<ref name="auto1"/>
+
+Moon Knight's shows little regard for his newly licensed superhero status or any passion to the people around him, further alienating himself. His former nemesis [[Black Spectre (Carson Knowles)|Black Spectre]] returns. Carson Knowles, recently released from prison, attempts to frame his murders on Moon Knight. He steals some Stark nanotechnology and plans to unleash it on the city. Moon Knight pushes Knowles off a building apparently to his death. [[Tony Stark]], as the head of the Initiative, revokes his superhero registration, but buries the fact that Spectre had stolen Stark Tech.<ref>''Moon Knight'' #19</ref>
+
+The [[Thunderbolts (comics)|Thunderbolts]], led by [[Norman Osborn]], are now on the hunt for Moon Knight. Tony Stark and second-in-command [[Maria Hill]] argue with former Avengers government liaison Raymond Sikorsky, now a representative of the [[Commission on Superhuman Activities]], who desperately wants for Moon Knight to be apprehended with extreme prejudice.<ref>''Moon Knight'' #21</ref> Marc Spector himself busts up a drug deal while wearing an entirely black costume while going through an internal monologue about how crime-fighting is much easier without the burden of his reputation and 'costume recognition'.<ref>''Moon Knight'' #22</ref>
+
+Several weeks later, after barely surviving an altercation with the Thunderbolts, Spector pleads for Khonshu's forgiveness for turning his back on him and for the god's renewed assistance. Khonshu appears and informs Spector he doesn't need him anymore, as he now has other worshipers. Spector returns to his Moon Knight costume to aid Frenchie DuChamp in gaining revenge on the [[Whyos]] gang for attacking his restaurant and injuring Frenchie's lover Rob, only to find the Whyos' attack was designed to draw Spector into another conflict with the Thunderbolts when he is ambushed by [[Mac Gargan#Venom|Venom]].<ref>''Moon Knight'' vol.4 #23</ref> After a brief fight Moon Knight is captured, but escapes when S.H.I.E.L.D. shows up. Frenchie agrees to help Spector, and Ray joins the reformed team as well. [[Bullseye (comics)|Bullseye]] is released to kill Moon Knight, as Spector prepares to go out with a bang.<ref>''Moon Knight'' vol.4 #24</ref>
+
+Moon Knight is next seen battling Bullseye on the streets of NYC. He eventually leads Bullseye to a bunker/warehouse where he has planted several explosives. Bullseye narrowly escapes as Moon Knight ignites the explosives. Later that day two press conferences are held: one by Norman Osborn to announce the Thunderbolts' success and Moon Knight's death and the other held by Tony Stark who denounces the methods used by the Thunderbolts. At the end of the issue, it is revealed that Moon Knight has faked his death, escapes from the warehouse through a secret passage in the floor, and is hiding in Mexico. It is also revealed that the Marc Spector persona has "died" and that Jake Lockley is now in control.<ref>''Moon Knight'' vol.4 #25</ref>
+
+Now living as Lockley, the Moon Knight escaped to [[Mexico]].<ref>''Moon Knight'' Vol. 3 #26</ref> Laying low to avoid attracting the attention of the Registration Act any further, Lockley gets roped into a mission involving [[drug cartel]]s, two boisterous sibling [[luchador]] assassins, and a murderous [[Toltec]] avatar. During this stint in Mexico, Moon Knight learns he was being shadowed by The Punisher from the moment he crossed the border. Frank Castle's reasoning was that he knew Moon Knight would find himself somehow involved with the very cartel Frank had been pursuing; however, the Toltec god's avatar made quick work of the cartel.<ref name="Moon Knight Vol. 3 #30">''Moon Knight'' Vol. 3 #30</ref>
+
+Eventually, the super-hero Civil War ended with Norman Osborn as director of H.A.M.M.E.R. and with him replacing S.H.I.E.L.D.. Lockley knows that Osborn had been behind the group of Thunderbolts sent to kill him and that a deranged psychotic was not fit to run the U.S.A.'s national security agencies, so using some spoils from the Cartel, Moon Knight decided it was time for a comeback.<ref name="Moon Knight Vol. 3 #30"/>
+
+===''Vengeance of the Moon Knight''===
+Moon Knight returns to New York after faking his death with Jake Lockley as his dominant personality, but still struggles against his violent nature and is hounded by Khonshu in the form of a small imaginary tormentor resembling a man in the Moon Knight costume with a bird skull who goads him to kill. While trying to walk the path of a hero he makes a bold return taking on many criminals but killing none of them; now the people of New York begin to see him as a hero and not a murderous vigilante much to Norman Osborn's disdain. Jake's personality has been one of struggle against the inner demon trying to get him to kill while juggling sobriety.<ref>''Vengeance of the Moon Knight'' #1</ref>
+
+Later, the [[Sentry (Robert Reynolds)|Sentry]] takes Moon Knight across the city while he saves people and stops crimes telling Lockley that eventually he will be tested and that he will fail, to which Moon Knight replies "So will you". They stare each other down for a moment before Moon Knight eventually leaves.<ref>''Vengeance of the Moon Knight'' #2</ref>
+
+Norman Osborn summons the [[Hood (comics)|Hood]] and [[Profile (comics)|Profile]] to take down Moon Knight. The Hood uses [[Dormammu]]'s powers to bring Moon Knight's longtime foe [[Bushman (comics)|Bushman]] back to life. Bushman gathers an army by enlisting [[Scarecrow (Marvel Comics)|Scarecrow]] to break into Ravencroft Asylum, where they lobotomize the prisoners to make them more compliant.<ref>''Vengeance of the Moon Knight'' #4</ref>
+
+Jake Lockley tries to make amends to Marlene and Frenchie for his previous behavior and mental breakdown. Under the Jake Lockley persona, he is regarded as saner; Marlene mentions that his "eyes are clear". Bushman's army and the Scarecrow soon attack New York, but Moon Knight defeats them. Bushman manages to escape, only to later be confronted and subdued by Moon Knight. A growing Khonshu screams for vengeance, yet Moon Knight manages to defy him and spare Bushman's life. At the conclusion, Bushman winds up in a mental institute and Jake Lockley begins to start a new life with Marlene.<ref>''Vengeance of the Moon Knight'' #6</ref>
+
+Moon Knight then notices an attack on a hospital and confronts [[Deadpool]], who is about to kill an elderly man. Moon Knight prevents the murder but learns that the man was a Ukrainian mobster who kidnapped kids of families who didn't sell their properties to his real estate firm. The mother of a missing child hired Deadpool to kill the mobster before he succumbs to cancer.<ref>''Vengeance of Moon Knight'' #7</ref> Moon Knight is able to find the boy but isn't able to prevent the mother from injecting the mobster with [[Potassium Chloride]].<ref>''Vengeance of Moon Knight'' #8</ref>
+
+Moon Knight then bumps into Spider-man and helps him defeat [[Sandman (Marvel Comics)|Sandman]], thanks to Frenchie using the jet engines of fighter jet from the [[Intrepid Sea, Air & Space Museum|USS Intrepid]] tied in Spider-man's web to blow away Sandman.<ref>''Vengeance of Moon Knight'' #9</ref> Commander Steve Rogers acknowledges his mental stability and teamwork, so he asks him to join the [[Secret Avengers]] to rescue an oil freighter from terrorists. During the skirmish on the deck, Moon Knight is able to secure the hostages, without killing any terrorists. The terrorists then use a magic [[conch]] to summon sea monsters as the ship is sinking. Moon Knight then locks his armor and secures himself to a large plate and Valkyrie's winged horse [[Aragorn (comics)|Aragorn]], so she can fly them away.<ref>''Vengeance of Moon Knight'' #10</ref>
+
+===''Secret Avengers''===
+Moon Knight became a supporting member of ''[[Secret Avengers]]'', beginning in May 2010. The new team features [[Captain America|Steve Rogers]], [[War Machine]], [[Valkyrie (Marvel Comics)|Valkyrie]], [[Beast (comics)|Beast]], [[Nova (Richard Rider)|Nova]], [[Eric O'Grady|the new Ant-Man]], as well as the redemption thirsty Moon Knight.<ref>{{cite web|url=https://www.cbr.com/c2e2-meet-your-secret-avengers/|title=C2E2: Meet Your Secret Avengers|website=Cbr.com|accessdate=29 January 2019}}</ref> He remained with the Secret Avengers until the line-up was reshuffled by Hawkeye.<ref>''Secret Avengers'' #22</ref>
+
+===''Shadowland''===
+During the ''[[Shadowland (comics)|Shadowland]]'' storyline, Moon Knight has given up the Marc Spector personality and only goes by Jake Lockley. [[Daredevil (Marvel Comics character)|Daredevil]], who has been possessed by [[The Hand (comics)|The Hand]], hires [[Profile (comics)|Profile]] to take down Moon Knight.<ref>''Shadowland: Moon Knight'' #1</ref> During an assault on the Shadowland fortress with [[Iron Fist (comics)|Iron Fist]], [[Ghost Rider (Johnny Blaze)|Ghost Rider]], [[Spider-Man]], [[Luke Cage]], and [[Elektra (comics)|Elektra]], Daredevil almost kills Moon Knight, but Khonshu appears and asks him to spare his life. Daredevil is apparently able to see the apparition and leaves him. Khonshu reveals that he spared Moon Knight's life in order to kill the second avatar of Khonshu and deliver the ancient Sapphire Crescent. It turns out the impostor is Moon Knight's brother [[Shadow Knight (comics)|Randall Spector]] in the alias of Shadow Knight. Shadow Knight then attacks Spector's house and almost kills Marlene, who earlier revealed she was pregnant.<ref>''Shadowland: Moon Knight'' #2</ref> They both end up in [[New Orleans]] tracking down the Sapphire Crescent. They fight until a standoff, with Randall keeping a hostage and Moon Knight out of throwing crescents. Moon Knight then uses the Sapphire Crescent to kill his own brother before he could kill any more hostages. This causes him to have a mental breakdown and resurface the Marc Spector personality again.<ref>''Shadowland: Moon Knight'' #3</ref>
+
+===''Moon Knight'' Volume 4 (2011–12)===
+[[File:Moon_Knight_Volume_4.jpg|thumb|right|180px|''Moon Knight'' Volume 4, #1<br/>Art by Alex Maleev.]]
+In this series, Spector is shown in [[Los Angeles]] as the creator of a TV show based on his origin and superheroics dubbed "Legends of the Khonshu". Later on, as Moon Knight, he intercepts a delivery of an [[Ultron]] robot body. Spector has also developed three new multiple personalities based on [[Spider-Man]], [[Wolverine (character)|Wolverine]], and the original [[Captain America]] who help guide him.<ref>''Moon Knight'' vol 4 #1 (2011)</ref> Moon Knight gets the head of the Ultron and attacks a [[strip club]] as Spider-Man to get to the mysterious L.A. Kingpin. Moon Knight beats the club leader [[Snapdragon (comics)|Snapdragon]], but gets shot by a guard before getting answers. It was the superhero [[Echo (Marvel Comics)|Echo]] who saved him, but she lost her cover in the process.<ref>''Moon Knight'' vol 4 #2 (2011)</ref> Moon Knight and Echo then decide to team up against the Kingpin.<ref name="moon-knight-vol-4-num-3">''Moon Knight'' vol 4 #3 (2011)</ref> Meanwhile, it is also revealed that Spector hired ex-SHIELD agent Buck Lime to design his weapons while posing as a soldier of fortune consultant for his TV show.<ref name="moon-knight-vol-4-num-3" /> After a fight with the [[Night Shift (comics)|Night Shift]] sent by Snapdragon; Moon Knight and Echo formally team up against the Kingpin. Buck, however, informs the Avengers of Ultron's head, and they visit Spector who convinces them (and later Buck) that he knows what he is doing.<ref>''Moon Knight'' vol 4 #6 (2011)</ref><ref name="moon-knight-vol-4-num-7">''Moon Knight'' vol 4 #7 (2012)</ref> Together with Buck and Echo, Moon Knight beats the Kingpin who turns out to be [[Count Nefaria]], but they capture Snapdragon and Count Nefaria escapes.<ref name="moon-knight-vol-4-num-7" /> But Moon Knight and Echo keep targeting and attacking Nefaria's bases of operations.<ref>''Moon Knight'' vol 4 #8 (2012)</ref> Soon, however, Nefaria strikes back, and Echo is killed. This sends Moon Knight's Wolverine personality into berserker mode and it seemingly kills the Captain America and Spider-Man personalities.<ref>''Moon Knight'' vol 4 #9 (2012)</ref> Moon Knight proceeds to violently attack Nefaria who gets beaten up badly. Nefaria, however, survives and sends his daughter, Madame Masque to retrieve the Ultron head, who succeeds.<ref>''Moon Knight'' vol 4 #10 (2012)</ref> But Moon Knight and Buck retaliate and attack her. Madame Masque is about to beat Moon Knight, but just then he develops an Echo personality, who tells him to not let her die in vain. Moon Knight fights back, and defeats Madame Masque.<ref>''Moon Knight'' vol 4 #11 (2012)</ref> Meanwhile, the police have Snapdragon testify against Nefaria, and get a warrant for his arrest. Nefaria angrily attacks the police station and is about to kill Snapdragon, but Moon Knight intervenes again. In the ensuing battle, Moon Knight is beaten, and Nefaria orders him to return the Ultron head, and work for him. Moon Knight tells Nefaria that the head is outside, but the tables were turned as Moon Knight had called the Avengers, and Nefaria was defeated. The next day, Tony Stark commends Marc Spector for a job well done and tells that Ultron is waiting and planning a robot holocaust. After Stark leaves, it seems that Spector developed an Iron Man personality as well. In the epilogue to the series, Spector leaves Hollywood.<ref>''Moon Knight'' vol 4 #12 (2012)</ref>
+
+===''Avengers vs. X-Men''===
+During the events of ''[[Avengers vs. X-Men]]'', Moon Knight is partnered with [[Falcon (comics)|Falcon]] and [[She-Hulk]] as part of a small team of [[Avengers (comics)|Avengers]] assigned to watch over the [[Jean Grey School for Higher Learning]].<ref>''X-Men Legacy'' #266</ref> During the ensuing skirmish initiated by [[Frenzy (comics)|Frenzy]], Moon Knight tricks Gambit into damaging his armor, allowing Moon Knight to grab [[Rogue (comics)|Rogue]] with his bare hand and drive her insane with his multiple personalities.<ref>''X-Men Legacy'' #267</ref> He is last seen at [[Stark Tower]] as one of the many former Avengers celebrating the return of [[Janet Van Dyne]].<ref>''Avengers'' (vol. 4) #34</ref>
+
+===''Moon Knight'' Volume 5===
+[[File:Mr._Moon_(Moon_Knight).jpg|thumb|right|75px|New "Mr. Knight" Persona<br/>Art by Declan Shalvey.]]
+Spector has returned to New York and now utilizes two costumed personas. The first is Moon Knight, using a plethora of high-tech equipment such as a voice-controlled glider/drone,<ref>''Moon Knight'' Vol. 5 #2</ref> alongside magical trinkets such as an enchanted skull helmet and other shamanic dressings.<ref>''Moon Knight'' Vol. 5 #3</ref> As Moon Knight, Spector deals with unfamiliar territory, often delving into the supernatural. The second persona is '''Mr. Knight''', dressed in an all-white business suit, gloves, and mask, who consults with the New York Police Department and deals with common thugs and crimes such as kidnapping.<ref>''Moon Knight'' Vol. #1, 5</ref>
+
+===''Moon Knight'' Volume 6===
+A sixth volume was released as part of [[All-New, All-Different Marvel]] with author [[Jeff Lemire]] and artist [[Greg Smallwood]].<ref>{{cite web|url=http://www.comiclist.com/index.php/news/moon-knight-1-awakes-to-all-new-all-different-reality-in-2016|title=MOON KNIGHT #1 awakes to All-New, All-Different reality in 2016|website=Comiclist.com|accessdate=29 January 2019}}</ref> In this series, Marc Specter wakes up in a mental institute with no recollection of his past or how he got there. The staff, led by Dr. [[Ammit|Emmit]], seems to have supernatural powers and thwart Marc's attempts to recover his past. He meets fellow inmates Gina, Marlene, Frenchie, and Bertrand Crawley, but sees Moon Knight on TV, then begins to question his sanity.<ref>''Moon Knight'' Vol. 6 #1</ref>    
+
+===Marvel Legacy===
+After re-appropriating Khonshu, Marc Spector resumed his normal life and his Moon Knight alias despite breaking up with Marlene Alrune. Meanwhile, Raoul Bushman collaborates with a mysterious mental patient only referred to as "Patient 86", who becomes an avatar of [[Amun|Ra]] and calling himself the Sun King. Together they come up with a plot to kill Moon Knight.<ref>''Moon Knight'' #189</ref> To accomplish the plans to kill Moon Knight, Bushman, and Sun King went to Marlene's house and discovered that she and Jack Lockley's aspect of Moon Knight had a child together, much to the shock of Marc Spector and Steve Grant.<ref>''Moon Knight'' #190</ref> Raoul and Sun King kidnap Marlene and force Moon Knight to visit an island dedicated to Ra. Moon Knight is given [[psychedelic drugs]] and eventually is forced to face off with Sun King. Khonshu suggest to Moon Knight that maybe Sun King only believes he is the avatar of Ra and if Marc Spector is truly the avatar of Khonshu he should be able to manifest powers. Moon Knight is able to overpower Sun King and Bushman escapes.<ref>''Moon Knight'' 191-193</ref>
+
+==Comparisons to Batman==
+[[Charlie Huston]], writer of the 2006 re-launch of ''Moon Knight'', attempted to answer the criticism that Moon Knight is an [[ersatz]] [[Batman]] in an interview with Comixfan.<ref>[http://www.comixfan.com/xfan/forums/showthread.php?t=35259 "Charlie Huston: Shining Light on Moon Knight"], ''Comixfan'', August 17, 2005</ref> The interviewer noted that the comparison is not baseless, as both Moon Knight and the Dark Knight are wealthy, "normal" humans that use gadgetry to fight crime.
+
+Huston accepted that the two characters had their similarities, but went on to contrast the two by noting in particular differences in origin, motives, and personality. "[[Bruce Wayne]]", he said, "fights crime to avenge the murders of his parents", whereas Moon Knight "beats up whoever has it coming because he believes he is the avatar of the Egyptian god of vengeance and it helps him to feel better about all the people he killed when he was a mercenary." Thus, while Batman is motivated by vengeance for the wrong done to his parents, Marc Spector is motivated by vengeance as a concept. Huston further notes that Bruce Wayne, Batman's alter ego, takes on other personalities merely to aid in his fight. However, Moon Knight has three alter egos which aid him as much in dealing with personal demons as fighting law-breakers, and which have taken a further psychological toll of causing [[dissociative identity disorder]]. In the question of his sanity, [[Spider-Man]] remarked "Mooney. Rhymes with loony."<ref>"[http://www.comicvine.com/moon-knight-7-midnight-sun-chapter-1-the-woodwork/4000-106012/ Moon Knight #7 - Midnight Sun, Chapter 1: The Woodwork]", Marvel, January 1st, 2007, p.6</ref>
+
+==Powers and abilities==
+
+===Skills and training===
+Over the course of his life as a boxer, [[United States Marine Corps|U.S. Marine]], [[mercenary]], and costumed superhero, Marc Spector has become an expert at hand-to-hand combat techniques and martial arts such as [[Boxing]], [[Kung Fu]], [[Eskrima]], [[Judo]], [[Karate]], [[Ninjutsu]], [[Savate]], and [[Muay Thai]]. He is an Olympic-level athlete and a skilled acrobat and gymnast and excels as a combat strategist. He employs a variety of weapons over the course of his career, including throwing darts, nunchaku, bo staff and a [[Club (weapon)|truncheon]]. He is skilled with most weapons and an expert with throwing weapons. Spector is a superb driver and can pilot a helicopter.
+
+[[Taskmaster (comics)|Taskmaster]], who has the ability to copy and replicate anyone's fighting style, has stated that he prefers not to copy Moon Knight's style, as Moon Knight would rather take a punch than block it.{{citation needed|date=August 2016}}
+
+===Superpowers===
+[[File:Moon Knight descending.jpg|thumb|left|250px|Promotional art of Moon Knight descending from the [[List of vehicles in Marvel Comics#Moon Knight's Helicopter|Mooncopter]]<br>Art by [[David Finch (comics)|David Finch]]]]
+Spector gained his superhuman powers as a result of a visitation by the Egyptian moon god Khonshu. Moon Knight's strength, endurance, and reflexes are enhanced depending upon the phases of the moon.<ref>''Marvel Spotlight'' #28</ref> The fuller the moon, the more strength Moon Knight derives from it, though even during a new moon, he can lift several hundred pounds. It's not known how much of this strength is mystical and how much is simply the result of self-hypnosis due to his psychological instability. 
+
+At some unspecified point in time Moon Knight is thought to have lost these powers (he is last seen using his lunar superstrength while in the West Coast Avengers, a team he leaves in 1989 <ref>"West Coast Avengers" Vol 2 #41</ref>), with his loss of powers officially confirmed in 2007 during the Midnight Sun arc of Moon Knight, where he confesses to Frenchie's boyfriend that he no longer has increased strength or reflexes depending on the phases of the moon, with Khonshu (or Marc's imagining of him) claiming that this loss of power is punishment for his disobedience. <ref>"[https://comicvine.gamespot.com/moon-knight-9-midnight-sun-chapter-3-for-the-occas/4000-108558/ Moon Knight #9 - Midnight Sun, Chapter 3: For The Occasion]", Marvel, May 1st, 2007</ref>
+
+Due to his multiple personalities, he is also resistant to some psychic attacks and sometimes receives prophetic visions. Moon Knight is shown to possess a very high tolerance for pain such as ignoring a bullet wound through his leg while only letting off a slight grunt of pain.{{issue|date=September 2016}} 
+
+During the Charlie Huston run of Moon Knight, [[Profile (comics)|The Profile]], an amoral profiler-for-hire with the possibly [[Mutant (Marvel Comics)|mutant]] power to instinctively analyse and predict the actions of anyone he observes, claims that his abilities do not function correctly on "supernaturals" and that Marc is physically painful for him to look at while wearing the "vestments" that make up his costume. He offers the explanation that either Khonshu is real (though he cannot confirm whether Khonshu is a god or merely a being claiming to be) and his presence interferes with the Profile's abilities or Marc is so crazy that it is tantamount to magic and his sheer belief in Khonshu is enough to disrupt the Profile.<ref>"[https://comicvine.gamespot.com/moon-knight-12-midnight-sun-chapter-six-this-trap-/4000-114432/ Moon Knight #12 - Midnight Sun, Chapter 6: This Trap, My Body]", Marvel, November 1st, 2007</ref>
+
+===Technology and equipment===
+At one point, Moon Knight is given special weapons by the cult of Khonshu, including [[bolas]], golden throwing crescent-darts shaped like [[scarab (artifact)|scarab]]s, an ivory boomerang, throwing irons, and a golden stick in the shape of an [[ankh]] that glowed in the presence of danger that can be used as a throwing weapon or bludgeon. These items are later replaced with duplicate weapons crafted by [[Hawkeye (comics)|Hawkeye]]. He later retires these items to his personal museum after abandoning the "Egyptian" motif in favor of updated versions of his original styled-gear, including a truncheon/staff/nunchuck combo, and a compound bow. He has also used an axe-shaped lasso-grapple.
+
+During the third series, Moon Knight's silver-white costume includes [[adamantium]], and he acquires an array of high-tech weaponry including an adamantium staff, a truncheon capable of firing a cable line, and gauntlets that fire crescent darts. He has also been depicted using spiked knuckles, worn on the left hand. When he vows never to murder again, he hires [[Tinkerer]] to upgrade his gear. He uses a gun that shoots a grappling hook and bolas to knock out villains.
+
+Later on, Moon Knight's costume uses [[Carbonadium|carbonadium]] as armor, and has joint-locking functions, allowing him to support weights far greater than what he can normally lift.<ref name="Vengeance5">''Vengeance of the Moon Knight'' #5 & 10</ref> Moon Knight uses this feature to support a building from collapsing, then leaves the armor to battle villains in his underwear.<ref>''Vengeance of Moon Knight'' #5</ref> Additionally, Moon Knight can 'suit up' by use of a remote control device which assembles the individual pieces of his armor onto his body, similar in fashion to [[Iron Man]].<ref name="Vengeance5"/>
+
+For transportation, Moon Knight employs a variety of sophisticated aircraft. These include the [[List of vehicles in Marvel Comics#Moon Knight's Helicopter|Mooncopter]] and Angelwing, featuring VTOL (vertical take-off and landing), a rope ladder, and 20&nbsp;mm cannons. Later, Moon Knight utilizes a remote controlled white limousine when acting as "Mr. Knight", and a similarly remote controlled crescent-shaped drone/glider when acting as Moon Knight.<ref>''Moon Knight'' Vol. 5 #1-2</ref> He has been seen using a white motorcycle.<ref>''Vengeance of Moon Knight'' #1</ref>
+
+==Rogues gallery==
+While Moon Knight fights villains of other heroes such as [[Bullseye (comics)|Bullseye]] and [[Taskmaster (comics)|Taskmaster]], he has also accumulated his own rogues gallery. Moon Knight's enemies include:
+
+* [[Black Spectre]]
+* Bluebeard
+* [[Bora (comics)|Bora]]
+* [[Bushman (comics)|Raoul Bushman]]
+* [[Committee (comics)|Committee]]
+* [[Conquer Lord]]
+* [[Crossfire (comics)|Crossfire]]
+* [[Killer Shrike]]
+* The Hellbent
+* [[Midnight Man (comics)|Midnight Man]]
+* [[Morpheus (Marvel Comics)|Morpheus]]
+* [[Profile (comics)|The Profile]]
+* Princess Nephthys
+* [[Shadow Knight (comics)|Shadow Knight]]
+* [[Stained Glass Scarlet]]
+* [[Werewolf by Night|The Werewolf]]
+
+==Reception==
+Moon Knight was ranked by ''[[Wizard (magazine)|Wizard]]'' magazine as the 149th greatest comic book character of all time.<ref>{{cite web|url=http://herochat.com/forum/index.php?topic=170859.0 |title=Wizard's top 200 characters. External link consists of a forum site summing up the top 200 characters of Wizard Magazine since the real site that contains the list is broken. |publisher=[[Wizard magazine]]. |accessdate=May 7, 2011 |deadurl=yes |archiveurl=https://web.archive.org/web/20110608020121/http://herochat.com/forum/index.php?topic=170859.0 |archivedate=June 8, 2011 |df= }}</ref> [[IGN]] also listed Moon Knight as the 89th greatest comic book character stating that the Moon Knight is more or less the concept of what would happen if the Batman were to suffer a multiple personality disorder,<ref>{{cite web | url=http://www.ign.com/top/comic-book-heroes/89 | title=Moon Knight is number 89 | publisher=IGN | accessdate=May 9, 2011}}</ref> and as #49 on their list of the "Top 50 Avengers".<ref>{{cite web |last= |first= |date=April 30, 2012 |title=The Top 50 Avengers |url=http://www.ign.com/top/avengers/49 |publisher=IGN |accessdate=July 28, 2015}}</ref>
+
+==Other versions==
+===2099===
+The [[One-shot (comics)|one-shot]] ''2099: Manifest Destiny'' (March 1998) introduced a female [[Marvel 2099]] version of Moon Knight, fighting crime in the lunar city of [[Attilan]].
+
+===''House of M''===
+Moon Knight appears in ''[[House of M]]'' as part of [[Luke Cage]]'s Sapien Resistance against Earth's rulers, the House of Magnus ([[Magneto (comics)|Magneto]] and his children, [[Quicksilver (comics)|Quicksilver]], [[Polaris (comics)|Polaris]], and the [[Scarlet Witch]]), although he is not wearing his costume in this timeline.<ref>''House of M'' #4, 6-7</ref> He also appears in House of M: Avengers wearing his costume. A little more of his backstory is uncovered as well, still following Khonshu and still suffering from multiple personalities.<ref>''House of M: Avengers'' #1-5</ref>
+
+===''The Infinity War''===
+In the ''[[The Infinity War|Infinity War]]'' crossover, the alien double of Moon Knight uses [[Franklin Richards (Fantastic Four)|Franklin Richards]]' powers to become the multi-dimensional Moon Shade. He then murders the majority of the Multiverse's alternate versions of Moon Knight.<ref>''Moon Knight'' Vol. 3 #42</ref>
+
+===''Marvel Zombies''===
+In ''[[Marvel Zombies]]'', Moon Knight is one of the superheroes infected by the zombie plague. Previously he had been part of the resistance organized by [[Nick Fury]], but presumably turned into one of the zombies in a later battle.<ref>''Marvel Zombies: Dead Days #1'' #1</ref> He is attacked by 'Deadites', reanimated versions of many of the dead humans, which seemingly tear Moon Knight apart.<ref>''Marvel Zombies vs. The Army of Darkness'' #5</ref> (he presumably escapes, as he is seen in the first issue of the regular [[Marvel Zombies]] series, which is set after ''Army of Darkness'') He is later killed by Deadpool, who appears on the Marvel Zombies Earth and cuts his head off.<ref>''Deadpool: Merc with a Mouth'' #8</ref>
+
+===Old Man Logan===
+In the pages of ''[[Old Man Logan]]'', a flashback was seen where Moon Knight assisted Daredevil and She-Hulk in fighting [[Enchantress (Marvel Comics)|Enchantress]] and [[Electro (Marvel Comics)|Electro]] in Manhattan. In his fight against Electro, Moon Knight was electrocuted into a state of unconsciousness.<ref>''Old Man Logan'' Vol. 2 #8</ref>
+
+===''S.H.I.E.L.D.''===
+In April 2010 ''S.H.I.E.L.D.'' #1 features an ancient Egyptian version of Moon Knight. This version is similar in appearance to the Khonshu statue that Marc Spector worshiped in the past. He can be seen holding a staff that has a crescent moon at the top.<ref>''S.H.I.E.L.D.'' #1</ref>
+
+===Ultimate Marvel===
+The [[Ultimate Marvel]] incarnation of Moon Knight is a former [[United States Navy SEALs|Navy SEAL]] that is the product of a Super Soldier experiment gone wrong. Prior to becoming Moon Knight, he worked for the [[Roxxon|Roxxon Corporation]] as [[Paladin (comics)|Paladin]]. It is also noted that he has a form of [[dissociative identity disorder]]. Within the comic, the "personalities" of Steven Grant, Marc Spector, Moon Knight, an unnamed red-headed little girl, and [[Ronin (Marvel Comics)|Ronin]] interact through internal monologue. He lives with his girlfriend Marlene. She displays knowledge of his Moon Knight identity.{{issue|date=February 2013}}
+
+Ultimate Moon Knight first appears in ''[[Ultimate Spider-Man]]'' #79 during the ''Warriors'' story-arc. He is an active participant of a gang war waged by the [[Kingpin (comics)|Kingpin]] and newcomer [[Hammerhead (comics)|Hammerhead]].{{issue|date=February 2013}}
+
+During the battle, he is impaled by the assassin [[Elektra (comics)|Elektra]]. Although gravely wounded, Moon Knight subdues Elektra with a moon-blade to her head before slipping into a coma. Upon waking up, Moon Knight escapes from custody and engages in a fight with the [[Punisher]], [[Ultimate Spider-Man|Spider-Man]], and [[Daredevil (Marvel Comics character)|Daredevil]]. After the battle, Daredevil invites Moon Knight to join an organization of superheroes with the goal of bringing down the Kingpin.{{issue|date=February 2013}}
+
+As part of this group, Spector adopts the identity of Ronin to infiltrate the Kingpin's ranks. The idea of turning 'Ronin' into the main persona is made by the Steven Grant and Marc Spector personalities, who oppose the Moon Knight persona and the concerns of the small girl persona. In doing so, they create a far more ruthless personality who the Kingpin would find suitable. Moon Knight himself is angered by this decision, but is seemingly destroyed by the Ronin personality.{{issue|date=February 2013}}
+
+The Kingpin discovers that Ronin is working for Daredevil and orders his execution. He survives, however, and after regaining consciousness goes to the police claiming that the Kingpin ordered his execution. This provides a charge for the police to arrest the Kingpin, but he has to reveal his secret identity for a charge to be placed. It also seems that the Moon Knight persona is still alive after the Ronin persona decides to wake him up.{{issue|date=February 2013}}
+
+===Universe X===
+In [[Universe X]], Moon Knight is locked in a never-ending battle with the Sons of Set, over the statue of Khonshu. It's actually stated that Marc Spector has been dead from the beginning, and just as the moon reflects light, Spector has been "reflecting" the form of a living man, making him effectively immortal.{{Issue|date=April 2009}} Moreover, it is also suggested that the original inspiration for the moon god Khonshu was the Watcher [[Uatu]] who watches the Earth from his base on the moon.{{Issue|date=April 2009}}
+
+===''Secret Wars''===
+In the battleworld Egyptia, Spector is a member of the Moon Knights. He tricks several mutant assassins into thinking he'll lead them to Knonshu, but instead turns into a werewolf. Knonshu appears and turns the mutants into werewolves, who then turn on their allies back at base.<ref>''Secret Wars Journal'' #1, ""We Worship What We Don't Understand"</ref>
+
+===Apocalypse Wars===
+In the ''[[Extraordinary X-Men]]'' Apocalypse Wars crossover, a female version of Moon Knight is one of the [[Horsemen of Apocalypse#Apocalypse Wars|Horsemen of Apocalypse]].<ref>''Extraordinary X-Men'' #8.</ref> She is killed by Nightcrawler, who teleports her into a spiked pit trap.<ref>''Extraordinary X-Men'' #12</ref>
+
+===Infinity Warps===
+Peter Spector (Moon Knight's story with elements of Spider-Man's life) was attacked by [[Alternative versions of Green Goblin#Infinity Warps|Goblin by Night]], who killed his Uncle Ben and aunt May. In near death is revived from the [[Spider-Verse|Master Weaver]] by a Spider to be his avatar and is given spider-powers, but splitting his personality into four. With his newfound powers he fights the crime with the name '''ArachKnight''' and is president of his company with his girlfriend [[Alternative versions of Mary Jane Watson#Infinity Warps|Marlene Jane]].<ref>''Infinity Warps ArachKnight''</ref>
+
+==In other media==
+===Television===
+* Moon Knight was planned to appear in ''[[Blade: The Series]]'' but the show was cancelled. Marc Spector is mentioned.<ref name="ign"/> [[Marvel Studios]] and No Equal Entertainment announced a live-action ''[[Moon Knight (TV series)|Moon Knight]]'' TV series in 2006.<ref name="ign">Goldman, Eric (October 25, 2006), "[http://www.ign.com/articles/2006/10/26/moon-knight-tv-series-in-development Moon Knight TV Series in Development]," [[IGN]] (accessed April 12, 2006)</ref> Writer [[Jon Cooksey]] confirmed in 2008 that he was developing the ''Moon Knight'' television series.<ref>[http://www.rbcorner.com/cgi-bin/eblah/Blah.pl?b-news/m-1213062275/s-new/#num5 "The Java Hut"] {{webarchive|url=https://web.archive.org/web/20120220161219/http://www.rbcorner.com/cgi-bin/eblah/Blah.pl?b-news%2Fm-1213062275%2Fs-new%2F |date=2012-02-20 }} 10 June 2008.</ref>
+
+* Moon Knight appears in the ''[[Ultimate Spider-Man (TV series)|Ultimate Spider-Man vs. The Sinister 6]]'' [[Christmas]] special episode "The Moon Knight Before Christmas,"<ref>{{cite web |url=http://www.toonfresh.in/episode-14-the-moon-knight-before-christmas/ |title=Archived copy |accessdate=2016-10-06 |deadurl=yes |archiveurl=https://web.archive.org/web/20160929091410/http://www.toonfresh.in/episode-14-the-moon-knight-before-christmas/ |archivedate=2016-09-29 |df= }}</ref><ref>{{cite web|url=https://www.youtube.com/watch?v=muhM4MjIOgw|title=YouTube|website=Youtube.com|accessdate=29 January 2019}}</ref> voiced by [[Diedrich Bader]]. This version is shown to follow the advice of the [[Moon]]. He is first seen chasing after Frances Beck when Spider-Man saves her while house-sitting for [[Doctor Strange]]. After figuring out that Frances Beck is the daughter and would-be-successor of [[Quentin Beck|Mysterio]] and recalling Strange's "The Enemy of My Enemy is My Friend" quote, Spider-Man works with Moon Knight in order to take out the female Mysterio. Using a special wand from a restricted room in the Sanctum Sanctorum at the Moon's advice, Moon Knight impales the Mysterio helmet with it. After Spider-Man extracts Quentin and Frances from the helmet before they are doomed, Moon Knight joins Spider-Man, [[Aunt May]], and the Becks into having dinner.
+
+* Moon Knight appears in ''[[Avengers Assemble (TV series)|Avengers Assemble]]'', voiced by [[Gideon Emery]].<ref>{{cite episode|title=Beyond|series=Avengers Assemble|network=Disney XD|season=4|number=17|airdate=January 14, 2018}}</ref> He makes a cameo in the episode "Avengers World" among the heroes the Avengers planned to recruit in their expansion program. Moon Knight fully appears in the episode "Beyond" where the pyramid he is guarding ends up in the Battleworld domain of Egyptia. When Captain America and Black Widow enter the pyramid and reunite with Iron Man, they fight a mind-controlled Moon Knight and an army of sand-powered mummies to claim a certain orb that he is guarding. After a lengthy battle, Iron Man destroys the device controlling Moon Knight as he helps to finish off the remaining mummies. When Captain America thanks him for his help and states that they would need more soldiers in battle, Moon Knight states that he has to keep the evils locked in the pyramid from being freed. Before leaving with Iron Man and Black Widow, Captain America states that the offer still stands when he is ready.
+
+===Film===
+* In January 2017, director [[James Gunn]] (''[[Guardians of the Galaxy (film)|Guardians of the Galaxy]]'') tweeted that he pitched a ''Moon Knight'' film to [[Marvel Studios]].<ref>{{cite web|url=http://movieweb.com/moon-knight-movie-james-gunn-pitch/|title=James Gunn Pitched a Moon Knight Movie to Marvel|publisher=[[MovieWeb]]|date=January 4, 2017}}</ref>
+
+===Video games===
+* Moon Knight is one of the playable characters who were exclusive to a certainprimary [[Ravensoft]] gameplay version's console ports of ''[[Marvel: Ultimate Alliance]]'', voiced by [[Phil LaMarr]]. He is playable by default in [[Wii]], [[Xbox 360]], and [[PlayStation 3]] versions. He can wear his Classic, Ultimate, and Khonshu costumes. A [[Mod (computer gaming)|mod]] available for the PS2, PSP, Xbox, and original PC versions of the game unlocks him as a playable character, adding a fourth costume which is labeled as 'Modern' which closely resembles his action figure costume with the arm and leg gauntlets, as seen on his the game loadscreen, previously black body suit 'Retro'.<ref name="MUA1">{{cite book |title=Marvel Ultimate Alliance: Signature Series Guide |first=Thom |last=Denick |publisher=Brady Games |location=Indianapolis, Indiana| isbn=0-7440-0844-1 |year=2006 |pages=54, 53}}</ref> He is also playable by default in a remastered edition of PC, [[PlayStation 4]] and [[Xbox One]], with the mod which can add his fourth costume can still be transferred from the older edition's version of the mods.{{citation needed|date=August 2016}}
+* Moon Knight appears in ''[[Spider-Man: Web of Shadows]]'', voiced by [[Robin Atkin Downes]]. [[Spider-Man]] first encounters him in his [[List of vehicles in Marvel Comics|Mooncopter]] at the top of Spector Tower when [[Black Cat (Marvel Comics)|Black Cat]] makes her escape and Spider-Man defeats [[Kingpin (comics)|Kingpin]]'s forces. He and [[Vulture (Marvel Comics)|Vulture]] later argues about the idea of Spider-Man busting [[Tinkerer]] out of Ryker's Island when it came to the [[Symbiote (comics)|symbiotes]] invasion, yet still gives Spider-Man a ride to the facility if he chooses the Red Suit path. He later helps [[S.H.I.E.L.D.]] in fighting the symbiotic invasion. After the defeat of Symbiote-Vulture, Moon Knight flies Spider-Man to the [[Helicarrier|S.H.I.E.L.D. Helicarrier]] that [[Venom (Marvel Comics character)|Venom]] and his symbiotes are attacking if the player has a Red Suit path. Artwork shown on the end credits of the PS3, Xbox 360 and Wii versions depict a Symbiote-Moon Knight, but this concept was not used in the actual game. In the Amazing Allies Edition released for the PlayStation 2 and PSP, he is an assist character who will use his lunar attacks on enemies.<ref>[http://www.atomicgamer.com/article.php?id=655] {{webarchive|url=https://web.archive.org/web/20081001183922/http://www.atomicgamer.com/article.php?id=655|date=October 1, 2008}}</ref>
+* Moon Knight appears in [[Hawkeye (comics)|Hawkeye]]'s ending for ''[[Ultimate Marvel vs. Capcom 3]]'' as a member of his [[West Coast Avengers]].
+* Moon Knight has a table in the ''[[Marvel Pinball]]'': Virtue & Vengeance table pack for ''[[Pinball FX 2]]'', and ''[[Zen Pinball 2]]''. Developed by [[Zen Studios]], the player controls the Moon Knight character into the world of crime fighting on the streets of [[New York City]]. The table pits the player against four of Moon Knight’s traditional enemies: [[Morpheus (Marvel Comics)|Morpheus]], [[Midnight (Jeff Wilde)|Midnight]], [[Bushman (comics)|Bushman]] and [[Black Spectre (Carson Knowles)|Black Spectre]]. It also features characters such as Moon Knights love interest [[Marlene Alraune]] and allies [[Frenchie (comics)|Frenchie]] and [[Bertrand Crawley]]. It culminates in a battle with the god of evil and death [[Khonshu (Marvel Comics)|Khonshu]].<ref>{{cite web |url=http://www.gamefaqs.com/xbox360/649311-pinball-fx-2-marvel-pinball-vengeance-and-virtue |title=Pinball FX 2: Marvel Pinball - Vengeance and Virtue |website=Gamefaqs.com |publisher=[[GameFAQs]] |accessdate=December 5, 2013}}</ref><ref>{{cite web |url=http://www.gamingnexus.com/Article/Marvel-Pinball-Vengeance-and-Virtue/Item3335.aspx |title=Review: Marvel Pinball: Vengeance and Virtue |first1=Jeremy |last1=Duff |date=February 23, 2012 |website=Gamingnexus.com |publisher=Gaming Nexus |accessdate=December 7, 2013}}</ref>
+* Moon Knight appears in ''[[Lego Marvel Super Heroes]]''<ref>"[http://www.newsarama.com/19216-nycc-2013-marvel-adds-more-characters-to-lego-marvel-super-heroes-game.html NYCC 2013 Marvel adds more characters to Lego Marvel Super Heroes Game]," Newsarama. Retrieved August 10, 2016</ref> voiced by [[Troy Baker]].{{citation needed|date=August 2016}}
+* Moon Knight appears in ''[[Lego Marvel's Avengers]]''<ref>{{cite news |last=Takahashi |first=Dean |date=9 December 2015 |title=Lego Marvel’s Avengers is loaded with superheroes, villians, cities, and open-world gameplay |url=https://venturebeat.com/2015/12/09/lego-marvels-avengers-is-loaded-with-superheroes-villians-cities-and-open-world-gameplay/ |publisher=[[VentureBeat]] |access-date=14 November 2016 }}</ref> voiced by Keith Silverstein.{{citation needed|date=August 2016}}
+* Moon Knight appears in ''[[Marvel Future Fight]]''.<ref>{{cite web|url=http://vloggest.com/watch/moon-knight-joins-marvel-future-fight-plus-new-team-iron-man-uniforms-1070671122/|title=Moon Knight Joins Marvel Future Fight! Plus New Team Iron Man Uniforms!|work=vloggest.com|date=May 19, 2016|accessdate=August 22, 2016}}</ref>
+* Moon Knight is a playable character in the [[Facebook]] game ''[[Marvel: Avengers Alliance]]''.<ref>{{cite web |url=http://www.idigitaltimes.com/marvel-avengers-alliance-chapter-9-heroic-battles-tips-and-guide-completing-all-467923 |title=Marvel Avengers Alliance Chapter 9 Heroic Battles: Tips And Guide To Completing All Fights [VIDEO] |location=[[IBT Media|iDigitalTimes]] |author=Phillip Martinez |date=18 August 2015 |access-date=14 November 2016 |deadurl=yes |archiveurl=https://web.archive.org/web/20161115132333/http://www.idigitaltimes.com/marvel-avengers-alliance-chapter-9-heroic-battles-tips-and-guide-completing-all-467923 |archivedate=15 November 2016 |df= }}</ref>
+* Moon Knight is a playable character in ''[[Marvel Heroes (video game)|Marvel Heroes]]'',<ref>{{cite web |url=https://www.marvelheroes.com/news/news-articles/moon-knight-has-joined-marvel-heroes |title=Moon Knight Has Joined Marvel Heroes! |date=27 February 2014 |access-date=22 November 2016 |archive-url=https://web.archive.org/web/20140511002628/https://www.marvelheroes.com/news/news-articles/moon-knight-has-joined-marvel-heroes |archive-date=11 May 2014 |dead-url=yes}}</ref> again voiced by Robin Atkin Downes.<ref>{{cite web|title=Voice Of Moon Knight|url=http://www.behindthevoiceactors.com/video-games/Marvel-Heroes/Moon-Knight/|website=Behindthevoiceactors.com|accessdate=22 November 2016}}</ref>
+*Moon Knight appears in ''[[Marvel: Contest of Champions]]''.{{citation needed|date=April 2017}}
+
+===Sculpture===
+Numerous commercially released sculptures have been created of the character Moon Knight. The first was a mini bust created by Bowen Designs in the late 1990s. It features him in his white costume from the waist up. The second rendition was another mini bust from Diamond Select in 2006. It depicted only his torso and head and featured a darker costume and white cape. In 2006 Bowen Designs released a full body statue of Moon Knight sculpted and designed by the Kucharek Brothers. This statue came in two versions. The first was painted a dark silver, and the second, which was far rarer, was painted white. In 2013 Gentle Giant released yet another mini bust of Moon Knight.<ref>{{cite web |url=http://marvel.com/news/toys/18722/gentle_giant_releases_new_moon_knight_and_deadpool_corps_mini_busts |title=Archived copy |accessdate=2015-12-15 |deadurl=yes |archiveurl=https://web.archive.org/web/20151222100804/http://marvel.com/news/toys/18722/gentle_giant_releases_new_moon_knight_and_deadpool_corps_mini_busts |archivedate=2015-12-22 |df= }}</ref> This sculpture featured a waist up depiction of moon knight with his arms prominently displayed.
+
+==Collected editions==
+{| class="wikitable"
+|-
+! Title !! Material collected !! Publication date !! ISBN
+|-
+! colspan="4" |Hulk!
+|-
+|''Moon Knight: Countdown to Dark''
+|''Hulk!'' #11–15, 17-18, 20 and ''Marvel Preview'' #21
+|September 2010
+|{{ISBNT|978-0785148692}}
+|-
+! colspan="4" |Moon Knight Vol. 1 (1980)
+|-
+| ''Essential Moon Knight Vol. 1''
+| ''Moon Knight'' #1–10; ''Werewolf By Night'' #32–33; ''Marvel Spotlight'' #28–29; ''Spectacular Spider-Man'' #22–23; ''Marvel Two-In-One'' #52; ''Hulk Magazine'' #11–15, 17–18, 20; ''Marvel Preview'' #21
+| February 2006
+| {{ISBNT|0-7851-2092-0}}
+|-
+|''Essential Moon Knight Vol. 2''
+|''Moon Knight'' #11–30
+| October 2007
+| {{ISBNT|978-0-7851-2729-1}}
+|-
+|''Essential Moon Knight Vol. 3''
+|''Moon Knight'' #31–38; ''Moon Knight: Fist of Khonshu'' #1–6; ''Marvel Fanfare'' #30, 38–39; ''Solo Avengers'' #3; ''Marvel Super-Heroes #1''
+|November 2009
+|{{ISBNT|978-0-7851-3070-3}}
+|-
+|''Moon Knight Epic Collection: Bad Moon Rising''
+|''Moon Knight'' #1-4; ''Werewolf By Night'' #32-33; ''Marvel Spotlight'' #28-29; ''Spectacular Spider-Man'' #22-23; ''Marvel Two-in-One'' #52; ''Hulk Magazine'' #11-15, #17-18, #20; ''Marvel Preview''  #21; ''Defenders'' #47-50
+|October 2014
+|{{ISBNT|978-0785190967}}
+|-
+|''Moon Knight Epic Collection: Shadows of the Moon''
+|''Moon Knight'' #5-23
+|November 2015
+|{{ISBNT|978-0785198109}}
+|-
+|''Moon Knight Epic Collection: Final Rest''
+|''Moon Knight'' #24-38
+|January 2019
+|{{ISBNT|978-1302915643}}
+|-
+! colspan="4" |Moon Knight Vol. 3 (2006)
+|-
+|''Moon Knight Vol. 1: The Bottom''
+|''Moon Knight'' Vol. 3 #1–6
+|January 2007
+| {{ISBNT|978-0-7851-2542-6}}
+|-
+|''Moon Knight Vol. 2: Midnight Sun''
+|''Moon Knight'' Vol. 3 #7–13, ''Moon Knight Annual'' #1
+|January 2008
+|{{ISBNT|978-0-7851-2289-0}}
+|-
+|''Moon Knight Vol. 3: God & Country''
+|''Moon Knight'' Vol. 3 #14–20
+| November 2008
+|{{ISBNT|978-0-7851-2521-1}}
+|-
+|''Moon Knight Vol. 4: The Death of Marc Spector''
+|''Moon Knight'' Vol. 3 #21–25, ''Moon Knight: Silent Knight'' #1
+| March 2009,
+|{{ISBNT|978-0-7851-3218-9}}
+|-
+|''Moon Knight Vol. 5: Down South''
+|''Moon Knight'' Vol. 3 #26–30
+| October 2009
+|{{ISBNT|978-0-7851-3171-7}}
+|-
+! colspan="4" |Vengeance of the Moon Knight (2009)
+|-
+|''Vengeance of the Moon Knight Vol 1: Shock and Awe''
+| ''Vengeance of the Moon Knight'' #1–6
+|July 2010
+|{{ISBNT|978-0-7851-4106-8}}
+|-
+|''Vengeance of the Moon Knight Vol 2: Killed, Not Dead''
+|''Vengeance of the Moon Knight'' #7–10
+|December 2010
+|{{ISBNT|978-0-7851-4107-5}}
+|-
+! colspan="4" |Moon Knight Vol. 4 (2011)
+|-
+|''Moon Knight by Brian Michael Bendis & Alex Maleev Vol. 1''
+|''Moon Knight'' Vol. 4 #1–7
+|December 2011
+|{{ISBNT|978-0-7851-5169-2}}
+|-
+|''Moon Knight by Brian Michael Bendis & Alex Maleev Vol. 2''
+|''Moon Knight'' Vol. 4 #8–12
+|June 2012
+|{{ISBNT|978-0-7851-5171-5}}
+|-
+|Moon Knight by Brian Michael Bendis & Alex Maleev
+|''Moon Knight'' Vol. 4 #1-12
+|March 2018
+|{{ISBNT|978-1302909994}}
+|-
+! colspan="4" |Moon Knight Vol. 5 (2014)
+|-
+|''Moon Knight Vol. 1: From the Dead''
+|''Moon Knight'' Vol. 5 #1–6
+|October 2014
+|{{ISBNT|978-0785154082}}
+|-
+|''Moon Knight Vol. 2: Dead Will Rise''
+|''Moon Knight'' Vol. 5 #7-12
+|April 2015
+|{{ISBNT|978-0785154099}}
+|-
+|''Moon Knight Vol. 3: In The Night''
+|''Moon Knight'' Vol. 5 #13-17
+|October 2015
+|{{ISBNT|978-0785197348}}
+|-
+! colspan="4" |Moon Knight Vol. 6 (2016)
+|-
+|''Moon Knight Vol. 1: Lunatic''
+|''Moon Knight'' Vol. 6 #1-5
+|December 2016
+|{{ISBNT|978-0785199533}}
+|-
+|''Moon Knight Vol. 2: Reincarnations''
+|''Moon Knight'' Vol. 6 #6-9 and ''Moon Knight'' Vol. 1 #2 
+|June 2017
+|{{ISBNT|978-0785199540}}
+|-
+|''Moon Knight Vol. 3: Birth and Death''
+|''Moon Knight'' Vol. 6 #10-14
+|October 2017
+|{{ISBNT|978-1302902889}}
+|-
+|Moon Knight by Lemire & Smallwood
+|''Moon Knight'' Vol. 6 #1-14
+|September, 2018
+|{{ISBNT|978-1302912857}}
+|-
+! colspan="4" |Moon Knight: Legacy (2017)
+|-
+|''Moon Knight: Legacy Vol. 1: Crazy Runs in the Family''
+|''Moon Knight'' #188-193
+|May 2018
+|{{ISBNT|978-1-3029-0937-6}}
+|-
+|''Moon Knight: Legacy Vol. 2: Phases''
+|''Moon Knight'' #194-200
+|December 2018
+|{{ISBNT|978-1-3029-1270-3}}
+|-
+! colspan="4" |Limited Series
+|-
+|''Shadowland: Moon Knight''
+| ''Shadowland: Moon Knight'' #1–3 and ''Moon Knight'' #13
+| March 2011
+|{{ISBNT|978-0-7851-4889-0}}
+|}
+
+==References==
+{{Reflist}}
+
+==External links==
+* [http://www.marvel.com/universe/Moon_Knight Moon Knight] at Marvel.com
+* [http://www.comicfoundry.com/modules/wfsection/article.php?articleid=191 Comic Foundry – The Conversation: Doug Moench + Charlie Huston]
+* {{gcdb|type=character|search=Moon+Knight|title=Moon Knight}}
+* {{comicbookdb|type=character|id=732|title=Moon Knight}}
+*[http://www.toonopedia.com/moonkngt.htm Moon Knight] at [[Don Markstein's Toonopedia]]. [https://www.webcitation.org/6ftbscx1z?url=http://www.toonopedia.com/moonkngt.htm Archived] from the original on March 10, 2016.
+
+{{Moon Knight}}
+{{Avengers}}
+{{Daredevil}}
+{{Spider-Man characters}}
+{{Secret Avengers}}
+{{Ultimate Spider-Man}}
+
+[[Category:Characters created by Doug Moench]]
+[[Category:Comics characters introduced in 1975]]
+[[Category:Fictional American Jews]]
+[[Category:Fictional boxers]]
+[[Category:Fictional businesspeople]]
+[[Category:Fictional characters from Chicago]]
+[[Category:Fictional characters with multiple personalities]]
+[[Category:Fictional detectives]]
+[[Category:Fictional drivers]]
+[[Category:Fictional mercenaries]]
+[[Category:Fictional United States Marine Corps personnel]]
+[[Category:Fictional vigilantes]]
+[[Category:Jewish superheroes]]
+[[Category:Marvel Comics characters with superhuman strength]]
+[[Category:Marvel Comics martial artists]]
+[[Category:Marvel Comics superheroes]]
+[[Category:Marvel Comics titles]]

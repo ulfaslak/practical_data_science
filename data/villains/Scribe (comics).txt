@@ -1,0 +1,35 @@
+{{Infobox comics character| <!--Wikipedia:WikiProject Comics-->
+|image=
+|caption=
+|character_name=Scribe
+|real_name=Jane Hampshire
+|species=[[Mutant (Marvel Comics)|Human Mutant]]
+|publisher=[[Marvel Comics]]
+|debut=''[[Excalibur (comic book)|Excalibur]]'' #96
+|creators=[[Warren Ellis]]<br>[[Carlos Pacheco]]
+|alliances=[[Hellfire Club (comics)|Hellfire Club]]
+|aliases=Red Rook
+|powers=intagiblity, talons
+}}
+
+'''Scribe''' ('''Jane Hampshire'''<ref>Marvel Atlas #1</ref>) is a [[fictional character]], a [[mutant (Marvel Comics)|mutant]] appearing in [[American comic book]]s published by [[Marvel Comics]]. She first appeared in ''[[Excalibur (comic book)|Excalibur]]'' #96.
+
+==Fictional character biography==
+Scribe, an [[albino]] mutant, was a member of the Inner Circle of the [[London]] [[Hellfire Club (comics)|Hellfire Club]]. With a special device she would record everything that is said in the Inner Circle’s meetings. Scribe was merged with and possessed by the mutant bodystealer known as [[Mountjoy (comics)|Mountjoy]]. When [[Captain Britain|Brian Braddock]] became the Black Bishop, the Mountjoy-possessed Scribe confided in him. She told Brian that the Inner Circle knew he used to be Captain Britain and she needed his help. She told Brian about the Inner Circle’s plot to use a demon under London to control the city’s population. When Brian became Captain Britain and confronted the Black Queen [[Ms. Steed|Miss Emma Steed]], Mountjoy revealed that he had been possessing Scribe and attacked him. Captain Britain defeated the London Inner Circle, and Scribe, Mountjoy and the others were put in jail.{{issue|date=December 2012}}
+
+Scribe, who was still possessed by Mountjoy, was later bailed out of jail by [[Sebastian Shaw (comics)|Sebastian Shaw]]. Scribe was taken to Liberty Island to participate in a duel against [[Madelyne Pryor]]. As Scribe was about to defeat Madelyne, she reached inside Scribe and pulled out Mountjoy, defeating both Scribe and Mountjoy.{{issue|date=December 2012}} Her current whereabouts are unknown and it is unknown if Scribe retained her mutant abilities during the [[Decimation (comics)|M-Day]].
+
+==Powers and abilities==
+Scribe is a mutant who demonstrated increased strength, agility and reflexes, as well as a phasing ability that allows her to pass between the molecules of other objects. She also wielded sharpened talons protruding from her fingernails. Aside from her mutant abilities, Scribe showed proficiency regarding the recording technology utilized by the London Hellfire Club to keep a record of their meetings.
+
+==References==
+{{reflist}}
+
+[[Category:Fictional characters who can turn intangible]]
+[[Category:Fictional characters with albinism]]
+[[Category:Female supervillains]]
+[[Category:Marvel Comics mutants]]
+[[Category:Marvel Comics supervillains]]
+[[Category:Characters created by Warren Ellis]]
+
+{{Marvel-villain-stub}}

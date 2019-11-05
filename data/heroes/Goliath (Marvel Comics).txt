@@ -1,0 +1,61 @@
+{{Infobox comics character<!--Wikipedia:WikiProject Comics-->
+|image= 
+|image_size=200 
+|caption=Bill Foster as Goliath.<br>Art by [[Staz Johnson]].
+|publisher  = [[Marvel Comics]]
+|debut      = ''[[The Avengers (comic book)|The Avengers]]'' #28 (May 1966)
+|debutyr1   =
+|creators   = [[Stan Lee]]<br/>[[Don Heck]]
+|real_name  = [[Hank Pym]]<br/>[[Hawkeye (comics)|Clint Barton]]<br/>[[Bill Foster (comics)|Bill Foster]]<br />[[Erik Josten]]<br />Tom Foster
+|alliances  = [[Avengers (comics)|Avengers]]
+|powers     = Size-shifting from nearly microscopic to ~100 feet gigantic (both at extremes)<br/>Bio-Energy Projection, also known as a Bio-Sting<br/>Superhuman strength
+}}
+'''Goliath''' is a [[superhero]] [[comic book]] identity in [[Marvel Comics]].
+
+==Character history==
+The Goliath identity has been used by various [[superhero]]es.
+
+===Henry Pym===
+{{main|Hank Pym}}
+'''Henry "Hank" Pym''' was the first to adopt the Goliath name.<ref>''Avengers'' #28 (May 1966). Marvel Comics.</ref>
+
+===Clint Barton===
+{{main|Hawkeye (comics)}}
+'''Clinton "Clint" Barton''' is better known as the superhero [[Hawkeye (comics)|Hawkeye]]; he used the Pym size-changing gas to adopt the Goliath powers and identity shortly after Hank Pym was [[Yellowjacket (Marvel Comics)|Yellowjacket]]. He remained Goliath through the [[Kree-Skrull War]], and briefly resumed using the identity during "[[Operation: Galactic Storm]]".<ref>''The Avengers'' #63 (April 1969). Marvel Comics.</ref>
+
+===Bill Foster===
+{{main|Bill Foster (comics)}}
+'''Dr. William "Bill" Foster''' was Pym's lab assistant, an [[African American]] who had an equally brief career as the Black Goliath and [[Giant-Man]] before retiring from superheroics.<ref>''Power Man'' #24 (April 1975). Marvel Comics.</ref> He later came out of retirement, donning a new costume and known as simply Goliath. In the "[[Civil War (comics)|Civil War]]" storyline, he sided with [[Captain America]]'s faction of outlaw Anti-Registration heroes, and was killed by a [[Ragnarok (comics)|cyborg clone of]] [[Thor (Marvel Comics)|Thor]].<ref>''Civil War'' #4. Marvel Comics.</ref>
+
+===Erik Josten===
+{{main|Erik Josten}}
+'''Erik Josten''' was originally known as the supervillain Power Man. After being soundly defeated by [[Luke Cage]] &ndash; who was also calling himself Power Man at the time &ndash; he changed his codename to the Smuggler and later to Goliath.<ref>''Iron Man Annual'' #7 (Oct. 1984). Marvel Comics.</ref> He adopted the superheroic identity [[Atlas (Marvel Comics)|Atlas]] upon joining the [[Thunderbolts (comics)|Thunderbolts]].
+
+===Tom Foster===
+'''Tom Foster''' is Bill Foster's nephew. Created by [[Reginald Hudlin]], [[Greg Pak]] and [[Koi Turnbull]], he first appears in ''Black Panther'' Vol. 4 #23 (February 2007), and in ''World War Hulk: Aftersmash'' #1 (March 2008) as the new Goliath. According to Pak, Tom's character was created when Pak and Hudlin had wanted to use Bill's character but were unable to due to the man's demise in the ''[[Civil War (comics)|Civil War]]'' story arc.<ref>{{cite web|url=http://www.comicbookresources.com/news/newsitem.cgi?id=12542 |title=CBR News: THE COMMENTARY TRACK: "Aftersmash" #1 with Greg Pak |publisher=Comic Book Resources |date=2007-12-07 |accessdate=2011-01-06}}</ref> 
+
+After learning of Bill's death from [[Black Panther (comics)|Black Panther]], Tom swore to continue his uncle's legacy by replicating the [[Pym Particles]] that gave him his powers. To this end, T'Challa swore to assist him in any way possible, once Tom finished his [[M.I.T.]] studies.<ref>''Black Panther'' #23. DC Comics.</ref> 
+
+Tom next appears during the [[Hulk (comics)|Hulk]]'s [[World War Hulk|invasion of Manhattan]], one of a group of the Hulk's supporters who stay in New York despite the government evacuation. He delivers a speech in which he criticizes [[Mister Fantastic|Reed Richards]] and Tony Stark for creating Thor's clone that killed his uncle, declaring himself 'ready for the Hulk's justice'.{{Issue|date=April 2010}} 
+
+After the Hulk and Warbound are defeated and removed from Manhattan, Tom sneaks into the [[Avengers Mansion]]'s abandoned labs, locating a vial of [[Pym Particles]], which he uses to gain superpowers as Goliath. Upon doing so, he finds and assaults [[Iron Man]] in retaliation for his uncle's death, but is interrupted by an internal struggle between the captured Warbound and does not continue the attack. He then assists [[Damage Control (comics)|Damage Control]] in repairing the city.<ref>''World War Hulk: Aftersmash'' #1. Marvel Comics.</ref> 
+
+Goliath later joins a [[Revengers|team of anti-heroes]] assembled by [[Wonder Man]] (whose judgement was impaired at the time<!--isn't it all the time though-->) to defeat the Avengers.<ref>''New Avengers Annual'' Vol. 2 #1</ref> He and the group are defeated by the Avengers and remanded to the [[The Raft (comics)|Raft]]. During his interrogation, he states that he still blames Iron Man for his uncle's death.<ref>''New Avengers Annual'' Vol. 2 #2. Marvel Comics.</ref>
+
+During the "[[Civil War II]]" storyline, Goliath is shown to be an inmate at the Cellar. [[Mad Thinker]] tries to recruit him during a massive prison break, but he declines. He later defeats the villains and saves several guards' lives. For his heroic actions, Goliath is released from the Cellar on [[parole]].<ref>''Civil War II: Choosing Sides'' #2. Marvel Comics.</ref> 
+
+==References==
+{{reflist}}
+
+{{Hank Pym}}
+{{Hawkeye}}
+{{Stan Lee}}
+
+{{Marvel-Comics-stub}}
+[[Category:Marvel Comics superheroes]]
+[[Category:Set indices on comics]]
+[[Category:Characters created by Jack Kirby]]
+[[Category:Characters created by Stan Lee]]
+[[Category:Fictional characters who can change size]]
+[[Category:Fictional giants]]
+[[Category:Male characters in comics]]

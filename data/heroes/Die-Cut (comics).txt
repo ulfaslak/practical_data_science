@@ -1,0 +1,43 @@
+{{Superherobox <!--Wikipedia:WikiProject Comics-->
+| image = 
+| caption = 
+| character_name = Die-Cut
+| publisher = [[Marvel UK]]
+| debut = ''Death's Head II & the Origin of Die-Cut'' #1 ([[1993 in comics|1993]])
+| creators = [[Glenn Dakin]]<br>[[John Royle (artist)|John Royle]]
+| alter_ego = Czorn Yson
+| full_name =
+| species = <!-- optional -->
+| homeworld = Ganalon
+| alliances = <!-- optional -->
+| aliases = <!-- optional: actual identities the character uses, not nicknames -->
+| supports=<!--optional-->
+| powers = A blade called the "Pscythe" that can cut through any material
+}}
+'''Die-Cut''' (real name: '''Czorn Yson''') is a [[fictional character]] appearing in [[American comic book]]s published by [[Marvel Comics]]. The character appears in comic books published by the [[Marvel UK]] imprint. He first appeared in ''Death's Head II & the Origin of Die-Cut'' #1 ([[1993 in comics|1993]]). Die-Cut then co-starred in another miniseries, ''Die-Cut vs G-Force'', before receiving his own ''Die-Cut'' [[Limited series (comics)|limited series]] in November 1993.
+
+==Fictional character biography==
+Czorn Yson is a [[mutant]] from the planet Ganalon.  The Ganalonians have been engaged in a war with a race of [[cyborg]]s for centuries.  Yson enlists as a soldier in the battle against the cyborgs; it is from his experiences that he gains a pathological hatred of all things mechanical.
+
+Yson is captured by the cyborg forces and tortured for information.  He successfully blocks their mental probes by feigning [[schizophrenia]], but eventually slips into true madness.  When the Minion cyborg, the future [[Death's Head]] II, arrives to assimilate his personality, Yson willingly submits in order to end his torture.<ref>''Death's Head II & the Origin of Die-Cut'' #2</ref>
+
+Years later, Death's Head II is infected with a type of a [[computer virus]] known as a purging program, which forces some of his assimilated personalities to emerge.  Czorn Yson is one of those personalities.  Death's Head II is eventually forced to allow Yson's personality to temporarily take over, whereupon Yson manages to create a new, enhanced body and download his personality into it.  Now calling himself Die-Cut, the insane mutant cuts Death's Head into two.  He eventually regains his sanity, and sets off on a quest to destroy all cyborgs.<ref>''Death's Head II & the Origin of Die-Cut'' #1</ref>
+
+==Powers and abilities==
+Die-Cut has a blade, called the Pscythe, attached to his left arm.  Drawn from his memories when he created a new body, the Pscythe can cut through virtually any matter or energy.  It has the ability to open portals through space and other dimensions.  The Pscythe can also be used to erase memories.
+
+==Notes==
+{{reflist}}
+
+==References==
+{{refbegin}}
+*[http://www.marvunapp.com/Appendix/diecutmuk.htm Die-Cut] at the Appendix to the Handbook of the Marvel Universe
+*{{gcdb series|id=4767|title=''Die-Cut''}}
+*{{comicbookdb|type=character|id=6549|title=Die-Cut}}
+*[http://www.comics-db.com/Marvel_Comics/D/Die-Cut/index.html Die-Cut] at the [[Big Comic Book DataBase]]
+{{refend}}
+
+[[Category:1993 comics debuts]]
+[[Category:Marvel Comics superheroes]]
+[[Category:Marvel UK characters]]
+[[Category:Marvel UK titles]]

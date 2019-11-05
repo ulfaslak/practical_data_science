@@ -1,0 +1,70 @@
+{{Infobox comics character <!--Wikipedia:WikiProject Comics-->
+|character_name = Slaymaster
+|image = TheSlaymaster.JPG
+|imagesize = 215
+|converted = y
+|caption = The Slaymaster
+|publisher = [[Marvel Comics]]
+|debut = ''[[Captain Britain|Super Spider-Man and Captain Britain]]'' #243<br> (October 1977)
+|creators = Jim Lawrence (writer)<br>[[Larry Lieber]] (writer)<br>Ron Wilson (artist)
+|real_name =
+|species = Human
+|alliances = [[Crazy Gang (comics)|Crazy Gang]]
+|aliases = Electro-Man
+|powers = Exceptional [[martial artist]] and [[Military tactics|tactician]]
+|cat=super
+|subcat=Marvel Comics
+|villain=y
+}}
+'''Slaymaster''' is a [[fictional]] [[comic book]] character from [[Marvel Comics]]'s ''[[Captain Britain]]'' series.
+
+==Publication history==
+The Slaymaster's first appearance was in ''[[Captain Britain|Super Spider-Man and Captain Britain]]'' #243 (October 1977), a weekly [[Marvel UK]] title which featured a mix of reprint and original material. He was created by Jim Lawrence, [[Larry Lieber]], and Ron Wilson. Though killed off in the 1985 ''Captain Britain'' series, the character's role as one of Captain Britain (and later his sister [[Psylocke]]'s) main villains would result in the character appearing and being mentioned long after his death (in particular, Uncanny X-Men #256, which contains the character's first American appearance, though in the storyline, he is a hallucination created by the villains Mojo and Spiral as part of an elaborate brainwashing process they perform on Psylocke).
+
+==Fictional character biography==
+Slaymaster remains one of few Muslim characters depicted in the Marvel universe. He is shown refusing alcohol because of his religion.
+
+Slaymaster first encounters Captain Britain while carrying out an assassination, managing to defeat the Captain.<ref>''Super [[Spider-Man]] and [[Captain Britain]]'', #243-247</ref>
+
+Later, a more skillful and refined Slaymaster has been hired by [[Vixen (Marvel Comics)|Vixen]] (a British villain and old enemy of Captain Britain) to kill all of the members of [[S.T.R.I.K.E.]]'s psi-division, including Captain Britain's sister, before her planned infiltration of the intelligence's facility. Slaymaster manages to kill most of the psi-division, bar Alison Double, Tom Lennox and [[Psylocke|Betsy Braddock]] (Captain Britain's sister and Lennox's lover), keeping the division away long enough for Vixen to take control. Captain Britain's intervention on behalf of his sister results in a rematch between himself and Slaymaster, a tightly run affair in which Slaymaster proves his intelligence, weapons and martial skill would be enough to defeat the more powerful Captain again. However, thanks to a distraction by Betsy, Captain Britain is able to overwhelm Slaymaster and beat him into unconsciousness.
+
+Still in the employ of Vixen, Slaymaster was to bring Captain Britain to her. Slaymaster manages to capture the Captain and in the course of the story steals his costume which is thought to be the source of Captain Britain's powers. Captain Britain is still able to control the suit and telekinetically rams Slaymaster into a wall, knocking him out.<ref>''Captain Britain Monthly'' #1-3</ref>
+
+In their final meeting, Braddock's sister Betsy (soon to be ''[[Psylocke]]'' of the X-Men) had assumed the mantle of Captain Britain (Brian had 'retired'). Wearing a derived version of Captain Britain's costume supplied by Vixen, Slaymaster ambushes and quickly defeats Betsy Braddock, sadistically gouging out her eyes. Betsy manages to telepathically summon her brother who flies to her rescue. Slaymaster soon discovers that the costume that Captain Britain wears is little more than a regulatory device. Braddock's powers are intact, abiet unfocused. Enraged, Captain Britain kills Slaymaster by smashing his head and chest in with a large boulder.<ref>''Captain Britain'' (vol. 2) #12-13 (UK); ''Captain Britain'' trade paperback (US)</ref>
+
+Later, in ''Deadpool Team-up'' #893, a mercenary named Jasper Bateman takes on the role of the new Slaymaster.  It is revealed that Bateman has obsessed over the original Slaymaster his entire adult life, and has made it his goal to take up his mantle and defeat Captain Britain.  He spends years hunting down the security designer for Slaymaster's lair and acquires the necessary clearance codes to safely enter and obtain all of the equipment and weapons of his predecessor.  He is eventually defeated by the combined efforts of Deadpool and Captain Britain and taken into custody.{{issue|date=December 2012}}
+
+==Powers and abilities==
+Slaymaster is a master hand-to-hand combatant and a world class assassin, on various occasions he is depicted as having more than normal balance and reflexes.
+
+He has demonstrated unknown defenses to both telepathy and telekinesis.
+
+His preferred weapons are specialized high tech needles with which he can shower a deadly barrage upon opponents.  He has also used swords, armor, laser cannons, and an inter-dimensional teleportation device. Using a ninja technique, Slaymaster toughened the striking surfaces of his left hand to produce a tough callous and sharpened it to produce a deadly razor edge, providing him with a built-in bladed weapon.
+
+Slaymaster has been depicted as gaining strength and speed at a superhuman level by killing his alternate-reality analogues and absorbing their essence.
+
+==Other versions==
+An alternate version of Slaymaster appears in a parallel universe visited by the [[Exiles (Marvel Comics)|Exiles]] that has been almost completely taken over by [[Hydra (Marvel Comics)|HYDRA]], headed in this reality by [[Invisible Woman|Susan Storm]].<ref>[[Exiles (Marvel Comics)|Exiles]] #92-94</ref> This Slaymaster escapes his reality along with Susan Storm and begins hunting down alternate-reality versions of Psylocke, killing them and taking their eyes, much like his 616 counterpart did to Betsy Braddock.<ref>[[Exiles (Marvel Comics)|New Exiles]] #7</ref>
+
+Earth 616's Psylocke is somehow able to sense each time Slaymaster kills one of her counterparts. She is initially afraid to face him, but finally chooses to face her fear. She tracks him to Earth 616, engages him in combat and finally kills him.<ref>''X-Men: Sword of the Braddocks''</ref>
+
+==Awards==
+*1986: Nominated for "Favourite Villain" [[Eagle Award (comics)|Eagle Award]]
+
+==Notes==
+{{reflist}}
+
+==References==
+{{refbegin}}
+*[http://www.marvunapp.com/Appendix/slaymast.htm Slaymaster] at the Appendix to the Handbook of the Marvel Universe
+*{{comicbookdb|type=character|id=9598|title=Slaymaster}}
+{{refend}}
+
+{{Captain Britain}}
+
+[[Category:Characters created by Larry Lieber]]
+[[Category:Comics characters introduced in 1977]]
+[[Category:Fictional assassins]]
+[[Category:Marvel Comics martial artists]]
+[[Category:Marvel Comics supervillains]]
+[[Category:Marvel UK characters]]

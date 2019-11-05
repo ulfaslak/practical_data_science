@@ -1,0 +1,39 @@
+{{Notability|date=August 2018}}
+{{In-universe|date=August 2018}}
+{{Infobox comics character| <!--Wikipedia:WikiProject Comics--> 
+image=[[Image:BirdB.png]]
+|caption=Art by [[Bret Blevins]]
+|character_name=Bird-Brain
+|real_name=Bird-Brain
+|species=
+|publisher=[[Marvel Comics]]
+|debut=''[[New Mutants]]'' #56 (Oct 1987)
+|creators=[[Louise Simonson]] and [[June Brigman]]
+|alliances=[[New Mutants]]
+|aliases=Bird Boy
+|powers=Flight
+|}}
+
+'''Bird-Brain''' is a [[fictional character]] appearing in [[American comic book]]s published by [[Marvel Comics]].
+
+==Publication history==
+Bird-Brain first appeared in ''[[New Mutants]]'' #55 (September 1987), and was first fully seen in ''New Mutants'' #56 (October 1987). The character was created by [[Louise Simonson]] and [[June Brigman]].
+
+==Fictional character biography==
+Bird-Brain is one of a number of "Ani-Mates", creatures created by an insane geneticist named the [[Ani-Mator]], combining the characteristics of human beings and other animals.  The Ani-Mator subjected his creations to a number of cruel and deadly experiments, but Bird-Brain escapes the Ani-Mator's island and befriends the [[New Mutants]]. They try to acclimate him to regular society, which fails miserably time and again, mainly because Bird-Brain would eat all the food he saw.<ref name="movie incident">''New Mutants'' #57</ref> For the most part, Bird-Brain is unable to communicate with the New Mutants, despite the language powers of the New Mutant [[Cypher (comics)|Cypher]], because of how simplistic Bird-Brain's language is.<ref name="movie incident"/> In his first conversation with Cypher, Bird-Brain explains that he has been trained with food by starving him and using food as a reward.<ref name="movie incident"/>
+
+Bird-Brain develops relatively close relationships with Cypher (who is fascinated by Bird-Brain's language) and [[Wolfsbane (comics)|Wolfsbane]] for her changeling ability, through which he sees her as a kindred spirit, and her general kindness to him.<ref name="language learning">''New Mutants'' #58</ref> Feeling he had abandoned the other mutated creatures on the island, Bird-Brain eventually returns with the New Mutants to free them.<ref name="language learning"/> The Ani-Mator, attempting to shoot Wolfsbane, instead kills Cypher, and [[Magik (Illyana Rasputin)|Magik]] exiles the Ani-Mator to the dimension of [[Otherplace|Limbo]] in retaliation.<ref>''New Mutants'' #60</ref> Once freed from the Ani-Mator's tyranny, Bird-Brain decides to remain on the island with the other Ani-Mates.<ref>''New Mutants'' #61</ref>
+
+==References==
+{{Reflist}}
+
+==External links==
+*[http://en.marveldatabase.com/Bird-Brain_%28Earth-616%29 Bird-Brain] at the Marvel Database Project
+*[http://uncannyxmen.net/characters/bird-brain Bird-Brain] at UncannyXmen.net
+
+{{New Mutants}}
+
+[[Category:Characters created by Louise Simonson]]
+[[Category:Comics characters introduced in 1987]]
+[[Category:Marvel Comics mutates]]
+[[Category:Marvel Comics superheroes]]

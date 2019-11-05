@@ -1,0 +1,387 @@
+{{About|the comic book character}}
+{{Infobox comics character <!--Wikipedia:WikiProject Comics-->
+<!-- |character_name = Silver Surfer -->
+|image          = Silver Surfer.jpg
+|converted      = y
+|caption        = {{Descript-cvr-art|Annihilation: Silver Surfer||4|July, 2006|art=[[Gabriele Dell'Otto]]|pub=Marvel}}
+|real_name      = Norrin Radd
+|publisher      = [[Marvel Comics]]
+|debut          = ''[[Fantastic Four (comic book)|The Fantastic Four]]'' #48 (March 1966)
+|creators       = [[Jack Kirby]]
+|partners       = [[Fantastic Four]] <br/> [[Avengers (comics)|Avengers]]
+|alliances      = [[Herald of Galactus|Heralds of Galactus]] <br/> [[United Front (comics)|United Front]] <br/> [[Defenders (comics)|The Defenders]] <br/> [[The Order (comics)#Defenders offshoot|The Order]] <br/> Star Masters <br/> [[God Squad (comics)|God Squad]]<br>[[Annihilators (Marvel Comics)|Annihilators]]
+|powers         = Endowed with the [[Power Cosmic]], granting him:
+*[[Superhuman strength]], speed and durability
+*Energy projection and absorption 
+*Matter manipulation
+*Invulnerability
+*Illusion casting<ref>''Silver Surfer Vol 3'' #33</ref>
+*Cosmic senses<ref name="Fantastic Four #260">''Fantastic Four'' #260</ref><ref>''Marvel Encyclopedia Vol 1'' #</ref>
+*Flight
+|}}
+The '''Silver Surfer''' is a [[fictional character|fictional]] [[superhero]] appearing in [[American comic book]]s published by [[Marvel Comics]]. The character also appears in a number of movies, television, and video game adaptations.  The character was created by [[Jack Kirby]], and first appeared in the comic book ''[[Fantastic Four (comic book)|Fantastic Four]]'' #48, published in 1966.
+
+The Silver Surfer is a humanoid with metallic skin who can travel through space with the aid of his surfboard-like craft. Originally a young [[astronomer]] named '''Norrin Radd''' on the planet [[Zenn-La]], he saved his homeworld from the planet devourer, [[Galactus]], by serving as his [[Herald of Galactus|herald]]. Imbued in return with a tiny portion of Galactus's [[Power Cosmic]],<ref name="officalmarvelpage">{{cite web
+  | author = marvel.com
+  
+  | title = Silver Surfer: Marvel Universe
+  | url=http://www.marvel.com/universe/Silver_Surfer
+  | accessdate = 2007-01-04 }}</ref> Radd acquired vast power, a new body and a [[surfboard]]-like craft on which he could travel [[faster than light]]. Now known as the Silver Surfer, Radd roamed the [[cosmos]] searching for planets for Galactus to consume. When his travels took him to [[Earth]], he met the [[Fantastic Four]], who helped him rediscover his humanity and nobility of spirit. Betraying Galactus, the Surfer saved Earth but was [[exile]]d there as punishment.<ref name="fantasticfour48">''[[Fantastic Four (comic book)|Fantastic Four]]'' #48 (March 1966)</ref>
+
+In 2011, [[IGN]] ranked Silver Surfer 41st in its "Top 100 Comic Heroes" list.<ref>{{cite web|url=http://www.ign.com/top/comic-book-heroes/41|title=IGN's Top 100 Comic Book Heroes|accessdate=2011-05-09}}</ref> He was portrayed by [[Doug Jones (actor)|Doug Jones]] and voiced by [[Laurence Fishburne]] in the 2007 film ''[[Fantastic Four: Rise of the Silver Surfer]]''.
+
+==Publication history==
+Created by artist [[Jack Kirby]], the character [[first appearance|first appears]] in ''[[Fantastic Four (comic book)|The Fantastic Four]]'' #48 (March 1966), the first of a three-issue arc that fans call "[[The Galactus Trilogy]]".<ref>Thomas, Roy, ''Stan Lee's Amazing Marvel Universe'' (Sterling Publishing, New York, 2006), "Moment 29: The Galactus Trilogy", pp. 112–115. {{ISBN|1-4027-4225-8}}; {{ISBN|978-1-4027-4225-5}}</ref><ref>''Marvel Spotlight: Fantastic Four and Silver Surfer'' (2007; no month): "Jack Kirby's The Galactus Trilogy", by Erik Larsen, pp. 10–21 (unnumbered).</ref>
+
+===Early appearances===
+The Silver Surfer debuted as an unplanned addition to the [[superhero]]-team comic ''[[Fantastic Four (comic book)|Fantastic Four]]'' #48 (March 1966). The comic's writer-editor, [[Stan Lee]], and its [[penciller]] and co-plotter, [[Jack Kirby]], had, by the mid-1960s, developed a collaborative technique known as the "[[Marvel Method]]": the two would discuss story ideas, Kirby working from a brief synopsis to draw the individual scenes and plot details, with Lee finally adding the dialogue and captions. When Kirby turned in his pencil art for the story, he included a new character he and Lee had not discussed.<ref name="Markstein">{{cite web
+  | last = Markstein
+  | first = Don
+  | title = The Silver Surfer
+  | url=http://www.toonopedia.com/surfer.htm
+  | accessdate = 2007-03-26 }}</ref>  As Lee recalled in 1995, "There, in the middle of the story we had so carefully worked out, was a nut on some sort of flying surfboard".<ref name="excerpt">{{cite web
+ |last       = Lee
+ |first      = Stan
+ |title      = The Ultimate Silver Surfer (Berkeley Trade, 1995)
+ |url        = http://www.whatsleft.com/reviews/books/SurferExcerpt.html
+ |archive-url = https://web.archive.org/web/19970413082350/http://whatsleft.com/reviews/books/SurferExcerpt.html
+ |dead-url   = yes
+ |archive-date = 1997-04-13
+ |accessdate = 2007-01-05
+}}</ref> He later expanded on this, recalling, "I thought, 'Jack, this time you've gone too far'".<ref>[[Mark Evanier|Evanier, Mark]]. ''Kirby: King of Comics'' ([[Harry N. Abrams]], New York, 2008), p. 141</ref> Kirby explained that the story's agreed-upon [[antagonist]], a god-like cosmic [[predation|predator]] of planets named [[Galactus]], should have some sort of [[herald]], and that he created the surfboard "because I'm tired of drawing spaceships!"<ref name="theultimatesilversurfer">Quoted in Lee, ''The Ultimate Silver Surfer''</ref> Taken by the noble features of the new character, who turned on his master to help defend Earth, Lee overcame his initial skepticism and began adding characterization. The Silver Surfer soon became a key part of the unfolding story.<ref name="Markstein"/>
+
+Following the Surfer's debut, Lee and Kirby brought him back as a recurring guest in ''Fantastic Four'' #55–61, 72, and 74–77 (ranging Oct. 1966 – Aug. 1968). The character made his solo debut in the backup story of  ''Fantastic Four Annual'' #5 (Nov. 1967).
+[[File:Silver Surver vol.1-1 (1968).png|thumb|upright|''The Silver Surfer'' #1 (Aug. 1968). Cover art by [[John Buscema]] and [[Joe Sinnott]].]]
+The following year, Lee launched the solo title ''The Silver Surfer''. [[John Buscema]] was penciller for the first 17 issues of the series, with Kirby returning for the 18th and final issue. The first seven issues, which included anthological "Tales of the Watcher" backup stories, were 72-page (with advertising), 25-cent "giants", as opposed to the typical 36-page, 12-cent comics of the time. Thematically, the stories dealt with the Surfer's exile on Earth and the inhumanity of man as observed by this noble yet fallen hero. Though short-lived, the series became known as one of Lee's most thoughtful and introspective works.<ref name="silversurfer2v3backcover">Marvel Comics writer [[Steve Englehart]], for example, in his back-cover text for ''The Silver Surfer'' vol. 3, #2 (Aug. 1987), wrote that Buscema and Lee were "pouring their souls into the series".</ref>
+
+Following his series' cancellation, the Surfer made sporadic appearances as a guest star or [[antagonist]] in such comic books as ''[[Thor (Marvel Comics)|Thor]]'', ''[[Defenders (comics)|The Defenders]]'', and ''Fantastic Four''. Lee remained partial to the Surfer, even asking other writers not to use him as a general rule,<ref>{{cite journal |last=DeAngelo|first=Daniel|date=July 2013|title=The Not-Ready-For-Super-Team Players: A History of the Defenders |journal=[[Back Issue!]]|issue=65|page=3 |publisher=[[TwoMorrows Publishing]]|quote=At the time, Stan Lee had some exclusivity with the Silver Surfer and asked other writers not to use him.}}</ref> and with Kirby collaborated on a seminal 1978 [[graphic novel]] starring the character, the only original story featured in the [[Marvel Fireside Books]] series.<ref>{{cite book|last = Sanderson|first = Peter|authorlink = Peter Sanderson|last2= Gilbert|first2= Laura, ed.|chapter= 1970s|title = Marvel Chronicle A Year by Year History|publisher = [[Dorling Kindersley]]|date = 2008|page = 187|isbn =978-0756641238|quote= [In 1978], Simon & Shuster's Fireside Books published a paperback book titled ''The Silver Surfer'' by Stan Lee and Jack Kirby...This book was later recognized as Marvel's first true graphic novel.}}</ref>
+
+===Subsequent series===
+After a 1982 [[one-shot (comics)|one-shot]] by writer-artist [[John Byrne (comics)|John Byrne]] (with scripting by Stan Lee), the Surfer appeared in his second solo, ongoing [[Silver Surfer, volume 3|title]] in 1987.
+
+Initially written by [[Steve Englehart]], the series was to be set on Earth and one issue was completed under this premise before Marvel agreed to let Englehart remove the long-standing restriction regarding Silver Surfer being imprisoned on Earth. This first issue was shelved and a brand new first issue was written, to set up this plot twist; the original first issue would ultimately be reprinted in Marvel Fanfare #51. The series marked the first Silver Surfer stories not written by Stan Lee, a fact which Lee was openly unhappy about. He explained: {{quote|After I gave up [[Spider-Man]] then someone else did Spider-Man, and someone else did the [[Fantastic Four]] and [[Doctor Strange]] and [[X-Men|The X-Men]] and all of them. I felt that it was kind of nice for me to have been the only writer of the Silver Surfer, so I felt a little bit disappointed when somebody else did it. I would have liked to have been the only person. Had I known they were absolutely going to have the book done, I would have ''found'' the time to do it myself. I didn't really have time but I would have ''made'' the time, rather than have anybody else do it. ... this is not at all a criticism of Steve [Englehart] or of Marshall [Rogers, artist on the series], it's just that it's one book that I would have liked to have always done myself. [emphases in original]<ref name="DAK64">{{cite news | last = Boatz | first = Darrel L. | date = December 1988 | title = Stan Lee | work = [[Comics Interview]] | issue = 64 | pages = 5–23 | publisher = [[Fictioneer Books]]}}</ref>}}
+
+Englehart introduced many villains for Silver Surfer, as well as featured space politics involving Surfer's homeworld Zenn-La, which was caught in the middle of a renewed Kree-Skrull War. However, issues regarding Englehart wanting to use his Avengers character Mantis as Silver Surfer's companion, as well as editorial refusing to let him use Thanos or other concepts conceived by Jim Starlin, led Englehart to leave the book with issue #31. Jim Starlin took over as writer with issue #34 after several fill-in issues, and incorporated Thanos, Adam Warlock, and Drax the Destroyer into the series.
+
+Under Starlin and later Ron Marz, the series would receive acclaim and sales boost due to Silver Surfer's involvement with Starlin's Infinity Trilogy, with [[George Pérez]] and [[J. M. DeMatteis]] also having brief writing stints on the series as well. Additional artists included [[Tom Grindberg]], [[Ron Garney]], and [[Jon J. Muth]], as well as periodic guest spots by [[John Buscema]]. The title experienced great initial success which allowed Marvel to push the character into other media, including a 1990 video game, 1992 trading card set, and 1998 animated series, as well as spinning off a variety of other comics series including ''Cosmic Powers'', ''Cosmic Powers Unlimited'', ''Captain Marvel'' vol. 2, and ''Star Masters''. It ran 146 issues, through 1998. The next year it was followed by the two-issue miniseries, ''Silver Surfer: Loftier Than Mortals''.
+
+A two-issue ''Silver Surfer'' miniseries (later collected as ''Silver Surfer: Parable''), scripted by Lee and drawn by [[Jean Giraud|Moebius]], was published through Marvel's [[Epic Comics]] imprint in 1988 and 1989.  Because of inconsistencies with other stories, it has been argued that these stories actually feature an alternate Silver Surfer from a parallel Earth.<ref>{{cite web
+  | author = marvunapp.com
+  
+  | title = Earth-Moebius entry on the Appendix to the Marvel Universe website (not affiliated with Marvel)
+  | url=http://www.marvunapp.com/Appendix/earthmoeb01.htm
+  | accessdate = 2007-04-20 }}</ref> This miniseries won the [[Eisner Award]] for [[Eisner Award#Best Finite Series/Limited Series|best finite/limited series]] in 1989.
+
+===2000s===
+A new ongoing Silver Surfer series began in 2003, focusing on the character's alien nature and messianic allegory. It lasted 14 issues. The Surfer later appeared in an issue of ''[[Cable & Deadpool]]'' and has been reunited three times with the superhero group the [[Defenders (comics)|Defenders]]. In 2006–2007, he starred in the four-issue miniseries ''[[Annihilation (comics)#Annihilation: Silver Surfer|Annihilation: Silver Surfer]]'' and co-starred in the miniseries  ''[[Annihilation (comics)#Annihilation: Heralds of Galactus|Heralds of Galactus]]'', both part of the ''[[Annihilation (comics)|Annihilation]]'' [[fictional crossover]].
+
+In 2007, the Silver Surfer starred in a four-issue miniseries ''Silver Surfer: Requiem'' by writer [[J. Michael Straczynski]] and artist Esad Ribic. The first issue was released May 30, 2007 to coincide with the character's first movie appearance.<ref name="ssrequiemign">{{cite web
+  | author = ign.com
+  
+  | title = IGN Preview of Silver Surfer: Requiem #1
+  | url=http://comics.ign.com/articles/790/790095p1.html
+  | publisher=[[IGN]]
+  | accessdate = 2007-05-24}}</ref><ref>[http://blogs.amctv.com/scifi-scanner/2008/05/j-michael-straczynski-interview.php Masters of SciFi – An Interview With Screenwriter J Michael Straczynski] {{webarchive|url=https://web.archive.org/web/20090216222307/http://blogs.amctv.com/scifi-scanner/2008/05/j-michael-straczynski-interview.php |date=2009-02-16 }}, May 30, 2008</ref> Published under the [[Marvel Knights]] imprint, ''Silver Surfer: Requiem'' portrays the character upon learning that he is dying as the silver shell he is encased in is deteriorating.
+
+This was followed by the miniseries ''Silver Surfer: In Thy Name'',<ref>[http://forum.newsarama.com/showthread.php?t=133356 In the Name of the Silver Surfer I: Aubrey Sitterson] {{webarchive|url=https://web.archive.org/web/20071028175645/http://forum.newsarama.com/showthread.php?t=133356 |date=2007-10-28 }}, [[Newsarama]], October 17, 2007</ref> by writer [[Simon Spurrier]]<ref>[http://forum.newsarama.com/showthread.php?t=124772 WW Chicago: Si Spurrier on Silver Surfer: In Thy Name] {{webarchive|url=https://web.archive.org/web/20070929135849/http://forum.newsarama.com/showthread.php?t=124772 |date=2007-09-29 }}, August 10, 2007, [[Newsarama]]</ref><ref>[http://www.comicbookresources.com/news/newsitem.cgi?id=11553 Spurrier Talks "The Silver Surfer: In Thy Name"], August 10, 2007, [[Comic Book Resources]]</ref> and artist Ten Eng Huat.<ref>[http://forum.newsarama.com/showthread.php?t=134172 In the Name of the Silver Surfer: Ten Eng Huat] {{webarchive|url=https://web.archive.org/web/20071027022520/http://forum.newsarama.com/showthread.php?t=134172 |date=2007-10-27 }}, [[Newsarama]], October 25, 2007</ref>
+
+After an appearance in the "[[Planet Hulk]]" storyline in 2006, the Surfer was featured in its spin-off series starring the Hulk's son [[Skaar (character)|Skaar]] in 2008, both written by [[Greg Pak]].
+
+===2010s===
+
+The Silver Surfer received a sixth volume, an eponymous 5-issue mini-series written by Pak, debuting in February 2011.<ref>[http://www.newsarama.com/comics/greg-pak-silver-surfer-101117.html SILVER SURFER a 'Dream Come True' for Writer Greg Pak] November 17, 2010, [[Newsarama]]</ref>  He was also a core cast member in ''[[The Thanos Imperative]]'' (2010), ''[[Annihilators (Marvel Comics)|Annihilators]]'' (2011),<ref>[http://www.comicbookresources.com/?page=article&id=30022 Abnett Makes Things Dire for 'Annihilators'] December 24th, 2010, [[Comic Book Resources]]</ref> and ''[[Fear Itself (comics)|Fear Itself]]: The Deep'' (2011).<ref>[http://www.comicbookresources.com/?page=article&id=31385 C2E2: Bunn Dives Into "Fear Itself: The Deep"] March 20th, 2011, [[Comic Book Resources]]</ref> Beginning in 2011, the Silver Surfer began appearing regularly in ''[[The Mighty Thor]]''<ref>[http://www.comicbookresources.com/?page=article&id=30376 Marvel Makes Thor "Might"] January 27, 2011, [[Comic Book Resources]]</ref> and a new volume of ''Defenders'',<ref>[http://www.comicbookresources.com/?page=article&id=33521 CCI Exclusive: Fraction Unveils a Strange Conspiracy in "Defenders"] July 24, 2011, [[Comic Book Resources]]</ref> both written by [[Matt Fraction]].
+
+In March 2014, Silver Surfer volume 7 began as part of [[All-New Marvel NOW!]] by writer [[Dan Slott]], artist [[Mike Allred]],<ref>[http://marvel.com/news/story/21338/nycc_2013_all-new_marvel_now_silver_surfer NYCC 2013: All-New Marvel NOW! Silver Surfer]</ref> and colorist [[Laura Allred]].<ref name="AR"/> In January 2016 Silver Surfer volume 8 began with a special 50th anniversary edition expected release in March 2016.<ref>[http://silversurfercollector.co.uk/cbr-post-50th-anniversary-will-see-a-character-changing-saga CBR Post : 50th Anniversary will see a character-changing saga] January 5, 2016, [[Silver Surfer Collector]]</ref>
+
+==Fictional character biography<!--'Zenn-La' and 'Zenn La' redirect here-->==
+[[File:Fantasticfour72.jpg|thumb|left|upright|The Silver Surfer as depicted by the character's visual creators, [[Jack Kirby]] and [[Joe Sinnott]], on the cover of ''[[Fantastic Four]]'' #72 (March 1968). This example also highlights the pseudo-[[fractal]] light illusion known as [[Kirby dots|Kirby krackle]], which Kirby and Sinnott often employed with the Surfer and other cosmic, spacefaring Marvel characters.]]
+Norrin Radd is from the utopian planet '''Zenn-La'''<!--boldface per WP:R#PLA-->, in the [[Deneb]] star system of the [[Milky Way]] [[galaxy]].  He is the son of Jartan and Elmar Radd, and he has a half-brother, Fennan Radd.<ref>''Silver Surfer'' vol. 3, #50, 56, 104</ref> Zenn-La's ancient and significantly advanced civilization has lost the will to strive or explore, leaving the young scholar Norrin Radd restless and yearning for adventure. Facing the destruction of his world by planet-consuming [[Galactus]], Radd bargains with the cosmic being. In return for the safety of Zenn-La and his lover, [[Shalla-Bal]], Radd pledges to seek out planets for the world devourer to consume as his [[Herald of Galactus|herald]]. Galactus imbues him with a portion of the [[Power Cosmic]], transforming him into the Silver Surfer.<ref name="silversurfer1v1">''Silver Surfer #1'' (Aug. 1968)</ref><ref>''Fantastic Four Annual'' #5</ref>  Radd had intended to lead Galactus to uninhabited planets, but Galactus tampers with his soul to prevent this.<ref>''Silver Surfer'' vol. 3, #48</ref>
+
+Radd serves Galactus for an unspecified amount of time. Eventually, the Surfer summons his master to Earth. Here the Surfer meets the [[Fantastic Four]] and [[Alicia Masters]]. Touched by their nobility, he rebels against Galactus, who is eventually driven off. Before he leaves, he confines the Surfer to Earth with an invisible barrier that affects only him.<ref name="fantasticfour50">''Fantastic Four'' #48–50 (March–May 1966)</ref><ref>{{cite web |first=Brian |last=Cronin |url=http://goodcomics.comicbookresources.com/2010/02/19/a-year-of-cool-comics-day-50/ |title=A Year of Cool Comics – Day 50 |publisher=[[Comic Book Resources]] CSBG Archive |date=February 19, 2010|accessdate=September 29, 2010 }}</ref>
+
+During his exile, the Surfer fights numerous villains, including Doctor Doom, who wants his Power Cosmic, and [[Mephisto (comics)|Mephisto]], who wants his soul. The Surfer's only ally during these trials is a physicist by the name of Al B. Harper, who eventually sacrifices himself to save the world from the [[Stranger (comics)|Stranger]].<ref name="silversurfer5v1">''The Silver Surfer'' #5 (April 1969)</ref>
+
+Banding together with the [[Hulk (comics)|Hulk]] and [[Namor|Namor the Sub-Mariner]] during these wanderings, the Surfer forms the "Titans Three", a group dedicated to battling evil on Earth.<ref name="submariner34">''Sub-Mariner'' #34–35 (Feb.-March 1971)</ref> Soon, [[Doctor Strange]] joins the group and it becomes "The [[Defenders (comics)|Defenders]]." Surfer stays with them for a while, but his overwhelming desire to be free of Earth and his frequent collisions with Galactus' energy-draining barrier eventually drives him to leave the group.
+
+The Surfer finally pierces Galactus' barrier with the aid of [[Mister Fantastic|Reed Richards]] and temporarily escapes Earth. He discovers, though, that his homeworld has been ravaged by Galactus and Shalla-Bal has been abducted by Mephisto and taken to Earth. Even though it means trapping himself once more, the Surfer returns to Earth to battle and defeat Mephisto. Before being vanquished, Mephisto sends Shalla-Bal back to Zenn-La, but the Surfer manages to endow her with a portion of his Power Cosmic, which she uses to revitalize the plant life of their ravaged homeworld.<ref name="silversurfer1v2">''The Silver Surfer'' vol. 2, #1 (June 1978)</ref>
+
+After the Surfer aids the Fantastic Four against Galactus' latest herald, [[Terrax]],<ref>''Fantastic Four'' #260 (November 1983)</ref> The Surfer eventually pierces Galactus' barrier by acting on a suggestion of trying to pass through on a spaceship instead of via his own power on his surfboard. He also makes peace with Galactus by rescuing current herald [[Nova (Frankie Raye)]] from the [[Skrull]]s. Galactus declares the Surfer's exile ended.<ref name="silversurfer1v3">''Silver Surfer'' vol. 3, #1 (July 1987)</ref> The Surfer immediately revisits his homeworld, but Shalla-Bal, in his absence, had become empress of the rejuvenated Zenn-La and is unable to renew their romance.<ref name="silversurfer2v3">''Silver Surfer'' vol. 3, #2 (Aug. 1987)</ref>
+
+Embroiled in fresh hostilities between the interstellar [[Kree]] and Skrull empires, the Surfer also intervenes in a series of plots by the [[Elders of the Universe]], who plan to become supremely powerful by destroying Galactus and the universe with him. The Surfer thwarts this plot with the aid of his new love interest, [[Mantis (Marvel Comics)|Mantis]], the Earth-born cosmic heroine also known as the "Celestial Madonna".<ref>''Silver Surfer'' vol. 3, #4 (Oct. 1987)</ref> She seems to die in the process, and although she eventually returns, she never fully renews their romance.<ref name="silversurfer9v3">''Silver Surfer'' vol. 3, #9 (March 1988)</ref> After this loss, a grief-stricken Surfer turns to Nova and romantic feelings begin to develop between them.<ref name="silversurfer14v3">''Silver Surfer'' vol. 3, #14 (Aug 1988)</ref> The Surfer's influence gradually leads Nova to question the morality of her role as herald to Galactus.<ref name="silversurfer51v3">''Silver Surfer'' vol. 3, #51 (July 1991)</ref> Eventually replaced by the far more ruthless [[Morg]], Nova dies in a conflict between the new herald and the Surfer and the other ex-heralds.<ref name="silversurfer75v3">''Silver Surfer'' vol. 3, #75 (Dec. 1992)</ref>
+
+The Surfer repeatedly battles space-born menaces, the chief of whom is Thanos, who attempts to kill half the life in the universe using the omnipotent [[Infinity Gems|Infinity Gauntlet]].<ref name="InfinityGauntlet1">''Infinity Gauntlet'' #1 (July 1991)</ref> Through Thanos, the Surfer learns how Galactus had altered his soul. He convinces Galactus to restore it,<ref>''Silver Surfer'' vol. 3, #48 (Feb. 1991)</ref> but once Galactus has done so, the Surfer is overcome with grief until he is able to forgive himself.<ref>''Silver Surfer'' vol. 3, #58 (Nov. 1991)</ref> The Surfer finds interstellar allies in [[Adam Warlock]]'s [[Infinity Watch]] and the "Star Masters" team, and he begins attending occasional Defenders reunions.
+
+The Surfer returns home to Zenn-La to find that the planet has vanished, and learns it was actually destroyed in the 1940s (Earth time) by the entity known as the Other. Zenn-La and its people which the Surfer repeatedly encountered since leaving Galactus' service were actually reproductions, created by Galactus so that the Surfer would have a home to return to.<ref name="silversurfer130v3">''Silver Surfer'' vol. 3, #130 (Aug. 1997)</ref>  Losing his capacity for emotion again, the Surfer returns to Earth. He later regains his personality during a time-travel adventure and sharing a romance with Alicia Masters.<ref name="silversurfer129v3">''Silver Surfer'' vol. 3, #129 (June 1997)</ref> The two ultimately part as friends after many adventures together.
+
+Silver Surfer temporarily bonds with and is controlled by the [[Carnage (comics)|Carnage]] [[symbiote (comics)|symbiote]], which is seeking revenge for the destruction of its homeworld.<ref name="ReferenceA">''The Amazing Spider-Man'' vol. 1 #431</ref>
+
+Later, the Surfer works with the alien [[Annunaki]] race to gather and protect some of Earth's most extraordinarily gifted children.<ref name="silversurfer1v4">''Silver Surfer'' vol. 4, #1 (March 2004)</ref> In the end, one of these children, Ellie Waters, saves Earth from the godlike [[Marduk]] entity, preventing the Apocalypse and reordering reality as if the Marduk crisis had never happened (though Ellie alone apparently retains her memories of these events).<ref name="silversurfer12v4">''Silver Surfer'' vol. 4, #12 (Oct. 2004)</ref> The Surfer resumes his interstellar wanderings, but promises to be ready to aid his adopted homeworld should Earth ever need him.
+
+During his travels, the Surfer is captured by a portal of the Sakaar Empire. Left weakened and vulnerable by his trip through the portal, the Surfer is subdued and implanted with an obedience disk to ensure he remains loyal to them. Fighting as a gladiator (and believed to be the fabled 'Sakaarson' due to his appearance), the Surfer is finally forced to face the Hulk along with his [[Warbound]]. Through teamwork and distraction, the Hulk is eventually able to destroy the Surfer's obedience disk. The Hulk and several other slaves and gladiators are freed when the Surfer uses the Power Cosmic to remove their own obedience disks and give them a way out of the arena, although the Hulk declines the Surfer's offer to take him back to Earth.<ref>[[Greg Pak]], ''The Incredible Hulk'' #95</ref>
+
+During the ''[[Annihilation (comics)|Annihilation]]'' war, the Silver Surfer again becomes Galactus' herald to help save the universe from the despot [[Annihilus]].<ref>''Annihilation: Silver Surfer'' #1–4 (June–Sept. 2006)</ref> Annihilus captures them<ref>''Annihilation'' #1 (Oct 2006)</ref> and gives them to [[Thanos]] for experimentation. [[Drax the Destroyer]] frees the Surfer, who in turn frees Galactus. An enraged Galactus destroys more than half the Annihilation Wave, and Annihilus is defeated.<ref>''[[Annihilation (comics)|Annihilation]]'' #6 (March 2007)</ref> Later, the Surfer is joined as herald by [[Stardust (Marvel Comics)|Stardust]], a former herald the Surfer had replaced.<ref>''Annihilation: Silver Surfer'' #4 (Sept. 2006)</ref><ref>''Annihilation: Heralds of Galactus'' #2 (Feb. 2007)</ref>
+
+The Surfer leads the world devourer to the populated planet Orbucen, which brings him into conflict with [[Nova (Richard Rider)|Richard Rider]]. He delays the planetary destruction to give the inhabitants more time to evacuate.<ref>''Nova'' vol. 4, #13–15</ref>
+
+The Silver Surfer returns to Sakaar in a plan to feed Galactus with the unique "Old Power" which he claims would sate his master's hunger for thousands of years, sparing many other inhabited worlds. He is opposed by the Hulk's son, [[Skaar (character)|Skaar]], and is enslaved by an obedience disc. The conflict is ended when Skaar's mother [[Caiera]] sacrifices her soul and Old Power as sustenance for Galactus.<ref>''Skaar: Son of Hulk'' #7–10</ref> Unfortunately, Galactus now seems addicted to the Old Power and has begun searching for other planets containing it to sate himself.<ref>''Son of Hulk'' #12–13</ref>
+
+After an encounter with the [[High Evolutionary]],<ref>''Silver Surfer'' vol. 6, #1–5 (Feb.–June 2011)</ref> the Silver Surfer and Galactus battled [[Thor (Marvel Comics)|Thor]] and the [[Asgardians (Marvel Universe)|Asgardians]]. The battle ended when the Silver Surfer chose to leave his post as herald and guard an [[Asgard (comics)|Asgardian]] artifact. Galactus "tethers" him to Asgard's location in [[Oklahoma]], resulting in his powers waning the further he travels from Asgard, and grants him the ability to return to human form.<ref>''The Mighty Thor'' #1–6 (May – Sept. 2011)</ref>
+
+During the [[Fear Itself (comics)|War with the Serpent]], Silver Surfer aids Doctor Strange, Namor, [[Loa (comics)|Loa]], and [[She-Hulk (Lyra)|Lyra]] in the liberation of New Atlantis from Attuma, who was transformed into Nerkodd: Breaker of Oceans.<ref>''Fear Itself: The Deep'' #1–4</ref>
+
+Silver Surfer and Dawn meet [[Glorian]] the Maker of Miracles, who plans to rebuild our universe for the heroes to return to after they finish in Battleworld. Glorian has also enlisted the help of the Shaper of Worlds.<ref>''Silver Surfer'' vol. 7, #13</ref> Glorian then greeted Silver Surfer and Dawn with a tantalizing offer: ally with the Shaper of Worlds to rebuild the universe that was lost. Dawn agreed to use her memories to restore Earth while Silver Surfer left to restore the rest of the universe, but Silver Surfer unmade Galactus while Dawn unknowingly created another version of Norrin. The Shaper of Worlds is not happy with the changes.<ref>''Silver Surfer'' Vol. 7 #14</ref>
+
+==Powers and abilities==
+The Silver Surfer wields the [[Power Cosmic]], granting him superhuman strength, endurance, and senses and the ability to absorb and manipulate the universe's ambient energy. The Surfer can navigate through interstellar space<ref name="silversurfernovacorpsfiles">''Annihilation: The Nova Corps Files'' #1 (Oct. 2006)</ref> and hyperspace, which he can enter after exceeding the speed of light.<ref>''Silver Surfer'' #6, vol. 1; ''Silver Surfer Annual'' #2, vol. 2</ref>  He has proven capable of time travel on several occasions and can transport other people through time.<ref name="silversurferv106">''The Silver Surfer''  #6 (June 1969)</ref>
+
+The Surfer sustains himself by converting matter into energy; he does not require food, water, air, or sleep, but occasionally enters a sleep-like meditation to dream. He can survive in nearly any known natural environment, including deep space, hyperspace, and [[black hole]]s<ref>''Galactus the Devourer'' #1–6</ref> and [[Star#Structure|stars]].<ref>''Silver Surfer'' vol. 3 #37 (May 1990)</ref> The Surfer can project energy in various forms for offensive and defensive use, including force fields, bolts of cosmic force powerful enough to destroy entire planets,<ref name="ASS4"/><ref>''Silver Surfer Annual'' #7 (1994)</ref> and create black holes.<ref name="ASS4">''Annihilation: Silver Surfer'' #4 (July 2006)</ref> He can utilize the Power Cosmic to augment his superhuman strength to indeterminate levels.<ref>''Fantastic Four'' #55 (Oct. 1966)</ref> The Surfer can heal living organisms, though he cannot raise the dead,<ref name="silversurfernovacorpsfiles" /> and he has proven capable of revitalizing and evolving organic life on a planet-wide scale.<ref>''Silver Surfer'' vol. 3 #104 (May 1995)</ref> He can cast illusions,<ref name="silversurfer33v3">''Silver Surfer'' vol. 3, #33 (Jan. 1990)</ref> create interdimensional portals to other locations including microverses,<ref name="silversurfer33v3" /> manipulate and phase through solid matter,<ref name="silversurfernovacorpsfiles" /> and exercise some level of control over the [[astral plane]].<ref name="In Thy Name">''Silver Surfer: In Thy Name'' #4</ref>
+
+His senses enable him to detect objects and concentrations of energy light years away and to perceive matter and energy in subatomic detail, including life energies of living beings.<ref name="Marvel Encyclopedia">''The Marvel Encyclopedia'' (Marvel Comics, 2002)</ref> The Surfer can even see through time, and can achieve limited perception of past and future events in his general vicinity with concentration.<ref name="Fantastic Four #260">''Fantastic Four'' #260</ref> He has demonstrated telepathic ability, including mind-reading,<ref>''Tales to Astonish'' #93 (Jul. 1967)</ref> and can influence human emotion and sensation.<ref name="silversurfernovacorpsfiles" />
+
+The Surfer's board is composed of a nearly impervious, cosmically powered silvery material similar to his own skin. The board is mentally linked to the Surfer and moves in response to his mental commands even when he is not in physical contact with it.<ref name="marvelencyclopedia">''The Marvel Encyclopedia'' #1 October 2002, Marvel Comics</ref> The board is nearly indestructible, but on the rare occasions it has been damaged or destroyed, the Surfer can repair or recreate it with little effort.<ref name="silversurfer1v3" /> The Surfer can attack opponents by directing the board against them, and the board is capable of temporarily absorbing and imprisoning other beings.<ref name="silversurfer122v3">''Silver Surfer'' vol. 3, #122 (Nov. 1996)</ref>
+
+When Galactus exiled the Surfer to Earth, his means of imprisonment was linked to the board. When the Surfer and the [[Fantastic Four]] realized this, the Surfer put it to the test by leaving the board planet-side and entering space in the Four's spacecraft. Once he was free of Earth, the Surfer remotely converted the board to energy, recalled it to him, and reformed it in space.<ref name="silversurfer1v3" />
+
+The Surfer has displayed the ability to shed his silver skin and revert to his original appearance as Norrin Radd, masking the Power Cosmic and allowing him to be more inconspicuous when needed. In this state, he can properly eat, drink and sleep.<ref>''Silver Surfer'' vol. 7, #3 (Aug. 2014)</ref>
+
+==Other versions==
+
+===Ultimate Marvel===
+[[Warren Ellis]]' ''[[Ultimate Galactus Trilogy]]'' originally suggested that the [[Ultimates]]' ally the [[Vision (Marvel Comics)|Vision]] was the herald of Galactus, a robotic probe that travels through space warning civilizations of the impending arrival of [[Gah Lak Tus]]. In the final miniseries of the trilogy, ''[[Ultimate Extinction]]'', silvery humanoids began to appear, sent to trigger mass suicides in order to reduce the population's resistance. Suicide cults founded by the creatures began to appear all across the globe as Gah Lak Tus drew near. These silvery beings had the ability to grow wings; morph into an [[oval|ovoid]]; form spikes; or take an intermediary form, gliding on an oval surface. They also demonstrated the ability to manipulate large quantities of energy.
+
+In ''[[Ultimate Fantastic Four]]'' #42, another Ultimate incarnation of the Silver Surfer appears, called the '''Silver Searcher'''. He is teleported to Earth after Reed mistakes him for a star that he is trying to harness. His appearance triggers planet-wide chaos and natural calamities. In #43, [[Ultimate Mister Fantastic|Reed]] comments that Gah Lak Tus seems to have modeled its drones on this surfer, and he gives his name as Norin Radd. The Searcher states that he will summon his "master", who will make the population of the Earth happier than they have ever been.<ref name="ultimateff43">''Ultimate Fantastic Four'' #43 (May 2007)</ref>
+
+In #44, the Surfer's master is revealed to be Zenn-La's ruler, Revka Temerlune Edifex Scyros III, "the king without enemies", who uses mind-control to make the population of Earth worship him (before it takes effect on the Fantastic Four, the [[Human Torch]] calls him "[[Psycho-Man]]"). It is revealed that the Surfer has been exiled from Zenn-La for destroying the control that Psycho-Man had over Zenn-La, but because of finding Earth for his master to "save" he may return. After Psycho-Man gains domain over Earth, the Silver Surfer, temporarily imprisoned in his own 'memorial' statue, rescues Mr. Fantastic, tells him his story, and asks him to save Earth. The Surfer then helps the Fantastic Four defeat other Surfer-like assassins of Psycho-Man. With the Surfers beaten and the insane Psycho-Man reprogrammed to experience the unthinking happiness he had imposed on others, Silver Surfer wanders the space ways.
+
+In ''[[Ultimate X-Men]]'', [[Jean Grey#Ultimate Jean Grey/Marvel Girl|Jean Grey]] as [[Phoenix God|Phoenix]] travels through space and is stopped by what is named as "A Silver Surfer". He informs Phoenix that the [[Watcher (comics)|Watchers]] disapprove of the problems her flight across the universe is causing and briefly battles her before asking what she is looking for.<ref>''Ultimate X-Men'' #96 (July 2008)</ref>
+
+===Exiles===
+On Earth 552, Norrin Radd had been a great military scientist who accidentally destroyed his own world with his greatest invention. Determined to bring it back to existence, he approached [[Galactus#Exiles|Galactus]], Restorer of Worlds, and became his herald in the hope that Galactus would resurrect his world in exchange for his service. However, Galactus had taken an oath to only revive those worlds destroyed by the Blight. An enraged Silver Surfer then turned against his master, destroying those who worshiped him and attempting to kill Galactus himself in order to steal the knowledge of world restoration. This led to the destruction of Earth, the coming of the [[Exiles (Marvel Comics)|Exiles]], the deaths of the [[Shi'ar]] [[Imperial Guard (comics)|Imperial Elite Guard]], and inevitably the Surfer's own destruction at the claws of a cosmically empowered [[Sabretooth (comics)|Sabretooth]].<ref name="exiles87">{{cite web
+  | author = marvel.com
+  
+  | title = The Marvel catalog for Exiles #87
+  | url=http://www.marvel.com/catalog/?book_id=5244
+  | accessdate = 2007-05-10 }}</ref><ref name="exiles88">{{cite web
+  | author = marvel.com
+  
+  | title = The Marvel catalog for Exiles #88
+  | url=http://www.marvel.com/catalog/?book_id=5546
+  | accessdate = 2007-05-10 }}</ref>
+
+===Marvel Zombies===
+The Silver Surfer remains uninfected in the ''[[Marvel Zombies]]'' on [[Multiverse (Marvel Comics)|Earth-2149]]. Instead of coming to Earth and meeting the Fantastic Four, he is attacked by a horde of zombies.  After fighting valiantly, he is killed by the [[Alternative versions of the Hulk#Marvel Zombies|Hulk]], and his body is devoured by a few of the zombies (Hulk, [[Colonel America]], [[Henry Pym|Giant-Man]], [[Iron Man]], [[Luke Cage]], [[Alternative versions of Wolverine#Marvel Zombies|Wolverine]], and [[Alternative versions of Spider-Man#Marvel Zombies|Spider-Man]]). His corpse grants the zombies a portion each of his cosmic powers, which they use to kill all of the other zombie heroes and villains whom they consider "competition" for what's left of the living. Afterwards, Pym creates a machine that concentrates the Cosmic powers they all share to create a massive blast that kills [[Galactus#Marvel Zombies|Galactus]], at which point they eat him. Now imbued with the power of Galactus himself (and realizing they can now fly and survive in space), they adopt his role, traveling the universe and picking worlds clean of life.<ref name="marvelzombies5">''Marvel Zombies'' #5'' (April 2006)</ref>
+
+===MC2===
+During the finale of ''[[Last Planet Standing]]'', the Silver Surfer foils Galactus' plan to create a new Big Bang, merging with Galactus himself in the process to become a new being. Gaining control of Galactus' powers, the new entity undoes the damage done by the old Galactus.<ref name="lastplanetstanding5">''Last Planet Standing'' #5 (July 2006)</ref>
+
+===The Keeper===
+In the [[alternate history|alternate timeline]] of Earth-691, notably the [[Guardians of the Galaxy (1969 team)|Guardians of the Galaxy]] issues #24 and #25 story arc, Norrin Radd was featured as The Keeper. This new version of the Silver Surfer, sans his surfboard, had [[Quantum bands|Quantum Bands]], which augmented his "Power Cosmic" and designated him as the Protector of the Universe, as with other bearers of the Bands before him. He works with the Guardians in an attempt to kill Galactus once and for all, his first attempt with [[Firelord (comics)|Firelord]] and Dargo-Thor having failed. Eventually, the Keeper realizes that, with his augmented power, he can supply Galactus with the energy he needs and end the Planet-Eater's consumption of worlds. [[Eon (comics)|Eon]], cosmic being and creator of the Quantum Bands, reveals that this was the ultimate purpose of the Keeper becoming the Protector of the Universe, and he enters into a symbiotic partnership with Galactus, who accepts the Keeper as an equal; he is last seen leaving with Galactus, riding a silver surfboard once more.
+
+===Earth X===
+In issue 11 and 12 of the ''[[Earth X]]'' series, [[Black Bolt]] calls upon [[Galactus#Earth X|Galactus]] to come destroy the [[Celestial (comics)|Celestial]] seed growing within Earth.  The Silver Surfer accompanies him along with his love Shalla-Bal, who had now been turned into a silver herald of Galactus as well.
+
+===Green Lantern/Silver Surfer: Unholy Alliances===
+In ''Green Lantern/Silver Surfer: Unholy Alliances'', the Silver Surfer confronts [[Hank Henshaw|Cyborg Superman]] over the destruction of a planet and is met by [[Parallax (comics)|Parallax]]. Parallax beats the Cyborg, but the Silver Surfer lets him go and tries to sympathize with Parallax. The two return to Earth to find [[Kyle Rayner]] with Thanos, leading them to believe they formed an alliance when in reality Thanos tricked Kyle. Kyle convinces the Surfer to help him stop Parallax and Thanos from destroying the universe and that he was duped into giving Thanos Oa's power. The Surfer similarly gave most of his power to Parallax to reform the destroyed planet, forcing Kyle to use his ring to drain both villains of their enhanced powers before they can destroy everything. Unable to contain the power himself, Kyle channels the power from the two villains into the Silver Surfer, who opens a portal and sucks the two inside.<ref>''Green Lantern/Silver Surfer: Unholy Alliances'' one-shot</ref>
+
+===What If?===
+Silver Surfer was featured in different issues of ''[[What If (comics)|What If?]]''
+
+*One issue of ''What If?'' revolving around ''[[Atlantis Attacks]]'' had Silver Surfer and Quasar as the survivors of an attack by [[Father Set|Set]]. With the help of Thor (who is horribly burned and placed in stasis to keep him alive), Silver Surfer and Quasar destroy two of Set's heads before Quasar (empowered by the Uni-Power) sacrifices his freedom to exile himself and Set inside Doctor Strange's Eye of Agamotto. Silver Surfer gives the Eye of Agamotto to Uatu the Watcher for safekeeping as Set's children are born.<ref>''What If?'' vol. 2 #25</ref>
+*Another issue of ''What If?'' revolved around the Cosmic Carnage where the Carnage symbiote remained bonded to the Surfer, forcing Spider-Man and the [[Avengers (comics)|Avengers]] to battle him until [[Firestar (Marvel Comics)|Firestar]] was able to use her powers to disrupt the symbiote's control over the Surfer. After his powers were used to destroy dozens of New York City blocks and realizing that there was only one way to stop the symbiote, the Silver Surfer flew himself into the sun, seemingly destroying both himself and the creature.<ref>''What If?'' vol. 2 #108</ref>
+*In ''What If?'' vol. 2 #49, the title is "What If the Silver Surfer Possessed the Infinity Gauntlet?" In the original [[The Infinity Gauntlet|Infinity Gauntlet]] story arc, the Silver Surfer plays the role of messenger, having witnessed firsthand the resurrection of [[Thanos]] and the beginning of his quest to obtain the six [[Infinity Gems]] (as told in ''[[The Thanos Quest]]'' mini-series). In this issue, the story of the Gauntlet is partially retold and shows Thanos in space with the Gauntlet, ruling over all existence. In the original Infinity Gauntlet story, [[Nebula (comics)|Nebula]] intercepts the gauntlet from Thanos; however, in ''What If?'' vol. 2 #49, the Surfer takes the gauntlet and wears it himself. Initially, the Surfer tries to use the gauntlet for good, but ultimately the supreme power of the gauntlet forces the Surfer to destroy it in order to avoid becoming corrupted by it. Prior to destroying the gauntlet, the Surfer creates a distant planet for himself and [[Shalla Bal]] (his wife) to reside on for all time and the Surfer returns to his human form of Norrin Radd. This story is told from the perspective of the [[Watcher (comics)|Watcher]] who continually observes the universe and refuses to interfere in the natural unfolding of things.
+
+===Ruins===
+In [[Warren Ellis]]'s ''[[Ruins (comics)|Ruins]]'', the Silver Surfer is briefly seen when described by [[Captain Marvel (Mar-Vell)|Mar-Vell]] to reporter [[Marvels|Phil Sheldon]]. When the Kree Liberation Force set forth to invade Earth, they found the floating mutilated corpse of the Surfer near Earth's moon. Mar-Vell says that he and his comrades concluded that the Surfer had been driven mad because of his lack of need for oxygen and clawed open his chest in order to expose his lungs to the atmosphere, but died of shock.<ref>''Ruins'' #2 (September 1995)</ref><ref>http://media.comicvine.com/uploads/2/27967/709127-ruins1_super.jpg{{dead link|date=January 2018 |bot=InternetArchiveBot |fix-attempted=yes }}</ref>
+
+==In other media==
+
+===Television===
+[[File:surfertoon.jpg|thumb|upright|The Silver Surfer from the animated series ''[[Silver Surfer (TV series)|Silver Surfer]]''.]]
+*The Surfer's first animated appearance was in [[Hanna-Barbera]]'s ''[[Fantastic Four (1967 TV series)|Fantastic Four]]'' animated series (which closely followed the [[Marvel Comics|Marvel]] comic story), voiced by [[Vic Perrin]].<ref name="1967cog">{{cite web
+  | title = Galactus episode of the 1967 Fantastic Four animated series (Silver Surfer's first animated appearance)
+  | url=http://marvel.toonzone.net/ff1967/episode/galactus/
+  | accessdate = 2007-07-05 }}</ref>
+
+*He also made several appearances in the [[Fantastic Four (1994 TV series)|1994 version]] of the animated series (that was part of ''[[The Marvel Action Hour]]''), voiced by [[Robin Sachs]] in the first season, then [[Edward Albert]] in the last episode of the second. This series stayed true to the original comic book story, recounting Surfer and Galactus' coming to Earth in a two-part episode as well as Doctor Doom's theft of the Surfer's powers.<ref name="1994cog">{{cite web
+ |title       = Coming of Galactus episode on the 1994 Fantastic animated series
+ |url         = http://drg4.wariocompany.com/eFF5.html
+ |accessdate  = 2007-03-05
+ |deadurl     = yes
+ |archiveurl  = https://web.archive.org/web/20120511193758/http://drg4.wariocompany.com/eFF5.html
+ |archivedate = 2012-05-11
+ |df          = 
+}}</ref><ref name="1994rog">{{cite web
+ |title       = Return of Galactus episode on the 1994 Fantastic Four animated series
+ |url         = http://drg4.wariocompany.com/eFF13.html
+ |accessdate  = 2007-03-05
+ |deadurl     = yes
+ |archiveurl  = https://web.archive.org/web/20070927213518/http://drg4.wariocompany.com/eFF13.html
+ |archivedate = 2007-09-27
+ |df          = 
+}}</ref>
+
+*In 1998, the Surfer starred in a [[Silver Surfer (TV series)|solo animated series]] on [[Fox Broadcasting Company|Fox]], voiced by Paul Essiembre.<ref name="ssscripts">{{cite web
+  | title = Internet Movie Database (fan site)
+  | url=https://www.imdb.com/title/tt0203268/
+  | accessdate = 2011-10-31 }}</ref> Blending [[cel-shaded animation|cel]] and [[computer animation]], this series was rendered in the style of Surfer creator [[Jack Kirby]]. Further adventures included appearances by many characters from Marvel's "cosmic" stable, including [[Thanos]], [[Uatu]] the [[Watcher (comics)|Watcher]], [[Ego the Living Planet]], [[Mentor (A'lars)|Mentor]], [[Drax the Destroyer]], [[Pip the Troll]], [[Nebula (comics)|Nebula]], and the [[Kree]] and [[Skrull]] empires. Despite solid ratings, it was canceled after one season of 13 episodes due to Marvel Comics' bankruptcy at the time.{{citation needed|date=March 2014}}
+
+*The Silver Surfer comic book also appeared in [[Landslide (Heroes)|an episode]] of ''[[Heroes (U.S. TV series)|Heroes]]'' [[Heroes (season 1)|Season 1]].<ref name="sscripts">{{cite web
+  | title = Silver-Surfer.US
+  | url=http://www.silver-surfer.us/Animation/Scripts/Scripts.html
+  | accessdate = 2007-03-05 }}</ref>
+
+*Silver Surfer appears in ''[[The Super Hero Squad Show]]'', voiced by [[Mikey Kelley]].<ref>{{cite web|url=http://www.comicscontinuum.com/stories/0907/28/voices.htm |title=Comics Continuum |publisher=Comics Continuum |date=2009-07-28 |accessdate=2010-12-26}}</ref> This version of him has a literal "surfer dude" accent, and is initially much more kid friendly, although later episodes place him under the influence of the Infinity Gems and Sword and he develops a Dark Surfer persona. This persona takes control of the Surfer in the second half of Season 2. As the Dark Surfer, he steals the [[Infinity Gauntlet]] from the first half's main villain, Thanos, seals him up in the Soul Gem, and combines its power with that of the first season's powerful item of focus, the Infinity Sword. Then he uses the power of both items to destroy two-thirds of the universe, separate the members of the squad across the multiverse, and send Earth farther away from the Sun, so the planet could freeze to death. Once the squad reunites, they make it their goal to stop the Dark Surfer. In the final episode, his Dark Surfer persona is destroyed and he is purified when his powerful items are shattered into numerous Infinity Fractals and spread across the universe, all while repairing the damage the Dark Surfer caused. Back to normal, the Silver Surfer apologizes for his behavior as the Dark Surfer and he promises to rejoin the squad, after he pays his debt.
+*Silver Surfer appears in the ''[[Hulk and the Agents of S.M.A.S.H.]]'' episode "Fear Itself", voiced by [[Brent Spiner]].{{citation needed|date=October 2014}} There is a reference by Hulk that Silver Surfer is an old friend of his. The Agents of S.M.A.S.H. encounter Silver Surfer where he is fighting [[Null (comics)|Null]] and is accidentally knocked out by the Agents of S.M.A.S.H. When Silver Surfer regains consciousness, he helps the Agents of S.M.A.S.H. fight the Null. After Null is defeated, Silver Surfer closes the wormhole to Earth from the other side where he vows to the Agents of S.M.A.S.H. that he will tell all of Earth about their heroics against Null.
+
+[[File:First Look Fall 93 program.jpg|thumb|right|156px|Page with cast and crew of the Silver Surfer short (1993).]]
+===Film===
+[[File:Silver Surfer in Fantastic Four 2.jpg|thumb|left|156px|[[Doug Jones (actor)|Doug Jones]] as Norrin Radd in ''[[Fantastic Four: Rise of the Silver Surfer]]'' (2007).]]
+{{Main|Fantastic Four: Rise of the Silver Surfer}}
+*In the 1983 film ''[[Breathless (1983 film)|Breathless]]'', Jesse Lujack ([[Richard Gere]]) is a drifter in Las Vegas, obsessed with the Silver Surfer, the rock and roll music of [[Jerry Lee Lewis]] and Monica Poiccard ([[Valérie Kaprisky]]), a UCLA architecture undergraduate whom he knows only from a weekend fling in Vegas. The Silver Surfer was the primary inspiration for Lujack's strong sense of love, loyalty, identity, free-spirit, and self-determinism at all costs, even to the point of self-destruction.
+*In 1989, [[Erik Fleming (director)|Erik Fleming]], then a film student from the [[USC School of Cinematic Arts]], and [[Rob Letterman|Robert Letterman]] approached [[Marvel Studios]] and [[Constantin Film]]'s producer [[Bernd Eichinger]] to ask permission to make a short film featuring the Silver Surfer, as a proof of concept for the use of CGI in creating a realistic silver coloured human figure.<ref name="Silver Surfer short">{{cite web |url=https://www.cbr.com/saga-of-the-silver-surfer-film-making-of-the-silver-surfer/|title=Saga of the Silver Surfer (Film): Making of "The Silver Surfer|author=Beau Yarbrough|date=15 March 2000 |work= |publisher=Comic Book Resources |accessdate=1 March 2011}}</ref> Supervised by [[Steven Robiner]], this 5-minute short film, completed in 1991, not long after the release of ''[[Terminator 2: Judgment Day]]'', that featured a similarly rendered character, and premiered at First Look USC Film Festival on September 21, 1993,<ref>{{cite news|author=David Kilmer|url=https://pronountrouble2.wordpress.com/2010/05/25/shadows-on-the-wall/|title=Shadows on the Wall|work=AN EMPIRE OF ONE|date=2010-05-25|accessdate=2018-05-25}}</ref> led to significant interest from major studios in a feature length Silver Surfer project. [[Andrew Kevin Walker]] wrote a script for [[20th Century Fox]] in 2000, but nothing ever came of it.<ref>{{cite news|author=Michael Fleming|url=https://variety.com/2000/film/news/marvel-s-daredevil-on-pic-trail-1117783612/|title=Marvel’s Daredevil on pic trail|work=Variety|date=2000-07-12|accessdate=2014-10-10}}</ref>
+*The Silver Surfer made his film debut in [[20th Century Fox]]'s ''[[Fantastic Four: Rise of the Silver Surfer]],'' the sequel to the 2005 film ''[[Fantastic Four (2005 film)|Fantastic Four]].'' [[Doug Jones (actor)|Doug Jones]] played the Surfer on set, and a computer simulation enhanced the reflective look of his prosthetics.<ref>{{cite news | author = Thomas J. McLean  | title = Fantastic 4: Weta Gives Rise to the Silver Surfer | publisher = VFXWorld | date = 2007-06-21 | url = http://www.vfxworld.com/?atype=articles&id=3325&page=1 | accessdate=2007-06-27}}</ref> [[Laurence Fishburne]] provided the character's voice.<ref>{{cite news|author=Pamela McClintock |title=Fishburne voices Surfer |publisher=[[Variety (magazine)|Variety]] |date=2007-04-18 |url=http://www.variety.com/article/VR1117963368.html?categoryid=13&cs=1 |accessdate=2007-04-19}}</ref> The same year, 20th Century Fox hired [[J. Michael Straczynski]] to write the screenplay for a [[Fantastic Four 3|spin-off film]]. Straczynski said his script is a sequel, but will also delve into the Surfer's origins.<ref>{{cite news | author = Chris Carle | title = SDCC 07: JMS Sheds Light on Silver Surfer Movie | publisher = IGN | date = 2007-07-27 | url = http://movies.ign.com/articles/808/808908p1.html | accessdate=2007-10-07}}</ref> In mid-2009, Straczynski expressed doubts that spin-off would be produced.<ref>{{cite web |url=http://www.beyondhollywood.com/straczynski-talks-silver-surfer-it-probably-aint-gonna-happen/ |title=Straczynski Talks Silver Surfer: It Probably Ain't Gonna Happen &#124; BeyondHollywood.com &#124; Asian, Foreign, Horror, and Genre Movie Reviews and News |publisher=BeyondHollywood.com |date= |accessdate=2009-08-30 |archive-url=https://web.archive.org/web/20090831022808/http://www.beyondhollywood.com/straczynski-talks-silver-surfer-it-probably-aint-gonna-happen/# |archive-date=2009-08-31 |dead-url=yes |df= }}</ref> In this continuity, the Surfer's origins and powers are similar to those of his comic-book incarnation, in that he agrees to become [[Galactus]]' herald in return for the safety of his home world and the woman he loved. Also, if the Surfer is separated from his board, he becomes weaker; in addition, the board also serves as a beacon for Galactus.
+
+*In February 2018, [[20th Century Fox]] announced that a [[Silver Surfer]] solo film is in development with writer [[Brian K. Vaughan]] writing the script.<ref>Whitbrook, James (February 27, 2018), "[https://io9.gizmodo.com/report-sagas-brian-k-vaughan-is-writing-a-silver-sur-1823356929 Report: Saga's Brian K. Vaughan Is Writing a Silver Surfer Movie for Fox]," [[io9]]. Retrieved December 3, 2018</ref>
+
+===Video games===
+*The ''[[Silver Surfer (video game)|Silver Surfer]]'' video game, developed by [[Software Creations (UK)|Software Creations]], Ltd., debuted on the [[Nintendo Entertainment System]] in 1990. The game is notorious for its unforgiving and extremely steep difficulty.<ref name="ssvg">{{cite web
+  | author = mobygames.com
+  | title = Silver Surfer for Nintendo Entertainment System
+  | url=http://www.mobygames.com/game/silver-surfer/
+  | accessdate = 2007-03-05 }}</ref>
+*The Surfer has also appeared in other video games, often cast as a villain. For example, ''[[Marvel Super Heroes: War of the Gems]]'' for the [[Super Nintendo Entertainment System|SNES]] features evil clones of the Silver Surfer as enemies.
+*The Silver Surfer is a bonus character in the game ''[[Marvel: Ultimate Alliance]]'', voiced by Chris Cox. He can be unlocked by completing all of the simulation disks. He also appears briefly as a [[non-player character|non-player ally]] during the player's visit to the unnamed [[Skrull]] homeworld and helps them fight Galactus.
+*The Surfer appeared in the [[Fantastic Four: Rise of the Silver Surfer (video game)|video game adaptation]] of the movie ''[[Fantastic Four: Rise of the Silver Surfer]]'', voiced by [[Brian Bloom]], developed by [[Visual Concepts]] of 2K Sports. It was released in June 2007 to coincide with the film's release to dismal reviews.<ref name="ff4rotssvgame">{{cite web
+  | author = IGN
+  | author-link = IGN
+  | title = Preview of the Fantastic Four: Rise of the Silver Surfer video game
+  | url=http://wii.ign.com/articles/767/767697p1.html
+  | accessdate = 2007-04-20 }}</ref>
+
+*The Silver Surfer appears in three games based on the ''[[Marvel Super Hero Squad]]'' animated series:
+**He is also a playable character in ''[[Marvel Super Hero Squad (video game)|Marvel Super Hero Squad: The Video Game]]'' voiced by [[Mikey Kelley]].<ref>{{cite web |url=http://marvel.com/news/vgstories.9606.Super_Hero_Squad_Spotlight~colon~_Silver_Surfer |title=Marvel Super Hero Squad Video Game Spotlight: Silver Surfer |publisher=Marvel.com |date=2009-10-14 |accessdate=2010-12-26 |archive-url=https://web.archive.org/web/20100907042302/http://marvel.com/news/vgstories.9606.super_hero_squad_spotlight~colon~_silver_surfer# |archive-date=2010-09-07 |dead-url=yes |df= }}</ref>
+**Mikey Kelley reprises his role of the Silver Surfer, who is a non-playable character and final boss in ''[[Marvel Super Hero Squad: The Infinity Gauntlet]]''. He is shown in the possession of the Infinity Sword while guiding Galactus to uninhabited planets when he hears about the Infinity Gems.
+**The Silver Surfer is a playable character in ''[[Marvel Super Hero Squad Online]]'', voiced again by Mikey Kelley, appearing both as his standard self and his Dark Surfer alter-ego.
+*The Silver Surfer makes a cameo in ''[[Marvel vs. Capcom 3: Fate of Two Worlds]]'' in [[Zero (Mega Man)|Zero]]'s ending.<ref>[http://www.comicvine.com/silver-surfer/29-2502/all-images/108-199175/silver_surfer_and_zero___marvel_vs_capcom_3/105-1694301/ Silver Surfer and Zero – Marvel Vs Capcom 3] Comic Vine</ref>
+*The Silver Surfer appears as board artwork in the [[Pinball FX 2#Tables|Fantastic Four]] virtual pinball game for [[Pinball FX 2]] released by [[Zen Studios]].<ref>{{cite web |url=http://marvel.com/news/story/15748/download_the_marvel_pinball_fantastic_four_table |title=Fantastic Four Pinball |publisher=Marvel.com |date= |accessdate=2014-03-15 |archive-url=https://web.archive.org/web/20131017170331/http://marvel.com/news/story/15748/download_the_marvel_pinball_fantastic_four_table# |archive-date=2013-10-17 |dead-url=yes |df= }}</ref>
+*Silver Surfer appears in ''[[Lego Marvel Super Heroes]]'', voiced by [[James Arnold Taylor]]. When looking for a planet to feed Galactus, Silver Surfer arrives on Earth where he is pursued by Iron Man and S.H.I.E.L.D. until he is knocked out of the sky by Doctor Doom with his surfboard shattering into several "Cosmic Bricks" that fall onto the Earth. Silver Surfer ends up rescued by the Fantastic Four and [[Ultimate Nick Fury|Nick Fury]], and recuperating on the S.H.I.E.L.D. Helicarrier, while S.H.I.E.L.D. and the heroes look for the Cosmic Bricks to put his surfboard back together. He later reveals that he overheard Loki's plan to use the Cosmic Bricks for his own nefarious scheme. With all the Cosmic Bricks collected and reassembled back into his surfboard after Galactus and Loki are teleported to an unknown area, Silver Surfer thanks the heroes for defeating Galactus and departs on his surfboard into deep space promising to lead Galactus away from Earth.
+*The Silver Surfer is a playable character in Gazillion's free-to-play ''[[Marvel Heroes (video game)|Marvel Heroes]]''. However, due to legal reasons regarding his connection to the Fantastic Four comics, he was removed from the game on July 1, 2017.<ref>[http://comicbook.com/gaming/2017/06/28/the-fantastic-four-characters-are-being-removed-from-marvel-hero/ The Fantastic Four Characters Are Being Removed From Marvel Heroes]</ref>
+
+===Books===
+In addition to his history of publication in comic books, the Silver Surfer has appeared or starred in several prose fiction books:
+
+*The Surfer was the subject of an anthology of short prose fiction stories titled ''The Ultimate Silver Surfer'', edited by Stan Lee and published by Berkley (October 1997, softcover, 306 pages, {{ISBN|978-1-57297-299-5}}).  This book (and others starring Spider-Man and the X-Men, with similar titles) pre-dated Marvel's use of the "Ultimate" brand name in comics.
+*The Surfer appeared again in prose fiction in ''Fantastic Four: Redemption of the Silver Surfer'' by Michael Jan Friedman in 1998, also published by Berkley (April 1998, softcover, 260 pages, {{ISBN|978-0-425-16489-1}}).
+*The Silver Surfer's first film appearance was adapted into a novel in ''Fantastic 4: Rise of the Silver Surfer'' by writer Daniel Joseph, published by Pocket Star (April 2007, softcover, 272 pages, {{ISBN|978-1-4165-4809-6}}).
+
+===Stamps===
+The [[United States Postal Service]] in November 2007, released a series of $0.41 stamps honoring Marvel comics. One stamp shows the Silver Surfer on his board, and another features the cover of the first issue of the 1968 series.<ref>[https://store.usps.com/store/browse/productDetailSingleSku.jsp?productId=S_461474 Marvel Stamp Kit] {{webarchive|url=https://web.archive.org/web/20150412031923/https://store.usps.com/store/browse/productDetailSingleSku.jsp?productId=S_461474 |date=2015-04-12 }}, USPS.com (accessed October 7, 2014)</ref>
+
+===Music===
+The Silver Surfer is referenced in the [[T. Rex (band)|Marc Bolan and T. Rex]] song "[[Teenage Dream (T. Rex song)|Teenage Dream]]", a 1974 single from the album ''[[Zinc Alloy and the Hidden Riders of Tomorrow]]''.<ref>https://faroutmagazine.co.uk/remembering-when-t-rex-frontman-marc-bolan-interviewed-stan-lee-1975/</ref> 
+
+The Silver Surfer appears on the cover of the [[Joe Satriani]] album ''[[Surfing with the Alien]]''. Satriani was actually unfamiliar with the character at the time; the album's production manager suggested the character's usage.<ref>{{cite news |last1=Doyle |first1=Pippa |title=THE STORY BEHIND 'SURFING WITH THE ALIEN' ALBUM ART IS NUTS |url=http://www.96fm.com.au/shows/paul-lise/the-story-behind-the-iconic-surfing-with-the-alien-album-art-is-nuts |accessdate=9 January 2019 |work=96fm.com.au |date=21 August 2018}}</ref><ref>{{cite news |title="Surfing With The Alien": The story of a non-surf related masterpiece |url=https://www.surfertoday.com/surfing/14036-surfing-with-the-alien-the-story-of-a-non-surf-related-masterpiece |accessdate=9 January 2019 |work=Surfer Today |date=23 November 2017}}</ref> However, later compositions by Satriani were inspired by the Surfer mythos: "Back to Shalla-Bal", on ''[[Flying in a Blue Dream]]''; and "The Power Cosmic 2000", a two-part song on ''[[Engines of Creation (album)|Engines of Creation]]''.
+
+The British metal band [[Bal-Sagoth]] named their fourth album ''[[The Power Cosmic]]'', and dedicated one song to the Silver Surfer – "The Scourge of the Fourth Celestial Host".<ref>http://www.metal-archives.com/albums/Bal-Sagoth/The_Power_Cosmic/43</ref>
+
+==Merchandise==
+
+===Toys===
+The Silver Surfer has appeared in several Marvel-based action figure and toy lines, including one celebrating the 30th anniversary of the character's first appearance, and three based on the 1998 animated series.<ref>[http://www.silver-surfer.us/Collectables/Action_Figures/Act_Fig.html Silver Surfer Action Figures and Accessories], The Silver Surfer Home Page</ref>
+
+*The Silver Surfer is the seventh figurine in the Classic Marvel Figurine Collection.{{citation needed|date=August 2015}}
+*Hasbro released the Silver Surfer in its Marvel Universe toyline both individually and included with Marvel Masterworks Galactus. A "clear" variant was released with the "dark" variant of Galactus.{{citation needed|date=August 2015}}
+*Silver Surfer is a playable character in the "Avengers", "Critical Mass", "Supernova", and "Galactic Guardians" sets of Marvel [[HeroClix]].<ref>[http://heroclixworld.com/hcw/Articles.aspx?ID=371A More Galactic Guardian Heroclix Spoilers], Heroclixworld.com</ref>
+
+===Trading cards===
+The Silver Surfer starred in his own "all-prism" trading card series in 1993, released by Comics Images.<ref>[http://www.comiccollectorlive.com/Index/CoverTitle.aspx?id=0cea45ab-e996-4979-93f9-3eedc67b3e6b&pg=1 Silver Surfer: All-Prism (Base Set)], Comic Collector Live</ref>
+
+He has also appeared in many of Marvel's other trading card sets, notably each of the [[Marvel Universe Cards]], [[Marvel Masterpieces]], and [[Marvel Flair Cards]] trading card series as well as the [[Marvel Overpower]] trading card game.{{citation needed|date=August 2015}}
+
+==Reception==
+The Silver Surfer was ranked as the 47th greatest comic book character of all time by ''[[Wizard (magazine)|Wizard]]'' magazine.<ref>{{cite web|url=http://herochat.com/forum/index.php?topic=170859.0 |title=Wizard's top 200 characters. External link consists of a forum site summing up the top 200 characters of Wizard Magazine since the real site that contains the list is broken |publisher=[[Wizard (magazine)|''Wizard'' magazine]] |accessdate=May 23, 2011 |deadurl=yes |archiveurl=https://web.archive.org/web/20110608020121/http://herochat.com/forum/index.php?topic=170859.0 |archivedate=June 8, 2011 |df= }}</ref> [[IGN]] also ranked the Silver Surfer as the 41st greatest comic book hero quoting that "Silver Surfer has the coolest mode of transportation this side of [[Ghost Rider]], but his powers come with a heavy burden."<ref>{{cite web | url=http://www.ign.com/top/comic-book-heroes/41 | title=Silver Surfer is number 41 | publisher=IGN | accessdate=May 23, 2011}}</ref>
+
+The 2014 series was given a negative review by [[Newsarama]]'s Pierce Lydon, who cites Laura Allred's coloring as the issue's biggest flaw.<ref name="AR">Lydon, Pierce (March 25, 2014), "[http://www.newsarama.com/20670-best-shots-advance-reviews-ghost-rider-1-silver-surfer-1-iron-patriot-1-more.html Best Shots Advance Reviews]", Newsarama (accessed July 11, 2014)</ref> Iann Robinson, writing for [[CraveOnline]], said the issue misses the point of the Silver Surfer character altogether.<ref>Robinson, Iann (March 25, 2014), "[http://www.craveonline.com/comics/reviews/665773-advance-review-silver-surfer-1 Advance Review: Silver Surfer #1]", Crave Online (accessed July 11, 2014)</ref> ComicBooked writer Cal Cleary gave the issue a perfect score, citing deep characterization and intricate design,<ref>Cleary, Cal (March 26, 2014), "[http://www.comicbooked.com/silver-surfer-1-spoiler-free-review/ Silver Surfer #1 Spoiler-Free Review]" Comic Booked (accessed July 7, 2014)</ref> praise largely echoed by Comics Alliance's Matt D. Wilson.<ref>Wilson, Matt D. (March 26, 2014), "[http://comicsalliance.com/silver-surfer-1-marvel-comics-review/ Silver Surfer #1 Marvel Comics Review] {{webarchive|url=https://web.archive.org/web/20140327203940/http://comicsalliance.com/silver-surfer-1-marvel-comics-review/ |date=2014-03-27 }}" Comics Alliance (accessed July 11, 2014</ref>
+
+== Collected editions ==
+The character's various series have been collected into the following [[trade paperback (comics)|trade paperbacks]]:
+
+*''Silver Surfer [[Marvel Omnibus|Omnibus]]'' (collects ''Silver Surfer'' vol. 1 #1–18, ''Fantastic Four Annual'' #5 and ''[[Not Brand Echh]]'' #13, 576 pages, hardcover, Marvel Comics, June 2007, {{ISBN|0-7851-2753-4}})
+*''[[Marvel Masterworks]]: The Silver Surfer'' (Marvel Comics):
+**''Volume 1'' (collects ''Silver Surfer'' vol. 1 #1–6 and ''Fantastic Four Annual'' #5, 260 pages, June 1991, {{ISBN|978-0-7851-1187-0}})
+**''Volume 2'' (collects ''Silver Surfer'' #7–18, 272 pages, December 1991, {{ISBN|978-0-7851-1177-1}})
+*''[[Essential Marvel|Essential]] Silver Surfer'' (Marvel Comics):
+**''Volume 1'' (collects ''Silver Surfer'' vol. 1 #1–18 and ''Fantastic Four Annual'' #5, 528 pages, March 1998, {{ISBN|0-7851-2008-4}})
+**''Volume 2'' (collects ''Silver Surfer'' vol. 2 #1, ''Silver Surfer'' vol. 3 #1–18, ''Annual'' #1, and ''[[Marvel Fanfare]]'' #51, 600 pages, June 2007, {{ISBN|978-0-7851-2700-0}})
+*[[Marvel Ultimate Collection, Complete Epic and Epic Collection lines#Epic Collections|Epic Collection]]: Silver Surfer
+**''Volume 1: When Calls Galactus'' (collects ''Fantastic Four'' #48-50, #55, #57-60, #72, #74-77, and material from ''[[Tales to Astonish]]'' #92-93 and ''Fantastic Four'' #56, #61 and ''Annual'' #5, November 14, Marvel Comics, {{ISBN|978-0785190028}})
+**''Volume 3: Freedom'' (collects ''Silver Surfer'' (1982) #1, ''Silver Surfer'' (1987) #1–14, ''Super-Villain Classics'' #1; material from ''Epic Illustrated'' #1, ''Marvel Fanfare'' (1982) #51, November 2015, Marvel Comics, {{ISBN|978-0-7851-9903-8}})
+**''Volume 7: The Infinity Gauntlet''  (collects ''Silver Surfer'' (1987) #51-66, ''Annual'' #4; and material from ''Marvel Comics Presents'' #69, #93-97, May 2017, Marvel Comics, {{ISBN|978-1-3029-0711-2}})
+*''The Definitive Silver Surfer'' (collects ''Silver Surfer'' vol. 1 #1, ''Silver Surfer'' vol. 2 #1, ''Silver Surfer'' vol. 4 #1–2, ''Fantastic Four'' vol. 1 #48–50, ''Tales to Astonish'' #92–93 and ''[[Tomb of Dracula]]'' #50, 260 pages, August 2007, [[Panini Comics]], {{ISBN|1-905239-67-X}})
+*''Silver Surfer: Rebirth of [[Thanos]]'' (collects ''Silver Surfer'' vol. 3 #34–38, ''[[The Thanos Quest]]'' miniseries, and "The Final Flower!" from ''[[Logan's Run (comics)|Logan's Run]]'' #6, 224 pages, Marvel Comics, softcover, April 2006, {{ISBN|0-7851-2046-7}}, hardcover, August 2010, {{ISBN|0-7851-4478-1}})
+*''Silver Surfer: Parable'' (collects ''Silver Surfer'' vol. 4 #1–2, 72 pages, hardcover, December 1988, Marvel Comics, {{ISBN|0-87135-491-8}}, softcover, 1998, {{ISBN|0-7851-0656-1}})
+**''Silver Surfer: Parable'' (collects ''Silver Surfer'' vol. 4 #1–2 and ''Silver Surfer: The Enslavers'' graphic novel, 168 pages, Marvel Comics, hardcover, May 2012, {{ISBN|978-0-7851-6209-4}})
+*''Silver Surfer: Communion'' (collects ''Silver Surfer'' vol. 5 #1–6, 136 pages, June 2004, Marvel Comics, {{ISBN|0-7851-1319-3}})
+*''Silver Surfer: Requiem'' (collects ''Silver Surfer: Requiem'' #1–4, 104 pages, hardcover, December 2007, Marvel Comics, {{ISBN|978-0-7851-2848-9}}, softcover, July 2008, {{ISBN|978-0-7851-1796-4}})
+*''Silver Surfer: In Thy Name'' (collects ''Silver Surfer: In Thy Name'' #1–4, 96 pages, softcover, June 2008, Marvel Comics, {{ISBN|978-0-7851-2749-9}})
+*''Silver Surfer: Devolution'' (collects ''Silver Surfer'' vol. 6 #1–5, 200 pages, September 2011, Marvel Comics, {{ISBN|978-0-7851-5665-9}})
+
+*Silver Surfer Vol 1: New Dawn (collects ''Silver Surfer'' vol. 7 #1–5, 128 pages, November 2014, Marvel Comics, {{ISBN|978-0-7851-8878-0}})
+*Silver Surfer Vol 2: Worlds Apart (collects ''Silver Surfer'' vol. 7 #6–10, 120 pages, Jun 2015, Marvel Comics, {{ISBN|978-0-7851-8879-7}})
+*Silver Surfer Vol 3: Last Days (collects ''Silver Surfer'' vol. 7 #11–15, 120 pages, December 2015, Marvel Comics, {{ISBN|978-0-7851-9737-9}})
+*Silver Surfer Vol 4: Citizen of Earth (collects ''Silver Surfer'' vol. 8 #1–6, 144 pages, October 2016, Marvel Comics)
+*Silver Surfer Vol 5: A Power Greater Than Cosmis (collects ''Silver Surfer'' vol. 8 #7–14, 176 pages, November 2017, Marvel Comics)
+*Silver Surfer: Slott & Allred Omnibus (collects ''Silver Surfer''  vol 7. #1-15 & vol. 8 #1–15, 688 pages, December 2018, Marvel Comics, {{ISBN|978-1302913595}})
+
+==References==
+{{Citation style|section|date=March 2015}}
+{{Reflist|30em}}
+
+==External links==
+{{commons category}}
+{{Wikiquote}}
+*{{Marvelwiki}}
+*[https://www.comics.org/character/name/silver%20surfer/sort/chrono/ Silver Surfer] at the [[Grand Comics Database]]. Retrieved on June 4, 2017.
+*[http://toonopedia.com/surfer.htm Silver Surfer] at [[Don Markstein's Toonopedia]] [https://www.webcitation.org/6qycB2Ne9?url=http://toonopedia.com/surfer.htm Archived] from the original on June 4, 2017.
+*[http://www.wsyacy.com/SilverSurfer.html The Complete Silver Surfer Appearance List].
+
+{{Silver Surfer}}
+{{Navboxes
+|title=Related topics
+|list1=</span>
+{{Defenders}}
+{{Doctor Doom}}
+{{Symbiote Family and Hosts}}
+{{Fantastic Four}}
+{{Galactus}}
+{{Guardians of the Galaxy}}
+{{Nova}}
+{{Thor}}
+{{Thanos}}
+{{Skrull}}
+{{Jack Kirby}}
+{{Marvel Cosmic}}
+}}
+
+[[Category:1968 comics debuts]]
+[[Category:Silver Surfer| ]]
+[[Category:American superheroes]]
+[[Category:Characters created by Jack Kirby]]
+[[Category:Characters created by Stan Lee]]
+[[Category:Comics characters introduced in 1966]]
+[[Category:Deneb in fiction]]
+[[Category:Extraterrestrial superheroes]]
+[[Category:Fictional astronomers]]
+[[Category:Fictional characters with energy manipulation powers]]
+[[Category:Fictional characters with superhuman senses]]
+[[Category:Fictional gladiators]]
+[[Category:Fictional surfers]]
+[[Category:Guardians of the Galaxy characters]]
+[[Category:Male characters in comics]]
+[[Category:Male characters in film]]
+[[Category:Marvel Comics aliens]]
+[[Category:Marvel Comics characters with superhuman strength]]
+[[Category:Marvel Comics superheroes]]
+[[Category:Science fiction comics characters]]
+[[Category:Science fiction comics]]
+[[Category:Superhero film characters]]

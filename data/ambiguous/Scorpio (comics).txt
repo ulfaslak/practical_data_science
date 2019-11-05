@@ -1,0 +1,132 @@
+{{About|Marvel Comics characters|the fictional organization in DC Comics|Scorpio (DC Comics)}}
+'''Scorpio''' is the name of several [[fictional character]]s appearing in [[American comic book]]s published by [[Marvel Comics]]. Most of the men to use the Scorpio identity have been [[supervillain]]s who have been affiliated with the [[Zodiac (comics)|Zodiac]] criminal cartel, and in this context were enemies of the [[Avengers (comics)|Avengers]] and other superheroes.
+
+==Publication history==
+Jake Fury first appeared in ''Strange Tales'' #159 (August, 1967), and was created by [[Jim Steranko]]. He also appeared in ''[[Sgt. Fury and his Howling Commandos]]'' #68-69 (July–August 1969).
+
+The character subsequently appeared as '''Scorpio''' in ''Nick Fury, Agent of S.H.I.E.L.D.'' #1 (June 1968), #5 (October 1968), ''The Avengers'' #72 (January 1970), ''Defenders'' #46 (April 1977), #48-49 (June–July 1977), #50 (August 1977), ''West Coast Avengers Annual'' #1 (1986), ''West Coast Avengers'' #26-28 (November 1987-January 1988), ''[[Wolverine/Nick Fury: The Scorpio Connection]]'' (1989), ''Fury'' #1 (May 1994), and ''Fury of S.H.I.E.L.D.'' #4 (July 1995).
+
+Jacob Fury received an entry in the ''[[Official Handbook of the Marvel Universe|Official Handbook of the Marvel Universe Deluxe Edition]]'' #17.
+
+==Fictional character biography==
+
+===Scorpio (Jake Fury)===
+{{Infobox comics character| <!--Wikipedia:WikiProject Comics--> 
+image=[[File:NickFuryScorpioTPB.jpg|175px]]
+|caption=Cover to the "Nick Fury: Scorpio" TPB reprinting the first appearance of Scorpio. Art by [[Jim Steranko]]
+|character_name=Scorpio
+|real_name=Jacob "Jake" Fury
+|species=
+|publisher=[[Marvel Comics]]
+|debut=(as Jake Fury): ''[[Strange Tales]] #159 (Aug 1967)''<br>(as Scorpio): ''[[Nick Fury|Nick Fury, Agent of S.H.I.E.L.D.]] #1'' (Jun 1968)
+|creators=(Jake): [[Jim Steranko]]
+|alliances=[[Zodiac (comics)|Zodiac]]<br>Great Wheel<br>[[Hydra (comics)|HYDRA]]
+|aliases=Flip Mason, Count Julio Scarlotti, [[Nick Fury]]
+|powers=
+}}
+'''Jacob''' "'''Jake'''" '''Fury''' was born in [[New York City]]. As a young man, he came to resent his brother [[Nick Fury]].<ref>''Sgt. Fury and his Howling Commandos'' #68</ref> As the original Scorpio, he operated as a spy, terrorist, and criminal. Using his secret identity as Scorpio, he first battled Nick at a Las Vegas [[S.H.I.E.L.D.]] base.<ref>''Nick Fury, Agent of SHIELD'' Vol. 1 #1</ref> He again battled his brother in Manhattan, then disguised himself as Nick Fury to infiltrate the New York SHIELD base, although his real identity was then discovered by his brother.<ref>''Nick Fury, Agent of SHIELD'' Vol. 1 #5</ref> Nick Fury later went undercover as Scorpio, and took his brother's place in the [[Zodiac (comics)|Zodiac]], who battled the [[Avengers (comics)|Avengers]].<ref>''Avengers'' #72</ref> Disguised as Jacque LaPoint, he played a minor role in the Zodiac's attempt to kill all Manhattan residents born under the sign of Gemini (save for Zodiac's Gemini).<ref>''Avengers'' #120-122</ref> He attempted to kidnap [[Nighthawk (Marvel Comics)|Kyle Richmond]], and battled the [[Defenders (comics)|Defenders]].<ref>''Defenders'' #46</ref> Scorpio constructed a set of android Zodiac members to serve him, in his base at [[Belleville, New Jersey|Belleville]], [[New Jersey]]. However, his plan was thwarted by the Defenders, and he committed suicide through self-inflicted gunshot wound in despair.<ref>''Defenders'' #48-50</ref>
+
+In the final arc of the ''Secret Warriors'' series, it was revealed that Jake's death and much of his villainy was all part of a long-game plan of Nick Fury's. In 1961, Jake Fury was duplicated by ancient technology (which would later be developed and modernized as S.H.I.E.L.D.'s [[Life Model Decoy|LMD]] program); the evil Jake would go on to be the agent known as Scorpio. The real Jake, however, was in deep cover within [[Hydra (comics)|HYDRA]], co-opting the identity of the high-ranking agent known as [[Kraken (character)#Daniel Whitehall|Kraken]] and infiltrating the highest rungs of the organization and helping his brother bring about its destruction.<ref>''Secret Warriors'' #11-25</ref>
+{{Clear}}
+
+===LMD and Jacques LaPoint===
+{{Infobox comics character| <!--Wikipedia:WikiProject Comics--> 
+image=
+|caption=
+|character_name=Scorpio
+|real_name=Jacques LaPoint
+|species=
+|publisher=[[Marvel Comics]]
+|debut=(Jacques LaPoint): ''[[Avengers (comic book)|Avengers]]'' #120 (Feb. 1974)<br>(Android): ''[[West Coast Avengers]] Annual'' #1 (Oct. 1986)
+|creators=(Jacques LaPoint): [[Steve Englehart]], [[Don Heck]]<br>(Android): [[Steve Englehart]]
+|alliances=[[Zodiac (comics)|Zodiac]]<br>Great Wheel
+|aliases=Flip Mason, Jacques LaPoint, Count Julio Scarlotti, [[Nick Fury]]
+|powers=
+}}
+Scorpio was later revived in an [[android (robot)|android]] body by the intelligent, extra-dimensional Zodiac Key from which he drew his power. The real Jacques LaPoint became the second Scorpio and led the Zodiac until Jake (in his second android body) killed him. Impersonating LaPoint, Fury led eleven other Zodiac-themed androids to kill and replace the rest of the human Zodiac members, and took over the organization's criminal operations. Scorpio and the other androids were deactivated when they were transported to the Zodiac Key's dimension of origin during a battle with the [[West Coast Avengers]], and abandoned there.<ref>''West Coast Avengers'' #26-28</ref>
+{{Clear}}
+
+===Ecliptic Scorpio===
+Another Scorpio was the leader of Ecliptic's Zodiac team who fought [[Alpha Flight]] and was later massacred by Malcolm Colcord's [[Weapon X]] team.<ref>''Alpha Flight'' Vol. 2 #1</ref>
+{{Clear}}
+
+===Scorpio (Mikel Fury)===
+{{Infobox comics character| <!--Wikipedia:WikiProject Comics--> 
+image           =
+|caption        =
+|character_name = Scorpio
+|real_name      = Mikel Fury
+|species        =
+|publisher      = [[Marvel Comics]]
+|debut          = ''[[Wolverine/Nick Fury: The Scorpio Connection]]'', ''[[Marvel Graphic Novel]]'' #50 (August 1989)
+|creators       = [[Archie Goodwin (comics)|Archie Goodwin]], [[Howard Chaykin]]
+|alliances      = [[S.H.I.E.L.D.]]
+|aliases        =
+|powers         =
+}}
+'''Mikel Fury''', Nick Fury's illegitimate son, has also used the Scorpio identity. Mikel originally believed himself to be Jake Fury's son, and used a duplicate of the Zodiac Key to battle his father and [[Wolverine (character)|Wolverine]]. When he learned that his mother had lied about his parentage, Mikel switched sides and became affiliated with [[S.H.I.E.L.D.]] for several months, following intensive therapy.<ref>''Wolverine/Nick Fury'' Graphic Novel</ref> When he was led to believe that the [[Punisher]] had killed Nick, he pursued the vigilante until persuaded to back down by fellow [[S.H.I.E.L.D.]] operatives and ousted from the agency.<ref>''Punisher'' Vol. 3 #7</ref> He makes a brief appearance in [[Secret Warriors (2009 series)|Secret Warriors]], issue 11 as the leader from one of Nick's secret independent teams<ref>''Secret Warriors'' #11</ref> and is later killed in a mission.<ref>''Secret Warriors'' #24</ref>
+{{Clear}}
+
+===Thanos' Zodiac===
+The sixth Scorpio is an unnamed man with a half-burned face who [[Thanos]] recruited to join his incarnation of the Zodiac.<ref>''Avengers Assemble'' Vol. 2 #1</ref> He and the other Zodiac members perish when Thanos abandons them on the self-destructing Helicarrier where [[John King (comics)|Cancer]] was the only survivor.<ref>''Avengers Assemble'' Vol. 2 #4</ref>
+
+===Scorpio (Vernon Fury)===
+Vernon Fury is the grandson of Jacob Fury and the grand-nephew of Nick Fury. Upon being told the stories about the Zodiac Key, Vernon planned to know what its secrets are.<ref name="Amazing Spider-Man #11">''Amazing Spider-Man'' Vol. 4 #11</ref>
+
+When he reached adulthood, Vernon Fury assumed the alias of "Vernon Jacobs" and became a big investor and shareholder of [[Parker Industries]]. With the money he obtained, he formed the different Zodiac sects.<ref name="Amazing Spider-Man #10">''Amazing Spider-Man'' Vol. 4 #10</ref>
+
+Thanks to a premonition by Gemini, he hacks into a satellite owned by S.H.I.E.L.D. which he uses to look into the British Museum where a rosetta stone has Zodiac Grand Orrery in it.<ref>''Amazing Spider-Man'' Vol. 4 #5</ref>
+
+When the planets that are shown in the Zodiac Grand Orrery get into alignment, Scorpio traveled back to his base in France. Spider-Man tracked the hacked satellite signal back to Vernon Jacobs' building. While in the Channel Tunnel, he transformed two of its staff members into becoming his next Cancer and Leo. While Spider-Man called his allies, Scorpio crashed the transmission stating that he will use his influence on Parker Industries enough to have it sink into the ground.<ref name="Amazing Spider-Man #10"/>
+
+On his way to the Royal Observatory in Greenwich, Scorpio transforms two other people into Pisces and Taurus. At the Royal Observatory, Scorpio places the Zodiac Grand Orrery in the prime meridian there and performed a ritual that opened a secret passageway underground. Spider-Man and his allies arrived to stop Scorpio. When Scorpio steps into the door, he sees a year filled with events like Skyspear, [[Norman Osborn]]'s latest activity, [[Regent (comics)|Regent]]'s plot, the "New U" device, [[Doctor Octopus]]' return, [[Civil War II|another superhuman civil war]], and the rise of the monsters. Catching Scorpio off guard, Spider-Man punched Scorpio into the doorway and locked it up. As Spider-Man suspects that Scorpio will have been teleported one year into the future, this would give S.H.I.E.L.D. time to prepare for Scorpio's return.<ref name="Amazing Spider-Man #11"/>
+
+==Powers and abilities==
+Jake Fury possessed a genius intellect, as well as basic army training, with an above average knowledge of hand-to-hand combat and streetfighting techniques. As Scorpio, Jake used the Zodiac Key to increase his physical abilities, and gain superhuman powers such as the ability to transform his body into sentient water for brief periods of time. Scorpio is totally dependent upon the Zodiac Key in order to maintain his superhuman powers. He did not have to be in physical contact with it to wield it. The Zodiac Key is a power object of extradimensional origin that taps an unidentified extradimensional energy for a variety of effects, including concussive force, electricity, magnetism, teleportation, physical transformation, etc. The Zodiac Key possesses sentience of a sort. After Jake Fury's death, the Zodiac Key employed his Theater of Genetics laboratory to create an android of Jake Fury.
+
+Ecliptic's Zodiac had a barbed tail which was never used in combat. He also wielded a weapon similar to the Zodiac Key which displayed the ability to fire energy blasts and has a Zodiac teleportation device.
+
+==Other versions==
+
+===Ultimate Marvel===
+The [[Ultimate Marvel]] version of Scorpio is an alias used by '''[[Ultimate Nick Fury|Nick Fury]]''' during the period when he went undercover to infiltrate [[Hydra (comics)|HYDRA]]. In the story, it is mentioned that the real Scorpio had been killed by Fury and [[Hawkeye (comics)|Hawkeye]] years earlier during a conflict in the Middle East.<ref>''Ultimate Comics: Ultimates'' #20</ref>
+
+==In other media==
+
+===Television===
+* Scorpio appears in ''[[The Avengers: United They Stand]]'', voiced by Wayne Best. He appears as a member of the Zodiac and Taurus's right-hand man. He is depicted as an alien with scorpion mandibles on his jaw, a scorpion claw for a right hand, and a scorpion tail on the back of his head. He can take human form and has used the Jake Fury identity.
+* Scorpio appears in ''[[The Super Hero Squad Show]]'', voiced by [[Kevin Michael Richardson]].<ref>[http://www.comicscontinuum.com/stories/0907/28/voices.htm Comics Continuum]</ref> In the episode "From the Atom...It Rises", Nick Fury posed as Scorpio to find out what [[Doctor Doom]] is planning until [[Abomination (comics)|Abomination]] and [[MODOK]] discovered that it was Fury posing as Scorpio all along.
+* Scorpio appears in ''[[Marvel Anime|Marvel Anime: Iron Man]]'', voiced by [[Kyle Hebert]] in the English dub. This version is depicted as a mass-produced, scorpion-like, mech robot for the Zodiac organization. In the episode "Japan: Enter Iron Man", he takes on [[Iron Man]] in the first episode and is destroyed after making Zodiac known to him. In the episode "At the Mercy of My Friends", another Scorpio robot appeared being used by [[Ho Yinsen]] to hold Tony and Dr. Chika Tanaka hostage on an island near Japan that was used for landfill. The mech was destroyed by Captain Nagato Sakurai in his Ramon Zero armor.
+* Scorpio appears in the ''[[Ultimate Spider-Man (TV series)|Ultimate Spider-Man]]'' cartoon series, voiced by [[Phil Morris (actor)|Phil Morris]].<ref>http://marvel.toonzone.net/news.php?action=fullnews&id=843</ref> This version is depicted as the African-American '''Max Fury''', the younger brother of [[Ultimate Nick Fury|Nick Fury]]. In the season 1 episode "[[For Your Eye Only]]", Scorpio and his Zodiac soldiers take over the [[S.H.I.E.L.D.]] [[Helicarrier]] as the Zodiac capture [[Spider-Man]]. Scorpio tells Spider-Man that "Nick Fury is dead". Scorpio states that this is the beginning of Zodiac's new orders as he tries to convince Spider-Man that Fury is a corrupt tyrant. Spider-Man makes a comment about Scorpio's outfit making him look fat to which Scorpio orders his soldiers to destroy the web-slinger. In the S.H.I.E.L.D. Helicarrier, Scorpio orders his soldiers to find Spider-Man. While locating for Nick's secrets, Scorpio tells his men to find the secrets and then set the S.H.I.E.L.D. Helicarrier to self-destruct. Scorpio then uses the Scorpio Key to attack Spider-Man only for the young superhero to escape into the air vents. Upon learning that Spider-Man is topside, Scorpio sends the Zodiac soldiers topside. Nick dives the S.H.I.E.L.D. Helicarrier into the ocean as Nick fights Scorpio. Upon Spider-Man confiscating the Scorpio Key, Nick defeats Scorpio and discovers that it's his brother. Scorpio escapes into the water as Nick deactivates the self-destruct sequence. Scorpio reappears in the season 2 episode "The Parent Trap", in which Spider-Man, Power Man and S.H.I.E.L.D. attempt to retrieve his key weapon to prevent him from creating an army of super soldiers. During a fire fight between S.H.I.E.L.D. and Zodiac, it's revealed that Scorpio has Walter Cage and Amanda Cage working for him. He told them he had their son captured and promised the return in exchange for Cages' working for him. When Spider-Man revealed that Scorpio was lying, the Cages' turned on Scorpio, and defeated by Spider-Man and [[Luke Cage]] and is arrested by S.H.I.E.L.D. agents. In ''Ultimate Spider-Man: Web Warriors'', Scorpio has a non-voiced cameo appearance in "Contest of Champions" [Pt. 1] among the [[Grandmaster (Marvel Comics)|Grandmaster]]'s villains against Spider-Man and the [[Collector (comics)|Collector]].
+
+==References==
+{{reflist|2}}
+
+==External links==
+* [http://www.marvel.com/universe/Scorpio_%28Jacob_Fury%29 Scorpio (Jake Fury)] at Marvel.com
+* {{Marvunapp|http://www.marvunapp.com/Appendix2/scorpiojakefury.htm|Scorpio (Jake Fury)}}
+* {{Marvunapp|http://www.marvunapp.com/Appendix2/scorpiolapoint.htm|Scorpio (Jacquese LaPoint)}}
+* {{Marvunapp|http://www.marvunapp.com/Appendix2/scorpiofurymikel.htm|Scorpio (Mikel Fury)}}
+
+{{Nick Fury}}
+
+{{DEFAULTSORT:Scorpio (Comics)}}
+[[Category:Characters created by Archie Goodwin]]
+[[Category:Characters created by Howard Chaykin]]
+[[Category:Characters created by Jim Steranko]]
+[[Category:Characters created by Don Heck]]
+[[Category:Characters created by Steve Englehart]]
+[[Category:Comics characters introduced in 1967]]
+[[Category:Comics characters introduced in 1974]]
+[[Category:Comics characters introduced in 1986]]
+[[Category:Comics characters introduced in 1989]]
+[[Category:Fictional characters from New York City]]
+[[Category:Fictional cyborgs]]
+[[Category:Fictional henchmen]]
+[[Category:Fictional suicides]]
+[[Category:Fictional secret agents and spies]]
+[[Category:Marvel Comics code names]]
+[[Category:Marvel Comics robots]]
+[[Category:Marvel Comics superheroes]]
+[[Category:Marvel Comics supervillains]]
+[[Category:Nick Fury]]

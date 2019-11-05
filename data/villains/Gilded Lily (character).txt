@@ -1,0 +1,39 @@
+{{mergeto|List of Marvel Comics characters: G|date=August 2018}}
+{{Notability|date=August 2018}}
+{{Superherobox| <!--Wikipedia:WikiProject Comics-->
+|image=
+|noimage=yes
+|caption=
+|character_name=Gilded Lily
+|real_name=Lillian von Loont
+|publisher=[[Marvel Comics]]
+|debut=''[[Alpha Flight (comic book)|Alpha Flight]]'' #20
+|creators=[[John Byrne (comics)|John Byrne]]
+|alliances=
+|aliases=
+|powers=Wide array of alchemical weaponry. Immortality.
+|}}
+
+'''Gilded Lily''' ('''Lillian von Loont''') is a [[fiction]]al [[supervillain]] appearing in [[American comic book]]s published by [[Marvel Comics]]. The character has been featured in the series ''[[Alpha Flight (comic book)|Alpha Flight]]''.
+
+==Fictional character biography==
+Gilded Lily was an [[alchemy|alchemist]] of great talent and a student of [[Diablo (Marvel Comics)|Diablo]]. Lily was initially seen to be a woman in a golden mask, golden gloves, and a fur coat that covered her slender body to her feet. She had lived for an inordinate length of time, her makeup (on her mask) and hair were very much in the style of the 1920s, particularly that of [[Louise Brooks]].
+
+Visited by her great nephew (her niece's son<ref>Alpha Flight Vol 1 20</ref>) [[Walter Langkowski]], Gilded Lily intended to turn Walter to gold. She had done this with a great many men in the past; somehow their conversion to gold allowed her to add their life energy to her own, in effect achieving [[immortality]]. As she was about to do the same to [[Aurora (comics)|Aurora]], Sasquatch intervened. Lily attempted to escape, but when Sasquatch grabbed her, Lily's fur coat came undone revealing that Lily's body had been replaced with a very basic metal frame with arms, and in place of legs she had wheels, much like a [[Segway HT]]. Lily's mask was removed in the ensuing struggle. Her mask was seemingly what was keeping her alive, on its removal, Aurora was shocked to see Lily's withered face. Soon after the mask's removal, Lily's robotic frame, along with what was left of her original body crumbled to dust.<ref>''Alpha Flight'' #20-21 by [[John Byrne (comics)|John Byrne]] (March–April 1985)</ref>
+
+Her mansion became the base of operations for Alpha Flight, but in time it was shown that though her body had been destroyed, her spirit continued to survive, eventually merging with [[Maison Alpha]]. She came to consciousness and realized what had happened to her house,<ref>''Alpha Flight'' Annual #1 by [[Bill Mantlo]] and [[Larry Stroman]] (1986)</ref> using its facilities to strike back against Alpha in revenge. She could only manifest as "alchemical mists," so she used her electrical alchemy to summon Diablo from a New York penitentiary, forcing him to create a potion that would allow her to possess the body of Aurora. Aurora, however, was able to grab the potion herself and force Lily to take it, which cancelled out the potion Lily was using to sustain her own life, killing her.{{issue|date=September 2013}}
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://alphaflight.net/showwiki/Gilded_Lily AlphaFlight.Net], Alphanex entry on Gilded Lily
+
+
+[[Category:Comics characters introduced in 1985]]
+[[Category:Characters created by John Byrne]]
+[[Category:Female supervillains]]
+[[Category:Fictional alchemists]]
+[[Category:Fictional cyborgs]]
+[[Category:Fictional scientists]]
+[[Category:Marvel Comics supervillains]]

@@ -1,0 +1,54 @@
+{{distinguish|Scarecrow (Marvel Comics)}}
+{{Use mdy dates|date=October 2016}}
+{{Use American English|date=October 2016}}
+{{Infobox comics character <!--Wikipedia:WikiProject Comics--> 
+|character_name=Straw Man
+|image=[[File:StrawMan.jpg]]
+|imagesize =
+|caption=
+|alter ego= 
+|species=
+|publisher=[[Marvel Comics]]
+|debut= ''Dead of Night'' #11 (August 1975)
+|creators=[[Scott Edelman]] (writer)<br>[[Rico Rival]] (artist)
+|alliances=
+|aliases=Scarecrow,  Skirra Corvus
+|powers=Superhuman strength <br> Invulnerable, except from fire<br>Fear inducement<br>Plant manipulation<br>Portal creation<br>Weather manipulation
+|cat=super
+|subcat=Marvel Comics
+|hero=yes
+|sortkey=Straw Man (comics)
+}}
+The '''Straw Man''', originally called the '''Scarecrow''', is a [[character (arts)|fictional character]] appearing in [[American comic book]]s published by [[Marvel Comics]].
+
+==Publication history==
+The Scarecrow was created by writer [[Scott Edelman]] and artist [[Rico Rival]] and first appeared in ''Dead of Night'' #11 (August 1975).<ref name="DoN11">{{cite comic| writer= [[Scott Edelman|Edelman, Scott]]|penciller= [[Rico Rival|Rival, Rico]]|inker= Rival, Rico|story= Enter: The Scarecrow|title= Dead of Night|issue= 11|date= August 1975}}</ref> [[Gil Kane]] and [[Bernie Wrightson]] provided the cover art.<ref>{{Gcdb issue|id= 28887|title= ''Dead of Night'' #11}}</ref> Artist [[Bill Draut]] was to have drawn the first appearance of the Scarecrow but did not complete the assignment.<ref>{{cite web|url= http://www.scottedelman.com/2015/04/18/in-which-a-trip-to-hells-kitchen-reveals-who-was-supposed-to-draw-the-scarecrow-first/|title= In which a trip to Hell’s Kitchen reveals who was supposed to draw The Scarecrow first|first= Scott|last= Edelman|date= April 18, 2015|publisher= ScottEdelman.com|archiveurl= https://web.archive.org/web/20161023212048/http://www.scottedelman.com/2015/04/18/in-which-a-trip-to-hells-kitchen-reveals-who-was-supposed-to-draw-the-scarecrow-first/|archivedate= October 23, 2016|deadurl= no|df= mdy-all}}</ref> The Scarecrow was originally scheduled to appear as a feature in ''[[Monsters Unleashed (comics)|Monsters Unleashed]]'' and ''[[Werewolf by Night|Giant-Size Werewolf]]'' but both of those series were cancelled before the Scarecrow feature could appear. It was then rescheduled for ''Dead of Night''<ref>{{cite comic| writer= Edelman, Scott|story= A Bit of Rag and a Clump of Straw (text article)|title= Dead of Night|issue= 11|date= August 1975}}</ref> and after that series was cancelled as well, the character was to have a self-titled ''Scarecrow'' series but it was not published.<ref>{{cite comic| writer= Edelman, Scott|story= [[Comic book letter column|letter column]]|title= Marvel Spotlight|issue= 26|date= February 1976}}</ref> Edelman and artist [[Ruben Yandoc]] produced a follow-up story which appeared in ''[[Marvel Spotlight]]'' #26 (February 1976),<ref name="Spotlight">{{cite comic| writer= Edelman, Scott|penciller= [[Ruben Yandoc|Yandoc, Ruben]]|inker= Yandoc, Ruben|story= Death Waters of the River Styx|title= [[Marvel Spotlight]]|issue= 26|date= February 1976}}</ref> and was eventually concluded by [[Bill Mantlo]] and [[Ron Wilson (comics)|Ron Wilson]] in ''[[Marvel Two-in-One]]'' #18 (August 1976).<ref name="TwoinOne">{{cite comic| writer= Edelman, Scott; [[Bill Mantlo|Mantlo, Bill]]|penciller= [[Ron Wilson (comics)|Wilson, Ron]]|inker= [[Jim Mooney|Mooney, Jim]]; [[Dan Adkins|Adkins, Dan]]|story= Dark, Dark Demon-Night!|title= [[Marvel Two-in-One]]|issue= 18|date= August 1976}}</ref>
+
+Many years later, he was brought back in the pages of ''[[Doctor Strange (comic book)|Dr. Strange, Sorcerer Supreme]]'' #31 (July 1991)<ref>{{cite comic| writer= [[Roy Thomas|Thomas, Roy]]; [[Dann Thomas|Thomas, Dann]]; [[Jean-Marc Lofficier|Lofficier, Jean-Marc]]|penciller= [[Larry Alexander (comics)|Alexander, Larry]]|inker= [[Tony DeZuniga|DeZuniga, Tony]]|story= TBOTV: A Gathering of Fear, Part 1|title= [[Doctor Strange (comic book)|Doctor Strange, Sorcerer Supreme]]|issue= 31|date= July 1991}}</ref> in which he took on the name "Straw Man" to differentiate himself from the costumed killer the [[Scarecrow (Marvel Comics)|Scarecrow]].  He subsequently appeared in issues #38<ref>{{cite comic| writer= Thomas, Roy; Thomas, Dann; Lofficier, Jean-Marc; Lofficier, Randy|penciller= [[Geof Isherwood|Isherwood, Geof]]|inker= [[Jim Sanders III|Sanders III, Jim]]|story= Fear Itself The Great Fear, Part 1 of 3|title= Doctor Strange, Sorcerer Supreme|issue= 38|date= February 1992}}</ref> and #40 meeting [[Daredevil (Marvel Comics character)|Daredevil]] in the latter issue.<ref name="DS40">{{cite comic| writer= Lofficier, Jean-Marc; Lofficier, Randy; Thomas, Roy; Thomas, Dann|penciller= Isherwood, Geof|inker= Sanders III, Jim|story= From Hope and Fear Set Free...The Great Fear, Part 3 of 3|title= Doctor Strange, Sorcerer Supreme|issue= 40|date= April 1992}}</ref>
+  
+The Scarecrow did not speak in his early appearances, but in his later appearances he did and he pretended to be a newscaster named "Skirra Corvus", Latin for "Scarecrow."
+
+==Fictional character biography==
+The Scarecrow is an extra–dimensional magical entity, possibly a [[List of Marvel Comics demons|demon]], which takes vengeance on its enemies. He lives inside a [[palimpsest]] painting of a laughing scarecrow purchased by Jess Duncan and opposes the centuries-old Cult of Kalumai.<ref name="DoN11" /> The Scarecrow battled demons at a police station to recover the Horn of Kalumai, which would have allowed Kalumai to travel to Earth.<ref name="Spotlight" /> Kalumai later spread his influence through the painting into a man who was mutated into a fiery creature and then fought the [[Thing (comics)|Thing]] and the Scarecrow.<ref name="TwoinOne" /> The Straw Man was invited by the [[Dweller-in-Darkness]] to join the [[Fear Lords (comics)|Fear Lords]], but he betrayed them to [[Doctor Strange]].<ref name="DS40" />
+
+During the ''[[Fear Itself (comics)|Fear Itself]]'' storyline, the Straw Man fought against [[Nightmare (Marvel Comics)|Nightmare]]'s attempt to use the fear brought by the [[Serpent (comics)|Serpent]] to become the King of Fear.<ref>{{cite comic| writer= [[John Denning|Denning, John]]|penciller= [[Richard Elson|Elson, Richard]]|inker= Elson, Richard|story= The Terrorism Myth Conclusion|title= [[Journey into Mystery]]|volume= 4|issue= 636|date= June 2012}}</ref>
+
+==Powers and abilities==
+Straw Man possesses superhuman strength, plant and weather manipulation, the ability to command crows, the ability to create portals and induce fear in others. He is also invulnerable to anything except fire.<ref>{{cite web|url= http://www.marvunapp.com/Appendix/strawman.htm|title= Straw Man|first= Jeff|last= Christiansen|date= May 22, 2012|publisher= Appendix to the Handbook of the Marvel Universe|archiveurl= https://web.archive.org/web/20150906154644/http://www.marvunapp.com/Appendix/strawman.htm|archivedate= September 6, 2015|deadurl= no|df=mdy-all}}</ref>
+
+==Reception==
+The Straw Man was ranked #30 on a listing of Marvel Comics' monster characters.<ref>{{cite web|url= http://www.denofgeek.com/us/books-comics/marvel/250132/marvels-31-best-monsters|title= Marvel's 31 Best Monsters|first= Marc|last= Buxton|date= October 30, 2015|publisher= [[Dennis Publishing|Den of Geek]]|archiveurl= https://www.webcitation.org/72pHE6aGZ|archivedate= September 30, 2018|deadurl= no|df= mdy-all|quote= This Scarecrow only had three Bronze Age appearance but he was bursting at the seams with potential (and with hellspun demonic straw).}}</ref>
+
+==References==
+{{reflist|2}}
+
+==External links==
+*{{comicbookdb|type=character|id=8666|title=Straw Man}}
+* {{cite web|url= http://www.oelib.com/mtio/mtio18.html|title= ''Marvel Two-in-One'' #18|date= n.d.|publisher= ''Marvel Two-in-One'' The Thing and The Ever-Lovin' Blue-Eyed Home Page!|archiveurl=https://web.archive.org/web/20150726182119/http://www.oelib.com/mtio/mtio18.html|archivedate= July 26, 2015|deadurl= no|df=mdy-all}}
+
+{{Marvel Mystic|state=collapsed}}
+
+[[Category:Comics characters introduced in 1975]]
+[[Category:Fictional scarecrows]]
+[[Category:Horror comics]]
+[[Category:Marvel Comics demons]]

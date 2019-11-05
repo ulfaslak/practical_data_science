@@ -1,0 +1,58 @@
+{{Infobox comics character <!--Wikipedia:WikiProject Comics-->
+|image=
+|caption=
+|character_name=The Professor
+|real_name=Truett Hudson
+|publisher=[[Marvel Comics]]
+|debut=''[[Marvel Comics Presents]]'' #73
+|creators=[[Barry Windsor-Smith]] (writer - artist)
+|alliances=[[Weapon X]]<br>[[Weapon Plus]]
+|aliases=Professor Andre Thorton, Number One
+|powers=Genius-level intellect
+}}
+[[Professor]] '''Andre Thorton''' (real name '''Truett Hudson'''; also known as '''The Professor''') is a [[fictional character]] appearing in [[American comic book]]s published by [[Marvel Comics]]. He is an enemy of [[Wolverine (character)|Wolverine]] and had a hand in his origin.
+
+==Publication history==
+Professor Thorton first appeared in ''[[Marvel Comics Presents]]'' #73 and was created by [[Barry Windsor-Smith]].
+
+==Fictional character biography==
+In 1972, nearly twenty years before [[Wolverine (character)|Logan]] was romantically involved and abducted with [[Silver Fox (comics)|Silver Fox]] at Windsor snow lodge, Professor Thorton experimented on numerous mutants including [[Sabretooth (comics)|Sabretooth]] and [[Mastodon (comics)|Mastodon]].{{issue|date=January 2015}} He hired [[Carol Hines]] as his assistant and the scientist [[Abraham Cornelius]]. His experiments on Wolverine are responsible for his adamantium-laced skeleton.<ref>''Marvel Comics Presents'' #73</ref> He is also connected to the creation of [[Alpha Flight]] on to developing super-soldiers for the US government.{{issue|date=January 2015}} During the adamantium-lacing process, the physical trauma causes Wolverine to regress to violent animal behavior, prone to attacking anyone who comes near.<ref>''Marvel Comics Presents'' #74</ref> At one point, Thorton's mysterious "master" takes control of Wolverine and has him attack everyone in the facility, cutting off Professor Thorton's right hand and killing him.<ref>''Marvel Comics Presents'' #79-83</ref> Though an ending scene clarifies to the reader that this was a virtual reality simulation of an escape attempt by Wolverine,<ref>''Marvel Comics Presents'' #84</ref> in later appearances Thorton has a metal hook in place of his right hand.
+
+Years later, Professor Thorton and Carol Hines lure Wolverine into an abandoned warehouse in Canada which was once the secret location for the Weapon X program. Codenamed Project X, Wolverine discovers Weapon X was funded by the [[Central Intelligence Agency|CIA]] and sheltered in Canada. Professor Thorton activates a robotic android named Shiva which is programmed to destroy all of Project X's test subjects starting with Wolverine. Silver Fox (who works for another secret organization called [[Hydra (comics)|HYDRA]]) is revealed to be behind the entire plan and steps forward to interrogate Professor Thorton at gunpoint. He tries to grab the gun from Silver Fox, and she shoots him fatally.<ref>''Wolverine'' #50</ref>
+
+It was shown that [[Romulus (comics)|Romulus]] was in control of Weapon X and gave orders to Truett both observing Wolverine as he was unconscious.<ref>''Wolverine: Origins'' #33</ref> Although it is stated that Romulus had known Logan in a past life, it is unclear if he knew of Logan while he was young and living at the Howlett estate if this he did then he would have known of Truett's connection to Logan.<ref>''Wolverine: Origins'' #36</ref>
+
+==Other versions==
+* A version of the Professor (although insane) appears in the pages of ''[[Mutant X (comics)|Mutant X]]'', but is killed by [[Captain America]].<ref>''Mutant X'' #30</ref>
+* In a ''[[What If (comics)|What If]]'' issue that asks "What If Logan Battled Weapon X," Professor Thorton was present when former Mountee and Marine Guy Desjardins went through the Adamantium-bonding process after the Weapon X soldiers failed to capture Logan.<ref>''What If?'' Vol. 2 #62</ref>
+* The Professor appears in ''[[Wolverine: The End]]'' in a flashback. He was not killed by Silver Fox and is living out his rich days on an unknown beach.<ref>''Wolverine: The End'' #1</ref>
+
+==In other media==
+===Television===
+* Professor Thorton first appears in the ''[[X-Men (TV series)|X-Men]]'' episode "Repo Man," then later in reused footage from this episode in the two-parter "Out of Time." He also appears in "Weapon X, Lies & Videotape". His voice actor was uncredited.
+* Professor Thorton appears in the ''[[X-Men: Evolution]]'' episode "Grim Reminder", voiced by [[Campbell Lane]].
+* Professor Thorton appears in ''[[Wolverine and the X-Men (TV series)|Wolverine and the X-Men]]'' voiced by [[Tom Kane]].
+* Tom Kane reprises his role of Professor Thornton who appears in ''[[The Avengers: Earth's Mightiest Heroes]]'' episode "Behold...The Vision." He is the head at a Weapon X facility when the [[Vision (Marvel Comics)|Vision]] attacks looking for Adamantium for [[Ultron]].
+
+===Film===
+* Professor Thorton appeared in the Wolverine portion of ''[[Hulk Vs]]'' voiced by [[Tom Kane]]. In the film, Thorton plans to have the Weapon X scientists brainwash [[Hulk (comics)|Hulk]] and make him a part of Weapon X's Team X which consisted of Sabretooth, Deadpool, Lady Deathstrike, and Omega Red. He was present when Wolverine was also captured and announced that he will have the Weapon X scientists erase his memories again. Professor Thorton is later slashed in the back by Sabretooth.
+
+===Video Games===
+* Professor Thorton appeared in ''[[X2: Wolverine's Revenge]]'', voiced by [[Don Morrow]]. After Weapon X breaks free following the Adamantium-bonding procedure, he confronts Professor Thorton restraining him at claw-point while telling Abraham Cornelius and Carol Hines to take their leave. Professor Thorton reveals that all Weapon X subjects were implanted with a dormant and deadly virus known as the "Shiva Strain" as a failsafe. He also reveals that the virus would kill a normal human in one year, but has no idea how long the virus would kill a human mutant. Professor Thorton isn't seen again after that scene.
+* Professor Thorton appeared in ''[[X-Men: Legends]]'', voiced by [[Earl Boen]] (though the credits listed him as "Doctor"). He is seen in Wolverine's flashback level which depicted Wolverine escaping from the Weapon X facility.
+
+==References==
+{{reflist|30em}}
+
+==External links==
+* [http://marvel.wikia.com/wiki/Truett_Hudson_(Earth-616) Professor Thorton] at Marvel Wiki
+* [http://comicvine.gamespot.com/the-professor/4005-9392/ Professor Thorton] at Comic Vine
+
+{{Wolverine}}
+
+{{DEFAULTSORT:Thorton, Professor}}
+[[Category:Comics characters introduced in 1991]]
+[[Category:Fictional scientists]]
+[[Category:Marvel Comics supervillains]]
+[[Category:Fictional Canadian people]]
+[[Category:Characters created by Barry Windsor-Smith]]

@@ -1,0 +1,80 @@
+{{Infobox comics character| <!--Wikipedia:WikiProject Comics-->
+|image=Zekestane.jpg
+|image_size=250
+|caption=Zeke Stane.<br>Art by [[Salvador Larroca]].
+|character_name=Zeke Stane
+|real_name=Ezekiel "Zeke" Stane
+|publisher=[[Marvel Comics]]
+|debut=''[[The Order (comics)|The Order]]'' #8 (April 2008)
+|creators=[[Matt Fraction]] (writer)<br>[[Barry Kitson]] (artist)
+|alliances=[[Hellfire Club (comics)|Hellfire Club]]
+|aliases= [[Iron Monger]], [[Iron Man 2.0]]
+|powers=Genius-level intellect<br>Superhuman abilities derived from bio-upgrades
+}}
+'''Ezekiel''' "'''Zeke'''" '''Stane''' is a [[Fictional characters|fictional]] supervillain appearing in [[American comic book]]s published by [[Marvel Comics]]. The character is the son of [[Iron Monger|Obadiah Stane]] and an enemy of [[Iron Man]].
+
+==Characterization==
+Zeke Stane is the son of [[Iron Monger|Obadiah Stane]], and has been building [[bioweapon]]ry and manufacturing next-generation weapons for terrorists and supervillains since he was nine. Though he is the son of Obadiah, as well as a supervillain rather than a hero, Ezekiel Stane's creator, [[Matt Fraction]], considers Zeke to be the next generation of Tony Stark/Iron Man rather than of Obadiah Stane/Iron Monger: often referring to the character as "Tony Stark/Iron Man 2.0".<ref name="newsa">[http://forum.newsarama.com/showthread.php?t=151475 Matt Fraction On Invincible Iron Man - Newsarama<!-- Bot generated title -->]</ref>
+
+Fraction states the similarities between the pair's characteristics with Ezekiel being evolution of Tony Stark's character: a younger, smarter, sharper [[futurist]] of a post-national supercorporate world moving into a future that Stark has no control over.<ref name="newsa"/> Overtaking Stark and his Iron Man technology by not taking the route of armored suits but upgrading the human body itself.
+
+{{quote|No matter how high tech or evolved, even with [[Extremis (comics)|Extremis]], the Iron Man armor is still a guy in a suit, if you get between the man and the suit you can undo it. So Stane doesn't need a suit. That's the difference. That's what we start to see, the future of Iron Man is that there's no gap between Iron and Man. It's one being and Stane is quite literally evolving himself and people who pay him as we see in the book's opening.|Matt Fraction<ref name="CBR">[http://www.comicbookresources.com/?id=15905&page=article Comic Book Resources > CBR News: A Stark Contrast: Fraction talks “Invincible Iron Man”<!-- Bot generated title -->]</ref>}}
+
+Fraction often describes the contrast between the two characters using [[software]] terms, due to the character's technological basis.
+
+{{quote|Zeke is a post-national business man and kind of an [[Open-source model|open source]] ideological terrorist, he has absolutely no loyalty to any sort of law, creed, or credo. He doesn't want to beat Tony Stark, he wants to make him obsolete. [[Microsoft Windows|Windows]] wants to be on every computer desktop in the world, but [[Linux]] and Stane want to destroy the desktop. He's the open source to Stark's [[closed source]] oppressiveness. He has no headquarters, no base, and no bank account. He's a true [[ghost in the machine]]; completely off the grid, flexible, and mobile. That absolutely flies in the face of Tony's received business wisdom and in the way business is done. There are banks and lawyers and you have facilities and testing. Stane is a much more different animal. He's a much smarter, more mobile, and much quicker to respond and evolved [[futurist]].|Matt Fraction<ref name="CBR"/>}}
+
+==Publication history==
+Ezekiel "Zeke" Stane first appeared in Matt Fraction's critically acclaimed book ''[[The Order (comics)|The Order]]'' #8 (April 2008) where he was drawn by [[Barry Kitson]].<ref>''The Order'' vol. 2, #8 (April 2008)</ref>
+
+==Fictional character biography==
+[[File:Ezekiel ironuniform.jpg|thumb|200px|right|Cover art for ''Invincible Iron Man (vol. 5)'' #4. Art by [[Salvador Larroca]].]]
+Zeke Stane is the son of [[Iron Monger|Obadiah Stane]] who was revealed to be the behind-the-scenes manipulator pulling the strings of other villains,<ref>Vice, Jeff. [http://deseretnews.com/article/1,5143,695277450,00.html?pg=2 "Man of Iron: Writer finds dream job — at Marvel Comics"]. ''[[Deseret News]]''. May 9, 2008</ref> including Black Dahlias, Maul and M.A.N. from S.H.A.D.O.W. Androids, who have set out to destroy The Order. The Order being Tony Stark's showcase [[Fifty State Initiative|Initiative team]] of [[California]], Zeke targets them as the first part of his revenge on Tony Stark for the death of his father Obadiah.<ref>''The Order'' #8</ref>
+
+In the final issue of ''The Order'', #10, Stane meets Iron Man face-to-face for the first time ever. Due to Stane's life off the grid, Iron Man fails to realize who he actually is. Despite Stark's resources as Director of [[S.H.I.E.L.D.]], Stane leaves California and prepares for the next stage in his vendetta against Stark.<ref>''The Order'' #9-10</ref>
+
+Fraction would follow ''The Order'' with a new monthly on-going ''Invincible Iron Man'' title, with Zeke Stane appearing in its first story arc "The Five Nightmares" to further his vendetta against Tony Stark.<ref>''Invincible Iron Man'' #4-7</ref> Zeke is first seen attending a meeting with the Board of Directors of a big tobacco company who had hired him to tweak their tobacco to produce a higher basal metabolic rate in the people that smoked it. Stane says he succeeded in doing it, but reveals he only took the job to use the tobacco company's money to create bio-upgrades for himself, upgrading his own [[hypothalamus]] to utilize energy within the body which Stane swiftly uses to execute the board of directors with energy blasts from his finger tips. Stane is later updated by his girlfriend/assistant [[Sasha Hammer|Sasha]] on his upgraded [[Africa]]n [[suicide bombers]] who were the test subjects of Stane's biotechnology.<ref name="IIM1">''Invincible Iron Man'' vol. 5, #1 (July 2008)</ref> The attacks from Stane's suicide bombers were something neither Iron Man nor [[War Machine]] could've predicted. Stane meets Stark a second time (with Stane saying his name to Stark) during a party moments before suicide bombers appeared and self-destructed. Stark was able to summon his Iron Man armor while Stane just stood there with a disturbing smile. The explosion also severely injured [[Pepper Potts]] in the process.<ref>''Invincible Iron Man'' #20</ref>
+
+Stane ultimately confronts Stark with his own unique armor, while also using terrorists armed with his technology to attack sites around the world. However, Stark defeats Stane's plan with his control of all of his various Iron Man armors, allowing him to be in multiple locations and eliminate virtually all of Stane's bombs at once. Stark then disables both of their armors with a massive electromagnetic pulse and defeats the younger man in hand-to-hand combat. Stark delivers the final emotional blow to the defeated Stane by telling him "that [Obadiah] was smarter than [Zeke]. And harder to beat.". However, Stark is left disturbed by Stane's attack, particularly with the notion of what he may have to become in order to face the future Stane represents.<ref>''Invincible Iron Man'' #25-28</ref>
+
+Zeke Stane had been visited a few times in his prison sentence and was "paroled" by the [[Mandarin (comics)|Mandarin]], Sasha's father, to now employ Zeke with Tony Stark being informed after the fact.<ref>''Invincible Iron Man'' #500</ref> Later, Zeke used a photo of the Iron Man armor in short cut at the ''[[Daily Bugle]]'' and make it look like the hero was drunk. Also, Zeke planned along with Mandarin to use classic villains of the Armored Avenger against him, such as [[Chemistro]], [[Living Laser]] and [[Mauler (comics)|Mauler]].<ref>''Invincible Iron Man'' #510-513</ref>
+
+Mandarin became increasingly discontent when Stane could not build [[Dreadnought (comics)|Dreadnoughts]] and Titanomechs on impossible schedules and nonexistent budgets. He started affecting Stane with his ring, making him obsessed with the work. Irked by this, Stane managed to remove his bomb implant and face off against Mandarin. However, Mandarin cranked up the ring's effect, making Stane his slave, causing increasing brain damage in the process. After the Mandarin succeeded in bringing Stark under his control, Tony and Zeke worked together to produce the Titanomechs.<ref>''Invincible Iron Man'' #520</ref>
+
+After Mandarin used 3 of his rings to power the first Titanomech, Tony started a plan with Zeke where they convinced super villains [[Whirlwind (comics)|Whirlwind]], [[Blizzard (comics)|Blizzard]] II and Living Laser to join him in a rebellion with the final purpose of defeating Mandarin, and managed to use the technology in his body to help Resilient to find him, using microbots known as the Swarm, which tracked the repulsor technology of Tony's body. Resilient asked for help to the Triumph Division and the Dynasty to help Tony defeat Mandarin and his Titanomech. After Tim Cababa managed to reactivate the Extremis virus inside Stark's body, Tony created a link with the Swarm, and use them as bombs to destroy Mandarin's weapons, who in the end was killed by Stane.<ref>''Invincible Iron Man'' #525</ref>
+
+As part of the ''[[All-New, All-Different Marvel]]'', Zeke Stane represented Stane International when he attended a meeting at the Universal Bank with Tiberius Stone of Alchemax, [[Kingpin (character)|Wilson Fisk]] of Fisk Industries, [[Sebastian Shaw (comics)|Sebastian Shaw]] of Shaw Industries, [[Darren Cross]] of [[Cross Technological Enterprises]], [[Silver Samurai|Shingen Harada]] of the Yashida Corporation, Frr'dox of Shi'ar Solutions Consolidated, and Wilhelmina Kensington of Kilgore Arms where they discussed with [[Minotaur (comics)|Dario Agger]] about his and [[Roxxon Energy Corporation]]'s plans to exploit the Ten Realms of Asgard. Zeke Stane also saw the arrival of Exterminatrix of the Midas Foundation who knocked out Dario and declared herself a new member of their assembly.<ref>''Mighty Thor'' Vol. 2 #8</ref>
+
+He is also revealed to be the financial backer of a rebellion against [[Black Panther (comics)|T'Challa]] in [[Wakanda]] <ref>Black Panther Vol. 6 #4</ref>
+
+==Powers and abilities==
+Zeke Stane's genius-level intellect and considerable fortune has allowed him to cannibalize and reverse engineer Stark Tech from the [[black-market]] to upgrade his own [[biology]], most notably his [[hypothalamus]]. Stane successfully reduced the caloric energy consumption of his body from 70% to 9% leaving him surplus energy which he uses in repulsor bolts at the end of his fingers. Other upgrades have allowed his body to vastly repair itself from injury. Despite his high intelligence, [[Mister Fantastic|Reed Richards]] claims that Stane is imitative rather than innovative, as all his inventions are merely re-purposed Stark tech rather than anything he developed completely on his own - Reed uses the example that the man who invented the sandwich simply put together what already existed to produce something good rather than developing his own idea - a fault which Iron Man exploits to ultimately defeat him.
+
+This excessive use of the body's energy has shown that Stane must constantly keep his body's blood sugar level high to make up for its rapid consumption. Stane does this by eating a high (20,000) [[calorie]] paste.<ref name="IIM1"/>
+
+==In other media==
+===Television===
+* Ezekiel Stane is alluded in ''[[Avengers Assemble (TV series)|Avengers: Ultron Revolution]]''. He is mentioned in the episode "The Conqueror".
+
+===Film===
+* Ezekiel Stane appears as the main antagonist in the [[anime]] film ''[[Iron Man: Rise of Technovore]]'', voiced by [[Miyu Irino]] in the Japanese version and by [[Eric Bauza]] in the English dub.<ref>http://www.newsarama.com/tv/iron-man-rise-of-technovore-anime.html</ref> He is the creator of the advanced-bio-technology called "[[Technovore]]" which he plans to release onto the world. When confronted by [[Iron Man]], he paralyzes Iron Man with his Technovores and details his plan to replace humanity with his new technology utilizing the technology on the "Howard" satellite to hack into all computers and weaponized satellites around the world to destroy all human life on Earth. Upon being arrested by [[S.H.I.E.L.D.]], Ezekiel is betrayed by the Technovores, taking over his body to fight Iron Man and [[War Machine]]. Iron Man was able to defeat Technovore while Ezekiel ends up in S.H.I.E.L.D. custody.
+
+===Video games===
+* Ezekiel Stane appears as an occasional boss in the ''[[Iron Man 3: The Official Game]]'', voiced by [[Tom Wayland]]. He was kept quiet about his father's identity by his mother until he died and received his inheritance. He is working with [[Advanced Idea Mechanics]] partnered with [[MODOK]] ([[Aldrich Killian]]) and [[Living Laser]] where he ended up capturing [[Pepper Potts]]. After [[War Machine]] rescued Pepper, Iron Man overloaded Ezekiel's enhanced body enough to kill him.
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://marvel.wikia.com/Ezekiel_Stane_%28Earth-616%29 Zeke Stane] at Marvel Wiki
+* [http://www.comicvine.com/ezekiel-stane/4005-54531/ Zeke Stane] at Comic Vine
+* [http://www.comicbookresources.com/?id=15905&page=article "A Stark Contrast: Fraction talks “Invincible Iron Man”" by Dave Richards, Staff Writer comicbookresources.com]
+* [http://comicbookrevolution.blogspot.com/2008/05/comic-book-review-invincible-iron-man-1.html Comic Book Review: Invincible Iron Man #1 by Rokk Krinn]
+{{Iron Man}}
+
+{{DEFAULTSORT:Stane, Ezekiel}}
+[[Category:Fictional businesspeople]]
+[[Category:Marvel Comics supervillains]]
+[[Category:Fictional cyborgs]]
+[[Category:Comics characters introduced in 2008]]
+[[Category:Characters created by Matt Fraction]]

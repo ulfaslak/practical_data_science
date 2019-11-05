@@ -1,0 +1,13 @@
+#REDIRECT [[List of deities in Marvel Comics]]
+
+{{Rcat shell|
+{{R from fictional character|Marvel Comics}}
+{{R comics to list entry}}
+{{R comics from merge}}
+}}
+
+[[Category:Characters created by Len Wein]]
+[[Category:Characters created by Gene Colan]]
+[[Category:Comics characters introduced in 1973]]
+[[Category:Fictional Haitian people]]
+[[Category:Marvel Comics supervillains]]

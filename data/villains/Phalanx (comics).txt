@@ -1,0 +1,117 @@
+{{In-universe| subject = comics| category = comics| date = December 2014}}
+
+{{Infobox comics species
+<!--Wikipedia:WikiProject Comics-->
+| species   = Phalanx 
+| image     = Phalanx Marvel.jpg
+| imagesize = <!-- default 250 -->
+| caption   = The Phalanx.<br>Art by [[Mike Perkins]].
+| publisher = [[Marvel Comics]]
+| debut     = ''[[Uncanny X-Men]]'' #305
+| debutmo   = April
+| debutyr   = 1994
+| creators  = [[Chris Claremont]]<br>[[Bill Sienkiewicz]]<br>[[Scott Lobdell]]<br>[[Joe Madureira]]
+| deities   = 
+| homeworld = 
+| members   = [[Stephen Lang (comics)|Stephen Lang]]<br>[[Cameron Hodge]]<br>[[Candy Southern]]<br>[[Warlock (New Mutants)|Warlock/Douglock]]<br>Harvest<br>[[Ultron]]
+| powers    = Transforms sentient beings into techno-organic lifeforms and assimilates them into its collective. Superhuman strength, stamina, and durability, teleportation, shapeshifting
+| subcat    = Marvel Comics
+| altcat    = Marvel Comics alien species
+| sortkey   = Phalanx
+}}
+The '''Phalanx''' are a fictional [[cyborg|cybernetic species]] appearing in [[American comic book]]s published by [[Marvel Comics]]. They have come in conflict with the [[X-Men]] as well as other groups on several occasions. They form a [[Group mind (science fiction)|hive-mind]], linking each member by a telepathy-like system.
+
+The Phalanx were co-created by writer [[Scott Lobdell]] and artist [[Joe Madureira]] but owe much in concept and appearance to the original [[Technarchy]] (by writer [[Chris Claremont]] and artist [[Bill Sienkiewicz]]). Although appearing in [[prototype]] variations in earlier issues, the Phalanx first appeared in their full form in ''Uncanny X-Men'' #312 (May 1994). {{Citation needed|date=January 2012}}
+
+==Fictional biography==
+===Origins===
+Phalanx are formed when organic lifeforms are infected with the [[Technarchy]]'s techno-organic transmode virus. They pass through a lifecycle attempting to infect others before reaching critical mass. At that time, by [[wikt:hardwired|hard-wired]] instruction, they build a "[[Tower of Babel|Babel Spire]]" to contact the Technarchy.  The Technarchy consider Phalanx to be [[wikt:abomination|abomination]]s. They invariably destroy the Phalanx "nest", usually by converting the entire planet into techno-organic matter and draining its energy.
+
+===Phalanx on Earth===
+{{Main|Phalanx Covenant}}
+
+The Phalanx on Earth were initially formed by a group of human mutant-haters who voluntarily infected themselves with the [[Transmode virus]], taken from the ashes of [[Warlock (New Mutants)|Warlock]], a renegade [[Technarch]] who had joined the [[New Mutants]], in an attempt to turn them into "living [[Sentinels (comics)|Sentinels]]". [[Steven Lang (comics)|Steven Lang]], the man who had used the [[Sentinels (comics)|Sentinels]] against the [[X-Men]] many years before, was recruited from a [[mental hospital]] to become an "interface". Uninfected by the Transmode virus, Lang was meant to be a buffer, keeping the Phalanx "on track" for its intended purpose.<ref>''Uncanny X-Men (1st series)'' #291</ref> Lang was assisted by [[Cameron Hodge]], a fellow anti-mutant with immortality obtained from the demon [[N'astirh]]). Years ago, in a failed effort to contract the Transmode virus, Hodge had killed Warlock. In an attempt to destroy [[Warren Worthington III|Archangel]], Hodge used a Phalanx construct of [[Candy Southern]].<ref>''Uncanny X-Men (1st series)'' #306</ref>
+
+Phalanx' initial attempt to assimilate mutants into its collective was thwarted by the natural resistance of mutants to the Transmode virus. In a scheme to subvert the X-Men's mutant genome [[knowledge base]], Phalanx attacked the X-Mansion, kidnapped most of the [[X-Men]] and replaced them by disguised Phalanx members. [[Banshee (comics)|Banshee]] returned to the school after the attack and kidnappings. The imposters' ignorance of Professor X's inability to walk alerted Banshee to their deception. [[Sabretooth (comics)|Sabretooth]], recruited from a cell in the complex, joined with Banshee to save [[Emma Frost]] and [[Jubilee (comics)|Jubilee]]. When Banshee discovered the Phalanx had accessed the location of several young mutants for use in further study, he alerted [[Wolverine (character)|Wolverine]] and [[Cable (comics)|Cable]]. In turn, they recruited [[Cyclops (Marvel Comics)|Cyclops]] and [[Jean Grey]]. [[Professor X]], [[Excalibur (comics)|Excalibur]], [[X-Factor (comics)|X-Factor]] and [[X-Force]] sought the location of a third, unknown, group of Phalanx. To prevent the Phalanx accessing any further information, Banshee destroyed the knowledge base.<ref>''Uncanny X-Men (1st series)'' #316</ref>
+
+While Banshee's group scrambled to save the young mutants, they were followed closely by the Phalanx impersonating several beings, notably police officers. The group was joined by the mutant [[Synch (comics)|Synch]] that could copy powers which proved helpful as Banshee's screams easily subdued many Phalanx entities. The rest of the targeted mutants were being held by Harvest in an old, decommissioned battleship and disguised itself as Gregor, an imprisoned farm-boy type mutant.<ref>''X-Men (2nd series)'' #36</ref> The disguise was suspected by some of the prisoners.<ref>''Uncanny X-Men (1st series)'' #317</ref> Eventually, the group saved all the targeted new mutants except for [[Blink (comics)|Blink]] having sacrificed herself to save the rest and killing Harvest.<ref>''X-Men'' #37</ref>
+
+The rest of these young mutants went on to become the core of [[Generation X (comics)|Generation X]], tutored by Banshee and [[Emma Frost]]. Meanwhile, the other mutant teams found a group of Phalanx attempting to follow their genetic instruction to construct a Babel Spire to contact the Technarchy. Douglock led a small team consisting of [[Forge (comics)|Forge]], [[Wolfsbane (comics)|Wolfsbane]] and [[Cannonball (comics)|Cannonball]] in destroying the spire. Cyclops' group assaulted the core Phalanx base on [[Mount Everest]], where the X-Men were held. They were covertly assisted by Lang having realised the Phalanx had grown beyond his ability to manipulate and were threatening the general human population. The smaller Phalanx nests around the world were destroyed as a result of this confrontation.<ref>''Cable (2nd series)'' #16</ref>
+
+Much later it was revealed that before the [[Phalanx Covenant]] happened, [[Mister Sinister]] managed to capture one member of this techno-organic race and experimented upon it in order to clone himself into the single-minded collective. As Sinister experimented on it, the Phalanx member lost the mental link to its brethren. When Sinister eventually succeeded, he destroyed the lab and everything inside, including most of this being. A scrap of it remained and combined with earthworms, which didn't have minds, so they simply added to its physical makeup, growing and growing slowly. Upon surfacing, it attempted to link up with the Phalanx, but was too weak. Left alone, it eventually discovered that when it attempted to assimilate humans to form a new collective mind, their minds are wiped out and the humans essentially die, adding just their physical mass. Desperate to locate the rest of the Phalanx, to once more feel the sense of unity and togetherness they shared, it absorbed more and more people, hopping to gain the strength needed to signal them. However its energy signature is detected by Agent [[Abigail Brand]] of [[S.W.O.R.D. (comics)|S.W.O.R.D.]] alerting the X-Men horrified to find this Phalanx member had absorbed an entire town. As the X-Men face it they can't prevent this Phalanx from turning into a Babel Spire so it could contact the Technarchy, yet, things do not go as it hoped, and the X-Men eventually destroyed the techno-organic virus as [[Storm (Marvel Comics)|Storm]] wonders, "It said we didn't understand. Could we have understood one another? Is there anything we shared?" Cyclops' response, "I doubt we'll ever know."<ref>''Uncanny X-Men (2011)'' #04</ref>
+
+Clones of the Phalanx (and others) remain captive in Mister Sinister's prize collection.<ref>''Extraordinary X-Men'' #4</ref>
+
+===The Shi'ar Massacre===
+Another group of Phalanx later almost decimated the [[Shi'ar]] Empire in the absence of the [[Imperial Guard (comics)|Imperial Guard]]. With their bodies now entirely pitch black, except for a few red and blue glowing sensor slits, these new breed only displayed the basic Phalanx and Technarchy features while shapeshifting or when they were damaged. These Phalanx also considered themselves as "pure" Phalanx compared to such sects like the one on Earth and hadn't any reservations about infecting mutants with the transmode virus as they almost transformed [[Rogue (comics)|Rogue]].<ref>''Uncanny X-Men (1st series'') #343</ref> The Phalanx made their way to Chandilar, the throneworld of the Shi'ar Empire where they tried to assimilate the "Nest", actually the hatching chamber where all Shi'ar eggs were being nurtured. Had they succeeded, the entire next generation of Shi'ar would have become part of the Phalanx collective. However, Beast developed a device that would emit a certain frequency to separate the organic from the technological part, causing all Phalanx within its range to dissolve but not before thousands or more Shi'ar were massacred.<ref>''Uncanny X-Men (1st series)'' #344</ref> The rest of this group later conquered another planet,<ref>''Warlock'' #7</ref> but were destroyed by the Magus after the construction of a Babel Spire.<ref>''Warlock'' #8</ref>
+
+===Annihilation: Conquest===
+{{Main|Annihilation: Conquest}}
+
+A new breed of Phalanx is seen in ''[[Annihilation Conquest|Annihilation: Conquest]]'', the sequel to the ''[[Annihilation (comics)|Annihilation]]'' crossover, as the primary villain with the [[Super-Adaptoid]] as an enforcer. They tried to begin where [[Annihilus]] left off. When the Kree began the test of the new defensive network, the Phalanx managed to corrupt the system directly through the Kree homeworld of Hala, surrounding the entire Kree Empire in an inescapable energy barrier. They also spread their Transmode Virus, turning all organic life forms into Phalanx, fully under their control and members of their single minded matrix. High powered beings such as [[Ronan the Accuser]] were made into their group Select, used to cut off any attempts to stop the spread and control of the Phalanx. The Kree who didn't fell under control fought back against their oppressors as well as [[Quasar (comics)|Quasar (Phyla Vell)]], [[Moondragon]], [[Adam Warlock]], [[Star-Lord]] and the Dirty Half Dozen only to discover that the Phalanx were under [[Ultron]]'s guidance.<ref>''Annihilation Conquest: Quasar'' #1 - #4 (Jul. - Oct. 2007)</ref>
+
+==Experimentation==
+Given the powerful nature of the Phalanx, different individuals and governments attempted to experiment with the alien race.
+
+* British intelligence group [[Black Air]] acquired several Phalanx specimens, and determined how to control them. They used at least one Phalanx (which had a [[Brood (comics)|Brood]] as its template) as a guardian "warliquid" at their London headquarters, the Blackwall. They kidnapped and manipulated [[Douglock]] as part of a plot to gain outright dominion over the earth by the channeling of demonic energy.
+* After a battle with the [[Silver Surfer]], [[Cable (comics)|Cable]] was partially [[lobotomy|lobotomized]] in order to save his life from the angry [[herald]] of [[Galactus]]. Now trying to save him, [[Deadpool (comics)|Deadpool]] tracked down the [[Fixer (comics)|Fixer]] to save Cable. Deadpool was in possession of a Phalanx [[fetus]], having taken it from an [[Advanced Idea Mechanics|AIM]] facility, which Fixer [[medical grafting|surgically grafted]] onto his body. After a brief scuffle for control, Cable's mind overwhelmed that of the fetal alien and made it subservient to him so that it would not try to "assimilate" him into the collective.
+* Before the Phalanx Covenant event started, it was revealed that Mister Sinister was able to capture a Phalanx which he kept experimenting until he was capable to replicate their hive-mind form which he then used to link himself with every clone of him by a telepathy-like system.
+
+==Attributes==
+Unlike the savagely individualistic Technarchy, Phalanx form an insect-like [[group mind (science fiction)|hive mind]]. While each member retains memories from prior to assimilation and a degree of their personality, generally each member cannot perform actions against the wishes of the group mind without first being severed from the collective consciousness, as Douglock was.
+
+Phalanx, like the Technarchy, can infect other organisms with the transmode virus with any physical contact - the only known exception being Earth [[Mutant (Marvel Comics)|mutants]] who possess a degree of immunity to the transmode virus. This seems to be a limitation of the Phalanx which their Technarchy progenitors do not have, as Warlock had no problems infecting his future teammate Magik (accidentally) when they first met and repeatedly infecting Cypher to form the Douglock entity on multiple occasions; In Cypher's case the effect was reversed without apparent incident, though Warlock was constantly worried that a time would come when the reversal would not take.
+
+Any organism infected by the Phalanx is automatically inducted into the group mind.  Recently, however, Ultron's guidance have allowed certain individuals with exceptional powers and/or abilities to become the "Selects", beings who are connected to the Phalanx hive mind, but retain their individual identities.
+
+Phalanx also possess the Technarchs' abilities to shapeshift and teleport, but (unlike the Technarchs) cannot grow in size and mass without absorbing external matter. Over time, they can adapt to attack from inherent biological powers, but only to the specific frequencies/levels/etc already used against them.
+
+==Other versions==
+
+===Marvel 2099===
+In the possible future known as 2099, the Phalanx tried to invade the planet Earth a second time. To prevent Earth from being converted by the Transmode Virus, Spider-Man ([[Miguel O'Hara]]) forms an uneasy alliance with [[Dr. Doom]], who had encountered the Phalanx in their first attempt to invade Earth in the 20th century. Doom knew that the Phalanx would have a "scout program" so he added his own subroutine to the coding called subroutine Cynthia which would erase the scout program. When Doom jumped to the future he lost track of the scout program and therefore created the Mutant Messiah myth to track the carrier down again.
+
+When, during a mission, the mutant [[Nostromo (comics)|Nostromo]] becomes sheathed in a strange cocoon, he reveals himself to be the carrier when he "hatches" as a Phalanx. Doom sends some operatives to bring the boy to him, however, some of the operatives turn out to be Phalanx themselves and begin attacking the group.
+
+Nostromo is eventually delivered to Doom, who then activates the subroutine within Nostromo and, bidding Spider-Man to take him to safety, blows up his castle, while Twilight brings reinforcements of aboriginal Martians to destroy the Phalanx in orbit.
+
+===Exiles===
+In the ''[[Exiles (Marvel Comics)|Exiles]]'' series, the dimension-hopping team visited a world infested by a mutated version of the Phalanx. On this world, [[Cypher (comics)|Cypher]] fell ill with the [[Legacy Virus]] and in an act of desperation Warlock infected him with the [[techno-organic virus|transmode virus]] to try and save his life. Unfortunately the two diseases combined and mutated into something far worse. Within the year, almost all of the world's population were transformed into Phalanx drones, calling themselves the ''Vi-Locks''. The group was led by [[Forge (comics)|Forge]] whose innate understanding of machinery made him a prime candidate for leadership. In the course of the team's mission, [[Blink (comics)|Blink]] was infected and slowly started succumbing to the virus. On a hunch, [[Morph (comics)|Morph]] was able to contact the [[Asgardians (comics)|Asgardians]] whose divine blood was able to heal the victims after they received a [[blood transfusion|transfusion]].
+
+===Cable===
+In yet another alternate reality, the Phalanx has overrun Earth, assimilating every lifeform. The mutant [[Cable (comics)|Cable]] serves as its central consciousness.
+
+==In other media==
+
+===Television===
+* The Phalanx appeared in the ''[[X-Men (TV series)|X-Men]]'' animated series, primarily voiced by [[Lally Cadeau]]. An amalgamation of the original comics version and the [[Technarchy]], this iteration is led by the '''Phalanx Nexus''', a voracious alien life-form in charge of the Phalanx homeworld, and a race that can assume the guise of anything or anyone and able to assimilate humans. [[Warlock (New Mutants)|Warlock]] escapes from the Phalanx homeworld but crashlanded on Earth, leading to Warlock's Life-Mate (voiced by [[Susan Roman]]) taken captive to spread the Phalanx infection. During the two-part episode "Phalanx Covenant", the Phalanx began their invasion of assimilation on Earth with [[Cameron Hodge]] (voiced by [[Stephen Ouimette]]) as a liaison. The Phalanx both impersonated [[Sabretooth (comics)|Sabretooth]] (voiced by [[Don Francks]]) and assimilated [[Robert Kelly (comics)|Robert Kelly]] to have the [[X-Men]] captured, however, [[Beast (comics)|Beast]] and Warlock managed to avoid this. The Phalanx moved throughout Earth and would try to assimilate mutants, including the X-Men. Ultimately, Beast and Warlock find a way to stop the alien horror from assimilating every single lifeform on Earth with additional support from [[Forge (comics)|Forge]], [[Mister Sinister]] and [[Magneto (comics)|Magneto]]. The group infiltrates the Phalanx Nexus to deliver a vaccine via Warlock that eliminates the rogue Phalanx infestation and restored every living organism, including Warlock's Life-Mate, back to normal.
+* The Phalanx appear in the ''[[Ultimate Spider-Man (TV series)|Ultimate Spider-Man]]'' animated series. This version similar to the ''Annihilation Conquest'' design of Phalanx, however, is a metallic dwarfish insectoid and can infect organic lifeforms to absorb organic matter. In the episode "Home Sick Hulk", the Phalanx abducted the [[Hulk (comics)|Hulk]]. When their space pod with Hulk and a Phalanx droid crashlands, [[Spider-Man]] learns enough from [[Ultimate Nick Fury|Nick Fury]] about the organism. The Phalanx droid is removed by Spider-Man but a strange barb device is on Hulk despite the droid being crushed by Hulk. The Phalanx device made Hulk sick, causing Spider-Man to help without letting [[S.H.I.E.L.D.]] know and keep at the Parker household without [[Aunt May|May Parker]] finding out. It turns out that the Phalanx's device on Hulk sends a signal, alerting their drones as Hulk recovers. The two heroes get the Phalanx drones away from the suburbs without touching the alien organism which the two defeat. Following a drone to a warehouse, Spider-Man and Hulk find out the Phalanx source is now uses stronger Phalanx drones (vocals provided by [[Fred Tatasciore]]<ref name="Home Sick Hulk">{{cite episode|title=Home Sick Hulk|serieslink=Ultimate Spider-Man (TV series)|series=Ultimate Spider-Man|network=Disney XD|season=1|number=19|airdate=September 9, 2012}}</ref>) thanks to Hulk's DNA. Due to the Phalanx's reaction with organic material, Spider-Man and Hulk attack the stronger Phalanx drones with non-organic stuff. Hulk then attacks by heading towards their source device, defeating the Phalanx just as S.H.I.E.L.D. Agents arrive.
+* A Phalanx-esque concept appears in the ''[[Avengers Assemble (TV series)|Avengers Assemble]]'' animated series, voiced by [[Jim Meskimen]].<ref name="The Ultron Outbreak">{{cite episode|title=The Ultron Outbreak|serieslink=Avengers Assemble (TV series)|series=Avengers Assemble|network=Disney XD|season=2|number=18|airdate=May 17, 2015}}</ref> This version resembles the ''Annihilation Conquest'' version of Phalanx but is [[Ultron]]'s nano-virus. In the episode "Avengers Disassembled", a number of Life Model Decoys that are a [[S.H.I.E.L.D.]] drop team corrupted into Phalanx esque drones by Ultron (via [[Super-Adaptoid]]) at [[Roxxon Energy Corporation|Roxxon]] into fighting the [[Avengers (comics)|Avengers]] which destroy the corrupted LMDs. In the episode "The Ultron Outbreak", Ultron plans for a Phalanx esque nano-virus to assimilate humans. With [[Falcon (comics)|Falcon]] as the first carrier, the Phalanx esque carrier fights the Avengers, getting away from the divided group and assimilated more humans as Ultron Sentries. As the divided Avengers contain the Phalanx esque Ultron Sentries, [[Scott Lang|Ant-Man]] and Falcon ultimately use a formula to force the copies back into Ultron.
+
+===Video games===
+* The Phalanx was the primary antagonists in ''[[X-Men 2: Clone Wars]]''. 
+* The Phalanx is mentioned in ''[[Marvel: Ultimate Alliance 2]]''. [[Deadpool]] mentioned the alien group in a discussion with [[Nick Fury]]'s nanite-infected form in Wakanda as a possible rename for The Fold only to remember that the name was already taken.
+
+==References==
+{{Reflist}}
+
+==Primary sources==
+* [[Phalanx Covenant]]
+* ''Uncanny X-Men'' #291, #305-306, #343-344
+* ''Warlock'' (M-Tech) #7
+* ''[[Annihilation Conquest|Annihilation Conquest Prologue]]''
+
+==External links==
+* [http://en.marveldatabase.com/Phalanx Phalanx] at Marvel Database
+
+{{X-Men}}
+{{Annihilation}}
+{{Marvel Cosmic}}
+
+[[Category:Characters created by Bill Sienkiewicz]]
+[[Category:Characters created by Chris Claremont]]
+[[Category:Characters created by Joe Madureira]]
+[[Category:Characters created by Scott Lobdell]]
+[[Category:Comics characters introduced in 1994]]
+[[Category:Marvel Comics supervillains]]
+[[Category:Hive minds in fiction]]

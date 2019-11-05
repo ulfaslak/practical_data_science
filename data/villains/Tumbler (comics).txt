@@ -1,0 +1,48 @@
+'''Tumbler''' is the name of four fictional characters appearing in [[American comic book]]s published by [[Marvel Comics]].
+
+==Publication history==
+John Keane first appeared in ''[[Tales of Suspense]] #83'' (Nov 1966) and was created by [[Stan Lee]] and [[Jack Kirby]].
+
+==Fictional character biography==
+===John Keane===
+{{Infobox comics character| <!--Wikipedia:WikiProject Comics--> 
+image=
+|caption=
+|character_name=Tumbler
+|real_name=John Robert Keane
+|species=[[Human]]
+|publisher=[[Marvel Comics]]
+|debut=''[[Tales of Suspense]]'' #83 (Nov 1966)
+|creators=[[Stan Lee]] (writer)<br>[[Jack Kirby]] (artist)
+|alliances=[[Secret Empire (organization)|Secret Empire]]
+|aliases=
+|powers=exceptional acrobatic skills
+}}
+John Keane is a costumed criminal acrobat. Intending to test himself against [[Captain America]], he broke into [[Avengers Mansion]]. He easily beat Captain America in two separate struggles—although, this turned out to be the [[Super-Adaptoid]], who had taken Captain America's form and lacked his fighting skills. The real Captain America freed himself from the Adaptoid's trap and defeated the Tumbler in combat.{{issue|date=December 2011}}
+
+Later, the Tumbler was hired by Quentin Harderman as a part of the [[Secret Empire (organization)|Secret Empire]]'s plot to discredit Captain America. The Tumbler robbed a store, and Captain America tried to capture him but the Tumbler escaped. The next day, John Keane in civilian clothes was told to meet Captain America at a charity boxing match; however the Captain recognized Keane and he ran. Captain America knocked Keane down with his shield, and as the two struggled, the first [[Nefarius|Moonstone]] shot and killed Keane with a micro laser under orders from Harderman while hiding out of sight. Harderman accused Captain America of murdering the Tumbler as part of the scheme to discredit him.<ref>''Captain America'' #169 (January 1974)</ref>
+
+===Spider-Squad===
+The second Tumbler is a member of the Spider-Squad.<ref>''Amazing Spider-Man Annual'' #11</ref>
+
+===Michael Keane===
+It was later revealed that John Keane was using his ill-gotten gains that he had taken as the Tumbler to pay for his mother's living and her home, while his brother Michael was in the army. He had also taken out a million-dollar life insurance policy with the Guardian Life Insurance Policy. When Michael tried to collect on this policy, Guardian Life Insurance Policy refused to pay the claim since John had been killed in an illegal act. Michael trained hard and took on his brother's identity as the Tumbler, getting Captain America's help to expose the insurance company's fraud.<ref>''Captain America'' #291</ref>
+
+===Unnamed criminal ===
+After receiving the Tumbler gear from Michael Keane, [[Roderick Kingsley]] sold it to an unnamed criminal. Tumbler, [[Ringer (comics)|Ringer]], and [[Steeplejack (Marvel Comics)|Steeplejack]] are shown to be in the services of Roderick Kinglsley. They were later ambushed by the Goblin King's servants Menace and Monster (the "Goblin" form of [[Carlie Cooper]]).<ref>''The Superior Spider-Man'' #25</ref>
+
+==References==
+{{reflist}}
+
+==External links==
+* {{Marvunapp|http://www.marvunapp.com/Appendix3/tumblerjohnkeane.htm|Tumbler}}
+
+{{Captain America}}
+{{Jack Kirby}}
+{{Stan Lee}}
+
+[[Category:Characters created by Jack Kirby]]
+[[Category:Characters created by Stan Lee]]
+[[Category:Marvel Comics supervillains]]
+
+{{Marvel-villain-stub}}

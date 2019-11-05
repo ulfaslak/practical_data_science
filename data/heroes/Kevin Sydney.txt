@@ -1,0 +1,129 @@
+{{multiple issues|
+ {{refimprove|date=August 2016}}
+ {{leadtooshort|date=February 2016}}
+ {{primary sources|date=November 2018}}
+}}
+
+{{Infobox comics character <!-- Wikipedia:WikiProject Comics -->
+| character_name = Changeling ([[Earth-616]])<br>Morph ([[Multiverse (Marvel Comics)#Known alternate universes|Earth-1081]])
+| image = Morpexilesjpg.jpg
+| imagesize =
+| converted = y
+| caption =
+| publisher = [[Marvel Comics]]
+| debut = '''As Changeling:'''<br>''[[Uncanny X-Men|The X-Men]]'' #35 (August [[1967 in comics|1967]])<br><br>'''As Morph:'''<br><small>First appearance:</small><br>''[[X-Men: The Animated Series]]''<br>"[[Night of the Sentinels|Night of the Sentinels (Part 1)]]" (October 1992)<br><small>First comic appearance:</small><br>''[[X-Men Adventures]]'' #1 (November 1992)<br><small>First appearance new look:</small><br>''X-Men Alpha'' (February 1995)
+| creators = '''Changeling:'''<br>[[Roy Thomas]]<br>[[Werner Roth (comics)|Werner Roth]]<br><br>'''Morph:'''<br>Mark Edward Edens
+| alter_ego = Kevin Sydney
+| full_name =
+| species = [[Mutant (Marvel Comics)|Human mutant]]
+| alliances = [[X-Men]]<br>[[Factor Three]]<br>X-Humed<br>[[Exiles (Marvel Comics)|Exiles]]
+| aliases = <nowiki>#2</nowiki>, [[Kevin MacTaggert]], John Askegren, Jack Bolton, Martina Johanssen, Werner Reiman, Charles Sage, Francisco Zerilli, [[Professor X|Professor Charles Xavier]]
+| powers = [[Shapeshifting]]<br>[[Telepathy]]<br>[[Levitation]]<br>Skilled actor<br>Highly trained and efficient organizer<br>Good prankster<br>Expert computer engineer
+| cat = super
+| subcat = Marvel Comics
+| hero = y
+| sortkey = Kevin Sydney
+}}
+'''Kevin Sydney''' is a [[Character (arts)|fictional character]] appearing in [[American comic book]]s published by [[Marvel Comics]]. The Changeling has been depicted as a member of the [[X-Men]]. Created by writer [[Roy Thomas]] and artist [[Werner Roth (comics)|Werner Roth]], the character first appeared in ''[[Uncanny X-Men|The X-Men]]'' #35 (August [[1967 in comics|1967]]).
+
+Kevin Sydney first appeared as '''Changeling''', a [[Mutant (Marvel Comics)|mutant]] [[shapeshifting|shapeshifter]]. He was a short-lived adversary for the [[X-Men]] who subsequently joined [[Professor X]] and died shortly after, making him the first member of the X-Men to die in action. The character was reintroduced as '''Morph''' in the 1990s for ''[[X-Men: The Animated Series]]''. An alternate reality version of the character under the codename Morph reappeared in the comics as part of the [[Exiles (Marvel Comics)|Exiles]] in 2001.
+
+==Publication history==
+The first run of appearances occurred in 1967–1968 when he appeared in ''X-Men'' #37-42 as Changeling. Although dying at the end of this run, he was thought to have been seen as a ghost in ''[[Excalibur (comics)|Excalibur]]: The Possession'' (1991) and returned as a zombie in ''[[Sensational She-Hulk]]'' #34-35 (1991–1992).
+
+The character was later reintroduced as an easygoing comic-relief character for ''[[X-Men: The Animated Series]]''. According to showrunner Eric Lewald's behind-the-scenes book, ''Previously On X-Men: The Making of an Animated Series'', the creators had intended for [[Thunderbird (comics)|Thunderbird]] to be the series' early sacrifice, but they became uncomfortable with the idea of killing off a Native American character. Scanning the X-books for a substitute, the character Changeling was found and repurposed for the series. Sydney's codename was changed to Morph because [[DC Comics]] owned the trademark to "[[Beast Boy|Changeling]]" when the series debuted.<ref>{{cite book |last=Lewald |first=Eric |date=2017 |title=Previously On X-Men: The Making of an Animated Series |url= |location= |publisher=Jacobs Brown Press |page= |isbn= |author-link= }}</ref>
+
+Morph's first comic book appearance was 1992's ''[[X-Men Adventures]]'' #1, which adapted the "[[Night of the Sentinels]]" TV pilot. Then in 1995, inspired by the character in the animated series, a new Morph was featured in the "[[Age of Apocalypse]]" crossover event, debuting in the one-shot comic ''X-Men Alpha''. The character underwent a drastic change in appearance for this event, appearing white-skinned and hairless. Then in 2001, Marvel introduced an alternate-reality version of this Morph, from Earth-1081. He first appeared in ''[[Exiles (Marvel Comics)|Exiles]]'' #1.
+
+==Fictional character biography==
+
+===Earth-616 character===
+Kevin Sydney{{cn|date=December 2015}}, known as "Changeling", originally worked for the villainous organization [[Factor Three]]. He acted as the [[Mutant Master]]'s second-in-command in an effort to trigger World War III. After successfully capturing the heroic [[X-Men]], the Mutant Master is exposed as an extraterrestrial and goes out of control. The mutants of Factor Three ultimately joined with the X-Men to defeat the Mutant Master.<ref>''X-Men'' vol. 1 #37-39</ref>
+
+Following that group's defeat, Changeling sought to reform. He divulged to [[Professor X]] that he was suffering from an unspecified terminal illness with only a few months left to live and wished to atone for his misdeeds. [[Professor X]] recruited Changeling to act as a stand-in, unbeknownst to the X-Men, while the Professor isolated himself to prepare a defense against the alien [[List of Marvel Comics alien races#Z|Z'Nox]]'s invasion.<ref>As revealed subsequently in ''X-Men'' #65 (February 1970)</ref> Changeling, masquerading as Professor X,<ref>''X-Men'' vol. 1 #40</ref> led the X-Men's efforts to defeat the [[Subterranea (comics)|Subterranean]] [[Grotesk (comics)|Grotesk]]. He was mortally wounded in battle with Grotesk by the explosion of an oscillotron machine and, consequently, died preventing the destruction of Earth.<ref>''X-Men'' #41-42 (February–March 1968)</ref> The X-Men mourned the loss of Professor X until it was later revealed that it was, in fact, Changeling.<ref>''X-Men'' #65</ref>
+
+When the mystical Darkhold was recreated, Changeling's spirit used the opportunity to possess [[Meggan]]. Angry that he used his remaining time helping the X-Men instead of seeking a cure for himself, Changeling sought revenge against Professor X.<ref>''Excalibur: The Possession'' (July 1991)</ref> However, Merlyn later admits that the encounter was merely fantasy, having orchestrated the event to prepare Excalibur.<ref>''Excalibur'' #50</ref>
+
+Changeling again returned and battled [[She-Hulk]] when he was raised from the dead as a zombie by [[Black Talon (comics)#Black Talon II|Black Talon]] to form part of the team X-Humed (which also consisted of [[Harry Leland]], [[Living Diamond]], and [[Scaleface]]). It is Changeling who is able to break Talon's control of him long enough to allow She-Hulk to win and lay the zombies back to rest.<ref>''Sensational She-Hulk'' #34-35 (1991–1992)</ref>
+
+===Earth-1081 character===
+Morph is a hero from [[Multiverse (Marvel Comics)|Earth-1081]] who was a member of the [[New Mutants]], [[X-Men]], and [[Avengers (comics)|Avengers]]. He was a unique son of loving parents. Early on in life he managed to use his powers, and was able to give everyone what they wanted from him. Morph always used his power to joke around and keep everyone at ease with him, only comfortable to be himself around his parents.
+
+His mother died of lung cancer and Morph tried in every way to cheer up his emotionally distraught father (often acting in a childish way whenever his father wanted him to act serious), who, unable to let his suffering go, chose to enroll his son in a boarding school; luckily, that school happened to be the [[X-Mansion|Xavier Institute for Higher Learning]].
+
+Promoted to the X-Men, Morph's sense of humor initially grated upon the much more serious team but eventually his humor and humility won them over. He was instrumental in many of the team's victories and was chosen to be part of a pilot program with the Avengers, along with the Beast, as a public representative of mutant-kind.
+
+Morph would return to the X-Men because, in his own words, "he missed his freaky mutant brothers and sisters." On a subsequent mission, Morph and the rest of the X-Men were facing off against a threat known only as Stonehenge when Morph became unhinged from time.
+
+====The Exiles====
+After becoming unhinged from time, the mysterious [[Timebroker]] appeared to him, explaining that his unhinging was the result of a chain of events that caused his reality to change. In that new reality a wounded Morph is unable to maintain his form, and is in a coma, being only a white muddy substance in [[Beast (comics)|Beast]]'s lab. Hoping to save his own future, he becomes a member, and [[comic relief]], of the [[Exiles (Marvel Comics)|Exiles]], a group of universe-hopping heroes trying to save realities from ripples and alteration. Morph is a founding member of the Exiles and after [[Blink (comics)|Blink]] was removed from the group between issue #22 and #42 and [[Mimic (Exiles)|Mimic]] was killed in issue #73, Morph is the only original member remaining throughout the series.<ref>''Exiles'' #1-98</ref>
+
+He soon befriended the mutant [[Sunfire (Exiles)|Sunfire]], although in a loving [[Platonic love|platonic]] relationship, accepting the [[lesbian]] nature of his friend. He always took care of her, and her death left him emotionally wrecked.{{issue|date=July 2012}}
+
+====Mojo's World====
+The Exiles battled on, fixing reality after reality and struggling to keep it together. Following one of these missions the team was kidnapped by [[Mojo (comics)|Mojo]], the insane evil dictator of the Mojoverse. Mojo considered Morph the best entertainer he had ever seen and brought him back to entertain the masses. If he didn't, Mojo would kill his fellow Exile, [[Nocturne (Talia Wagner)|Nocturne]]. Eventually, Nocturne was able to escape and set Morph free. Mojo went crazy and threatened to kill Morph's friends. An enraged Morph was on the verge of killing Mojo when the Timebroker stopped them. The Timebroker revealed Mojo had disrupted time but he was a necessary evil and could not be killed.{{issue|date=July 2012}}
+
+====Weapon X====
+Morph continued to be the heart of the team until a mission in which [[Mimic (comics)|Mimic]] was taken over by a [[Brood (comics)|Brood]] egg. During the battle, he killed Sunfire. Mimic was eventually cured but Morph was enraged. He was devastated by Sunfire's death and told Mimic he should have killed himself rather than let something like this happen. Morph stormed off and threatened to leave the team. [[Magik (comics)|Magik]], an unlikely ally, followed and tried to calm him. The two connected and despite her past attitude during missions, Morph realized Illyana was just a scared girl trying to get home. He remained angry with Mimic but helped his team fight against the rogue reality-hopping team, [[Weapon X#Exiles|Weapon X]].{{issue|date=July 2012}}
+
+Before the battle began, Magik attempted to switch sides, believing her team was weaker. Hyperion, the self-appointed leader of Weapon X, snapped her neck and Morph was driven into a rage. He attacked Hyperion, who attempted to blast Morph with his eyebeams, but Mimic saved him. During the brawl with Weapon X, Morph fought against an evil [[Carol Danvers|Ms. Marvel]]. Their battle caused a building to fall in on them, killing Ms. Marvel but Morph was able to survive.{{issue|date=July 2012}}
+
+The Exiles were triumphant and the Timebroker told Morph he could finally go home. His mission was fulfilled. Morph considered the offer but asked if he could stay with his team. He realized they needed him and he could not leave them behind. The Timebroker agreed; Morph asked him not to tell the rest of the Exiles of his decision. Morph and Mimic reconciled since he realized that Sunfire's death was not Mimic's fault and that the Brood was controlling him. The team moved on.{{issue|date=July 2012}}
+
+====Proteus====
+Morph helped the team take down [[Proteus (Marvel Comics)|Proteus]] by impersonating the [[Maestro (comics)|Maestro]] and weakening Proteus with a steel strip in his head. Morph went to take down Proteus but Proteus knocked the steel plate out of his head and took over Morph's body in issue #80. When the Exiles tracked him to the "Heroes Reborn" world, cosmic entities "O" and "K" kidnapped him, saying his presence has tipped the balance of power. Using a tiara hooked to a brainwasher device, his teammate Blink managed if not to restore his consciousness, to brainwash Proteus, forcing him to act like Morph, and access to only Morph's memories, functionally "bringing him again to life." With Proteus trapped and believing he is Morph, he remained an Exile to continue fixing damaged realities. Considering Morph's body does not burn out like other hosts, Morph's consciousness is still active beneath Proteus. Also, Proteus is immune to metal while in Morph's body, since wearing a metal tiara during the "Heroes Reborn" world did not kill him. However, concerns about some discrepancies in "Morph's" behavior forced his teammates to plan regular brainwashings with the same device, and, eventually, put him in stasis whenever his behavior would change again. However, that device was destroyed when Psylocke and Sabretooth fought so intensely that they shook the Crystal Palace, causing a bookcase to fall on Morph's head, shattering the device.<ref>''Exiles'' #91</ref> With the device shattered, it was only a matter of time before Proteus would re-emerge.{{issue|date=July 2012}}
+
+During a confrontation where Proteus reawakened, he found himself lacking in power to defeat the adversary. About to be crushed, Proteus shouted aloud his desire to stay alive. In a vision, he saw a figure, almost identical to his own true, energy form, telling him to take its hand, and he would survive. Upon doing so, Proteus found himself full of even greater power, using it to defeat his god-like enemy. Afterward, it was revealed that this being was the personality and soul of the true Morph, having been in limbo, gaining strength within Proteus and his own body, who had before only been able to speak a few sentences through Proteus' control. Revealing to Proteus that he had the ability to eject him from his body, Morph gave Proteus the chance to work together and share his body and their powers, in order to do more good, something which Morph had discovered Proteus desired deep within him. Proteus accepted, and the two now work together harmoniously, better than either could be alone.<ref>''New Exiles Annual'' #1</ref>
+
+However, soon after, when the New Exiles became immersed within the Crystal Palace, Proteus was absorbed in Morph's place, freeing Morph once and for all.<ref>''Exiles'' vol. 2 #6</ref>
+
+==Powers and abilities==
+Kevin Sydney is a mutant metamorph with the ability to alter his physical appearance and voice at will to resemble that of any person he chooses. His power could also transform the appearance of his costume as well, which was made of unstable molecules. Morph's mutation to shape-shift has also made it so that his body is a [[Play-doh]]-like substance and he can reattach limbs after they have been severed. He has limited [[telepathic]] abilities, which (in the original timeline) were enhanced by Professor X. As a side effect, he also gained limited telekinetic abilities.{{Citation needed|date=March 2007}} Upon choosing to work together and share his body with the energy mutant Proteus, Morph's powers appear to be amplified, at least enough to defeat a self-proclaimed god.  Whether the two have access to Proteus' reality changing abilities has yet to be determined.
+
+He has also stated that his mutation gives him a high metabolism and makes him very hormonal. In ''Exiles'' #33 [[Heather Hudson (Exiles)|Sasquatch]] said she was never able to detect a scent on Morph and [[Sabretooth (comics)#Age of Apocalypse and the Exiles|Sabretooth]] stated that while hunting Proteus in Morph's body, Morph stands out like a sore thumb in a crowd of "normal" people to Sabretooth's senses regardless of his form. It also appears he has the ability to fly as demonstrated in ''Exiles'' #27. Due to his shapeshifting ability he does not wear any actual clothing, and he takes joy in pointing this out.
+
+Kevin Sydney is a skilled actor, and a highly trained and efficient organizer of subversive activities. He carried various advanced weaponry of alien [[List of Marvel Comics alien races#S|Siri]] design belonging to [[Factor Three]], including a ray gun carried in a holster at his side. Though Morph is a prankster who downplays his intelligence, he is deceptively smart. He has a [[Master's degree]] in [[computer engineering]], which he earned at Xavier's Institute.
+
+==Other versions==
+Changeling is the character's codename in the contiguous [[Marvel Universe]], [[Earth-616]]. However, the character's reinvention as Morph in the [[X-Men (animated series)|''X-Men'' animated series]] raised his profile such that alternate versions of the character, now also named Morph, began to appear in stories set in other universes.
+
+===Age of Apocalypse===
+In the ''[[Age of Apocalypse]]'' (AoA), Morph was, like his "regular Marvel Universe" counterpart Changeling, an early recruit of the X-Men. Unlike Changeling, Kevin Sydney of AoA never died while impersonating [[Professor X]], because in the Age of Apocalypse Xavier died before the X-Men were ever founded. The AoA Morph's personality and costume are largely the same as that of the ''Exiles'' version, since the ''Exiles'' version is based upon the AoA version of Morph.  This is probably why Blink mistakes the Exiles Morph for the AoA Morph on their first meeting.
+
+In the AoA timeline, Morph often agitated his teammates with his off-the-wall sense of humor and inappropriate timing; he describes himself as wanting to die with a smile on his face when his time comes.<ref>''Astonishing X-Men'' 03 (1995)</ref> Despite his happy-go-lucky attitude, Morph has displayed signs of a softer, more empathetic side several times. For example, he morphed into Sabretooth in an effort to comfort Blink while she doubted her abilities, and he later gave Rogue the strength to endure against the horseman Holocaust by acting as her son.
+Shortly after the defeat of Apocalypse, he accompanied fellow X-Men Iceman, Wildchild and Exodus on an unspecified mission, during which they disappeared. Their fate has yet to be revealed, except for Wildchild, who has since joined a new team of Exiles.
+
+===The Lost Generation===
+{{Main|Marvel: The Lost Generation}}
+
+A Morph is also seen as a member of [[First Line (comics)|First Line]], set in Earth-616 but in the period after [[World War II]].<ref>{{cite web|url=http://www.lostgenerationhandbook.com/thefirstline.htm|title=Marvel: The Lost Generation<!-- Bot generated title -->|website=lostgenerationhandbook.com}}</ref>
+
+==In other media==
+===Television===
+[[Image:Morphanimted.png|right|thumb|250px|Morph as seen in ''[[X-Men (TV series)|X-Men]]''.]]
+* Changeling appears in ''[[X-Men (TV series)|X-Men]]'', voiced by [[Ron Rubin (voice actor)|Ron Rubin]]. Named Morph, he appears as a "throwaway" character for the writers to kill in the opening story arc to sell the stark nature of the series. Changeling (Morph) was chosen because of his past ties to the X-Men, as well as his long absence from Marvel Comics. Being a deceased minor character in Marvel canon, he was a "blank slate" and the writers were free to do with him as they wanted without fear of reprisal from fans of the character. Morph's death was intended to be permanent, but he gained unexpected popularity and was brought back. Sydney's codename had to be changed from Changeling to Morph as [[DC Comics]] had trademarked the Changeling name for the character, who is also known as [[Beast Boy]] of [[Teen Titans]] fame.{{Citation needed|date=December 2017}} In the first season, Morph was a member of the X-Men and a close friend of Wolverine, who claimed only Morph could make him laugh. In the series' second episode, Morph was assumed to be slain by [[Sentinels (comics)|Sentinels]], leaving Wolverine distraught. Wolverine blamed [[Cyclops (Marvel Comics)|Cyclops]] for leaving Morph behind, but later overcame it, having been desensitized to seeing friends die. Morph reappeared in the second season as a recurring villain who was driven progressively mad by memories of his death. Morph's psyche had been divided into [[Dissociative identity disorder|two personalities]]; one who loved his X-teammates and one who hated them for leaving him behind. He embarked on a guerrilla campaign in the X-Mansion, posing as several members of the X-Men to trap, injure, or otherwise incapacitate his former teammates. Wolverine, shocked at seeing his friend alive, tried to reason with Morph, assuring him that he was still a friend and ally and that Cyclops acted in the best interest of the team as a whole. Morph refused to accept the explanation and escaped in the Blackbird. Upon arriving on Muir Island, it is revealed that [[Mister Sinister]] had revived him, but with control implants that effectively brainwashed him. The ensuing battle would see Morph betray Sinister, ineffectively shooting him in the back, after Cyclops assured Morph he was still an X-Man. After the battle, Morph fled Muir Island, still unable to accept the camaraderie of his former team. Wolverine embarked on a personal quest to find Morph and help him, but after Morph forcibly resisted, Wolverine abandoned his quest and decided Morph was best left to sort things out on his own. In the second season finale "[[Reunion (X-Men episode)|Reunion (Part 2)]]", Morph provided a tip that led the X-Men to a then-final confrontation with Mister Sinister. Sinister reactivated Morph's implant during the battle and once again forced him to betray the X-Men. Morph was poised to fire a laser weapon at [[Professor X]] and Cyclops until Professor X slips into Morph's mind and reminds him he's an X-Man. Morph, again, breaks free of Sinister's control and blasts him instead, shattering the arch-villain. Professor X then took Morph back to the X-Mansion and finally removed his implants, but determined that the psychological damage needed much more rehabilitation. Morph made cameos in two episodes during third season as a patient on Muir Island; once in a hospital bed and once in a wheelchair as Cyclops and Wolverine were leaving the island. In the fourth season, Morph was the focal character in the episode "Courage". With the help of Moira MacTaggert, Morph showed significant improvement in overcoming his mental instability. Morph eventually returned to the X-Men when a terrorist strike interrupted his homecoming. He engaged in a scout mission with his friend Wolverine where they discovered [[Sentinel (comics)|Sentinels]] had once again been constructed. Morph fell victim to a [[Flashback (psychological phenomenon)|flashback memory]] of his death at the hands of a Sentinel and was paralyzed by fear. Later, his fear also prevented him from acting when [[Master Mold]] abducted Professor X. Overcoming his guilt and fighting his fear, Morph left to challenge the Sentinels against the wishes of his teammates. However, he single-handedly dispatched many of the Sentinels and destroyed Master Mold himself by shape-shifting into [[Omega Red]], [[Sasquatch (comics)|Sasquatch]], [[Angel (comics)|Angel]], and [[Longshot (Marvel Comics)|Longshot]] and mimicking their powers. Though the team congratulated him and welcomed him back to the team full-time, Morph still felt insecure about his mental state and declined. He decided to return to Dr. MacTaggert, promising he would return to the team in peak mental condition. Morph returned for a cameo in the fourth season episode "[[Beyond Good and Evil (X-Men episode)|Beyond Good and Evil (Part 1)]]", during Scott and Jean's wedding where he was sitting next to [[Jubilee (comics)|Jubilee]]. Morph's final appearance in fifth season was in the [[series finale]] "[[Graduation Day (X-Men episode)|Graduation Day]]", where he briefly appeared mimicking Professor X while the professor was dying due to an illness. He then morphed into Magneto to conclude the scene. Morph appeared to have regained some of his sarcastic sense of humor, indicating an improved mental state and a possible permanent return to the X-Men.
+
+===Video games===
+* A version of Morph appears in ''[[Marvel Heroes (video game)|Marvel Heroes]]'', voiced by [[Tom Kenny]]. This version is similar to the one that appeared in the ''Exiles'' ongoing series. Morph appears at the Xavier Institute, providing the player with useful items.
+
+==References==
+{{Reflist}}
+
+==External links==
+* [http://www.marvel.com/universe/Changeling Changeling] at Marvel.com
+* [http://marvel.wikia.com/wiki/Kevin_Sydney_%28Earth-616%29 Kevin Sydney] at Marvel Wolo
+* [http://uncannyxmen.net/characters/changeling UncannyXmen.net Character Profile on Changeling]
+{{X-Men}}
+
+{{DEFAULTSORT:Sydney, Kevin}}
+[[Category:Characters created by Roy Thomas]]
+[[Category:Comics characters introduced in 1967]]
+[[Category:Fictional actors]]
+[[Category:Fictional characters with multiple personalities]]
+[[Category:Fictional schoolteachers]]
+[[Category:LGBT superheroes]]
+[[Category:Male characters in comics]]
+[[Category:Marvel Comics characters who are shapeshifters]]
+[[Category:Marvel Comics mutants]]
+[[Category:Marvel Comics superheroes]]
+[[Category:Marvel Comics telepaths]]

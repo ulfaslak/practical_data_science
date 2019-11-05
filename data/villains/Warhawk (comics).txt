@@ -1,0 +1,48 @@
+{{refimprove|date=December 2018}}
+{{in-universe|date=June 2018}}
+{{Infobox comics character| <!--Wikipedia:WikiProject Comics-->
+image=
+|caption=
+|character_name=Warhawk
+|real_name=Mitchell Tanner
+|species=
+|publisher=[[Marvel Comics]]
+|debut=''[[Marvel Premiere]]'' #23 (Aug. 1975)
+|creators=[[Chris Claremont]] and [[Pat Broderick]]
+|alliances=[[S.H.I.E.L.D.]]
+|aliases=
+|powers=
+|}}
+
+'''Warhawk''' is a fictional character appearing in [[American comic book]]s published by [[Marvel Comics]].
+
+==Publication history==
+{{expand section|date=October 2017}}
+The character was partially inspired by soldiers his co-creator [[Chris Claremont]] has seen returning from Vietnam with [[posttraumatic stress disorder]].<ref>{{cite journal |last=Brennaman|first=Chris |title=Marvel Premiere|journal=[[Back Issue!]]|issue=71|page=24 |publisher=[[TwoMorrows Publishing]]|date=April 2014|location=Raleigh, North Carolina}}</ref>
+
+==Fictional character biography==
+Warhawk was a master assassin used by the C.I.A. in Vietnam who later went insane and battled [[Iron Fist (comics)|Iron Fist]].<ref>''Marvel Premiere'' Vol. 1 #23 featuring Iron Fist, August 1975.</ref>  Later, Warhawk regained his sanity and became a costumed criminal for hire.  He was hired to assassinate the first [[Atom-Smasher (Marvel Comics)#Ronald English|Atom-Smasher]],{{Issue|date=August 2011}} after which the Atom-Smasher's brother, Michael English, took over the identity. The [[Sebastian Shaw (comics)|Black King]] then hired Warhawk to bug the [[X-Mansion]] and test the abilities of the [[X-Men]].<ref>''Uncanny X-Men'' Vol. 1 #110, April, 1978.</ref>
+
+Later he became a free agent and fought Iron Fist again, and then [[David North (comics)|Maverick]] before going to prison.{{Issue|date=August 2011}}  He was conscripted by [[S.H.I.E.L.D.]] alongside [[Constrictor (comics)|Constrictor]], [[Tombstone (comics)|Tombstone]], and [[Man-Bull]] to serve as a temporary agent in exchange for reducing his sentence.{{Issue|date=October 2017}}
+
+==Powers and abilities==
+Warhawk is a highly trained assassin, soldier, marksman, and armed and unarmed combatant. He's also experienced with explosives, electronics, and computers. He has enhanced strength, endurance and steel hard "omnium skin" which is bulletproof. He uses a standard high-powered rifle, but has also used a gun firing tranquilizer darts, and a [[flechette]] pistol, which fired rocket-powered darts.
+
+==References==
+{{reflist}}
+
+==External links==
+*{{Marvunapp|http://www.marvunapp.com/Appendix/warhk2.htm|Warhawk}}
+
+[[Category:Characters created by Chris Claremont]]
+[[Category:Fictional assassins]]
+[[Category:Fictional mercenaries]]
+[[Category:Fictional special forces personnel]]
+[[Category:Fictional Vietnam War veterans]]
+[[Category:Marvel Comics characters with superhuman strength]]
+[[Category:Marvel Comics martial artists]]
+[[Category:Marvel Comics mutates]]
+[[Category:Marvel Comics supervillains]]
+
+
+{{Marvel-villain-stub}}

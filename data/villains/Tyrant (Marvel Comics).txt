@@ -1,0 +1,54 @@
+{{for|the Steve Bissette comic book series|Tyrant (Spiderbaby Grafix)}}
+{{Infobox comics character <!--Wikipedia:WikiProject Comics-->
+| character_name = Tyrant
+| image          = TyrantCosmic49iyxwh.jpg
+| converted      = y
+| caption        = ''Tyrant'', as appearing on the cover of ''Cosmic Powers'' #6 (Aug. 1994).<br> Art by [[Scot Eaton]].
+| publisher      = [[Marvel Comics]]
+| debut          = ''Silver Surfer'' (vol.3) #81 (June 1993)
+| creators       = [[Ron Marz]]<br />[[Ron Lim]]<br />[[Tom Christopher]]
+| alter_ego      = 
+| alliances      = 
+| aliases        = 
+| powers         = *[[Biospheric]] [[energy]] manipulation
+*[[Superhuman strength]] and durability
+*[[Invulnerability]]
+*Technopathy
+*Immortality
+| cat            = super
+| subcat         = Marvel Comics
+| hero           = 
+| villain        = 
+| sortkey        = Tyrant
+| addcharcat#    = 
+}}
+'''Tyrant''' is an [[Extraterrestrials in fiction|extraterrestrial]] character appearing in [[comic books]] published by [[Marvel Comics]]. The character first appeared in ''[[Silver Surfer]]'' vol. 3, #81 (June 1993).
+
+==Fictional character biography==
+The entity [[Galactus]] created a powerful living machine in his own image, and bestowed it with the Power Cosmic. Naming the machine Tyrant, it served Galactus until its desire for conquest caused it to secretly rebel. Tyrant's clandestine activity provokes opposition from a faction of female warriors called the [[Spinsterhood]]. Galactus eventually learned of Tyrant's betrayal and battled the machine, finally stripping Tyrant of the majority of its power and banishing it to deep space.<ref>''Silver Surfer'' Vol.3 #81 (July 1993)</ref>
+
+Tyrant returns eons later, and kidnaps several space-faring heroes and villains ([[Silver Surfer]], [[Terrax]], [[Morg]],  [[Beta Ray Bill]], [[Gladiator (Kallark)|Gladiator]], [[Jack of Hearts]] and [[Ganymede (comics)|Ganymede]]) in order to harness their combined powers. Jack of Hearts, however, managed to destroy the containment unit intended for him, which frees the other beings. Although they attack the entity it defeats them all just as Galactus arrives, demanding the return of his [[Herald of Galactus|Herald]] Morg. Tyrant agrees to free the other beings if Morg remains, which Galactus reluctantly accepts.<ref>''Silver Surfer'' Vol.3 #80 - 82 (May - July 1993)</ref>
+
+[[Thanos]] of [[Titan (comics)|Titan]]  eventually learns of Tyrant, and, seeking a challenge, allies himself with Terrax, Ganymede, Jack of Hearts and [[Legacy (Marvel Comics)|Legacy]] to learn about Tyrant. When the group attacked Tyrant's fortress, Thanos abandoned his allies to access Tyrant's computers. Thanos learned Tyrant's origin, and after his allies were defeated threatened to steal an orb containing an unknown amount of energy from the machine. Thanos holds off Tyrant until the remainder of the group escapes, and after a conflict that destroys much of Tyrant's fortress, teleports away. Thanos states he achieved his goal of obtaining the power orb and that further conflict was pointless.<ref>''Cosmic Powers'' #1-6 (March - Aug. 1994)</ref>
+
+Tyrant eventually revives Morg, now brainwashed and a loyal servant. Morg returns to Galactus as a spy, but defies the mental control and instead seeks out the [[Ultimate Nullifier]], the only weapon in the known universe that can destroy Galactus. Attempting to take vengeance on Galactus for abandoning him, Morg uses the device during a final battle between Galactus and Tyrant. The weapon destroys Galactus' ship and everyone aboard, including Tyrant (although Galactus escapes into a parallel dimension).<ref>''Silver Surfer'' Vol.3 #104-109 (May - Dec. 1995) (vanished in Ultimate Nullifier blast)</ref>
+
+==Powers and abilities==
+Tyrant was capable of absorbing and channelling tremendous amounts of cosmic energy for personal use, such as superhuman strength and energy projection. Courtesy of Tyrant's [[Biomechanics|bio-mechanical]] form, the entity was capable of using [[psionics]] to control and manipulate technology. The entity was also highly durable and effectively immortal. After a defeat by Galactus, Tyrant was forced to siphon off the life energy of planetary [[biosphere]]s to sustain itself (effectively echoing Galactus' own need to consume planets to sustain himself), with its power levels varying depending on the quantity of energy stored and available for use.
+
+==Notes==
+{{Reflist}}
+
+==References==
+{{Refbegin}}
+* {{marvunapp|http://www.marvunapp.com/Appendix2/tyrantgalactus.htm|Tyrant}}
+*{{comicbookdb|type=character|id=5311|title=Tyrant}}
+{{Refend}}
+{{Marvel Cosmic Entities}}
+{{Silver Surfer}}
+[[Category:Marvel Comics supervillains]]
+[[Category:Comics characters introduced in 1993]]
+[[Category:Marvel Comics robots]]
+[[Category:Marvel Comics characters with superhuman strength]]
+[[Category:Characters created by Ron Lim]]
+[[Category:Characters created by Ron Marz]]

@@ -1,0 +1,55 @@
+[[File:Title_page_of_first_appearance_of_Human_Top_(Bruce_Bravelle).jpg|thumb|right|First appearance of the Human Top; Dick Briefer used the pseudonym "Dun Barr" for this story{{cn|date=July 2016}}]]
+The '''Human Top''' (or just the '''Top''') is a [[fictional character]], a [[Golden Age of Comic Books|Golden Age]] [[superhero]] appearing in [[American comic book]]s published by [[Marvel Comics]]. The character appeared in two stories published by [[Timely Comics]] (the predecessor of [[Marvel Comics]]) in 1940 and 1942, and not since then. His real name is Bruce Bravelle.<ref name=Christiansen/> He is called "the Human Top" in the story titles but just "the Top" within the body of the stories.<ref name=IntCatalogue/>{{Better source|reason=basically just some guy's blog AFAIK |date=May 2014}}
+
+He is not to be confused with two other Marvel Comics Human Tops, to whom he bears no relation: Davey Cannon, who first appeared in 1963 under the name Human Top but is better known as [[Whirlwind (comics)|Whirlwind]], and [[Kid Commandos]]/[[V-Battalion]] member [[Human Top (David Mitchell)|David Mitchell]] who first appeared in 1978, also under the name Human Top.<ref name=MW/>{{Better source|reason=it is French, and we don't know its provenance |date=May 2014}}
+
+==Publication History==
+Bravelle appeared in a ten-page<ref name=CCL/>{{Better source|reason=may be just some guy's fansite, although this is not entirely clear |date=May 2014}} backstory ("The Origin of the Human Top") in the first (and only) edition of ''[[Red Raven Comics]]'', [[Cover date|cover-dated]] August 1940,{{cn|date=July 2016}} with script and artwork by [[Dick Briefer]].{{cn|date=July 2016}} Critic Nathan Mahney characterized the story as "fairly crude and unappealing".<ref name=Mahney/>
+
+Bravelle's second (and, as of 2014, last) appearance was in the backstory "The Red Terror"<ref name=Nevins/> in ''Tough Kid Squad'', cover-dated March 1942. 
+
+The stories were reprinted in a few Marvel collections in later years.<ref name=Realm/>{{Better source|reason=apparently just some guy's hobby ("my day job is programming")|date=May 2014}}
+
+==Fictional character biography==
+{{Reduced pull quote|right|I shall call you the Top – You shall fight the forces of crime and be the savior of the oppressed and innocent!|Professor Raymore Davis (in dialogue written by Dick Briefer)|Origin of the Human Top<ref name=ComicVine/>}}
+Bruce Bravelle, a high-school graduate from the fictional town of Patriotville, South Carolina<ref name=ComicVine/> was a test subject for a scientist who was trying to find a way to nourish the human body with electrical currents instead of food. In the middle of one of the tests, a bolt of lightning struck<ref name=Dime/> the castle in which the experiment was being conducted, causing an opposing magnetic flow and giving Bravelle the ability to spin around at superhuman speed when he crosses his wrists or is exposed to electricity. He can fly, drill his way through walls, and deflect bullets. He can operate underwater and travel at a speed of up to {{convert|250|mph|kph}}. His bullet-deflecting and wall-drilling powers are created by the intense whirlwind which he generates when spinning.<ref name=ComicVine/>
+
+In his first adventure (published in 1940), the Top thwarts some bank robbers, ultimately discovering that bank owner Horace Vanderveer (who had tried to frame the Top for the robbery)<ref name=Mahney/>{{Better source|reason=another fan blog |date=May 2014}} was behind the robbery and forcing him to confess.{{cn|date=July 2016}}
+
+In his second adventure (published in 1942), the Top fought and defeated a sinister criminal mastermind called the Red Terror. The Red Terror and his goons derail and rob a train and escape in a [[zeppelin]]. The Top tracks them to their hideout in an abandoned mine and kills them all as they attempt to escape.{{cn|date=July 2016}}
+
+Bravelle's subsequent activities and ultimate fate or current whereabouts are unknown.<ref name=ComicVine/>
+
+Bravelle inhabits [[Earth-616]], the main [[Continuity (fiction)|continuity]] in the [[Multiverse (Marvel Comics)|Marvel Comics multiverse]] where most stories take place.{{cn|date=July 2016}}
+
+In his first appearance, the Top's costume is a [[bodysuit]], mostly blue with red boots and some red trim, and a red emblem of a toy top on the chest and back. In his second appearance, his bodysuit is more colorful: red leggings, yellow shirt, blue tights, blue shoulder trim, wide large-buckled leather belt, but retaining the toy top emblem.{{citation needed|date=July 2014}}
+
+==References==
+{{Reflist|refs=
+<ref name=IntCatalogue>{{cite web |url=http://www.internationalhero.co.uk/h/humantop.htm |title=The Top |work=An International Catalogue of Superheroes |accessdate=May 26, 2014}}</ref>
+
+<ref name=Nevins>{{cite web |url=http://jessnevins.com/encyclopedia/humantop.html |title=Human Top |author=Jess Nevins |work=jessnevins.com |accessdate=July 31, 2014}}</ref>
+
+<ref name=Christiansen>{{cite web |url=http://www.marvunapp.com/master/hum.htm |title=Hum |author=Jeff Christiansen |work=Master List (of Marvel Universe characters) |accessdate=May 26, 2014}}</ref>
+
+<ref name=Realm>{{cite web |url=http://comicbookrealm.com/report/character/635/human-top-bruce-bravelle&t=appearances |title=Human Top aka Bruce Bravelle - Appearances |work=Comic Book Realm |accessdate=July 31, 2014}}</ref>
+
+<ref name=CCL>{{cite web |url=http://www.comiccollectorlive.com/LiveData/Issue.aspx?id=20caca51-e0d2-40c0-b458-c36347d3fd00 |title=Red Raven Comics 1-A  |work=Comic Collector Live |accessdate=July 31, 2014}}</ref>
+
+<ref name=ComicVine>{{cite book |last= |first= |title=Marvel Mystery Handbook: 70th Anniversary Special |year=2009 |publisher=Marvel Comics |asin=B0039XO75O |page= }}</ref>
+
+<ref name=Dime>{{cite book |last1=Lupoff |first1=Dick |last2=Thompson |first2=Don |last3=Ellison |first3=Harlan |title=All In Color for a Dime |url=https://books.google.com/books?id=KV4V_U9XJHMC&q=Human+Top+Bruce+Bravelle&dq=Human+Top+Bruce+Bravelle&hl=en&sa=X&ei=aMfaU_mMC6vLsQT6rYHADA&ved=0CCAQ6AEwAQ |accessdate=July 31, 2014 |year=1970 |publisher=Arlington House |isbn=978-0870000621 |page=244}}</ref>
+
+<ref name=Mahney>{{cite web |url=http://comicsodyssey.blogspot.com/2012_04_01_archive.html |title=May 1940: Red Raven Comics #1 |author=Nathan P. Mahney |date=April 3, 2012 |work=A Comics Odyssey |accessdate=July 31, 2014}}</ref>
+
+<ref name=MW>{{cite web |url=http://www.marvel-world.com/encyclopedie-803-fiche-tourbillon-le-biographie.html |title=Encylopédie - Tourbillon (le) |trans-title=Encyclopedia - Top (The) |author=ThierryM |work=Marvel World |accessdate=July 31, 2014}} {{link language|fr}}</ref>
+}}
+
+*{{cite book |last=Rovin |first=Jeff |title=The Encyclopedia of Superheroes |url= |year=1985 |publisher=Facts On File |isbn=978-0816011681 |page= }}
+
+[[Category:Marvel Comics superheroes]]
+[[Category:Marvel Comics characters who can move at superhuman speeds]]
+[[Category:Comics characters introduced in 1940]]
+[[Category:1940 comics debuts]]
+[[Category:1942 comics endings]]
+[[Category:Male characters in comics]]

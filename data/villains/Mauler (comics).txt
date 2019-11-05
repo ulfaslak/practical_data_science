@@ -1,0 +1,65 @@
+{{Notability|date=August 2018}}
+{{In-universe|date=August 2018}}
+{{Infobox comics character <!--Wikipedia:WikiProject Comics--> 
+|image=IronMan-156.jpg
+|caption= The third '''Mauler''' battles [[Iron Man]] on the cover of ''[[Iron Man (comic book)|Iron Man]]'' #156 (March 1982).<br>Art by [[Al Milgrom]].
+|character_name=Mauler
+|real_name=Aaron Soames<br>Turk Barrett<br>Brendan Doyle<br>Unnamed criminal
+|species=
+|publisher=[[Marvel Comics]]
+|debut=''[[Daredevil (Marvel Comics series)|Daredevil]] #167'' (Nov. 1980)
+|creators=[[David Michelinie]]<br>[[Frank Miller (comics)|Frank Miller]]
+|alliances=Cord Conglomerate
+|aliases=
+|powers=Armored suit grants:<br>Superhuman strength<br>Flight via turbines<br>Heavy resistance to injury<br>Internal life support systems<br>Laser cannon on left arm<br>Electric shock generator on right arm
+}} 
+'''Mauler''' (an [[acronym]] for '''M'''obile '''A'''rmored '''U'''tility '''L'''aser-guided '''E'''-beam, '''R'''evised) is a name used by four [[fictional characters]] appearing in [[American comic book]]s published by [[Marvel Comics]].
+
+==Publication history==
+The first version appears in ''[[Daredevil (Marvel Comics series)|Daredevil]]'' #167 (Nov. 1980) and was created by [[David Michelinie]] and [[Frank Miller (comics)|Frank Miller]]. 
+
+The second character first appears in ''[[Iron Man (comic book)|Iron Man]]'' #156 (March 1982) and was created by [[David Michelinie]]; [[John Romita Jr.]] and [[Pablo Marcos]].
+
+==Fictional character biography==
+===Aaron Soames===
+Aaron Soames was an elderly, former [[employment#employees and employers|employee]] of Cord Conglomerate deprived of his [[pension]] benefits by a computer error. Soames stole the [[prototype]] suit of Mauler armor in the hopes of punishing [[Edwin Cord]], who was indifferent to Soames' plight. Soames had two skirmishes with the hero Daredevil, and after humiliating Cord by symbolically erasing his existence as well by destroying his driver's license, credit cards and other means of personal identification (he did not intend to do him any actual harm), he was killed with advanced weaponry by Cord's men. Daredevil was one of the few mourners at Soames' funeral.<ref>''Daredevil'' #167 (Nov. 1980)</ref>
+
+===Turk Barrett===
+{{further|Turk Barrett}}
+The Mauler armor reappears when small-time criminal [[Turk Barrett]] steals the armor and attempts to kill Daredevil. Barrett is defeated in seconds by Daredevil.<ref>''Daredevil'' #176 (Nov. 1981)</ref>
+
+===Brendan Doyle===
+Later, [[mercenary]] Brendan Doyle is hired by the now imprisoned Edwin Cord to steal the armor from [[Stark Industries|Stark International]] (the company of Iron Man's [[alter ego]] Tony Stark) and destroy all records of the suit design and history. Although successful in stealing the suit, Doyle is prevented from reaching the records by former comrade [[War Machine|Jim Rhodes]], and decides to keep the suit.<ref>''Iron Man'' #156 (March 1982)</ref> As a soldier for hire, Doyle battles the heroes [[Spider-Man]] and [[Wonder Man]]<ref>''Marvel Team-Up'' #136 (Dec. 1983)</ref> and encounters Spider-Man once again while trying to retrieve his infant son.<ref>''Spectacular Spider-Man'' #122 (Jan. 1987)</ref> Doyle reappears during the [[Armor Wars]] when the Mauler armour [[confiscation|confiscated]] by the hero (who is tracking down [[technology]] based on his stolen designs).<ref>''Iron Man'' #225 (Dec. 1987)</ref>
+
+Doyle eventually gains a new suit of Mauler armor and battles [[Canada|Canadian]] superhero team ''[[Alpha Flight]]''.<ref>''Alpha Flight'' #113 (Oct. 1992)</ref> Jim Rhodes briefly impersonates the Mauler.<ref>''Iron Man'' Annual #16 (1995)</ref> Doyle returns during the [[Civil War (comics)|Civil War]] caused by the [[Registration Acts (comics)|Superhuman Registration Act]],<ref>''Civil War: War Crimes'' #1 (Feb. 2007)</ref> and encounters superhero team the [[Avengers (comics)|Avengers]].<ref>''Avengers: The Initiative'' #13 (July 2008)</ref>
+
+Brendan Doyle is later recruited by [[Mandarin (comics)|Mandarin]] and [[Zeke Stane]] to join the other Iron Man villains in a plot to take down Iron Man.<ref>''Invincible Iron Man'' #513</ref>
+
+===Mauler IV===
+[[Roderick Kingsley]] later sold one of the Mauler armors to an unnamed criminal. Mauler IV is seen on Roderick Kingsley's side at the time when [[Hobgoblin (comics)|Hobgoblin]] (who was actually Roderick Kingsley's butler Claude) was leading his forces into attacking the [[Green Goblin|Goblin King]]'s Goblin Nation. After Hobgoblin was killed by Goblin King, Mauler IV was among the villains that defected to the Goblin Underground.<ref>''Superior Spider-Man'' #26</ref>
+
+==Powers and abilities==
+The Mauler armor provides heavy protection from physical and energy-based attacks, boosts the wearer's strength and courtesy of [[turbine]]s allows [[flight]]. In addition to internal life support systems, a [[laser]] cannon that doubles as an [[electron]] [[Particle beam|particle gun]] is mounted on the left arm. The right palm of the armor can also generate a high-frequency [[electric shock]].
+
+==In other media==
+===Video games===
+* The Brendan Doyle version of Mauler appears in the PSP and Wii versions of the ''[[Iron Man 2 (video game)|Iron Man 2]]'' video game, voiced by [[Steven Blum]]. Mauler appears on the [[S.H.I.E.L.D.]] Helicarrier initiating [[Kearson DeWitt]]'s plan to down the aircraft using bombs. Iron Man disarms the bombs and eventually defeats Mauler. Mauler carries a bomb which Iron Man blasts to defeat Mauler. He then fights and defeats Mauler once again disarming multiple bombs in the process.
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://marvel.com/universe/Mauler_(disambiguation) Mauler (disambiguation)] at Marvel.com
+* {{Marvunapp|http://www.marvunapp.com/Appendix4/maulersoames.htm|Mauler}}
+
+{{Iron Man}}
+{{John Romita Jr.}}
+{{Frank Miller}}
+
+[[Category:Comics characters introduced in 1980]]
+[[Category:Comics characters introduced in 1982]]
+[[Category:Marvel Comics supervillains]]
+[[Category:Characters created by Frank Miller]]
+[[Category:Characters created by David Michelinie]]
+[[Category:Characters created by John Romita Jr.]]
+[[Category:Fictional mercenaries]]

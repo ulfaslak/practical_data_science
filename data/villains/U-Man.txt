@@ -1,0 +1,50 @@
+{{Superherobox| <!--Wikipedia:WikiProject Comics-->
+| image                    = Invaders-39.jpg
+| image_size               = 225
+| caption                  = ''U-Man'' (center) battles the ''[[Invaders (comics)|Invaders]]'' and the ''[[Kid Commandos]]''.<br>Cover of ''Invaders'' #39 (Apr. 1979).<br>Art by [[Alan Kupperberg]].
+| character_name  =U-Man
+| publisher             =[[Marvel Comics]]
+| debut                  =''[[Invaders (comics)|Invaders]]'' #3 (Nov. 1975)
+| creators              = [[Roy Thomas]] (Writer)<br>[[Frank Robbins]] (Artist)
+| real_name         =Meranno
+| species              = ''[[Homo mermanus]]''
+| homeworld        = [[Atlantis (Marvel Comics)|Atlantis]]
+| alliances            = [[Super-Axis]]
+| aliases              = <!-- optional: actual identities the character uses, not nicknames -->
+| supports.          = <!--optional-->
+| powers             =Able to move and breathe underwater<br>Superhuman strength, durability, and endurance<br>Trained in warfare
+}}
+'''U-Man''' (Meranno) is a [[fictional character]] appearing in [[American comic book]]s published by [[Marvel Comics]].
+
+==Publication history==
+{{expand section|date=September 2013}}
+U-Man first appears in ''[[Invaders (comics)|Invaders]]'' #3 (Nov. 1975) and was created by [[Roy Thomas]] and [[Frank Robbins]].
+
+==Fictional character biography==
+Meranno is an Atlantean warrior and scientist. Like hero [[Namor|Namor the Sub-Mariner]], he is a member of the Atlantean race ''[[Homo mermanus]]''. It is revealed in [[Flashback (narrative)|flashback]] that Meranno despised Namor when they were children, and in adulthood allies himself with [[Nazi Germany]]. Still consumed with hatred for Namor, the character reveals the location of the city of [[Atlantis (Marvel Comics)|Atlantis]] to the German forces, who destroy the Atlantean [[Naval fleet|fleet]] and place the then [[Emperor]] Thakorr in a [[coma]]. Thakorr is succeeded by Namor who [[banish]]es Meranno from Atlantis for [[treason]].
+
+Meranno adopts the alias of ''U-Man'', and willingly submits to Nazi procedures that increase his size and strength. Joining a fleet of [[U-Boat]]s, U-Man wreaks havoc on the [[Allies of World War II|Allied]] fleet until defeated by the [[superhero]] team the ''Invaders''.<ref>''Invaders'' #3 (Nov. 1975 & Jan. 1976)</ref> The character reappears in a two part story in the title ''[[Marvel Two-In-One]]'', and with Nazi allies [[Brain Drain (comics)|Brain Drain]], [[Master Man (Marvel Comics)|Master Man]], and Sky Shark, plans to [[sabotage]] [[New York City]] with a new super weapon. The plan, however, is foiled by [[time travel]]ling [[Fantastic Four]] member the [[Thing (comics)|Thing]] and the [[Liberty Legion]].<ref>''Marvel Two-in-One Annual'' #1 (Jan. 1976) & ''Marvel Two-In-One'' #20 (Oct. 1976)</ref>
+
+U-Man reappears in the title ''Invaders'' under the mental control of [[Japan]]ese [[spy]] [[Lady Lotus]], and battles teen group the ''[[Kid Commandos]]'' and the Invaders<ref>''Invaders'' #39 (Apr. 1979)</ref> and joins the Nazi group [[Super-Axis]] for a final confrontation with the superhero team.<ref>''Invaders'' #41 (Sep. 1979)</ref>
+
+U-Man appears in the modern Marvel Universe during the ''[[Atlantis Attacks]]'' storyline, and features in an ''[[Avengers (comics)|Avengers]]'' annual with fellow Namor foe ''[[Attuma]]'' in an attack on the surface world.<ref>''Avengers Annual'' #18 (Dec. 1989)</ref> The character becomes a reluctant ally in the title ''Avengers'', aiding the superhero team, [[Canada|Canadian]] heroes ''[[Alpha Flight]]'', and [[Soviet Union|Soviet]] group the [[People's Protectorate]] in preventing a [[nuclear holocaust]].<ref>''Avengers'' #319 - 321 (July - Aug. 1990); #322 - 323 (Sep. 1990); #324 (Oct. 1990)</ref>
+
+An issue of the [[Limited series (comics)|limited series]] ''[[New Invaders]]'' reveals in [[Flashback (narrative)|flashback]] that U-Man [[rape]]d Lady Lotus in retaliation for her earlier mind control. Lady Lotus eventually gives birth to their child [[Nia Noble]].<ref>''New Invaders'' #3 (Dec. 2004)</ref>
+
+==Powers and abilities==
+As an Atlantean, Meranno can breathe and move freely underwater, and survive for an indefinite period on land. Courtesy of Nazi science, the character has superhuman strength, durability, and endurance. He was also trained in the arts of warfare.
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://marvel.wikia.com/Meranno_%28Earth-616%29 U-Man] at Marvel Wiki
+* [http://comicvine.gamespot.com/u-man/4005-29530/ U-Man] at Comic Vine
+
+{{Namor}}
+{{Invaders}}
+
+[[Category:Comics characters introduced in 1975]]
+[[Category:Marvel Comics Atlanteans (Homo mermanus)]]
+[[Category:Marvel Comics supervillains]]
+[[Category:Nazis in comic book fiction]]

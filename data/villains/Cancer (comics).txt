@@ -1,0 +1,63 @@
+'''Cancer''' is the name of three fictional characters appearing in [[American comic book]]s published by [[Marvel Comics]].
+
+==Publication history==
+The original Cancer first appeared in ''[[Avengers (comics)|Avengers]]'' #72 (January 1970), and was created by [[Roy Thomas]] and [[Sal Buscema]]. The character subsequently appears in ''Ghost Rider'' #7 (August 1974), ''[[Iron Man]]'' #184 (July 1984), and ''West Coast Avengers'' #26 (November 1987), in which he is killed. Cancer appeared as part of the "Zodiac" entry in the ''[[Official Handbook of the Marvel Universe|Official Handbook of the Marvel Universe Deluxe Edition]]'' #20.
+
+==Fictional character biography==
+
+===Jack Klevano===
+{{Infobox comics character| <!--Wikipedia:WikiProject Comics--> 
+image=
+|caption=
+|character_name=Cancer
+|real_name=Jack Klevano
+|species=
+|publisher=[[Marvel Comics]]
+|debut=''[[Avengers (comics)|Avengers]]'' #72 (January 1970)
+|creators=[[Roy Thomas]] and [[Sal Buscema]]
+|alliances=[[Zodiac (comics)|Zodiac]]
+|aliases=
+|powers=
+|}}
+'''Jack Klevano''' is a founding member of the [[Zodiac (comics)|Zodiac]] criminal cartel, and his base of operations was [[Houston, Texas]]. The Zodiac Cartel was founded by [[Taurus (comics)|Cornelius van Lunt]] (Taurus), handpicking the eleven other members; van Lunt concealed his own identity, while he was the only one who knew the identities of the others. Each member was based in a different American city as part of his nationwide criminal network, with the ultimate goal of world economic and political domination.
+
+The Zodiac was infiltrated by Nick Fury, posing as Scorpio; the Zodiac fought the [[Avengers (comics)|Avengers]] and escaped.<ref>''Avengers'' #72</ref> Led by Taurus, the Zodiac later attempted to kill all Manhattan residents born under the sign of Gemini as a show of power, but were thwarted by the Avengers. Taurus's faction attempted to kill the Zodiac dissident faction, but all twelve leaders were captured by the Avengers.<ref>''Avengers'' #120-122</ref> A new android version of the Zodiac later appeared, led by Scorpio in a new android body, massacred the human Zodiac, and took over their criminal operations.<ref>''West Coast Avengers'' Vol. 2 #26</ref>
+{{clear}}
+
+===Android Cancer===
+An android Cancer was a [[Life Model Decoy]] created by [[Scorpio (comics)|Scorpio (Jacob Fury)]] in his "Theatre Of Genetics" to be part of his Zodiac crime organization. Scorpio went after his brother, [[Nick Fury]], with his new group, but was defeated by [[Defenders (comics)|Defenders]] and [[Moon Knight]].<ref>''Defenders'' #48-50</ref> The Zodiac LMD's were recruited by [[Quicksilver (comics)|Quicksilver]] during his bout with temporary insanity, and Quicksilver ordered the Zodiac LMD's to destroy [[Avengers (comics)|Avengers]] for their imagined wrongdoings. The Avengers managed to defeat the group and most were remanded into federal custody.<ref>''West Coast Avengers Annual'' #1</ref>
+
+The android Zodiac were soon released, and the Scorpio LMD rebuilt a number of them. Scorpio used the Zodiac Key to create LMDs that exemplified the forces and personalities inherent in each sign, hoping to create great strength in the combination of all twelve traits of the Zodiac. He arranged the ambush in which the android Zodiac killed all of the remaining human Zodiac leaders except Cornelius van Lunt, alias [[Taurus (comics)|Taurus]]. Immediately afterward, Van Lunt sought out the services of the Avengers' West Coast branch to confront and defeat the android Zodiac. In their initial foray, the Avengers failed, although several androids were destroyed.<ref>''West Coast Avengers'' Vol. 2 #26-28</ref>
+
+===Ecliptic Cancer===
+Cancer was a later addition to the Zodiac. Another background member of the team, Cancer said nothing and stayed mostly behind the scenes. He was killed with the rest of the Zodiac by [[Weapon X]].
+
+===Thanos's Cancer===
+{{main|John King (comics)}}
+
+==Powers and abilities==
+The original Cancer dresses in a crab-like costume. He wears pincer-like prosthetic devices with great strength for gripping on his hands.
+
+The android Cancer has enhanced strength and endurance and an armored shell that provides some protection from physical and energy attacks. It also possesses blades on its wrist. In his second form, Cancer can project powerful jets of water from its hands and has a set of pincers which he can use as a weapon. In his third form, Cancer possesses an armored shell and has pincers in place of hands.
+
+Ecliptic's Cancer possessed superhuman strength, wore armor, used claws, and carried a Zodiac teleportation device.
+
+==In other media==
+
+===Television===
+* Cancer appears in ''[[The Avengers: United They Stand]]''. This version is depicted as a crab-like alien.
+* Cancer appears in the ''[[Marvel Anime|Marvel Anime: Iron Man]]'' episode "Going Nuclear." This version is depicted as a mass produced, crab-like robot. He first appears when Iron Man investigates a Stark Industries ocean liner which is secretly holding a shipment of plutonium, enacting a scheme for Zodiac to obtain the plutonium while framing Tony Stark for smuggling nuclear materials into Japan, but the scheme fails as Cancer is destroyed soon after. In the episode "Technical Difficulties," two more Cancer robots attack Iron Man following the deletion of the Pisces computer virus only for them to be destroyed by Ramon Zero.
+
+==References==
+{{reflist}}
+
+==External links==
+* {{Marvunapp|http://www.marvunapp.com/Appendix2/cancerzodiac.htm|Cancer}}
+* {{Marvunapp|http://www.marvunapp.com/Appendix2/cancerlmd.htm|Android Cancer}}
+
+{{DEFAULTSORT:Cancer (Comics)}}
+[[Category:Characters created by Roy Thomas]]
+[[Category:Characters created by Sal Buscema]]
+[[Category:Comics characters introduced in 1970]]
+[[Category:Fictional characters from Texas]]
+[[Category:Marvel Comics supervillains]]

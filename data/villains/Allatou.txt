@@ -1,0 +1,14 @@
+#Redirect [[List of Marvel Comics demons]]
+
+{{Rcat shell|
+{{R from fictional character|Marvel Comics}}
+{{R comics to list entry}}
+{{R comics from merge}}
+{{R printworthy}}
+}}
+
+[[Category:Characters created by Steve Gerber]]
+[[Category:Characters created by Gene Colan]]
+[[Category:Comics characters introduced in 1974]]
+[[Category:Marvel Comics devils]]
+[[Category:Marvel Comics supervillains]]

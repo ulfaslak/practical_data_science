@@ -1,0 +1,74 @@
+'''Synapse''' is the name of two different fictional characters appearing in [[American comic book]]s published by [[Marvel Comics]].
+
+==Publication history==
+The first Synapse, '''Max Mullins''', first appeared in ''[[Daredevil (Marvel Comics series)|Daredevil]]'' #377 (July 1998) and was created by [[Scott Lobdell]] and [[Tom Morgan (comics)|Tom Morgan]].
+
+The second Synapse, '''Emily Guerrero''', was introduced as a new member of the [[Avengers (comics)|Avengers]]. She first appeared in ''[[Uncanny Avengers]]'' Vol. 3 #1 (December 2015) and was created by Gerry Duggan and [[Ryan Stegman]].
+
+==Fictional character biography==
+===Max Mullins===
+{{Infobox comics character
+|image=
+|caption=
+|character_name=Synapse
+|real_name=Max Mullins
+|publisher=[[Marvel Comics]]
+|debut=''Daredevil'' #377 (July 1998)
+|creators=Scott Lobdell (writer)<br>Tom Morgan (artist)
+|species=Human
+|homeworld=
+|alliances=[[Emissaries of Evil]]
+|partners=La Concierge
+|aliases=
+|supports=
+|powers = 
+|cat = super
+|subcat = Marvel Comics
+|hero = y
+|sortkey = Synapse (Max Mullins)
+|}}
+Max Mullins has the ability to rewire and alter a person's brainwaves to his liking. Taking on the name Synapse he, along with La Concierge and [[Stilt-Man]], were recruited by the [[Kingpin (character)|Kingpin]] to form the third incarnation of the [[Emissaries of Evil]]. One of the first things he did was shut down Stilt-Man's brain, albeit temporarily, so that he would not reveal his employer's name to [[Daredevil (Marvel Comics character)|Daredevil]], who at the time was acting as an agent for [[S.H.I.E.L.D.]] and had his mind wiped to think he was Laurent Levasseur.<ref>''Daredevil'' #377</ref> While La Concierge was battling Laurent, Synapse was holding Dr. Claudia DuBois hostage along with [[Kingpin (character)|Wilson Fisk]]. Tired of being pushed around, Synapse planned on using his powers on Fisk, but Fisk, who had a stronger mind, knew of Synapses plot and threatened to kill him if he did not continue to work under him.<ref>''Daredevil'' #378</ref> Eventually, Fisk has Synapse use his powers on Laurent, but it instead reminds him that he is Daredevil and knocks out Synapse with one kick.<ref>''Daredevil'' #379</ref>
+{{-}}
+
+===Emily Guerrero===
+{{expand section|date=January 2018}}
+{{Infobox comics character
+|image=
+|caption=
+|character_name=Synapse
+|real_name=Emily Guerrero
+|publisher=[[Marvel Comics]]
+|debut=''Uncanny Avengers'' Vol. 3 #1 (December 2015)
+|creators=Gerry Duggan (writer)<br>Ryan Stegman (artist)
+|species=[[Inhumans|Inhuman]]
+|homeworld=
+|alliances=[[Uncanny Avengers]]
+|partners=
+|aliases=
+|supports=
+|powers =Superhuman strength<br>Enhanced speed<br>Telepathy<br>Animal control
+|cat = super
+|subcat = Marvel Comics
+|hero = y
+|sortkey = Synapse (Emily Guerrero)
+|}}
+Emily Guerrero lived with her younger brother and grandfather, Ivan, when the Terrigen Cloud affected their area. Emily emerged as an [[Inhumans|Inhuman]] while her grandfather also emerged where he took the name Shredded Man.<ref>''Uncanny Avengers'' Vol. 3 #4</ref> Later, she joined the Avengers Unity Division under [[Captain America]]'s leadership. Despite being new, Steve Rogers had faith in her even though she and teammate [[Rogue (comics)|Rogue]] did not get along very well. She fought [[Super-Adaptoid]] by getting a flock of pigeons to take it out.<ref>''Uncanny Avengers'' Vol. 3 #1</ref>
+{{-}}
+
+==Powers and abilities==
+The Emily Guerrero version of Synapse possesses telepathy, animal control, enhanced speed, and super strength.
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://marvel.wikia.com/wiki/Max_Mullins_(Earth-616) Synapse (Max Mullins)] at Marvel Wiki
+* [http://marvel.wikia.com/wiki/Emily_Guerrero_(Earth-616) Synapse (Emily Guerrero)] at Marvel Wiki
+
+{{Inhumans}}
+
+[[Category:Comics characters introduced in 1998]]
+[[Category:Comics characters introduced in 2015]]
+[[Category:Inhumans]]
+[[Category:Marvel Comics superheroes]]
+[[Category:Marvel Comics supervillains]]

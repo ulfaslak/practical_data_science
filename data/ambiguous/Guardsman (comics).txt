@@ -1,0 +1,133 @@
+'''Guardsman''' was the name of a fictional [[supervillain]]/[[superhero]] appearing in [[American comic book]]s published by [[Marvel Comics]]. The name was later applied to a small squad of agents.  They wear suits of [[powered exoskeleton|power armor]] while working security at the [[Vault (comics)|Vault]]. The suits were designed by the superhero [[Iron Man]].
+
+==Fictional character biography==
+===Kevin O'Brien===
+{{Infobox comics character <!--Wikipedia:WikiProject Comics-->
+|image=
+|caption=The Guardsman armor
+|character_name=Guardsman
+|real_name=Kevin O'Brien
+|publisher=[[Marvel Comics]]
+|debut=''[[Iron Man (comic book)|Iron Man]]'' #31 (November 1970)
+|creators=[[Allyn Brodsky]] (writer)<br>[[Don Heck]] (artist)
+|alliances=[[Stark Industries]]
+|aliases=
+|powers=Powered armor grants:<br>Superhuman stamina and physical resistance<br>Flight<br>Repulsor rays
+}}
+
+'''Kevin O'Brien''' was born in [[Chicago]]. He became an engineer and inventor working for the newly opened Lakani Island plant of [[Stark Industries]] who came to the attention of Tony Stark when he invented a stun-ray that managed to harmlessly disperse a crowd of violent protestors. Stark invited O'Brien to transfer to the main plant on [[Long Island]], and he accepted. Despite a careless streak that once caused the laboratory he was working in to explode, he became a close friend of Stark and was soon appointed head of Stark's research department.{{issue|date=July 2013}}
+
+On several occasions, O'Brien assisted Stark and the supposed bodyguard Iron Man, notably against the [[Spymaster (comics)|Spymaster]] and the assistants the Espionage Elite, saving Stark's life on more than one occasion. Stark then decided to reveal to O'Brien being secretly Iron Man, and to build for him a second suit of armor for use in the event of an emergency. That emergency would come a short time later, when Iron Man and girlfriend Marianne Rogers were taken captive by the superhuman madman Mikas the Soulfather. Putting on the armor before being fully tested, O'Brien fell prey to a malfunction in the [[cybernetics|cybernetic]] circuitry controlling the armor which apparently stimulated the regions of the brain where rage and jealousy originate.{{issue|date=July 2013}}
+
+O'Brien found himself seized with sudden attraction for Marianne and became extremely jealous of Stark's power, looks and fortune. At the same time, Simon Gilbert, then [[Chairman|Chairman of the Board]] of Stark Industries' stockholders, grew alarmed that Stark was moving out of munitions production and mapped strategies with the board to seize controlling interest in the firm from Stark as principal stockholder. Clad in armor and calling himself the "Guardsman", O'Brien offered to aid the board in their plot against Stark. As a show of support, he agreed to quell a protest rally outside the plant. The Guardsman aimed his repulsor rays at the crowd, injuring four protestors. Sickened by what he did, O'Brien turned on the renegade board members, physically assaulting them. However, seeing Stark with Marianne caused him to once again become unbalanced, and he went outside to vent his rage on the growing crowd of protestors. Stark donned the Iron Man armor and engaged the Guardsman in battle to prevent him from doing more damage. Losing, the Guardsman sought refuge in an experimental tank. In an attempt to stop him without hurting him, Iron Man's repulsor rays were trained on the vehicle and accidentally hit its fuel supply. The tank exploded, killing O'Brien.<ref>''Iron Man'' #43, 45–46</ref>
+
+{{clear}}
+
+===Michael O'Brien===
+{{Infobox comics character <!--Wikipedia:WikiProject Comics-->
+|image=
+|caption=
+|character_name=Guardsman
+|real_name=Michael O'Brien
+|publisher=[[Marvel Comics]]
+|debut=''[[Iron Man (comic book)|Iron Man]]'' #82 (January 1976)<br>(as Guardsman) ''Iron Man'' #97
+|creators=[[Len Wein]] (writer)<br>[[Herb Trimpe]] (artist)
+|alliances=[[Avengers (comics)|Avengers]]<br>Iron Legion<br>[[Project Pegasus|Project: Pegasus]]<br>[[Vault (comics)|The Vault]]
+|aliases=
+|powers=Powered armor grants:<br>Superhuman strength and physical resistance,<br>Flight,<br>Repulsor rays
+}}
+
+'''Michael O'Brien''' was also born in Chicago, Illinois. Some months after Kevin's death, when the details of the incident came to public light, Michael, a sergeant in the [[New York City Police Department]], decided that the official investigation exonerating Iron Man's actions was a [[cover-up]]. Reopening the investigation without official sanction, Detective O'Brien confronted Tony Stark, interrogated several employees, and declared his intention of proving Stark responsible for his brother's death.<ref>''Iron Man'' #82</ref>
+
+O'Brien finally hired Harry Key, an unscrupulous [[private investigator]], to get him inside the Long Island plant. There O'Brien located the Guardsman armor and put it on, determined to use it to bring Iron Man to justice. However, the malfunction in the cybernetic circuitry that affected his brother's brain also affected Michael's brain, and he flew into a rage seeking to kill Iron Man. Iron Man confronted his attack and finally convinced him that the armor was causing him to act insanely. O'Brien collapsed on rebelling against his own urge to kill Iron Man. Stark took O'Brien into custody rather than press criminal charges, hoping to convince the man of his innocence in Kevin's death. While Stark worked on a new set of armor, the Japanese mutant [[Sunfire (comics)|Sunfire]] attacked the plant. Stark was unable to put on his new armor since it had not yet cooled, and unable to find any of his spare suits of armor since a saboteur had stolen them. Hence, he was forced to put on the Guardsman armor to fight off Sunfire. O'Brien witnessed Stark's heroic attempts to save lives over a video monitor, aware that Stark was risking a major heart attack by the strenuous activity. Escaping confinement, O'Brien decided he was wrong about Stark and determined to help him by donning the now-cooled Iron Man armor. Thus clad, he was mistaken for the real Iron Man and kidnapped by the [[Mandarin (comics)|Mandarin]]. Stark discovered an old set of Iron Man armor that the saboteur had overlooked and went to China to rescue O'Brien. Upon rescuing him, Stark chose to reveal his true identity to O'Brien before he went off to battle the Mandarin. O'Brien flew back to New York where he took custody of the Guardsman armor once more.<ref>''Iron Man'' #96–100</ref>
+
+After Iron Man defeated the Mandarin, Stark fixed the malfunction in the Guardsman armor's circuitry so it was safe to wear.{{Issue|date=February 2012}} Michael O'Brien was determined to use the armor to vindicate both his brother's and his own senseless actions. When Stark International was taken over by the criminal [[Midas (comics)#Mordecai Midas|Midas]], the Guardsman joined with a number of Stark's other friends and allies to battle Midas' men. He was turned to gold by Midas' power, but was later restored to flesh.<ref>''Iron Man'' #108</ref> Having quit the police force, O'Brien interviewed for the position of security director at [[Project Pegasus|Project: Pegasus]], the government energy research facility, after its previous director [[Quasar (Wendell Vaughn)|Quasar]] quit. With a high recommendation by Stark, O'Brien got the job.<ref name="Avengers236">''Avengers'' #236</ref> Sometime later, while guarding the Project, O'Brien's Guardsman armor was damaged in a battle with the subhuman [[Subterranea (comics)#Lava Men|Lava Men]].<ref name="Avengers236" /> It was later repaired at the Project's expense. O'Brien, as the Guardsman, has been living and working full-time in the Project since his appointment and has performed his duties capably.{{Issue|date=February 2012}}
+
+Later, he was the security chief at [[Hydro-Base|Avengers Island]].<ref>''Avengers'' #301</ref> He also participated in the Iron Legion against [[Ultimo (Marvel Comics)|Ultimo]], wearing a re-creation of the Silver Centurion armor.<ref>''Iron Man'' #300</ref>
+
+===Other known Guardsmen===
+
+====Current members====
+* Harold "Harry" Bright<ref name="Iron Man #228">''Iron Man'' #228</ref> - member of the Vault Retrieval Team
+* James "Jim" Cunningham<ref name=Deathtrap1>''Avengers: Deathtrap - The Vault'' #1</ref> - tried not to panic during the mass breakout of the Vault
+* Marc Danson<ref name="Cage9">''Cage'' #9</ref>
+* Paul Danvers<ref name="Cage9" />
+* Charles "Charlie" DeMulder{{Issue|date=April 2009}}
+* Terence "Terry" Doocey{{Issue|date=April 2009}}
+* Frank Ensign (Guardsman Prime)<ref name="Avengers Spotlight #26">''Avengers Spotlight'' #26</ref> - helped transport the Wizard to prison; later aided [[Iron Man|Iron Man (Anthony Stark)]].
+* William "Billy" Fredricks<ref name="Darkhawk #5">''Darkhawk'' #5</ref> - first appeared guarding a wounded [[Portal (comics)|Portal]] in hospital and later seen at [[Goodman, Lieber, Kurtzberg & Holliway|Goodman, Lieber, Kurtzberg & Book]].
+* Sam Hanson{{Issue|date=April 2009}}
+* Patrick Herbert<ref>''Deathlok'' vol. 2 #8</ref> - worked at the Vault, was tricked by Mainframe (Ian Wajler)
+* Michael "Mike" Ivy<ref name="Avengers Spotlight #26"/> - aided Guardsman Prime in the transportation of the [[Wizard (Marvel Comics)|Wizard]].
+* Emilio Layton<ref name="Iron Man #228"/> - member of the Vault Retrieval Team
+* Conrad Mahlstedt{{Issue|date=April 2009}}
+* Russ Mendoza{{Issue|date=April 2009}}
+* Fred Miller{{Issue|date=April 2009}}
+* Asher O'Brien{{Issue|date=April 2009}}
+* Howard Samuels<ref name=Deathtrap1 /> - mentally attacked by [[Mentallo]], but survived the breakout
+* Jaxson Schirra{{Issue|date=April 2009}}
+* Gregory Smoot<ref>''Captain America'' #354</ref> - was chosen to test [[U.S. Agent (comics)|U.S. Agent]] using the [[Iron Monger]] armor
+* Tim Teller{{Issue|date=April 2009}}
+* Jerry Tinsley{{Issue|date=April 2009}}
+* Eliot Villagran<ref name="Darkhawk #5"/> - seen guarding a hospitalized [[Portal (comics)|Portal]]
+
+====Former members====
+* Marty Delarosa<ref name=Web109>''Web of Spider-Man'' #109</ref> - while off-duty, he met and flirted with [[Calypso (comics)|Calypso]] who convinced him to sneak her into the Vault; once in, she killed him.<ref name=Web109 />
+* Larson Dzon{{Issue|date=April 2009}} - deceased
+* [[Sentry (Curtis Elkins)|Curtis Elkins (Sentry)]]<ref>''Venom: Lethal Protector'' #2</ref> - member of the Jury and former friend of Hugh Taylor
+* Chris Fallon<ref>''Thunderbolts'' #60–61</ref> - deceased
+* Walt Hanna{{Issue|date=April 2009}} - deceased
+* Rick McLaurin<ref name="Cage9" />  - deceased
+* Ravello Medina<ref name="Cage9" /> - deceased
+* Corbin Rubinstein<ref name="Cage9" /> - deceased
+* Chuck Scott{{Issue|date=April 2009}} - deceased
+* Danny Stephens<ref name=Deathtrap1 /> - worked at the Vault and was the first Guardsman taken hostage and killed by [[Venom (Marvel Comics character)|Venom (Eddie Brock)]]<ref name=Deathtrap1 />
+* Pascal Tyler<ref name="Cage9" /> - killed Cinder, framing [[Luke Cage]] and [[Rhino (comics)|Rhino]]
+* Ernie Vancata{{Issue|date=April 2009}}
+* [[Hybrid (Scott Washington)|Scott Washington (Hybrid)]]<ref>''The New Warriors'' #21</ref> - also known as Guardsman 6, became known as Hybrid when the Riot, Phage, Lasher and Agony symbiotes merged with him after he was paralyzed in a gang shoot out<ref>''Venom: Along Came a Spider'' #1</ref>
+
+==Powers and abilities==
+Both Guardsmen wore powered armor designed by Tony Stark and Stark Industries. The Guardsman armor contained a powered exoskeleton that gave the wearer superhuman strength allowing the operator to lift 40 tons under optimal conditions (for about 3 minutes). The armor's high-carbon steel alloy mesh and radiation shielding also offer protection from most ballistic and even energy weapons. The armor can fly via chemically powered boot jets at a maximum speed of {{convert|250|mi/h|km/h|abbr=on}} for 3 hours, and contains 30 minutes air supply for submersion or high-altitude flight.
+
+Each palm of the Guardsman armor's gauntlets contains a charged ion "repulsor ray" emitter capable of 45 seconds continuous discharge at a range of {{convert|40|ft|m}} before irregularities in the plasma cone diffuse the beam.
+
+Kevin O'Brien had earned a PhD in engineering, with expertise in engineering and was a gifted inventor. He also used a "stun-ray" device as a weapon.
+
+Michael O'Brien is a good hand-to-hand combatant and was coached by [[Captain America]]. As a policeman, he carried a police issue handgun, and as Avengers security chief he used "stun guns" and other advanced weaponry.
+
+Both Kevin and Michael suffered from emotional instability that was exacerbated by the cybernetic circuitry in the original Guardsman battle-suit, causing both men to go insane. Michael O'Brien was able to wear the Guardsman armor safely after psychologically coming to terms with his trauma over his brother's death. The armor circuitry has since been modified by Anthony Stark to prevent its causing such adverse effects.
+
+The Guardsman armor was replicated by Stane International for use at the Vault, and retained similar abilities to the original version. When the original armors were destroyed by Iron Man during the Armor Wars, Stane International attempted to re-create the Guardsman armor without Stark's designs; however, they proved inferior to the Stark-based models. Stark Enterprises replaced the second-generation Stane models with an improved design from Anthony Stark.  Although superior to the Stane models, the new Stark Enterprises suits were limited to operation within the vicinity of the Vault, as a security measure to prevent misuse of their Iron Man-derived technology.
+
+==In other media==
+===Television===
+* The Guardsmen appeared in the ''[[Iron Man (TV series)|Iron Man]]'' animated series. In the episode "Armor Wars" [Pt. 2], [[Iron Man]] invaded the Vault to disable the Guardsman armors. After slipping sleeping gas into the Vault's ventilation systems that puts all its inmates to sleep, Iron Man ended up in a fight with the Guardsmen and [[Hawkeye (comics)|Hawkeye]]. Iron Man used the Negator Packs on them and discovered that they do not use the technology.{{Citation needed|date=November 2008}}
+* Michael O'Brien appears in ''[[Iron Man: Armored Adventures]]'', voiced by [[Brian Drummond]].<ref>[http://www.behindthevoiceactors.com/voice-compare/Iron-Man/Iron-Monger/ Behind the Voice Cast: ''Iron Man: Armored Adventures'']. Retrieved 2012-05-02.</ref> He is Stark International's security chief (i.e. the Guardsman's most mundane namesake) under [[Iron Monger|Obadiah Stane]]'s personal command. Most of his appearances he does not wear a powered armor suit of his own, however, he gets to pilot the [[Crimson Dynamo]] armor,<ref>''Iron Man: Armored Adventures'', episode "Seeing Red"</ref> and later on the [[Iron Monger]] [[mecha|mech]] to tear down a derelict city block. But he refuses to finish Iron Man when the hero aids Dr. Abraham Zimmer (a resident of that area), and O'Brien is fired by Stane for his act of mercy.<ref>''Iron Man: Armored Adventures'', episode "Enter: The Iron Monger!"</ref> Meanwhile, the Guardsman is presented as the name for an armored duo of criminals ([[Force (comics)|Force]] using repainted Space Armor and [[Shockwave (comics)|Shockwave]] using repainted Stealth Armor) appearing as public heroes and commercial mascots on Stane's behalf. While they seem to appear just in time to prevent disastrous incidents, [[Pepper Potts]] eventually shows Iron Man evidence revealing that the Guardsmen had in fact caused these incidents and that they are notorious criminals. At the Guardsmen Expo where [[Firepower (comics)|Firepower]] (using repainted [[Hulkbusters|Hulkbuster armor]]) is unveiled as the latest member of the Guardsmen, Pepper forces the Guardsmen to reveal their identities upon hacking the Expo's television screen to show their mug shots as [[Maggia (comics)|Maggia]] enforcers. After the Guardsmen are defeated by Iron Man and [[War Machine]], Obadiah escapes suspicion by claiming on television that he had no knowledge of the criminal past of the Guardsmen members.
+* The Guardsmen appear in ''[[Avengers Assemble (TV series)|Avengers Assemble]]'' animated series, voiced by [[Roger Craig Smith]] (in "Civil War, Part 3: The Drums of War"),<ref name="Civil War, Part 3: The Drums of War">{{cite episode|title=Civil War, Part 3: The Drums of War|serieslink=Avengers Assemble (TV series)|series=Avengers: Ultron Revolution|network=Disney XD|season=3|number=25|airdate=January 28, 2017}}</ref> and by [[David Kaye (voice actor)|David Kaye]] (in "Prison Break").<ref name="Prison Break">{{cite episode|title=Prison Break|serieslink=Avengers Assemble (TV series)|series=Avengers: Secret Wars|network=Disney XD|season=4|number=4|airdate=August 27, 2017}}</ref> They first appear in ''Avengers: Ultron Revolution'' as [[Ultron|Truman Marsh]]'s armored enforcers based on Iron Man's [[Iron Man's armor|armor designs]]. They first appear in "World War Hulk" where two accompany Truman into arresting [[Thunderbolt Ross|Red Hulk]] following a gamma-poisoning incident, and in "Civil War, Part 1: The Fall of Attilan" where two accompany Marsh during [[Inferno (Dante Pertuz)|Inferno]]'s arrest following the Inhuman's brainwashing incident. In "Civil War, Part 3: The Drums of War", the Guardsmen are shown working in Marsh's [[The Raft (comics)|prison]] where the Avengers are incarcerated. After [[Iron Man|Tony Stark]] gets free and receives help from [[Black Widow (Natalia Romanova)|Black Widow]] and the Inhumans [[Black Bolt]] and [[Medusa (comics)|Medusa]], the other Avengers fight the way past the Guardsmen in order to get to [[Captain America|Steve Rogers]]'s infirmary. There were also two variations of Guardsman armor: [[Mandroid]] and [[Hulkbusters]]. The Guardsmen also appear in ''Avengers: Secret Wars'' as the [[Vault (comics)|Vault]]'s armored guards. In the episode "Avengers No More" [Pt. 1], they are seen in a transport plane carrying the [[Ghost (Marvel Comics)|Ghost]]. In the episode "Prison Break", the Guardsmen try to stop [[Power Princess|Zarda]], [[Typhoid Mary (comics)|Typhoid Mary]] and the [[Black Widow (Yelena Belova)|Crimson Widow]] from escaping but were quickly defeated, however, the prison break gets stopped by the [[Hope Pym|Wasp]] and [[Carol Danvers|Captain Marvel]].
+
+===Toys===
+* A "Vault Guardsman" figure was released in the [[Marvel Toys|Toy Biz]] ''[[Spider-Man (1994 TV series)|Spider-Man]]'' line under the "Techno Wars" label. The figure was derived from an unreleased figure in the ''[[Iron Man (TV series)|Iron Man]]'' line, with removable armor plates.
+* A figure of Guardsman was released in wave 30 of the ''Marvel [[Minimates]]'' line.
+* A figure of Guardsman was released in wave 2 of [[Hasbro]]'s 3.75" ''[[Iron Man 2]]'' movie tie-in line.
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://www.marveldirectory.com/individuals/g/guardsmani.htm Guardsman (I) at MarvelDirectory.com]
+* [http://www.marveldirectory.com/individuals/g/guardsmanii.htm Guardsman (II) at MarvelDirectory.com]
+* http://www.marvunapp.com/Appendix4/villagraneliotgm.htm
+* http://www.marvunapp.com/Appendix4/fredricksbillygm.htm
+
+{{Iron Man}}
+
+[[Category:Characters created by Herb Trimpe]]
+[[Category:Characters created by Len Wein]]
+[[Category:Comics characters introduced in 1970]]
+[[Category:Comics characters introduced in 1976]]
+[[Category:Fictional American people of Irish descent]]
+[[Category:Fictional characters from Illinois]]
+[[Category:Fictional prison officers and governors|Guardsman]]
+[[Category:Marvel Comics superheroes]]
+[[Category:Marvel Comics supervillains]]
+[[Category:Characters created by Don Heck]]

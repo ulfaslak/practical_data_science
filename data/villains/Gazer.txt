@@ -1,0 +1,47 @@
+{{about||the Dungeons and Dragons creature occasionally referred to as "the Gazer"|Beholder (Dungeons & Dragons)|the fictional place in the Spawn comic series|Spawn (comics)}}
+{{merge to|War (Marvel Comics)|discuss=Talk:War (Marvel Comics)#Proposed merge with Gazer|date=August 2018}}
+{{Refimprove|date=December 2011}}
+{{Notability|date=August 2018}}
+{{Infobox comics character
+|image=GazerWar.png
+|caption=Gazer as War, Horseman of Apocalypse.<br />Art by Salvador Larroca.
+|character_name=Gazer
+|real_name=
+|species=[[Mutant (Marvel Comics)|Human Mutant]] and [[Mutant (Marvel Comics)|Human Mutate]]|publisher=[[Marvel Comics]]
+|debut=''X-Men'' Vol. 2 #169 (June 2005)
+|creators=[[Peter Milligan]] <BR> [[Salvador Larroca]]
+|alliances=[[Horsemen of Apocalypse|Four Horsemen of Apocalypse]]<br/>[[NASA]]
+|aliases=War
+|powers=<br>Superhuman strength and physical resistance,<br>Optic blasts,<br>Ability to absorb radiation
+}}
+
+'''Gazer''' is a [[fictional character]], a [[Mutant (Marvel Comics)|mutant]] appearing in [[American comic book]]s published by [[Marvel Comics]]. Created by writer [[Peter Milligan]] and artist [[Salvador Larroca]], he first appeared in ''X-Men'' vol. 2 #169 (June 2005).
+
+==Fictional character biography==
+Gazer was an astronaut permanently stationed alone on a [[NASA]] observation space station, due to the unusual metabolism he possessed as his mutant power, whereby he could absorb harmful radiation and process it to gain sustenance. He first encountered the [[X-Men]] when they used his station as a staging post for an attack on a group of non-sentient aliens which induced harmful emotions in humans.{{Issue|date=October 2009}}
+
+[[File:GazerBeforeAfterMDay.png|thumb|left|Gazer, before (left) and after his depowerment on M-Day]]
+
+Shortly afterwards, he lost his powers on [[Decimation (comics)|M-Day]], along with 90% of mutants. Succumbing to radiation sickness, he began to imagine that an experiment on the effects of radiation sickness was sentient (calling it "Phantom Torso"), and it constantly advised him to call NASA to ask for a return home. However, he remained until an alien resembling [[Doop (comics)|Doop]], which he had built up to himself as his last hope, passed by his station on its way to crash-landing on Earth near [[Polaris (comics)|Polaris]], who'd seen it in space and had a similar reaction.{{Issue|date=October 2009}}
+
+Thereafter, "Phantom Torso" stopped "talking" to him, and he put on a spacesuit and went out into space to die. However, he was teleported to [[Apocalypse (comics)|Apocalypse]]'s sphinx-like ship, and forced to battle Dr. Foster, a human archeologist who had stumbled upon Apocalypse's tomb, for the "right" to become '''War''', Horseman of Apocalypse. Gazer would have lost the battle if it were not for [[Ozymandias (Marvel Comics)|Ozymandias]], Apocalypse's servant. Ozymandias told Gazer that he would owe him and one day the scribe would become the master.{{Issue|date=October 2009}}
+
+Gazer went through a terribly painful process where his skeleton was stretched, the former X-Man [[Sunfire (comics)|Sunfire]], who was also chosen by Apocalypse to be a Horseman, tried to save him but Gazer had already been under Apocalypse's mind-control by then and helped recapture Shiro.{{Issue|date=October 2009}}
+<!-- Deleted image removed: [[File:Gazerdeath.PNG|left|The death of Gazer. Art by Salvador Larroca.|thumb]] -->
+As War, Gazer was sent to battle the X-Men and Sentinel Squad O*N*E. Upon returning to Apocalypse's sphinx, he was approached by Ozymandias who wanted his debt repaid. War, no longer Gazer, did not fulfill his oath and instead revealed the truth to Apocalypse about Ozymandias' treachery.{{Issue|date=October 2009}}
+
+During a heated battle against the X-Men, Ozymandias finally took his vengeance, stabbing Gazer from behind with a sword.{{Issue|date=October 2009}}
+
+==Powers and abilities==
+Before M-Day, Gazer, in addition to his unusual appearance, could absorb radiation at frequencies and levels which induce radiation sickness in normal humans and [[photosynthesis|photosynthesize]] it as food.
+
+After his depowerment on M-Day, he was taken by Apocalypse and transformed to possess super-strength and enhanced durability, and the ability to absorb and rechannel solar energy as blasts of fire through  his eyes. He also carries a spiked mace which flashes with electricity-like bursts, and rides a robotic horse-like flying machine.
+
+[[Category:Characters created by Salvador Larroca]]
+[[Category:Characters created by Peter Milligan]]
+[[Category:Comics characters introduced in 2005]]
+[[Category:Fictional astronauts]]
+[[Category:Marvel Comics characters with superhuman strength]]
+[[Category:Marvel Comics mutants]]
+[[Category:Marvel Comics mutates]]
+[[Category:Marvel Comics supervillains]]

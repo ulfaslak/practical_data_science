@@ -1,0 +1,76 @@
+'''Primus''' is the name of three fictional characters appearing in [[American comic book]]s published by [[Marvel Comics]].
+
+==Publication history==
+{{expand-section|date=November 2016}}
+Arnim Zola's Primus first appeared in ''[[Captain America (comic book)|Captain America]]'' #209 and was created by [[Jack Kirby]].
+
+The alien Primus first appeared in ''[[Marvel Spotlight]]'' vol. 2 #4 and was created by [[Archie Goodwin (comics)|Archie Goodwin]] and [[Steve Ditko]].
+
+The Flb'Dbi version of Primus first appeared in ''[[Fantastic Four]]'' #221 and was created by [[John Byrne (comics)|John Byrne]].
+
+==Fictional character biography==
+===Arnim Zola's Primus===
+{{Infobox comics character| <!--Wikipedia:WikiProject Comics-->
+image=
+|caption=
+|character_name=Primus
+|real_name=
+|species=[[Android (robot)|Android]]
+|publisher=[[Marvel Comics]]
+|debut=''[[Captain America (comic book)|Captain America]]'' #209 (May 1977)
+|creators=[[Jack Kirby]]
+|alliances=[[Thunderbolts (comics)|Thunderbolts]]
+|aliases=Steve Rogers
+|powers=Shapeshifting
+}}
+The first Primus is a shapeshifting bio-[[android (robot)|android]], an artificial humanoid created by the [[mad scientist]] named [[Arnim Zola]]. Primus thinks independently, and has superhuman strength and can harden his body to stone-like consistency. He can also alter his shape, so as to resemble a specific human being exactly. Arnim Zola caused Primus to merge with [[Doughboy (comics)|Doughboy]], which was another of his creations, and which could assume unusual shapes.<ref name=cap210 />  Primus can now turn himself into Doughboy and retain mental control of Doughboy while in the latter's form.<ref name=cap276 />
+
+Primus has been a foe of [[Captain America]],<ref name=cap209>''Captain America'' #209 (May 1977)</ref><ref name=cap210>''Captain America'' #210 (June 1977)</ref><ref name=cap276>''Captain America'' #276 (December 1982)</ref> and the [[New Warriors]],<ref name=nw3>''[[New Warriors]] Vol. 1 #3'' (September 1990)</ref> and an ally of the [[Mad Thinker]].<ref name=nw3 />
+{{-}}
+
+===Alien Primus===
+{{Infobox comics character|
+image=
+|caption=
+|character_name=Primus
+|real_name=Primus
+|publisher=[[Marvel Comics]]
+|debut=''[[Marvel Spotlight]]'' vol. 2, #4 (January 1980)
+|creators=[[Archie Goodwin (comics)|Archie Goodwin]]<br>[[Steve Ditko]]
+|alliances=
+|aliases=
+|powers=Transformation into living shadow
+}}
+Being born to alien parents of the planet Archko, Primus spent most of his childhood living there. At one point, he got attacked by the Screamers who killed his parents and wife Stara. Primus was revealed to have trained in the use of shadow powers originating from the Shadow Realm. He fled to Earth where he was found by the first [[Captain Marvel (Marvel Comics)|Captain Marvel]].{{Issue|date=January 2011}} Together they defeated the evil Screamers, and Mar-Vell offered to help Primus get his life back in order, but Primus preferred to live alone.<ref>''Marvel Spotlight'' #4</ref> What became of him next is unknown as Primus has not been seen since.
+{{-}}
+
+===Flb'Dbi's Primus===
+{{Infobox comics character| <!--Wikipedia:WikiProject Comics-->
+image=
+|caption=
+|character_name=Primus
+|real_name=
+|species=Flb'Dbi
+|publisher=[[Marvel Comics]]
+|debut=''[[Fantastic Four]]'' #221 (August 1980)
+|creators=[[John Byrne (comics)|John Byrne]]
+|alliances=
+|aliases=
+|powers=Telepathy
+}}
+Primus led an exploratory colonization for the Flb'Dbi race which arrived on Earth over half a million years ago. After some time on Earth, a bizarre phenomenon occurred which reversed the Earth's magnetic poles rendering the Flb'Dbi's technonology inoperative. This meant that the Flb'Dbi would not be able to leave Earth until the polarity was restored. While the drones of the Flb'Dbi worked to find a way to restore the polarity, Primus and the rest of the Flb'Dbi placed themselves into a deep hypno-sleep to avoid boredom. 500,000 years later, the drones finally found a way to fix the polarity. Upon awakening from their hypno-sleep, Primus and the Flb'Dbi had no idea what had happened on Earth while they were sleeping. The Flb'Dbi then programmed their drones to construct a tower to accomplish the polarity reversal which started to have untold effects on the Earth. [[Mister Fantastic]] was unable to track the phenomena, but theorized that it was the result of the polar disruption. With his [[Fantastic Four]] teammates [[Invisible Woman]], [[Human Torch]], and [[Thing (comics)|Thing]], Mister Fantastic headed to the North Pole. The Fantastic Four arrives in time to see a tower burst from the surface of the Flb'Dbi's polarity device. While Mister Fantastic, Human Torch, and Thing fought the Flb'Dbi's drones upon entering the polarity device, Invisible Woman encountered Primus and the Flb'Dbi where she learned of their story. Invisible Woman told them about the progress that Earth made. Not wanting to harm Earth's inhabitants, Primus deactivated the Polarity Towers which returned Earth to normal and then called off the drones that were fighting the Fantastic Four. Mister Fantastic then works to enable the Flb'Dbi's technology to adapt to Earth and function in its polarity. Once this was done, Primus and the Flb'Dbi boarded their ship and left Earth while Thing shattered the Polarity Towers so that nobody can use them for their own purposes.<ref>''Fantastic Four'' #221</ref>
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://marvel.wikia.com/Primus_%28Android%29_%28Earth-616%29 Primus I] at Marvel Wiki
+* [http://www.comicvine.com/primus/4005-2132/ Primus I] at Comic Vine
+* {{Marvunapp|http://www.marvunapp.com/Appendix3/primusshadow.htm|Primus II}}
+* {{Marvunapp|http://www.marvunapp.com/Appendix/primus1.htm|Primus III}}
+
+{{Captain America}}
+
+[[Category:Marvel Comics supervillains]]
+
+{{Marvel-villain-stub}}

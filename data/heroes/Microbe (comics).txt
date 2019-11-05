@@ -1,0 +1,39 @@
+{{refimprove|date=April 2017}}
+
+{{Superherobox| <!--Wikipedia:WikiProject Comics-->
+image=[[image:Newwarriors1june2005.jpg|250px]]
+|caption=''Microbe'' (center) from ''New Warriors vol. 3 #1.''
+|comic_color=background:#ff8080
+|character_name=Microbe
+|real_name=Zachary Smith Jr.
+|species=[[Mutant (Marvel Comics)|Human Mutant]]
+|height=6'5"
+|weight= 390lbs.
+|publisher=[[Marvel Comics]]
+|debut=''New Warriors vol 3'' #1 (August, 2005)
+|creators=[[Skottie Young]]<br>[[Zeb Wells]]
+|alliance_color=background:#ffc0c0
+|alliances=[[New Warriors]]
+|aliases=
+|powers=Nosokinesis (Germ/Virus/Bacteria Manipulation)<br>Sick Sense (Perception of the presence of germs/bacteria/microbes)
+|}}
+
+'''Microbe''' ('''Zachary Smith Jr.''') is a [[fictional character]], a [[superhero]] appearing in [[American comic book]]s published by [[Marvel Comics]]. He debuted in ''New Warriors Vol. 3'' #1. He is a [[Mutant (Marvel Comics)|mutant]] with the ability to communicate with [[Microorganism|germs]] and other microscopic [[organisms]]. He was a member of the [[New Warriors]].
+
+==Fictional character biography==
+
+===Origin===
+Smith has a rather tragic past.  His biological father, a prominent medical researcher, thought he had discovered a way to cure previously incurable diseases. Instead, it turned out that Microbe had unknowingly used his mutant power and "talked" the diseases into acting out the results his father wanted.<ref>''New Warriors'' Vol. 3 #1</ref> Disgraced, his father disowned Microbe, leaving the teen heartbroken and alone. Out of compassion, [[Night Thrasher (Dwayne Taylor)|Night Thrasher]] adopted him and began training him to be a superhero, making him a member of the New Warriors.{{issue|date=March 2013}}
+
+===Civil War===
+While tracking some escaped supervillains with the New Warriors, Microbe, alongside his foster father Night Thrasher, is killed in Stamford, Connecticut as part of the New Warriors reality show.<ref>''[[Civil War (comic book)|Civil War]]'' #1</ref>  This event sparks the need for the [[Superhuman Registration Act]] and the ensuing [[Civil War (comics)|Civil War]],{{issue|date=March 2013}} as well as making the surviving and former New Warriors members the most hated people in the US.{{issue|date=March 2013}}
+
+==In other media==
+[[Matthew Moy]] will portray Microbe in the live-action ''[[New Warriors (TV series)|New Warriors]]'' TV series on [[Freeform (TV channel)|Freeform]].<ref>{{cite web|url=https://www.usatoday.com/story/life/tv/2017/04/19/sneak-peek-squirrel-girl-leads-freeform-series-new-warriors/100581106/ |title=Exclusive sneak peek: Squirrel Girl leads the team of Freeform's 'New Warriors' |last=Truitt |first=Brian |work=[[USA Today]] |date=April 19, 2017 |accessdate=April 19, 2017 |archiveurl=https://www.webcitation.org/6pqcI8fOq?url=https://www.usatoday.com/story/life/tv/2017/04/19/sneak-peek-squirrel-girl-leads-freeform-series-new-warriors/100581106/ |archivedate=April 19, 2017 |deadurl=no |df= }}</ref><ref>http://www.hollywoodreporter.com/live-feed/marvels-new-warriors-squirrel-girl-cast-milana-vayntrub-derek-theler-topline-freeform-comedy-1019588</ref>
+
+==Footnotes==
+{{reflist}}
+
+
+[[Category:Marvel Comics mutants]]
+[[Category:Marvel Comics superheroes]]

@@ -1,0 +1,99 @@
+{{notability|date=June 2018}}
+{{Infobox comics character <!--Wikipedia:WikiProject Comics-->
+| character_name = Phobos
+| image          = Phobos-Comics.jpg
+| imagesize      = 200
+| converted      = y
+| caption        = Phobos (Alexander) from ''Ares: God of War'' #5<br>Art by [[Travel Foreman]]
+| publisher      = [[Marvel Comics]]
+| debut          = '''Original:'''<br />''[[Doctor Strange|Dr. Strange]], Sorcerer Supreme'' #32 (August 1991)<br />'''Current:'''<br />''Ares: God of War'' #1 (March 2006)
+| creators       = '''Original:'''<br />[[Roy Thomas]]<br />[[Jean-Marc Lofficier]]<br />'''Current:'''<br />[[Michael Avon Oeming]]<br />[[Travel Foreman]]
+| alter_ego      = 
+| full_name      = '''Original:'''<br />Phobos<br />'''Current:'''<br />Alexander Aaron
+| species        = Olympian<ref>{{cite web|last=Shedeen|first=Jesse|title=The Secret Warriors Strike Back|url=http://uk.ign.com/articles/2009/03/17/the-secret-warriors-strike-back|publisher=IGN}}</ref> 
+| homeworld      = <!-- optional -->
+| alliances      = '''Original:'''<br />[[Olympians (Marvel Comics)|Olympians]]<br />'''Current:'''<br />[[Secret Warriors (Team White)|Secret Warriors]]
+| partners       = <!-- optional -->
+| supports       = <!-- optional -->
+| aliases        = '''Original:'''<br />God of Fear<br />'''Current:'''<br />''Pre-Retcon:''<br />God of War<ref name="Ares 2006">''Ares: God of War'' #5 (March 2006)</ref><br />''Currently:''<br />Phobos
+| powers         = '''Original:'''<br />
+*  Ability to Instill Fear and Control Others
+*  Super Strength and Endurance
+'''Current:'''<br />''Pre-Retcon:''<br />
+* Mastery of All Forms of Weaponry<ref name="Ares 2006"/>
+* Super Strength and Endurance
+''Currently:''<br />
+* Ability to Instill Fear in Others
+* [[Precognition]]<ref name="ReferenceA">''[[Secret Warriors (2009 series)|Secret Warriors]]'' #2 (February 2009)</ref>
+| cat            = super
+| subcat         = Marvel Comics
+| hero           = y
+| villain        = 
+| sortkey        = Phobos (Marvel Comics)
+}}
+'''Phobos''' is the name of two fictional comic book characters appearing in books published by [[Marvel Comics]] characters. The first appeared in ''[[Doctor Strange|Dr. Strange]], Sorcerer Supreme'' #32 (August 1991) in a story written by [[Roy Thomas]] and [[Jean-Marc Lofficier]].
+
+The second and current Phobos first appeared in the 2006 ''Ares: God of War'' mini-series (written by [[Michael Avon Oeming]]; art by [[Travel Foreman]]). He is the son of [[Ares (Marvel Comics)|Ares]], step-brother to [[Hippolyta (Marvel Comics)|Hippolyta]], and a member of the [[Secret Warriors (Team White)|Secret Warriors]].
+
+Due to the nature of gods in the [[Marvel Universe]], in addition to the [[retcon]] surrounding the current Phobos ([[#Fictional character biography|see below]]) the relationship between the two has not been explicitly explained.
+
+==Original==
+
+===Publication history===
+The original Phobos first appeared in the "A Gathering of Fear" storyline in ''[[Dr. Strange, Sorcerer Supreme]]''<ref>''Doctor Strange'' (vol. 3), started off as ''Doctor Strange, Sorcerer Supreme'', renamed ''D. Strange, Sorcerer Supreme'' in issue #4</ref> #32 (August 1991) written by [[Roy Thomas]] and [[Jean-Marc Lofficier]]. He reappeared in "The Great Fear" storyline in DS:SS #39 (March 1992).
+
+===Fictional biography===
+Phobos and his brother [[Deimos (Marvel Comics)|Deimos]] are sons of [[Ares (Marvel Comics)|Ares]] and [[Nox (Marvel Comics)|Nox]] (posing as [[Venus (Marvel Comics)|Venus]]) but were killed by [[Thor (Marvel Comics)|Thor]] and [[Hercules (Marvel Comics)|Hercules]] in their first appearance.<ref>''Doctor Strange: Sorcerer Supreme'' #32 (August 1991)</ref> Later the [[Fear Lords]] release so much fear that Nox is able to bring her sons back, creating them from the [[Darkforce]] but they were eventually defeated again.<ref>''Doctor Strange: Sorcerer Supreme'' #39 (March 1992)</ref> Phobos meets his final fate when [[Amatsu-Mikaboshi (comics)|Amatsu-Mikaboshi]] assaults Olympus and kills him.<ref name="ReferenceB">''Ares: God of War'' #3 (March 2006)</ref>
+
+==Alexander==
+
+===Publication history===
+The current Phobos, Alexander, first appeared in the ''[[Ares (comic book)|Ares]]'' limited series in 2006 written by [[Michael Avon Oeming]]. Here, he is manipulated by [[Amatsu-Mikaboshi (comics)|Amatsu-Mikaboshi]] into becoming a warrior until his father, Ares, saves him many years later, a young adult with god-like powers.<ref name="Ares 2006"/> This ending is ignored for future storyline purposes.
+
+The character returns, [[retcon]]ned by [[Brian Michael Bendis]] and reduced to a ten-year-old boy with no specialized training in ''[[The Mighty Avengers|Mighty Avengers]]'' #1, then reappears in the [[Secret Invasion]] crossover, in ''Mighty Avengers'' and the ''Secret Invasion'' limited series. Once [[Dark Reign (comics)|Dark Reign]] started, he began appearing regularly in ''Secret Warriors''.
+
+===Fictional character biography===
+The current Phobos is a young boy named Alexander Aaron.<ref name="ReferenceC">''Ares: God of War'' #1 (March 2006)</ref> In the 2006 ''Ares: God or War'' mini-series, Alexander is taken from his father, Ares, by [[Zeus (Marvel Comics)|Zeus]], and then kidnapped by the Japanese god [[Amatsu-Mikaboshi (comics)|Amatsu-Mikaboshi]]. Mikaboshi, in an attempt to destroy the Marvel pantheons, trains and manipulates Alex for at least five Olympian years - which vary substantially from human years in that years can pass to the gods while simultaneously only a few days or months passing for humans - under the guise of a mother-figure who eventually turns him into a deadly swordsman. He is saved from the evil deity when the combination of Zeus and Ares's influences broke his brainwashing. Their salvation apparently eliminates his skills.{{issue|date=January 2013}}
+
+Brian Michael Bendis then ret-conned these events in ''Mighty Avengers''. When Alex / Phobos is first approached by fellow Secret Warrior Daisy, he is once again a young boy, untrained, and aware that his father is the god Ares (''Mighty Avengers #13''). (The general story of Mikaboshi destroying the Marvel pantheons and Zeus' sacrifice remains canon however).<ref name="Incredible Hercules #117">''Incredible Hercules'' #117</ref> It's at this point that Daisy reveals to Alex that he is Phobos.<ref name="ma13"/> After this, he begins to gain fear like powers, having inherited the original's abilities. However, in Mighty Avengers #13 he scared off a couple of boys, and after that he lied to Daisy that he doesn't have any powers, but she doesn't believe him. After talk with her he says 'that explains so much' because he realises then that he's new Phobos, and was born mortal, but after drinking Mikaboshi's blood he became god and now he has fear powers and Daisy told him who he really is (new god of fear). In that issue Ares tells him that he's an Avenger right now and he cannot worry about his grades.{{issue|date=January 2013}}
+
+During the Secret Invasion storyline, Alex is recruited by [[Nick Fury]] for his team of [[Secret Warriors (Team White)|Secret Warriors]].<ref>''Secret Invasion''</ref> Post-invasion, he remains a member of the team and has shown evidence of additional pre-cognitive powers.<ref name="ReferenceA"/> However, his father has noticed his absence upon receiving a truancy notice.<ref>''Dark Avengers'' #5</ref> In the aftermath of [[Utopia (comics)|Utopia]], Ares followed Alex and Daisy to one of Fury's base, where he discovers his son's affiliation with the former [[S.H.I.E.L.D.]] director. Fury tells Ares that his son has potential. Ares ultimately accepts his son's decision, meaning that he doesn't need to hide his allegiance anymore.<ref>''Dark Avengers'' #9</ref> Phobos later pilots a Fury [[Life Model Decoy]] to assist [[Black Widow (Natalia Romanova)|Black Widow]] and [[Songbird (comics)|Songbird]] but they are captured by the Thunderbolts. As soon as [[Green Goblin|Norman Osborn]] shoots the LMD in the head, Phobos reveals himself, inflicting Osborn with the fear that he will lose his mind soon enough.<ref>''Secret Warriors'' #8</ref> During [[Siege (comics)|Siege]], Phobos tried to tag along with the other secret warriors to help the [[Asgardians (Marvel Universe)|Asgardians]], but Nick Fury wouldn't let him, because he knew his father would die and he didn't want him to witness it. When the fiasco was over, [[Thor (Marvel Comics)|Thor]] confronted Phobos telling him that Ares was dead and he offered to take him to see his next of kin in Mount Olympus. However, he declined his offer. Thor offered that if he ever changed his mind, he would take him there. Although he had mixed feelings with his dad, he still felt sad that he died.{{issue|date=January 2013}}
+
+Phobos is now in Elysium after having been stabbed and killed by [[Gorgon (Tomi Shishido)|Gorgon]] wielding the sword Godkiller. His last appearance had his father proud of his actions as they were reunited in the afterlife.<ref>''Secret Warriors'' #22</ref>
+
+==Powers and abilities==
+Both versions of Phobos control the power of fear, a power that has been seen to cause victims to run for their lives as well as attack their partners. Certain characters have proven immune to this ability (i.e. Nick Fury, Gorgon) - citing they lack fear as the reason.<ref name="Secret Warriors 2009">''[[Secret Warriors (2009 series)|Secret Warriors]]'' #3 (March 2009)</ref>
+
+The current version of Phobos (Alex) was at one time a highly trained swordsman and possessed strength and endurance similar to other Olympian gods in the Marvel universe,<ref name="ReferenceC"/> however this has since been ret-conned.<ref name="ma13"/> ''Secret Warriors'' #10 re-establishes his training with a sword. He was denied use of it by his father Ares, who required him to be proficient in all forms of arms before returning his sword.
+
+Currently he, like the previous Phobos, can instill fear in others. Additionally, he has shown evidence of pre-cognitive powers.<ref name="ReferenceA"/>
+
+When utilizing his fear based powers, Alex's eyes glow. The color has shown to vary between white and red. Whether this is simply due to the artist's rendering or the level of power usage is unknown.<ref name="Secret Warriors 2009"/>
+
+==Relationship between the two characters==
+{{Original research|section|date=January 2011}} 
+Currently, it is unclear whether the original Phobos and the current Alex are actually two separate characters. Examining their respective first appearances it would appear that they are, as both have distinct personalities and ability sets. In fact, their father Ares even explicitly states that both are separate individuals within the 2006 ''Ares: God of War'' mini-series.<ref name="ReferenceB"/>
+
+However, this mini-series takes place before Brian Michael Bendis [[retcon]]ned the origin and abilities of Alex. Within the mini-series Alex had grown well into his late teens, had acquired a mastery of almost all forms of weaponry, and was well aware of his divine heritage.<ref name="ReferenceB"/> However, when Alex next appears in ''[[The Mighty Avengers|Mighty Avengers]]'' #13 he is barely 10, has no combat experience, and is aware that his father is the god Ares. It is also in ''Mighty Avengers'' #13 that Alex is first identified as Ares' son Phobos, and displays abilities similar to the original version of the character.<ref name=ma13>''[[The Mighty Avengers|Mighty Avengers]]'' #13 (July 2008)</ref> Thus, it would appear that Bendis retconned the events of the mini-series and that Alex and Phobos are potentially the same character.
+
+Adding to the confusion, based on the events in ''The Incredible Hercules'' #117 it seems that parts of the ''Ares: God of War'' mini-series are, in fact, still considered canon. Namely, Mikaboshi's plot and attempt to destroy the divine pantheons in the Marvel Universe. Since Alex's capture and development were central to Mikaboshi's plan, yet also directly contradict his later appearances in ''Mighty Avengers'' and ''Secret Warriors'', the current status of both characters remains unclear.<ref name="Incredible Hercules #117"/><ref name=ma13 />
+
+According to the ''Thor & Hercules: Encyclopaedia Mythologica'', the original Phobos and the current Alex are two separate characters.  More specifically, they are half-brothers.  The Phobos profile indicates that the original Phobos (and his brother Deimos) were killed during Mikaboshi's invasion of Olympus, and that Alexander inherited the fear-based powers of his slain older half-brother following his return to Earth.<ref name="encyclopaediamythologica">{{Comic book reference | Writer = [[Anthony Flamini]], [[Greg Pak]], [[Fred Van Lente]] & [[Paul Cornell]] | Penciller =  Kevin Sharpe | Inker = Kevin Sharpe | Story =  | Title = Thor & Hercules: Encyclopaedia Mythologica| Issue = 1 | Date = July 2009| Publisher = [[Marvel Comics]] | }}</ref>
+
+''Dark Reign: New Nation #1'' states the ''Ares: God of War'' limited series as the first appearance of Alex. However, this does not indicate if he is meant to be related to the previous Phobos, such as in a re-imagining or reincarnation.
+
+==Notes==
+{{reflist|2}}
+
+==References==
+{{refbegin}}
+*[http://www.marvunapp.com/Appendix/demphb.htm Phobos] at the Appendix to the Handbook of the Marvel Universe
+*{{comicbookdb|type=character|id=12841|title=Phobos}}
+{{refend}}
+
+==External links==
+*[http://marvel.com/universe/Phobos Phobos] at the Marvel Universe
+
+[[Category:Comics characters introduced in 1991]]
+[[Category:Greco-Roman mythology in Marvel Comics]]
+[[Category:Greek and Roman gods in fiction]]

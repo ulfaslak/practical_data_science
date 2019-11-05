@@ -1,0 +1,50 @@
+{{Infobox comics character
+<!--Wikipedia:WikiProject Comics-->
+| character_name = Tri-Sentinel
+| image          = <!-- filename format only -->
+| imagesize      = <!-- default 250 -->
+| caption        = 
+| publisher      = [[Marvel Comics]]
+| debut          = ''[[The Amazing Spider-Man]]'' #329 (February 1990)
+| creators       = [[Erik Larsen]]<br>[[David Michelinie]]
+| alter_ego      = 
+| full_name      =
+| species        = [[Sentinel (comics)|Sentinel]]
+| powers         = 
+| cat            = 
+| subcat         = 
+| hero           = 
+| villain        = 
+| sortkey        = 
+| addcharcat#    = 
+}}
+'''The Tri-Sentinel''' is a fictional [[robot]] who has appeared in the superhero comics of [[Marvel Comics]].
+
+==Fictional character biography==
+The Tri-Sentinel's first appearance was in ''[[The Amazing Spider-Man]]'' #329, which followed on directly from the "[[Acts of Vengeance]]" storyline. In that storyline, several superheroes including [[Spider-Man]], [[Captain America]], [[Thor (Marvel Comics)|Thor]], [[Iron Man]], and [[Cloak and Dagger (comics)|Cloak and Dagger]] came together to fight the [[Asgardians (Marvel Universe)|Asgardian]] trickster god [[Loki (comics)|Loki]]. After Loki's defeat at the hands of Thor, Loki engaged in a final act of vengeance by creating the Tri-Sentinel by merging three [[Sentinel (comics)|Sentinel]]s that belonged to [[Sebastian Shaw (comics)|Sebastian Shaw]]. The Tri-Sentinel was sent by Loki to attack a nuclear power plant and thereby destroy [[New York City]]. It was defeated by [[Spider-Man]], who at that time possessed the powers of the [[Captain Universe]] entity.<ref>''The Amazing Spider-Man'' #329. Marvel Comics.</ref>
+
+In a subsequent Spider-Man storyline, the villainous [[Life Foundation]] gathered the remains of the Tri-Sentinel and rebuilt it to serve them and provide security for their clients. When [[Carlton Drake]] turned it on, it rejected the Life Foundation's directives and reinstated Loki's. Spider-Man and [[Nova (Richard Rider)|Nova]] undertook to defeat the Tri-Sentinel.<ref> {{Cite comic|writer = David Michelinie|penciller = Mark Bagley|inker = Randy Emberlin|colorist = Bob Sharen|letterer = Rick Parker|editor = Danny Fingeroth|story = The Three Faces of Evil!|title = The Amazing Spider-Man|volume = 1|issue = #351|date = September 1991|publisher = Marvel Comics|location = United States}} </ref> Nova used an aircraft-mounted magnetic cannon to slow it down, while Spider-Man penetrated to the inside of the Tri-Sentinel's armour, fought its automated internal defence systems, and opened a [[vibranium]] container at the Tri-Sentinel's core, causing the Tri-Sentinel to melt before reaching a heavily populated area.<ref> {{Cite comic|writer = David Michelinie|penciller = Mark Bagley|inker = S. Delarosa|colorist = Bob Sharen|letterer = Rick Parker|editor = Danny Fingeroth|story = Death Walk!|title = The Amazing Spider-Man|volume = 1|issue = #352|date = October 1991|publisher = Marvel Comics|location = United States}} </ref>
+
+The [[Hellfire Club (comics)#The Seventh Inner Circle|Hellfire Brats]] later began producing their own line of Tri-Sentinels, advertised with the pitch, "The Mark VIII. Our take on the Tri-Sentinel. A walking slaughterhouse, powered by its own miniature nuclear reactor. When nothing less than genocide will do."<ref>{{Cite comic|writer = Jason Aaron|penciller = Chris Bachalo|inker = Tim Townsend, Jaime Mendoza, and Al Vey|colorist = Chris Bachalo|letterer = Chris Eliopoulos|editor = Nick Lowe|story = The Fires of Hell A-Glowing|title = Wolverine and the X-Men|volume = 1|issue = #16|date = 12 September 2012|publisher = Marvel Comics|location = United States}} </ref>
+
+The Tri-Sentinel resurfaced where it attacked New York City. It faced an Isotope Genome Accelerator duplicate of Spider-Man. Because the duplicate doesn't have Peter Parker's responsibility, he drove the Tri-Sentinel recklessly through the city upon hijacking it.<ref>''Amazing Spider-Man'' Vol. 5 #3</ref> [[Mendel Stromm]] was revealed to have obtained the Tri-Sentinel from the bunker of the bankrupted Life Foundation. After that Tri-Sentinel was destroyed and he broke down in tears, Stromm was approached by a mysterious benefactor who provided him a [[Master Mold]] that specializes in creating Tri-Sentinels.<ref>''Amazing Spider-Man'' Vol. 5 #4. Marvel Comics.</ref> After Spider-Man and Peter Parker were brought back together, Spider-Man was able to take remote control of the Tri-Sentinels and send them back to the Master Mold base to destroy it.<ref>''Amazing Spider-Man'' Vol. 5 #5. Marvel Comics.</ref>
+
+==Powers and abilities==
+Tri-Sentinel's strength level is at Class 100 and it can fly. It can shoot bolts from its eyes, shoot tear gas from its hands, create energy fields to protect its interior and exterior, fire tentacles from its palms, and regenerate. Tri-Sentinel can override technological backup self-destruct devices. In the event that someone goes inside the Tri-Sentinel, it can use its internal components as projectiles.
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://marvel.com/universe/Tri-Sentinel Tri-Sentinel] at Marvel.com
+* [http://comicvine.gamespot.com/tri-sentinel/29-28982/ Tri-Sentinel] at Comic Vine
+* [http://www.marvunapp.com/Appendix/trisenti.htm Tri-Sentinel] at Marvel Appendix
+
+{{Spider-Man characters}}
+
+[[Category:Marvel Comics supervillains]]
+[[Category:Marvel Comics robots]]
+[[Category:Characters created by Erik Larsen]]
+[[Category:Characters created by David Michelinie]]
+
+{{Marvel-villain-stub}}

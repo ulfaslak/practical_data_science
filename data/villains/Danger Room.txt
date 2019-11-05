@@ -1,0 +1,141 @@
+{{in-universe|date=March 2015}}
+{{Infobox fictional location
+| name        = Danger Room
+| image       = Danger room.jpg
+| image_size  = 
+| caption     =
+| blank_label = [[:Category:Comics publishing companies|Publisher]]
+| blank_data  = [[Marvel Comics]]
+| first       = ''[[Uncanny X-Men|The X-Men]]'' #2 (November 1963)
+| creators    = [[Jack Kirby]]
+| type        = Training room
+| people      = 
+| races       = 
+| locations   = 
+}}
+The '''Danger Room''' is a fictional training facility<ref>{{cite web|url=http://www.mutanthigh.com/tech/dangerroom.jpg |title=Danger Room and 2nd Sub-Basement |publisher=Mutanthigh.com |date= |accessdate=2011-09-29 |deadurl=yes |archiveurl=https://web.archive.org/web/20131017044154/http://www.mutanthigh.com/tech/dangerroom.jpg |archivedate=2013-10-17 |df= }}</ref> appearing in [[American comic book]]s published by [[Marvel Comics]]. The facility is depicted as built for the [[X-Men]] as part of the various incarnations of the [[X-Mansion]].
+
+==Publication history==
+An obstacle course in which the X-Men train appears in ''The X-Men'' #1 (September 1963), but the Danger Room is never mentioned by name. The name "Danger Room" is first used in ''The X-Men'' #2 (November 1963). According to X-Men writer/editor/co-creator [[Stan Lee]], "the Danger Room was [[Jack Kirby]]'s idea. I thought it was great because we could always open with an action sequence if we needed to."<ref>{{cite news | last1 = O'Neill | first1 = Patrick Daniel | last2 = Lee | first2 = Stan | authorlink2 = Stan Lee | date = August 1993 | title = X Marks the Spot | work = [[Wizard (magazine)|Wizard]]: X-Men Turn Thirty | issue = | pages = 8–9}}</ref>
+
+==Early designs==
+[[File:X-Men1DangerRoom.jpg|thumb|right|170px|Panel from ''The X-Men'' #1 (Sept. 1963) showing [[Beast (comics)|Beast]] training. Art by [[Jack Kirby]].]]
+In the early books it was filled with traps, projectile firing devices, flamethrowers, and mechanical dangers such as presses, collapsing walls and the like intended to challenge the trainee. Meanwhile, an observer is in the overhanging control booth<ref>{{cite web|url=http://www.mutanthigh.com/tech/dangerroom2.jpg |title=Danger Room Control Hub |publisher=Mutanthigh.com |date= |accessdate=2011-09-29 |deadurl=yes |archiveurl=https://web.archive.org/web/20070927002036/http://www.mutanthigh.com/tech/dangerroom2.jpg |archivedate=2007-09-27 |df= }}</ref> managing the room's mechanisms to oversee the exercise while manually ensuring the subject's safety. Later the Danger Room was upgraded with machines and robots for the X-Men to fight against.<ref>{{cite web|url=http://marvel.toonzone.net/spideytas/episode/mutantagenda/07.jpg|archive-url=https://web.archive.org/web/20121022155850/http://marvel.toonzone.net/spideytas/episode/mutantagenda/07.jpg|title=[episode screen shot]|archive-date=2012-10-22}}</ref>
+
+After befriending the [[Shi'ar]] the X-Men rebuilt the Danger Room with Shi'ar hard-light [[holographic]] technology. These upgrades were largely added by Dr. Hank McCoy (''[[Beast (comics)|Beast]]''). The Danger Room is located in the X-Mansion; every destruction of the latter led to a rebuilding, and usually upgrading, of the Danger Room. The training facility has endured extensive damage over the years, usually from X-Men training or X-Men going rogue, as [[Colossus (comics)|Colossus]] did during The [[Muir Island Saga]]. [[Supervillains]] have dealt critical damage to it as well as taking over the facility, especially [[Arcade (Marvel Comics)|Arcade]]. The security and safety protocols that ensure the safety of anyone using the Danger Room have frequently been disrupted, tampered with by villains, failed, or have been completely negated in all the years of its use, each time happening more frequently as the room began to get more and more upgraded.
+
+It is suggested in the ''X-Men Official Guide'' that the objects in the Danger Room are holograms surrounded by force fields, supposedly confirmed in ''[[Astonishing X-Men]]'' when a student managed to kill himself by jumping from a holographic cliff face. It is also revealed that the Danger Room can display holograms in only [[color depth|32-bit color]].
+
+==Sentience==
+{{Infobox comics character
+|image=Dangeroom.PNG
+|caption=Danger
+|character_name=Danger
+|real_name=Inapplicable
+|publisher=[[Marvel Comics]]
+|debut=''Astonishing X-Men'' vol. 3 #8 (February, 2005)
+|creators=[[Joss Whedon]]<br/>[[John Cassaday]]
+|alliances=[[X-Men]]<ref>''Official Handbook of the Marvel Universe A to Z,'' vol. 13 (2010) Marvel Comics</ref><br/>X-Club<ref>''Uncanny X-Men'' vol. 2 #1</ref><br/>[[X-Factor (comics)|X-Factor]]
+|partners=[[Ord (comics)|Ord of the Breakworld]]<br/>[[Rogue (comics)|Rogue]]<br/>[[Gambit (comics)|Gambit]]
+|aliases=
+|powers=Enhanced strength and durability<br>Flight<br>Energy blasts<br>Detailed knowledge of the X-Men<br>Control over other machines<br>Ability to create realistic holographic projections
+}}
+
+===Gaining self-awareness===
+In [[Joss Whedon]]'s ''[[Astonishing X-Men]]'', the Danger Room developed [[self-awareness]]. It is mentioned by Wolverine as 'acting twitchy all semester.' The first thing it does is convince Wing, who has recently been depowered by Ord's cure, to kill himself.<ref>''Astonishing X-Men'' vol. 3 #7</ref> The next thing it does is take control of an old, broken Sentinel robot and knock out all the psychics within the X-Mansion. During the Sentinel's attack, Cyclops orders Shadowcat and the students to go hide in the Danger Room for safety. While there, they find the corpse of Wing. The Danger Room reanimates the corpse and attacks the students.<ref>''Astonishing X-Men'' vol. 3 #8-9</ref> Apart from Wing, there are no additional fatalities among the students. After being freed from its prison, it takes the form of a woman. She is dubbed '''Danger''' and attacks the X-Men. After defeating them, she travels to [[Genosha]] to kill [[Professor X|Professor Xavier]].<ref>''Astonishing X-Men'' vol. 3 #10</ref>
+
+Xavier was revealed to have known of the Danger Room's sentience and chosen not to reveal it, much to the dismay of the X-Men who seem to view this deception as taking on one of [[Magneto (comics)|Magneto's]] former ideals.{{Clarify|date=June 2010}} During the battle on Genosha, she takes control of Cassandra Nova's second Wild Sentinel and engages Beast in a vicious and brutal fight while the other X-Men take on the Wild Sentinel. After Beast destroys her body, "Danger's" consciousness was presumed to still exist within the conflicted consciousness of the Wild [[Sentinel (comics)|Sentinel]].<ref>''Astonishing X-Men'' vol. 3 #11-12</ref>
+
+===Ord and the Breakworld===
+Later, Danger reappears in a new humanoid form, similar to her previous one, in which she infiltrated [[S.W.O.R.D. (comics)|S.W.O.R.D.]] headquarters to speak with [[Ord (comics)|Ord of the Breakworld]] and offer her assistance.<ref>''Astonishing X-Men'' vol. 3 #15</ref>
+
+Danger and Ord both ended up on Breakworld, along with the X-Men and S.W.O.R.D., and after the robot encountered [[Emma Frost]] and an unconscious [[Cyclops (Marvel Comics)|Cyclops]], Emma told the robot that despite its supposed enmity it has let the mutants live too often, meaning it hasn't overcome its parent programming, so it cannot kill any mutant. Cyclops recovers, and Emma tells Danger to help the X-Men in Breakworld, and in exchange, it will be given Professor Xavier. Danger later attacks some of Breakworld's inhabitants and sides with the X-Men and S.W.O.R.D.<ref>''Astonishing X-Men'' vol. 3 #21-24, Giant-Size Astonishing X-Men #1</ref>
+
+===Revenge===
+After the Breakworld incident, S.W.O.R.D. takes Danger into custody. When the S.W.O.R.D. headquarters is destroyed during [[Secret Invasion]], Danger escapes and goes to Australia, taking on the form of an anthropologist from [[Melbourne University]]. She approaches [[Rogue (comics)|Rogue]] in her disguise but is targeted by a low flying [[Shi'ar]] salvage spacecraft, where she reveals who she really is and that she is going to use Rogue as a conduit so she can get her revenge on Professor Xavier.<ref>''X-Men: Legacy'' #220</ref>
+
+After being damaged by the crew, she warps the entire area with her holographic projections of past moments within Rogue's life as well as other famous moments from the X-Men's history.<ref>''X-Men: Legacy'' #221-222</ref> Xavier confronts Danger and she reveals she intended to make Rogue absorb all his powers and memories permanently, leaving him crippled and useless. Xavier reveals that when she first said ''Where am I?'', he consulted her Shi'ar makers who assured him it was not possible she could have gained self-awareness and that he had no way of knowing what she was or would become. He tried to free her but because she was really billions of lines of machine code, he didn't know which lines to erase without lobotomizing her. Because of not knowing what she was capable of, if he had freed her, she might have killed his X-Men because she had the knowledge and power, so instead he did nothing and watched her suffer. Xavier ends her suffering by repairing her. She then sides with Xavier, Rogue, and Gambit and takes out the Shi'ar salvage crew. Afterwards, with Xavier, she helps Rogue gain full control over her powers.<ref>''X-Men: Legacy'' #223-224</ref>
+
+===Utopia===
+Danger joins Rogue and Gambit to help the X-Men settle the unrest in San Francisco. She saves a child who mistakes her for a [[Transformers (fiction)|Transformer]]. She comes to aid Rogue and Gambit during a fight with [[Ares (Marvel Comics)|Ares]] and later departs with them to find Trance and any other students still out during the riots.<ref>''X-Men: Legacy'' #226</ref> After locating Trance, they are attacked by [[Moonstone (comics)|Ms. Marvel]] who manages to seriously damage her shoulder.<ref>''X-Men: Legacy'' #227</ref>
+
+After the events of Utopia, Danger is seen being repaired by [[Madison Jeffries]] when they are attacked by [[Emplate]]. Danger tries to defend Madison only to be further damaged by Emplate. After being repaired, at the request of Cyclops, she informs the inhabitants of Utopia who Emplate is and his history.<ref>''X-Men: Legacy Annual'' #1 (2009)</ref> She works alongside Madison, Rogue and the X-Club on erasing Legion's many personalities,<ref>''New Mutants'' vol. 3 #5</ref> and is offered the position of warden of Utopia by Emma Frost, which she accepts because it also allows her to study the best and the worst of what humanity has to offer.<ref>''Uncanny X-Men'' #515</ref> Danger's first job was to interrogate [[Scalphunter (Marvel Comics)|Scalphunter]], who was forced into bringing five [[Predator X (comics)|Predator Xs]] to Utopia.<ref>''Uncanny X-Men'' #517</ref> Armor confronts Danger, due to her being responsible for Wing's death. The get into a tussle. Danger was able to discover Armor's weakness and insists that they talk. Armor angrily expresses to Danger that her presence with the X-Men pisses on Wing's memory. Danger tells Armor, that she constantly reboots herself, but can't wipe out Wing's image in her memory. Armor is surprised that Danger can experience feelings of guilt, and she proceeds to tell her about Wing.
+
+===Necrosha===
+As warden of Utopia, some of the prisoners she guards include [[Empath (comics)|Empath]], [[Sebastian Shaw (comics)|Sebastian Shaw]] and [[Donald Pierce]]. She uses her Virtual Reality technology in an attempt to rehabilitate them.<ref>''Uncanny X-Men'' #515</ref> During the invasion from Selene's forces, she detects an energy source, but then malfunctions and crashes. Then, [[Shinobi Shaw]] and [[Harry Leland]], who have been resurrected by the [[techno-organic virus|T-O virus]], appear, ready to kill Shaw for preventing [[Selene (comics)|Selene]]'s ascent to godhood.<ref>''Necrosha One-shot''</ref> However, Danger is able to adapt to the mass increase and severed Shinobi's hand before he could kill his father.<ref>''X-Force'' vol.3 #21</ref>
+
+===Second Coming===
+{{Expand section|date=March 2015}}
+Danger appears to have been compromised as she is not aware that Donald Pierce has free rein to sabotage Utopia's defenses.{{Issue|date=February 2011}}
+
+===Wolverine and the X-Men===
+Beast rebuilds the Westchester School at the behest of Wolverine at the aftermath of the Schism event. Built on the ruins of the previous Xavier Institute, the school is rechristened the Jean Grey School for Higher Learning and is built with state of the art Shi'ar Technology, gifted to him by the current Emperor of the Shi'ar Empire Gladiator (Kallark) whose son Kid Gladiator is enrolled (presumably to learn control over his vast powers.) The school incorporates a decentralized Danger Room that is integrated into the entire building itself instead of just one room. This is seen in the first issue of Wolverine and the X-Men when hidden defense weapons are activated in the boys' bathroom. Whether the danger room's holographic functions are fitted throughout the school as well remains to be seen.
+
+===All-New X-Factor===
+Danger reappears in the ''[[All-New X-Factor]]'' series. She appears as a prisoner of a member of the Thieves Guild, which Gambit is running, and when he discovers this, he orders her freed. After restoring her memory which was lost due to the imprisonment, he invites her to join the new X-Factor team.<ref>''All-New X-Factor'' #4</ref>
+
+===X-Men: Blue===
+Danger appears in the form of the Blackbird jet plane and is used as the main transport for the original time-displaced X-Men.<ref>''X-Men: Blue'' #1-4</ref> 
+
+During the ''[[Secret Empire (comic book)|Secret Empire]]'' storyline, Danger takes Jean Grey and [[Jimmy Hudson]] to a prison stronghold to rescue their captured teammates. During the ensuing battle, she reveals her true form and projects holograms of the adult X-Men to keep the guards occupied.<ref>''X-Men: Blue #8</ref>
+
+==Powers and abilities==
+As Danger gained self-awareness and adopted a more humanoid appearance, she has shown enhanced strength and durability, create hard-light holographic projections that can affect entire areas, energy blasts, flight, the ability to rebuild herself after her body is destroyed (at one point even rebuilding herself with butterfly-like wings which are soon destroyed by Beast) and control over other machines. She is able to bring other machines into self-awareness and upload herself into other machines to build and operate new bodies.  She also possesses more detailed knowledge of the X-Men and their combat skills than any other source, having trained against them as the Danger Room.
+
+==Danger Cave==
+With the Danger Room gone, the X-Men have resorted to using the empty room to train with their students. Also, the student [[Prodigy (David Alleyne)|Prodigy]], using the borrowed knowledge from several X-Men, built a "Danger Cave" underneath the X-Mansion that is a giant stone room with a large metal circle control center.
+
+The Danger Cave is similar to the Danger Room, but what makes the Danger Cave unique is that it uses holograms to train the students by re-enacting renowned battles the X-Men were involved in, like Inferno, Broodworld, Planet X, or Onslaught, even going so far as to dress the participants up in what the X-Men wore at that time.
+
+==Other versions==
+
+===Age of Apocalypse===
+The Danger Room equivalent in the ''[[Age of Apocalypse]]'' reality was the Killing Zone. The facility was located in Mount Wundagore<ref>''X-Men Chronicles'' #1 (1995)</ref> and was apparently destroyed by [[Holocaust (Marvel Comics)|Nemesis]]. Later, it was [[Dazzler (Marvel Comics)|Dazzler]] who replaced the Danger Room and acted as a one-woman training facility for the fully fledged X-Men.
+
+===Ultimate Marvel===
+The [[Ultimate X-Men|X-Men]] from the [[Ultimate Marvel]] universe also have a Danger Room with similar technology, including smaller holographic training rooms in the hidden [[safehouse]]s prepared by [[Professor X]]. However, these are prone to malfunctions, such as a fight sequence producing [[Hasidic]] [[rabbi]]s instead of [[ninja]]s (though to no less of an effect towards the latter intent).{{Issue|date=February 2011}}
+
+==In other media==
+
+===Television===
+*The Danger Room was in some [[X-Men]] specific episodes of ''[[Spider-Man and His Amazing Friends]]'',<ref>{{cite web|url=http://marvel.toonzone.net/spideyfriends/cameos/ |title=Cameos - The Origin of Iceman |publisher=Marvel.toonzone.net |date= |accessdate=2011-09-29}}</ref><ref>{{cite web|url=http://marvel.toonzone.net/spideyfriends/episode/adventure/03.jpg|archive-url=https://web.archive.org/web/20120212143025/http://marvel.toonzone.net/spideyfriends/episode/adventure/03.jpg|title=[episode screen shot]|archive-date=2012-02-12}}</ref><ref>{{cite web|url=http://marvel.toonzone.net/spideyfriends/episode/adventure/09.jpg|archive-url=https://web.archive.org/web/20070214070050/http://marvel.toonzone.net/spideyfriends/episode/adventure/09.jpg|title=[episode screen shot]|archive-date=2007-02-14}}</ref> and ''[[X-Men: Pryde of the X-Men]]''.<ref>{{cite web|url=http://marvel.toonzone.net/xmen/pryde/12.jpg|archive-url=https://web.archive.org/web/20141129151251/http://marvel.toonzone.net/xmen/pryde/12.jpg|title=[episode screen shot]|archive-date=2014-11-29}}</ref><ref>{{cite web|url=http://marvel.toonzone.net/xmen/pryde/15.jpg|archive-url=https://web.archive.org/web/20141129145658/http://marvel.toonzone.net/xmen/pryde/15.jpg|title=[episode screen shot]|archive-date=2014-11-29}}</ref><ref>{{cite web|url=http://marvel.toonzone.net/xmen/pryde/16.jpg|archive-url=https://web.archive.org/web/20070929122032/http://marvel.toonzone.net/xmen/pryde/16.jpg|title=[episode screen shot]|archive-date=2007-09-29}}</ref><ref>{{cite web|url=http://marvel.toonzone.net/xmen/pryde/20.jpg|archive-url=https://web.archive.org/web/20141129112734/http://marvel.toonzone.net/xmen/pryde/20.jpg|title=[episode screen shot]|archive-date=2014-11-29}}</ref>
+* The Danger Room was often on the 1990s ''[[X-Men (TV series)|X-Men]]'' animated series.<ref>{{cite web|url=http://marvel.toonzone.net/xmen/episode/nightsentinels1/16.jpg|archive-url=https://web.archive.org/web/20070929122201/http://marvel.toonzone.net/xmen/episode/nightsentinels1/16.jpg|title=[episode screen shot]|archive-date=2007-09-29}}</ref> It also appeared on ''[[Spider-Man (1994 TV series)|Spider-Man: The Animated Series]]'' when [[Spider-Man]] accidentally entered it while fleeing from the X-Men.
+* The Danger Room was used often for training in ''[[X-Men: Evolution]]''.<ref>{{cite web|url=http://www.evolution.bravepages.com/g_joyride.html |title=Joyride Gallery |publisher=Evolution.bravepages.com |date= |accessdate=2011-09-29}}</ref> This version is purely mechanical, similar to the earliest comic incarnation of the Danger Room.
+* The Danger Room appears in ''[[Wolverine and the X-Men (TV series)|Wolverine and the X-Men]]'' animated series. It should also be noted that [[Master Mold]]'s characterization (voiced by [[Gwendoline Yeo]]) has elements of Danger.
+
+===Film===
+* The Danger Room was supposed to appear in the 2000 film ''[[X-Men (film)|X-Men]]'', but it was deleted.
+* The Danger Room was alluded in the 2003 film ''[[X2 (film)|X2]]''. there is a brief scene where a room saying "Danger" can be seen. The room was to make an appearance in which Wolverine would do an exercise, but after construction began on the site, the idea was quickly scrapped due to budget concerns. 
+* The Danger Room makes its first true appearance in the 2006 film ''[[X-Men: The Last Stand]]'' where the team has a training exercise against a holographic [[Sentinel (comics)|Sentinel]], among other threats in the [[Days of Future Past]] storyline. In the film, the Danger Room slightly resembles the [[Holodeck]] from ''[[Star Trek]]''. 
+* The room's existence is foreshadowed in the 2011 film ''[[X-Men: First Class]]'' when Charles Xavier uses a nuclear bunker designed by his father to help [[Havok (comics)|Alex Summers]] learn how to control his own powers. 
+* In the 2016 film ''[[X-Men: Apocalypse]]'', the Danger Room is featured as a training ground for the new X-Men team.
+
+===Video games===
+* The Danger Room, out of control, was the basis for all but the last level of the first Sega Genesis console's ''[[X-Men (1993 video game)|X-Men]]'' video game.
+* The Danger Room is Cyclops' stage in the arcade and console-imported game ''[[X-Men: Children of the Atom (video game)|X-Men: Children of the Atom]]''. The holographic backdrops change occasionally, and Professor X is in the background. The stage music is also called 'Danger Room' on the game's official soundtrack.
+* In both ''[[X-Men Legends]]'' and ''[[X-Men Legends II: Rise of Apocalypse]]'', the Danger Room is used by the X-Men (and the Brotherhood of Mutants in ''Legends II'') for training and gaining levels, items, new powers, and rare character exclusive equipment.
+* The Danger Room appears as the training stage in the 2011 fighting game ''[[Marvel vs. Capcom 3: Fate of Two Worlds]]''.
+
+===Pinball machines===
+* The Danger Room and Danger are featured as a wizard mode in Stern's X-Men Pinball machines.
+
+==References==
+{{Reflist|2}}
+
+==External links==
+*[http://uncannyxmen.net/characters/danger UncannyXmen.net Spotlight on Danger]
+
+{{X-Men}}
+{{Jack Kirby}}
+{{Joss Whedon}}
+
+[[Category:Characters created by Jack Kirby]]
+[[Category:Characters created by Joss Whedon]]
+[[Category:Comics characters introduced in 2005]]
+[[Category:Fictional gynoids]]
+[[Category:Fictional technology]]
+[[Category:Holography in fiction]]
+[[Category:Marvel Comics supervillains]]
+[[Category:Virtual reality in fiction]]
+[[Category:X-Men]]
+[[Category:Marvel Comics objects]]

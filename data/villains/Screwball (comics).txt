@@ -1,0 +1,68 @@
+{{Notability|date=October 2018}}
+{{In-universe|date=October 2018}}
+{{Infobox comics character
+<!--Wikipedia:WikiProject Comics-->
+| character_name = Screwball
+| image          = <!-- filename format only -->
+| imagesize      = <!-- numbers only; defaults to 250 -->
+| caption        = 
+| alt            = 
+| publisher      = [[Marvel Comics]]
+| debut          = ''Amazing Spider-Man'' #559 (July 2008)
+| creators       = [[Dan Slott]]<br>[[Marcos Martín]]
+| alter_ego      = 
+| full_name      =
+| species        = <!-- optional -->
+| homeworld      = <!-- optional -->
+| alliances      = Deadpool Inc.
+| partners       = <!-- optional -->
+| supports       = <!-- optional -->
+| aliases        = <!-- optional -->
+| powers         = Expert gymnast
+| cat            = 
+| subcat         = 
+| hero           = 
+| villain        = 
+| sortkey        = Screwball (comics)
+| addcharcat#    = 
+}}
+'''Screwball''' is a fictional [[supervillain]] appearing in [[American comic book]]s published by [[Marvel Comics]]. The world's first "live streaming super-villain", she commits crimes to get more hits on her web page and is an enemy of [[Spider-Man]]. Screwball first appears in ''Amazing Spider-Man'' #559 and was created by [[Dan Slott]] and [[Marcos Martín]].
+
+==Fictional character biography==
+Not much is known about Screwball's past. Screwball would commit crimes while a film crew filmed her so that she can get more hits on her videos by having [[Spider-Man]] appear on it. She first encountered Spider-Man while he was tracing the "Spider-Tracer Killer."<ref>''Amazing Spider-Man'' #559. Marvel Comics.</ref>
+
+Screwball later posed as Spider-Man to help Bookie where they filmed Spider-Man fighting a villain called Basher. The fight was uploaded on [[YouTube]] and watched by the patrons of the [[Bar with No Name]]. The [[Enforcers (comics)|Enforcers]] recognized what was happening and began to attack Bookie only for him to be rescued when the real Spider-Man showed up.<ref>''Amazing Spider-Man'' #562. Marvel Comics.</ref>
+
+When Spider-Man and [[Daredevil (Marvel Comics character)|Daredevil]] arrive at the Bar With No Name, Screwball is among the patrons that attack them.<ref>''Amazing Spider-Man'' #600. Marvel Comics.</ref>
+
+Because of Spider-Man's humiliating fight with Screwball, [[Ben Reilly]] didn't want to buy any of Peter Parker's photos.<ref>''Amazing Spider-Man'' #608. Marvel Comics.</ref>
+
+During the "Origin of the Species" storyline, Spider-Man apprehends Screwball and [[Looter (comics)|Looter]] in Midtown in light of [[Doctor Octopus]] stealing [[Menace (Marvel Comics)|Lily Hollister]]'s newborn child Stanley.<ref>''Amazing Spider-Man'' #645. Marvel Comics.</ref>
+
+[[Anya Corazon|Spider-Girl]] later chased Screwball and confiscated her camera to prevent her from broadcasting her latest activity before handing her over to the police.<ref>''Spider-Girl'' Vol. 2 #1. Marvel Comics.</ref>
+
+Screwball later collaborated with [[Jester (Marvel Comics)|Jester]] in pranking Mayor [[J. Jonah Jameson]] which was uploaded on the Internet. Both villains were defeated by [[The Superior Spider-Man|Superior Spider-Man]] (Doctor Octopus' mind in Spider-Man's body).<ref>''Superior Spider-Man'' #6. Marvel Comics.</ref>
+
+Screwball later appeared in [[Las Vegas]] where she collaborated with [[Arcade (Marvel Comics)|Arcade]] who gave her the training, equipment, and exclusive streaming rights that she needed.<ref>''Elektra'' Vol. 4 #1-3. Marvel Comics.</ref>
+
+==Powers and abilities==
+Screwball is an expert gymnast.
+
+==In other media==
+* Screwball appears in ''[[Spider-Man (2017 TV series)|Marvel's Spider-Man]]''. This version of Screwball is a vigilante rather than a villain and the alter-ego of [[Liz Allan]] (voiced by [[Natalie Lander]]). In "Screwball Live!", Screwball sets up reckless pranks on corrupt businesses and live streams them. One of her pranks gets her and [[Randy Robertson]] nearly killed by [[Hammerhead (comics)|Hammerhead]] and [[Absorbing Man]]. However, they are both saved by Spider-Man. Realizing she was using her internet exposure recklessly, Liz takes a "hiatus" from making more videos. 
+
+* Screwball appears in the 2018 ''[[Spider-Man (2018 video game)|Spider-Man]]'' video game, voiced by [[Stephanie Lemelin]].<ref>{{cite web|url=https://www.polygon.com/2018/9/7/17819416/spider-man-ps4-villains-guide|title=A guide to the Spider-Man PS4 villains|website=Polygon.com|accessdate=9 September 2018}}</ref> Screwball is part of a side mission where Spider-Man has to partake in a series of challenges before her fans murder a hostage, all while she live streams Spider-Man's feats. Screwball pretends to be the hostage only for her fans to ambush Spider-Man. After Spider-Man defeats her remaining fans, Screwball is arrested while remarking she can't be held responsible since she didn't commit the crimes, but her fans did. She later reappears in the three-part [[downloadable content|DLC]] story "The City That Never Sleeps", having been released and starting a new show where she sets up several challenges for Spider-Man to complete, lest her fans get angry and begin attacking innocents. After reaching 50 million followers, she throws a giant rooftop party, where Spider-Man eventually catches her and leaves her to the cops once more.
+
+==References==
+{{Reflist}}
+
+==External links==
+* [http://marvel.wikia.com/wiki/Screwball_(Earth-616) Screwball] at Marvel Wiki
+
+{{Spider-Man characters}}
+
+[[Category:Marvel Comics supervillains]]
+[[Category:Spider-Man characters]]
+
+
+{{Marvel-villain-stub}}

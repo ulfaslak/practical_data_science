@@ -1,0 +1,193 @@
+{{About||the comic book|Sentinel (comic book)|the DC Comics character|Alan Scott|The Heritage Action Sentinel Program|The Heritage Foundation| the fictional Sentinel Comics|Sentinels of the Multiverse|}}
+{{Multiple issues|
+{{Refimprove|date=July 2012}}
+{{lead too short|date=January 2016}}
+{{Overly detailed|date=November 2017}}
+}}
+{{Infobox comics organization <!--Wikipedia:WikiProject Comics-->
+|image=Sentinel Marvels Vol 1 2.png
+|imagesize= <!-- default 250 -->
+|caption=Art by Alex Ross
+|name=Sentinels
+|publisher=[[Marvel Comics]]
+|debut=''[[Uncanny X-Men|The X-Men]]'' #14 (November 1965)
+|creators=[[Stan Lee]]<br>[[Jack Kirby]]
+|base=
+|members=Sentinel Squad [[Office of National Emergency|O*N*E]]<br>[[Nimrod (comics)|Nimrod]]<br/>[[Master Mold]]<br>[[Bastion (comics)|Bastion]]<br>[[Prime Sentinel]]s
+|subcat=
+|hero=
+|villain=
+}}
+
+The '''Sentinels''' are a [[fiction]]al variety of mutant-hunting [[robot]]s appearing in [[American comic book]]s published by [[Marvel Comics]]. They are typically depicted as antagonists to the [[X-Men]]. 
+
+The Sentinels played a large role in the 1990s [[X-Men (TV series)|''X-Men'' animated series]] and have been featured in several X-Men [[video game]]s. The Sentinels are featured prominently in the 2014 film ''[[X-Men: Days of Future Past]]'' while [[Danger Room|simulated versions]] made brief appearances in the 2006 film ''[[X-Men: The Last Stand]]'' and the 2016 film ''[[X-Men: Apocalypse]]''. In 2009, The Sentinels was ranked as [[IGN]]'s 38th Greatest Comic Book Villain of All Time.<ref>{{cite web|title=The Top 100 Comic Book Villains|url=http://www.ign.com/top/comic-book-villains/38.html|website=[[IGN]]|accessdate=4 November 2017|language=en}}</ref>
+
+==Publication history==
+[[File:The X-Men (Uncanny X-Men)-vol.1-14 (November 1965).jpg|thumb|upright|Sentinels' debut ''[[Uncanny X-Men|The X-Men]]'' #14 (November 1965). Art by [[Jack Kirby]].]]
+Created by [[Stan Lee]] and [[Jack Kirby]], they first appeared in ''[[Uncanny X-Men|The X-Men]]'' #14 (November 1965).
+
+Sentinels are programmed to locate [[Mutant (Marvel Comics)|mutants]] and capture or kill them. Though several types of Sentinels have been introduced, the typical Sentinel is three stories tall, is capable of [[flight]], projects energy blasts, and can detect mutants.
+
+==Characteristics==
+{{Expand section|date=January 2011}}
+
+Sentinels are designed to hunt [[Mutant (Marvel Comics)|mutants]]. While many are capable of [[tactic (method)|tactical thought]], only a handful are [[self-awareness|self-aware]].
+
+Sentinels are technologically advanced, and have exhibited a wide variety of abilities. They are armed (primarily with [[Directed-energy weapon|energy weapons]] and restraining devices), capable of flight, and can detect mutants at long range. They possess vast physical strength, and their bodies are highly resistant to damage. Some are able to alter their physical forms or re-assemble and reactivate themselves after they have been destroyed.
+
+Some Sentinel variants have the ability to learn from their experiences, developing their defenses during an engagement. Several groups of Sentinels have been created and/or led by a single massive Sentinel called [[Master Mold]]. Some Sentinels are also equipped with an inconspicuous logic loop in case they should go rogue to convince them that they are mutants as demonstrated in the Tri-Sentinel.
+
+==Types of Sentinels==
+{{Trivia|section=y|date=July 2018}}
+[[File:Sentinels.PNG|thumbnail|250px|Sentinels in ''[[Astonishing X-Men]]'' vol. 3, #1 (July 2004). Art by [[John Cassaday]].]]
+There are different types of Sentinels that appear in the comics:
+
+* '''Mark I''' and '''Master Mold''' - Created by [[Bolivar Trask]]. First appeared in ''X-Men'' (vol. 1) #14. Bolivar Trask sacrificed himself to destroy the Master Mold.
+* '''Mark II''' - Created by [[Larry Trask (comics)|Larry Trask]]. This model was capable of adapting to and counteracting superpowers almost instantly. First appeared in ''X-Men'' (vol. 1) #57.
+* '''Composite''' - Created by merging the remaining portions of five Sentinels destroyed by the X-Men and came under control of Ashley Martin. It was destroyed by her when it rebelled against her.
+* '''Mark III''' - Created by [[Steven Lang (comics)|Stephen Lang]] and Project: Armageddon, secretly funded by [[Edward Buckman]] and the [[Hellfire Club (comics)|Council of the Chosen]]. First appeared in ''X-Men'' (vol. 1) #98.
+** '''X-Sentinels''' - Created by Stephen Lang. They are [[Android (robot)|android]]s who were duplicates of the original X-Men.
+* '''Mark IV''' - Created by [[Sebastian Shaw (comics)|Sebastian Shaw]]. First appeared in ''X-Men'' (vol. 1) #151.
+* '''Mark V''' - Created by Sebastian Shaw for U.S. government's Project Wideawake. First appeared in ''New Mutants'' (vol. 1) #2.
+* '''Mark VI''' - Created by Shaw Industries for Project Wideawake and used by [[Onslaught (comics)|Onslaught]]. Also incorporated parts of Project Nimrod.
+* '''Mark VII''' - Created by Shaw Industries. They were experimental and remote controlled.
+* '''[[Nimrod (comics)|Nimrod]]''' (later [[Bastion (comics)|Bastion]]) - A prototype Super Sentinel that arrived from the "[[Days of Future Past]]" timeline and was later reactivated by Reverend [[William Stryker]].
+** '''Project Nimrod''' - Created by an offshoot of Project Wideawake and was in the experimental stage. Cancelled after [[X-Force]] interfered. Based on the Nimrod Sentinel.
+* '''[[Prime Sentinel]]s''' - Created by [[Bastion (comics)|Bastion]] and ''[[Operation: Zero Tolerance]]''. They are disabled humans equipped with [[nanotechnology]] without their knowledge at Prospero Clinic. The Prime Sentinels were used as sleeper agents until activated by attack or presence of a mutant.
+* '''Omega Prime Sentinels''' - The second generation of [[Prime Sentinel]]s. [[Karima Shapandar]] is one of them.
+* '''Wild Sentinels''' - Built in secret by a new Master Mold in Ecuador, activated by Donald Trask III and used by [[Cassandra Nova]]. New units are produced based on the currently available resources – salvaged parts, weapons and sometimes even entire vehicles – which give this particular type of Sentinel a very diverse, rag-tag appearance. Due to both this and their design flexibility, a wide variety of different shapes and forms have been observed. The Mega-Sentinels used to destroy [[Genosha]] and Nanosentinels both belong to this kind of Sentinel. The technology used in Nano-Sentinels is also employed by [[Weapon Plus]] for their artificial evolution experiments and the creation of their Super-Sentinels.
+* '''Mark VIII''' - Sentinel Squad [[Office of National Emergency|O*N*E]], designed by [[Iron Man|Stark Enterprises]]. Unlike other Sentinels, the Mark VIII requires a human pilot.
+* '''Bio-Sentinels''' - Humans infected by a technological virus created by Simon Trask, the victims become anti-mutant activists, who later at Trask's command, are fully transformed into robotic Sentinels mindlessly following Trask's commands.<ref>''Astonishing X-Men'' #31</ref>{{Full citation needed|date=July 2018}}
+* '''Stark Sentinels''' - The Stark Sentinels debuted during the ''[[AXIS (comics)|AXIS]]'' storyline. Under the influence of the [[Red Skull]] (who also had erased from him any memory of their construction), [[Iron Man|Tony Stark]] created a model of Sentinels based on the knowledge of different super heroes he acquired after the ''[[Civil War (comics)|Civil War]]'' storyline. When Red Skull became the Red Onslaught, and the Avengers arrived to Genosha to stop him, he deployed the Stark Sentinels.<ref>''Avengers & X-Men: AXIS'' #1</ref>{{Full citation needed|date=July 2018}}
+
+===Related mutant-hunting creations===
+[[File:Sentinel X-Men Schism Vol 1 1.png|thumbnail|250px|The X-Men battle Sentinels in ''X-Men: Schism'' #1 (July 2011). Art by Carlos Pacheco and Cam Smith.]]
+* '''[[Tri-Sentinel]]''' - A combination of three fairly standard Sentinels bonded together by [[Loki (comics)|Loki]], and defeated by [[Spider-Man]] at the peak of his cosmic ([[Captain Universe]]) powers. Later revived by The Life Foundation, only to be destroyed again by Spider-Man and [[Nova (Richard Rider)|Nova]]. [[Mendel Stromm]] later obtained another one from the bunker of the bankrupt Life Foundation and was later approached by a mysterious benefactor who prepared to give him a Master Mold that specializes in creating Tri-Sentinels.
+* '''Soviet Sentinels''' - Created by the Soviet Union and later purchased by Cuban government officials.''<ref>''Mystique'' #3-6</ref>{{Full citation needed|date=July 2018}}
+* '''Super-Sentinels''' - Using [[Nanotechnology|Nano-Sentinel technology]], [[Weapon Plus]] created artificially evolved superhumans at ''[[Weapon Plus#The World|The World]]''. Three of the creations were chosen to form the mutant-hunting Super-Sentinels: Huntsman, [[Fantomex]] and Ultimaton, who were intended to be presented to the public as superheroes in order to make the extermination of mutantkind look "like a Saturday morning cartoon".
+* '''Colcord's Sentinels''' - Some of the Boxbots created by [[Madison Jeffries]] (aka Box) to serve the [[Weapon X]] Program, run by [[Malcolm Colcord]]. In one variation of the ''[[Days of Future Past]]'' timeline seen in the ''Weapon X: Days of Future Now'' limited series, one of the Boxbots evolves into a new Master Mold and a new breed of Sentinels.
+* '''Hardaway''' - A cyborg created at Camp Hayden, killed by the [[Mutant Liberation Front]], who called himself a Bio-Sentinel.
+* '''X-51 ([[Machine Man]])''' - Captured by Bastion and "infected" with Prime Sentinel nano-bots which reconfigured and reconstructed his systems thereby giving him similar capabilities to Nimrod, such as adapting to almost any situation and programming that at times forced him to attack mutants.
+* '''[[Juston Seyfert]]'s Sentinel''': First appearing in ''[[Sentinel (comic book)|Sentinel]]'' #1, this is a rebuilt Sentinel (likely a Mark V or Mark VI), reprogrammed to obey Juston Seyfert. Initially, Seyfert controlled the Sentinel by riding on its shoulder; he now has built a cockpit into it. Seyfert and his Sentinel are former members of [[Avengers Academy]] and featured in ''[[Avengers Arena]]''.
+* '''Sentinaughts''' - One of the types of sentient robots who live in the free robot city of The Core,<ref>''Secret Avengers'' vol. 1 #26</ref>{{Full citation needed|date=July 2018}} Sentinaughts are apparently based on the Sentinel design. They vary in size from roughly human to the large stature of traditional Sentinels.
+* '''Sentinite''' - Are microscopic sentinels type of tech created by [[Cassandra Nova]] and implanted in the brains of several humans and mutants alike which turns them into mutant-hating machines, with no self control and ready to take down any mutant who so much as looks at them.<ref>''X-Men: Red'' #5</ref>{{Full citation needed|date=July 2018}}
+
+==Other versions==
+The following are alternative versions of the Sentinels, which appear outside of regular [[Marvel Universe|Marvel canon]].
+
+===Age of Apocalypse===
+In the "[[Age of Apocalypse]]" timeline, Bolivar Trask created the Sentinels with his wife [[Moira MacTaggert|Moira]]. These Sentinels are equipped with several body-mounted gun turrets, and their primary directive is to protect humans rather than to hunt mutants.{{Citation needed|date=December 2017}} They are capable of cooperating with mutants in order to further this mission.<ref>''Amazing X-Men'' #2</ref>{{Full citation needed|date=July 2018}} Later, the Sentinels are adapted by Weapon Omega to serve a reverse purpose, and now aid in the hunting of the human race.<ref>''Uncanny X-Force'' #11</ref>{{Full citation needed|date=July 2018}}
+
+===Days of Future Past===
+In the "[[Days of Future Past]]" timeline, which takes place in an alternate future, the "Omega Sentinels" have advanced technologically and become the ''de facto'' rulers of the [[United States]]. The most powerful among them is [[Nimrod (comics)|Nimrod]].{{issue|date=December 2012}}
+
+===Hembeck===
+In the joke comic ''[[Fred Hembeck]] Destroys the Marvel Universe'', the X-Men are killed by silent, black, man-sized "[[Ninja]] Sentinels".{{issue|date=December 2012}}
+
+===Here Comes Tomorrow===
+In the "[[Here Comes Tomorrow]]" future timeline, a Sentinel named '''Rover''' is [[Sentinel (comic book)|Tom Skylark's]] companion and protector. After more than 150 years of being active, Rover has become self-aware and, possibly, capable of emotion.{{issue|date=December 2012}}
+
+===House of M===
+In the ''[[House of M]]'' storyline, [[Magneto (comics)|Magneto]] is victorious in a mutant/human war. The Sentinels are adapted by [[Sebastian Shaw (comics)|Sebastian Shaw]], now the director of [[S.H.I.E.L.D.]], to serve a reverse purpose, and now aid in the hunting of sapien rebels.{{issue|date=December 2012}}
+
+===MC2===
+In the [[Marvel Comics 2|MC2]] timeline, [[Wild Thing (comics)|Wild Thing]] encounters a [[Prime Sentinel]] that has accidentally been activated by a faulty microwave.{{issue|date=December 2012}}
+
+===Ronin===
+In the alternate reality of ''X-Men: Ronin'', the story is played out in Japan. A police unit called "Sentinel Force" designs, builds and pilots the robots. These are aesthetically similar to regular Sentinels, but each is subtly different from the others.{{issue|date=December 2012}}
+
+===Star Trek===
+In the comic crossover ''[[X-Men]]/[[Star Trek]]: Second Contact'', the X-Men work with the crew of the [[USS Enterprise (NCC-1701-E)|''Enterprise''-E]] to battle [[Kang the Conqueror]]. An [[away team (Star Trek term)|away team]] composed of [[Jean-Luc Picard|Captain Picard]], [[Deanna Troi]], [[Nightcrawler (comics)|Nightcrawler]] and [[Colossus (comics)|Colossus]] encounter an approximation of the "[[Days of Future Past]]" timeline, in which the Sentinels have merged with the [[Borg (Star Trek)|Borg]].{{issue|date=December 2012}}
+
+===Ultimate Marvel===
+In ''[[Ultimate X-Men]]'', the Sentinels, created by the [[Ultimate Marvel]] version of Bolivar Trask, were already in action at the beginning of the first story arc, hunting down and killing mutants on the streets, in a program apparently openly and publicly acknowledged by the U.S. government. Later on, there were also the ''New Sentinels'' that were sixty of [[S.H.I.E.L.D.#Ultimate S.H.I.E.L.D.|S.H.I.E.L.D.]]'s top agents in Sentinel [[powered exoskeleton|battle armor]] that was described as having enough hardware to take on a fleet of the old Sentinel models. A new breed of Sentinel robots, created by Trask under orders from the [[Fenris (comics)|Fenris]] twins, was later created.
+
+After the events of the [[Ultimatum Wave]], a new model of Sentinel (Nimrod Sentinels) was deployed to hunt, capture or kill mutants that refused to turn themselves in. [[William Stryker|William Stryker, Jr.]] using Sentinel tech, later displayed an ability to summon a fleet of Sentinels after being attacked by the [[Shroud (comics)|Shroud]].<ref>''Ultimate Comics: X-Men'' #3-4</ref>{{Full citation needed|date=July 2018}}
+
+===What If?===
+* In ''[[What If (comics)|What If]]''... Starring [[Cannonball (comics)|Cannonball]]'s little brother Josh -- and his pet Sentinel", shows Josh (who would, in normal continuity, later become [[Icarus (comics)|Icarus]]) finding and adopting a Sentinel.<ref>''What If?'' (vol. 2) #92</ref>{{Full citation needed|date=July 2018}}
+* In "What if... Starring Secret Wars: 25 Years Later", the children of Marvel heroes are teleported back to Earth where, sometime in the last 25 years, a variation of "Days of Future Past" is shown when the group is attacked by Sentinels.<ref>''What If?'' (vol. 2) #114</ref>{{Full citation needed|date=July 2018}}
+* In "What if... Starring Juggernaut: The Kingdom of Cain", [[Juggernaut (comics)|Juggernaut]] has killed the X-Men and as a result, there is no one to oppose the Sentinels, so the world is ravaged by them until they are destroyed by Juggernaut.<ref>''What If?'' (vol. 2) #94</ref>{{Full citation needed|date=July 2018}}
+
+==In other media==
+{{In popular culture|section|date=November 2017}}
+===Television===
+* A Sentinel appeared in ''[[Spider-Man and His Amazing Friends]]''. In the episode "A Firestar Is Born", Its seen in a flashback, fighting the X-Men back when [[Firestar (comics)|Firestar]] was a member.
+* The Sentinels appeared a number of times on the [[X-Men (TV series)|''X-Men'' animated series]], voiced by [[David Fox (actor)|David Fox]]. They were season one's main antagonists. The Sentinels first hunt down [[Jubilee (comics)|Jubilee]]. The Sentinel program, controlled by [[Bolivar Trask]] and [[Henry Peter Gyrich]], was cancelled but was moved overseas to [[Genosha]]. Trask constructed Master Mold for the Sentinels while on Genosha, but it was apparently destroyed when [[Storm (Marvel Comics)|Storm]] flooded the complex. Sentinels are later seen in [[Bishop (comics)|Bishop]]'s [[Days of Future Past|future timeline]] where they had taken over the world and mutants were on the verge of extinction. In the [[The Final Decision|season one finale]], the Sentinels, acting under Trask's orders, rescued [[Robert Kelly (comics)|Senator Robert Kelly]] from [[Magneto (comics)|Magneto]], but Master Mold was then "giving the orders now" in Trask's and Gyrich's secret base in the United States. As Master Mold plans to kidnap world leaders from around the world and replace their brains with computers so that the world would fall under its control, the [[X-Men]] managed to fight through a seemingly endless wave of Sentinels until [[Professor X|Professor Charles Xavier]] flew the explosive-filled [[Blackbird (comics)|Blackbird]] into Master Mold and escaped at the last minute with Magneto's help. However, the Sentinels had sporadic appearances in season four.
+* The Sentinels appeared in ''[[Spider-Man (1994 TV series)|Spider-Man: The Animated Series]]''. In the episode "The Mutant Agenda", they are seen in a [[Danger Room]] simulation when [[Spider-Man]] accidentally activated the simulation when visiting the X-Mansion. 
+* The Sentinels appear in ''[[X-Men: Evolution]]''. This version is much more powerful and heavily armed than their comic book counterparts.{{Citation needed|date=April 2009}} There was originally only a prototype created by former S.H.I.E.L.D. agent Bolivar Trask, however, released in public by Magneto to force the X-Men to fight the prototype and reveal mutant existence to the media. The prototype alone was a dangerous challenge, even for the combined might of the X-Men and the [[Brotherhood of Mutants|Brotherhood]]. Three upgraded models are later used by [[S.H.I.E.L.D.]] against [[Apocalypse (comics)|Apocalypse]] and prove a difficult fight for the ancient mutant. Professor Xavier's future visions in the series finale hinted at [[Nimrod (comics)|Nimrod]] appearing later in the show's timeline leading a fleet of Sentinels.
+* Sentinels appear in the ''[[Wolverine and the X-Men (TV series)|Wolverine and the X-Men]]'' animated series, voiced by [[Jim Ward (voice actor)|Jim Ward]]. There are several types: [[Spider-Slayer|Sentinel Prowler]], the Mark I Sentinel, a more futuristic Sentinel, and Sentinel Hounds. The Sentinels are controlled by Master Mold.
+* Sentinels appear in ''[[The Super Hero Squad Show]]'', voiced by [[Tom Kenny]]. This version were created in an alternate reality's future to defend a superhero-less city. They are seen in the episode "Days, Nights and Weekends of Future Past! (Six Against Infinity Part 2)". 
+* A Sentinel appeared in a Danger Room simulation in ''[[Marvel Anime|Marvel Anime: X-Men]]''.
+* A Sentinel appears in the ''[[Ultimate Spider-Man (TV series)|Ultimate Spider-Man]]'' animated series. In the episode "Game Over", [[Arcade (Marvel Comics)|Arcade]]'s Madland game includes a real Sentinel (in the [[Days of Future Past]] level) which Spider-Man took control of, using its firepower to cheat through Arcade's levels.
+* A Sentinel appears in the [[Toei Animation|Toei]] [[anime]] series ''[[Marvel Disk Wars: The Avengers (TV Series)|Marvel Disk Wars: The Avengers]]''.
+* ''[[The Gifted (U.S. TV series)|The Gifted]]'' television series, which is connected to the [[X-Men (film series)|''X-Men'' cinematic universe]], features a modern-day version called '''Sentinel Services'''.<ref>{{cite web|last1=Schwartz|first1=Terri|title=Legion: X-Men Producer on How Professor X Fits In and Future TV Plans|url=http://www.ign.com/articles/2017/01/16/legion-x-men-producer-on-how-xavier-fits-in-and-future-tv-plans|website=IGN|accessdate=5 November 2017|date=16 January 2017}}</ref> In the episode "eXtreme measures", Trask Industries (the Sentinels' creator) is revealed to have been responsible for the Hound Program.{{Citation needed|date=November 2017}}
+
+===Films===
+{{main article|X-Men (film series)}}
+* Sentinels appeared in an early draft of ''[[X-Men (film)|X-Men]]'' (2000), wherein Henry Gyrich and Bolivar Trask use the Sentinels, but this treatment didn't make past the concept stage. 
+* Sentinels were planned for inclusion in ''[[X2 (film)|X2: X-Men United]]'' (2003), but they did not appear onscreen (although Project Wideawake is mentioned on a computer readout screen). Sentinel sketches appear as extras on the [[DVD]] release. The Sentinels' height was not specified, but the sketches indicated that although their appearance was not severely altered, they would have had the ability to compact itself into a rolling saucer as a mode of transportation.
+* A Sentinel was seen in ''[[X-Men: The Last Stand]]'' (2006), during a training simulation for the young mutants at Professor Xavier's school. At the end of the session, Colossus throws Wolverine at the robot, resulting in its beheading. The Sentinel's body is shrouded in fog with the only part ever made visible to the viewer is its severed head. 
+* The Sentinels are featured in ''[[X-Men: Days of Future Past]]'' (2014) as secondary threat to the mutants.<ref>{{cite web|author1=CS|title=Mark Millar Talks X-Men: Days of Future Past and Kick-Ass 3|url=http://www.comingsoon.net/news/movienews.php?id=99760|website=ComingSoon.net|accessdate=5 November 2017|date=1 February 2013}}</ref> In 1973, Bolivar Trask pitches the Sentinel concept to the US Congress but they decline Trask who then pitches to foreign powers. [[Mystique (comics)|Mystique]] kills Trask in revenge for the mutant murders that were experimented on during the Sentinels' conception. Inspired by the fear of Trask's death, the US government approves the Sentinel program to hunt and kill mutants, and research on Mystique leads to Sentinels that can adapt to and use mutant powers. The Sentinels eventually expand their targets beyond mutants to baseline humans based on the logic that they have the potential to produce mutant descendants, culminating in a [[Days of Future Past|dystopian future]] where most of humanity and mutantkind have been wiped out. With [[Kitty Pryde]] having developed the ability to project the minds of others into their past selves, the X-Men project Wolverine - the only person capable of surviving the time-travel's psychological strain - back into his past self in 1973 to rally the younger versions of Charles Xavier and [[Beast (comics)|Beast]] to stop Trask's assassination, setting into motion the events of the film. The storyline concludes with Mystique defeating Magneto and then deciding not to kill Trask on Xavier's encouragement, resulting in the government witnessing clear evidence that not all mutants are a threat to normal humans and deciding to abandon the Sentinel program. The original Sentinels from 1973 were similar in appearance to their comic counterparts being three times the size of a human, possessed gatling guns on one of their arms capable of firing 3000 rounds per minute, sensors that allow them to track carriers of the X-Gene and could fly using the vent-like systems on their chest. They were built out of a space-age polymer to be immune to Magneto's powers (but the mutant infuses them with metal bars to control them in the film's climax). In contrast, the future Sentinels were smaller and sleeker, with a body built out of adaptive mechanical scales, and besides having Mystique's adaptive powers they can reshape their hands into stabbing blades. The Sentinels were designed by [[Legacy Effects]] with [[Digital Domain]] building digital models based on their full-scale practical model while the future variant were all computer graphics made by [[Moving Picture Company]].<ref>{{cite web|url=http://www.fxguide.com/featured/future-threat-x-men-days-of-future-past/|title=Future threat – X-Men: Days of Future Past|publisher=Fxguide|first=Ian|last=Failes|date=May 27, 2014|accessdate=October 16, 2014}}</ref><ref>{{cite video|title=Sentinels: For a Secure Future|location=''X-Men: Days of Future Past'' Blu-ray|year=2014|publisher=20th Century Fox Home Entertainment|format=Featurette}}</ref>
+* The 1973 Sentinels appear at the end of ''[[X-Men: Apocalypse]]'' (2016), once again in a training simulation, where the new X-Men team begins their training.
+
+===Video games===
+Sentinels have appeared as major antagonists in almost every [[video game]] to feature the X-Men:
+
+* In the [[X-Men (arcade game)|''X-Men'' arcade game]], where they served as the bulk of enemies.
+* In ''[[Spider-Man/X-Men: Arcade's Revenge]]'', they were featured enemies in Cyclops' levels.
+* In ''[[X-Men: Mutant Apocalypse]]'', Sentinels appear as [[boss (video games)|bosses]] in Genosha, with varying sizes.
+* A robot resembling a Sentinel also appears in both the arcade and SNES versions of ''[[Captain America and the Avengers]]''. In the game, it is not called a 'Sentinel', but instead, is referred to simply as 'Robot'.
+* In ''[[X-Men 2: Clone Wars]]'', in the second level (the first level after the title screen), Sentinels appear in the background, as the level is set in a high-tech factory that produces Sentinels.
+
+[[File:Xm-coa.png|right|200px|thumb|Sentinel (right) fights ''[[Wolverine (character)|Wolverine]]'' in the 1994's arcade game ''[[X-Men: Children of the Atom (arcade game)|X-Men: Children of the Atom]]''.]]
+* A non-standard 10' tall Sentinel is a [[player character|playable character]] in ''[[X-Men: Children of the Atom (arcade game)|X-Men: Children of the Atom]]''.
+* In ''[[Marvel vs. Capcom 2: New Age of Heroes]]'', the same Sentinel from ''X-Men: Children of the Atom'' makes another appearance as a playable character. It was also featured as a secret partner assist in ''[[Marvel vs. Capcom: Clash of Super Heroes]]''.
+* Sentinels appear in Cyclops' intro in ''[[X-Men: Mutant Academy]]''. In it, they hunt for mutants in the streets of New York City. One Sentinel nearly kills a baby by stepping on it, but [[Cyclops (Marvel Comics)|Cyclops]] tears off one of the Sentinel's legs, making it fall.
+* Sentinels are seen in Cyclops/Spider-Man's level in ''[[X-Men: Mutant Academy 2]]''. They are shown in the background, patrolling the skies of New York City, hunting for mutants.
+* In ''[[X-Men: Next Dimension]]'', Bastion is the main boss character, who is also unlockable as a playable character. A male Prime Sentinel and a female Prime Sentinel are both available as playable characters.
+* In ''[[X-Men Legends]]'', they are the game's primary antagonists. There are several versions of the Sentinels in this game:
+** Sentinel Alpha uses rockets, gas, stomp, and a palm beam
+** A Sentinel with rockets, eye beams, stomp, and a bomb (this version has shoulder pads like Sentinel Squad ONE)
+** A Sentinel Controller with eye beams, stomp, an enhanced version of the palm beam, rockets, and a wave that nullifies mutant powers (this version has a blue head and its body is blue and purple)
+** A Sentinel Weapons Platform in the shape of a purple spider with green blasters, which can bash and use a green wave that reverses the controls
+** A Sentinel Advanced (based on the Prime Sentinel) with freeze beam, orange blasters, punch, groundquake (with fist), and a rush.
+* In ''[[X-Men Legends II: Rise of Apocalypse]]'', the Sentinels are shown assisting with the evacuation after Apocalypse devastates New York City. Bastion later turns them on the X-Men and the Brotherhood of Mutants. After Bastion is defeated, the Sentinels resume their evacuation duties.
+* In ''[[X-Men: The Official Game]]'' (which fills the gap between ''[[X2 (film)|X2]]'' and ''[[X-Men: The Last Stand]]''), the Sentinels are part of [[William Stryker]]'s back-up plan if his plan to eliminate all mutants with the Dark Cerebro failed. Stryker would have the mutant-hunting robots track down and kill all mutants they could find. The Sentinels featured in the game appear to be similar to those from the game ''[[X-Men: Children of the Atom (arcade game)|X-Men: Children of the Atom]]''. There are two types of Sentinels: one is a smaller, aerial model; and the other is a giant walking behemoth.
+* In the ''[[X-Men Origins: Wolverine (video game)|X-Men Origins: Wolverine]]'' video game, the Sentinel Mark I is one of the major bosses of the game. While infiltrating the headquarters of Project Wideawake to find his old teammate [[Kestrel (Marvel Comics)|John Wraith]], Wolverine encounters two full-sized Sentinels, destroying a half-finished Sentinel with a Sentinel hand-weapon and defeating the other one in a prolonged confrontation.
+* The Sentinel from ''X-Men: Children of the Atom'' (now given the model number "COTA-94", in reference to the year ''Children of the Atom'' was released) is an unlockable playable character in ''[[Marvel vs. Capcom 3: Fate of Two Worlds]]'' and its updated version ''[[Ultimate Marvel vs Capcom 3]]'', with [[Jim Ward (voice actor)|Jim Ward]] reprising his role. The Sentinel's character ending has the Sentinel uploading Master Mold's program on [[Galactus]]' worldship, with the Sentinel's planning not only the destruction of mutants but mankind as well and shows several new Sentinel models sporting a design similar to Galactus himself.
+* The Sentinels appear in ''[[X-Men Destiny]]''. The player must defeat a Sentinel before they can challenge the final boss and main antagonist Luis Reyes.
+* The Sentinels appear in ''[[Marvel: Avengers Alliance]]''. The Sentinels are made up of the Coeus Sentinels, the Crius Sentinels, the Cronus Sentinels, the Hyperion Sentinels, the Iapetos Sentinels, the Phoebe Sentinels, the Rhea Sentinels, and the Themis Sentinel. A Salvaged Sentinel is an opponent for the players on the tutorial level. The Brotherhood of Mutants have also included their own versions of Sentinels called the M-Series Rho MK III, the M-Series Sigma MK III, and the M-Series MK III. In a Spec-Ops mission revolving around the [[Hellfire Club (comics)|Hellfire Club]], [[Crimson Dynamo]] was hired by the Hellfire Club to build them Sentinels that obey their every command.
+* The Sentinels appear in ''[[Marvel Heroes (video game)|Marvel Heroes]]''.
+* Destroyed parts of Sentinels (including arms, legs, heads and a boot) appear in the ruins of [[Genosha]], in the ''[[Deadpool (video game)|Deadpool]]'' game. Deadpool narrates that the Sentinels attacked Magneto's country and slaughtered the 6 million Mutant residents.
+* The Sentinels appear in ''[[Lego Marvel Super Heroes]]''<ref>{{cite tweet|user=JoeMooreDesign|author=Joe Moore|number=358357245752385536|date=19 July 2013|title=Sentinels in #LEGO #Marvel Super Heroes! @arthur_parsons just said so! ^_^|accessdate=5 November 2017}}</ref> voiced by [[Stephen Stanton]]. The player can fight three different Sentinels across New York City. Beating one of the Sentinel unlocks a Mini-Sentinel to play as.
+* The Sentinels are set to appear in ''[[Lego Marvel Super Heroes 2]]''.
+* Sentinels appear in ''[[Marvel Contest of Champions]]'', both in playable and non-playable versions.
+
+===Toys===
+Several different toys of Sentinels have been made since their introduction. One is the [[X-Men Classics]] 10" Sentinel by Toybiz. A "Build-A-Figure" version of the character was made in wave ten of the ''[[Marvel Legends]]'' line. The most recent Sentinel toy is made by Hasbro as part of the Marvel Universe line. Along with a large, unposeable statue, two [[Minimates]] figures have been made of the Sentinels. The first, a classic version, came with [[Rachel Summers]] in either her Phoenix or Marvel Girl guises. The second, based on ''[[Marvel vs. Capcom 3: Fate of Two Worlds]]'', comes with a red-haired "First Appearance" figure of [[Ryu (Street Fighter)|Ryu]].
+In 2014, The Lego group released a set in the Marvel Super Heroes line titled "X-Men vs. the Sentinel", featuring the sentinel as a buildable figure, also including the Blackbird, Magneto, Wolverine, Storm, and Cyclops.
+
+===Parodies===
+* On the [[Adult Swim]] show ''[[Robot Chicken]]'', the episode "Sausage Fest" showed a [[parody]] of the X-Men being killed by a Sentinel, and [[Professor X]] then recruiting the cast of the ''[[Police Academy (film series)|Police Academy]]'' films to replace them. The Sentinel eventually kicks them far as Professor X quotes "Same time next week?" The Sentinel nods yes.
+* In an episode of ''[[Codename: Kids Next Door]] ''entitled "Operation S.A.F.E.T.Y", an ambassador for children's health decided to build many giant robots to prevent children from playing harmful games. The main robot (which is a parody of Master Mold) decided to capture adults (because they could harm kids) and take over the world.
+* ''[[Mad (magazine)|MAD Magazine]]'''s X-Men parody "ECH!-Men" featured a Sentinel (called "Sentinent") with a huge posterior.
+
+==References==
+{{Reflist}}
+
+{{X-Men}}
+{{Ultimate X-Men}}
+{{New Mutants}}
+{{X-Comics}}
+{{Stan Lee}}
+{{Jack Kirby}}
+{{DEFAULTSORT:Sentinel (Comics)}}
+[[Category:Characters created by Jack Kirby]]
+[[Category:Characters created by Stan Lee]]
+[[Category:Comics characters introduced in 1965]]
+[[Category:Fictional private military members]]
+[[Category:Marvel Comics robots]]
+[[Category:Marvel Comics supervillains]]
+[[Category:Marvel vs. Capcom fighters]]

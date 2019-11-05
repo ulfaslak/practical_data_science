@@ -1,0 +1,41 @@
+{{Infobox comics character| <!--Wikipedia:WikiProject Comics--> 
+image=
+|caption=
+|character_name=Tiboro
+|real_name=Tiboro
+|species=Extradimensional [[Magician (fantasy)|Sorcerer]]
+|publisher=[[Marvel Comics]]
+|debut=''[[Strange Tales]] #129'' (Feb 1965)
+|creators=[[Stan Lee]] and [[Steve Ditko]]
+|status=
+|alliances=Lords of the Netherwords
+|previous_alliances=
+|aliases=
+|relatives=
+|powers=powerful magic sorcerer
+}} 
+
+'''Tiboro''' is a fictional character appearing in [[American comic book]]s published by [[Marvel Comics]].
+
+==Fictional character biography==
+Tiboro is a humanoid being from the so-called [[List of Marvel Comics dimensions|"Sixth Dimension"]] who ruled a tribe of Earth humans in South America ages ago, but was eventually banished.  He now waits for Earth's civilization to fall into decadence and decay so that he can rule the whole planet.  Most of Tiboro's power is contained in his wand, but he can also exercise formidable magical abilities without such artificial aids.
+
+Tiboro has become a minor nemesis of [[Doctor Strange]] in modern times.  The [[Black Knight (Dane Whitman)|Black Knight]] destroyed Tiboro's wand with the [[Ebony Blade]].<ref>''Doctor Strange'' Vol. 1 #178</ref>  Tiboro uses an artifact called the Screaming Idol to communicate with creatures on Earth while he is in his own dimension.
+
+The character [[Coat of Arms (comics)|Coat of Arms]], who appears in ''[[Dark Reign (comics)|Dark Reign]]: [[Young Avengers]]'', is stated by Norman Osborn to have "found Tiboro's coat", which she uses as her superhuman identity.<ref>''Dark Reign: Young Avengers'' #4</ref>
+
+==References==
+{{reflist}}
+
+==External links==
+*{{Marvunapp|http://www.marvunapp.com/Appendix/tiboro.htm|Tiboro}}
+
+{{Doctor Strange}}
+{{Stan Lee}}
+[[Category:Characters created by Stan Lee]]
+[[Category:Characters created by Steve Ditko]]
+[[Category:Marvel Comics aliens]]
+[[Category:Marvel Comics characters who use magic]]
+[[Category:Marvel Comics supervillains]]
+
+{{Marvel-villain-stub}}

@@ -1,0 +1,64 @@
+{{Infobox comics character| <!--Wikipedia:WikiProject Comics-->
+|image=
+|caption=Cover to ''Generation X'' #60
+|character_name=Mondo
+|real_name=
+|species=[[Mutant (Marvel Comics)|Human Mutant]]
+|publisher=[[Marvel Comics]]
+|debut=''Generation X'' #3 '''(Clone of Mondo)'''<br>
+''Generation X'' #60 '''(the real Mondo)'''
+|creators=[[Scott Lobdell]] (writer)<br>[[Chris Bachalo]] (artist)
+|alliances=[[Generation X (comics)|Generation X]] (clone)
+|aliases=
+|partners=[[Black Tom Cassidy]]<br/>[[Juggernaut (comics)|Juggernaut]]
+|powers=Capable of absorbing organic or inorganic material into his cellular structure to take on the properties of whatever he touches until it is "digested" from his system; also capable of transport through organic matter such as dirt.
+}}
+
+'''Mondo''' is the name of two [[fictional]] [[comic book]] characters that have appeared in the [[Marvel Comics]] series ''[[Generation X (comics)|Generation X]]''.  The first Mondo was a [[superhero]] later revealed to be a [[cloning|clone]] of the [[supervillain]] Mondo, who appeared years later.  The first Mondo's first appearance was in ''[[Generation X (comics)|Generation X]]'' #3.
+
+==Fictional character biography==
+
+Not much is known of the [[Samoans|Samoan]] mutant called Mondo.  He was once friends with [[Cordelia Frost]], [[Emma Frost]]'s younger sister.<ref>''Generation X'' #3</ref> In an attempt to make a bid for the position of White Queen of the [[Hellfire Club (comics)|Hellfire Club]], Cordelia had Mondo contained and handed him over to the Inner Circle of the Hellfire Club. Cordelia's scheme backfired; the Hellfire Club kept Mondo but denied Cordelia membership.  Cordelia went to Emma, headmistress of the Massachusetts Academy, for help and, soon after, Mondo was rescued by [[Generation X (comics)|Generation X]] and subsequently accepted an invitation to join the school.<ref>''Generation X Annual'' '95</ref>
+
+However, Generation X later learned that the Mondo they had rescued wasn't the real Mondo but a clone, a plant-based [[simulacrum]] created by [[Black Tom Cassidy]] who had infiltrated the Hellfire Club and rescued Mondo.  After taking Mondo under his wing, Black Tom created a [[cloning|clone]] of the young mutant to infiltrate the Massachusetts Academy so that Black Tom could exact vengeance on his cousin, [[Banshee (comics)|Banshee]], who was the headmaster of the Academy.{{issue|date=February 2013}}
+
+As Banshee and Emma Frost battled Black Tom, the Mondo clone began hunting down the members of Generation X.  However, as the Mondo clone was about to attack [[Jubilee (comics)|Jubilee]], he was shot dead by the anti-mutant militant [[Bastion (comics)|Bastion]], chief operative of [[Operation: Zero Tolerance]].<ref>''Generation X'' #25</ref>
+
+Later, the real Mondo appeared alongside Black Tom and [[Juggernaut (comics)|Juggernaut]].  Completely loyal to Black Tom, the real Mondo battled the members of Generation X.  Generation X attempted to talk to Mondo into not fighting, but Mondo laughed at them, reminding them that he has never met them before.  Generation X and their teachers were able to defeat their opponents, but the trio still managed to escape.<ref>''Generation X'' #60-61</ref>
+
+Mondo was confirmed to be alive and powered as he appeared with the rest of Generation X during Cyclops' Million Mutant March in Washington D.C.<ref>''Uncanny X-Men'' #600</ref>
+
+Mondo has recently appeared in X-Men Blue issue #8 alongside several other mutants in an effort to hunt down the young X-Men Blue team. This team's leader is Emma Frost, as she is part of the mutant sovereign state New Tian during Marvel's Secret Empire story arc.
+
+==Powers and abilities==
+Mondo is capable of taking on the properties of any organic or inorganic material with which he comes into contact.  When using his power, Mondo is able to grow in mass with an assumed proportionate growth in strength to superhuman levels.
+
+Mondo can absorb matter into his body, gaining the mass, appearance, and other properties of the matter in question. This change will remain until Mondo's body "digests" the organic matter, which is then disintegrated.
+
+Mondo is also able to use his power to travel through organic matter, such as dirt, and can appear instantaneously in the immediate vicinity of where he entered the earth.
+
+==Other versions==
+
+===Age of Apocalypse===
+
+<!-- Deleted image removed: [[Image:gennext3.jpg|Mondo in the Age of Apocalypse. Cover to ''Generation Next'' #3.|thumb|right]] -->
+In the [[Age of Apocalypse]] Mondo was one of the members of ''Generation Next'' taught by [[Colossus (comics)|Colossus]] and his wife [[Shadowcat]]. Unlike his Earth 616 counterpart, Mondo was truly heroic and had no reservations whatsoever about helping the innocent. They were given the mission by [[Magneto (comics)|Magneto]] to infiltrate the '''Core''' -- a prison facility watched over by the [[Sugar Man]]—and rescue Colossus' sister [[Magik (comics)|Illyana]], who was crucial to [[Bishop (comics)|Bishop's]] plan to save all of reality. Mondo was given the task of sneaking in through the ground and finding Illyana. He let the little girl stay in his stomach while he was in this dirt form, but he had to be wary not to keep her in too long or else she would be digested. Despite his best efforts, Sugar Man found the pair and was able to kill Mondo with his razor-sharp tongue, even though Mondo was still in his dirt form. He constantly referred to himself in the [[illeism|third person]].{{issue|date=February 2013}}
+
+==In other media==
+
+===Film===
+In the [[Generation X (film)|''Generation X'']] TV movie, Mondo was played by [[Bumper Robinson]]. In the film, he is jokingly said to hate [[Jello]] because he fears he may accidentally absorb its consistency, which may be a reference to Bumper Robinson's first acting role: a Jell-O Pudding Pop commercial.
+
+==References==
+{{reflist}}
+
+==External links==
+*[http://www.uncannyxmen.net/db/characters/showquestion.asp?fldAuto=724 UncannyXmen.net character bio on Mondo]
+
+[[Category:Comics characters introduced in 1994]]
+[[Category:Characters created by Scott Lobdell]]
+[[Category:Characters created by Chris Bachalo]]
+[[Category:Fictional clones]]
+[[Category:Marvel Comics mutants]]
+[[Category:Marvel Comics superheroes]]
+[[Category:Marvel Comics supervillains]]

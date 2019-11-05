@@ -1,0 +1,130 @@
+{{about|the [[X-Men]] characters|the Dungeons & Dragons creature|Xorn (Dungeons & Dragons)}}
+{{merge to|List of Marvel Comics characters: X|discuss=Talk:List of Marvel Comics characters: X#Proposed merge with Xorn|date=August 2018}}
+{{multiple issues|
+{{in-universe|date=August 2018}}
+{{plot|date=August 2018}}
+{{notability|date=June 2018}}
+{{lead too short|date=February 2017}}
+}}
+{{Infobox comics character <!--Wikipedia:WikiProject Comics-->
+|character_name = Xorn
+|image          = [[File:Kuan-Yin Xorn (Earth-616).png]]
+|converted      =
+|caption        = Cover of ''New X-Men'' #127 (Jun. 2002), featuring Xorn. Pencils by [[Frank Quitely]].
+|real_name      = Kuan-Yin Xorn<br/>Shen Xorn
+|species        = [[Mutant (Marvel Comics)|Human Mutant]]
+|publisher      = [[Marvel Comics]]
+|debut          = ''[[New X-Men (2001 series)|New X-Men]] [[Annual publication|Annual]] 2001''
+|creators       = [[Grant Morrison]] (Writer)<br/>[[Frank Quitely]] (Artist)
+|alliances      = '''(Kuan-Yin)'''<br/> [[X-Men]]<br/>[[Brotherhood of Mutants]]<br/>[[X-Mansion|Xavier Institute]]<br/>'''(Shen)'''<br/> [[X-Men]]
+|aliases        = '''(Kuan-Yin)'''<br/> [[Magneto (comics)|Magneto]], The Collective, [[Michael Pointer (comics)|Michael Pointer]]
+|powers         = '''(Kuan-Yin)'''<br/>
+* Sun in his head
+* Healing powers
+* Electricity and magnetism generation and manipulation
+* Teleportation via Time-Space Wormholes
+* Gravity manipulation
+* Telepathy
+* Self-sustenance
+* Can cause his sun to turn into black hole
+'''(Shen)'''<br/>
+* Black Hole in his head
+* Healing powers 
+* Teleportation (Time-Space Wormholes)
+* Gravity manipulation
+* Telepathy
+* Self-sustenance
+* Can cause his black hole to turn into sun
+|cat            = super
+|subcat         = Marvel Comics
+|hero           = y
+|villain        = y
+|sortkey        = Xorn
+}}
+'''Xorn''' is the alias of two [[fictional character|fictional]] characters appearing in [[American comic book]]s published by [[Marvel Comics]].
+
+==Publication history==
+First appearing in ''[[New X-Men (2001 series)|New X-Men Annual 2001]]'', Xorn was created by [[Grant Morrison]] and [[Frank Quitely]]. Originally depicted as a [[China|Chinese]] [[Mutant (Marvel Comics)|mutant]] with a "star for a brain," he is eventually revealed to be the X-Men's nemesis [[Magneto (comics)|Magneto]] in disguise at the climax of Morrison's run. After Magneto is apparently killed in the "[[X-Men: Planet X|Planet X]]" story arc, he appears alive and well a few months later in 2004's ''[[Excalibur (comics)|Excalibur]]'' (Vol. 3) #1, which established that Xorn never was Magneto. Marvel has presented several partial explanations, both in the comics pages and in the press as to the true nature, identity, and motives of Xorn.
+
+==Fictional character biography==
+===''New X-Men''===
+Xorn debuts in ''New X-Men Annual 2001'' imprisoned by the Chinese government, where a corrupt mutant official offers to sell him to [[Sublime (Marvel Comics)|John Sublime]]. Xorn is forced to wear a skull-like mask designed to restrain his energy output as he has a "sun" for a brain in his head. The X-Men and Sublime's [[U-Men (comics)|U-Men]] find Xorn just as he is attempting to commit suicide by removing his mask, which would destroy the Earth. [[Cyclops (Marvel Comics)|Cyclops]] (with the help of [[Emma Frost]]) is able to establish contact with Xorn, convincing him not to kill himself, and offers him a position among the X-Men. Xorn is next seen in ''New X-Men'' #122, where Cyclops tracks him down to a monastery, where he is told by the monks that Xorn has demonstrated healing powers. The pair are captured by the [[Shi'ar]] but arrive at the [[X-Mansion]] in time for Xorn to heal the X-Men of a nano-[[Sentinel (comics)|Sentinel]] infection, restoring [[Professor X|Professor Xavier's]] ability to walk in the process.
+
+Despite the ordeals through which he had passed, Xorn is optimistic, open, and even somewhat naive. Xorn keeps a diary to share his thoughts with Professor Xavier, since Xavier is "blinded by the sun beneath [his] mask" and cannot read his mind.<ref>''New X-Men'' #127, 2002</ref> Here he details his interactions with Chinese immigrants and the residents of Mutant Town in New York City, in particular an incident where he failed to save a young mutant from being killed by frightened policemen. Xorn is soon put in charge of the "Special Class", a group of physical and social misfits attending the [[X-Mansion|Xavier Institute]]. Though he hopes to befriend these students, he becomes disillusioned as they mock and insult him. He remains determined to help his Special Class, even saving their lives from a group of U-Men.
+
+[[File:Magxorn.png|thumb|left|180px|Xorn unmasks himself as [[Magneto (comics)|Magneto]] in ''New X-Men'' #146. Art by [[Phil Jimenez]]]]
+In the storyline "[[X-Men: Planet X|Planet X]]", Xorn removes his mask, revealing himself to be the X-Men's nemesis Magneto, who has been believed dead since the destruction of [[Genosha]]. Magneto explains that the Xorn identity was an elaborate ruse crafted with the help of Chinese supporters, in order to infiltrate the X-Men; even the prison was a fake.<ref>''New X-Men'' #146, 2003</ref> Having returned Xavier to a crippled state (Xavier had not been healed; Magneto merely used the nano-Sentinels to "glue" his spine together), Magneto levels the X-Mansion and conquers [[New York City]], where he enslaves the human population and destroys much of the city. He attempts to recreate the Brotherhood with [[Toad (comics)|Toad]], the rebellious [[Stepford Cuckoos|Stepford Cuckoo]] [[Stepford Cuckoos#Personalities|Esme]], and the members of Xorn's Special Class.
+
+Magneto finds, however, that many of his recruits are unresponsive to his ideas and approach, with some asking for the return of the more humane Xorn, and others doubtful that Magneto has truly returned, much to his chagrin. Indecisive and relying heavily on the drug Kick to augment his power, he struggles to maintain the loyalty and respect of his followers. He announces a plan to invert the planet by reversing its magnetic poles, and employs increasingly [[Fascism|fascistic]] methods (including the construction of a [[Nazism|Nazi]]-esque [[cremation|crematorium]] in which he plans to eradicate the remaining human population of the city). He also appears to be experiencing a form of [[Dissociative identity disorder]], as the "Xorn" persona begins to manifest itself as a voice within Magneto's head, claiming to be the embodiment of Magneto's wisdom, idealism, and nobility. After his defeat at the hands of the X-Men, but before his capture, he fatally wounds [[Jean Grey]]; [[Wolverine (character)|Wolverine]], in a berserk fury over Grey's death, [[decapitation|decapitates]] him.
+
+===The return of Magneto and the second Xorn===
+Grant Morrison intended Xorn to be Magneto from his first appearance. As Morrison stated in an interview after he left ''New X-Men'', "In my opinion, there really should not have been an actual Xorn - he had to be fake, that was the cruel point of him".<ref>{{cite web | author=Ellis, Jonathan | year=2004 | title=Grant Morrison: Master & Commander | publisher=Pop Image.com | url=http://www.popimage.com/content/grant20044.html | accessdate=September 16, 2006 | deadurl=yes | archiveurl=https://web.archive.org/web/20131203064013/http://www.popimage.com/content/grant20044.html | archivedate=December 3, 2013 | df= }}</ref> In fact, soon after the revelation of Xorn's identity in ''New X-Men'' #146, readers pointed out that clues that Xorn was actually Magneto had been hidden throughout Morrison's run.<ref>{{cite web | author=Baker, Jesse | year=2003 | title=Words Of Questionable Wisdom: We Hardly Knew You | publisher=Comics Nexus.com | url=http://comicsnexus.com/2003/10/24/7561/ | accessdate=July 1, 2008 | deadurl=yes | archiveurl=https://archive.is/20120708211359/http://comicsnexus.com/2003/10/24/7561/ | archivedate=July 8, 2012 | df= }} </ref><ref>{{cite web|author=O'Brien, Paul |year=2003 |title=Review of ''New X-Men'' #146 |publisher=The X-Axis.com |url=http://www.thexaxis.com/newxmen/newxmen146.htm |accessdate=September 16, 2006 |deadurl=yes |archiveurl=https://web.archive.org/web/20061214130431/http://www.thexaxis.com/newxmen/newxmen146.htm |archivedate=December 14, 2006 }}</ref> According to then-''X-Men'' writer [[Chuck Austen]], the X-Men editors liked the Xorn character and hoped Morrison would change his mind about the revelation; when he did not, they asked Austen to bring Xorn back as a separate character. Morrison has expressed criticism of this subsequent retcon in interviews.<ref>{{cite web | author= | year=2006 | title=SDCC '06: Wildstorm Panel | publisher=[[Newsarama]] | url=http://classic.newsarama.com/SDCC06/DC/Wildstorm/panel.html | accessdate=September 16, 2006 }} {{Dead link|date=September 2010|bot=H3llBot}}</ref><ref>[http://www.popthought.com/display_column.asp?DAID=861 Pop Thought - Alex Ness<!-- Bot generated title -->] {{webarchive |url=https://web.archive.org/web/20150912014557/http://www.popthought.com/display_column.asp?DAID=861 |date=September 12, 2015 }}</ref> Marvel also wanted to continue using Magneto; Austen stated that "Marvel saw value in Magneto not being a mass-murderer of New Yorkers."<ref>{{cite web |author=Contino, Jennifer M. |year=2004 |title=Chuck Austen X-Men Writer |publisher=Comicon.com |url=http://www.comicon.com/cgi-bin/ultimatebb.cgi?ubb=print_topic;f=36;t=002359 |accessdate=September 17, 2006 |deadurl=yes |archiveurl=https://web.archive.org/web/20070929102746/http://www.comicon.com/cgi-bin/ultimatebb.cgi?ubb=print_topic%3Bf%3D36%3Bt%3D002359 |archivedate=September 29, 2007 |df= }}</ref>
+
+Marvel [[retroactive continuity|retcon]]ned the Xorn/Magneto revelation and brought back Xorn and Magneto after Morrison's departure. In ''[[Uncanny X-Men]]'' #442 and 443, Xavier takes the body of Magneto to Genosha where they hold a funeral for the deceased mutant leader. However, in the last page of ''Excalibur'' #1, Xavier meets Magneto alive and well on Genosha. In subsequent issues of ''Excalibur'', Xavier and Magneto debate the true identity and motives of Xorn, the individual whose bandage-wrapped body they brought to Genosha. In the same month Magneto returned in [[Chris Claremont]]'s new ''Excalibur'' book, Austen's ''X-Men'' #157 introduced a new Xorn named Shen Xorn. Shen Xorn claims to be the twin brother of the original Xorn (now referred to as Kuan-Yin Xorn) who, under the influence of the entity known as [[Sublime (Marvel Comics)|Sublime]], had pretended to be Magneto. This claim is supported when Emma Frost conducts a thorough mind scan of Shen. Not too long after, Shen Xorn disappears after he unleashes the gravitational forces of his "black hole" for a brain from his head (in direct contrast to his twin brother) in the course of helping the X-Men defeat an attack by a [[Brotherhood of Mutants]] led by [[Exodus (comics)|Exodus]]. 
+
+During the events of the ''[[House of M]]'' miniseries, millions of mutants find themselves suddenly depowered after [[Scarlet Witch]] speaks the phrase "No More Mutants". Among them are [[Magneto (comics)|Magneto]] and Shen Xorn.<ref>''New Avengers'' #19. Marvel Comics.</ref>
+
+The true identity of Xorn, and his relationship to the character Magneto, became a subject of confusion to fans. Marvel refrained from giving a complete explanation, eventually hinting that the summer 2005 crossover ''House of M'' would clear up the situation.<ref>{{cite web | author= | year=2005 | title=Chris Claremont on New Excalibur | publisher=[[Newsarama]] | url=http://classic.newsarama.com/marvelnew/Excalibur/NewExcalibur.htm | accessdate=September 16, 2006 }} {{Dead link|date=September 2010|bot=H3llBot}}</ref> The Xorn entry in the ''[[Official Handbook of the Marvel Universe|Official Handbook of the Marvel Universe: X-Men 2005]]'' stated that "Kuan-Yin eventually revealed himself to be a ''duplicate'' of the X-Men's nemesis Magneto, a transformation believed to have been caused by Magneto's daughter, the [[Scarlet Witch]]." This explanation was based on a suggestion in ''House of M'' #7 wherein [[Doctor Strange]] speculates that Wanda has been 'playing with the world' for far longer than even she knows, and may have been responsible for her father's puzzling rebirth. An alternative explanation has since been given in the pages of ''[[The New Avengers (comics)|New Avengers]]'' since, according to Marvel editor [[Tom Brevoort]], "nobody was satisfied with that offhanded non-explanation, and it didn’t make a heck of a lot of sense by itself even as a throwaway".<ref>{{cite web | author= | year=2006 | title=New Joe Fridays: Week 8 | publisher=[[Newsarama]] | url=http://classic.newsarama.com/NewJoeFridays/NewJoeFridays08.html | accessdate=September 16, 2006 }} {{Dead link|date=September 2010|bot=H3llBot}}</ref>
+
+===The Collective===
+Later the collective power signatures of the depowered mutants arrive in Alaska and merges with a postal worker named '''Michael Pointer''', he himself a mutant. Disoriented, he enters [[Canada]] and, wielding the power of fifty mutants, kills every member of [[Alpha Flight]] except [[Sasquatch (comics)|Sasquatch]], and goes on a rampage destroying downtown [[Cleveland]]. [[Spider-Man]] and the [[Vision (Marvel Comics)#The Vision (Young Avengers, 2005-)|Vision]] find that its energy signatures match up with the depowered mutants.<ref>New Avengers #16 (April 2006)</ref>
+
+On [[Genosha]], the Collective repowers [[Magneto (comics)|Magneto]], who recognizes the intelligence controlling it as Xorn just as the [[The New Avengers (comics)|New Avengers]] arrive. Xorn explains that he took the image of Magneto, because he knew mutants would follow him, and that they needed the real Magneto again. Reference is made to Xorn's confusing history as Vision comments that his files on Xorn are incomplete, with Wolverine later commenting, "Xorn's files on Xorn are incomplete", demonstrating how not even Xorn seems to be certain who he is. [[Iron Man]], [[Carol Danvers|Ms. Marvel]], and the [[Sentry (comics)|Sentry]] combine their powers and send the Collective/Xorn into the sun; Pointer is separated from the Collective.<ref>New Avengers #20</ref> However, Pointer still has access to the powers of the Collective, and, as of the end of the ''[[Civil War (comic book)|Civil War]]'' miniseries, is coerced into joining the newly formed [[Omega Flight#Canadian superhero team|Omega Flight]], using a suit designed to harness his powers.
+
+Marvel editor-in-chief [[Joe Quesada]] in a 2006 ''[[Newsarama]]'' interview reiterated the Shen Xorn/Kuan-Yin Xorn explanation, but added that "because Xorn's powers were psychokinetic, and his personality was so strong, it basically remained an almost disembodied sentient thing among the big ball of mutant energy. When that energy got sucked down to Earth by Michael and all absorbed by him, Xorn was the dominant personality in the mix, and that's what drove him towards Genosha and Magneto."<ref>{{cite web|author= |year=2006 |title=New Joe Fridays: Week 3 |publisher=[[Newsarama]] |url=http://www.newsarama.com/NewJoeFridays/NewJoeFridays03.html |accessdate=September 16, 2006 |archiveurl=https://web.archive.org/web/20060720131757/http://www.newsarama.com/NewJoeFridays/NewJoeFridays03.html |archivedate=July 20, 2006 |deadurl=yes |df= }}</ref>
+
+===All-New, All-Different Marvel===
+When the Terrigen Mists were released around the globe, whittling down mutantkind's number and suppressing any new mutant manifestation, a militant band composed of Inhumans and Mutants known as the [[Dark Riders (comics)|Dark Riders]], who long believed in "survival of the fittest", began gunning down all mutant healers, one such mutant is Shen Xorn, who's revealed to have been repowered somehow (it can be assumed that he was repowered by his own twin brother off-panel during the Collective arc) and has now secluded himself somewhere in Tibet. He is able to kill Barrage and make quick work of the rest of the Riders after they chose to battle instead of have tea. <ref>''Uncanny X-Men'' (2016) Volume #4 Issue #3</ref>
+
+During [[Hydra (comics)|HYDRA]]'s overthrow of the United States government as seen in the ''[[Secret Empire (comics)|Secret Empire]]'' storyline, Shen Xorn is chosen to lead New Tian, a sovereign nation created for mutants somewhere in California.<ref>''Captain America: Steve Rogers'' #17</ref> It is later revealed that Emma Frost is the true leader of New Tian and that Xorn is the [[puppet ruler]] that she controls with her telepathy.<ref>''Secret Empire United'' #1</ref>
+
+==Other versions==
+
+===Age of Apocalypse===
+In the 10th anniversary of the Age of Apocalypse which takes place right after the nuclear attack by the Human High Council, Xorn is found by the X-Men in the Breeding Pens following the fall of Apocalypse. In this reality Xorn is female and claimed that her mutant abilities manifested while she and her family were workers in the Seattle Core during the riots that killed the members of Generation Next. Magneto immediately offered her a place with the X-Men.<ref>''Age of Apocalypse'' #1-2</ref>
+
+During her time with the team, Xorn never removed her helmet causing some to believe it contained her energy powers while others in the X-Men whispered that the helmet truly concealed hideous scars from her time in the Core.<ref>''Age of Apocalypse'' #3</ref> However the truth was that Xorn was actually the thought deceased [[Husk (comics)|Husk]] who had been manipulated by [[Mister Sinister]] and assumed the identity of Xorn and used her husking abilities to enable herself to demonstrate many different powers, in order to infiltrate the X-Men and kill Magneto and [[Rogue (comics)|Rogue]]'s son, Charles.<ref>''Age of Apocalypse'' #4</ref>
+
+===Battle of the Atom===
+A new, female version called Lady Xorn later appears as part of a future team of X-Men that travels back to the present during the ''[[Battle of the Atom]]'' event.<ref>''X-Men: Battle of the Atom'' #1</ref> This Xorn is later revealed to be an adult version of the "young" time-displaced Jean Grey, who needed the Xorn mask to control her powers.<ref>''All-New X-Men'' #16</ref> The team of X-Men she was with was actually the Brotherhood of Mutants from the future, the nemesis of the true X-Men, and she died when her powers went out of control in a battle between the X-Men and the future Brotherhood at Cape Citadel.<ref>''X-Men: Battle of the Atom'' #2</ref> Xorn later returns alive, and once again battles the X-Men with the rest of the future Brotherhood.<ref>''All-New X-Men'' #27</ref> However, it is subsequently revealed that this Xorn was just a puppet figure created by Charles Xavier II's mind powers after the real Xorn died during her final confrontation with her younger self. The former Brotherhood are freed from Charles Xavier II's influence and are returned to their timeline.<ref>''All-New X-Men'' #29</ref>
+
+===Ultimate Marvel===
+The [[Ultimate Marvel]] version of Xorn ('''Kuan-Yi''') and his twin brother Zorn ('''Shen-Yi''') first appeared in the miniseries [[Hawkeye (comics)|Ultimate Comics: Hawkeye]] and spread out to be included in other titles like ''[[Ultimate Comics: Ultimates]]''<ref>''Ultimate Comics: Ultimates'' #1-10</ref> and ''[[Ultimate Comics: X-Men]]''.<ref>''Ultimate Comics: X-Men'' #7-8</ref> The Twins become the leaders of "The People", a genetically-altered species of superhumans that were produced by the Southeast Asian Republic/SEAR as super-soldiers, but later rebelled. The People are in possession of a Super-Soldier Serum that [[Hawkeye (comics)|Agent Clint Barton aka Hawkeye]] is tasked by SHIELD with retrieving. This led to Shen forming the [[Eternals (comics)|Eternals]], while Kuan formed the [[Celestials (comics)|Celestials]].<ref>''Ultimate Comics: Hawkeye'' #3</ref> Hawkeye later leads [[Ultimate Nick Fury|Nick Fury]], the [[Falcon (comics)|Falcon]], and [[Black Widow (comics)#Monica Chang|Black Widow]] to the twin capital cities of SEAR in order to meet with Xorn and Zorn. The two brothers agree to help Fury fight off [[Reed Richards]]' invasion.<ref>''Ultimate Comics Ultimates'' #7</ref>
+
+===Ultraverse===
+An unrelated mutant named Xorn appeared in the [[Ultraverse]].<ref>''Ultraverse Premiere'' #1</ref>
+
+===Earth-71202===
+On an alternate Earth, Xorn and his brother Zorn were members of the X-Men. They were killed by [[Terrax]] during the [[Cabal (comics)|Cabal]]'s attack on Earth-71202.<ref>''New Avengers'' (vol. 3) #24</ref>
+
+==In other media==
+
+===Video games===
+* In the "[[X-Men Legends]]" the "Mask of Xorn" is the final item a player can get playing the story mode and gives a character the capacity of performing mutant attacks without spending mutant energy.
+* In the ''[[Marvel: Ultimate Alliance]]'' Heroes and Villains expansion pack, Xorn is the third unlockable costume for Magneto.
+* In ''[[Marvel Heroes (video game)|Marvel Heroes]]'', the "Mask of Xorn" is a Unique item wearable by any hero. It has s chance to be dropped by Magneto when he is defeated.
+
+==References==
+{{Reflist|2}}
+
+==External links==
+* [http://marvel.com/universe/Xorn Xorn] on the Marvel Universe
+* {{gcdb|type=character|search=Xorn|title=Xorn}}
+* {{comicbookdb|type=character|id=5245|title=Kuan-Yin Xorn}}
+* {{comicbookdb|type=character|id=12302|title=Shen Xorn}}
+* [https://web.archive.org/web/20110716101231/http://www.alphaflight.net/alphanex/index.php?title=Collective AlphaFlight.net - Alphanex entry on The Collective]
+
+{{X-Men}}
+{{Ultimate X-Men}}
+{{Ultimate Marvel}}
+{{Grant Morrison}}
+
+[[Category:Comics characters introduced in 2001]]
+[[Category:Characters created by Frank Quitely]]
+[[Category:Characters created by Grant Morrison]]
+[[Category:Fictional Chinese people]]
+[[Category:Fictional mass murderers]]
+[[Category:Fictional twins]]
+[[Category:Male characters in comics]]
+[[Category:Marvel Comics mutants]]
+[[Category:Marvel Comics telepaths]]

@@ -1,0 +1,49 @@
+{{leadtooshort|date=February 2016}}
+
+{{Infobox comics character| <!--Wikipedia:WikiProject Comics--> 
+image=[[Image:MarvelPremiere-39.jpg|250px]]
+|caption=The Torpedo (Brock Jones) debuts on the cover of ''[[Marvel Premiere]]'' #39 (Dec. 1977).<br>Art by [[Al Milgrom]].
+|character_name=Torpedo
+|real_name=Brock Jones
+|species=
+|publisher=[[Marvel Comics]]
+|debut=''[[Daredevil (Marvel Comics series)|Daredevil]]'' #126 (Oct. 1975) 
+|creators=[[Marv Wolfman]] (writer)<br>[[John Romita, Sr.]] (artist)
+|alliances=[[Defenders (comics)|"Defenders for a Day"]]
+|partners=[[Rom (comics)|Rom]]
+|aliases=
+|powers=
+}}
+
+'''Torpedo''' is the name of five [[fictional characters]] appearing in [[American comic book]]s published by [[Marvel Comics]].
+
+==Publication history==
+A separate character called the Torpedo was not related to subsequent versions and debuted in a one-shot story in ''[[Daredevil (Marvel Comics series)|Daredevil]]'' #59 (Dec. 1969).
+
+The second version debuted wearing the Torpedo suit that was to become a feature for successive characters, but also only appeared in one story in ''Daredevil'' #126 (Oct. 1975). The third version, Brock Jones, appeared in ''Daredevil'' #126, #127 (Nov. 1975) and #134 (June 1976) and then starred in a storyline in ''[[Marvel Premiere]]'' #39 - 40 (Dec. 1977 - Feb. 1978). After a guest appearance in ''[[Defenders (comics)|Defenders]]'' #62 - 64 (Aug. - Oct. 1978) plot threads from the ''Marvel Premiere'' story were resolved in ''[[Rom (comics)|Rom]]'' #21 - 22 (Aug. - Sept. 1981). After appearing sporadically in the title, the character was killed in ''Rom'' #50 (Jan. 1984).
+
+The battlesuit reappeared in ''[[New Warriors]]'' #28 (Oct. 1992), now shared between two characters under the alias of [[Turbo (comics)|Turbo]].
+
+==Fictional character biography==
+The first version of the Torpedo is a [[hitman]] sent by a crime boss to [[assassinate]] a witness, but is defeated by the hero [[Daredevil (Marvel Comics character)|Daredevil]].<ref>''Daredevil'' #59 (Dec. 1969)</ref>
+
+The second version is '''Michael Stivak''', a young scientist brought to the [[United States]] by his uncle, [[U.S. Senator]] Eugene Stivak. Asked to design a battlesuit for national defense,  Michael Stivak develops a costume equipped with turbo-jets that can propel the wearer through the air and magnify physical blows.  Learning that his uncle is the leader of the criminal organization the [[Corporation (comics)|Corporation]], Michael Stivak designs an inferior battlesuit for his uncle and secretly develops another suit. Using the alias "Torpedo", Michael Stivak attempts to destroy the plans for the suit and flaunts the suit's power by attacking two policemen. Following Stivak's path of destruction, Daredevil attacks. During their battle the building collapses on them.<ref name="DD126">''Daredevil'' #126 (Oct. 1975)</ref>
+
+'''Brock Jones''' witnesses the battle between Daredevil and Torpedo and frees the dying Michael Stivak. He explains the history of the battlesuit, and entrusts the completion of his mission to Jones. Once in costume, Jones is mistaken for Stivak and becomes a wanted criminal for both Stivak's crimes and killing Stivak.<ref name="DD126"/> Jones acquires the final set of plans, but is attacked by Daredevil before he can escape. When their battle lays waste to a suburban family home, Jones surrenders his mission, gives the plans over to Daredevil, and retires from superheroing.<ref>''Daredevil'' #127 (Nov. 1975)</ref> However, shortly after, a chance sighting of the [[Chameleon (comics)|Chameleon]] tempts Jones into going back on his vow to never wear the suit again.<ref>''Daredevil'' #134 (June 1976)</ref>
+
+Senator Stivak sends another squad of [[Rocketeers (comics)|Rocketeers]] to attack the new Torpedo, but after several skirmishes Jones defeats them (with Stivak dying of a [[heart attack]]).<ref>''Marvel Premiere'' #39 - 40 (Dec. 1977 - Feb. 1978)</ref> Torpedo briefly aids superhero team the [[Defenders (comics)|Defenders]]<ref>''Defenders'' #62 - 64 (Aug. - Oct. 1978)</ref> and reappears in the town of Clairton as an ally of the Spaceknight [[Rom (comics)|Rom]]. It is revealed that the [[Extraterrestrial life|alien]] [[Dire Wraiths]] instigated the creation of the battlesuit with the intent to use it against Rom. The Torpedo allies with Rom and together they battle a squad of Rocketeers.<ref>''Rom'' #21 - 22 (Aug. - Sep. 1981)</ref> The Torpedo acts as the guardian of the town of Clairton in Rom's absence,<ref>''Rom'' #23 (Oct. 1981)</ref> and after thinking the Wraith threat ended, retires. Jones is then murdered by a group of newly arrived Wraiths who use [[Magic (paranormal)|sorcery]].<ref>''Rom'' #50 (Jan. 1984)</ref>
+
+The battlesuit is bequeathed to Jones' first cousin Phillip Jeffries and is found in storage by his son Michael Brent Jeffries. Michael and friend Michiko "Mickey" Musashi shared the suit and adopted the codename [[Turbo (comics)|Turbo]].<ref>''New Warriors'' #28 (Oct. 1992)</ref> Michael was murdered by the Dire Wraith queen Volx, who was posing as Brock Jones' son Danny (Michael's second cousin).<ref>''New Warriors'' #73</ref>
+
+==References==
+{{reflist}}
+
+==External links==
+*{{Marvunapp|http://www.marvunapp.com/Appendix/torpedocw.htm|Torpedo I}}
+*{{Marvunapp|http://www.marvunapp.com/Appendix/torpedos.htm|Torpedo II}}
+
+[[Category:Characters created by Marv Wolfman]]
+[[Category:Comics characters introduced in 1975]]
+[[Category:Fictional scientists]]
+[[Category:Marvel Comics superheroes]]
+[[Category:Marvel Comics supervillains]]

@@ -1,0 +1,130 @@
+{{short description|Marvel Comics superhero}}
+{{Infobox comics set and title
+<!--Wikipedia:WikiProject Comics-->
+<!--Character section-->
+|code_name = Quasar
+|image = Quasars.jpg
+|imagesize =
+|caption = Wendell Vaughn and Phyla-Vell, two versions of Quasar
+|publisher = [[Marvel Comics]]
+|debut = '''Neutron:'''<br>[[X-Men]] #107 (Oct. 1977)<br>'''Neutron (as Quasar):'''<br>''X-Men: Spotlight on Starjammers'' #2 (June 1990)<br>'''[[Quasar (Wendell Vaughn)|Wendell Vaughn]] (as Quasar):'''<br>''Incredible Hulk'' #234 (April 1979)<br>'''[[Phyla-Vell]] (as Quasar):'''<br>''Annihilation'' #6 (March 2007)<br>'''[[Nova (Richard Rider)|Richard Rider]] (as Quasar):'''<br>''Nova'' vol. 4 #23 (May 2009)<br>'''Avril Kincaid:'''<br>''Captain America: Sam Wilson'' #7 (May 2016)
+|creators = '''Neutron:'''<br>[[Chris Claremont]], [[Dave Cockrum]]<br>'''Wendell Vaughn:'''<br>[[Don Glut]], [[Roy Thomas]], [[John Buscema]]<br>'''Avril Kincaid:'''<br>[[Nick Spencer]], [[Angel Unzueta]]
+|characters = Sh'iar imperial guardsman<br>[[Quasar (Wendell Vaughn)|Wendell Elvis Vaughn]]<br>[[Phyla-Vell]]<br>[[Nova (Richard Rider)|Richard Rider]]<br>Avril Kincaid
+
+<!--Series section-->
+|title = Quasar
+|cvr_image = Quasar 1.jpg
+|cvr_caption = ''Quasar'' #1 (Oct, 1989).<br>Featuring the Wendell Vaughn version of the character.<br>Art by Paul Ryan.
+|schedule = Monthly
+|ongoing = Y
+|Superhero = y
+|pub_series = Marvel Comics
+|1stishyr = 1989
+|1stishmo = October
+|endishyr = 1994
+|endishmo = July
+|issues = 60
+|main_char_team = Wendell Vaughn
+|writers =
+|artists =
+|pencillers =
+|inkers =
+|letterers =
+|colorists =
+|editors =
+|creative_team_month =
+|creative_team_year =
+|creators_series =
+|TPB =
+|ISBN =
+|nonUS =
+|cat = super
+|subcat = Marvel Comics
+|altcat =
+|hero = y
+|villain =
+|sortkey = Quasar
+|sort_title = Quasar
+}}
+'''Quasar''' is the name of several [[fiction]]al [[superhero]]es in the [[Marvel Comics]] [[Marvel Universe|universe]]. With the exception of Neutron, all of them have worn the Quantum Bands, advanced ancient alien technology that grants the wearer awesome power.
+
+==Fictional character biography==
+
+===Neutron===
+Neutron is a member of an [[Extraterrestrial life in popular culture|alien]] race known as Stygians and a member of the [[Imperial Guard (comics)|Imperial Guard]], a group of super-powered alien warriors who serve the ruler of the [[Shi'ar]] Empire. He was with the Imperial Guard the first time they fought the X-Men.{{issue|date=November 2011}} He is a traitor who serves Lord Samedar, [[Deathbird]], and the [[Brood (comics)|Brood]] in their conspiracy to overthrow Shi'ar Princess-Majestrix [[Lilandra Neramani|Lilandra]].{{Issue|date=May 2009}} Neutron, Warstar, Hussar and Webwing are banished to Earth for their crimes; the planet was designated an interstellar prison as part of the 2001 "[[Maximum Security (comics)|Maximum Security]]" crossover event.{{Issue|date=May 2009}} During their stay, Neutron and the others battle [[Jean Grey]] and other X-Men.{{Issue|date=May 2009}} Warstar, Hussar and Neutron return to active duty with the Guard;{{Issue|date=June 2009}} and were all seen in the War of Kings miniseries.{{Issue|date=June 2009}} When [[Vulcan (Marvel Comics)|Vulcan]], the murderous brother of X-Men member [[Cyclops (Marvel Comics)|Cyclops]], attempts to gain power in Shi'ar space, the Guard is sent to stop him. Neutron is killed by Vulcan, one of many Guard casualties.<ref>''[[Uncanny X-Men]]'' #480</ref>  A being who resembles Neutron is later shown during the War of Kings serving Vulcan.{{Issue|date=June 2009}}
+
+Although he was called Quasar at one point, this character has never worn the Quantum Bands.
+
+===Wendell Vaughn===
+{{main article|Quasar (Wendell Vaughn)}}
+Vaughn is the longest-running Quasar character, and the first to use the name.
+
+===Phyla-Vell===
+{{main article|Phyla-Vell}}
+Phyla-Vell becomes Quasar for a time after taking the Quantum Bands from Annihilus.
+
+===Richard Rider===
+{{main article|Nova (Richard Rider)}}
+To keep him from dying while deprived of the Nova Force, Rider temporarily takes the Quantum Bands from Vaughn, thus becoming Quasar.
+
+===Avril Kincaid===
+Avril Kincaid is a [[S.H.I.E.L.D.]] agent who debuted during the ''[[Avengers: Standoff!]]'' storyline. While working at Pleasant Hill, a gated community holding super villains brainwashed by Kobik, Avril runs a daycare center as her cover. When [[Baron Zemo|Baron Helmut Zemo]] and [[Fixer (comics)|Fixer]] regain their memories and start a riot, Kincaid is attacked by the [[Blood Brothers (comics)|Blood Brothers]], but is saved by [[Falcon (comics)|Captain America]] and [[Bucky Barnes|Winter Soldier]]. After Captain America shuts down the security system at the Pleasant Hill Museum, Kincaid enters it and encounters the curator, a retired Wendell Vaughn.<ref>''Captain America: Sam Wilson'' #7</ref> As part of a contingency plan for if S.H.I.E.L.D. ever lost control of Kobik, Vaughn gives the Quantum Bands to Kincaid. In the aftermath of the events that transpired at Pleasant Hill, Kincaid becomes the new Quasar with Vaughn acting as her mentor. <ref>''Avengers Standoff: Assault on Pleasant Hill Omega'' #1</ref> She is later revealed to be gay.
+
+She is later seen trying to prevent an attack by the [[Chitauri]], but is apparently killed in action. Her apparent death leads the United States government to give Captain America control of the military and law enforcement, as [[Captain America|Steve Rogers]] also assumes control of Hydra.<ref>''Secret Empire'' #0</ref> It is later revealed that Kincaid is in a comatose state.<ref>''Secret Empire'' #3</ref> When she awakens, she destroys the planetary shield that the Hydra Steve Rogers has been using to keep some of Earth's most powerful heroes off-planet, demonstrating her power level as being far beyond the likes of [[Blue Marvel]], Captain Marvel, and Spectrum.<ref>''Secret Empire'' #8</ref>
+
+==Powers and abilities==
+
+[[File:Annihilation Nova 3 art.jpg|thumb|left|Quantum Bands used in the promotional art for ''[[Annihilation (comics)|Annihilation]]: [[Nova (Richard Rider)|Nova]]'' #3 (Aug. 2006), by [[Gabriele Dell'Otto]]]]
+
+The Quasars' powers are derived from the pair of Quantum Bands fused to the bearer's wrists (or more specifically, from the seven gems on each of the bands). The bands are permanently affixed to the wrists; while he or she can make light bend around them so they appear to be invisible, they are still tangible. They are linked to their wearer's nervous system and grant tremendous powers of energy manipulation, apparently working the same for each bearer. Composed of unknown materials, the bands were originally created by [[Eon (comics)|Eon]] to be worn by his designated Protector of the Universe.{{issue|date=June 2018}} At some point they were left in a weapons depot by the alien [[Kree]], where they were discovered by the [[Uranian (comics)|Uranian]] [[Eternal (comics)|Eternals]] and brought to Earth by the deluded Crusader, who believed himself to be the 1950s Marvel Boy.{{issue|date=June 2018}}
+
+Foremost among the bands' powers is the ability to tap into a limitless energy source called the "Quantum Zone". Quasars can project [[quantum]] energy in the form of devastating beams of force or heat. Vaughn more commonly employs them to fashion incredibly durable constructs of solid energy, such as containment spheres or pincers. He protects himself with a personal force field of quantum energy.{{issue|date=June 2018}}
+
+The Quantum Bands can also exert control over many other types of energy that are part of the [[electromagnetic spectrum]]. For example, Vaughn once caused a star to emit an enormous solar flare.{{issue|date=June 2018}} It is also possible to absorb and redirect the cosmic energy wielded by such powerful beings as the [[Silver Surfer]], [[Jack of Hearts]], [[Adam Warlock]], [[Thanos]], [[Phoenix Force (comics)|Jean Grey]] and the [[Watcher (comics)|Watchers]], siphoning their power and using it to augment the quantum energy.{{issue|date=June 2018}} Forms of energy the Quantum Bands cannot control include magic and the [[Darkforce]].{{issue|date=June 2018}}
+
+Although the bands apparently cannot overtly affect [[psionic]] energy, Vaughn has programmed them to render him impervious to psionic mental control. Even such powerful psychics as [[Moondragon]] and the [[Overmind (comics)|Overmind]] have proven unable to overcome this defense. This does not protect the bearer from magical forms of compulsion.<ref>Thor #437</ref>
+
+It is possible to create apertures into and out of the Quantum Zone, thus allowing passage through its infinite, featureless expanse. Vaughn mainly uses this ability to traverse interstellar distances in a manner similar to [[Hyperspace (science fiction)|hyperspace]] travel, which he refers to as a "Quantum Jump". A Quantum Jump has a destructive side effect on the local environment, violently upheaving gravity and tearing holes in the atmosphere (on Earth, it would damage the [[ozone layer]]). Vaughn initially refrains from using this ability except when in space or in dire circumstances, but eventually discovers that he can prevent this effect by surrounding himself with a barrier of solid energy before jumping.{{issue|date=June 2018}} It is also possible to shunt matter into the Quantum Zone, provided that the Quasar is in physical contact with it.{{issue|date=June 2018}}
+
+The Quantum Bands enable their wearer to fly by manipulating [[gravitons]]. The maximum obtainable flight speed is unknown, but Vaughn once made a trip from Earth to [[Uranus]] in approximately four years flying non-stop (this was before he learned how to quantum jump). That would require a constant speed of roughly {{convert|50000|mi/h|km/h}}. This doesn't take into account the velocity that can be achieved in a short burst of acceleration.
+
+The Quantum Bands' gems possess some capability to analyze and process information as if they were extremely advanced computers. This makes it possible to navigate the Quantum Zone and the depths of space. The gems are able to detect, analyze, and track energy emissions across vast distances. They can also "program" Quasars' quantum energy to register and react to certain preset conditions. For instance, at one time Vaughn had the Earth surrounded with an invisible lattice-work of energy that was designed to act as a global alert system against potential [[Extraterrestrial life in popular culture|extraterrestrial]] threats. The energy field could detect any surges of exotic energy emanating from the planet's surface and any object larger than a [[micrometeorite]] passing through it; in either case, the field would react by transmitting an alert signal to the Quantum Bands.{{issue|date=June 2018}}
+
+Vaughn has had a direct link to [[Eon (comics)|Eon]] and later [[Epoch (Marvel comics)|Epoch]] through the bands, which provides ready access to their omniscience.{{issue|date=June 2018}}
+
+Phyla-Vell discovers that the bands contain a finite amount of energy which will drain away if they are isolated from their power source (as yet unexplained) and that they also remain linked in some way to their former users.<ref>''Annihilation Conquest: Quasar''</ref>
+
+===Neutron===
+Neutron possesses superhuman strength, can lift seventy tons, and is extremely durable. He demonstrates the ability to siphon energy from Quasar's constructs through physical contact, weakening them sufficiently that his strength can easily shatter them.{{issue|date=November 2011}}
+
+==Other versions==
+{{main|Quasar (Wendell Vaughn)#Other versions}}
+
+==In other media==
+===Television===
+* Quasar (Phyla-Vell) appeared on ''[[The Avengers: Earth's Mightiest Heroes]]'' in Season 2 Episode 6 as a member of the [[Guardians of the Galaxy (2008 team)|Guardians of the Galaxy]], voiced by [[Moira Quirk]].
+
+===Video games===
+* Quasar (Wendell Vaughn) appears in the 2016 video game ''[[Lego Marvel's Avengers]]''.<ref>{{Cite web|url=http://www.cosmicbooknews.com/content/quasar-comes-lego-marvel-avengers#axzz41Xox8VHJ|title=Quasar Comes To Lego Marvel Avengers|publisher=Cosmic Book News|first=Matt|last=McGloin|date=January 25, 2016}}</ref>
+* Quasar (Avril Kincaid) is a playable character in the 2015 video game ''[[Marvel: Future Fight]]''.
+* Neutron appears as a mini-boss in the video game ''[[Marvel: Ultimate Alliance]]'', voiced by [[James Sie]]. He fights the heroes alongside [[Hussar (comics)|Hussar]] on board a Shi'ar warship after [[Deathbird]] has overthrown [[Lilandra Neramani]].
+
+==Footnotes==
+{{Reflist}}
+
+==References==
+* [http://www.comics.org Grand Comics Database]
+* [http://www.maelmill-insi.de/UHBMCC/index.htm Unofficial Handbook of Marvel Comics Creators]
+* [https://web.archive.org/web/20080411134915/http://www.comicvine.com/quasar/3319/ Comics Vine]
+
+==External links==
+* [http://www.marvel.com/universe/Quasar_(disambiguation) Quasar (disambiguation)] at the Marvel Universe
+* [[MarvelDatabase:Quasar|Quasar]] at Marvel Wikia
+* {{Marvunapp|http://www.marvunapp.com/Appendix4/neutronimpguard.htm|Neutron}}
+{{Marvel Cosmic}}
+
+{{DEFAULTSORT:Quasar (Comics)}}
+[[Category:Fictional characters with density control abilities]]
+[[Category:Marvel Comics characters who can teleport]]
+[[Category:S.H.I.E.L.D. agents]]
+[[Category:LGBT superheroes]]

@@ -1,0 +1,48 @@
+{{Infobox comics character| <!--Wikipedia:WikiProject Comics-->
+image=
+|caption=
+|character_name=Lupo
+|real_name=
+|species=[[Savage Land Mutates|Savage Land Mutate]]
+|publisher=[[Marvel Comics]]
+|debut=''[[X-Men]]'' #62 (Nov 1969)
+|creators=[[Roy Thomas]] and [[Neal Adams]]
+|status=
+|alliances=[[Savage Land Mutates]]
+|aliases=Timberius
+|powers=Psionically command animals (notably wolves)
+}}
+
+'''Lupo''' is a [[fictional character]], a mutate appearing in [[American comic book]]s published by [[Marvel Comics]]. His first appearance was in ''Uncanny X-Men #62''.
+
+==Fictional character biography==
+Lupo was once a Swamp Man that lived in the [[Savage Land]], a tropical preserve hidden in [[Antarctica]]. He was artificially mutated into a [[werewolf]]-like metahuman by [[Magneto (comics)|Magneto]] and was one of Magneto's first [[Savage Land Mutates]]. Together with the other Savage Land Mutates, he served Magneto in battling the [[X-Men]] and [[Ka-Zar (comics)|Ka-Zar]]. He reverted to his original form after the battle.<ref>''X-Men'' Vol. 1 #62-63</ref> Lupo later returned to his mutant form and fought the [[Avengers (comics)|Avengers]] in the Savage Land.<ref>''Avengers'' #105</ref>
+
+Under Brainchild's orders, Barbarus and the Savage Land Mutates fought [[Spider-Man]], Ka-Zar, and [[Warren Worthington III|Angel]] in the Savage Land.<ref>''Marvel Fanfare'' #1-2</ref> He then served [[Sauron (comics)|Sauron]] and [[Zaladane]] in their attempt to take over the Savage Land.<ref>''Marvel Fanfare'' #3-4</ref>
+
+Lupo was later further mutated by Brainchild and aided Zaladane in another attempt to conquer the Savage Land.<ref>''X-Men'' #249-250</ref> Zaladane and the Savage Land Mutates then battled Magneto, Ka-Zar, [[Rogue (comics)|Rogue]], and their allies in the Savage Land.<ref>''X-Men'' #274-275</ref>
+
+Lupo encounters a makeshift team of Avengers who thought a recent prison escape had origins in the Savage Land.<ref>''New Avengers'' #4-5</ref>
+
+==Powers and abilities==
+Thanks to his artificially induced mutation, Lupo has augmented strength, speed, agility, endurance, and reflexes He has hyper keen senses, razor edged talons, and has the psionic ability to command animal life, especially dogs and wolves, through high-pitched yelps. Lupo also later gained the appearance of a werewolf-like creature.
+
+Lupo is a fair hand-to-hand combatant, having been trained in the combat skills of his former tribe, the Swamp Men.
+
+==In other media==
+Lupo appears in the ''[[X-Men (TV series)|X-Men]]'' TV series. He is a member of the Savage Land Mutates and is shown working for Mister Sinister at the time when he trapped Professor X and Magneto in the Savage Land.
+
+==References==
+{{reflist}}
+
+==External links==
+* {{Marvunapp|http://www.marvunapp.com/Appendix4/luposlm.htm|Lupo}}
+* [http://www.uncannyxmen.net UncannyXMen.com]
+
+[[Category:Comics characters introduced in 1969]]
+[[Category:Fictional werewolves]]
+[[Category:Marvel Comics mutates]]
+[[Category:Marvel Comics supervillains]]
+
+
+{{Marvel-villain-stub}}

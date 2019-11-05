@@ -1,0 +1,134 @@
+{{Infobox comics set and title
+<!--Wikipedia:WikiProject Comics-->
+<!--Character section-->
+|code_name  = Sentry
+|image      = <!-- filename format only -->
+|imagesize  = <!-- default 250 -->
+|noimage    = yes
+|caption    = 
+|publisher  = [[Marvel Comics]]
+|debut      = ''[[Fantastic Four]]'' vol. 1, #64
+|debutmo    = July
+|debutyr    = 1967
+|debutyr1   = 1993
+|debutyr2   = 1999
+|debutyr3   = 2000
+|creators   = 
+|characters = [[Sentry (Kree)|Sentry 459]]<br>[[Sentry (Curtis Elkins)|Curtis Elkins]]<br>[[Sentry (Robert Reynolds)|Robert Reynolds]]<br>"[[Senator Ward]]"<br>[[#Sentry (Val, the Galadorian)|Val]]
+|seealso    =
+
+<!--Series section--> 
+|title               = Sentry
+|cvr_image           = Sentry v1 1.jpg
+|cvr_caption         = ''Sentry'' vol. 1, #1 (Sept, 2000).<br>Featuring the Robert Reynolds version of the character.<br>Art by [[Jae Lee]].
+|schedule            = Monthly
+|limited             = Y
+|Superhero           = y
+|pub_series          = '''(vol 1)'''<br>[[Marvel Knights]] (Marvel Comics imprint)<br>'''(vol 2)'''<br>Marvel Comics
+|1stishhead          = vol 1
+|1stishyr            = 2000
+|1stishmo            = September
+|endishyr            = 2001
+|endishmo            = January
+|1stishhead1         = vol 2
+|1stishyr1           = 2005
+|1stishmo1           = November
+|endishyr1           = 2006
+|endishmo1           = June
+|issues              = '''(vol 1)'''<br>5<br>'''(vol 2)'''<br>8
+|main_char_team      = Robert Reynolds
+|writers             = 
+|artists             = 
+|pencillers          = 
+|inkers              = 
+|letterers           = 
+|colorists           = 
+|editors             = 
+|creative_team_month = 
+|creative_team_year  = 
+|creators_series     = 
+|TPB                 = 
+|ISBN                = 
+|nonUS               = 
+|cat                 = super
+|subcat              = Marvel Comics
+|altcat              = 
+|hero                = y
+|villain             = y
+|sortkey             = Sentry
+|sort_title          = Sentry
+}}
+'''Sentry''' is the codename of several unrelated [[fictional character]]s appearing in comic books published by [[Marvel Comics]].
+
+==Sentry 459==
+
+{{main|Sentry (Kree)}}
+
+The first Marvel Comics character to use the name was [[Sentry (Kree)|Sentry 459]], a large android placed on Earth by the alien race the [[Kree]], later discovered by the [[Fantastic Four]]. Other models of the Sentry robot later appeared in issues of various comics series.
+
+==Sentry (Curtis Elkins)==
+{{main|Sentry (Curtis Elkins)}}
+
+===Fictional character history===
+[[Curtis Elkins]] was a [[Guardsman (comics)|Guardsman]] at the [[Vault (comics)|Vault]], a prison for super powered criminals. While there Curtis befriended Hugh Taylor, a new Guardsman fresh out of the [[United States Army|Army]]. Curtis left the Vault sometime after Hugh was murdered by [[Venom (Marvel Comics character)|Venom]] during an escape.
+
+After that, Curtis and a few of his fellow Guardsmen joined [[The Jury (comics)|The Jury]], an agency organized by [[General Orwell Taylor]]. Their purpose was to track down and destroy Venom. To that end many of them were armed with sonic and fire generating weapons to which the alien symbiote was vulnerable. After the death of Orwell, the firm was reformed by his older son Maxwell to fit the principles of civil rights and the legal court system.  It was in fact a change done in accordance with Curtis' personal ideology of law and order. At a final fight with [[Hybrid (Scott Washington)|Hybrid]], he was seriously injured, not only by physical damage, but also by mental contact with the symbiotes.
+
+Almost all of his later team members were his colleagues from the Vault, either those involved in the riot, or those involved in the Guardsmen at other times. They include [[Screech (comics)|Screech]] (Maxwell Taylor), [[Ramshot]] (Samuel Caulkin), [[Bomblast]] (first name unknown, last name Parmenter), [[Firearm (Marvel Comics)|Firearm]] (unknown) and [[Wysper]] (Jennifer Stewart).
+
+His former enemy Hybrid (real name Scott Washington) was also a Guardsman in the Vault.
+
+====Powers and abilities====
+Although their suits of [[powered armor]] were made by altering Guardsmen suits, they are neither identical nor equal, and let the wearer possess different abilities. Sentry's strength is the greatest of them all. He is nearly as strong as [[Spider-Man]]. His suit's flight capabilities are different from the others, with a [[ramjet]] propulsion mini engine installed into his boots. His whole costume is a green-brown color while his partners' are standard Guardsmen colors. He has a powerful energy gun. There is a lock-pick tool kit inside his right glove.
+
+==Sentry (Stewart Ward)==
+{{main|Senator Ward}}
+'''Stewart Ward''' appears as a Senator in ''[[Peter Parker: Spider-Man]]'' vol. 2 #4 (April 1999), with frequent appearances in this and the concurrent ''[[The Amazing Spider-Man]]'' title throughout ''Amazing Spider-Man'' vol. 2 #24. Mysterious and seemingly up to no good, Ward lurked behind the scenes of the title until he ran afoul of [[Dr. Octopus]] and the [[Sinister Six]]. Ward reappeared a few issues later, and his backstory and connections to Spider-Man ally [[Arthur Stacy]] and the mysterious [[Ranger (comics)|Ranger]] were revealed in a storyline running ''Amazing Spider-Man'' vol. 2. A former [[S.H.I.E.L.D.]] agent operating as ''Sentry'', Ward was as a double agent for [[List of Marvel Comics alien races#Z|Z'Nox]] aliens, who used Ward to aid in an invasion of Earth. Years later, as Z'Nox aliens found themselves on Earth during a brief period when it was designated an [[Maximum Security (comics)|intergalactic prison]], Ward was infected by Z'Nox lifeform, mutating him into a half-human/half-alien being. Ranger subsequently sacrificed himself to destroy Ward.
+
+==Sentry (Robert Reynolds)==
+{{main|Sentry (Robert Reynolds)}}
+
+The Sentry known as [[Sentry (Robert Reynolds)|Robert Reynolds]] first appeared in his own  [[Marvel Knights]] [[Limited series (comics)|limited series]] (September 2000), in which he was fictionally described as a "forgotten" creation of [[Stan Lee]]. The personal history of the Sentry, written by different writers in various publications, is self-contradictory. It is delivered as a fractured first-person narrative by the Sentry himself, an [[unreliable narrator]] suffering from delusions symptomatic of severe mental illness. His first appearance was in a solo miniseries written by co-creators [[Paul Jenkins (writer)|Paul Jenkins]] and [[Jae Lee]].
+
+Robert Reynolds has been [[retcon]]ned into having existed in the [[Marvel Universe]] since its creation. In this [[Silver Age of Comic Books|earlier, more "innocent" age]], the Sentry was a leader and paternal figure to many emerging superheroes, such as the Fantastic Four and Spider-Man, but after an especially harrowing mass murder by his greatest nemesis, the Void, the Sentry's career came to an end. He had only gradually realized that the Void was, in fact, an aspect of his own personality, his own dark side somehow physically separated from him by his seemingly-limitless but confusing super powers. The Void's powers included the ability to penetrate any living being with an unbearable "tendril" of crippling fear and hopelessness, from which most victims never recover. Since the Void represents the death of all living beings, and there was no way to bring it to justice without killing Robert Reynolds, the memory of it was judged too horrible to remain in the public's [[collective unconscious]]. With a combination of [[Reed Richards]]' technology, [[Doctor Strange]]'s magic, and the Sentry's own immeasurable mental abilities, the entire human race was hypnotized to forget the existence of both the Void and the Sentry. The mass hypnosis was also meant to work on Robert himself (effectively convincing "the Void" that it didn't exist), and for a time, it did.
+
+Robert led a quiet, depressed life as a writer, relating only to his wife and his dog. He entered [[psychiatry|psychiatric treatment]] for [[schizophrenia]] and [[agoraphobia]], while struggling with [[alcoholism]], and growing [[overweight]]. Gradually, he started to remember his larger-than life past, in fragments, certain only that his "worst enemy" was returning, under the cover of an approaching storm. Believing he needed help to conquer the Void, Robert set about to reawaken his superheroic comrades, along with the rest of the world, all of whom were horrified to [[repressed memory|recover their memories of the Void]]. Hundreds of Marvel heroes gathered along the East coast in preparation for the arrival of the Void.
+
+Richards and Strange finally rediscovered, and then convinced Reynolds, that not only was the murderous Void a semi-independent aspect of Reynold's personality, but that restarting the mass-hypnosis procedure was the only way to effectively "defeat" the Void while leaving Reynolds alive. Reynolds agreed to again limit himself to his "civilian" life as a mild and troubled man, dependent on his wife and his psychiatrist, his two superpowered identities again forgotten, but not for long.<ref>''The Sentry'' Volume 1, written by Paul Jenkins</ref>
+
+As a symptom of his schizophrenia, Robert suffered a [[delusion]] of killing his wife. He again exposed himself as a superhuman, turning himself into [[S.H.I.E.L.D.]], insisting he be imprisoned for a crime that didn't even happen. When these facts came to light, he was convinced to become a member of the [[The New Avengers (comics)|New Avengers]], not only to help them fight crime, but also so they could monitor the now badly shaken and potentially dangerous hero. Together, all the Avengers, the [[Fantastic Four]], the [[X-Men]], the [[Inhumans]], and an armed division of [[S.H.I.E.L.D.]] agents convinced a fearful, insecure Robert to allow the powerful mutant telepath [[Emma Frost]] inside his mind, where she unlocked memories of the malevolent psychic mutant [[Mastermind (comics)|Mastermind]] manipulating Robert to "create" the Void and thus fear his own superpowers.<ref>''New Avengers'' issues #7–10, written by Brian Michael Bendis</ref> (As an example of the unreliable narration of Sentry stories, a later story by creator Paul Jenkins would have Robert "remembering" that he became the Void immediately after his first dose of the serum that gave him his powers.)
+
+While his participation in the New Avengers was sporadic, it was also invaluable, when he handled threats that literally no other superhero could handle. Shortly after "going public" once again, he was the subject of a second solo limited series, again written by co-creator Jenkins, but drawn by [[John Romita, Jr.]]. In this series, he lives a hectic life of globe-spanning superheroics, finds an amiable and devoted friend in the [[Hulk]] (whose characteristic rage and pain is soothed by the Sentry's everpresent golden [[Aura (paranormal)|aura]]), struggles with an uncertain marriage and insecure wife, has in-home sessions with a government-sponsored psychiatrist, becomes lackadaisical about taking his [[antipsychotic|antipsychotic medications]] ("The pills make my mouth dry", he says, [[Xerostomia|a common complaint]]), and eventually releases the hell-bent Void from his mental imprisonment, struggling to "defeat" this rogue aspect of his own personality by throwing it into the sun, knowing the Void will never be truly gone, as long as he himself lives—and he appears to be immortal.<ref>''The Sentry: Reborn'' trade paperback, collecting ''The Sentry'', Volume 2, Issues #1–8, written by Paul Jenkins</ref>
+
+Robert "Bob" Reynolds is said to have the power of a million exploding suns. And his power is not limited to any one capability, nor to only his conscious mind. His powers are also said to be virtually limitless, as seen in the ''[[Dark Avengers]]'' #1–6 when he is killed by [[Morgan le Fay (Marvel Comics)|Morgan le Fay]] and then somehow rematerializes in front of the Avengers team back at their HQ. Likewise, after the [[Molecule Man]] disperses his molecules entirely (in ''Dark Avengers'' #7–12), the Sentry is able to completely reconstitute himself, and comes to believe he can, with practice, do anything the Molecule Man can. It is also mentioned in the ''Dark Avengers'' issues #1–6 that the Sentry no longer requires most human necessities. He can super-heat his entire body, sterilizing it so he doesn't need to shower, and his digestive system also produces enough nutrients that he doesn't require food or drink (or produce waste). During his time in the ''Dark Avengers'' he is separated into the Void and the Sentry. In ''Siege'' #2 he is shown to be strong enough to kill the War god [[Ares (Marvel Comics)|Ares]] with his bare hands, literally tearing him in half. He has flown into the Sun within minutes and survived its heat. Apparently, he got his powers from an enhanced version of the Super Soldier Serum that created [[Captain America]], a serum meant to be ''one hundred-thousand'' times the power of the original.<ref>''The Sentry: Reborn'' trade paperback, collecting ''The Sentry'', Volume 2, Issues #1–8, written by Paul Jenkins</ref> He appears to change from Robert Reynolds to the Sentry simply at will, instead of changing clothing manually. In some appearances, Robert is depicted as a slight, skinny man, while as the Sentry he is larger and more muscular.<ref>''New Avengers'' Volume 1, Issue 56</ref><ref>''Marvel Zombies Return'' Issue 4)</ref> However, ''Mighty Avengers #1'' depicts Robert, in civilian clothing, having breakfast with his wife at home, just as large and muscular as he would be drawn in costume. Originally, creators Paul Jenkins and Rick Veitch envisioned the Sentry as "over the hill", but some artists have drawn him with a very youthful appearance.
+
+In ''Siege'' #4 he is killed by a lightning strike from [[Thor (Marvel Comics)|Thor]] after the Void is fully released. Thor then wraps his skeletal remains in a cape and disposes of them in the Sun.
+
+==Sentry (Val, the Galadorian)==
+[[Image:Sentry4.jpg|thumb|{{Descript-inner-art|Spaceknights||1|Oct, 2000}}Art by [[Chris Batista]] and Chip Wallace.]]
+'''Val''' first appeared in ''[[Spaceknights]]'' #1 (October, 2000) and was created by [[Jim Starlin]] and [[Chris Batista]].  He is a defender Spaceknight and is a warrant officer of the flagship of the Galadorian army.  He was wounded during an assault by the Trionians, who killed the "Prime Director", the first man of the Galadorian nation and its fleet sent on a mission to stop ethnic cleansing in their Universe.
+
+==Other versions==
+
+===Ultimate Marvel===
+In the [[Ultimate Marvel|Ultimate Universe]], S.H.I.E.L.D.'s private version of the [[Hubble Space Telescope]] is called Sentry.  It is used for detailed imaging within the Solar System and was the first to detect [[Galactus#Ultimate Marvel|Gah Lak Tus]] when it appeared over the Great Red Spot of [[Jupiter]].
+
+During the second ''Sentry'' mini-series, when the Sentry begins to tell his origin, a false comic-book cover appears that reads ''Ultimate Sentry'', which shows the Robert Reynolds version of the Sentry. This false cover also states that it was created by [[Brian Michael Bendis]] and drawn by [[Mark Bagley]], a reference to their ''[[Ultimate Spider-Man]]'' series.
+
+===Marvel Zombies===
+A zombie Sentry appears in the "Crossover" story arc of ''[[Ultimate Fantastic Four]]''. This Sentry is the source of the infection in ''[[Marvel Zombies]]''. He is never called by name, and is only identifiable by his costume. Other aspects of his appearance are more reminiscent of [[Superman]] including short, spitcurled hair rather than the [[Earth-616]] Sentry's long hair. The zombie Sentry is also missing a patch of his uniform roughly in the shape and location of Superman's "S" shield due to [[Ash Williams|Ash]] shooting him in the first issue of the prequel miniseries ''[[Marvel Zombies vs. The Army of Darkness]]''. Originally, the source of the infection was intended to be a zombie version of Superman, hence the similarities. However, due to copyright issues, trademarked names and images such as Superman's logo had to be omitted. Some reprints of ''[[Marvel Zombies]]'' have altered artwork to remove these similarities.
+
+The zombie Sentry is not seen again after infecting the [[Avengers (comics)|Avengers]] shortly after his arrival. His fate is not revealed.
+
+In ''[[Marvel Zombies Return]]'', it is revealed that Sentry from Earth-Z is the original host seen in ''Ultimate Fantastic Four'' #21. After being bitten by a contaminated [[Hulk]], the Earth-Z Sentry is trapped by Giant-Man in order to power up the Multidimensional Device owned by [[Uatu]] (the Watcher) in the [[Blue Area of the Moon]]. After [[Spider-Man]] releases [[Sandman (Marvel Comics)|Sand-Man]] with [[nanobot]]s that destroy all zombies present (except for the Sentry himself), Uatu appears and sends Sentry into the universe that was first infected, thus beginning the infection, trapping the Sentry in a [[time loop]] and thereby containing the infection to an extent.
+
+==See also==
+*[[Earth Sentry]], a Marvel Comics character from the MC2 universe
+
+==References==
+{{reflist}}
+
+==External links==
+*[http://www.samruby.com/Villains/Jury/jury.htm Jury Profile]
+*[http://www.marvel.com/universe/Sentry_(disambiguation) Sentry (disambiguation)] at the Marvel Universe
+*[[MarvelDatabase:Sentry|Sentry]] at the Marvel Database Project

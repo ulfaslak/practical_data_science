@@ -1,0 +1,49 @@
+{{Infobox comics character
+|image= 
+|caption=
+|character_name=Harold Meachum
+|species=[[Human]]
+|publisher=[[Marvel Comics]]
+|debut=''[[Marvel Premiere]]'' #15 (May, 1974)
+|creators=[[Roy Thomas]] (writer)<br>[[Gil Kane]] (artist)
+|alliances=
+|aliases=
+|powers=
+}}
+'''Harold "Harry" Meachum''' is a fictional character appearing in [[American comic book]]s published by [[Marvel Comics]]. The character is depicted as a sinister businessman, primarily a foe of [[Iron Fist (comics)|Iron Fist]]. In his original appearances in comics, he is depicted as the father of [[Joy Meachum]] and the brother of [[Ward Meachum]].
+
+In the ''[[Iron Fist (TV series)|Iron Fist]]'' TV series set in the [[Marvel Cinematic Universe]], Harold was the father of both Joy and Ward and was portrayed by [[David Wenham]].
+
+==Publication history==
+{{expand-section|date=March 2017}}
+Harold Meachum first appeared in ''[[Marvel Premiere]]'' #15 and was created by [[Roy Thomas]] and [[Gil Kane]].
+
+==Fictional character biography==
+Harold Meachum was the business partner of [[Wendell Rand]], father of Daniel (who would later become [[Iron Fist (comics)|Iron Fist]]). When traveling with his business partner and his young family to uncover what would be a major discovery in business, they came across [[K'un-L'un]], a stronghold of a colony of humanoid aliens whose spaceship crashed in a pocket dimension that intersects with Earth.<ref>''Marvel Premiere'' #15</ref>
+
+After having left Wendell Rand, Harold began to trek back to civilization and got lost in the Himalayas. Due to the dangerous weather even upon being found by a woman and some sherpas, Harold had to have his legs amputated. Upon being told about what happened to his legs, Harold had to remain at the hut until a cart can be afforded to carry him to the airport. During this time, Harold had heard a monk talking about the K'un-L'un and about a boy who was taken in by its inhabitants upon his parents ending up dead. Knowing that the boy is Danny, Harold knew that his training would excel and that he would come to take revenge on him when the portal to K'un-L'un opens in the next 10 years. Paranoid at this, he spent the next ten years setting up death traps and hiring assassins to stop Danny Rand. He also hired Triple-Iron to be his chief assassin who kept Harold in a chamber that he will emerge from when Danny Rand is killed. On the tenth year, Harold instated a $10,000 contract to whoever can bring the wearer of the Iron Fist dragon band to him dead or alive.<ref name="Marvel Premiere'' #18>''Marvel Premiere'' #18</ref>
+
+When Iron Fist defeated a gang of four men wanting to take in on the bounty offered by Harold Meachum, he also defeated [[Scythe (comics)|Scythe]] who surrendered Harold's location.<ref>''Marvel Premiere'' #16</ref>
+
+Iron Fist made his way to Meachum Industries where he fought his way past every death trap and had a fight with Triple-Iron.<ref>''Marvel Premiere'' #17</ref>
+
+When Iron Fist confronted Harold Meachum upon defeating Triple-Iron, he took pity on Meachum's current state and spared his life. However, a ninja working for [[Master Khan]] ended up assassinating Meachum anyway after throwing a shuriken at the gun that Meachum was going to use on Iron Fist. His daughter [[Joy Meachum|Joy]] assumed Iron Fist had killed him and his brother [[Ward Meachum]] started planning his revenge on Iron Fist.<ref name="Marvel Premiere'' #18"/>
+
+==In other media==
+[[David Wenham]] portrays Harold Meachum in season 1 of ''[[Iron Fist (TV series)|Iron Fist]]'', set in the [[Marvel Cinematic Universe]].<ref name="Wenham">{{cite web|url=https://marvel.com/news/tv/26018/david_wenham_cast_in_netflix_original_series_marvels_iron_fist|title=David Wenham Cast in Netflix Original Series 'Marvel's Iron Fist'|publisher=[[Marvel Comics|Marvel.com]]|date=April 11, 2016|accessdate=April 11, 2016|archiveurl=https://www.webcitation.org/6ghH2p7A3|archivedate=April 11, 2016|deadurl=no}}</ref> This version is depicted as a business partner of Wendell Rand, and while Joy is still his daughter, Ward is now depicted as his son. Harold helped Danny's parents to run Rand Enterprises, but orchestrated their deaths when Wendell discovered Harold was doing shady business with [[The Hand (comics)|The Hand]]. In 2004, he died of cancer, but was revived to serve the Hand while they use Rand Enterprises for their own goals.<ref name="EightDiagramDragonPalm">{{cite episode|title=Eight Diagram Dragon Palm|series=Marvel's Iron Fist|credits=Sapochnik, Miguel (director); Scott Reynolds (writer)|network=[[Netflix]]|airdate=March 17, 2017|season=1|number=4}}</ref> Harold is under strict control of the Hand,<ref>{{cite episode|title=Shadow Hawk Takes Flight|series=Marvel's Iron Fist|credits=Dahl, John (director); Scott Buck (writer)|network=[[Netflix]]|airdate=March 17, 2017|season=1|number=2}}</ref> and Joy does not know that he is alive.<ref name="EightDiagramDragonPalm"/> He subsequently dies again at the hands of Ward, and undergoes another resurrection.<ref>{{cite episode|title=Felling Tree with Roots|series=Marvel's Iron Fist|credits=Blackburn, Farren (director); Ian Stokes (writer)|network=[[Netflix]]|airdate=March 17, 2017|season=1|number=7}}</ref> Joy learns he is alive, but the repeated resurrections makes him emotionally unstable and dangerous.<ref>{{cite episode|title=The Mistress of All Agonies|series=Marvel's Iron Fist|credits=Wilkinson, Jet (director); Pat Charles (writer)|network=[[Netflix]]|airdate=March 17, 2017|season=1|number=9}}</ref> After Danny drives the Hand out of Rand Enterprises, he learns that Harold was behind the death of his parents, which during a showdown leads Harold to be impaled on a piece of rebar and shot twice, before falling from the roof of the company's corporate tower to his death. Danny and Ward have his body cremated.<ref>{{cite episode|title=Dragon Plays with Fire|series=Marvel's Iron Fist|credits=Surjik, Stephen (director); Scott Buck, Tamara Becher-Wilkinson and Pat Charles (writer)|network=[[Netflix]]|airdate=March 17, 2017|season=1|number=13}}</ref>
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://marvel.wikia.com/wiki/Harold_Meachum_(Earth-616) Harold Meachum] at Marvel Wiki
+* {{Marvunapp|http://www.marvunapp.com/Appendix3/meachumharoldif.htm|Harold Meachum}}
+
+{{Iron Fist}}
+
+[[Category:Characters created by Gil Kane]]
+[[Category:Characters created by Roy Thomas]]
+[[Category:Comics characters introduced in 1974]]
+[[Category:Fictional businesspeople]]
+[[Category:Marvel Comics characters]]
+[[Category:Marvel Comics supervillains]]

@@ -1,0 +1,127 @@
+{{Infobox comics character  <!--Wikipedia:WikiProject Comics-->
+| character_name = Daimon Hellstrom
+| image          = Daimon Hellstrom.jpg
+| converted      = y
+| caption        = ''Marvel Spotlight'' #13 (Jan. 1974). Cover art by [[John Romita Sr.]]
+| real_name      = Daimon Hellstrom
+| publisher      = [[Marvel Comics]]
+| debut          = ''[[Ghost Rider]]'' #1 (Sept. 1973)
+| creators       = [[Roy Thomas]] (writer)<br>[[Gary Friedrich]] (artist)
+| species        = [[Human]]/[[List of Marvel Comics demons|Demon]] hybrid
+| alliances      = [[Defenders (comics)|Defenders]]<br />[[God Squad (comics)|God Squad]]<br />[[Hellfire Club (comics)|Hellfire Club]]<br />[[Masters of Evil]]<br />[[Midnight Sons]]<br />Shadow Hunters<br />[[Nick Fury's Howling Commandos|S.H.I.E.L.D. Paranormal Containment Unit]]
+| aliases        = Son of Satan, Hellstorm
+| powers         = Dark magic user<br />Fire projection<br />Ability to heal others<br />Peak human physical capabilities
+| cat            = super
+| subcat         = Marvel Comics
+| hero           = y
+| villain        = y
+| sortkey        = Hellstorm, Daimon
+}}
+'''Daimon Hellstrom''', also known as the '''Son of Satan''' and '''Hellstorm''', is a [[fictional character]] appearing in [[American comic book]]s published by [[Marvel Comics]].
+
+==Publication history==
+Encouraged by the success of the titles ''[[Ghost Rider (Johnny Blaze)|Ghost Rider]]'' and ''[[The Tomb of Dracula]]'', both of which starred occult characters, [[Stan Lee]] proposed a series starring [[Satan]], to be titled ''The Mark of Satan''. Editor [[Roy Thomas]] had reservations about this idea and suggested a series focusing on the son of Satan instead.<ref name="Back21">{{cite journal|last= Aushenker|first= Michael|authorlink= Michael Aushenker|date= April 2007|title= The Son of Satan: A Trident True Devil Hero|journal= [[Back Issue!]]|issue= 21| pages= 6–13|publisher= [[TwoMorrows Publishing]]}}</ref> (Due to an oversight, "The Mark of Satan" is mentioned in a blurb in ''Ghost Rider'' #1.<ref name="Back21"/><ref>{{cite news| title= Marvel News | authorlink= Jim Steranko | first=Jim, ed. | last=Steranko| work=Comixscene|date=April 1973| page=15| quote=Marvel's runaway hit 'The Ghost Rider' gets his own book soon, leaving the ''Marvel Spotlight'' slot open.... The monster-hero trend continues with a replacement series entitled 'The Mark of Satan', featuring the Devil himself as the lead character.}}</ref>)
+
+According to Thomas, Lee approved of the idea, and [[Gary Friedrich]] and [[Herb Trimpe]] were assigned the task of designing the character. However, Trimpe denies this, claiming Friedrich alone designed Daimon Hellstrom and only brought him in as artist after the character was fully realized. Thomas has said he later realized that a 1960s fanzine character created by his friend Biljo White had looked very similar.<ref name="Back21"/> Thomas recalled in 2001,
+{{quote|... I realized that name and basic concept had been a fanzine comic by a friend of mine, Biljo White, back in the early '60s! He wound up looking even looking a lot like Biljo's character, by sheer coincidence, because I don't think Herb Trimpe and Gary Friedrich, who did the actual story, ever saw him and I don't think I described it much. The branded chest, a trident, and so forth... I think it just came out looking almost identical. I explained it to Biljo, and he understood, but it was really weird, because if you look at his old fanzine, it's almost the same character!<ref>{{cite news|url=http://www.twomorrows.com/comicbookartist/articles/13thomas.html |title=Son of Stan: Roy's Years of Horror |publisher=(Roy Thomas interview) ''Comic Book Artist'' |issue=13 |date=May 2001 |archiveurl=https://www.webcitation.org/5vHVThU3A?url=http://www.twomorrows.com/comicbookartist/articles/13thomas.html |archivedate=December 27, 2010 |deadurl=yes |df= }}</ref>}}
+
+The character Daimon Hellstrom first appeared in ''[[Ghost Rider]]'' #1 (Sept. 1973), then was spun off into a feature, "Son of Satan", in ''[[Marvel Spotlight]]'' #12–24 (Oct. 1973 – Oct. 1975).<ref name=gcd-marvelspotlight>{{gcdb series|id=1992|title=''Marvel Spotlight''}}</ref> During the "Son of Satan" run, ''Marvel Spotlight'' was a controversial series, with numerous readers writing to object to the depictions of [[Theistic Satanism|Satanism]] and [[Wicca]]nism as being either inaccurate or furthering the cause of evil. Nonetheless, sales were strong, prompting Marvel to launch the character into his own series, ''Son of Satan'', written by [[John Warner (comics)|John Warner]].<ref name="Back21"/> The character's success faded soon after the series launch, and ''Son of Satan'' was cancelled with issue #7, though an unused fill-in was published as ''Son of Satan'' #8 (Feb. 1977).<ref name="Back21"/><ref name=gcd-sonofsatan>{{gcdb series|id=2268|title=''Son of Satan''}}</ref>
+
+Hellstrom became a recurring character in ''[[The Defenders (comic book)|The Defenders]]'', [[Steve Gerber]] having added the character to the team during the time he was writing the "Son of Satan" feature in ''Marvel Spotlight'', and Hellstrom continued to appear in ''Defenders'' following the cancellation of ''Marvel Spotlight''. One of the later writers on ''Defenders'', [[J. M. DeMatteis]], featured a number of subplots focused on Daimon Hellstrom, commenting that he "was absolutely my favorite character. Characters like Son of Satan are a wonderful metaphor for what we all contain, good and evil, high and low aspirations. He's literally the son of the Devil, trying not to be what his father is. For a writer like me, how can you not feast on that?"<ref name="Back21"/> Hellstrom's story reaches a resolution of sorts in ''The Defenders'' #120-121 (June–July 1983), as Hellstrom is freed from his satanic heritage and marries teammate [[Patsy Walker|Hellcat]].<ref>{{cite journal |last=DeAngelo|first=Daniel |date=July 2013|title=The Not-Ready-For-Super-Team Players: A History of the Defenders|journal=[[Back Issue!]]|issue=65|page=14 |publisher=[[TwoMorrows Publishing]]}}</ref>
+
+In 1993, he once more received his own series with ''Hellstorm: Prince of Lies''. As suggested by the title, his surname was spelled "Hellstorm" during this series. Rafael Nieves wrote the first 4 issues; Len Kaminski took over as scripter until issue #11.  [[Warren Ellis]] then took over as writer until the series's cancellation with #21.<ref>{{gcdb series|id=9831|title=''Hellstorm: Prince of Lies''}}</ref><ref>{{gcdb series|id=20225|title=''Hellstorm: Son of Satan''}}</ref>
+
+==Fictional character biography==
+Daimon Hellstrom was born in the fictional town of Greentown, [[Massachusetts]].  He is the son of [[Satan]] and a mortal woman named Victoria Wingate (his father was later [[retcon]]ned into a [[List of Marvel Comics demons|demon]] named [[Marduk Kurios]]<ref>''Hellstorm: Prince of Lies'' #12</ref> who was actually the biblical Lucifer, according to the [[N'Garai]]{{Issue|date=February 2011}}).  Daimon and his sister, [[Satana (Marvel Comics)|Satana]], were trained by their father in the art of [[magic (paranormal)|magic]], tapping into the power granted them by their dark heritage.  However, while Satana embraced her heritage, Daimon clung to his humanity.  When their mother discovered who her husband really was, she was driven mad. Daimon and Satana were separated and put in different homes after his mother was institutionalized and his father banished back to Hell.  Daimon grew up in a [[Jesuit]]-run orphanage, never hearing a word from his father or sister.  He became a professor of [[anthropology]] at [[St. Louis University]].  He then set himself up as an occult investigator and defender of humanity, battling dark arcane forces—primarily those of his father—under the name of the "Son of Satan", as a demonologist and exorcist.
+
+In his first appearance, Daimon battled Satan and Witch-Woman, alongside [[Ghost Rider (Johnny Blaze)|Ghost Rider]].<ref>''Ghost Rider'' (vol.1) #1-3, ''Marvel Spotlight'' (vol. 1) #12</ref>  Soon after that, he began a long association with the [[Defenders (comics)|Defenders]] by helping them battle Asmodeus (leader of the [[Sons of Satannish]]) and [[Satannish]] himself.<ref>''Giant-Size Defenders'' #2</ref>  He also helped the Defenders battle the third incarnation of the [[Sons of the Serpent]].<ref>''Defenders'' #24-25</ref>  Later, alongside the [[Human Torch]], he battled the Dryminextes.<ref>''Marvel Team-Up'' #32</ref>  He then encountered Satana for the first time as an adult.<ref>''Marvel Spotlight'' (vol. 1) #24</ref>  Alongside the [[Thing (comics)|Thing]], he battled Kthara.<ref>''Marvel Two-in-One'' #14</ref>  Alongside Ghost Rider again, he battled Challenger.<ref>''Ghost Rider'' (vol. 2) #17-19</ref>  Hellstrom next battled the Possessor.<ref>''Son of Satan'' #1-3</ref>  After [[Steve Gerber]] ceased writing the book, Hellstrom began working at the [[University of the District of Columbia]] [[Parapsychology]] Department, where he had a friendship with a female professor who was a [[Wicca]]n.<ref>''Son of Satan'' #4</ref>
+
+Following these events, he was rarely seen for a while. One of his few recorded adventures during this time was again with the Defenders, battling the [[Hulk]].<ref>''Defenders'' #62-63</ref>
+
+He returned to a more active role when he became involved with the Defenders yet again, this time becoming an active member of the group. He worked with the team to battle the [[Demons in the Marvel Universe#Six-Fingered Hand|Six-Fingered Hand]], and was taken to Hell by Satan.<ref>''Defenders'' #94-100</ref>  He was subsequently expelled from Hell by Satan and rejoined the Defenders.<ref>''Defenders'' #105</ref>  Alongside [[Luke Cage]], he battled the Sons of Satannish again.<ref>''Marvel Team-Up'' #126</ref>  Hellstrom then battled an unnamed demon who had taken his place as "Daimon Hellstrom".<ref>''Defenders'' #118</ref>  Alongside the Defenders, he battled the [[Miracle Man]], who stole Daimon's "Darksoul", the essence of his evil heritage.<ref>''Defenders'' #120-122</ref>  Alongside the Defenders, Hellstrom battled [[Mad Dog (Marvel Comics)|Mad Dog]] and [[Resistants|Mutant Force]].  He then married his teammate [[Patsy Walker]], alias Hellcat.<ref>''Defenders'' #125</ref>  Alongside the Defenders, Cutlass, Typhoon, and [[Hannibal King]], Hellstrom then battled Minerva Bannister.<ref>''Defenders'' #147</ref>
+
+Alongside Hellcat and the [[West Coast Avengers]], he later battled [[Master Pandemonium]], [[Allatou]], and the [[Cat People (comics)|Cat People]].<ref>''West Coast Avengers'' (vol. 2) #14-15</ref>  He later exorcised [[Phantom Rider#Jamie Jacobs and Lincoln Slade|Lincoln Slade]]'s spirit from [[Hamilton Slade (Rangers)|Hamilton Slade]]'s body.  Alongside the West Coast Avengers again, he battled [[Seth (Marvel Comics)|Seth]]'s forces.<ref>''West Coast Avengers'' (vol. 2) #41</ref>
+
+Daimon and Patsy retired from adventuring and Daimon went on a personal quest for meaning.  He traveled to a monastery where the [[Miracle Man]] had taken refuge.  When the Miracle Man stole Daimon's "Darksoul", Daimon discovered that he was human, but he was also dying.  Patsy eventually used a dark book in Daimon's possession to summon "Satan" and pleaded for him to save Daimon's life.  However, to do this, Daimon had to regain his Darksoul and once again become the "Son of Satan".  Daimon was re-imbued with his essence, but upon witnessing Daimon's "true face" of evil, Patsy went insane.  Daimon kept her away from prying eyes in his estate at Fire Lake, where she spent most days asleep or babbling seemingly randomly.  She would remain there until one day she regained enough sanity to weep for having brought back such evil into the world, and committed [[suicide]] with the aid of a being known as [[Deathurge]].{{Issue|date=July 2009}}
+
+Daimon battled the Black School.<ref>''Hellstorm'' #18</ref>  Now calling himself "Hellstorm", he ultimately discovered a way to finally defeat his father.  Daimon discovered his father's true name - [[Marduk Kurios]] - and used the power of this knowledge to finally kill him.  Daimon became the new "Satan", ruling over his father's [[Hell]].  He used this power to allow [[Hawkeye (comics)|Hawkeye]] and his [[Thunderbolts (comics)|Thunderbolts]] to return Patsy from the dead.<ref>''Thunderbolts Annual 2000'' (March '00)</ref>
+
+In the ''Hellcat'' mini-series, Daimon told his wife that he was never truly the son of Marduk Kurios; his true father was [[Satannish]], who was himself the son of the Dread [[Dormammu]].  Daimon claimed he had been fathered as part of a plot to take control of the various "Hell" dimensions.  These claims, however, heavily contradicted Hellstorm's established history.  It has since been established that Hellstorm was deliberately lying to Patsy when he made these claims; his love for Patsy led him to push her away in hopes that she would be happier without him.
+
+Hellstorm used this claim to assume control over Satannish's realm, and inherit Dormammu's right to rule as designated by the powerful "Flames of Faltine".  However, without either Satannish or Dormammu backing Daimon, Mephisto was able to gain control of the vast majority of "Hell".
+
+Daimon was recruited by [[Kyle Richmond]] for the [[Defenders (comics)|Defenders]] as part of the [[Fifty States Initiative]].<ref>''Last Defenders'' #6</ref> Working outside of the Initiative, this team was later forcibly disbanded by H.A.M.M.E.R.<ref>revealed in ''[[Marvel Zombies 4]]'' #1</ref>
+
+Daimon was then brought to A.R.M.O.R. to join the [[Midnight Sons]] in facing an [[Marvel Zombies 4|inter dimensional zombie threat]]. The Midnight Sons head to Taino to contain the zombie virus but end up in a battle with Hood's forces. During the course of the outbreak on the island, the demonic Dormammu possesses fellow member [[Jennifer Kale]], though Daimon exorcises him from her.  The mission ends up a success, though the [[Deadpool#Marvel Zombies|zombie Deadpool's]] head escapes.<ref>''Marvel Zombies 4'' #1-4</ref>
+
+He is sought out by [[Doctor Strange]] as a potential claimant of the title of Sorcerer Supreme. However, he is attacked by the [[Hood (comics)|Hood]] first, who is attacking potential magic users who could also claim the title and, helped by him and [[Brother Voodoo]] (now going by Doctor Voodoo, as the new Sorcerer Supreme), they manage to banish Dormammu, leaving the Hood powerless for a while.<ref>''New Avengers'' #52</ref> Some time around the Dark Reign, Hellstrom, after being informed by a Satanist priest of the Antichrist, vows to slay the boy and, joining once more with former girlfriend [[Jaine Cutter]], rescues the Ghost Rider from the renegade angel [[Zadkiel (comics)|Zadkiel]]'s forces, and eventually the Riders united are able to reclaim Heaven, overthrow Zadkiel, and triumph over the forces Satan unleashed against them.<ref>''Ghost Rider: Heaven's on Fire''</ref><!--which issues?-->{{issue|date=August 2012}}
+
+During the ''[[Chaos War]]'' storyline, Hellstrom rises from the pits of Hell itself to inform the newly assembled "God Squad" that his father's fiery realm had fallen to the hordes of the Chaos King, and that all the dead souls of the Underworld were now under his thrall.<ref>''Chaos War'' #2</ref> Hellstrom joins forces with the God Squad and pits his demonic powers against those of the enslaved Zeus, Hera, and Ares, to little avail, and later journeys with them in a last desperate attempt to seal Mikaboshi in Yomi.<ref>''Chaos War'' #3</ref>
+
+In the pages of ''[[Avengers Undercover]]'', Daimon Hellstrom appears as a member of the [[Shadow Council]]'s incarnation of the [[Masters of Evil]]. He is seen in the inner circle of [[Baron Zemo|Baron Helmut Zemo]] (who became the second leader of the Masters of Evil following the death of Max Fury).<ref>''Avengers Undercover'' #1</ref> [[Cullen Bloodstone]] tells the teenage heroes that followed him that Daimon Hellstrom has been helping him to control his Glaratrox form.<ref>''Avengers Undercover'' #2</ref> Daimon Hellstrom was with Baron Zemo, Madame Masque, and Constrictor when they watch the teenage heroes confront Arcade at Massacrer Casino.<ref>''Avengers Undercover'' #3</ref> When the teenage heroes are apprehended by S.H.I.E.L.D. and placed in a S.H.I.E.L.D. detention center, Daimon Hellstrom teleports the entire building back to Bagalia where Baron Zemo offers the group a chance to join the Masters of Evil.<ref>''Avengers Undercover'' #4</ref> Daimon Hellstrom is shown to live in Hellstrom Manor in Hell Town, [[Bagalia]].<ref>''Avengers Undercover'' #5</ref>
+
+==Powers and abilities==
+{{unreferenced section|date=March 2015}}
+As a ruler of a dimension of Hell, Hellstorm commands virtually unlimited power in his own dimension. Potentially, he can perform virtually any magical feat.
+
+As Hellstorm, thanks to his demonic heritage, Daimon Hellstrom could sense the presence of the supernatural and could cast spells to transport himself and others into mystical dimensions and back to Earth. Other powers he exhibited at this time may not have stemmed from himself (as he had lost his "Darksoul," see below) but from his magical trident. Hellstorm could project mystic energy in the form of "soulfire" (also called "hellfire") from his trident, causing excruciating pain within living beings through direct contact of a person's life force. The soulfire did not physically burn in the sense that true fire does, and Hellstrom could project soulfire as a concussive blast of force. He could use soulfire for various other effects, including flight and physical transformations.
+
+As the Son of Satan, Hellstrom possessed supernatural powers derived from his "Darksoul," a demonic counterpart to his human soul, which physically manifested itself in the pentagram-shaped birthmark on his chest. The Darksoul granted him superhuman strength, and the ability to project soulfire. He was able to magically change into his demonic costume at will by extending the middle three fingers of each hand in the shape of a trident, concentrating, and letting his soulfire engulf his body. Once, Hellstrom used his powers to travel through time to ancient Atlantis.
+
+As Hellstorm and the Son of Satan, Hellstrom wielded a trident made of netharanium, a "psychosensitive" metal found only in "Satan's" extra-dimensional realm. The trident was a medium through which magical energies, such as Hellstrom's soulfire, could be amplified and projected. By projecting the soulfire through the trident, Hellstrom could gain enough thrust to levitate and to fly for short periods of time.
+
+He also used a fiery chariot drawn by three winged demonic horses.
+
+Daimon Hellstrom is an expert in demonology, and a highly experienced exorcist with some knowledge of mystic rites.  He has an advanced degree in theology, and is self-taught in demonology.
+
+==Other versions==
+
+===Ultimate Marvel===
+[[Image:UlitSoS.JPG|right|200px|thumb|The unpowered Ultimate version of the Son of Satan]]
+In the [[Ultimate Marvel|Ultimate Marvel universe]], the '''Son of Satan''' first appeared in the sixth issue of ''[[The Ultimates 2]]'', but had a small role which served only to develop [[Hank Pym#Ultimate Marvel|Hank Pym]]'s story. He is a member of a team of amateur, unpowered vigilantes called the [[Defenders (comics)#Ultimate Defenders|Defenders]], all of whom are also lacking in powers except for Henry Pym/Giant-Man. He is also called "Damien" by [[Nighthawk (Marvel Comics)#Ultimate Nighthawk (Earth-1610)|Nighthawk]]. He wears a "costume" that is a mix of [[punk rock]] and [[Gothic rock|goth]] elements, including dark facial make-up, bright pink hair and multiple piercings. When asked if he is actually the son of Satan, he simply replies "Are you retarded?"<ref>''The Ultimates 2'' #6</ref>
+
+In ''[[Ultimate Comics: New Ultimates]]'', it was revealed that this Son of Satan is actually a spy (à la [[COINTELPRO]]) for [[S.H.I.E.L.D.]] - presumably to keep an eye on both [[Henry Pym|Giant Man]] and the wannabe heroes - and a reserve member of [[The Ultimates]].<ref>''Ultimates Annual''</ref> His name is revealed to be Daimon Hellstorm.<ref name="NewUltimates1">''[[Ultimate Comics: New Ultimates]]'' #1</ref>
+
+Son of Satan re-appears as a new member of the Ultimates in ''[[Ultimate Comics: New Ultimates]]'', having gained powers from a mysterious force, which is later revealed to be [[Ultimate Thor|Thor]]'s brother [[Loki (comics)#Ultimate Marvel|Loki]].<ref name="NewUltimates1"/>
+
+===MAX===
+Science fiction writer [[Alexander C. Irvine|Alexander Irvine]] wrote the mini-series ''Hellstorm: Son of Satan'', starring Hellstrom as a hero in post-[[Hurricane Katrina]] [[New Orleans]] for the [[MAX (comics)|MAX]] imprint, Marvel's mature readers line.<ref>{{cite web| first= Dave | last= Richards | url = http://www.comicbookresources.com/?page=article&id=7208 | title = Shout at the Devil: Irvine talks "Son of Satan" | publisher = [[Comic Book Resources]] |date= June 2, 2006 | archivedate=January 11, 2009 | archiveurl= https://web.archive.org/web/20090111095220/http://www.comicbookresources.com/?page=article&id=7208 | deadurl = no}}</ref><ref>{{cite web|url=http://classic.newsarama.com/WWPhilly06/Marvel/MondoMvl/Alonso_Hellstorm.html |title=WW Philadelphia - Axel Alonso on The Return of Hellstrom | publisher=[[Newsarama]] | date= June 2, 2006|archivedate=October 17, 2007 | archiveurl=https://web.archive.org/web/20071017200950/http://newsarama.com/WWPhilly06/Marvel/MondoMvl/Alonso_Hellstorm.html}}</ref>
+
+===Ruins===
+In [[Warren Ellis]]' ''[[Ruins (comics)|Ruins]]'', a two-part series which takes place in a dystopian reality of the Marvel Multiverse where everything went wrong, a version of Hellstrom is mentioned in the narrative captions of the series' main character, Phil Sheldon. While on the way to interview Rick Jones, Sheldon passed by a woman with a 'gray baby'{{clarify|date=November 2014}} in her arms with a [[fistula]] in its chest. The woman claims that for a dollar, one would be allowed to hear the fistula saying "Our lord is dead". When Sheldon tried to quickly get away from the woman, she shouted "Don't forget the baby's name, He'll be the Messiah one day...Daimon Hellstrom. Don't forget Daimon Hellstrom."<ref>''Ruins'' #1</ref>
+
+==In other media==
+===Video games===
+* Daimon Hellstrom appears in the video-game ''[[Marvel: Avengers Alliance]]'' as an unlockable character.{{citation needed|date=May 2016}} In Season 2 he is transformed into one of the Worthy as Angrir: Breaker of Souls.
+* Daimon Hellstorm appears in the mobile game ''[[Marvel: Future Fight]]''.<ref>http://marvel.com/news/video_games/26919/an_epic_quest_brings_doctor_strange_to_marvel_future_fight</ref>
+
+==Reception==
+Daimon Hellstrom, the Son of Satan was ranked #12 on a listing of Marvel Comics' monster characters in 2015.<ref>{{cite web|url= http://www.denofgeek.com/us/books-comics/marvel/250132/marvels-31-best-monsters/page/0/1|title= Marvel's 31 Best Monsters|first= Marc|last= Buxton|date= October 30, 2015|publisher= [[Dennis Publishing|Den of Geek]]|archiveurl= https://www.webcitation.org/72pJl6zbA|archivedate= September 30, 2018|deadurl= no|df= mdy-all|quote= Son of Satan is a Marvel character who may not appear to be a monster (other than the big, honking Satan pentagram branded on his chest), but Damon Hellstrom here is the son of the Devil, and if that ain’t monstrous we don’t know what is.}}</ref>
+
+==References==
+{{reflist|2}}
+
+==External links==
+* {{Marvunapp|http://www.marvunapp.com/Appendix2/hellstormdaimon.htm|Daimon Hellstrom}}
+* {{comicbookdb|type=character|id=6557||title=Daimon Hellstrom}}
+* [http://www.marvel.com/universe/Hellstorm Daimon Hellstrom] at the Marvel Universe
+* [http://www.marveldatabase.com/Hellstorm Daimon Hellstrom] at the Marvel Database Project
+{{Marvel Zombies}}
+{{Midnight Sons}}
+{{Defenders}}
+{{Steve Gerber}}
+{{Marvel Mystic}}
+{{S.H.I.E.L.D.}}
+
+{{DEFAULTSORT:Hellstrom, Daimon}}
+[[Category:American superheroes]]
+[[Category:Characters created by Gary Friedrich]]
+[[Category:Characters created by Roy Thomas]]
+[[Category:Comics characters introduced in 1973]]
+[[Category:Fictional characters from Massachusetts]]
+[[Category:Fictional characters with fire or heat abilities]]
+[[Category:Fictional half-demons]]
+[[Category:Marvel Comics characters who use magic]]
+[[Category:Marvel Comics devils]]
+[[Category:Marvel Comics superheroes]]
+[[Category:S.H.I.E.L.D. agents]]

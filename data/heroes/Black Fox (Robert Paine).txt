@@ -1,0 +1,36 @@
+<!-- Please do not remove or change this AfD message until the discussion has been closed. -->
+{{Article for deletion/dated|page=Black Fox (Robert Paine)|timestamp=20190131175907|year=2019|month=January|day=31|substed=yes|help=off}}
+<!-- Once discussion is closed, please place on talk page: {{Old AfD multi|page=Black Fox (Robert Paine)|date=31 January 2019|result='''keep'''}} -->
+<!-- End of AfD message, feel free to edit beyond this point -->
+{{other uses2|Black Fox}}
+{{Notability|date=August 2018}}
+{{Infobox comics character| <!--Wikipedia:WikiProject Comics-->
+image=
+|caption=Black Fox (Dr. Robert William Paine)<br>Art by [[John Byrne (comics)|John Byrne]].
+|character_name=Black Fox
+|real_name=Robert William Paine
+|publisher=[[Marvel Comics]]
+|debut=''[[Marvel: The Lost Generation]]'' #12 (March 2000)
+|creators=[[Roger Stern]] and [[John Byrne (comics)|John Byrne]]
+|alliances= [[First Line (comics)|First Line]]
+|aliases=
+|powers=
+|}}
+'''Black Fox''' ('''Dr. Robert William Paine''') is a fictional superhero appearing in [[American comic book]]s published by [[Marvel Comics]]. The character's primary appearances have been in the limited series, ''[[Marvel: The Lost Generation]]''.  He first appeared in ''Marvel: The Lost Generation'' #12 (March 2000).
+
+==Fictional character biography==
+Dr. Robert William Paine was born in the fictional city of Foxwood Farms, Illinois, presumably in the early decades of the Twentieth Century. During World War II, Paine worked as an American intelligence agent and was assigned to infiltrate Nazi Germany. After the War, he took to living the life of a swashbuckler. It was during this time that Paine was driven to create his Black Fox identity. After a conflict with the vampiric villain Nocturne, in which Paine's true love Miriam was slain, Paine declares, "Before, I was just a masked swashbuckler. After that...that was the day the Black Fox was truly born."<ref>''Marvel:The Lost Generation'' #8 (July 2000)</ref> After many years of fighting crime, The Black Fox eventually retired to teach history and law at Northwestern University in Chicago.
+
+He later came out of retirement to help the superhero team [[First Line (comics)|First Line]] repel a [[Skrull]] invasion of Earth. During the final battle against the Skrulls, most of the First Line team, including Black Fox, were killed.
+
+==Powers and abilities==
+Black Fox II possesses no super powers but instead relies on his wealth, brilliant mind, and exceptional combat skills to fight crime. His secret hideout known as "The Foxhole" is located on his family farm near the city of his birth. The farm is called Foxwood Farms. Among the many devices at his disposal is a radar-invisible jet named ''The Flying Fox''.
+
+==References==
+{{reflist}}
+
+==External links==
+* {{Marvunapp|http://www.marvunapp.com/Appendix6/black_fox-paine-first_line.html|Black Fox (First Line)}}
+
+[[Category:Comics characters introduced in 2000]]
+[[Category:Marvel Comics superheroes]]

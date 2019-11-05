@@ -1,0 +1,59 @@
+{{Supersupportingbox <!--Wikipedia:WikiProject Comics-->
+|image=[[Image:John Ryker.jpg|100px]]
+|caption=
+|character_name=General John Ryker
+|publisher=[[Marvel Comics]]
+|debut=''[[The Incredible Hulk (comic book)|The Incredible Hulk]]'' Vol. 3 #12 (March 2000)
+|creators=[[Paul Jenkins (writer)|Paul Jenkins]]<br>[[Ron Garney]]<br>[[Mike McKone]]
+|full_name=General John Ryker
+|supports=
+|alliances=[[Gamma Corps]]<br>Origins Corporation
+|powers=Genius strategist<br>Adept deceiver<br>Master manipulator
+|}}
+
+'''General John Ryker''' is a [[fictional character|fictional]] comic book antagonist who appears in books published by [[Marvel Comics]], usually as an enemy of the [[Hulk (comics)|Hulk]]. He is a corrupt Army General depicted as being obsessed with the Hulk, and makes numerous attempts to capture the creature.
+
+==Publication history==
+Created by writer [[Paul Jenkins (writer)|Paul Jenkins]] and artists [[Ron Garney]] and [[Mike McKone]], John Ryker first appeared in ''[[The Incredible Hulk (comic book)|The Incredible Hulk]]'' Vol. 3 #12 (March 2000).
+
+==Fictional character biography==
+John Ryker joined the military at a young age and wanted to help determine future history from the shadows. One of his most prominent actions was manipulating the creation of the conspiracy around the assassination of [[John F. Kennedy]]. Apparently Kennedy was really killed by two Corsican mercenaries, but at the time it was deemed too expensive to wage World War Three so the idea of a conspiracy was created. When his wife Lucy developed cancer, Ryker used the military to hunt down Bruce Banner, who turned into the [[Hulk (comics)|Hulk]] after exposure from gamma radiation during a nuclear test that Ryker supervised.<ref>''Incredible Hulk'' Vol. 3 #12</ref> Initially, Ryker irradiated various subjects to try and duplicate the accident that created the Hulk, with the goal of allowing him to isolate the Hulk's ability to cope with the radiation and use it to heal his wife. His closest success was Private Benjamin Tibbits, who mutated into the Hulk-like [[Flux (comics)|Flux]], but his transformation was imperfect, leading to Ryker simply breaking him to use as a near-mindless soldier against the Hulk.<ref>''Incredible Hulk'' Vol. 3 #17-19</ref>
+
+However his brutal treatment of the Hulk not only broke down the mental barriers keeping the Hulk's other personalities from taking control including the [[Devil Hulk]]. But also convinced General [[Thunderbolt Ross]] to turn against Ryker and free his long-time enemy. Taking Lucy Ryker hostage, Ross told her the truth, prompting Ryker to depart as she coldly told him that she didn't ask to be healed at the cost of innocent people.<ref>''Incredible Hulk'' vol. 3 #20</ref>
+
+He is responsible for the creation of the [[Gamma Corps]], a special military unit created specifically to deal with the Hulk. He was spurred into action after his wife, who seemed to have been cured by a transfusion of Hulk blood, died from a sudden revival of her cancer. The Corps were unable to stop the Hulk, who went after Ryker, and caused Gamma Corps member Grey, who had Hulk DNA in him, to lose his temper, resulting in a Hulk-like rage that tore down Ryker's base, with the General still inside.<ref>''World War Hulk: Gamma Corps'' #4</ref>
+
+However, Ryker later reappears as the CEO of Origins Corporation, a company specializing in giving average people superpowers through gene therapy, and sending his new "Gamma Corps: Black" to harvest the DNA from [[She-Hulk (Lyra)|Lyra, the new She-Hulk]].<ref>''The Incredible Hulk'' #601</ref>
+
+==Powers and abilities==
+General Ryker has no superpowers but he's a genius strategist, an adept deceiver and a master manipulator. 
+
+==Other versions==
+
+===Ultimate Marvel===
+In the [[Ultimate Marvel]] reality, a General named Ryker is one of the ones in charge of [[Project Pegasus|Project PEGASUS]] in Devil's Point, [[Wyoming]] when the [[Serpent Squad]] attacks, until stopped by the [[Ultimate Fantastic Four|Fantastic Four]].<ref>''Ultimate Origins'' #2</ref>
+
+==In other media==
+
+===Television===
+* In the ''[[Fantastic Four: World's Greatest Heroes]]'' episode "Hard Knocks," Ryker is the leader of the group of soldiers hunting the Hulk under the orders of Agent Pratt.
+
+===Video games===
+* General Ryker appears in the ''[[Hulk (video game)|Hulk]]'' video game voiced by Jano Frandsen. He is very similar to his comic counterpart. In the game, he sends out the military to capture the Hulk so that he might be able to study him. Also, he only appears in the cutscenes of the game. When discovering the Gamma Orb, Ryker plans to get it for his own purposes, but [[Ravage (Marvel Comics)|Ravage]] gets the orb. Ryker decided to kill both the Hulk and Ravage. He also had the [[Hulkbusters]] and [[Flux (comics)|Private Benjamin "Benny" Tibbetts]] to fight the Hulk. At the end of game, he is seen in base where his henchman Benjamin Tibbetts aka Flux went to recover and he, presumably, began experimenting on him.
+
+== References ==
+{{reflist}}
+
+==External links==
+* {{comicbookdb|type=creator|id=8674|title=General John Ryker}}
+
+{{Hulk}}
+
+{{DEFAULTSORT:Ryker, John}}
+[[Category:Comics characters introduced in 1999]]
+[[Category:Marvel Comics supervillains]]
+[[Category:Fictional generals]]
+[[Category:Fictional scientists]]
+[[Category:Fictional United States Army personnel]]
+[[Category:Characters created by Paul Jenkins (writer)]]
+[[Category:Fictional businesspeople]]

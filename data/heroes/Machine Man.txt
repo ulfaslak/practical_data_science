@@ -1,0 +1,165 @@
+{{About||the Japanese [[tokusatsu]] television series|Seiun Kamen Machineman|the novel by Max Barry|Machine Man (novel) |the toy robot|Mr. Machine}}
+{{In-universe|subject = comics|category = comics|date = October 2009}}
+
+{{Infobox comics character <!--Wikipedia:WikiProject Comics--> 
+|character_name=Machine Man
+|image=Machineman.PNG
+|converted=y
+|alt = A human Aaron Stack running in front of the head of the android Machine Man
+|caption=The two identities of X-51: Aaron Stack (foreground) and Machine Man (background).<br>Art by [[Brandon Peterson]].
+|full_name=Aaron Stack 
+|publisher=[[Marvel Comics]] 
+|debut=''[[2001: A Space Odyssey (comics)|2001: A Space Odyssey]]'' #8 (July 1977)
+|creators=[[Jack Kirby]] (writer / artist)
+|alliances=[[S.H.I.E.L.D.]]<br/>[[Civil War (comics)|Secret Avengers (Civil War)]]<br/>[[Nextwave]]<br/>[[Avengers (comics)|Avengers]]<br/>[[West Coast Avengers]]<br>[[Heavy Metal (Marvel Comics)|Heavy Metal]]<br>[[A.R.M.O.R.]]<br>Operation: Lightning Storm<br/>Ancient Order of the Shield<ref>''Red She-Hulk'' (vol. 1) #67</ref><br>[[Mercs for Money]]
+|aliases=X-51, Mister Machine
+|powers=*Superhuman strength, speed, stamina, durability, reflexes and accuracy<br>
+*Telescoping arms and legs
+*Can fly by using [[anti-gravity]] disks
+*Various installed weapons
+|cat=super
+|subcat=Marvel Comics
+|hero=y
+|sortkey=Machine Man
+}} 
+'''Machine Man''' (also known as '''Aaron Stack''', '''Mister Machine''', and serial number '''Z2P45-9-X-51''' or '''X-51''' for short) is a [[fictional character]], an [[Android (robot)|android]] [[superhero]] appearing in [[American comic book]]s published by [[Marvel Comics]]. The character was created by [[Jack Kirby]] for ''[[2001: A Space Odyssey (comics)|2001: A Space Odyssey]]'' #8 (July 1977), a comic written and drawn by Kirby featuring concepts based on the eponymous [[Stanley Kubrick]] [[2001: A Space Odyssey (film)|feature film]] and [[Arthur C. Clarke]] [[2001: A Space Odyssey (novel)|novel]].  Shortly thereafter, Machine Man spun off into his own Kirby-created series.  He is a robot, the only survivor of a series, raised as a human son of scientist Abel Stack, who was killed removing his auto-destruct mechanism, and further evolved to [[sentience]] by a [[Monolith (Space Odyssey)|Monolith]].
+
+==Publication history==
+
+===Volume 1===
+Machine Man originally appeared in the pages of ''[[2001: A Space Odyssey (comics)|2001: A Space Odyssey]]'' #8 (July 1977), which was written and drawn by [[Jack Kirby]], where he was called '''Mister Machine'''. He would go on to appear in his own self-titled series in 1978.
+
+This title featured Machine Man entering the mainstream Marvel Universe. Jack Kirby wrote and drew the first nine issues, which dealt with the title character's status as a fugitive from the military after the death of his creator, and his first interactions with mankind. The book was canceled at the end of 1978 with X-51 finally standing up to the military.
+
+Machine Man appeared next in a three issue story arc within the pages of ''[[The Incredible Hulk (comic book)|The Incredible Hulk]]'' #235–237.  The robot found himself battling the green giant within the suburban setting of his human friend, Dr. Peter Spaulding.  By the end of the storyline, he incurred a complete system shutdown, leading to the events portrayed in his relaunched monthly series.
+
+The title was relaunched in issue #10 after a nine-month hiatus. Status quo in the book changed with Machine Man now living amongst humanity, and dealing with his own new-found emotions. [[Marv Wolfman]] came aboard as the new writer, partnered with artist [[Steve Ditko]], which helped set a different tone from Kirby's previous stories. Issue 15 saw a new writer, [[Tom DeFalco]], taking over the writing chores. The title lasted until issue #19, ending in February 1980.
+
+===Volume 2===
+<!-- Deleted image removed: [[File:MachineMan2020.jpg|150px|thumb|left|Cover to ''Machine Man'' (vol. 2) #1 (1984). Art by [[Barry Windsor-Smith]]]]  -->In October 1984 – January 1985, the ''Machine Man'' title was resurrected, in a four-issue [[miniseries]] written by [[Tom DeFalco]] with art by [[Herb Trimpe]] (breakdowns only, issues #1–3) and [[Barry Windsor-Smith]] (finishes only, issues #1–3 and full art for issue #4), with Windsor-Smith also coloring the entire miniseries and co-plotting issue #4 with DeFalco. This series turned out to be one of the most popular of all the Machine Man titles, tying with previous continuity, but with the action set in the distant [[cyberpunk]] future of 2020, starting with Machine Man's reassembly.
+
+The miniseries was first reprinted as a 96-page [[Trade paperback (comics)|trade paperback]] in 1988 ({{ISBN|978-0-07-135458-5}}), with brand new cover art by Barry Windsor-Smith. The miniseries was republished again in 1994 as two double-size books, with the name ''Machine Man 2020''. Characters from this alternate future have made appearances in other Marvel books, namely Arno Stark, the mercenary [[Iron Man 2020]].
+
+In 1990, Machine Man guest-starred in ''Iron Man Annual'' #11 (part of the "Terminus Factor" storyline).  That story created strong hints that the 2020 Machine Man may turn out not to be the true X-51, but instead a duplicate created by [[Sunset Bain]].
+
+===Volume 3===
+In 1999, Marvel brought the character back in the series ''X-51, The Machine Man'' in which Machine Man experiences a programming malfunction: he would uncontrollably attack any [[Mutant (Marvel Comics)|mutant]] he encountered.  He was given a drastically more robotic look and his powers were vastly changed. The reason for both was that he had been reconstructed by [[Sentinel (Marvel Comics)|Sentinel]]-based [[nanotechnology]]. The series lasted twelve issues; in the final one, he was 'recovered' by a [[Celestials|Celestial]], as the Celestials—revealed to be the power behind the Monoliths—had become interested in Machine Man.
+
+==Fictional character biography==
+Machine Man, whose real name is Z2P45-9-X-51, was the last of a series of sentient robots created at the Broadhurst Center for the Advancement of Mechanized Research in Central City, California, by robotics expert Dr. Abel Stack for the US Army. However, all previous 50 experimental robots went mad as they achieved [[sentience]] and  became [[Psychosis|psychotic]], due to a lack of identity. X-51 was the only survivor, as he was treated as a son by Stack and given a human face mask as well as being exposed to one of the [[Monolith (Space Odyssey)|monolith]]s from [[2001: A Space Odyssey (film)|2001]]. After Stack died trying to protect him, X-51 assumed the human name Aaron Stack and escaped confinement, only to be relentlessly pursued by the army. X-51 named himself Mister Machine in issue #9 of the 10-issue run of ''2001''.
+
+While on the run, the newly christened Machine Man initiated contact with humanity in order to better understand it.<ref>''2001: A Space Odyssey'' #8</ref> After being captured and later freed, Machine Man was found by psychiatrist Peter Spaulding. He also battled Col. Krag's troops.<ref>''Machine Man'' (vol. 1) #1–2</ref> Soon after that, he first encountered [[Power Broker|Curtiss Jackson]].<ref>''Machine Man'' (vol. 1) #6</ref> Alongside the [[Hulk (comics)|Hulk]], he battled Curtiss Jackson.<ref>''Incredible Hulk'' (vol. 2) #235–237</ref> Soon after that, he was redesigned and rebuilt by Dr. Oliver Broadhurst.<ref>''Machine Man'' (vol. 1) #10</ref> He then first encountered the [[Fantastic Four]].<ref>''Machine Man'' (vol. 1) #15</ref> He then met mechanic "Gears" Garvin, and then battled [[Baron Brimstone]].<ref>''Machine Man'' (vol. 1) #16</ref> He also battled [[Sunset Bain|Madame Menace (Sunset Bain)]].<ref>''Machine Man'' (vol. 1) #17</ref> He then first encountered [[Aurora (comics)|Aurora]], [[Northstar (Marvel Comics)|Northstar]], and [[Sasquatch (comics)|Sasquatch]] of [[Alpha Flight]].<ref>''Machine Man'' (vol. 1) #18</ref> Spaulding and Garvin set up Machine Man with a human identity as Aaron Stack, insurance investigator for the Delmar Insurance Company,<ref>''Machine Man'' (vol. 1) #11</ref> but he continued having adventures as a superhero on the side.{{issue|date=November 2017}}
+
+In ''Iron Man'' #168 (March 1983), Machine Man attempts to pay [[Iron Man]] a visit. Machine Man was seeking to compare notes with Iron Man, thought to be a robot by Machine Man. At the time, Iron Man was drunk, irate, and under considerable stress from the machinations of Obadiah Stane. Iron Man attacked Machine Man and almost killed two of his own employees. At the last possible second, Machine Man's extendable arm pushed them out of the way.<ref>''Iron Man'' #168 (March 1983)</ref>
+
+In a meeting with the [[Thing (comics)|Thing]] of the [[Fantastic Four]], Machine Man also first met and fell in love with another sentient robot, [[Jocasta (comics)|Jocasta]]. Alongside the Thing and Jocasta, he battled [[Ultron]]. However, during the battle, Machine Man witnessed the seeming destruction of Jocasta by Ultron.<ref>''[[Marvel Two-in-One]]'' #92–93</ref>
+
+He later fought alongside the [[Avengers (comics)|Avengers]],{{Issue|date=February 2010}} which led to the invitation to become a team reservist.{{Issue|date=February 2010}} Later he was captured by [[S.H.I.E.L.D.]], who wanted to use his technology to create another [[Deathlok]]. He helps the [[X-Men]] and [[Warlock (New Mutants)|Douglock]] against the villainous [[Red Skull]], who had taken over the [[Helicarrier]] where Machine Man was held.<ref>''X-Men Annual '99''</ref>
+
+He helped the X-Men again against [[Bastion (comics)|Bastion]] and his [[Sentinel (comics)|Sentinels]].{{Issue|date=February 2010}} As a consequence, he was infected by Sentinel programming, assuming a more robotic look in the subsequent series ''X-51'', and losing self-control whenever he was faced with a mutant. During this series he was on the run from [[Sebastian Shaw (comics)|Sebastian Shaw]], who wants his technology for himself. Because of his new programming, while seeking aid from the Avengers, he attacks [[Vance Astrovik|Justice]] and [[Firestar (Marvel Comics)|Firestar]]. Because of his actions against Justice and Firestar, X-51's membership in the Avengers is revoked. At the end of ''X-51'', X-51 encountered one of the monoliths and disappeared, brought into the presence of the monolith's creators, the cosmic beings known as the Celestials.{{Issue|date=February 2010}}
+
+===''Nextwave: Agents of H.A.T.E.''===
+{{Main|Nextwave}}
+[[Warren Ellis]] and [[Stuart Immonen]]'s ''Nextwave'' series sees Machine Man join a team formed by the Highest Anti-Terrorism Effort, or [[H.A.T.E.]] (a subsidiary of the [[Beyond Corporation©]]) to fight Unusual Weapons of Mass Destruction.{{issue|date=November 2011}} Now preferring simply to be called Aaron, Machine Man is partnered with [[Monica Rambeau]], [[Tabitha Smith]], [[Elsa Bloodstone]], and [[Captain (comics)|The Captain]],<ref>''Nextwave: Agents of H.A.T.E.'' #1</ref> and the team soon discovers that H.A.T.E. are funded by the Beyond Corporation©, leading them to go rogue and carry out their mission on their own prerogative.{{issue|date=November 2011}}
+
+[[File:Aaronstack.jpg|left|thumb|Aaron Stack]]
+Calling humans "fleshy ones" and expressing a degree of pride in his "roboty parts" — which he uses to kill [[Fin Fang Foom]]<ref>''Nextwave: Agents of H.A.T.E.'' #2</ref> — Aaron has developed a fondness for alcohol, stating "My robot brain needs beer" on regular occasions. He is not especially popular with his teammates because of his self-important attitude, and, as is learned in a flashback that after being brought to space by the Celestials at the conclusion of his previous series, he was dumped back on Earth because the space-gods considered him to be a "complete and utter ☠☠☠☠."<ref>''Nextwave: Agents of H.A.T.E.'' #5</ref> ("☠☠☠☠" representing an unspecified, but extremely offensive, profanity throughout the Nextwave series) He appears to have a rather serious attraction to Elsa Bloodstone and stares at her chest constantly, much to her chagrin.
+
+It is revealed that, when still an agent of H.A.T.E, Aaron would often sneak into [[Dirk Anger]]'s room to steal beer until he found out what Anger made it out of ("I thought ''Lizard Squeezings'' was a brewery name.").<ref>''Nextwave: Agents of H.A.T.E.'' #6</ref> He later uses his knowledge of Dirk's quarters to steal Anger's mother's dress and hold it hostage in exchange for the safe escape of Nextwave.{{Issue|date=June 2009}}
+
+Later appearances in the ''Marvel Comics Presents'' mini-series (vol.2) suggest that X-51's memories of his time with the Celestials may be skewed, as he experienced visual hallucinations (?) of a miniature Celestial helping him overcome his psychological issues.{{issue|date=October 2013}}
+
+===The Initiative===
+{{Main|Fifty State Initiative}}
+[[File:Robomonica.PNG|Aaron with his Monica Rambeau LMD. Art by Adriana Melo.|thumb]]
+Machine Man appears in a flashback to ''Iron Man'' (vol. 1) #168 (March 1983) in ''Iron Man/Captain America: Casualties of War''. In trying to convince [[Captain America]] of the rightness of his position, Iron Man tells of the time Machine Man came to visit him. Machine Man was seeking to compare notes with Iron Man, thought to be a robot by Machine Man. Drunk, irate, and under considerable stress from the machinations of [[Iron Monger|Obadiah Stane]], Iron Man attacks Machine Man and almost kills two of his own employees. At the last possible second, Machine Man's extendable arm pushes them out of the way. Iron Man uses this incident as the need for accountability in the superhero population.{{issue|date=November 2011}}
+
+Aaron and [[Sleepwalker (comics)|Sleepwalker]] are recruited to aid [[Ms. Marvel]] in finding her teammate [[Anya Corazon|Araña]] as part of a S.H.I.E.L.D. strikeforce known as Operation Lightning Storm.{{issue|date=November 2011}} In the promotional cover for this appearance, he is in the costume which he wore during ''Nextwave''.<ref>{{cite web| url= http://marvel.com/comics/issue/16137/ms_marvel_2006_18 |title=Ms. Marvel (2006) #18|website=Marvel.com| accessdate= 3 June 2015}}</ref> His appearance is entirely in keeping with Nextwave: he wears the same costume and displays the same nonsensical and zany personality developed, in place of his previous logical and friendly self. He reveals that Agent [[Maria Hill]] from S.H.I.E.L.D. offered him financial compensation to join the Initiative, enraging Ms. Marvel, who had supported it from the beginning, for free.{{issue|date=November 2011}} He spends much of his time in Chile and aboard the Minicarrier 13, Ms. Marvel's headquarters at the time, antagonizing and criticizing every available agent.{{Issue|date=January 2010}}
+
+In addition to financial compensation, S.H.I.E.L.D. has also provided Aaron with a [[Life Model Decoy]] of [[Monica Rambeau]], which is programmed to cry for him.<ref>''Ms. Marvel'' 26</ref> Keeping him in his new role of [[comic relief]], Aaron has been shown using the LMD body as a replacement part for his damaged body, going so far to offer ''womanly advice'' to a deeply shocked Araña.<ref>''Ms. Marvel'' 21</ref>
+
+===Marvel Zombies===
+{{Main|Marvel Zombies 3|Marvel Zombies 5}}
+{{see also|Marvel Zombies (series)}}
+Machine Man appears twice in the ''[[Marvel Zombies]]'' universe, initially in a cameo as part of the [[Nextwave]] team who engage in battle against the infected heroes and are killed off panel in ''[[Marvel Zombies vs. The Army of Darkness]]'', and as the main character in ''[[Marvel Zombies 3]]''. As the main character, Machine Man accepts an assignment on behalf of A.R.M.O.R. to accompany [[Jocasta (comics)|Jocasta]] to retrieve a blood sample from a living human from the ''[[Marvel Zombies]]'' universe, and the two are transported there by [[Portal (comics)|Portal]].<ref>''Marvel Zombies 3'' #1</ref> At first he wants to complete his mission only for the money, until he discovers that the zombies are cloning humans for food, much as humans use his fellow robots only for their own needs. He obtains cell samples from the [[Kingpin (comics)|Kingpin]]'s wife [[Vanessa Fisk|Vanessa]], who is still alive and being kept safe by the Kingpin.<ref>''Marvel Zombies 3'' #2</ref> Machine Man delivers the samples to Jocasta, but the zombies nearly destroy him in retribution, and Portal and Jocasta are forced to leave his ruined body in that dimension.<ref>''Marvel Zombies 3'' #3</ref> After Machine Man reveals that it was a holographic projection of himself, he fights off some zombies and captures the zombie [[Lockjaw (comics)|Lockjaw]] who he uses to teleport back to his own dimension. Disposing of the remaining zombies within the facility, Machine Man and Jocasta are assigned back to S.H.I.E.L.D.<ref>''Marvel Zombies 3'' #4</ref>
+
+He retains his personality as displayed in ''Nextwave'' and ''[[Ms Marvel]]'' in this series, however when Jocasta describes him as different from the person she once knew, he gives an explanation.  Describing his earlier, friendly personality as being linked to "unresolved [[Oedipus complex|Oedipal]] issues", he claims to have grown tired of saving people over and over again to earn their love, as he loved them.  Since that never happened (he claims), he has "modeled myself after the fleshies now.  I look out for Number One, just like them".<ref>''Marvel Zombies 3'' #2</ref>  However, at the end of the series, as he wipes out the last remaining zombies, he declares, "No, you know what?  My name is Machine Man and I just saved the ☠☠☠☠ing world!" accepting the name he spent much of ''Nextwave'' and this series denying.<ref>''Marvel Zombies 3'' #4</ref>
+
+In ''[[Marvel Zombies 5]]'', he teams up with [[Howard the Duck]]. They later work with and befriend Jacali Kane, daughter of an alternate-universe [[Hurricane (comics)#Marvel Zombies|Hurricane]]. The trio travel the multi-verse fighting zombies; their intentions are to gather samples from biologically differing zombies in other to gain a cure.<ref>''Marvel Zombies 5'' #1–5 (2010)</ref> He is dismayed by Jocasta's decision to marry Ultron.<ref>''Marvel Zombies 5'' #3</ref>
+
+===Working with Red Hulk===
+Under orders from [[Captain America|Captain Steve Rogers]], Machine Man teams up with [[Thunderbolt Ross|Red Hulk]], who is tracking down a [[Qatar]]i rebel named Dagan Shah (whom Red Hulk believed to be behind the death of his old friend Will Krugauer).<ref>''Hulk'' (vol. 2) #43</ref> Machine Man and Red Hulk arrive in Sharzhad where they find Dagan Shah in the disguise of [[Arabian Knight (comics)|Arabian Knight]], who lets them through the force field and leads them to his palace. Once inside the palace, Dagan Shah sheds his disguise, reveals his true identity as the Sultan Magus, and imprisons Red Hulk and Machine Man, as it is shown that the real Arabian Knight is imprisoned in a crystal.<ref>''Hulk'' (vol. 2) #44</ref> Red Hulk and Machine Man escape when Sultan Magus travels to [[Cairo]] after probing Red Hulk's mind to find out who could have sent Red Hulk to Sharzhad. Machine Man reveals to Red Hulk that Sultan Magus has used [[Rigellians (comics)|Rigellian]] technology to manipulate hydrogen, which involved providing a supply of water and terraforming a part of the desert for Sharzhad. When Sultan Magus returns, he attacks Red Hulk and Machine Man. Sultan Magus rips Machine Man in half.<ref>''Hulk'' (vol. 2) #45</ref> When Arabian Knight is freed from his imprisonment, Red Hulk and Machine Man continue their fight with Sultan Magus until General Reginald Fortean arrives and ends the fight. Fortean states to Red Hulk and Machine Man that Sharzhad has been recognized as a nation by the Arab League upon Sultan Magus agreeing to stop the weapons trading and states that they are trespassing. Sultan Magus then orders Red Hulk and Machine Man to get out of Sharzhad while he secretly plans to have his revenge on Red Hulk someday.<ref>''Hulk'' (vol. 2) #46</ref>
+
+Following an altercation with [[Betty Ross|Red She-Hulk]], Machine Man and Red Hulk track Zero/One to her floating island base Ogygia. As Red Hulk and Machine Man are fighting Zero/One's genetically-engineered sea monsters, Zero/One sends Black Fog to fight Machine Man and Red Hulk.<ref>''Hulk'' (vol. 2) #47</ref> Using a device given to him by Jacob Feinman, Machine Man disables Zero/One's drones and frees Black Fog from Zero/One's control as Black Fog leaves the area, stating that his debt is paid.<ref>''Hulk'' (vol. 2)  #48</ref>
+
+Machine Man and Red Hulk arrived in Hawaii to fight a genetically-engineered [[Lernaean Hydra|Hydra]] that was created by Zero/One.<ref>''Hulk'' (vol. 2)  #49</ref>
+
+===Marvel NOW! (2016)===
+As part of the 2016 ''[[Marvel NOW!]]'', Machine Man appeared as an employee of Umbral Dynamics.<ref>''Deadpool & the Mercs for Money'' Vol. 2 #3</ref> Machine Man later appears as a member of [[Domino (comics)|Domino]]'s incarnation of the [[Mercs for Money]].<ref>''Deadpool & the Mercs for Money'' Vol. 2 #4</ref>
+
+==Powers and abilities==
+Machine Man was constructed by unnamed computer engineering specialists under Dr. Oliver Broadhurst at the Broadhurst Center for the Advancement of Mechanized Research; Dr. Abel Stack was his chief programmer. Machine Man's robotic materials, design, and construction ([[titanium]] alloy) provide him with a number of abilities, as does his [[adamantium]] composition. He possesses superhuman strength, speed, stamina, durability, and reflexes. He is an expert on his own construction and repair. Machine Man has superhuman visual acuity. He possesses an above normal intellect, with a capacity for unlimited self-motivated activity, creative intelligence, and human-like emotions. He has superhuman cybernetic analytical capabilities, including the ability to process information and make calculations with superhuman speed and accuracy.
+
+Machine Man is powered by [[solar energy]]. He can also draw power from several different external-energy sources, if needed. Machine Man has the ability to telescope his arms and legs to a length of {{convert|100|ft|m}}. Machine Man's hands are equipped with variable-payload fingers, some routinely carried in his fingers, others stored in hidden recesses in his belt. His fingers contain a different variety of devices, including: [[gas chromatograph]], laser [[interferometer]], micro-pulse radar, audiometer, [[seismometer]], gravity-wave detector, pulse-code modulator, standard-computer input/outputs, radio beacon, all-wave [[transceiver]], laser-cutting torch/weapon, and projection of heat, cold, or electricity; one of his fingers has been shown to contain a bullet-firing mechanism that uses [[.357 Magnum]] ammunition. He has the ability of flight under his own power through the means of [[anti-gravity]] disks.
+
+During the ''X-51'' series, Machine Man had a few extra features thanks to [[nanotechnology]] within him at the time. This mainly included parts of himself being rebuilt if damaged, also causing many changes in his look from issue to issue. He also had a beam cannon on his chest.{{issue|date=December 2012}}
+
+In ''Nextwave'', he has become a living [[Swiss Army knife]] of sorts, containing various tools and weapons for a multitude of situations, both useful and esoteric.  When asked if he could impregnate a human woman from several feet away, Aaron simply states "I am full of very useful devices."<ref>''Nextwave'' Vol 1 #2</ref>
+
+In the ''Point One'' event, as many other heroes, Machine Man was slightly revamped, gaining new powers and abilities. Now being a cross between the nano-technlogical being in the ''X-51'' miniseries and the living Swiss Army knife of ''Nextwave'', Machine Man is now suffused with [[nanite]]s able to effortlessly change his appearance from his earliest, jump-suited look to the more-humanoid looks of Nextwave. Also, his nanotechnology allows him to transform and rebuild every piece of machinery he comes in contact with, such as building an anti-gravity vehicle out of a motorcycle.{{issue|date=December 2012}}
+
+==Other versions==
+
+===Delmar Insurance===
+In ''[[Nextwave]]'' #10, [[Forbush Man]] forces each member of Nextwave to experience life in 'Forbush Vision'; they were cursed to suffer in a boring or mundane personal hell. Aaron's nightmare was life as an insurance adjuster for Delmar Insurance in Central City, USA. Bashing his head into a personal computer several times out of depression, he decapitates himself...only to answer the phone a moment later. Stack is freed from the nightmare by the intervention of fellow Nextwave member [[Tabitha Smith]].<ref>''Nextwave'' #10 (January 2007)</ref>
+
+===Earth X===
+Machine Man was also one of the main characters of the [[Earth X]] trilogy. Transformed by a monolith into a transparent version of himself, Aaron was forced to become the new Watcher by a blind [[Uatu]], the previous Watcher, who had not viewed any event on the planet for 20 years. Tricking Uatu, who had attempted to force Machine Man to reject his humanity, Machine Man managed to use his access to Watcher technology and data to help humanity defeat the coming [[Celestials]], by revealing to Earth's superhero community the true origins of mankind. After defeating the Celestials, Machine Man used his newfound position to contact parallel Earths to help them eradicate the Celestial menace.{{Issue|date=April 2009}}
+
+===Marvel Zombies===
+Aside from his mainstream version having traveled to this universe, Machine Man and his Nextwave counterparts are also a team in this reality; they are destroyed off-panel by the zombie [[Power Pack]].<ref>''Marvel Zombies Versus The Army of Darkness'' #3</ref> The classic version of Machine Man also appears in ''Marvel Zombies Dead Days'' in the S.H.I.E.L.D. Helicarrier. He is part of a last-ditch super-team gathered to fight the zombies.<ref>''Marvel Zombies Dead Days'' (July 2007)</ref>
+
+===Machine Man 2020===
+Machine Man was reactivated in the year 2020 by a group of outlaw scavengers called Midnight Wreckers (led by X-51's old friend Gears Garvin), and forced to battle his old enemy, the industrialist ice queen [[Sunset Bain]], as well as mercenary Arno Stark, the amoral [[Iron Man 2020|Iron Man of 2020]].<ref>''Machine Man'' (vol. 2) #1–4</ref>
+
+===Earth X===
+In ''[[Earth X|Paradise X: Heralds]]'' #1, [[Iron Man 2020]] claimed to the Earth X Machine Man that he had killed Machine Man 2020, despite the miniseries clearly depicting Arno Stark's decisive defeat at Machine Man's hands. (The [[Earth X]] universe is a separate [[Continuity (fiction)|continuity]] from the mainstream [[Marvel Universe]].<ref>''Marvel Encyclopedia'' Volume 6: [[Fantastic Four]]</ref><ref>''Official Handbook to the Marvel Universe: Alternate Universes'' (2005)</ref>)
+
+===Queen's Vengeance===
+When [[Morgan le Fay (Marvel Comics)|Morgan le Fay]] restructured reality in volume three of ''[[Avengers (comics)|Avengers]]'' #1–3, nearly all Avengers, past and present, were transformed into the Queen's Vengeance, a sort of medieval-themed Avengers.{{issue|date=March 2013}} Machine Man became Sir MacHinery, an obvious play on the word [[machine]]ry. He can be seen on the cover of issue #2, behind [[Hercules (Marvel Comics)|Hercules]].<ref>''Avengers'' #1–3 (1998)</ref>
+
+===Ultimate Marvel===
+The [[Ultimate Marvel]] version of Machine Man is [[Ghost Rider (Danny Ketch)|Danny Ketch]], who sacrificed his life during [[Galactus]]' assault on Earth. Danny Ketch's consciousness is later revealed to have survived inside a robotic body formed from salvaged Gah Lak Tus tech and is dubbed "Machine Man" by [[Phil Coulson]].<ref>''Cataclysm: Ultimates'' #3</ref>
+
+==In other media==
+
+===Television===
+* In the ''[[Spider-Man Unlimited]]'' animated TV series, the Machine Men (all voiced by [[Dale Wilson (actor)|Dale Wilson]]) serve as the [[High Evolutionary]]'s enforcers on [[Counter-Earth (comics)|Counter-Earth]]. [[Spider-Man]] saved a Machine Man named X-51 from disassembly in the episode "Steel Cold Heart" and he joined forces with Spider-Man and the Human Rebels in their struggle against the High Evolutionary's regime. This robot is one of a group of Machine Men, who switches sides after not wanting to be scrapped following serious damage in a battle. The design of these Machine Men is somewhat reminiscent of the original Machine Man, especially in terms of color and abilities. However, they are substantially bulkier than Machine Man's human sized physique, drawing inspiration from the design of the [[Sentinel (comics)|Sentinels]] from ''[[X-Men]]'' comics or animated series.{{Citation needed|date=November 2009}}.
+
+==Controversy==
+Despite the appearance of Nextwave characters in other Marvel titles, in 2006 Editor-in-Chief [[Joe Quesada]] stated that Nextwave's setting was in a universe separate from the main Marvel continuity.<ref>{{cite web|first=Wade |last=Gum |date=2006-07-01 |title=Heroes Con: Joe Quesada Panel |url=http://www.wizarduniverse.com/magazine/wizard/000765389.cfm |website=WizardUniverse.com |deadurl=yes |archiveurl=https://web.archive.org/web/20070711133600/http://www.wizarduniverse.com/magazine/wizard/000765389.cfm |archivedate=2007-07-11 |df= }}</ref> However, recent issues of  ''[[Official Handbook of the Marvel Universe]]'', as well as ''[[Civil War (comics)|Civil War: Battle Damage Report]]'', consistently place Nextwave's activities in mainstream continuity. As noted above, subsequent appearances by Stack have used the Nextwave portrayal.
+
+==References==
+{{Reflist|3}}
+
+==External links==
+* [http://www.marvel.com/universe/Machine_Man Machine Man] at Marvel.com
+* [http://www.marveldirectory.com/individuals/m/machineman.htm Machine Man] at the Marvel Directory
+* [http://www.marvunapp.com/Appendix/midnightwreckers2020.htm Midnight Wreckers] at the Appendix of the Handbook of the Marvel Universe
+*[http://www.toonopedia.com/machinem.htm Machine Man] at [[Don Markstein's Toonopedia]]. [https://www.webcitation.org/6fED3bwq6?url=http://www.toonopedia.com/machinem.htm Archived from the original on February 11, 2016.]
+{{Space Odyssey}}
+{{Jack Kirby}}
+{{Marvel Zombies}}
+
+[[Category:1978 comics debuts]]
+[[Category:Characters created by Jack Kirby]]
+[[Category:Comics characters introduced in 1977]]
+[[Category:Comics by Jack Kirby]]
+[[Category:Fictional androids]]
+[[Category:Fictional characters who can stretch themselves]]
+[[Category:Marvel Comics characters who can move at superhuman speeds]]
+[[Category:Marvel Comics characters with superhuman strength]]
+[[Category:Marvel Comics robots]]
+[[Category:Marvel Comics titles]]
+[[Category:Robot superheroes]]
+[[Category:Space Odyssey]]

@@ -1,0 +1,65 @@
+{{Third-party|date=February 2018}}
+{{refimprove|date=July 2018}}
+
+{{Infobox comics character<!--Wikipedia:WikiProject Comics-->
+|image=File:Unstopable_Wasp_1_variant.jpg
+|character_name=Nadia van Dyne
+|real_name=Nadia van Dyne
+|species= Human Mutate
+|publisher=[[Marvel Comics]]
+|debut=''Free Comic Book Day 2016 Civil War II'' (July, 2016)
+|creators=[[Mark Waid]] (writer)<br>[[Alan Davis]] (artist)
+|aliases=The Wasp<br>Nadia Pym
+|alliances=[[Avengers (comics)|Avengers]]<br>[[All-New, All-Different Avengers]]<br>[[Champions (2016 team)|Champions]]
+|partners=
+|powers=
+* Size manipulation
+* Flight
+* Bio-electric energy blasts
+* Telepathic insect control
+}}
+
+'''Nadia van Dyne''' is a [[fictional character]] appearing in [[American comic book|American comic books]] published by [[Marvel Comics]]. Created by [[Mark Waid]] and [[Alan Davis]], the character first appeared in ''Free Comic Book Day 2016 Civil War II'' (July 2016).
+
+==Publication history==
+{{expand section|date=June 2018}}
+Nadia van Dyne briefly had her own comic, ''The Unstoppable Wasp'', but it was cancelled after eight issues. A second series with the same title debuted in October 2018.
+
+==Fictional character biography==
+Nadia is the child of [[Hank Pym]] and his first wife, Maria Trovaya, who was abducted and supposedly killed by foreign agents. Nadia was raised in the [[Red Room (comics)|Red Room]] until she obtained a Pym Particle sample and escaped.<ref name="Nadia">''All-New, All-Different Avengers'' #9</ref> Initially intending to meet her father, Nadia learns that he is more or less dead, and instead uses parts of his costume and other materials to create a Wasp suit,<ref>''Free Comic Book Day Avengers 2016''</ref> hoping to obtain the admiration of her father's allies.<ref name="Nadia" /> She later meets [[Wasp (comics)|Janet van Dyne]], and they get along quite well, with Janet feeling that she has the potential to become a true hero.<ref>''All-New, All-Different Avengers'' #12</ref><ref>''All-New, All-Different Avengers'' #14</ref>
+
+Nadia soon joins the [[Avengers (comics)|Avengers]] and gains [[Citizenship of the United States|U.S. citizenship]]. Upon realizing that [[S.H.I.E.L.D.]]'s index of the world's most intelligent people doesn't list any women above 27th place, she starts the program G.I.R.L. (Genius In action Research Labs) to look for women with genius intellects.<ref>''The Unstoppable Wasp'' #1-2</ref> When choosing a legal name, Nadia takes the surname 'van Dyne', as she does not know much about her birth parents and Janet has believed in and supported her.<ref>''The Unstoppable Wasp'' #8</ref>
+
+At one point she aids [[Ant-Man (Scott Lang)|Scott Lang]] - who is in outer space at that time - in an attempt to return to Earth, which results in a sequence of bizarre adventures in the microverse. However, in the process the two of them became [[Quantum entanglement|quantum-entangled]] with each other.<ref>''Ant-Man and the Wasp'' #1-5 (June-August 2018)</ref>
+
+==Powers and abilities==
+Nadia uses Pym particles to alter her size at will. She has the ability to shrink down to sub atomic size and uses wasp like wings to fly at a tiny size. She also possess Pym Particles in her gauntlets that allow her to change the size of people and objects. It is also possible for Nadia to increase her size beyond her normal height but she has yet to demonstrate these abilities.
+
+==Collected editions==
+{| class="wikitable"
+|-
+! Title !! Material collected !! Publication date !! ISBN
+|-
+| '''The Unstoppable Wasp Vol. 1: Unstoppable!'''
+| ''The Unstoppable Wasp'' #1–4 and ''All-New, All-Different Avengers'' #14
+| September 12, 2017
+| {{ISBNT|978-1302906467}}
+|-
+| '''The Unstoppable Wasp Vol. 2: Agents of G.I.R.L.'''
+| ''The Unstoppable Wasp'' #5-8 and ''Tales to Astonish'' #44
+| March 13, 2018 
+| {{ISBNT|978-1302906474}}
+|}
+
+==References==
+{{reflist}}
+
+{{Henry Pym}}
+
+[[Category:Characters created by Mark Waid]]
+[[Category:Characters created by Alan Davis]]
+[[Category:Comics characters introduced in 2016]]
+[[Category:Female characters in comics]]
+[[Category:Fictional characters who can change size]]
+[[Category:Marvel Comics mutates]]
+[[Category:Marvel Comics superheroes]]

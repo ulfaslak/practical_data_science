@@ -1,0 +1,39 @@
+{{refimprove|date=August 2016}}
+
+{{Infobox comics character| <!--Wikipedia:WikiProject Comics--> 
+image=
+|caption=
+|character_name=Ludi
+|real_name=
+|species=[[Demons (Marvel Comics)|Demon]]
+|publisher=[[Marvel Comics]]
+|debut=''[[Doctor Strange (comic book)|Doctor Strange]]'' #35 (Jun 1979)
+|creators=[[Roger Stern]], [[Ralph Macchio (comics)|Ralph Macchio]], and [[Tom Sutton]]
+|alliances=
+|aliases=
+|powers=
+}} 
+
+'''Ludi''' is a [[fictional character]] appearing in [[American comic book]]s published by [[Marvel Comics]].
+
+==Publication history==
+Ludi first appeared in ''Chamber of Chills'' #4 (May 1973), and was created by [[Gardner Fox]] and [[Howard Chaykin]].
+
+The character subsequently appeared in ''Doctor Strange'' #35 (June 1979), and ''Druid'' #1 (May 1995).
+
+==Fictional character biography==
+Ludi is a [[Demons (Marvel Comics)|demon]] who has clashed with [[Doctor Strange]]. Ludi allies himself with the demon known as [[Dweller-in-Darkness]]. His power was amplified by the Dweller, who sent him to kill Doctor Strange. The magician and his ally, Clea, used the mystical weapon known as the 'Ebony Blade' to injure Ludi and send him back into his own portal.<ref>''Doctor Strange'' #35 (June 1979)</ref>
+
+Ludi is vulnerable to intense sound.<ref>''Chamber Of Chills'' #4</ref>
+
+==External links==
+*{{Marvunapp|http://www.marvunapp.com/Appendix/ludi.htm|Ludi}}
+
+==References==
+<references/>
+
+[[Category:Comics characters introduced in 1973]]
+[[Category:Marvel Comics devils]]
+[[Category:Marvel Comics supervillains]]
+
+{{Marvel-villain-stub}}

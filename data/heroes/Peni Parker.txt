@@ -1,0 +1,70 @@
+{{short description|Marvel Comics superhero}}
+{{Infobox comics character <!--Wikipedia:WikiProject Comics-->
+|image = PeniParker.jpeg
+|imagesize = 230
+|caption= Peni Parker and Sp//dr. {{Descript-cvr|Edge of Spider-Geddon|1|2|October 2018|art=[[Jake Wyatt]]|pub=Marvel}}
+|character_name=SP//dr
+|real_name=Peni Parker
+
+| publisher      =[[Marvel Comics]]
+| creators       =[[Gerard Way]]<br> Jake Wyatt
+| debut          = ''[[Edge of Spider-Verse]]'' #5 (October 2015)
+
+| species        = {{Plainlist|
+* '''Peni:'''
+* [[Female]] [[Mutate (comics)|Human Mutate]]
+* '''SP/dr:'''
+* [[Spider]] / [[Robot]]
+}}
+| homeworld      =Earth-14512 (Comics), <br /> Earth-3145 ([[Spider-Man: Into the Spider-Verse |Film]])
+| partners       = {{Plainlist|
+* [[Miles Morales]]
+* [[Spider-Man Noir]]
+* [[Spider-Ham]]
+* [[Spider-Woman (Gwen Stacy)|Spider-Gwen]]
+}}
+| powers         = {{Plainlist|
+* '''Peni:'''
+* Spider Sense 
+* Genius Intellect
+* Psychic Connection with SP//dr
+* Enhanced Strength in SP//dr
+'''SP/dr:'''
+*Psychic Connection with Peni
+}}
+}}
+'''Peni Parker''' is a fictional character from [[Marvel Comics]], a superhero and [[Alternative versions of Spider-Man|alternate version]] of [[Spider-Man]]. The character is depicted as a [[Japanese-American]] high school student who was adopted by [[Aunt May#Spider-Verse|Aunt May]] and [[Uncle Ben#Spider-Verse|Uncle Ben]] following the death of her parents. She pilots a psychically-powered mech suit known as the '''SP//dr''', which is partially controlled by a radioactive spider that also shares a psychic link with the pilot.<ref name="eosv5">''Edge of Spider-Verse'' #5 (2014)</ref>
+
+==Publication history==
+SP//dr was created by [[Gerard Way]] and artist [[Jake Wyatt]] in the ''[[Spider-Verse]]'' comic book ''Edge of Spider-Verse'' #5 in October 2015. Way announced that SP//dr "is {{sic|comprised |hide=y|of}} three vital components: a pilot, a machine, and a radioactive sentient spider acting as one half of the brain that makes it all work."<ref>{{cite web |title=Gerard Way Makes his Marvel Debut with Edge of Spider-Verse #5 {{!}} News {{!}} Marvel |url=https://www.marvel.com/articles/comics/gerard-way-makes-his-marvel-debut-with-edge-of-spider-verse-5 |website=Marvel Entertainment |accessdate=18 January 2019 |language=en}}</ref> <ref>{{cite web |title=Gerard Way Discusses His Marvel Debut with "Edge of Spider-Verse" |url=https://www.cbr.com/gerard-way-discusses-his-marvel-debut-with-edge-of-spider-verse/ |website=CBR |accessdate=18 January 2019 |date=26 June 2014}}</ref> SP//dr’s story is reprised in the ''[[Spider-Geddon]]'' comic book, ''Edge of Spider-Geddon'' #2 by [[Alberto Albuquerque]]. <ref>{{cite web |title=Jake Wyatt Departs Sp//dr-Focused Edge of Spider-Geddon #2 |url=https://www.cbr.com/jake-wyatt-exits-edge-of-spider-geddon/ |website=CBR |accessdate=18 January 2019 |date=2 August 2018}}</ref>
+
+== Fictional character biography ==
+Peni's father as the original SP//dr, protected the city of New York from crime and other dangers. After his mysterious death, his daughter, Peni Parker was approached by her [[Aunt May#Spider-Verse|aunt]] and [[Uncle Ben#Spider-Verse|uncle]] to be the new pilot of the SP//dr. In order to do so, she needed to be bitten by the sentient radioactive spider which controlled part of the suit. After being bitten, she became the new protector of the city. She eventually teams up with [[Alternative versions of Daredevil#Spider-Verse|Daredevil]] – who had known her father – to take some criminals down and, eventually, battle [[Mysterio#Spider-Verse|Mysterio]]. Then, when taking a subway to go to her school, she's approached by [[Spider-Ham]] and Old Man Spider to join the Spider-Army to fight the [[Inheritors (comics)|Inheritors]].
+
+After the events of [[Spider-Verse]], in school she's approached by a girl named ''Addy Brock''. She asked Peni if she was really the SP//dr pilot, but Peni ignored her and then Addy stated that Peni is not as special as she thinks. She tries to talk to Ben and May about being special, but she gets ignored. When improving the Web Shooters on the SP//dr, she notices Addy walking in the base and follows her only to find another mech-suit similar to the SP//dr, but black with the name [[Alternative versions of Venom#Spider-Geddon|VEN#m]] and then she gets furious at her aunt and uncle for not telling her about the new suit. When a kaiju-like creature named [[Morbius the Living Vampire#Spider-Geddon|M.O.R.B.I.O.U.S.]] started to drain the city's electrical energy, SP//dr went after it, but was quickly pushed aside. In order to defeat M.O.R.B.I.O.U.S., they send VEN#m to defeat the creature. It was successful in stopping the monster, but the creature caused VEN#m to malfunction, resulting in the mech suit eventually gaining a mind of its own. The black suit started to consume Addy, and when May went to fix the problem manually, it started to consume her as well. SP//dr started to battle VEN#m, but the black mech suit was more powerful and it nearly destroyed SP//dr. Afterwards, Peni, then remembering the improved Web Shooters, was able to defeat VE#m, but was too late to save her Aunt May and Addy. Peni and Ben have a heart to heart moment, but then the Web-Warriors appear to recruit Peni again to help defeat the Inheritors who had returned in the event of [[Spider-Geddon]].
+
+==In other media ==
+===Film ===
+Peni Parker and SP//dr (the latter being designed by the former's late father and housing the radioactive spider Peni has a psychic link to) appeared in the computer-animated superhero film ''[[Spider-Man: Into the Spider-Verse]]'', with [[Kimiko Glenn]] voicing Peni.<ref name="MulaneyGlenn">{{cite web|url=https://screenrant.com/spider-man-into-spider-verse-spider-man-noir-spider-ham-peni-parker/|title=Into the Spider-Verse: Spider-Man Noir, Spider-Ham & Peni Parker Confirmed|website=Screen Rant|last=Freeman|first=Molly|date=July 20, 2018|accessdate=July 20, 2018|archiveurl=https://www.webcitation.org/714A3oKDH?url=https://screenrant.com/spider-man-into-spider-verse-spider-man-noir-spider-ham-peni-parker/|archivedate=21 July 2018|deadurl=no|df=dmy-all}}</ref><ref name="PeniParkerDescription">{{cite news |last1=Peters |first1=Megan |title=‘Spider-Man: Into the Spider-Verse’ Debuts Its Anime Heroine |url=https://comicbook.com/anime/2018/10/02/spider-man-into-the-spider-verse-anime-peni-parker/ |accessdate=October 2, 2018 |work=''Comicbook.com'' |date=October 2, 2018 |archive-url=https://web.archive.org/web/20181002185739/https://comicbook.com/anime/2018/10/02/spider-man-into-the-spider-verse-anime-peni-parker/ |archive-date=2 October 2018 |dead-url=no |df=dmy-all }}</ref> She arrives in [[Miles Morales]]' universe along with [[Spider-Ham]] and [[Spider-Man Noir]].
+
+===Video games===
+SP//dr is a playable character in the mobile game ''[[Spider-Man Unlimited (video game)|Spider-Man Unlimited]]''.
+
+== Toys ==
+[[Hasbro]] released a Build a Figure of the SP//dr in the [[Marvel Legends]] line. Hasbro also released the film version of SP//dr. <ref> [https://www.amazon.com/Spider-Man-Spider-Verse-Parker-Scale-Figure/dp/B076KKX4XP/ref=sr_1_cc_1?s=aps&ie=UTF8&qid=1549158941&sr=1-1-catcorr&keywords=Sp%2F%2Fdr "Spider-Man: Into The Spider-Verse SP//Dr and Peni Parker 6"-Scale Super Hero Figure Toy] [[Amazon (company)| Amazon.com]] </ref>
+
+== References == 
+{{reflist}}
+
+== External links ==
+* [https://marvel.wikia.com/wiki/Peni_Parker_(Earth-14512) Peni Parker] at Marvel Wiki
+{{Spider-Man characters}}
+
+[[Category:Incarnations of Spider-Man]]
+[[Category:Child superheroes]]
+[[Category:Japanese superheroes]]
+[[Category:Fictional characters from New York City]]
+[[Category:Comics characters introduced in 2015]]
+[[Category:Fictional American people of Japanese descent]]
+[[Category:Marvel Comics superheroes]]
+[[Category:Fictional characters from parallel universes]]

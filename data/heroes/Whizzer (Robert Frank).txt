@@ -1,0 +1,70 @@
+{{Infobox comics character| <!--Wikipedia:WikiProject Comics-->
+image=TheWhizzer.jpg
+|caption=The Whizzer (Robert Frank), from ''USA Comics'' #1 (Aug. 1941). Art by [[Al Avison]] & [[Al Gabriele]].
+|character_name=Whizzer
+|real_name=Robert L. Frank
+|publisher=[[Timely Comics]] ([[Marvel Comics]])
+|debut=''[[USA Comics]]'' #1 (Aug. 1941)
+|creators=[[Al Avison]] (penciller; writer unknown)
+|alliances=[[Liberty Legion]]<br/>[[Invaders (comics)|Invaders]]<br/>[[All-Winners Squad]]<br/>[[Avengers (comics)|Avengers]]
+|aliases=
+|powers=Self-taught hand to hand combatant<br>Superhuman speed and reflexes
+|}}
+The '''Whizzer''' is a [[fictional superhero]] appearing in [[American comic book]]s published by [[Marvel Comics]]. He first appeared during the period that fans and historians call the [[Golden Age of Comic Books]].
+
+==Publication history==
+The first Whizzer (Robert Frank) [[first appearance|debuted]] in ''[[USA Comics]]'' #1 (Aug. 1941), published by [[Timely Comics]]. The character was created by [[penciller]] [[Al Avison]] and an unnamed writer.<ref name=whizcredit>{{cite web|url=http://www.toonopedia.com/whizzer.htm |title=The Whizzer|publisher= [[Don Markstein's Toonopedia]] |archiveurl=https://www.webcitation.org/5lZ1gqOb4 |archivedate=November 25, 2009|deadurl=no}} Source lists "[[Al Avison]] and Al Gabrielle" as that character's creator. However, [http://www.comics.org/issue/1580/ ''USA Comics'' #1 (Aug. 1941)] at the [[Grand Comics Database]] lists Avison as [[penciler]] for the character's debut, and Gabriele solely as [[inker]], not generally considered a co-creator position.</ref> One source credits [[Stan Lee]] as that writer,<ref>{{cite web|url=http://www.lambiek.net/artists/l/lee_s.htm|title=Stan Lee| accessdate= 2007-06-09| date= 2006-10-29| publisher=[[Lambiek Comiclopedia]]|archiveurl=https://www.webcitation.org/62XP0UklS | archivedate = October 18, 2011| deadurl=no}}</ref> but there are no other sources to support the credit. Timely published solo adventures of the Whizzer throughout the first half of the 1940s, then, in 1946, made the character part of the superhero team the [[All-Winners Squad]] in the final two issues of ''[[All Winners Comics]]''. These were the character's last appearances during the 1940s.
+
+Writer [[Roy Thomas]] reintroduced the Golden Age Whizzer in ''Giant-Size Avengers'' #1 (Aug. 1974). Two years later, in ''The Avengers Annual'' #6 (Nov. 1976), writer [[Gerry Conway]] reinterpreted the character's origin and history so that the "transfusion of mongoose blood" was not the source of the power, but the factor that "triggered a latent mutant ability". Thomas, in the [[World War II]] [[Flashback (narrative)|flashback]] series ''[[Invaders (comics)|The Invaders]]'' #5–6 (March–May 1976), expanded on the character's wartime career as a sometime-member of the retroactively created superhero team the Invaders. Thomas later additionally made the Whizzer a full-time member of the home-front heroes the [[Liberty Legion]], in ''[[Marvel Premiere]]'' #29–30 (April–June 1976). Neither team had existed in Timely Comics.
+
+==Fictional character biography==
+Robert L. Frank was born in [[St. Louis, Missouri]]. The origin of the [[Golden Age of comic books|Golden Age]] character begins while Robert Frank is on a trip to [[Africa]] with his father, Dr. Emil Frank, where Robert is bitten by a [[cobra]]. Dr. Frank saves Robert by a transfusion of [[mongoose]] blood, and soon discovers that his son has developed super-speed. Frank then decides to fight crime and eventually accepts the offer of Invaders member [[Bucky Barnes|Bucky]], who forms the superhero team the [[Liberty Legion]] to rescue the other Invaders, who have been brainwashed by the villain the [[Red Skull]].<ref>''Marvel Premiere'' #29–30 (Apr.–June 1976).</ref> When the Liberty Legion and Invaders eventually disband after World War II, the Whizzer joins the newly formed [[All-Winners Squad]].<ref>{{Comic book reference| Title = All Winners Comics| Issue = 19 (Fall 1946) & #21| Date = Winter 1946–47| Publisher = Timely Comics}}</ref> The Whizzer afterward spent some years battling [[alcoholism]] and [[Depression (mood)|depression]], and was, for some time, homeless in the [[Bowery]] section of [[Manhattan]].<ref name="mnyc">{{cite book | last = Sanderson | first = Peter | authorlink = | coauthors = | title = The Marvel Comics Guide to New York City | publisher = [[Pocket Books]] | year = 2007 | location = New York City | pages = 18 | url = | doi = | id = | isbn = 1-4165-3141-6}}</ref> He also works as a nuclear laboratory technician.
+
+In the modern age, the Whizzer reappears as an aging hero who had married fellow superhero [[Miss America (Madeline Joyce)|Miss America]]. The Whizzer encounters and briefly serves with the [[Avengers (comics)|Avengers]], who aid him in controlling his son [[Nuklo]]. He is reunited with Nuklo, but suffers a heart attack. At the end of this adventure, the Whizzer erroneously believes himself to be the father of the mutant twins [[Quicksilver (comics)|Quicksilver]] and the [[Scarlet Witch]].<ref>''Giant-Size Avengers'' #1 (Aug. 1974).</ref>
+
+The Whizzer was later duped by the [[Living Laser]] into battling the Avengers,<ref>''Avengers'' #152 (Oct. 1976)</ref> and suffers a second heart attack.<ref>''Avengers'' #153 (Nov. 1976).</ref> He then battled the [[Homo mermanus|Atlanteans]] and [[Namor]] alongside the Avengers.<ref>''Avengers'' #155–156 (Jan.–Feb. 1977).</ref> After a humbling defeat at the hands of the supervillain [[Count Nefaria]]<ref>{{Comic book reference| Title = The Avengers| Issue = 165| Date = Nov. 1977| Publisher = }}</ref> the Whizzer retires.<ref>{{Comic book reference| Title = The Avengers| Issue = 173| Date = July 1978| Publisher = }}</ref>
+
+He later returns to fight a final battle against an old war-time foe called [[Isbisa]]. The Whizzer dies after suffering a fatal heart attack while fighting Isbisa, but his sacrifice enables his son Nuklo to be cured of his excessive radiation level and begin a normal life. The Whizzer died believing Quicksilver and the Scarlet Witch were his children.<ref>{{Comic book reference| Title = The Vision and the Scarlet Witch| Issue = 2| Date = Dec. 1982| Publisher = }}</ref>
+
+[[Arnim Zola]] later created a proto-husk of Whizzer from his DNA. The Whizzer clone has no lines and is killed by [[Deadpool]] who mocks him as "a legend to make mercs laugh at night".<ref>''Deadpool'' #0 (1998).</ref>
+
+==Powers and abilities==
+Due to a reaction between his latent genetic mutation and an injection of mongoose blood, Robert Frank has the ability to move at superhuman speed and has superhuman reflexes. He can create cyclones by running in circles, and can run up walls and across water. In his prime, he could attain speeds faster than he could in middle age, running at approximately 100&nbsp;mph.
+
+The Whizzer has learned a unique, self-taught fighting style that exploits the ability to move at superhuman speeds.
+
+==Other versions==
+
+===Amalgam===
+In the [[DC Comics]]/Marvel Comics jointly published Amalgam Comics miniseries, the Whiz is an amalgamation of the Robert Frank Whizzer and the Golden Age [[Flash (Jay Garrick)|Flash]],{{citation needed|date=September 2014}} and is a member of the [[All-Star Squadron|All Star]] [[All-Winners Squad|Winners Squad]].<ref>''Super Soldier: Man of War'' #1 (June 1997)</ref>  His sole appearance was in ''Super Soldier: Man of War'' #1 (June 1997).
+
+===Marvel Zombies===
+In ''Marvel Zombies 3'' the zombified Whizzer appears alongside [[Speed Demon (comics)|Speed Demon]] and Quicksilver chasing down [[Machine Man]], before being killed after diving under [[Ghost Rider]]'s bike, causing all four of the zombies to explode.<ref>''Marvel Zombies 3'' #3 (Feb 2009)</ref>
+
+==In other media==
+
+* An elderly, long-retired Robert Frank is featured in the "Six Forgotten Warriors" episodes of ''[[Spider-Man (1994 TV series)|Spider-Man]]'', voiced by [[Walker Edmiston]]. In this version, the Whizzer's powers are the result of an attempt at recreating the process that empowered [[Captain America]] in which he was among the five people (which included [[Black Marvel]], [[Destroyer (Marvel Comics)|Destroyer]], [[Miss America (Madeline Joyce)|Miss America]], and [[Thunderer (Marvel Comics)|Thunderer]]) to go through this process. However, their powers are limited in how long they can use them. In order to remedy this, special rings are used to activate their powers and ration them. After Captain America "sacrifices" himself to stop the Red Skull from activating his doomsday device, he and the other heroes take the keys and retire. Years later, he is shown tutoring a kid on how to draw the heroes of this time until [[Rhino (comics)|Rhino]] comes and forces the key out of his possession. He joined up with the other heroes to fight both [[Kingpin (character)|Kingpin]]'s [[Sinister Six|Insidious Six]] and Red Skull's forces.
+
+* Robert Frank appears in the ''[[Ultimate Spider-Man (TV series)|Ultimate Spider-Man]]'' episode "S.H.I.E.L.D. Academy", voiced by [[Robert Patrick]]. During World War II, Robert Frank as the Whizzer was a superhero alongside Captain America, Bucky, Miss America, and the [[Human Torch (android)|Human Torch android]]. In the present, Robert Frank is a teacher at the [[Triskelion (comics)|Triskelion]]'s S.H.I.E.L.D. Academy. When Arnim Zola is reactivated, Spider-Man learns from Robert Frank's scrapbook that the Whizzer had fought Arnim Zola. During Spider-Man's fight with Zola's synthezoids, Whizzer arrives to help. Whizzer tells Spider-Man, Iron Spider, Agent Venom, and Power Man to target the ESP Box on Zola. Upon Amadeus Cho activating a signal in his Iron Spider armor, Zola loses control of the synthezoids, causing them to become unstable.  Whizzer takes the opportunity to punch Arnim Zola. As the laboratory is exploding, Spider-Man gets Whizzer out of the laboratory. Whizzer later thanks Spider-Man for saving his life.
+
+
+<!-- DO NOT ADD Jessica Jones information here! The character's name is Robert Coleman and therefore will be on Whizzer (comics) page! -->
+
+==References==
+{{Reflist}}
+
+==External links==
+* [http://marvel.com/universe/Whizzer_%28Robert_Frank%29 Whizzer (Robert Frank)] at Marvel.com
+* [http://marvel.wikia.com/wiki/Robert_Frank_%28Earth-616%29 Whizzer (Robert Frank)] at Marvel Wiki
+* [http://comicvine.gamespot.com/robert-frank/4005-14422/ Whizzer (Robert Frank)] at Comic Vine
+
+{{Invaders}}
+{{GoldenAge}}
+
+[[Category:Comics characters introduced in 1941]]
+[[Category:Fictional characters from Missouri]]
+[[Category:Golden Age superheroes]]
+[[Category:Marvel Comics characters who can move at superhuman speeds]]
+[[Category:Marvel Comics mutates]]
+[[Category:Marvel Comics superheroes]]
+[[Category:Timely Comics characters]]

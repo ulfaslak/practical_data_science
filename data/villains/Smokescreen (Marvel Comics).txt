@@ -1,0 +1,27 @@
+{{Orphan|date=October 2011}}
+
+{{Infobox comics character| <!--Wikipedia:WikiProject Comics-->
+image=
+|caption=
+|character_name=Smokescreen
+|real_name=Unknown
+|publisher=[[Marvel Comics]]
+|debut=''[[Spider-Man Storm and Power Man Battle Smokescreen]]'' 1982
+|creators=
+|alliances=
+|aliases=
+|powers=<br />
+* No apparent supernatural powers, uses smoke(from an unknown source) to disable enemies
+}}
+
+'''Smokescreen''' is a [[fictional character]] that appeared in [[comic books]] published by [[Marvel Comics]].  Smokescreen is a criminal looking to take over the illegal gambling business. He appears in the public service comic ''Spider-Man Storm and Power Man Battle Smokescreen'' and was created to make readers aware of the dangers of smoking. He momentarily captures [[Storm (Marvel Comics)|Storm]] then is captured by [[Spider-Man]] with the assistance of [[Power Man]] who then hand him over into police custody.
+
+== References ==
+{{reflist}}
+
+== External links ==
+* [http://www.spiderfan.org/comics/reviews/spiderman_social_acs/smokescreen.html spiderfan.org comic review]
+
+[[Category:Marvel Comics supervillains]]
+
+{{Marvel-villain-stub}}

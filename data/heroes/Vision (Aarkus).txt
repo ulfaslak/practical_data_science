@@ -1,0 +1,62 @@
+: ''This article is about the original 1940s Vision. For the modern-day comic-book character, see [[Vision (Marvel Comics)]].''
+{{more citations needed|date=January 2018}}
+{{Infobox comics character <!--Wikipedia:WikiProject Comics-->
+|image           = Vision (Aarkus).jpg
+|caption         = {{Descript-inner-art|All-New Invaders|1|2|April, 2014|pub=Marvel|art=[[Steve Pugh]]}}
+|character_name  = The Vision
+|real_name       = Aarkus
+|publisher       = [[Marvel Comics]]
+|debut           = ''Marvel Mystery Comics'' #13<br> (November 1940)
+|creators        = [[Joe Simon]] (writer)<br>[[Jack Kirby]] (artist)
+|alliances       = Battle-Axis<br>[[Invaders (comics)|Invaders]]
+|aliases         = 
+|powers          = {{plain list|
+* Flight
+* Cold and ice generation
+* Teleportation via smoke
+* Ability to generate illusory images of himself
+}}
+|}}
+
+'''The Vision''' ('''Aarkus''') is a fictional [[superhero]] appearing in [[American comic book]]s published by [[Marvel Comics]]. Created by the writer [[Joe Simon]] and artist [[Jack Kirby]], the character first appeared during the [[Golden Age of comic books]] in ''[[Marvel Mystery Comics]]'' #13 (Nov. 1940), published by Marvel predecessor [[Timely Comics]].
+
+== Publication history ==
+[[File:Marvel Mystery 13 (November 1940) -page 1.jpg|upright|thumb|left|The Vision (Aarkus) debuts in ''Marvel Mystery Comics'' #13 (Nov. 1940). Art by [[Jack Kirby]].]]
+The Vision debuted in a short comic story in ''Marvel Mystery Comics'' #13 (Nov. 1940), and continued as a regular feature in that superhero [[anthology]] through issue #48 (Oct. 1943). He also starred in an eight-page story in ''Kid Comics'' #3 (no month given; previous issue dated Summer 1943).
+
+Two decades later, he appeared in a [[Flashback (narrative)|flashback]] story in the superhero-team series ''[[Invaders (comics)|The Invaders]]'' vol. 2, #3 (July 1993), set during [[World War II]]. He returns with the other Invaders in the miniseries ''Invaders Now!'', beginning with issue #1 (Nov. 2010). He appeared in several issues of the [[Marvel NOW!]] relaunch of ''[[X-Men: Legacy]]'', before appearing in the ''All-New Invaders'' series in 2014.
+
+==Fictional character biography==
+The Golden Age Vision, also known as Aarkus, is an alien [[law enforcement officer]] from a dimension called Smokeworld. While Aarkus is looking for a suitable place to exile a prisoner, he is accidentally contacted by an Earth scientist named Markham Erickson. Leaving the prisoner on the planet Jupiter, Aarkus accepts Erickson's invitation to fight crime on Earth.<ref>''[[Marvel Mystery Comics]]'' #13 (Nov. 1940)</ref> Aarkus does so for several years, although during World War II he is briefly manipulated by the [[Axis powers of World War II|Axis]] powers into fighting the [[Allies of World War II|Allies]]. The superhero team the [[Invaders (comics)|Invaders]] help Aarkus realize his mistake.<ref>''[[Invaders (comics)|The Invaders]]'' vol. 2, #3 (July 1993)</ref>
+
+A [[simulacrum]] of the Vision was temporarily created by [[Rick Jones (comics)|Rick Jones]], along with those of the [[Blazing Skull]], the [[Fin (comics)|Fin]], and the Golden Age [[Angel (Thomas Halloway)|Angel]] and [[Jeffrey Mace|Patriot]], to aid the superhero team the [[Avengers (comics)|Avengers]] during the [[Kree-Skrull War]].<ref>''[[Avengers (comics)|The Avengers]]'' #97 (March 1972)</ref>
+
+In the present day, it is revealed that he inhabits the sewers under New York, taking care of a Cosmic Cube that is feeding off the feelings of people affected by the death of [[Captain America]]. Following a period in which he traveled through time, he is seen with the newly resurrected [[Toro (comics)|Toro]].<ref>''Torch'' # 1</ref> He plays a supporting role in 2012's ''[[X-Men: Legacy]]'', first opposing and later aiding main character [[Legion (Marvel Comics)|Legion]]. During the story, he falls into a coma and is confined to the medical wing of the [[Jean Grey School for Higher Learning]].
+
+After awaking from his coma, Aarkus is approached by the [[Bucky Barnes|Winter Soldier]] for help in getting the surviving members of the Invaders to the [[Kree]] home world to rescue [[Namor]]. It is revealed during this time that in World War II, Aarkus had mindwiped the Invaders (with their consent) in order to hide the location of an ancient Kree weapon called the God's Whisper, that had granted [[Baron Von Strucker]] the power to control gods. The Invaders then attack Kree in order to free Namor and recover the weapon.<ref>''All-New Invaders'' #2–3 (February–March 2014)</ref> It is later revealed that Aarkus was working with the Eternals on using the God's Whisper to manipulate [[Galactus]].<ref>''All-New Invaders'' #13</ref>
+
+== Powers and abilities==
+The Vision can generate illusory images of himself, fly, generate ice and extreme cold, and teleport wherever there is smoke.{{citation needed|date=September 2015}}
+
+==References==
+{{Reflist}}
+
+==External links==
+*[https://web.archive.org/web/20101017134520/http://www.reocities.com/jjnevins/vision.html Vision ] at *[[Jess Nevins|Nevins, Jess]]. [https://www.webcitation.org/5s9XVUvJu?url=http://www.reocities.com/Athens/Olympus/7160/gaguide.html A Guide to Golden Age Marvel Characters]. . [https://www.webcitation.org/5s9XVUvJu?url=http://www.reocities.com/Athens/Olympus/7160/gaguide.html WebCitation archive] of latter.
+*[http://www.toonopedia.com/vision1.htm The Golden Age Vision] at [[Don Markstein's Toonopedia]]
+*Theakston, Greg. [http://comics.org/details.lasso?id=1102#4 ''Marvel Mystery Comics'' #13] at the [[Grand Comics Database]]
+
+{{GoldenAge}}
+{{Jack Kirby}}
+
+{{DEFAULTSORT:Vision (Golden Age)}}
+[[Category:Comics characters introduced in 1940]]
+[[Category:Characters created by Jack Kirby]]
+[[Category:Characters created by Joe Simon]]
+[[Category:Extraterrestrial superheroes]]
+[[Category:Golden Age superheroes]]
+[[Category:Marvel Comics aliens]]
+[[Category:Marvel Comics superheroes]]
+[[Category:Timely Comics characters]]
+
+[[fr:Vision (comics)]]

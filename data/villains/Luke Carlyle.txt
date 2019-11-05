@@ -1,0 +1,39 @@
+{{Infobox comics character| <!--Wikipedia:WikiProject Comics-->
+|image=
+|caption=
+|character_name=Luke Carlyle
+|real_name=Lucas "Luke" Carlyle
+|species=Human
+|publisher=[[Marvel Comics]]
+|debut=''Amazing Spider-Man'' vol. 2 #43 (Oct 2002)
+|creators=[[J. Michael Straczynski]] (writer)<br>[[John Romita Jr.]] (artist)
+|alliances=
+|aliases=Carlyle Calamari
+|powers=Six machine extendable steel tentacles that fire powerful jolts of energy
+}}
+'''Luke Carlyle''' is a fictional character from [[Marvel Comics]]. Created by [[J. Michael Straczynski]] and [[John Romita Jr.]], he first appeared in ''[[The Amazing Spider-Man]]'' vol. 2 #43.<ref name="ASM">{{Comic book reference|writer=[[J. Michael Straczynski]]|penciller=[[John Romita Jr.]]|title=[[The Amazing Spider-Man]] (second series) #43-45|date=Oct-Nov 2002|publisher=[[Marvel Comics]]}}</ref>
+
+==Fictional character biography==
+Luke Carlyle <ref name="Amazing Spider-Man vol. 2 #43">Amazing Spider-Man vol. 2 #43</ref> is a thief and [[confidence trick|con man]] who worked his way up the corporate ladder, eventually rising to a trusted position.<ref name="Amazing Spider-Man vol. 2 #43"/> When the CEO of the company he worked at discovered Carlyle was a fraud, Luke killed him. Lacking the time to act, and with most of the company's assets either gone or unreachable, Carlyle then hired [[Doctor Octopus|Otto Octavius]] under the guise of helping to make him a legitimate researcher, and stole his mechanical appendages. Carlyle had the scientists at his company copy Octavius' [[cybernetics|cybernetic controller]], something that "looked like it was made in the 1960s", into a new six-armed [[powered exoskeleton|power suit]]; his company had managed to duplicate most of the tentacles, but the cybernetic interface had required a direct look at the original device. He went on to commit a major bank robbery, but Octavius, who had been left alive but trapped in a small container with limited oxygen in case Carlyle needed to talk to him later about any problems the tentacles might develop, managed to escape imprisonment, having lied about the limitations of his control over his tentacles to claim that steel totally blocked his ability to control them when it actually just made it more difficult.<ref name="Amazing Spider-Man vol. 2 #46">Amazing Spider-Man vol. 2 #46</ref> The subsequent fight between the two Doctors after Octavius tracked Carlyle to his hotel was relatively evenly matched, with Carlyle's superior technology being countered by Octavius's superior experience, but became more dangerous when [[Spider-Man]]- who was visiting [[Mary Jane Watson|his estranged wife]] during a movie shooting in Los Angeles- intervened, Spider-Man being nearly crushed in a collapsing hotel when he stayed behind to try and hold up support beams to give the civilians time to evacuate.<ref name="Amazing Spider-Man vol. 2 #46"/> Despite a last attempt to escape by taking [[Aunt May|May Parker]] hostage, Carlyle was finally defeated by a combined effort between Octavius and Spider-Man, with Octopus cracking Luke's suit and Spider-Man filling the suit with webbing via the crack (although Octavius informed Spider-Man that he only gave him this information to hurt Carlyle rather than to help him).<ref>Amazing Spider-Man vol. 2 #47</ref>
+
+==In other media==
+===Video games===
+* Lucas "Luke" Carlyle (also called '''Carlyle the Mad Bomber''') appears as himself in the ''[[Spider-Man 3 (video game)|Spider-Man 3]]'' video game voiced by [[Neil Ross]]. In the game, he was a wealthy business man whose business was destroyed when [[J. Jonah Jameson]] posted stories in the Bugle that got City Hall to investigate him. Fueled with revenge, he and his hired henchman go on a bombing spree. First he blows up his own building, which Spider-Man investigate where he stops some of his henchmen and saved one woman tied to a bomb. Later on, Jameson received an anonymous call that there were bombs planted all over the subway. Peter hears this call and rushes to the subway where he disarms all the bombs. Spider-Man later finds more of Luke's henchmen planting bombs all over the city using jet packs, but he is able to stop them and the bombs. It isn't until a chemical plant is under attack that Spider-Man finally meets Carlyle, where he and his henchmen were trying to steal a tank, but they are once again stopped. Luke escapes in a helicopter but not before throwing a bomb at Spider-Man, who escapes after the entire factory caves in. The final act shows Luke attacking the ''[[Daily Bugle]]'', planting bombs, and kidnapping Jameson, a cutscene revealing that he is a former industrialist seeking revenge on Jameson after Jameson's editorials revealed that his factories were causing mass pollution. After Spider-Man disarms all the bombs at the ''Bugle'', he chases after Luke's helicopter. Luke then places a neck brace on Jameson that will explode if he gets far away from him. He then throws Jameson out of the helicopter, but is caught by Spider-Man. After chasing the helicopter, Carlyle starts flying the helicopter around a building, occasionally firing missiles at Spider-Man from the helicopter, only for Spider-Man to defeat him by using his webbing to throw the missiles back at their source. Carlyle and the henchmen aboard managed to escape using jet packs, but Carlyle then sets off explosives in their suits stating that he was "handing them their walking papers", while he escaped. The appearance of Luke in the game is slightly based on a villain called Turbo Jet who appears in ''[[Spider-Man: The New Animated Series]]''.
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://www.spiderfan.org/characters/carlyle.html Luke Carlyle] at SpiderFan.org
+
+{{Spider-Man}}
+{{John Romita Jr.}}
+
+{{DEFAULTSORT:Carlyle, Luke}}
+[[Category:Characters created by J. Michael Straczynski]]
+[[Category:Fictional business executives]]
+[[Category:Comics characters introduced in 2002]]
+[[Category:Marvel Comics supervillains]]
+[[Category:Fictional con artists]]
+[[Category:Fictional murderers]]
+[[Category:Characters created by John Romita Jr.]]

@@ -1,0 +1,94 @@
+{{Notability|date=August 2018}}
+{{In-universe|date=August 2018}}
+{{Infobox comics character <!--Wikipedia:WikiProjectComics-->
+|image = AmazingSpider-Man103.jpg
+|caption = Cover of ''The Amazing Spider-Man'' #103, the first appearance of Gog. Art by Gil Kane.
+|character_name = Gog
+|publisher = [[Marvel Comics]]
+|debut = ''[[The Amazing Spider-Man]]'' #103 (December 1971)
+|creators = [[Roy Thomas]] (writer)<br>[[Gil Kane]] (artist)
+|species = Tsilin
+|full_name =
+|height =
+|weight =
+|alliances = [[Sinister Six]]
+|aliases = 
+|powers = Superhuman strength<br>Interdimensional teleportation via bracelets
+}}
+'''Gog''' is a [[fictional character]], a [[comic book]] [[supervillain]] appearing in [[American comic book]]s published by [[Marvel Comics]].
+
+==Publication history==
+Created by writer [[Roy Thomas]] and [[Gil Kane]], the character first appears in ''[[The Amazing Spider-Man]]'' #103.
+
+==Fictional character biography==
+While traveling through the [[Savage Land]], [[Kraven the Hunter]] finds a crashed space ship in [[quicksand]] and ventures inside. There, he finds the juvenile and minuscule Gog and another member of species, who had apparently died during the space ship crash landing. Deciding to save the young Gog from his sinking ship, Kraven takes him with him, names him Gog and decides to raise him as a pet; much to Kraven's surprise, Gog rapidly grows to gigantic size only days after being found by him.<ref name = "BeautyBrute">{{Cite comic
+ | Writer = Roy Thomas
+ | Penciller = Gil Kane
+ | Inker = Frank Giacoia
+ | Story = The Beauty And The Brute
+ | Title = The Amazing Spider-Man
+ | Volume = 1
+ | Issue = 104
+ | Date = January, 1972
+ | Publisher = Marvel Comics
+ }}</ref> Kraven, realizing how useful Gog can be, decides to use him in a plot to conquer the Savage Land. After kidnapping the visiting [[Gwen Stacy]] from a camp in the Savage Land, Kraven and Gog battle the heroes [[Ka-Zar (comics)|Ka-Zar]] and [[Spider-Man]].<ref>{{Cite comic
+ | Writer = Roy Thomas
+ | Penciller = Gil Kane
+ | Inker = Frank Giacoia and Tony Mortellaro
+ | Story = Walk The Savage Land! and Gog
+ | Title = The Amazing Spider-Man
+ | Volume = 1
+ | Issue = 103
+ | Date = December, 1971
+ | Publisher = Marvel Comics
+ }}</ref> While Ka-Zar deals with Kraven, Spider-Man defeats Gog by luring him into a patch of quicksand, which he sinks to the bottom of.<ref name = "BeautyBrute"/>
+
+Gog would later be saved from dying in the quicksand by the [[Plunderer (comics)|Plunderer]]. Having Gog (who created a device that allowed him to speak English) act as his servant, the Plunderer uses him in a plot to try to steal the super soldier serum in [[New York City]]. Followed to New York by Ka-Zar, Gog and the Plunderer battle him before Gog, using his teleportation bracelets, escapes, first to the [[Statue of Liberty]], then the [[World Trade Center (1973–2001)|World Trade Center]] and finally, to another dimension.{{issue|date=August 2013}}
+
+Gog is later found in the dimension he escaped to by [[Doctor Octopus]] and the [[Sinister Six]], who induct the creature into their group as the sixth and final member of it.<ref>{{Cite comic
+ | Writer = Erik Larsen
+ | Penciller = Erik Larsen
+ | Inker = Erik Larsen
+ | Story = The Sixth Member
+ | Title = Spider-Man
+ | Volume = 1
+ | Issue = 22
+ | Date = December, 1992
+ | Publisher = Marvel Comics
+ }}</ref> Aiding the Sinister Six fight a multitude of heroes, Gog is beaten in combat by the hero [[Solo (Marvel Comics)|Solo]] and shrunken by [[Mister Fantastic]], who sends him back to the dimension the Sinister Six found him in.<ref>{{Cite comic
+ | Writer = Erik Larsen
+ | Penciller = Erik Larsen
+ | Inker = Erik Larsen
+ | Story = Confrontation
+ | Title = Spider-Man
+ | Volume = 1
+ | Issue = 23
+ | Date = June, 1992
+ | Publisher = Marvel Comics
+ }}</ref>
+
+Gog later appeared on [[Monster Isle]] when [[Kitty Pryde|Shadowcat]] and [[Magik (comics)|Magik]] appeared to look for a mutant girl named Bo. Gog was among the monsters that attacked the three until Magik teleported herself, Shadowcat, and Bo to the [[X-Mansion|Jean Grey School for Higher Learning]].<ref>''Uncanny X-Men'' Vol. 3 #33</ref>
+
+==Powers and abilities==
+Gog possesses superhuman strength. He also wears bracelets that are capable of granting him interdimensional teleportation.
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://marvel.com/universe/Gog_(Tsiln) Gog] at Marvel.com
+* [http://marvel.wikia.com/wiki/Gog_(Tsiln)_(Earth-616) Gog] at Marvel Wiki
+* [http://www.comicvine.com/gog/4005-56541/ Gog] at Comic Vine
+{{Spider-Man characters}}
+{{Sinister Six}}
+
+[[Category:Comics characters introduced in 1971]]
+[[Category:Fictional mass murderers]]
+[[Category:Marvel Comics aliens]]
+[[Category:Marvel Comics characters who can teleport]]
+[[Category:Marvel Comics characters with superhuman strength]]
+[[Category:Marvel Comics supervillains]]
+[[Category:Fictional monsters]]
+[[Category:Spider-Man characters]]
+[[Category:Characters created by Roy Thomas]]
+[[Category:Characters created by Gil Kane]]

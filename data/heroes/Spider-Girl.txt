@@ -1,0 +1,60 @@
+{{short description|Code name of two fictional Marvel Comics characters}}
+{{distinguish|Spider-Woman}}
+{{about|the Marvel Comics character|the DC Comics character|Spider Girl}}
+{{Infobox comics character <!--Wikipedia:WikiProject Comics-->
+|image=
+|converted=y
+|caption= 
+|real_name= 
+|debut=''[[What If (comics)|What If]]'' (vol. 2) #105<br>(February 1998)
+|creators=
+|alliances=
+|publisher=[[Marvel Comics]]
+|aliases= 
+|powers=
+|cat=super
+|subcat=Marvel Comics
+|hero=y
+|sortkey=Spider-Girl
+}}
+'''Spider-Girl''' is the [[code name]] of two fictional characters in [[comic books]] published by [[Marvel Comics]] in two different universes. One is [[Spider-Girl (Mayday Parker)|Mayday Parker]] from the [[Marvel Comics 2|MC2]] universe and the other is [[Anya Corazon]] in the [[Earth-616]] universe.
+
+==Publication history==
+The first portrayed Spider-Girl, [[Spider-Girl (Mayday Parker)|Mayday Parker]], first appeared in a one-shot story in the ongoing series ''[[What If (comics)|What If]]''. Following positive fan response to the concept, ''Spider-Girl'' and two other series (''[[A-Next]]'' and ''[[J2 (comics)|J2]]'') set in the same alternate future universe were launched under the [[Marvel Comics 2|MC2]] imprint with ''The Amazing Spider-Girl'' and ''Spectacular Spider-Girl''.<ref>{{cite web |url=http://www.comicon.com/cgi-bin/ultimatebb.cgi?ubb=get_topic;f=36;t=004386 |title=Panels &#124; Comic Book, Graphic Novel and Cartooning Discussions – Forums powered by UBB.threads™ |publisher=Comicon.com |date= |accessdate=2013-08-11 |deadurl=yes |archiveurl=https://web.archive.org/web/20120218045707/http://www.comicon.com/cgi-bin/ultimatebb.cgi?ubb=get_topic;f=36;t=004386 |archivedate=2012-02-18 |df= }}</ref> <ref>[http://www.comicbookresources.com/?page=article&id=18419 DeFalco Confirms Amazing Spider-Girl Cancellation], [[Comic Book Resources]], October 13, 2008</ref>  On November 8, 2008, Marvel EIC [[Joe Quesada]] confirmed that Spider-Girl would become a feature in the monthly anthology magazine ''Amazing Spider-Man Family''. The series would replace the feature "[[Mr. and Mrs. Spider-Man]]", written by DeFalco, which served as a prequel series to the Spider-Girl universe. <ref>{{cite web|url=http://www.comicbookresources.com/?page=article&id=20467 |title=Spider-Girl Returns in Marvel Digital Comics |publisher=Comic Book Resources |date= |accessdate=2013-08-11}}</ref>  The title would continue to be simultaneously published in paper form within ''Amazing Spider-Man Family''. ''Amazing Spider-Man Family'' #5 (published April 2009) through #8 (July 2009) contained these Spider-Girl stories until the title's cancellation with issue #8. Followed by one last Spider girl tale, ''Spider-Girl: The End''.
+
+In November 2010, a new ''Spider-Girl'' series was launched that was unconnected to the MC2 universe. The MC2 Spider-Girl title was cancelled, having surpassed publisher expectations for longevity. The new series featured a new character, [[Anya Corazon]], whose adventures occurred on [[Earth 616]]. The series was canceled after only eight issues. No official reason was given for the cancellation. This character returned for a "Spider Island" limited series.<ref>{{cite web|url=http://www.bleedingcool.com/2010/07/16/spider-girl-1-starring-arana-for-november-respectfully-we-informed-you-of-this-event-an-an-earlier-juncture/ |title=Spider-Girl #1 Starring Araña For November – Bleeding Cool Comic Book, Movies and TV News and Rumors |publisher=Bleedingcool.com |date=2010-07-16 |accessdate=2013-08-11}}</ref>
+
+==Spider-Girls==
+*[[Spider-Girl (Mayday Parker)|Mayday Parker]] – the daughter of [[Spider-Man|Peter Parker]] and [[Mary Jane Watson]] from the [[Marvel Comics 2|MC2]] universe.
+*[[Anya Corazon]] – A [[Latina]] superhero who originally called herself Araña.
+
+==In other media==
+===Television===
+* A alternate universe version of Spider-Girl named ''' Petra Parker''' appears in [[Ultimate Spider-Man (TV series)|Ultimate Spider-Man]] Web Warriors voiced by [[Olivia Holt]].
+* Anya Corazon/Spider-Girl appears in  ''[[Spider-Man (2017 TV series)|Marvel's Spider-Man]]'', voiced by [[Melanie Minichino]]. First appearing in "Horizon High" Pt. 1, she is depicted as a top student at Horizon High. She took on the guise of Spider-Girl in the four-part season two arc "Bring on the Bad Guys".{{Citation needed|date=August 2018}}
+
+===Novels===
+* An older, more cynical alternate version of May Parker/Spider-Girl appears in the [[Spider-Man]]/[[X-Men]] team-up novel ''Time's Arrow 3: The Future'' by Tom DeFalco & [[Rosemary Edghill]] ({{ISBN|0-425-16500-0}}). In that novel, Spider-Man travels to the alternate future known for its [[Iron Man 2020]] (Arno Stark). This universe's Earth is designated Earth-8410. In this reality, Spider-Girl wears a costume almost identical to the one worn by [[Spider-Woman (Jessica Drew)|Jessica Drew]], except the colors have been modified to look like Spider-Man's costume. She has the ability to fire venom blasts and webs.
+
+===Video games===
+* Spider-Girl appeared as one of the alternate costumes for Spider-Woman in the multi-platform action-RPG ''[[Marvel: Ultimate Alliance]]''.
+* Spider-Girl appears in ''[[Spider-Man: Shattered Dimensions]]''. She is briefly shown in Madame Web's image of alternate dimensions.
+* Spider-Girl is a playable character in ''[[Marvel Super Hero Squad Online]]''.
+*Both versions of Spider-Girl appear as Spider-Girl in  ''[[Spider-Man Unlimited (video game)|Spider-Man Unlimited]]'', an Endless Runner game for iOS and Android hand-held devices. Mayday Parker is voiced by [[Laura Bailey (voice actress)|Laura Bailey]].<ref>{{cite web|url=https://www.youtube.com/watch?v=MrLHUwSSbyM|title=YouTube|website=www.youtube.com}}</ref><ref>{{cite web|url=http://whateveraspidercan.com/2014/10/12/nycc-2014-spider-girl-spider-man-2099-coming-spider-man-unlimited/|title=NYCC 2014: Spider-Girl and Spider-Man 2099 coming to Spider-Man Unlimited|date=12 October 2014|publisher=}}</ref>
+*Spider-Girl is playable in the online Facebook game ''[[Marvel: Avengers Alliance]]''.
+*Spider-Girl is mentioned the 2018 ''[[Spider-Man (2018 video game)| Spider-Man]]'' video game as a joke, when Mary Jane asks Peter to be her partner.
+
+==See also ==
+*[[Silk (comics)]]
+*[[Spider-Woman]]
+
+==references==
+{{reflist}}
+
+{{Spider-Man characters}}
+{{set-index}}
+
+[[Category:Female characters in comics]]
+[[Category:Spider-Man characters code names]]
+
+{{marvel-char-stub}}

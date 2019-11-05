@@ -1,0 +1,49 @@
+{{Infobox comics character| <!--Wikipedia:WikiProject Comics-->
+image=<!-- Deleted image removed: [[Image: PeregrineHV.jpg]] -->
+|caption=Peregrine of Contest of Champions
+|character_name=Peregrine
+|real_name=Alain Racine
+|species=
+|publisher=[[Marvel Comics]]
+|debut=''[[Marvel Super Hero Contest of Champions|Contest of Champions]]'' #1 (June 1982)
+|creators=[[Mark Gruenwald]]<br>[[Bill Mantlo]]<br>[[Steven Grant]]<br>[[John Romita Jr.]]<br>[[Pablo Marcos]]
+|alliances=[[Wild Pack]]<br>Champions of Europe 
+|partners=[[Silver Sable]]
+|aliases=
+|powers=Talented writer<br>Master of [[savate]]<br>Gifted intellect<br>Costume grants:<br>Flight via anti-gravity devices<br>Goggles<br>Radar detection devices
+}}
+'''Peregrine''' ('''Alain Racine''') is a [[fictional character]] appearing in [[American comic book]]s published by [[Marvel Comics]]. Peregrine first appeared in ''Contest of Champions'' #1 and was created by [[Mark Gruenwald]], [[Bill Mantlo]], [[Steven Grant]], [[John Romita Jr.]], and [[Pablo Marcos]].
+
+==Name==
+The word "peregrine" does not mean "falcon" in French, making the name "Le Peregrine" quite odd to a French reader (the word does exist in French, though it is used to refer to the ''peregrine saltbush'', or ''[[Atriplex suberecta]]'' and not any species of birds); in French translations of comics featuring the character, his name was changed to "''Le Faucon Pèlerin''", meaning "The [[Peregrine falcon|Peregrine Falcon]]".<ref>''Le Tournoi des champions'', French translation of ''Contest of Champions'', éditions Lug, 1982</ref> ''Faucon-pérégrin'' does exist in French as an alternate name for the bird, but is now infrequently used.<ref>[https://books.google.com/books?id=qMHMdkceED0C&pg=PA80 Dictionnaire universel françois et latin, contenant la signification et la définition tant des mots de l'une et de l'autre langue] Latin-French dictionary, 1743</ref> Adding "Le" in front of Peregrine does not make it French as Peregrine is not a French word. The proper use should either be "The Peregrine" or "Le Pèlerin".
+
+==Fictional character biography==
+Alain Racine was born in [[Moulins, Allier|Moulins]], France. He is a writer by profession, but is a superhero, adventurer, and mercenary, using a falcon-like costume with artificial wings giving him the ability to fly.
+
+Peregrine was first seen in the [[Grandmaster (Marvel Comics)|Grandmaster]]'s [[Marvel Super Hero Contest of Champions|Contest of Champions]] against [[Death (Marvel Comics)|Death]] for the life of the [[Collector (comics)|Collector]]. He was chosen to compete on the Grandmaster's side, in the illustrious company of other heroes such as [[Captain America]], [[Captain Britain]], [[Wolverine (character)|Wolverine]], [[Daredevil (Marvel Comics character)|Daredevil]], [[She-Hulk]], and the [[Thing (comics)|Thing]].  He was pitted against another winged opponent, the [[Warren Worthington III|Angel]], but the Angel's greater experience gave him the edge to defeat Le Peregrine.<ref>''Contest of Champions'' #1, 3</ref>
+
+Later, back on Earth, Peregrine encountered [[Silver Sable]], who invited him to become her freelance operative in France. He assisted the archer [[Hawkeye (comics)|Hawkeye]] in destroying a nuclear warhead generator stolen by the [[Red Skull]], and freeing the [[Sandman (Marvel Comics)|Sandman]]—another of Silver Sable's operatives — in the process.<ref>''Solo Avengers'' #6</ref> He accepted an assignment from Silver Sable International to disable a surveillance station in the Persian Gulf. He maneuvered the American navy into destroying the station, and blew up a Stane International tanker.<ref>''Marvel Comics Presents'' #51</ref> Later, Peregrine was compelled by [[Brain Drain (comics)|Brain Drain]]'s psionic powers to battle [[Sasquatch (comics)|Sasquatch]], but was defeated by Sasquatch.<ref>''Alpha Flight'' #108</ref>
+
+During the [[Civil War (comics)|superhero Civil War]], Peregrine was protecting France's borders from refugee U.S. superhumans fleeing the [[Registration acts (comics)|Superhuman Registration Act]].<ref name="civilwarbattledamage">{{Comic book reference | Writer = [[Anthony Flamini]] & [[Ronald Byrd]] | Penciller =  [[Scott Kolins]] | Inker = [[Scott Kolins]] | Story =  | Title = Civil War: Battle Damage Report | Issue = 1 | Date = March 2007 | Publisher = [[Marvel Comics]] | }}</ref> Likewise, he is seen protecting France alongside [[Micromax]] from [[Kang the Conqueror|Kang]]'s armies during the [[Kang Dynasty|Kang War]].<ref>''The Avengers'' #46</ref>
+
+During the ''[[Fear Itself (comics)|Fear Itself]]'' storyline, Peregrine flies [[Black Widow (Natasha Romanova)|Black Widow]] into France when she is sent there on a mission by [[Captain America|Captain Steve Rogers]]. When Black Widow uncovers civilians taken hostage by [[Rapido (comics)|Rapido]] in a cathedral, she has Peregrine help free them while she deals with Rapido.<ref>{{Cite comic|writer = Cullen Bunn|penciller = Peter Nguyen|inker = Peter Nguyen|colorist = Veronica Gandini|letterer = VC's Clayton Cowles|editor = Charlie Beckerman|title = Fear Itself: The Black Widow|volume = 1|issue = #1|date = 29 June 2011|publisher = Marvel Comics|location = United States}}</ref>
+
+During the ''[[Secret Empire (comics)|Secret Empire]]'' storyline, Peregrine appears as a member of the Champions of Europe alongside [[Ares (Marvel Comics)|Ares]], [[Captain Britain]], [[Faiza Hussain|Excalibur]], [[Guillotine (comics)|Guillotine]], and [[Outlaw (comics)|Outlaw]].<ref>''U.S.Avengers'' #7</ref>
+
+==Powers and abilities==
+Peregrine is an athletic man with a gifted intelligence but possesses no superhuman powers. He is a talented writer, and a master of [[savate]] (French kick-boxing).
+
+Peregrine wears a suit of synthetic stretch fabric that incorporates an anti-gravity generator system which emits and controls anti-gravitons, enabling him to counteract gravitational attraction. He wears glider-wings that contain small hydrazine and nitrous oxide-fueled jet turbines that afford propulsion. Using all this equipment allows Peregrine to fly with a range of about {{convert|200|mi|km}} before exhausting his fuel supply. He wears goggles to protect his eyes while in flight, and carries radar detection devices.
+
+While working as part of the Wild Pack, Silver Sable International supplied Peregrine with special weaponry including ammonium bromide gas grenades (to induce unconsciousness), napalm bolas, taser darts, thermite grenades, and an electromagnetic scrambler.
+
+==References==
+{{reflist}}
+
+==External links==
+* {{Marvelwiki|Peregrine|Peregrine}}
+* {{Marvunapp|http://www.marvunapp.com/Appendix4/peregrinefr.htm|Peregrine}}
+
+[[Category:Fictional mercenaries]]
+[[Category:Fictional writers]]
+[[Category:Marvel Comics superheroes]]

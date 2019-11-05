@@ -1,0 +1,48 @@
+<!-- Please do not remove or change this AfD message until the discussion has been closed. -->
+{{Article for deletion/dated|page=Discus (comics)|timestamp=20190131163414|year=2019|month=January|day=31|substed=yes|help=off}}
+<!-- Once discussion is closed, please place on talk page: {{Old AfD multi|page=Discus (comics)|date=31 January 2019|result='''keep'''}} -->
+<!-- End of AfD message, feel free to edit beyond this point -->
+{{Notability|date=August 2018}}
+{{In-universe|date=August 2018}}
+{{Infobox comics character
+|image=
+|caption=
+|character_name=Discus
+|real_name=Tim Stuart
+|publisher=[[Marvel Comics]]
+|debut=''Power Man'' #22 (December 1974)
+|creators=[[Tony Isabella]]<br>[[Billy Graham]]
+|species=
+|partners=[[Stiletto (comics)|Stiletto]]<br>[[Justin Hammer]]
+|aliases=
+|powers=Uses throwing discs as weapons,<br>Other assorted weaponry
+}}
+
+'''Discus''' ('''Tim Stuart''') is a fictional character appearing in [[American comic book]]s published by [[Marvel Comics]].
+
+==Publication history==
+Discus first appeared in ''Power Man'' #16 in December 1974, and was created by [[Tony Isabella]] and [[Billy Graham (comics)|Billy Graham]].
+
+==Fictional character biography==
+The youngest son of Tyler Stuart, a warden at Seagate prison, Tim Stuart was employed by [[Justin Hammer]] and given a costume, jet-pack, and assorted weaponry. He took the name Discus, as his weapon of choice was a throwing disc; he usually carried disc-shaped flying blades. The younger brother of [[Stiletto (comics)|Stiletto]], he was most often partnered, and rarely went on his own missions. Like Stiletto, he was a constant thorn in [[Luke Cage]]'s side, but he also battled the [[Heroes for Hire]], the [[Daughters of the Dragon]], and [[Iron Fist (comics)|Iron Fist]].<ref>''Power Man'' #22</ref><ref>''Power Man and Iron Fist'' #50</ref> Much later, both Stiletto and Discus were seen in Justin Hammer's employ. Attempting to capture [[Iron Man]], Stiletto and Discus attacked but were easily defeated after their weapons were unable to harm him.<ref>''Iron Man'' #126-127</ref> He and his brother, while imprisoned, found religion, but soon reverted to their old ways and began working for [[Nightshade (Marvel Comics)|Deadly Nightshade]]. However, as Stiletto continued on in his criminal career, Discus has not been seen for quite some time.<ref>''Power Man and Iron Fist'' #110</ref>
+
+A partnership began with the [[Sphinx (comics)|Sphinx]] and Justin Hammer brought Discus back to villainy. Along with Hammer's villain army, Discus battled [[Nova (Richard Rider)|Nova]] and [[Namorita]], but he was defeated by both of them.<ref>''Spectacular Spider-Man Annual'' #12</ref><ref>''Web of Spider-man Annual'' #8</ref>
+
+Discus returned and is recruited as part of [[Hammerhead (comics)|Hammerhead]]'s supervillain army. However, [[Iron Man]] and [[S.H.I.E.L.D.]] forces attacked their forces.<ref>''[[Civil War (comics)|Civil War]]: War Crimes'' #1</ref>
+
+Discus appeared in ''[[Spider-Man: Brand New Day|Brand New Day]]'' as one of the villains at the Bar with No Name.<ref>''Amazing Spider-Man'' #562-563 (August 2008)</ref>
+
+==References==
+{{reflist}}
+
+==External links==
+* {{Marvunapp|http://marvunapp.com/Appendix/discus.htm|Discus (Luke Cage/Black Panther foe)}}
+
+{{Luke Cage}}
+
+[[Category:Characters created by Billy Graham]]
+[[Category:Characters created by Tony Isabella]]
+[[Category:Comics characters introduced in 1974]]
+[[Category:Marvel Comics supervillains]]
+
+{{Marvel-villain-stub}}

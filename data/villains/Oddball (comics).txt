@@ -1,0 +1,63 @@
+'''Oddball''' is the name of two fictional supervillains appearing in [[American comic book]]s published by [[Marvel Comics]].
+
+==Publication history==
+Oddball (Elton Healy) appears in ''Hawkeye'' Vol.1 #3–4 (1983), ''Official Handbook of the Marvel Universe'' Vol.2 (1986), ''Captain America'' #317, 395, 411–414 (1986–1993), ''Avengers Spotlight'' #23–25 (1989), ''Guardians of the Galaxy'' #28 (1992), ''Hawkeye: Earth's Mightiest Marksman'' #1 (1998) and ''Wolverine'' Vol.2 #167 (2001). He was created by [[Mark Gruenwald]].
+
+The second Oddball (Orville Bock) appears in ''Union Jack'' Vol.2 #2 (2006), ''Official Handbook of the Marvel Universe A–Z'' Vol.3 (2008) and ''Dark Reign Files'' #1 (2009).
+
+==Fictional character biography==
+===Elton Healey===
+{{Infobox comics character| <!--Wikipedia:WikiProject Comics--> 
+image=[[image:Oddball.jpg]]
+|caption=Oddball<br>Art by [[Paul Neary]]
+|character_name=Oddball
+|real_name=Elton Healey
+|species=
+|publisher=[[Marvel Comics]]
+|debut=''[[Hawkeye (comics)|Hawkeye]]'' #3 (Nov 1983)
+|creators=[[Mark Gruenwald]]
+|aliases=
+|alliances=[[Death-Throws]]<br/>[[Masters of Evil]]
+|powers=Expert juggler<br>Experienced street fighter
+}} 
+Elton Healey was born in [[Reno, Nevada|Reno]], [[Nevada]]. Along with his brother Alvin, Elton spent years as a [[busking|street performer]], becoming a master [[juggling|juggler]]. He also learned how to become a capable [[street fighting|street fighter]]. Using these skills, Elton became the juggling supervillain '''Oddball''', adopting the name because of his loony nature.
+
+Along with fellow juggling-themed supervillain [[Bombshell (Marvel Comics)|Bombshell]], Oddball was hired by [[Crossfire (comics)|Crossfire]] to eliminate [[Hawkeye (comics)|Hawkeye]] and [[Mockingbird (Marvel Comics)|Mockingbird]]. Oddball and Bombshell confront and subdue the two heroes and deliver them to Crossfire. However, Hawkeye manages to escape and is able to defeat the three supervillains.<ref>''Hawkeye'' Vol.1 #3–4</ref> Oddball and Bombshell were later rescued from prison by Oddball's brother Alvin, alias [[Tenpin (comics)|Tenpin]].<ref>''Official Handbook of the Marvel Universe Deluxe Edition'' #3</ref>
+
+Together with Bombshell, Tenpin, [[Knickknack (comics)|Knicknack]], and [[Ringleader (comics)|Ringleader]], Oddball forms the [[Death-Throws]], a team of supervillain jugglers. The group are hired by Crossfire to help him escape from prison. The Death-Throws complete their mission, but decide to hold Crossfire hostage instead. The group are defeated and arrested by Hawkeye, Mockingbird and [[Captain America]].<ref>''Captain America'' #317</ref> Later, Oddball and the rest of the Death-Throws, along with various other supervillains, attempt to claim the bounty put on Hawkeye's right arm by Crossfire. However, all of the supervillains looking to claim the bounty are defeated by Hawkeye, Mockingbird and [[Trick Shot (comics)|Trick Shot]].<ref>''[[Avengers (comics)|Avengers]] Spotlight'' #24–25</ref>
+
+On his own again, Oddball dresses up as a police detective in order to ambush Hawkeye when he was showing [[Avengers (comics)|Avengers]] young recruits [[Vance Astrovik|Justice]] and [[Firestar (Marvel Comics)|Firestar]] around a prison. Oddball releases the prisoners in an attempt to swamp the heroes with enemies. Hawkeye and the young Avengers are able to win the battle and stop the prison riot.<ref>''Hawkeye: Earth's Mightiest Marksman'' #1</ref> Oddball was later recruited by [[Doctor Octopus]] to join his incarnation of the [[Masters of Evil]].<ref>''Guardians of the Galaxy'' #28</ref>
+Oddball was killed when taking part in the Bloodsport competition in [[Madripoor]] (which also featured [[Wolverine (character)|Wolverine]], [[Mister X (Marvel Comics)|Mister X]] and [[Taskmaster (comics)|Taskmaster]]). He was slain in the first round of the tournament by a tribal warrior called the Headhunter.<ref>''Wolverine'' Vol.2 #167</ref>
+
+===Orville Bock===
+Orville Bock became the new Oddball and joined the Death-Throws. Oddball joined the rest of the Death-Throws in London after they were hired by [[Advanced Idea Mechanics|R.A.I.D]] to take part in a terrorist attack on the city. They were subsequently defeated by [[Union Jack (Joseph Chapman)|Union Jack]] and [[Sabra (comics)|Sabra]].<ref>''Union Jack'' Vol. 2 #2</ref>
+
+During the ''[[Dark Reign (comics)|Dark Reign]]'' storyline, Quasimodo researched Oddball and the rest of the Death-Throws for [[Green Goblin|Norman Osborn]].<ref>''Dark Reign Files'' #1</ref>
+
+==Powers and abilities==
+Oddball is an expert at [[juggler|juggling]], pitching, and catching, with superb coordination, and is highly skilled with thrown objects. He normally carries an assortment of weighted balls and ball-shaped throwing weapons. He typically carried ten {{convert|3|in|mm|adj=on}} diameter balls filled with various substances: tear gas, super-adhesive, [[hydrochloric acid]], smoke, concentrated sulfur, spent uranium, itching powder, magnesium flare, a powerful impact-activated electromagnet, a powerful impact-activated sired, or other juggling balls with more exotic contents. He also carried marbles used to trip foes. Oddball has extensive experience in [[street fighting]] techniques.
+
+==Other versions==
+===''Last Avengers Story''===
+In ''[[Last Avengers Story]]'', set in an [[Parallel universe (fiction)|alternate universe]], Oddball is a deformed man whose ability is to cause psychological disorders to manifest in anyone who touches him.<ref>''Last Avengers Story'' #1–2 (1995)</ref>
+
+==In other media==
+* Oddball appears in the video game ''[[Spider-Man and Captain America in Doctor Doom's Revenge]]'' (1989).{{cn|date=May 2017}}
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://marvel.com/universe/Oddball Oddball] at Marvel.com
+* {{Marvunapp|http://www.marvunapp.com/Appendix4/oddballdt.htm|Oddball (Healey)}}
+* {{Marvunapp|http://www.marvunapp.com/Appendix5/oddballbock.htm|Oddball (Bock)}}
+* [http://www.comicvine.com/oddball/4005-19348/ Oddball I] at Comic Vine
+
+{{Hawkeye}}
+
+[[Category:Characters created by Mark Gruenwald]]
+[[Category:Comics characters introduced in 1983]]
+[[Category:Fictional characters from Nevada]]
+[[Category:Fictional jugglers]]
+[[Category:Fictional mercenaries]]
+[[Category:Marvel Comics supervillains]]

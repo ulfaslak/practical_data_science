@@ -1,0 +1,172 @@
+{{Use mdy dates|date=June 2014}}
+{{Infobox comics set and title
+<!--Wikipedia:WikiProject Comics-->
+<!--Character section-->
+|code_name  = Black Knight
+|image      = BlackKnight Atlas1.jpg
+|imagesize  = 240
+|caption    = ''Black Knight''  #1 (May 1955).<br>Cover art by [[Joe Maneely]]
+|publisher  = [[Marvel Comics]]
+|debut      = ''Black Knight''  #1
+|debutmo    = May
+|debutyr    = 1955
+|debutyr1   = 1964
+|debutyr2   = 1967
+|writer1    = [[Stan Lee]]
+|artist1    = [[Joe Maneely]]
+|characters = [[Black Knight (Sir Percy)|Sir Percy]]<br />[[Black Knight (Nathan Garrett)|Nathan Garrett]]<br />[[Black Knight (Dane Whitman)|Dane Whitman]]<br />[[#Augustine du Lac|Augustine du Lac]]
+|seealso    = [[Ebony Blade]]<br />[[#The Black Knight lineage|The Black Knight lineage]]
+
+<!--Series section--> 
+|title               = Black Knight
+<!-- |cvr_image           = 
+|cvr_caption         = --> 
+|schedule            = '''(vol 1)'''<br>Bi-monthly<br>'''(vol 2)'''<br>Monthly
+|format              = '''(vol 1)'''<br>[[Ongoing series]]<br>'''(vol 2)'''<br>[[Limited series (comics)|Limited series]]
+|limited             = Y
+|ongoing             = Y
+|genre               = '''(vol 1)'''<br>[[Fantasy]]<br>'''(vol 2)'''<br>[[Superhero]], Magic in comics
+|multigenre          = y
+|Fantasy             = y
+|Superhero           = y
+|Magic               = 
+|pub_series          = '''(vol 1)'''<br>[[Atlas Comics]]<br>'''(vol 2)'''<br>Marvel Comics
+|1stishhead          = vol 1
+|1stishyr            = 1955
+|1stishmo            = May
+|endishyr            = 1955
+|endishmo            = December
+|1stishhead1         = vol 2
+|1stishyr1           = 1990
+|1stishmo1           = June
+|endishyr1           = 1990
+|endishmo1           = September
+|issues              = '''(vol 1)'''<br>5<br>'''(vol 2)'''<br>4
+|main_char_team      = '''(both)'''<br>Sir Percy
+|writers             = 
+|artists             = 
+|pencillers          = 
+|inkers              = 
+|letterers           = 
+|colorists           = 
+|editors             = 
+|creative_team_month = 
+|creative_team_year  = 
+|creators_series     = 
+|TPB                 = 
+|ISBN                = 
+|nonUS               =
+
+|cat                 = super
+|subcat              = Marvel Comics
+|subcat_pub          = Atlas Comics
+|limsub              = Marvel Comics
+|altcat              = 
+|hero                = y
+|villain             = y
+|sortkey             = Black Knight
+|sort_title          = Black Knight
+}}
+The '''Black Knight''' is the alias of several [[fictional characters|fictional]] characters appearing in [[American comic book]]s published by [[Marvel Comics]].
+
+The first is a [[medieval]] [[Knight]] created by writer-editor [[Stan Lee]] and artist [[Joe Maneely]]. The second is a [[supervillain]] descendant of the original, created by writer-editor [[Stan Lee]] and artist and co-plotter [[Dick Ayers]]. The third, created by writer [[Roy Thomas]], [[John Verpoorten]], and artist [[George Tuska]], is the villain's nephew, a [[superhero]] and a member of the superhero team the [[Avengers (comics)|Avengers]]. A fourth Black Knight, with no revealed genetic connection, debuted in ''[[Black Panther (comics)|The Black Panther]]'' #3 (June 2005), created by writer [[Reginald Hudlin]] and penciler [[John Romita Jr.]]
+
+==Publication history==
+Marvel Comics' first Black Knight, Sir Percy of [[Scandia]], [[first appearance|first appeared]] in the medieval-adventure series ''Black Knight''  #1–5 ([[cover-date]]d May 1955 - April 1956) from [[Atlas Comics (1950s)|Atlas Comics]], the 1950s precursor to Marvel Comics.<ref name=gcd-AtlasBK>[http://www.comics.org/series/1120/ ''Black Knight''] at the [[Grand Comics Database]].</ref>
+
+Sir Percy's descendant, Professor Nathan Garrett, debuted as the modern-day supervillain Black Knight in ''[[Tales to Astonish]]'' #52 (Feb. 1964). This villainous Black Knight appeared in ''[[Avengers (comics)|The Avengers]]'' #6, 14–15 (July 1964, March–April 1965), and in the feature "[[Iron Man]]" in ''[[Tales of Suspense]]'' #73 (Jan. 1966), in which he was mortally wounded.
+
+Dane Whitman, Garrett's nephew, makes his first appearance in ''The Avengers'' #47 (Dec. 1967), and becomes a heroic version of the Black Knight in the following issue. Whitman sporadically appeared with the Avengers until becoming a core member, regularly appearing in #252–300 (1985–1989) and #329–375 (1991–1994).  The Gatherers storyline running through ''The Avengers'' #343–375 (1992–1994) finally placed the spotlight on the Black Knight, as the focus of the book turned toward his tumultuous relationship with the Eternal [[Sersi]] and mysterious connection to the other-dimensional villain Proctor.  Whitman later starred in Malibu Comics' ''[[UltraForce]]'' #8–10 (1995) and ''UltraForce, vol. 2'' #1–12 (1995–1996), leading a new team of heroes on a parallel world.  Returning to the Marvel Universe proper, Whitman appeared in ''[[Heroes for Hire]]'' #1–16 (1997–1998) and, later, ''[[Captain Britain and MI13]]'' #1–15 (2008–2009).  The Black Knight has yet to return to the Avengers, the team with which the character is most closely associated. In 2015, as part of All-New All-Different, a solo series was launched featuring Dane Whitman; however, it was canceled after 5 issues due to low sales.
+
+Whitman and Sir Percy also starred in the limited series ''Black Knight'' #1–4 (June–Sept. 1990), written by Roy and Dann Thomas and drawn by successive pencillers [[Tony DeZuniga]] and [[Rich Buckler]]. In 1995 Percy had a caneo in Namor #60 as part of the Atlantis Rising story. Whitman and Sersi then headlined the one-shot ''Black Knight: Exodus'' (Dec. 1996), written by [[Ben Raab]] and illustrated by [[Jimmy Cheung]] and [[Andy Lanning]].  Another Black Knight one-shot starring Sir Percy, written by Thomas and illustrated by [[Tom Grummett]] and [[Scott Hanna]], was published as ''[[Mystic Arcana|Mystic Arcana: Black Knight]]'' #1 (Sept. 2007), the second of four ''Mystic Arcana'' [[one-shot (comics)|one-shot]] issues.
+
+==Fictional character biographies==
+
+===Sir Percy of Scandia===
+The original Black Knight is '''[[Black Knight (Sir Percy)|Sir Percy of Scandia]]''', a 6th-century knight who serves at the court of [[King Arthur (Marvel Comics)|King Arthur]] as his greatest warrior. Recruited by the wizard [[Merlin (Marvel Comics)|Merlin]], Percy adopts a double identity, and pretends to be totally incompetent until changing into the persona of the Black Knight. As the Black Knight, Percy wields the '''[[Ebony Blade]]''', which Merlin forged from a meteorite.<ref>''Black Knight''  #1–5 (May–Dec. 1955), [[Atlas Comics (1950s)|Atlas Comics]], the 1950s precursor of Marvel Comics</ref> A constant foe of the evil knight [[Mordred (comics)|Mordred the Evil]] (Arthur's traitorous nephew), Percy is eventually killed by him during the fall of Camelot when stabbed from behind with an enchanted blade – although Mordred then dies himself of wounds inflicted by Arthur.<ref name="msh">''[[Marvel Super-Heroes (comics)|Marvel Super-Heroes]]'' #17 (Nov. 1968)</ref> Merlin ensures that Percy's spirit will live on by casting a spell that will revive his ghost if Mordred should ever return.<ref name="msh" /> Percy's spirit has appeared several times to counsel his descendant, [[Black Knight (Dane Whitman)|Dane Whitman]].
+
+===Nathan Garrett===
+Biologist '''[[Black Knight (Nathan Garrett)|Professor Nathan Garrett]]''' is the direct descendant of Sir Percy (although it has been implied Percy's nephew Raston inherited the blade), and found Sir Percy's tomb and the Ebony Blade. Garrett's evil tendencies make him unworthy of wielding the sword, and he is shunned by Sir Percy's ghost. An embittered Garrett then devises an arsenal of medieval weapons that employ modern technology and genetic engineers and creates a winged horse. Calling himself the Black Knight, Garrett embarks on a life of crime to spite his ancestor. After a battle with the hero [[Henry Pym|Giant-Man]]<ref>''Tales to Astonish'' #52 Feb. 1964)</ref> Garrett joins the supervillain team the [[Masters of Evil]] at the request of master villain [[Baron Zemo]] and like the others spreads Adhesive X over the city, but is first defeated by Thor. After two unsuccessful battles with the Avengers, the second time of which he was broken out of jail by [[Enchantress (Marvel Comics)|the Enchantress]],<ref>''Avengers'' #6, 14–15 (July 1964, March–April 1965)</ref> and a time when he battled [[Iron Man]] due to [[Doctor Doom]]'s mind-control machine to make supervillains attack [[Mister Fantastic]]'s and the [[Invisible Woman]]'s wedding, (which he forgets like the other villains due to a machine created by Mister Fantastic),<ref>''Fantastic Four Annual'' #3</ref> Garrett is mortally wounded while trying to kill the superhero Iron Man when he falls off his winged horse.<ref>''Tales of Suspense'' #73</ref> A dying Garrett summons his nephew, Dane Whitman, reveals his secret identity to Whitman, and repents for his life of crime.<ref>''The Avengers'' #47 (Dec. 1967)</ref> Whitman then adopts the identity of the Black Knight himself.<ref>''The Avengers'' #48 (Jan. 1968)</ref>
+
+===Dane Whitman===
+'''[[Black Knight (Dane Whitman)|Dane Whitman]]''' is the Black Knight who has been a longtime member of the [[Avengers (comics)|Avengers]] as well as a member of the [[Defenders (comics)|Defenders]], [[Ultraforce]], [[Heroes for Hire]], and [[MI-13 (comics)|MI: 13]].
+
+===Augustine du Lac===
+A Vatican Black Knight named Augustine du Lac<ref>''Klaws of the Panther'' TPB's Handbook entry on Black Panther (Shuri)</ref> received the Ebony Blade after Vatican agents retrieved it from an Iraqi vampire nest.<ref>''Captain Britain and MI: 13'' #10</ref>
+
+He is a member of a team of supervillains that invades the African nation of [[Wakanda]]. A devout Catholic, du Lac hopes to convert the populace to Catholicism. He is defeated by [[Black Panther (comics)|Black Panther]] who takes the Ebony Blade from him.<ref>''Black Panther'' vol. 4, #4 (July 2005)</ref>
+
+He had his own version of [[Aragorn (comics)|Aragorn]] to use as a steed. This Aragorn was later captured by [[Kraven the Hunter (Alyosha Kravinoff)|Alyosha Kravinoff]] and killed for food.<ref>''Punisher War Journal vol. 2 #13–14</ref>
+
+===Female Black Knight===
+A teenage female Black Knight later appears in the ''Vengeance'' limited series as a member of the [[Young Masters]]. Like Garrett, this incarnation is a villain, and appears to possess the Ebony Blade. How she came into possession of the sword and what happened to Augustine has yet to be revealed. She was with the Young Masters when they were at an abandoned [[Hydra (comics)|HYDRA]] base in Pennsylvania. When inspecting Bullseye's corpse, they were attacked by [[Lady Bullseye]].<ref>''Vengeance'' #2</ref> Later targeting [[Doctor Octopus]] for "execution", the Young Masters found themselves battling the [[Sinister Six]] while being assisted by/battling the Teen Brigade, with Black Knight being assisted in taking down [[Sandman (Marvel Comics)|Sandman]] by Teen Brigade member Ultimate Nullifier.<ref>''Vengeance'' #3</ref> While a visiting a nightclub, Black Knight encountered Ultimate Nullifier at the time when the Young Masters plotted to recruit a reborn [[Loki (comics)|Loki]] to their side.<ref>''Vengeance'' #4</ref> In the morning, Black Knight showed Ultimate Nullifier a letter that spurred the Young Masters on their quest to kill older villains along with a CIA file discussing genocide carried out by [[Red Skull]] in Poland during World War II on Russian prisoners. Informing Ultimate Nullifier that she was going to leave the Young Masters and had plans that didn't involve evil, she left the Young Masters' base leaving behind the CIA file for Nullifier.<ref>''Vengeance'' #5</ref>
+
+Black Knight was later seen with the Young Masters where they are seen as members of the [[Shadow Council]]'s [[Masters of Evil]] which is led by [[Baron Zemo|Baron Helmut Zemo]] following Max Fury's death.<ref>''Avengers Undercover'' #2</ref>
+
+==The Black Knight lineage==
+Nathan Garrett and Dane Whitman are part of a lineage of Black Knights stretching back to the 6th century. In ''[[New Excalibur]]'' #10, the first of the "Last Day of Camelot" storyline,<ref>{{comicbookdb|type=storyarc|id=2115|title=The Last Days of Camelot}}</ref> it is revealed that Dane has turned the Garret Castle into a Black Knight museum with various exhibits on the various Black Knights, including the body of Sir Percy. There is a long line of paintings of the Knights including, according to the curator, "Sir Ralston[''[[sic]]''] and Sir Eobar or lesser known knights like Sir William and Sir Henry."<ref>''[[New Excalibur]]'' #10 (2006)</ref> These Black Knights are:
+
+* '''Sir Raston''' ("Ralston" appears only in ''New Excalibur'' #10) – Sir Percy's nephew and became the Black Knight after him. He lived in the Dark Ages but was recruited into the [[Anachronauts (comics)|Anachronauts]] by [[Kang the Conqueror]] and travelled through time.<ref>{{cite web|url=http://www.marvunapp.com/Appendix/anachron.htm#Sir |title=Anachronauts (Kang minions, Avengers/Fantastic Four/Force Works foes) |publisher=Marvunapp.com |date= |accessdate=2010-09-19}}</ref>
+* '''Sir Eobar of Garrington''' – He was the Black Knight during the Crusades.<ref>{{cite web|url=http://www.marvunapp.com/Appendix2/garringtoneobar.htm |title=Eobar Garrington (Black Knight of the 12th Century, Crusades) |publisher=Marvunapp.com |date= |accessdate=2010-09-19}}</ref>
+* '''Sir William''' – He is depicted fighting in the trenches of [[World War I]].
+* '''Sir Henry''' – He is depicted as a [[swashbuckler|swashbuckling]] figure.
+
+Later in "The Last Days of Camelot" Sir Percy reveals to Dane that he was not the first Black Knight and that eight knights had carried the Ebony Blade before him, the last being King Arthur's cousin Sir Reginald. Each one had been driven mad by the sword and had to be killed until it was decided there were only three people who could take the sword but King Arthur and Merlin were needed in other capacities, so the "burden" fell to Sir Percy who accepted despite knowing the risks.<ref>''New Excalibur'' #12 (2006)</ref>
+
+The apparent "'''Last Knight'''" is '''Ernst Wythim''', a member of the lineage from around AD 2600.<ref>{{cite web|url=http://www.marvunapp.com/Appendix/lastknight.htm |title=The Last Knight (Black Knight (Whitman) foe/descendant) |publisher=Marvunapp.com |date= |accessdate=2010-09-19}}</ref>
+
+==Other versions==
+
+===Earth X===
+In the Earth X series, [[Ahura (comics)|Ahura]] – the son of Black Bolt and Medusa – becomes the Black Knight.<ref>''Earth X'' #1–13 (1999–2000)</ref> Dane Whitman was turned to stone by the [[Grey Gargoyle]].
+
+===Marvel Zombies===
+{{Main|Marvel Zombies}}
+Dane becomes one of the dozens of super-powered zombies that are laying siege to the castle of [[Doctor Doom]]. The zombies have detected delicious humans hiding inside, all of whom ultimately escape.
+
+===Ultimate Marvel===
+In the [[Ultimate Marvel|Ultimate Marvel universe]], the Black Knight (real name Alex) is a member of the would-be superhero team the [[Defenders (comics)|Defenders]]. He is long-haired, bearded, and out-of-shape, with a piece of [[armor]], and resembles a [[Live action role-playing game|LARP]]'er.<ref>''Ultimates 2'' #6</ref> He later shows up in ''[[Ultimate Comics: New Ultimates]]'', alongside the super-powered Defenders from a [[Loki (comics)|mysterious source]].<ref>''New Ultimates'' #1</ref>
+
+The Dane Whitman version of Black Knight appears in the pages of ''[[Ultimate Comics: Ultimates]]'' as a member of an Ultimates team that preceded the current one by almost a decade. This Black Knight was highly unstable and was kept from officially joining the team until he stabilized. This never came to pass as the team bungled a mission and the project was shut down immediately after.<ref>''Ultimate Comics: Ultimates'' #22</ref>
+
+==In other media==
+
+===Television===
+* The Nathan Garrett version of the Black Knight appeared in the Captain America/Avengers portion of ''[[The Marvel Super Heroes]]'' as a member of Baron Heinrich Zemo's Masters of Evil. He appears solo in an episode of The Invincible Iron Man segment.
+* The Sir Percy Black Knight appeared in the "Knights & Demons" episode of ''[[Spider-Man and His Amazing Friends]]'', scripted by [[Don Glut]] and with the character voiced by [[Vic Perrin]]. Dane Whitman was also to appear, but was rejected to avoid confusion.<ref>{{cite web|url=http://www.tv.com/spider-man-and-his-amazing-friends/knights-andamp-demons/episode/223004/summary.html |title=episode entry |publisher=Tv.com |date= |accessdate=2010-09-14}}</ref>
+* The Augustine du Lac version of Black Knight appears in the 2010 ''[[Black Panther (TV series)|Black Panther]]'' TV series voiced by [[JB Blanc]]. He is among the villains that assists Klaw in his invasion on Wakanda.
+* The Nathan Garrett version of Black Knight appears in the ''[[Iron Man: Armored Adventures]]'' episode "Pepper Interrupted", voiced by [[Alistair Abell]]. He is a [[Maggia (comics)|Maggia]] member and personal enforcer to [[Count Nefaria]].
+* The Dane Whitman version of Black Knight appears briefly in ''[[The Avengers: Earth's Mightiest Heroes]]'' episode "Come the Conqueror".
+
+===Film===
+An easter egg of Black Knight was shown in ''[[Ant-Man and the Wasp]]'' with a photo of an mysterious city hidden in the Quantum Realm.<ref>[https://twitter.com/ManaByte/status/1079100891234328577?ref_src=twsrc%5Etfw]</ref>
+
+===Video games===
+* The Dane Whitman version of Black Knight is a playable character in ''[[Marvel: Avengers Alliance]]''.
+* Several of the Black Knights are featured in ''[[Lego Marvel's Avengers]]'', with Nathan Garrett and Dane Whitman appearing in the [[Masters of Evil]] [[Downloadable content|DLC]] pack, and Augustine du Lac appearing in the [[Black Panther (comics)|Black Panther]] DLC pack.<ref>http://www.gamezone.com/news/lego-marvel-avengers-first-dlc-packs-get-release-dates-3435056</ref>
+* A teenage version of the Dane Whitman Black Knight appears as a playable character in ''[[Marvel Avengers Academy]]'', voiced by [http://www.thebritishvoice.net Ian Russell].
+* Dane Whitman, Sir Percy, and Nathan Garrett are unlockable characters in ''[[Lego Marvel Super Heroes 2]]''. In the game, Sir Percy resides in the Medieval England section of Chronopolis until it got taken over by Nathan Garrett and Enchantress. Captain America, Captain Avalon, Doctor Strange, Gamora, and Groot were able to defeat Enchantress and Nathan Garrett as well as freeing Sir Percy.
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://marvel.com/universe/Black_Knight_(disambiguation) Black Knight] at the Marvel Universe
+* [http://marvel.wikia.com/wiki/Black_Knight Black Knight] at the Marvel Database Project
+* [http://www.atlastales.com Atlas Tales]
+* [http://www.maelmill-insi.de/UHBMCC/ The Unofficial Handbook of Marvel Comics Creators]
+
+{{Iron Man}}
+{{Stan Lee}}
+{{DEFAULTSORT:Black Knight (Comics)}}
+[[Category:Arthurian characters]]
+[[Category:Arthurian comics]]
+[[Category:Fantasy comics]]
+[[Category:Fictional knights]]
+[[Category:Characters created by Stan Lee]]
+[[Category:Fictional swordsmen]]
+[[Category:1955 comics debuts]]
+[[Category:Comics set in the Middle Ages]]
+[[Category:Comics characters introduced in 1955]]
+[[Category:Atlas Comics characters]]
+[[Category:Atlas Comics titles]]

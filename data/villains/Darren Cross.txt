@@ -1,0 +1,84 @@
+{{Use mdy dates|date=September 2016}}
+{{for|the musician|Darren Cross (musician)}}
+{{Infobox comics character <!--Wikipedia:WikiProject Comics-->
+| image          = Darren_Cross_Yellowjacket.jpg
+| caption        = Darren Cross as Yellowjacket in ''The Astonishing Ant-Man'' #12 (September 2016).<br>Art by Brent Shoonover.
+| character_name = Darren Cross
+| real_name      =
+| species        =
+| publisher      = [[Marvel Comics]]
+| debut          = ''[[Marvel Premiere]]'' #47 (April 1979)<br>''The Astonishing Ant-Man'' #12 (September 2016; as Yellowjacket) 
+| creators       = [[John Byrne (comics)|John Byrne]]<br>[[David Michelinie]]
+| alliances      = [[Cross Technological Enterprises]]
+| aliases        = [[Yellowjacket (Marvel Comics)|Yellowjacket]]
+| powers         = Skilled [[military tactics|tactician]], [[scientist]], and [[business acumen|businessman]]<br>Size-shifting and alteration<br>[[Superhuman strength]], agility, reflexes, senses, and healing<br>Via Yellowjacket suit:
+* Flight
+* Bio-energy projection
+* Enhanced durability
+}}
+
+'''Darren Agonistes Cross''' is a [[character (arts)|fictional]] [[supervillain]] appearing in [[American comic book|American]] [[comic book]]s published by [[Marvel Comics]]. He is the [[archenemy]] of [[Ant-Man (Scott Lang)|Scott Lang]] (the second [[superhero]] to be called [[Ant-Man]]), and the cousin of [[Crossfire (comics)|Crossfire]].
+
+The character is portrayed in live-action by actor [[Corey Stoll]] in [[Marvel Studios]]' [[2015 in film|2015 film]] ''[[Ant-Man (film)|Ant-Man]]'' as the [[Marvel Cinematic Universe]]'s iteration of '''[[Yellowjacket (Marvel Comics)|Yellowjacket]]''';<ref name="Stoll">{{cite web|url=http://insidemovies.ew.com/2015/01/09/ant-man-corey-stoll-yellowjacket/ |title=Corey Stoll talks about playing 'Ant-Man' villain Yellowjacket |last=Collis |first=Clark |work=[[Entertainment Weekly]] |date=January 9, 2015 |accessdate=August 19, 2018 |archiveurl=https://www.webcitation.org/6VT8f4moY?url=http://insidemovies.ew.com/2015/01/09/ant-man-corey-stoll-yellowjacket/ |archivedate=August 19, 2018 |deadurl=no |df=mdy }}</ref><ref name="Stoll2">{{cite web|url=https://variety.com/2014/film/news/corey-stoll-marvels-ant-man-1201144653/ |title=‘House of Cards’ Actor Joins Marvel’s ‘Ant-Man’ |last=Kroll |first=Justin |work=[[Variety (magazine)|Variety]] |date=March 24, 2014 |accessdate=August 19, 2018 |archiveurl=https://www.webcitation.org/6OKTJG7Lm?url=http://variety.com/2014/film/news/corey-stoll-marvels-ant-man-1201144653/ |archivedate=August 19, 2018 |deadurl=no |df=mdy }}</ref> this concept would later be integrated into the comics.
+
+==Publication history==
+Created by [[John Byrne (comics)|John Byrne]] and [[David Micheline]], Darren Cross debuted in ''[[Marvel Premiere]]'' #47 (April 1979). The character made his first appearance as Yellowjacket in ''The Astonishing Ant-Man'' #12 (September 2016), which was written by [[Nick Spencer]] and illustrated by Brent Shoonover.
+
+==Fictional character biography==
+Darren Cross is a millionaire and the founder of a [[Cross Technological Enterprises|successful corporation]], which rivals its top competitors. Cross was diagnosed with a heart condition due to overwork, and had to use an experimental nucleorganic pacemaker in order to save his life. The pacemaker was a success but enhanced Cross's circulatory system, mutating his body and giving him superhuman abilities. With a side effect that overuse causes the burning out of his heart, Cross went through various heart transplants, which led him to capture surgeon Dr. Erica Sondheim to replace his heart and to abduct "donors" from the slums.<ref>''Marvel Premiere'' #47. Marvel Comics</ref> This attracted the attention of the second [[Ant-Man (Scott Lang)|Ant-Man]] looking for Sondheim in order to save his [[Cassandra Lang|own daughter]]'s life. The resulting battle with Ant-Man burned out Cross's heart, as Sondheim had reimplanted his old, worn-out heart prior to Ant-Man crashing the surgery.<ref name="MarvelPrem48">''Marvel Premiere'' #48. Marvel Comics</ref> 
+
+After his death, the family company created by Darren had been controlled by his cousin [[Crossfire (comics)|William Cross]],<ref>''Hawkeye'' #1-4</ref> and later his son [[Augustine Cross]].<ref>''Iron Man'' Vol. 1 #145</ref>
+
+Darren's body is later revealed to have been kept in a cryogenic state as Augustine was obsessed with bringing Darren back to life and eventually forces Dr. Sondheim to help.<ref>''Ant-Man'' Vol. 2 #3. Marvel Comics</ref> Enlisting Crossfire's assistance, Augustine had orchestrated Cassie Lang's capture as the girl's heart is required to withstand the unique conditions when transplanted into Darren. While infiltrating Cross's company to rescue Cassie, Ant-Man came across his restored nemesis.<ref>''Ant-Man'' Vol. 2 #4. Marvel Comics</ref> Darren engaged in combat against Ant-Man while Ant-Man buys time for Sondheim to transplant another heart to Cassie. Darren is ultimately forced to flee with his son when the Pym Particles now in his body caused him to shrink down.<ref>''Ant-Man'' Vol. 2 #5. Marvel Comics</ref>
+
+As part of the ''[[All-New, All-Different Marvel]]'', Darren Cross was later approached by [[Power Broker]] to demonstrate his latest "Hench" App by hiring [[Whirlwind (comics)|Whirlwind]] to kill Ant-Man. However, Cross was unwilling to give Power Broker the 1.2&nbsp;billion dollars demanded for investment in the Hench app, causing Power Broker to cancel the demo and cancel Whirlwind's assassination on Ant-Man.<ref>''Astonishing Ant-Man'' #1</ref>
+
+Cross later represented his own company when he attended a meeting at the Universal Bank with Tiberius Stone of [[Alchemax]], [[Kingpin (character)|Wilson Fisk]] of Fisk Industries, [[Sebastian Shaw (comics)|Sebastian Shaw]] of Shaw Industries, [[Zeke Stane]] of Stane International, Frr'dox of Shi'ar Solutions Consolidated, and Wilhelmina Kensington of Kilgore Arms where they discussed [[Minotaur (comics)|Dario Agger]]'s and [[Roxxon Energy Corporation]]'s plans to exploit the Ten Realms of Asgard. Cross also saw the arrival of Exterminatrix of the Midas Foundation who knocked out Dario and declared herself a new member of their assembly.<ref>''Mighty Thor'' Vol. 2 #8</ref>
+
+In order to combat Ant-Man, Cross recruited [[Egghead (Marvel Comics)|Egghead]] to work for his company. Egghead helped Cross control his Pym Particle abilities with the Yellowjacket armor.<ref>''Astonishing Ant-Man'' #12</ref> Yellowjacket, Egghead and Crossfire attacked during his nemesis's trial in Cassie's place, but were engaged by Ant-Man, [[She-Hulk]] (Scott's defense attorney), Miss Thing, [[Grizzly (comics)#Grizzly (Maxwell Markham)|Grizzly]], [[Machinesmith]] and Stinger. Yellowjacket is defeated by Stinger, which led to [[List of Marvel Comics characters: R#Peggy Rae|Peggy Rae]]'s final approval of Scott's superhero life and Scott's acquittal in court.<ref>''Astonishing Ant-Man'' #13</ref>
+
+During the "Opening Salvo" part of the ''[[Secret Empire (comics)|Secret Empire]]'' storyline, Yellowjacket appears as a member of [[Helmut Zemo]]'s Army of Evil.<ref>''Captain America: Steve Rogers'' #16</ref>
+
+==Powers and abilities==
+Darren Cross possesses a keen scientific mind and is a successful businessman. The experimental nucleorganic pacemaker that saved Cross from his heart condition also granted him superhuman abilities such as enhanced physical attributes, increased [[sensory perception]], and a regenerative healing factor.<ref name="MarvelPrem48"></ref> After acquiring [[Cassandra Lang|Cassie Lang]]'s Pym Particle-equipped heart during a heart transplant, Cross gained near uncontrollable size-shifting abilities; he is at risk of growing when angered and shrinking when calm.
+
+[[Egghead (Marvel Comics)|Egghead]] later uses the Yellowjacket suit for Cross to help him control his Pym Particle quantum powers. The armor grants Cross enhanced durability and flight, in addition to featuring "stingers" that can discharge powerful blasts of bio-electrical energy.<ref>''Astonishing Ant-Man'' #12</ref>
+
+==In other media==
+===Television===
+* The Darren Cross version of Yellowjacket appears in ''[[Lego Marvel Super Heroes: Avengers Reassembled]]'', voiced by [[Travis Willingham]]. This version is hired by [[Ultron]] to take control of [[Iron Man]]'s armor until [[Captain America]] has [[Scott Lang|Ant-Man]] knock him out onto a nearby web on the [[S.H.I.E.L.D.]] [[Helicarrier]] to be apprehended by [[Spider-Man]] and [[Amadeus Cho|Iron Spider]].
+* The Darren Cross iteration of Yellowjacket appears in [[Disney XD]]'s ''Ant-Man'' animated shorts, voiced by [[William Salyers]].
+
+===Film===
+[[File:AntManYellowjacket.jpg|thumb|right|200px|[[Corey Stoll]] as Darren Cross / Yellowjacket in ''[[Ant-Man (film)|Ant-Man]]'' (2015).]]
+[[Corey Stoll]] portrays Darren Cross / Yellowjacket in the 2015 [[Marvel Cinematic Universe]] film ''[[Ant-Man (film)|Ant-Man]]''.<ref name="Stoll" /><ref name="Stoll2" /><ref>{{cite web|url=http://marvel.com/news/movies/2014/7/26/22968/sdcc_2014_official_evangeline_lilly_corey_stoll_join_marvels_ant-man |title=SDCC 2014: OFFICIAL: Evangeline Lilly & Corey Stoll Join Marvel's Ant-Man |publisher=[[Marvel Comics|Marvel.com]] |date=July 26, 2014 |accessdate=July 26, 2014 |archiveurl=https://www.webcitation.org/6RMwOxtAS?url=http://marvel.com/news/movies/2014/7/26/22968/sdcc_2014_official_evangeline_lilly_corey_stoll_join_marvels_ant-man |archivedate=July 27, 2014 |deadurl=no |df=mdy }}</ref><ref>{{cite web|url=http://www.ew.com/ew/static/longform/antman/desktop/|title=Exclusive First Look at Ant-Man|last=Collis|first=Clark|work=[[Entertainment Weekly]]|date=January 8, 2015|accessdate=January 8, 2015}}</ref><ref>{{cite web|url=http://www.newsarama.com/21725-sdcc-2014-marvel-studios-panel-live.html |title=SDCC 2014: Marvel Studios Panel Ant-Man Villain Revealed, Thanos Appears, GotG 2 Release Date |last=Siegel |first=Lucas |date=July 26, 2014 |accessdate=August 19, 2018 |archiveurl=https://www.webcitation.org/6RMvi5Y9x?url=http://www.newsarama.com/21725-sdcc-2014-marvel-studios-panel-live.html |archivedate=August 19, 2018 |deadurl=no |df=mdy }}</ref><ref>{{cite web|url=http://www.cinemablend.com/new/Here-How-Ant-Man-Could-Beat-Hell-Out-Hulk-67480.html |title=Here's How Ant-Man Could Beat The Hell Out Of The Hulk |last=O'Connell |first=Sean |publisher=Cinema Blend |date=October 1, 2014 |accessdate=August 19, 2018 |archiveurl=https://www.webcitation.org/6T1bL8MKO?url=http://www.cinemablend.com/new/Here-How-Ant-Man-Could-Beat-Hell-Out-Hulk-67480.html |archivedate=August 19, 2018 |deadurl=no |df=mdy }}</ref> Stoll wore a [[motion capture]] suit while performing as Yellowjacket, a decision that was made early on when creating and filming with a real Yellowjacket costume was found to be impractical.<ref>{{cite web|url=http://screenrant.com/ant-man-yellowjacket-costume-details/ |title=Paul Rudd & Corey Stoll Talk Ant-Man & Yellowjacket Costume Differences |last=Keyes |first=Rob |publisher=ScreenRant |date=June 22, 2015 |accessdate=August 19, 2018 |archiveurl=https://www.webcitation.org/6ZU9pAgfc?url=http://screenrant.com/ant-man-yellowjacket-costume-details/ |archivedate=August 19, 2018 |deadurl=no |df=mdy }}</ref> Darren Cross is depicted as [[Hank Pym]]'s former [[mentorship|protégé]] who becomes obsessed with Pym's original Ant-Man [[subatomic particle|particle]] shrinking technology.<ref>{{cite web|url=http://www.slashfilm.com/ant-man-viral-backstory/ |title='Ant-Man' Viral: Interviews With Scott Lang and Pym Technologies CEO Darren Cross |last1=Fischer |first1=Ross |last2=Sciretta |first2=Peter |publisher=[[/Film]] |date=July 16, 2015 |accessdate=August 19, 2018 |archiveurl=https://www.webcitation.org/6gyRSgi4c?url=http://www.slashfilm.com/ant-man-viral-backstory/ |archivedate=August 19, 2018 |deadurl=no |df=mdy-all }}</ref> When Hank refuses to divulge past work secrets out of fear of [[war|warfare]], Darren forces his mentor out of Pym Industries and takes over as [[chief executive officer|CEO]] of [[Cross Technological Enterprises|Cross Technologies]].<ref>[https://twitter.com/AntMan/status/614189931854860288]</ref> Despite possessing imperfect shrinking technology, Cross manages to duplicate Pym's designs with his own highly weaponized "Yellowjacket" suit, which alters his [[neurochemistry|brain chemistry]] and slowly drives him insane.<ref>{{cite av media| date=July 28, 2014 |title=Comic-Con 2014: Corey Stoll Talks 'Ant-Man' Role, Yellowjacket Costume |author=nerdrepository |publisher=[[YouTube]] |url=https://www.youtube.com/watch?v=i6wYKKakGHw |accessdate=August 19, 2018}}</ref> When Cross attempts to sell the Yellowjacket prototype to [[Mitchell Carson]]'s faction of [[Hydra (comics)|HYDRA]] and the [[Mandarin (comics)|Ten Rings]] [[terrorism|terrorist]] organization, the new Ant-Man ([[Ant-Man (Scott Lang)|Scott Lang]]) intervenes and manages to destroy Cross Technologies with help from Pym and [[Hope Pym|Hope van Dyne]], prompting Darren to don the Yellowjacket suit himself to fight Ant-Man. Cross then threatens to kill Scott's [[Cassandra Lang|daughter]], forcing Ant-Man to enter the [[Features of the Marvel Universe#Extradimensional places|quantum realm]] and disrupt the Yellowjacket armor's internal mainframe, causing Cross to shrink uncontrollably and disappear.<ref>{{cite web|url=https://screenrant.com/ant-man-yellowjacket-alive-quantum-realm/ |title=Ant-Man Director Teases Yellowjacket Could Still Be Alive |last=Atkinson |first=John |publisher=[[Screen Rant]] |date=July 8, 2018 |accessdate=August 19, 2018 }}</ref><ref>{{cite web|url=https://movieweb.com/ant-man-villain-yellowjacket-still-alive-mcu/ |title=Ant-Man Villain Yellowjacket Is Still Alive in the MCU? |last=Burwick |first=Kevin |publisher=Movie Web |date=July 9, 2018 |accessdate=August 19, 2018 }}</ref>
+
+===Video games===
+* Yellowjacket (Darren Cross) appears as a playable character in ''[[Marvel: Contest of Champions]]''.
+* Yellowjacket (Darren Cross) appears as a playable character in ''[[Marvel: Future Fight]]''.
+* Yellowjacket (Darren Cross) appears as a playable character in ''[[Lego Marvel's Avengers]]''.
+* Yellowjacket (Darren Cross) appears in ''[[Marvel Avengers Academy]]''.<ref>https://marvelavengersalliance2.com/aa2_characters/yellowjacket/</ref>
+* Yellowjacket (Darren Cross) appears in ''[[Marvel: Avengers Alliance#Marvel: Avengers Alliance 2|Marvel: Avengers Alliance 2]]''.
+
+===Merchandise===
+In summer 2018, a 6-inch [[GameStop]] exclusive action figure of Yellowjacket was released in a two-pack with Ant-Man by [[Hasbro]] in their ''[[Marvel Studios]]: The First Ten Years'' [[Marvel Legends|Legends Series]], based on his appearance in the ''Ant-Man'' film. A mini figure of Yellowjacket was also included in this set to represent his size-shifting abilities.<ref>{{cite web|url=https://comicbook.com/2018/07/02/marvel-studios-the-first-ten-years-figures/ |title=Marvel Studios 10th Anniversary Legends Figures Adds Thor, Ant-Man, and Red Skull |last=Fallon |first=Sean |publisher=Comicbook.com |date=July 2, 2018 |accessdate=August 21, 2018 }}</ref>
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://marvel.wikia.com/Darren_Cross_%28Earth-616%29 Darren Cross] at Marvel Wiki
+* [http://www.comicvine.com/darren-cross/4005-104138/ Darren Cross] at Comic Vine
+
+{{Hank Pym}}
+
+{{DEFAULTSORT:Cross, Darren}}
+[[Category:Marvel Comics supervillains]]
+[[Category:Characters created by David Michelinie]]
+[[Category:Characters created by John Byrne]]
+[[Category:Comics characters introduced in 1979]]
+[[Category:Superhero film characters]]
+[[Category:Fictional business executives]]
+[[Category:Fictional characters who can change size]]
+[[Category:Fictional mad scientists]]
+[[Category:Fictional mass murderers]]

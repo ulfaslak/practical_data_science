@@ -1,0 +1,74 @@
+{{Notability|date=July 2018}}
+{{In-universe|date=July 2018}}
+'''Señor Muerte''' and '''Señor Suerte''' are aliases used by a number of fictional characters appearing in [[American comic book]]s published by [[Marvel Comics]].
+
+==Ramon==
+{{Infobox comics character| <!--Wikipedia:WikiProject Comics--> 
+image=
+|caption=
+|character_name=Señor Suerte
+|real_name=Ramon Garcia
+|species=
+|publisher=[[Marvel Comics]]
+|debut=''[[Luke Cage|Hero For Hire]] #10'' (Jun 1973)
+|creators=[[Steve Englehart]]<br>[[George Tuska]]
+|status=
+|alliances=
+|previous_alliances=
+|aliases=Señor Muerte
+|relatives=
+|powers=Average hand-to-hand combatant<br>Talented gambler<br>Highly skilled businessman<br>Wears costume that contains circuitry which grants short-distance electricity projection 
+|}} 
+
+The first character to use these names was Ramon Garcia, who was born in [[Hatillo, Puerto Rico]]. Ramon was the owner of a chain of gambling casinos, and a criminal who called himself "Señor Suerte" (which means "Mr. Luck" in English) in his role as head of criminal gambling operations in New York.  He used the name "Señor Muerte" (which means "Mr. Death" in English) when he killed his opponents.
+
+Ramon sent men to kill Frank Jenks and [[Luke Cage]].<ref>''Heroes Fore Hire'' #5-6; behind the scenes</ref>  Muerte attempted to kill Luke Cage, and murdered a rival casino owner. He battled Cage, but was electrocuted by his own device during the battle and died.<ref>''Hero For Hire'' #10-11</ref>
+
+Ramon reappears without explanation years later, being forced to commit crimes by Lady Caterpillar, who had abducted his wife, Rebecca Clyde.<ref> {{Cite comic|writer = Dennis Hopeless|penciller = Javier Rodriguez|inker = Alvaro Lopez|colorist = Javier Rodriguez|letterer = VC's Travis Lanham|editor = Nick Lowe|title = Spider-Woman|volume = 5|issue = #5|date = 4 March 2015|publisher = Marvel Comics|location = United States}}</ref><ref>{{Cite comic|writer = Dennis Hopeless|penciller = Javier Rodriguez|inker = Alvaro Lopez|colorist = Javier Rodriguez|letterer = Travis Lanham|editor = Nick Lowe|title = Spider-Woman|volume = 5|issue = #6|date = 8 April 2015|publisher = Marvel Comics|location = United States}}</ref>
+
+{{-}}
+
+==Jaime and Phillip==
+{{Infobox comics character| <!--Wikipedia:WikiProject Comics--> 
+image=
+|caption=
+|character_name=Señor Suerte and Señor Muerte
+|real_name=Jaime Garcia<br>Phillip Garcia
+|species=
+|publisher=[[Marvel Comics]]
+|debut='''(Muerte II)''':<br>''[[Captain America]] #224'' (Aug 1978)<br>'''(Suerte II)''':<br>''[[Power Man/Iron Fist]] #56'' (Apr 1979)
+|creators='''(Muerte II)''':<br>[[Peter Gillis]]<br>[[Mike Zeck]]<br>'''(Suerte II)''':<br>[[Jo Duffy|Mary Jo Duffy]]<br>[[Trevor Von Eeden]]
+|status=
+|alliances=
+|previous_alliances=
+|aliases='''(Phillip)'''<br>Ramon Garcia
+|relatives=
+|powers=Average hand-to-hand combatants<br>Talented gamblers<br>Highly skilled businessmen<br>'''(Jaime)'''<br>Expert thief<br>'''(Phillip)'''<br>Expert assassin<br>Highly skilled in the use of knives, firearms, and explosives<br>Wears costume that contains circuitry which grants short-distance electricity projection<br>Spider venom projection via gloves
+|}} 
+
+After Ramon's death, his younger brothers Jaime and Phillip took over his operations, and became the co-owners of their brother's gambling casinos. Jaime became "Señor Suerte" and Phillip became "Señor Muerte". Jaime was a professional thief, and Phillip was a professional assassin.
+
+Phillip, as the new Señor Muerte, posed as his deceased brother Ramon. Alongside the [[Tarantula (Marvel Comics)#Anton Miguel Rodriguez|Tarantula]], he murdered government agent Ken Astor, and attempted to hijack a military convoy, the Madbombs. He battled [[Captain America]].<ref>''Captain America'' #224</ref> Phillip wore gloves that were able to release spider venom into his victims.
+
+Jaime, as Señor Suerte, attempted a theft of Tutankhamen artifacts from a museum, and battled Cage and [[Iron Fist (comics)|Iron Fist]].<ref>''Power Man/Iron Fist'' #56</ref> Jamie and Phillip's gambling operations were disrupted by Cage and Iron Fist. The brothers set death-traps for Cage and Iron Fist, but were still defeated by them.<ref>''Power Man/Iron Fist'' #63-64</ref>
+{{-}}
+
+==Powers and abilities==
+The Garcia brothers were all athletic men with no superhuman powers. They were all average hand-to-hand combatants using basic streetfighting techniques, talented gamblers, and highly skilled businessmen. Additionally, Jaime is an expert thief, and Phillip is an expert assassin and highly skilled in the use of knives, firearms, and explosives.
+
+Ramon, as Señor Muerte, wore synthetic stretch fabric containing circuitry enabling him to charge one hand or the other with an electric load of 10,000 volts and to hurl bolts of electricity over short distances. He owned a private casino equipped with booby-trapped devices, including a giant roulette wheel, razor-edged playing cards, poker chips, and giant dice.
+
+Phillip sometimes wore a duplicate of his late brother's costume, with the same properties, although he sometimes wore a blank-featured face-mask which could be reshaped to resemble a death's head. He used an assortment of knives, high-powered handguns, hand grenades, and flame-throwers concealed in the specially designed pockets of the coat and vest he usually wore. He also wore gloves that released spider venom into his victims.
+
+==In other media==
+
+===Television===
+* Señor Muerte appears in ''[[The Avengers: Earth's Mightiest Heroes]]'' episode "To Steal an Ant-Man."
+
+==References==
+<references />
+
+{{Luke Cage}}
+
+{{DEFAULTSORT:Senor Muerte   Senor Suerte}}
+[[Category:Marvel Comics supervillains]]

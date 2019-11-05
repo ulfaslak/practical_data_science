@@ -1,0 +1,79 @@
+{{for|the torture device|Breast ripper}}
+{{Infobox comics set index  <!--Wikipedia:WikiProject Comics-->
+|code_name  = Iron Spider 
+|image      = TASM Vol 1 529.jpg
+|caption    = Iron Spider on the cover of Amazing Spider-Man #529 (April 2006) Art by Bryan Hitch
+|publisher  = [[Marvel Comics]]
+|debut      = '''[[Spider-Man|Peter Parker]]''':<br>''[[The Amazing Spider-Man]]'' #529 (March 2006)<br>'''Scarlet Spiders''':<br>''[[Avengers: The Initiative]]'' #3 (August 2007)<br>'''[[Mary Jane Watson]]''':<br>''The Amazing Spider-Man'' #15 (September 2016)<br>'''[[Prowler (comics)|Aaron Davis]]''':<br>''Spider-Man'' #234 (January 2018)
+|creators   = [[Joe Quesada]]<br>[[Chris Bachalo]]
+|characters = [[Spider-Man|Peter Parker]]<br />[[Mary Jane Watson]]<br />[[Prowler (comics)|Aaron Davis]]<br>[[Amadeus Cho]]
+|seealso    = 
+|cat        = super
+|subcat     = Marvel Comics
+|hero       = y
+|villain    = y
+|sortkey    = Iron Spider 
+}}
+The '''Iron Spider''' is a fictional [[powered exoskeleton]] used by several characters in [[Marvel Comics]].
+
+==Publication history==
+The Iron Spider armor first appeared in ''[[The Amazing Spider-Man]]'' #529 and was designed by [[Joe Quesada]] where it was based on a sketch by [[Chris Bachalo]].<ref name="marvelironspider">[http://www.marvel.com/publishing/stories/showstory.htm?id=67 Marvel.com announcement of Spider-Man's "Iron Spider" costume] {{webarchive|url=http://wayback.vefsafn.is/wayback/20060306145039/http%3A//www.marvel.com/publishing/stories/showstory.htm?id%3D67 |date=2006-03-06 }}</ref><ref>Goldstein, Hilary (January 11, 2006). [http://www.ign.com/articles/2006/01/12/spideys-new-costume-revealed "Spidey's New Costume Revealed"]. [[IGN]].</ref>
+
+Peter Parker wore this suit as Spider-Man's official costume until writer [[J. Michael Straczynski]] chose to revert to the older costume. It was used symbolically to show the character's divided loyalties during the 2006 - 2007 "[[Civil War (comics)|Civil War]]" storyline.
+
+==Known wearers==
+===Peter Parker===
+{{expand section|date=July 2016}}
+After [[Spider-Man]]'s newer powers developed in "[[Spider-Man: The Other|The Other]]", [[Iron Man|Tony Stark]] developed a new suit for Peter Parker which he nicknamed the "Iron Spider" costume.<ref>''The Amazing Spider-Man'' #529</ref>
+
+===Scarlet Spiders===
+The Iron Spider armor costume has been duplicated and used by [[Michael Van Patrick|MVP's]] three genetic clones in the [[Avengers: The Initiative|Initiative]] who identify themselves as Red Team and also labeled the [[Scarlet Spider|Scarlet Spiders]]. It is unknown what new powers the team possesses, but they have been shown to be using some of the built-in powers such as the cloaking device, communications, and [[waldoes]] which the original costume possessed.<ref>''Avengers: The Initiative'' #3</ref> One change is that there are now four waldoes, as opposed to three. These suits have the original's morphing ability,<ref>''Avengers: The Initiative'' #7. Marvel Comics.</ref> as well as web-shooters, and wall-crawling capability.<ref>''Avengers: The Initiative Annual'' #1. Marvel Comics.</ref> It took 3 months to build the suit according to the 2013 comic "Return of the iron spider"
+
+===Mary Jane Watson===
+[[Mary Jane Watson]] later donned the Iron Spider armor in order to help Spider-Man and Iron Man fight [[List of Marvel Comics characters: R#Regent|Regent]]. She uses her experience in Iron Man's suit and her brief spider powers that she had back in the ''[[Spider-Island]]'' storyline to operate the armor.<ref>''Amazing Spider-Man'' Vol. 4 #15</ref>
+
+===Aaron Davis===
+[[Spider-Man (Miles Morales)|Miles Morales]]' uncle [[Prowler (comics)#Aaron Davis|Aaron Davis]] purchases a recolored and modified version of the Iron Spider armor which he uses to form his incarnation of the [[Sinister Six]].<ref>[[Bendis, Brian Michael]] (w), [[Bazaldua, Oscar]] (a). ''Spider-Man'' #234 (January 2018). Marvel Comics.</ref>
+
+==Powers and abilities==
+Supported by a system similar to that of Tony Stark's classic [[Iron Man]] design, The Iron Spider armor features many gadgets, including four mechanical spider-arms, or "[[Remote manipulator|waldoes]]", that can be used to see around corners (via cameras in the tips) and to manipulate objects indirectly. Stark describes them as too delicate to use in combat, yet Spider-Man shortly afterward uses them to smash through the sensors in [[Titanium Man]]'s helmet. Later on during the "Civil War" storyline, he uses them (reluctantly) during his fight with [[Captain America]].
+
+Other features include short-distance gliding capability, limited bulletproofing, built-in [[fire department|fire]]/[[police]]/emergency scanner, audio/visual amplification (including [[infrared]] and [[ultraviolet]]), [[stealth technology|cloaking]] device, carbon filters to keep out airborne [[toxin]]s, and a short-range [[GPS]] microwave communication system. It grants the ability to breathe under water, and can morph into different shapes due to its "'smart' liquid metal" form. It can also "more or less disappear" when not needed due to reactions to neurological impulses as Tony Stark revealed. The new costume is able to look like other styles of costumes Spider-Man has worn over the years or turn into his street clothes. Part of the costume can detach itself from Spider-Man to cover an object too dangerous to touch, such as a radioactive asteroid. All these features are controlled by a computer system in the chest piece. The suit responds to mental control.<ref>''[[The Amazing Spider-Man]]'' #530. Marvel Comics.</ref>
+
+The Iron Spider armor also has a secret override that can be activated by Iron Man in case of emergencies or if Spider-Man ever switches sides.  However, unknown to Stark, Peter was already aware of the safety measure and had bypassed it with his own override, Passcode Surprise. Perhaps most sinister, Stark discovered a way to give his own Iron Man armor a "spider-sense" based on Peter's, and the ability to give Spider-Man's sense [[Red herring (plot device)|red herrings]].<ref>''[[The Amazing Spider-Man]]'' #536. Marvel Comics.</ref>
+
+==Other versions==
+In the pages of ''Contest of Champions'', a variation of [[Black Widow (Natasha Romanova)|Natasha Romanov]] donned the Iron Spider identity in an unidentified alternate reality where Iron Man used the Reality Gem to rig the ''[[Civil War (comics)|Civil War]]'' in his favor where he later became President of the United States. She inherited it after Peter defected to Captain America's side and later became a member of the Civil Warriors.<ref>''Contest of Champions'' (2015) #9-10. Marvel Comics.</ref>
+
+==In other media==
+===Television===
+*The Iron Spider armor appears in the ''[[Ultimate Spider-Man (TV series)|Ultimate Spider-Man]]'' animated series. This version includes repulsors on the palms and feet, similar to those of [[Iron Man]]. It is initially used by Peter Parker in the episodes "Flight of the Iron Spider", "The Iron Octopus" and "Venom Bomb". Subsequent seasons depict the armor in the hands of [[Amadeus Cho]] under the Iron Spider mantle. Additionally the episode "Rampaging Rhino" features a variant Iron Spider Hulkbuster created by [[Lizard (comics)|Curt Connors]] at the time when the [[Hulk (comics)|Hulk]] fights with the [[Rhino (comics)|Rhino]].
+* Amadeus Cho's Iron Spider appearance appears in ''[[Lego Marvel Super Heroes: Avengers Reassembled]]''.
+
+===Film===
+The Iron Spider armor is featured in the [[Marvel Cinematic Universe]] as an armored suit designed by [[Tony Stark (Marvel Cinematic Universe)|Tony Stark]] for Peter Parker. It makes its first appearance at the end of ''[[Spider-Man: Homecoming]]'', when Stark offers Peter membership in the Avengers, though Peter declines both. The armor returns in ''[[Avengers: Infinity War]]'' (2018), when Iron Man uses it to save Peter after he falls from [[Ebony Maw]]'s Q-ship, high above the Earth's surface. Peter uses the suit for the rest of the film, although it is destroyed along with Peter himself when he is part of the 50% of all life to be culled after [[Thanos]]'s plan succeeds. The suit uses [[nanotechnology]] that also characterizes Iron Man's armor in the film, and allows Spider-Man to survive at high altitude and on Thanos' homeworld Titan (which has low gravity levels as well). It features a set of four mechanical legs that sprout from the back of the costume, which Spider-Man uses in combat and enhances his mobility and agility. The suit's appearance has a far more "classic" look than that of the comics, with dark red and blue tones throughout.
+
+===Video games===
+* The Wii version of ''[[Spider-Man: Web of Shadows]]'' features the Iron Spider outfit as an unlockable costume.
+* The video game ''[[Marvel Ultimate Alliance]]'' features this costume as one of Peter Parker's three alternate costumes, other two alternates being a [[Venom (Marvel Comics character)|black symbiote]] suit and the [[Ben Reilly|classic version]] of Scarlet Spider.
+* The video game ''[[Marvel Ultimate Alliance 2]]'' features this costume as Peter Parker's only alternate costume. This time, it includes the waldoes, but they are purely aesthetic with no effect on gameplay. This costume can only be unlocked by choosing Pro-Registration.
+* The video games ''[[Spider-Man: Shattered Dimensions]]'' and ''[[Spider-Man: Edge of Time]]'' also features the Iron Spider armor as an alternate suit for [[Spider-Man 2099]].
+* The Iron Spider armor appears as one of Spider-Man's alternate costumes in ''[[Marvel vs. Capcom 3: Fate of Two Worlds]]''.
+* The video game ''[[Marvel: Avengers Alliance]]'' features the Iron Spider costume as Spider-Man's final costume. However, it does not feature the waldoes.
+* The Iron Spider suit is referenced in ''[[Lego Marvel Super Heroes]]'' during a conversation between Spider-Man and Iron Man. During their infiltration in a [[Advanced Idea Mechanics|A.I.M.]] submarine, Iron Man says "You know, I could fit you with a rocket-propelled iron suit if you'd like." and Spider-Man replies "sounds heavy."
+* Amadeus Cho's Iron Spider form appears in ''[[Lego Marvel's Avengers]]'', as DLC.
+* Mary Jane Watson's Iron Spider form appears in ''[[Marvel Avengers Academy]]''.
+* The Iron Spider appears as one of Spider-Man's alternate costumes in ''[[Marvel vs. Capcom: Infinite]]'' if Spider-Man's wearing the Superior Spider-Man outfit.
+* The MCU Iron Spider armor appears as one of Spider-Man's alternate costumes as an unlockable (with early access as a pre-order bonus) in the 2018 ''[[Spider-Man (2018 video game)|Spider-Man]]'' video game. Unlocking it allows use of the waldoes (called "Iron Arms" in the game) with any suit, giving Spider-Man a temporary boost to reach and damage during melee combat. A second version of the suit, more accurate to the comics, was later released as part of the "Turf Wars" DLC.
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://marvel.wikia.com/wiki/Iron_Spider_Armor Iron Spider Armor] at Marvel Wiki
+
+{{Spider-Man}}
+
+[[Category:Marvel Comics superheroes]]
+[[Category:Spider-Man]]
+[[Category:Fictional armour]]

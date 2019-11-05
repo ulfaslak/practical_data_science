@@ -1,0 +1,53 @@
+{{distinguish|Modem|Modum}}
+{{refimprove|date=December 2018}}
+{{Infobox comics character| <!--Wikipedia:WikiProject Comics--> 
+image=[[Image:Quasar9.jpg|200px]]
+|caption=MODAM battles [[Quasar (comics)|Quasar]]
+|character_name=MODAM
+|real_name=Olinka Barankova
+|species=
+|publisher=[[Marvel Comics]]
+|debut=''[[West Coast Avengers]]'' #36 (Sep 1988)
+|creators=[[Steve Englehart]]<br>[[Al Milgrom]]
+|alliances=[[Advanced Idea Mechanics|A.I.M.]]<br/>[[Femizons]]
+|aliases= Maria Trovaya Pym, SODAM
+|relatives=
+|powers= Superhuman intelligence<br>Various psionic abilities<br>Telepathy<br>Powered exo-skeleton
+}}
+'''MODAM''' ('''Olinka Barankova''') is a fictional character appearing in [[American comic book]]s published by [[Marvel Comics]].
+
+==Publication history==
+{{expand-section|date=June 2016}}
+MODAM first appeared in ''[[West Coast Avengers]]'' #36 and was created by [[Steve Englehart]] and [[Al Milgrom]].
+
+==Fictional character biography==
+[[Advanced Idea Mechanics|A.I.M.]] mutated one of their female agents into a large-headed creature similar to [[MODOK]]. This agent claimed to be Maria Trovaya, [[Hank Pym]]'s deceased first wife.<ref>''West Coast Avengers'' #36</ref> Pym took her in, believing she was the late wife, but she was secretly a spy and returned to AIM. There, she was further mutated into a being nearly identical in appearance to [[MODOK]] called '''SODAM''' ('''S'''pecialized '''O'''rganism '''D'''esigned for '''A'''ggressive '''M'''aneuvers). In this new form, she opposed [[Hawkeye (comics)|Hawkeye]] and Dr. Pym.<ref>''Solo Avengers'' #14-16</ref> Her code name was later changed to '''MODAM''' ('''M'''ental '''O'''rganism '''D'''esigned for '''A'''ggressive '''M'''aneuvers). Her first assignment as MODAM was acquiring [[Quasar (comics)|Quasar]]'s [[Quasar (comics)#Quantum Bands|quantum bands]].<ref>''Quasar'' #9</ref> MODAM later appeared as one of [[Superia]]'s [[Femizons]].<ref>''Captain America'' #387-392</ref>
+
+[[Omega Red]] believed that MODAM was not Maria Trovaya, but Olinka Barankova, a woman who had once betrayed the mercenary. However, MODAM herself stated that "A.I.M. personnel files are routinely falsified".<ref>''Iron Man'' #296</ref>
+
+She finally perished (or at least vanished) when A.I.M. sent her in to attempt to fix a breach in reality, caused by a defective [[Cosmic Cube]].<ref>''Captain America'' #440</ref>
+
+==Powers and abilities==
+MODAM was empowered through artificial acceleration of her brain tissue growth by means of mutagenic chemicals and radiation, plus cybernetic implants. As a result, she possesses a superhuman intellect, and the ability to project psionic force for a number of effects, including: concussive energy, generation of heat, and protective fields. She also possesses limited telepathy and imposition of her will upon others. MODAM's headband contains equipment which aids her in the focusing of her psionic powers.
+
+MODAM is permanently encased within an exo-skeletal shell of life-supporting machinery which augments her musculature, provides mobility, and performs various bodily functions. Sensors equipped throughout the exoskeleton monitor both her body's functions and the system's mechanical functions and transmit this data telemetrically to AIM headquarters. Thus they monitor both her blood sugar level and her rocket fuel level. MODAM is equipped with two telescoping tentacle-like arms within which her own arms fit. Each terminates in a pronged "hand". Maximum elongation of these arms is {{convert|15|ft|m}}. MODAM's "hover-chair" contains anti-gravity generators enabling it to hover and chemically fueled rocket boosters to propel it. MODAM's musculature is [[atrophied]] (at least proportionally) while her head has been enlarged, thus she is physically dependent on the exoskeleton provided by her hover-chair for physical support and movement.
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://marvel.wikia.com/Olinka_Barankova_%28Earth-616%29 MODAM] at Marvel Wiki
+* [http://www.comicvine.com/modam/4005-25588/ MODAM] at Comic Vine
+
+{{Captain America}}
+{{Hank Pym}}
+{{Portal bar|Superhero fiction|Fictional characters|1980s}}
+
+[[Category:Characters created by Al Milgrom]]
+[[Category:Characters created by Steve Englehart]]
+[[Category:Comics characters introduced in 1988]]
+[[Category:Female supervillains]]
+[[Category:Fictional characters with precognition]]
+[[Category:Fictional cyborgs]]
+[[Category:Marvel Comics mutates]]
+[[Category:Marvel Comics supervillains]]

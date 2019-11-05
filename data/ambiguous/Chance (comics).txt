@@ -1,0 +1,75 @@
+'''Chance''' is the name of two unrelated [[fictional character]]s appearing in [[American comic book]]s published by [[Marvel Comics]].
+
+==Publication history==
+The first version is a mercenary who first appeared in ''[[Web of Spider-Man]]'' #15 (June 1986).
+
+The second version first appeared in ''[[Fallen Angels (comics)|Fallen Angels]]'' vol. 1 #1 (April 1987), and was created by [[Mary Jo Duffy]] and [[Kerry Gammill]]. The character subsequently appears in ''Fallen Angels'' #2-8 (May–November 1987).
+
+Both characters received an entry in ''[[Official Handbook of the Marvel Universe|The Official Handbook of the Marvel Universe Update '89]]'' #2.
+
+==Fictional character biography==
+
+===Chance (Nicholas Powell)===
+{{Infobox comics character| <!--Wikipedia:WikiProject Comics--> 
+|image=
+|caption=
+|character_name=Chance
+|real_name=Nicholas Powell
+|species=Human
+|publisher=[[Marvel Comics]]
+|debut=''[[Web of Spider-Man]]'' #15 (June 1986)
+|creators=[[David Michelinie]]<br>[[Mike Harris (comics)|Mike Harris]]
+|alliances=
+|aliases=
+|powers=Armored suit grants:<br>Flight via ankle jets<br>Wrist-mounted blasters<br>Scanning devices via cybernetic helmet 
+}}
+
+Wealthy former professional gambler '''Nicholas Powell''' was looking for more thrill in his life. He decides to become a mercenary criminal-for-hire, incorporating his love of gambling into his work. Anyone who hires him would, instead of directly paying, bet his fee against him actually completing the mission. If Powell (calling himself "Chance") is successful, he receives his fee; if not, he lost the "bet" and owes that amount to his contractors. The thrill of this risk was the only way in which Chance felt the work was truly interesting.
+
+Chance was first hired by the [[Foreigner (comics)|Foreigner]] to kill a [[Fence (criminal)|fence]] named Andre Boullion. Chance wagered his fee at double or nothing that he could kill [[Spider-Man]], but Spider-Man instead defeated him.<ref>''Web of Spider-Man'' #15</ref> Chance was then hired by corrupt city official Robert Phalen to kill a murder witness. His initial attempt was thwarted by [[Daredevil (Marvel Comics character)|Daredevil]], and his contract was terminated when Phelan died.<ref>''Daredevil'' #246</ref> Chance was hired under pretense by the [[Life Foundation]] to steal a secret arms shipment. The Life Foundation captured him instead, and [[Carlton Drake]] sought to duplicate his wrist blasters. Chance joined forces with Spider-Man to overcome the Life Foundation.<ref>''The Amazing Spider-Man'' #298-299</ref> Chance was next hired by Mister Grouper to kill casino owner Raymond Trask, but was thwarted by Spider-Man.<ref>''The Amazing Spider-Man'' #336</ref> Trask then hired Chance under the pretense of protecting Trask from an assassination attempt. Instead, Trask unsuccessfully tried to kill him out of revenge.<ref>''The Amazing Spider-Man Annual'' #25</ref>
+
+During the ''[[Spider-Island]]'' storyline, Chance (alongside [[Scorcher (comics)|Scorcher]] and [[White Rabbit (comics)|White Rabbit]]) is seen guarding an abandoned lab at [[Empire State University]] when Peter Parker and Carlie Cooper arrive. He ends up knocked down by Parker using the moves he learned from [[Shang-Chi]].<ref>''The Amazing Spider-Man'' #669</ref>
+
+Chance later appeared, attempting to kill the rejuvenated [[Captain America|Steve Rogers]] during a press conference, only to be defeated by the current [[Falcon (comics)|Captain America]]. While getting arrested, he mentions to Captain America that he was on Pleasant Hill and did not agree with the heroes' actions as a result of the crisis.<ref>''Captain America: Sam Wilson'' #9</ref>
+
+===Chance (Fallen Angels)===
+{{Infobox comics character| <!--Wikipedia:WikiProject Comics--> 
+image=<!-- Deleted image removed: [[Image:Chanceii1.jpg]] -->
+|caption=
+|character_name=Chance
+|real_name=
+|species=[[Mutant (Marvel Comics)|Human mutant]]
+|publisher=[[Marvel Comics]]
+|debut=''[[Fallen Angels (comics)|Fallen Angels]]'' vol. 1 #1 (April 1987)
+|creators=[[Jo Duffy]]<br>[[Kerry Gammill]]
+|alliances=[[Fallen Angels (comics)|Fallen Angels]]
+|aliases=
+|powers=Ability to enhance or dampen mutant powers
+|}}
+This version of Chance is a 13-year-old [[South Korea]]n girl who immigrated to America, then ran away from the church which was mistreating her. The mutant criminal [[Vanisher]] recruits her as part of his group the [[Fallen Angels (comics)|Fallen Angels]], teenagers who work as thieves.<ref>''Fallen Angels'' #1 (w) Jo Duffy (a) Kerry Gammill (April 1987)</ref> There, she befriended  the [[Extraterrestrial life in popular culture|extraterrestrial]] mutant [[Ariel (comics)|Ariel]].<ref>''Fallen Angels'' #2-8 (w) Jo Duffy (a) Kerry Gammill (1987)</ref>
+{{clear}}
+
+==Powers and abilities==
+Nicholas Powell wears wrist-blasters which can fire laser beams, concussive energy and clear acid-filled darts. He also wears a set of ankle jets which allow him to fly, and a cybernetic helmet which controls the wrist-blasters and ankle jets. The helmet also contains scanning devices enabling him to see in all directions around and above himself. The power pack on his back supplies power to his weapons and paraphernalia.
+
+The second iteration is a mutant with the superhuman ability to enhance or dampen the mutant superhuman powers of others. Hence, she can cause another mutant's superhuman power to increase or decrease in level or even cause it to cease functioning altogether for as long as she concentrates upon it.
+
+==See also==
+There was also a character named Chance starring in the [[Image Comics]] series ''[[Leave It to Chance]]''.
+
+==References==
+{{reflist}}
+
+==External links==
+* {{Marvunapp|http://www.marvunapp.com/Appendix6/chancepowellsm.htm|Chance (Nicholas Powell)}}
+
+{{Spider-Man}}
+
+{{DEFAULTSORT:Chance (Comics)}}
+[[Category:Comics characters introduced in 1986]]
+[[Category:Comics characters introduced in 1987]]
+[[Category:Fictional gamblers]]
+[[Category:Fictional mercenaries]]
+[[Category:Marvel Comics mutants]]
+[[Category:Marvel Comics superheroes]]
+[[Category:Marvel Comics supervillains]]

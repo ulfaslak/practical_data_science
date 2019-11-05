@@ -1,0 +1,9 @@
+#REDIRECT [[List of Russian superheroes]]
+
+{{Rcat shell|
+{{R from fictional character|Marvel Comics}}
+{{R comics to list entry}}
+}}
+
+[[Category:Marvel Comics supervillains]]
+[[Category:Fictional Soviet people]]

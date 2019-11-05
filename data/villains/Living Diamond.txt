@@ -1,0 +1,45 @@
+{{Infobox comics character| <!--Wikipedia:WikiProject Comics--> 
+image=
+|caption=
+|character_name=Living Diamond
+|real_name=Jack Winters
+|species=
+|publisher=[[Marvel Comics]]
+|debut=''[[X-Men]] #39'' (Dec 1967)
+|creators=[[Roy Thomas]] and [[Werner Roth (comics)|Werner Roth]]
+|alliances=
+|aliases=
+|powers= Telepathy<br>Perspicuity (resistance to psychic attack)<br>Diamond Form (in normal form it only extended to the hands)<br>Teleportation (perhaps lost)
+}} 
+'''Living Diamond''' is a fictional character appearing in [[American comic book]]s published by [[Marvel Comics]].
+
+==Publication history==
+The Living Diamond first appeared in ''[[X-Men]]'' #39 (December 1967), and was created by [[Roy Thomas]] and [[Werner Roth (comics)|Werner Roth]].
+
+The character subsequently appears in ''X-Men'' #40-42 (January-March 1968), in which he is killed. The character appears posthumously in ''Sensational She-Hulk'' #34-35 (December 1991-January 1992).
+
+==Fictional character biography==
+The Living Diamond was a criminal whose latent mutations were activated by exposure to atomic radiation, which gave him flexible living diamond-like hands and telepathic and teleportational powers. After further exposure to radiation, his entire body took on the same diamond-like properties.<ref>''X-Men'' #40</ref>
+
+He encountered a young [[Cyclops (Marvel Comics)|Scott Summers]].  He tried to convince Scott to join him in a life of crime, but [[Professor X]] intervened.  The Professor used an ultrasonic vibration inducer to subdue the Living Diamond, but when the Living Diamond resisted he exploded and was killed.<ref>X-Men #42</ref>
+
+Years later, when [[Black Talon (comics)|Black Talon]] was battling She-Hulk he formed the [[X-Humed]] from the four dead mutants [[Kevin Sydney|Changeling]], [[Scaleface]], Living Diamond and [[Harry Leland]].<ref>''Sensational She-Hulk'' #34</ref> Black Talon was unable to control all of them at once and Changeling was able to break his hold long enough for She-Hulk to triumph. After filling their mouths with salt and stitching their lips, She-Hulk later laid the bodies to rest.<ref>''Sensational She-Hulk'' #35</ref>
+
+==Powers and abilities==
+Jack Winters could telepathically make contact with others and was resistant to psychic attacks. He could teleport himself and others miles away. Jack's hands are made of a flexible diamond-like substance that was virtually indestructible.
+
+As the Living Diamond, his entire body was composed of the same diamond-like substance which increased his strength yet slowed him down.
+
+==References==
+{{reflist}}
+
+==External links==
+* {{Marvunapp|http://www.marvunapp.com/Appendix3/livingdiamondwinters.htm|Living Diamond}}
+* [http://www.uncannyxmen.net/glossary/showentry.asp?fldAuto=650 Living Diamond] at Uncannyxmen.net
+
+[[Category:Characters created by Roy Thomas]]
+[[Category:Comics characters introduced in 1967]]
+[[Category:Marvel Comics supervillains]]
+[[Category:Marvel Comics telepaths]]
+
+{{Marvel-villain-stub}}

@@ -1,0 +1,143 @@
+{{Multiple issues|
+{{Cleanup rewrite|date=March 2015}}
+{{More footnotes|date=March 2015}}
+{{Overly detailed|date=August 2018}}
+}}
+{{Infobox comics character <!--Wikipedia:WikiProject Comics-->
+|character_name  = Fantomex
+|image           = Xmen143.jpg
+|converted       = y
+|caption         = Fantomex on the cover of ''[[X-Men: Legacy#New X-Men|New X-Men]]'' #143.<br>Art by [[Chris Bachalo]]
+|real_name       = Charlie-Cluster 7
+|species         = Human/Sentinel hybrid (cyborg)
+|notable aliases = Jean-Phillipe
+|publisher       = [[Marvel Comics]]
+|debut           = ''[[New X-Men]]'' #128 (August 2002)
+|creators        = [[Grant Morrison]]<br>[[Igor Kordey]]
+|alliances       = [[X-Force (comics)|X-Force]]<br>[[X-Men]]<br>[[Weapon Plus|Weapon Plus Program]]<br>[[Super-Sentinels]]
+|aliases         = Jean-Phillipe, Weapon XIII
+|powers          = Illusion casting;<br>Possesses multiple brains;<br>nano-active blood;<br>skilled marksman, acrobat, and hand-to-hand combatant;<br>able to read body language;<br>auto-hypnosis;
+|cat             = super
+|subcat          = Marvel Comics
+|hero            =
+|villain         =
+|sortkey         = Fantomex
+}}
+'''Fantomex''' is a fictional [[superhero]] appearing in [[American comic book]]s published by [[Marvel Comics]]. The character is commonly associated with the [[X-Men]] titles. Fantomex first appeared in ''[[X-Men: Legacy#New X-Men|New X-Men]]'' #128 (August, 2002) and was created by [[Grant Morrison]] and [[Igor Kordey]]. Initially introduced as a character similar to [[Fantômas]] and [[Diabolik]], he is later revealed to be an escaped experiment from the [[Weapon Plus]] Program.
+
+==Publication history==
+Fantomex resembles the titular character of the [[Italian comics|Italian comic book]] ''[[Diabolik]]'' and its film adaptation ''[[Danger: Diabolik]]''.{{Citation needed|date=February 2019}} The character of Diabolik is loosely based on the character [[Fantômas]], the subject of a series of early-20th century [[France|French]] detective thrillers and a popular Mexican comic book adaptation, whose name is more directly reflected in Fantomex's own name.<ref>[http://goodcomics.comicbookresources.com/2006/08/31/comic-book-urban-legends-revealed-66/ Comic Book Urban Legends Revealed #66], [[Comic Book Resources]]</ref> Fantomex's name, Jean-Phillipe, is a reference to actor [[John Phillip Law]], star of "Danger: Diabolik". In addition, his Weapon X designation—"Weapon XIII"—is a reference to the secret agent protagonist of the Franco-Belgian comic ''[[XIII (comics)|XIII]]''.{{Issue|date=February 2019}}
+
+In July 2013, Marvel announced the character's first solo series, ''Fantomex MAX'', written by Andrew Hope, and illustrated by Shawn Crystal.  The series does not take place in current Marvel continuity, and the character is not affiliated with any other Marvel characters.  In this series, the character of Fantomex is a more literal take on the Diabolik character, with a storyline less influenced by traditional superhero plots, skewing more towards the concepts  of intrigue and James Bond-tinged adventure.  Issue #1 debuted on October 2, 2013.{{Citation needed|date=February 2019}}
+
+==Fictional character biography==
+
+===Origin===
+Fantomex was created by the [[Weapon Plus]] Program to serve as a [[Sentinels (comics)|super-sentinel]] against Earth's mutant population. Weapon Plus created a population of [[Techno-organic material|technorganic]] organisms whose living tissue was fused with Sentinel [[nanotechnology]] at the [[Nanochondrion|cellular]] level. His mother, a member of this race, became pregnant when she was fertilized with [[Nanorobotics|nanomachine]]s, resulting in the birth of Fantomex. Like the rest of his people, he was born and raised in [[Weapon Plus#The World|the World]], a man-made environment designed to create super-sentinels, media-friendly mutant-hunters modeled after [[Saturday morning cartoon]]s. Although his nationality is technically British as the World was located in England, Fantomex claims he was raised in a virtual France with imperfect programming.<ref>''Uncanny X-Force #13</ref> He's developed a French sense of identity and persona; whereas his experiment designation at the World facility was "Charlie Cluster-7", he usually goes by the name "Jean-Phillipe".
+
+===New X-Men===
+During his first appearance, Fantomex seeks a safe haven at the [[X-Corporation]] in Paris while fleeing from authorities. He claims to be a mutant thief with the ill-defined power of misdirection. Bleeding profusely from bullet wounds, he asks for asylum, which [[Professor X]] grants him. Fantomex explains to Professor X and [[Jean Grey]] that he is being hunted because he is one of the most wanted thieves in Europe. Neither Professor X nor Jean Grey are able to verify his claims due to his ceramic mask, a device that blocks their mental probes. However, they agree to aid him, and after escaping the soldiers who surround the building, Fantomex uses his ship E.V.A. (named, in yet another reference, after Diabolik's lover [[Eva Kant]]) to take Professor X and Jean Grey to his home in France. While there, he introduces them to his mother and continues to describe his success as a thief. In fact, he tells the two that he has stolen sensitive information about the Weapon Plus project while in the [[Channel Tunnel]], and offers to sell it to Professor Xavier for $1 billion. After submitting his proposal, he puts himself in a light hypnotic trance and removes the bullets that riddle his body. Finished, he asks Professor X and Jean Grey to accompany him back to the Chunnel in an effort to destroy [[Weapon XII]]. The three speed away in E.V.A., leaving the house and elderly woman behind.
+
+Fantomex then leads Professor Xavier and Jean Grey to the Chunnel disaster. Packed full of people and animals that Weapon XII has turned into mindless slaves, confusion runs rampant. Knowing that those who have fallen prey to Weapon XII's influence are lost, Fantomex kills [[Darkstar (Marvel Comics)|Darkstar]] and all others who are mentally connected to the creature. After Fantomex destroys Weapon XII by using a remote detonator, it is noticed that there are two empty Weapon Plus transport tubes in the Chunnel: one that held the violent Weapon XII and another that held something called Weapon XIII. After the battle, Fantomex's ceramic mask slips a bit and Jean Grey uses her telepathy to deduce his true identity: Fantomex is actually Weapon XIII and had also been in transit in the Chunnel. It was during the accident in the Chunnel that he escaped and was subsequently chased to the X-Corporation building. He confesses to Jean Grey that he is not the master thief that he had claimed, but is now set out to earn that reputation. He assures Jean Grey that he refuses to be anyone's soldier, and as a result Jean Grey allows Fantomex to disappear into the Chunnel before the authorities arrive.
+
+Fantomex later travels to Afghanistan in an attempt to steal a list of the world's richest mutant slaver traders, the names on which he intends to blackmail. There he encounters an unconscious mutant known as [[Dust (comics)|Dust]], a former captive who unwittingly killed her captors by turning into a deadly sandstorm. Upon his exit, he encounters [[Wolverine (character)|Wolverine]], leaving Dust in his care.<ref>''New X-Men'' #133</ref>
+
+Soon after, Fantomex contacts Wolverine and offers him information about his mysterious past if he helps Fantomex destroy Ultimaton, also known as Weapon XV, the last creation of the Weapon Plus Program. Fantomex, Wolverine, and the X-Men's [[Cyclops (Marvel Comics)|Cyclops]] travel to the World, an artificial, time-altering environment designed by Weapon Plus to quickly develop and evolve new generations of super-soldiers.
+
+The three are defeated by Weapon XV (Ultimaton), who escapes by breaking through the barriers of the World and flying to the Weapon Plus space station. The team pursues their target in E.V.A., Fantomex's biological spacecraft. Upon arriving at the space station Fantomex keeps his word by showing Wolverine the complete Weapon Plus database. Shocked at learning the terrible details of his past (including his role in the slaughter of the entire population of Roanoke while under the influence of [[Weapon X]]), Wolverine initiates the self-destruct sequence for the space station before catching and apparently killing Ultimaton (who reappears later as a subordinate<ref>''Ultimate X-Force'' #5</ref>). Fantomex and Cyclops escape the explosion in one of the station's shuttles.<ref>''New X-Men'' #145</ref>
+
+Back on Earth, Fantomex joins Cyclops and a group of X-Men students in their fight against [[Magneto (comics)|Magneto]], who had taken the identity of [[Xorn]]. He had gathered a new [[Brotherhood of Mutants]] and had taken over New York City. With the aid of [[Barnell Bohusk|Beak]], Fantomex, and the others were able to break into Xorn's skyscraper headquarters and bring him down.<ref>''New X-Men'' #150</ref>
+
+===Weapon X and Mystique===
+Later on, Fantomex tries to track down [[John Sublime]], the director of the Weapon Plus program. However, upon examining his empty grave, Fantomex finds a note reading, "Roanoke."<ref>''Weapon X'' #23</ref>  He locates the secret facility of the splinter program [[Weapon X]] and finds it abandoned except for [[David North (comics)|Agent Zero]]. The pair reluctantly joins forces and travels to the site of Roanoke, a town whose inhabitants were slaughtered after Weapon X unleashed a brainwashed Wolverine on them years earlier. There, the three finally encounter Sublime but are opposed by his [[U-Men (comics)|U-Men]] and forced to flee against overwhelming odds. In an attempt to escape in E.V.A., Fantomex is shot down and left for dead.<ref>''Weapon X'' #25</ref>
+
+However, Fantomex manages to survive and some time later is contacted by the diminutive mutant [[Shortpack]] who seeks his help in assassinating mutant arms dealer Steinbeck, also known as the [[Prudence Leighton|Quiet Man]], in revenge for his killing of an agent under Shortpack's care. Fantomex refuses, not wanting to become responsible for allowing the good-natured Shortpack to become a killer. Shortpack is captured by Steinbeck soon after, and whilst investigating his disappearance the shapechanging mutant [[Mystique (comics)|Mystique]], a double agent for both Xavier and Steinbeck's ally Shepard, learns of his meeting with Fantomex. Though despising him after a past encounter in Madagascar, Mystique finds Fantomex in Monte Carlo, once again operating under the pretense of being a mutant thief, and learns of Shortpack's plan.<ref>''Mystique'' #20</ref>  As she leaves to rescue him, Fantomex follows and uncovers her intent to assassinate Xavier. In exchange for his silence, Fantomex bids Mystique perform a heist for him. After she returns with the stolen goods (a vintage Spider-Man costume), Mystique infects both Fantomex and E.V.A. with a techno-organic virus, seemingly killing them both to keep her plan secret.<ref>''Mystique'' #21</ref>  However, it was all a ruse as Mystique knew she was being monitored by Shepard. Fantomex later resurfaces and helps Mystique capture Shepard, giving her access to Steinbeck whom she finally defeats.<ref>''Mystique'' #24</ref>
+
+===Dark Reign, Nation X, and Second Coming===
+During his tenure as leader of HAMMER, [[Norman Osborn]] tries to take control of the World and the Weapon Plus creations. Wolverine and [[Noh-Varr]] head to the World to try to stop Norman Osborn but are soon attacked by a large army of Weapon Plus creations infected by Allgod (Weapon XVI), the living religion. Noh-Varr is rescued by Fantomex (who has apparently spent all the time since his last appearance "stealing things mostly" and admits he should have kept an eye on the World), and the two of them make their way to the World's brain (now a sentient being) where they are confronted by the Allgod drones, Wolverine included. Fantomex is not affected by Allgod because nanites in his neocortex render him incapable of believing in anything greater than himself. Noh-Varr is able to disarm Allgod by kissing the World's brain, thus showing it some compassion, and disabling Allgod. Immediately after this, the three of them defeat Osborn's invading army of [[Deathlok]] prototypes. Fantomex then uses a shrink-ray he reportedly stole from [[Doctor Doom]] to shrink the World and take it for his own.<ref>''Dark Reign: The List—Wolverine''</ref>
+
+Soon afterwards Fantomex is hired by a young mutant boy to hunt a rogue [[Predator X (Marvel Comics)|Predator X]] stalking mutants beneath New York City.<ref>''Uncanny X-Men'' #519</ref>  After dealing with the Predator X, Fantomex and E.V.A. run into Wolverine, [[Psylocke]], and [[Colossus (comics)|Colossus]], who ask for his help to defeat the creators of the Predator X. Fantomex initially turns their request down, but is later convinced by the same young boy he helped to help the X-Men. Fantomex saves the team from a group of John Sublime's associates and later takes them home.<ref>''Uncanny X-Men'' #521</ref>
+
+Fantomex remains with the X-Men on Utopia and is later seen in San Francisco fighting alongside the X-Men against [[Bastion (comics)|Bastion's]] army of [[Nimrod (comics)|Nimrod]] sentinels.<ref>''Uncanny X-Men'' #525</ref> Once the battle is over, he's shown to have secretly joined a new iteration of [[X-Force]], alongside Wolverine, [[Archangel (comics)|Archangel]], Psylocke, and [[Deadpool]].<ref>''X-Men: Second Coming'' #2</ref>
+
+===Uncanny X-Force===
+<!-- [[WP:NFCC]] violation: [[File:X-Force Psylocke.jpg|thumb|upright|left|Fantomex with [[Psylocke]] in ''[[Uncanny X-Force]]'' #12: "Dark Angel Saga, Chapter 2: Interruption" (art by Chris Stevens)]] -->
+
+The first mission of the new team is an assassination job to kill [[Apocalypse (comics)|Apocalypse]], reborn in the form of a child and being indoctrinated by [[Clan Akkaba]] on their Moon base.  After defeating Apocalypse's Final Horsemen and getting to the young Apocalypse, no one on the team can summon up the courage to kill a child.  When the group resigns to bring the child back with them and to reeducate him, Fantomex fires a shot in the child's head, apparently killing him.<ref>''Uncanny X-Force'' #4</ref>
+
+Soon afterwards, Fantomex realizes a presence calling itself Weapon Infinity has started manipulating the timestream within the World. After a battle against Weapon Infinity (actually the transforming of all future heroes into time-travelling [[Deathlok]]-type cyborgs <ref>''Uncanny X-Force #5</ref>), it is revealed that Fantomex has actually cloned the Apocalypse child in order to see if the boy could become a hero if raised as a good man in a virtual environment deep within the World.<ref>''Uncanny X-Force'' #19</ref>
+
+Fantomex is later abducted by [[Captain Britain]] who brands him a dimensional threat and take him to Otherworld, where an interdimensional court sentences him to erasure from existence itself. He is rescued by his teammate Psylocke, who turns against her brothers. Together they encounter the [[Skinless Man]] and rejoin their teammates to defeat The Goat, a corrupted future incarnation of Psylocke and Captain Britain's older brother [[Jamie Braddock]], who attempted to consume the [[multiverse]].<ref>''Uncanny X-Force'' #20 - 24</ref>
+
+When Psylocke is captured by the newly reformed Brotherhood of Evil Mutants, Fantomex sacrifices himself to save her. He is captured and killed when the Skinless Man cuts out his heart. With his connection to E.V.A severed, she believes herself dying as well. She survives, however, and evolves into a humanoid form.<ref>''Uncanny X-Force'' #27</ref>
+
+After Uncanny X-Force disbands, E.V.A. attempts to clone Fantomex back to life, but due to his three brains, an error occurs and three different bodies are grown for each personality: the evil brain becomes "Weapon XIII" (originally referred to as "Jean-Phillippe"), and wears a costume with inverted colors; the noble brain becomes "Cluster", a female version of Fantomex; and the mischievous one is restored to his proper body, taking the name of "Fantomex". He goes on to continue his relationship with Psylocke.<ref>''Uncanny X-Force'' #35</ref> Fantomex and Cluster later hijack a plane (leaving the pilot drugged and the flight attendants bound and gagged) in order to find Psylocke and [[Storm (Marvel Comics)|Storm]], but Weapon XIII follows and kidnaps Fantomex. Cluster enlists the help of the new Uncanny X-Force (Puck, Psylocke, Spiral, and Storm) to find Fantomex.<ref>''Uncanny X-Force (vol. 2) #3</ref>
+
+Pyslocke and Cluster travel to Madripor to hunt Weapon XIII. Weapon XIII uses his power of misdirection (which Fantomex and Cluster no longer possess) to confess his love to Psylocke. She agrees to stay with him only if he allows her to kill Fantomex, who betrayed her during a heist at the Louvre. During a heated battle she decides to free Fantomex and stun Weapon XIII, stating that she is done with all three of them.<ref>Uncanny X-Force Vol. 2 #8</ref>
+
+===X-Force===
+Cable recruits Fantomex as part of his new [[X-Force#Volume 4|X-Force team]] with the promise that he'll help Fantomex find Cluster and Weapon XIII. He proves a questionable ally, as he constantly bickers with [[Psylocke]] and has a psychic sexual relations with Meme<ref>X-Force Vol 4 Issue #10</ref>, who he really knows is actually Hope Summers (who Cable thinks is in a coma). He also kills new recruit ForgetMeNot because "he was bored".<ref>X-Force Vol 4 # 10</ref> The only concession that keeps Fantomex in line is that he gets to kill Cable every night,since Cable's body dies at the end of the day anyway and he has a clone ready to take his place the next day. Eventually Hope hacks into his mind and unwittingly transfers the super-mutant genetic code from mutant arms trafficker Volga. He then betrays the team, but is shot in the head by Domino.<ref>X-Force Vol 4 Issue #11</ref> This is short-lived since E.V.A. is able to reboot his brain using the super-mutant code and now Fantomex has wings and god-like powers.<ref>X-Force Vol 4 Issue #12</ref> Initially, he is tricked by Meme/Hope Summers into thinking he killed the team, but once he learns the ruse he vows vengeance. Fantomex is tricked again by Cable by agreeing to meet at various spy organization or organized crime locations for showdowns, but X-Force never shows; however, Fantomex still destroys the base, which ultimately helps X-Force's missions. Fantomex eventually finds X-Force, but is tricked by ForgetMeNot into teleporting near Hope Summers, who copies his super-powers.<ref>X-Force Vol 4 Issue #14</ref> Instead of fighting him head-on, Hope implants a thought into his mind that one cannot be perfect, unless you have a well rounded personality, which includes inadequacies and insecurities. Fantomex cannot comprehend being perfect and imperfect, so he has a mental breakdown. Psylocke then uses her psychic blades to scramble his brain.<ref>X-Force Vol 4 Issue #15</ref>
+
+===Astonishing X-men===
+As part of [[Astonishing X-men]] Fantomex is seemingly reunited with E.V.A after blaming Psylocke for taking E.V.A away from him in a previous encounter/storyline, He also now is working with Gambit until he pays what he owes to Fantomex. After a failed theft , Gambit was psychically called by Psylocke to help her, and Fantomex says he'll follow Gambit to the astral plane until he pays what he owes to him to the rest of psychically called X-men so that they know that their relationship is because of business reasons and not personal. After the team was split up in the astral plane, Fantomex ended up with Mystique and Mystique says they should enjoy themselves in the astral plane as they could conjure up anything before the Shadow King finds them and pain ensues, they have multiple activities together before sharing an intimate kiss and before they could go any further they were then teleported in front of an alive Professor X. It is revealed that Professor X's astral self has been trapped by the [[Shadow King]] and forced into a game with the X-Men as pawns, but Xavier is able to beat his old enemy by tricking him into bringing Rogue, Mystique, and Fantomex into the astral plane, as their malleable identities made them particularly powerful in this field of combat. At the conclusion of the confrontation, Fantomex sacrifices his body so that Xavier can return to Earth while he remains on the astral plane in the professor's place, Fantomex reasoning that nobody knows who he is outside of the role he was cast in by the Weapon X program, whereas this sacrifice will ensure that he is remembered for a great act by allowing Charles Xavier to return to life.
+
+==Powers and abilities==
+Fantomex can create extremely realistic illusions (he calls this ability "misdirection"). This ability is based on "reality skewing", rather than telepathy or holographic projection (Uncanny X-Force 14).
+
+Fantomex has an external nervous system referred to as E.V.A. He has mentioned that E.V.A. emerged from his mouth during his time in the World and developed into a techno-organic flying saucer-like vessel. The relationship between E.V.A and Fantomex is symbiotic, so if E.V.A. experiences pain when she is not within Fantomex, he will feel it as well. When E.V.A. is separated from his body, Fantomex feels no pain and seems able to ignore most injuries. Along with this symbiotic relationship, Fantomex is linked to E.V.A. via telepathy. He can see through E.V.A.'s point of view and can take control of her movement. However, this requires concentration on the part of Fantomex. Moreover, E.V.A, as a bio-mechanical being, can reshape her body into a variety of forms, fly herself, and generate energy discharges to be used as weapons.  Fantomex contains three brains that used for parallel and independent thinking as well as nano-active blood; the nanites in his brain prohibit him from believing in anything greater than himself, such as gods or any supernatural beings. He also maintains an internal back-up nervous system which can be engaged if E.V.A. is damaged. However, this system is less complex than E.V.A. and does not allow Fantomex to see colors.
+
+He possesses enhanced physical abilities. Fantomex is also capable of registering frequencies beyond the hearing range of normal humans. He even mentioned a healing factor on one occasion.<ref>''Fear Itself : Uncanny X-Force'' #2</ref>
+
+His three brains, allow him to survive severe head wounds since his secondary brains can take over should one be destroyed.<ref>''Uncanny X-Force'' #18</ref>
+
+Fantomex can also enter a trance state and perform crucial tasks such as performing surgery on himself. In this state, he can also recover faster while placed in water. He can expertly read the body language of others in order to predict their attacks.  He is a very skilled hand-to-hand combatant and a master of stealth techniques. His title in his birthplace, the World, was "stealth-fighter."
+
+Fantomex is a superb marksman. He used to use special bullets covered in sentient mutant skin that never missed their target (designed by Sir James Braddock, the father of Psylocke and Captain Britain) but he used his last of these against Archangel. He carries a variety of guns and other weapons.
+
+His mask incorporates telepathy-blocking ceramics. These allow his mind to remain completely unreadable, even facing the most powerful telepaths of the Marvel Universe (Professor X and the Shadow King among others).
+
+==Other versions==
+
+===Days of Future Now===
+In one variant of the ''[[Days of Future Past]]'' timeline (titled ''Days of Future Now'' and depicted in Frank Tieri's ''[[Weapon X]]'' series), Weapon X and the Sentinels are at war with Wolverine's X-Men and many other mutant groups, including Excelsior and Gene Nation. In this timeline, Fantomex becomes the host of Sublime and, possessed by the sentient bacteria, sabotages Wolverine's efforts to overthrow Weapon X.<ref>''Weapon X: Days of Future Now'' #1, 4–5</ref>
+
+===Here Comes Tomorrow===
+In the ''[[Here Comes Tomorrow]]'' storyline, set in an alternate timeline 150 years in the future, the entire world is ruled by [[Beast (comics)|Beast]] (possessed by [[Sublime (Marvel Comics)|Sublime]]). E.V.A. is a member of this era's X-Men, which includes Wolverine, [[Tito Jerome Bohusk|Tito]] ([[Barnell Bohusk|Beak]]'s grandson), [[Sentinel (comic book)|Tom Skylark]] and his Sentinel known as Rover, [[Weapon XIV|Three-in-One]] (the Stepford Cuckoos), [[No-Girl]], and a reformed [[Cassandra Nova]] as their leader. E.V.A. has taken on a humanoid form and does not want to bond with anyone else's nervous system after "what happened to Fantomex." Whatever happened to Fantomex is never explicitly explained in the storyline, though it is strongly hinted that Beast's U-Man follower, Apollyon the Destroyer, is actually Fantomex.<ref>''New X-Men'' #151–154 (2005)</ref>
+
+===X-Men: The End===
+Fantomex is depicted briefly in ''X-Men: The End'' as part of X-23's dream induced by the Ladies Mastermind, as she is stated to be in love with him in this reality. In X-23's dream, they are shown together playing with a small daughter in their backyard.
+
+==In other media==
+
+===Video games===
+* Fantomex makes a cameo appearance in Deadpool's ending in ''[[Ultimate Marvel vs. Capcom 3]]''.
+* Fantomex appears as an unlockable character in ''[[Marvel: Avengers Alliance]]''. At first, he could only be unlocked by completing the Season 6 Adamantium PVP, but he is now available normally.
+*Fantomex debuted in ''[[Marvel: Future Fight]]'' alongside Deadpool and other X-Force characters.
+
+==References==
+{{Reflist|3}}
+
+==External links==
+* [http://marvel.com/universe/Fantomex Fantomex] at Marvel.com
+* {{gcdb|type=character|search=Fantomex|title=Fantomex}}
+* {{comicbookdb|type=character|id=5116|title=Fantomex}}
+<!--* [http://herochat.com/forum/index.php/topic,134810.0.html Fantomex in Action]
+Obligatory registration, thus not suitable as a link in a wiki article
+-->
+{{Weapon Plus}}
+{{X-Men}}
+{{Grant Morrison}}
+
+[[Category:Characters created by Grant Morrison]]
+[[Category:Comics characters introduced in 2002]]
+[[Category:Fictional assassins]]
+[[Category:Fictional cyborgs]]
+[[Category:Fictional gentleman thieves]]
+[[Category:Fictional murderers]]
+[[Category:Fictional secret agents and spies]]
+[[Category:Fictional soldiers]]
+[[Category:Male characters in comics]]
+[[Category:Marvel Comics characters who can teleport]]
+[[Category:Marvel Comics martial artists]]
+[[Category:Marvel Comics mutates]]
+[[Category:Marvel Comics superheroes]]

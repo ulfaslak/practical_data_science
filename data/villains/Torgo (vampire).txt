@@ -1,0 +1,39 @@
+{{Infobox comics character| <!--Wikipedia:WikiProject Comics--> 
+image=<!-- Deleted image removed: [[Image:TorgoMarvel.gif|175px]] -->
+|caption=Torgo
+|character_name=Torgo
+|real_name=
+|species=[[Vampire (Marvel Comics)|Vampire]]
+|publisher=[[Marvel Comics]]
+|debut=''[[The Tomb of Dracula]]'' #70 (Aug 1979) 
+|creators=[[Marv Wolfman]] and [[Gene Colan]]
+|status=
+|alliances=
+|previous_alliances=
+|aliases=
+|relatives=
+|powers=
+}}
+
+'''Torgo''' is a [[fictional character]], a [[vampire]] appearing in [[American comic book]]s published by [[Marvel Comics]].
+
+==Publication history==
+Torgo was featured in ''[[The Tomb of Dracula]]'' volume 1 #70, although he was first mentioned in ''The Tomb of Dracula'' #69.
+
+Torgo appeared as part of the "Vampires" entry in the ''[[Official Handbook of the Marvel Universe|Official Handbook of the Marvel Universe Deluxe Edition]]'' #20.
+
+==Fictional character biography==
+A [[general]] in the [[Transylvania]]n army, Torgo led a force against [[Attila the Hun]]'s armies when Attila attempted to conquer his homeland.  During the battle Torgo was seriously wounded, and left for dead.  He was then buried alive, and was then found and slain by a Vampire.  Torgo then became a vampire himself.  When [[Dracula (Marvel Comics)|Dracula]] was transformed from vampire to human by [[Satan]] (actually [[Mephisto (comics)|Mephisto]]), Torgo became the new Lord of the Vampires.  As Lord of the Vampires, he had mental control over all other vampires, and he was physically powerful in comparison even to other vampires.  Torgo took control of Earth's vampires, and began planning to conquer the world.  However, Dracula regained his vampiric powers.  He challenged Torgo to a duel and destroyed him, resuming leadership of the world's vampires.  Dracula later destroyed many of the vampires who had sided with Torgo.{{issue|date=December 2011}}
+
+==References==
+{{reflist}}
+
+==External links==
+*{{Marvunapp|http://www.marvunapp.com/Appendix/torgo1.htm|Torgo}}
+*[http://www.marveldirectory.com/individuals/t/torgo.htm Torgo at Marveldirectory.com]
+
+[[Category:Marvel Comics characters with superhuman strength]]
+[[Category:Marvel Comics supervillains]]
+[[Category:Marvel Comics vampires]]
+
+{{Marvel-villain-stub}}

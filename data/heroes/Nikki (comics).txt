@@ -1,0 +1,59 @@
+{{For|the British comic|Nikki (D.C. Thomson)}}
+{{leadtooshort|date=January 2016}}
+
+{{Infobox comics character| <!--Wikipedia:WikiProject Comics--> 
+image=
+|caption=
+|character_name=Nikki
+|real_name=Nicholette Gold
+|species=
+|publisher=[[Marvel Comics]]
+|debut=''[[Marvel Presents]]'' #4 (Apr 1976)
+|creators=[[Steve Gerber]], [[Mary Skrenes]]
+|alliances=[[Guardians of the Galaxy (1969 team)|Guardians of the Galaxy]]<br/>[[Avengers (comics)|Avengers]] 
+|aliases=
+|powers=Superhuman ability to withstand heat and ultraviolet radiation<br />Can see clearly in very bright light<br />Good acrobat and sharpshooter
+}} 
+
+'''Nicholette "Nikki" Gold''' is a fictional character appearing in [[American comic book]]s published by [[Marvel Comics]]. The character is usually depicted as a woman in the [[Earth-691]] timeline of the fictional [[Marvel Universe]], genetically engineered to live on the planet [[Mercury (planet)|Mercury]].  As such, she has a superhuman ability to withstand heat and ultraviolet radiation, and can see clearly in very bright light. She is bald, although she expels body heat through her head in a low-temperature flame resembling hair in shape.  She was the sixth member of the [[Guardians of the Galaxy (1969 team)|Guardians of the Galaxy]], and is noted for her acrobatic and sharp-shooting skill.
+
+==Publication history==
+Nikki first appeared in ''[[Marvel Presents]]'' #4. Writer [[Steve Gerber]] recalled, "I wanted to [add] a girl - a Mercurian - because there wasn't one in the group. The conception was, I think, half mine and half [[Mary Skrenes]]'."<ref name="back65">{{cite journal|last=Buttery|first=Jarrod |title=Explore the Marvel Universe of the 31st Century with... the Guardians of the Galaxy|journal=[[Back Issue!]] |issue=65|pages=26-27|publisher=[[TwoMorrows Publishing]]|date=July 2013|location= Raleigh, North Carolina}}</ref> She was first referred to in ''[[FOOM]]'' #12.<ref>{{cite web|url=http://www.geocities.com/glakandar/gotw/ppl/nikki.htm |title=GOTW - Nicholette "Nikki" Gold |date=2002-06-29 |accessdate=2011-04-09 |archiveurl=https://web.archive.org/web/20030409211125/http://www.geocities.com/glakandar/gotw/ppl/nikki.htm |archivedate=2003-04-09}}</ref> At the time Gerber stopped writing ''Marvel Presents'', Nikki still had no clearly defined powers, leaving his successor [[Roger Stern]] to fill in that aspect of the character. Stern reflected, "Nikki was the blankest slate. I saw her 'power' as being able to adapt to virtually any environment. Otherwise, how would someone who had been born on the planet Mercury been able to stand - much less turn somersaults - under standard Earth gravity?{{efn|Earth's gravity is more than twice that of Mercury's.}}"<ref name="back65"/>
+
+==Fictional character biography==
+'''Nicholette "Nikki" Gold''' was born on the planet Mercury in the 31st Century. She was rescued from an abandoned spacecraft by the [[Guardians of the Galaxy (1969 team)|Guardians of the Galaxy]]. She joined the Guardians, seeking excitement and adventure after years of solitude aboard the abandoned spacecraft.<ref>''Marvel Presents'' #4 (April 1976)</ref> She later joined with [[Vance Astro]] in a metaphysical union in a successful attempt to use the force of human love to destroy the [[Topographical Man]].  The sexual nature of this union embarrassed Vance, but not Nikki.<ref>''Marvel Presents'' #7</ref>
+
+Nikki traveled to the present with the other Guardians, and assisted the [[Avengers (comics)|Avengers]] in battle against [[Korvac]].<ref>''Avengers'' #172-177</ref> She traveled to the present again, and battled [[Hammer and Anvil (comics)|Hammer and Anvil]] alongside [[Spider-Man]].<ref>''Marvel Team-Up'' #86</ref>
+
+Alongside the Guardians, Nikki later went on a quest to find the lost [[Captain America's shield|shield]] of [[Captain America]], and battled [[Taserface]].<ref>''Guardians of the Galaxy'' #1</ref> She battled the Stark alongside the other Guardians.<ref>''Guardians of the Galaxy'' #2-3</ref> She encountered [[Firelord (comics)|Firelord]].<ref>''Guardians of the Galaxy'' #4</ref> She battled the super-humanoid team known as [[Force (comics team)|Force]] alongside the Guardians.<ref>''Guardians of the Galaxy'' #5-6</ref>
+
+During her time on the team, Nikki had a romantic relationship with [[Charlie-27]], though they later amicably separated.{{Issue|date=July 2009}} She became attracted to later Guardian recruits Firelord and [[Talon (Marvel Comics)|Talon]] though both simply wished to remain friends.{{Issue|date=July 2009}}
+
+==Powers and abilities==
+Nikki is a member of a genetically engineered offshoot of humanity whose traits were designed for survival in the harsh conditions of the planet Mercury. As such, she has the ability to see in intense light, and has a high degree of resistance to heat and most types of radiation.  As she has matured, Nikki has demonstrated an ability to increase the intensity of the flames radiating from her scalp, to the point of being able to briefly project the flames outward as an offensive tactic; she has been shown using this ability to burn the hair from Charlie-27's scalp and eyebrows,<ref>''Guardians of the Galaxy'' #32</ref> scorch opponents such as the evil [[Mutant (Marvel Comics)|mutant]] Blockade,<ref>''Guardians of the Galaxy'' #39</ref> and lay down a wall of flame to repel attackers.<ref name="GOTG41">''Guardians of the Galaxy'' #41</ref> Another side effect of Mercurian physiology is a natural body temperature of several hundred degrees;<ref name="GOTG41" /> at one point, Nikki took up swimming to temporarily reduce her body temperature for Charlie-27's safety while they were in a romantic relationship.<ref>''Guardians of the Galaxy'' #8</ref>
+
+Nikki has achieved extensive proficiency in hand-to-hand combat and proficiency in gymnastics and sharp-shooting. She is self-taught from memory tapes.
+
+Nikki is often armed with a neuronic frequency stun gun, a laser pistol, and various handgun-type weapons as needed.
+
+==Notes==
+{{notelist}}
+
+==References==
+{{reflist}}
+
+==External links==
+* [https://web.archive.org/web/20030409211125/http://www.geocities.com/glakandar/gotw/ppl/nikki.htm Nicholette "Nikki" Gold], extensive biography with exhaustive references
+
+{{Guardians of the Galaxy}}
+{{Earth_691}}
+{{Steve Gerber}}
+
+{{DEFAULTSORT:Nikki (Comics)}}
+[[Category:Characters created by Steve Gerber]]
+[[Category:Comics characters introduced in 1976]]
+[[Category:Female characters in comics]]
+[[Category:Fictional genetically engineered characters]]
+[[Category:Guardians of the Galaxy characters]]
+[[Category:Marvel Comics superheroes]]
+[[Category:Mercury (planet) in fiction]]

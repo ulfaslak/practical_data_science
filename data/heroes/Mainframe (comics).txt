@@ -1,0 +1,82 @@
+{{Refimprove|date=December 2009}}
+'''Mainframe''' is the name of three [[fictional character]]s appearing in [[American comic book]]s published by [[Marvel Comics]].
+
+==Publication history==
+The Earth-691 version of Mainframe first appears in ''[[Amazing Adventures]]'' #38 (September 1976), and was created by [[Jim Valentino]]. 
+
+The Earth-982 version of Mainframe first appears in ''[[A-Next]]'' #1 (October 1998), and was created by [[Tom DeFalco]] and [[Ron Frenz]]. 
+
+The Earth-616 version of Mainframe first appears in ''[[Marvel Zombies]]'' #1 (May 2011), and created by Frank Marrffino and Fernando Blanco.
+
+==Fictional character biography==
+===Earth-691===
+{{Infobox comics character| <!--Wikipedia:WikiProject Comics-->
+|character_name=Mainframe
+|image= 
+|caption=
+|real_name=Main Frame
+|publisher=[[Marvel Comics]]
+|debut=''[[Amazing Adventures]]'' #38 (September 1976)
+|species=[[Android (robot)|Android]]
+|creators=[[Jim Valentino]]
+|alliances=[[Guardians of the Galaxy (1969 team)|Guardians of the Galaxy]] (Earth-691)
+|aliases=[[Vision (Marvel Comics)|Vision]] (Earth-691)
+|powers=N/A
+}}
+The Earth-691 version of Main Frame is a future counterpart of [[Vision (Marvel Comics)|Vision]] that is featured in the title ''[[Guardians of the Galaxy (1969 team)|Guardians of the Galaxy]]''. Main Frame is the chief operating system of an entire planet, and the guardian of the [[shield]] of hero [[Captain America]].<ref>''Guardians of the Galaxy'' #5 (Oct. 1990)</ref> He soon joins the Guardians of the Galaxy spinoff, the [[Galactic Guardians]].<ref>''Galactic Guardians'' #1–4</ref>
+{{-}}
+
+===Earth-982===
+{{Infobox comics character| <!--Wikipedia:WikiProject Comics-->
+|image= 
+|caption=The Earth-982 version of Mainframe.
+|character_name=Mainframe
+|real_name=Mainframe
+|publisher=[[Marvel Comics]]
+|debut=''[[A-Next]]'' #1 (October 1998)
+|creators=[[Tom DeFalco]]<br>[[Ron Frenz]]
+|alliances=[[A-Next]] (Earth-982)
+|aliases=
+|powers=Superhuman strength, flight, energy blasts, projectile weaponry
+}}
+The Earth-982 version of Mainframe appears when [[Iron Man]] decided to retire from the hero business. Iron Man did not want to let his legacy end, designing an [[Android (robot)|android]] patterned after the Iron Man armor, and called this robotic warrior Mainframe. Mainframe was brought online when [[Troll]]s attacked the young boy Kevin Masterson. Mainframe assembled all of the reserve [[Avengers (comics)|Avengers]] and fought to save him. When the fight was over, Mainframe, [[Cassandra Lang|Stinger]], [[J2 (comics)|J2]], and Kevin (as the new [[Thunderstrike (Kevin Masterson)|Thunderstrike]]) formed [[A-Next]], a new team of Avengers.<ref>''A-Next'' Vol. 1 #1-13</ref>
+
+Right away, Mainframe attempted to establish himself as team leader. He frequently encountered resistance from Stinger (who did not know that Mainframe was a robotic lifeform). But when Mainframe was terminally damaged, exposing his secret, Stinger was one of the first to volunteer to shrink inside to repair him. They later learned that whenever Mainframe was severely injured, he would upload his personality and memories into a replacement body assembled on an orbiting [[Satellite#Artificial satellites|satellite]].<ref>''A-Next'' #7-8</ref>
+
+Mainframe soon became more than just a high-tech hero to his teammates, he became a friend. He even learned to share his duties as leader with his teammate [[American Dream (comics)|American Dream]].<ref>''Spider-Girl'' #83</ref>
+
+===Earth-616===
+The Earth-616 character known as Mainframe is an android who is a member of the Guardsman Alpha Squad.<ref>''Marvel Zombies Supreme'' #1</ref> He is killed in battle against the zombie Squadron Supreme from the ''[[Marvel Zombies]]'' universe.<ref>''Marvel Zombies Supreme'' #5</ref>
+
+==Powers and abilities==
+===Earth-982===
+Mainframe's robotic body is superhumanly strong, and has jet boosters that allow him to fly. He is equipped with a [[high-tech]] sensor array, as well as various energy weapons (lasers, magnetic beams, electric blasts, etc.). He also has projectile weaponry, such as grenades and missiles.
+
+Mainframe's most valuable item is a tiny beacon that, when he is damaged beyond repair or destroyed, sends a signal to a Stark Enterprises satellite and uploads his consciousness into one of the replacement bodies stored there. With the recent destruction of that satellite, it remains to be seen what Mainframe will do.
+
+==In other media==
+===Television and Film===
+* The Earth-982 iteration of Mainframe appears in ''[[Hulk and the Agents of S.M.A.S.H.]]'', voiced by [[Jeffrey Combs]]. This version is a gaming A.I. created by [[Iron Man]] that gained his own personality. In the episode "Wheels of Fury", he threatened to destroy the city if Iron Man lost his real-life game, which Mainframe merely saw as continuing to Iron Man's challenge as ordered. The Agents of S.M.A.S.H. primarily led by [[She-Hulk]] had to go up against Mainframe's robots in a [[roller derby]]. After the Agents of S.M.A.S.H. and Iron Man defeat Mainframe's robots, Mainframe is persuaded not to attack the city. Desiring to learn more about the real world, Mainframe creates a new body (which resembles his appearance during ''A-Next'') and leaves to see the world. In the episode "Planet Monster" [Pt. 2], Mainframe is among those who help the Agents of S.M.A.S.H. and the [[Avengers (comics)|Avengers]] fight the [[Supreme Intelligence]]'s forces.
+* The Earth-982 iteration of Arsenal is alluded in the ''[[Avengers Assemble (TV series)|Avengers Assemble]]'' animated series as [[Arsenal (Marvel Comics)|Arsenal]]'s modified form. In the episode "Thanos Triumphant", Arsenal's rebuilt form (which resembles Mainframe) is used against [[Thanos]] equipped with all the [[Infinity Gems|Infinity Stones]]. 
+* The Earth-691 iteration of Mainframe appeared in ''[[Guardians of the Galaxy Vol. 2]]'', voiced by [[Miley Cyrus]] albeit uncredited.<ref>{{Cite news|url=http://movieweb.com/adam-warlock-guardians-galaxy-marvel-cinematic-universe-mcu/|title=Adam Warlock & Original Guardians Join Marvel Cinematic Universe|date=2017-04-20|access-date=2017-04-21|language=en-US}}</ref><ref>{{Cite news|url=http://movieweb.com/guardians-of-galaxy-2-miley-cyrus-mainframe-cameo/|title=Miley Cyrus Joins the MCU in Guardians of the Galaxy 2|date=2017-04-21|access-date=2017-04-24|language=en-US}}</ref> As a member of [[Yondu]]'s original team, Mainframe appears in one of the mid-credits scene where she speaks through a disembodied robot head when meeting with [[Starhawk (comics)|Stakar Ogord]], [[Martinex]], [[Charlie-27]], [[Aleta Ogord]] and [[Krugarr]].
+
+==References==
+{{Reflist|2}}
+
+==External links==
+* [http://marvel.wikia.com/Mainframe_%28Earth-982%29 Mainframe] at Marvel Wiki
+* [http://www.comicvine.com/mainframe/4005-3370/ Mainframe] at Comic Vine
+* [http://marvel.wikia.com/wiki/Vision_(Earth-691) Mainframe/Future Vision] at Marvel Wiki
+
+{{MC2}}
+{{Iron Man}}
+
+{{DEFAULTSORT:Mainframe (Comics)}}
+[[Category:Marvel Comics 2]]
+[[Category:Comics characters introduced in 1999]]
+[[Category:Marvel Comics robots]]
+[[Category:Marvel Comics superheroes]]
+[[Category:Characters created by Tom DeFalco]]
+[[Category:Characters created by Ron Frenz]]
+
+{{Marvel-hero-stub}}

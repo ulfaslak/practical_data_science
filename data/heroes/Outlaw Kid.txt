@@ -1,0 +1,221 @@
+{{Use mdy dates|date=January 2015}}
+{{Infobox comics character and title <!--Wikipedia:WikiProject Comics-->
+| image = OutlawKid11-pg2.png
+| caption = A [[Doug Wildey]] panel from ''The Outlaw Kid'' #11 (May 1956)
+| character_name = The Outlaw Kid
+| publisher = [[Atlas Comics (1950s)|Atlas Comics]] / [[Marvel Comics]]
+| debut = ''The Outlaw Kid'' #1 (September 1954)
+| creators = [[Doug Wildey]] (art)
+| alter_ego = Lance Temple
+| full_name =
+| species = <!-- optional -->
+| homeworld = <!-- optional -->
+| alliances = <!-- optional -->
+| aliases = <!-- optional: actual identities the character uses, not nicknames -->
+| supports=<!--optional-->
+| powers =
+<!--Series section-->
+|title               = The Outlaw Kid
+|cvr_image           = 
+|cvr_caption         = 
+|cvr_alt             =
+|schedule            = Bimonthly
+|format              = [[Ongoing series]]
+|limited             =
+|ongoing             = y
+|1shot               =
+|genre               = [[Western comics|Western]]
+|pub_series          = [[Atlas Comics (1950s)|Atlas Comics]] / [[Marvel Comics]]
+|1stishhead          = vol. 1
+|1stishyr            = 1954
+|1stishmo            = Sept.
+|endishyr            = 1957
+|endishmo            = Sept.
+|date                =
+|1stishhead1          = vol. 2 – mostly reprints
+|1stishyr1            = 1970
+|1stishmo1            = Aug.
+|endishyr1            = 1975
+|endishmo1            = Oct.
+|issues              = (vol. 1) 19<br />(vol 2.) 30
+|main_char_team      = Outlaw Kid
+|writers             = 
+|artists             = [[Doug Wildey]]
+|pencillers          = 
+|inkers              = 
+|letterers           =
+|colorists           =
+|editors             = 
+|creative_team_month = 
+|creative_team_year  = 
+|creators_series     = 
+|TPB                 = 
+|ISBN                = 
+|TPB1                = 
+|ISBN1               = 
+|nonUS               =
+|}}
+'''The Outlaw Kid'''  is a fictional [[Western (genre)|Western]] hero in comic books published by [[Marvel Comics]]. The character originally appeared in the company's 1950s iteration, [[Atlas Comics (1950s)|Atlas Comics]]. A lesser-known character than the company's [[Kid Colt]], [[Rawhide Kid]] or [[Two-Gun Kid]], he also starred in a reprint series in the 1970s and a short-lived revival.
+
+The Outlaw Kid was Lance Temple, an [[Old West]] lawyer and [[American Civil War|Civil War]] veteran living with his blinded father on a ranch. Though promising his father he would never take up a gun, he'd nonetheless felt the need to right wrongs expediently on the near-lawless frontier, and created a masked identity in order to keep his gunslinging secret.
+
+==Publication history==
+Comic-book artist [[Doug Wildey]], later a noted animation designer, illustrated three to four stories per issue of the 19-issue series ''The Outlaw Kid'' ([[cover date]]d Sept. 1954-Sept. 1957). [[Joe Maneely]] provided most of the covers. Backup features were usually "[[Black Rider (comics)|The Black Rider]]," drawn by [[Syd Shores]], or an anthological Western tale. An additional Outlaw Kid story appeared in ''[[Wild Western]]'' #43 (May 1955). Well over a year after the original series ended, two other Outlaw Kid stories by Wildey, presumably from inventory, saw print, in ''[[Kid Colt, Outlaw]]'' #82 (Jan. 1959) and ''Wyatt Earp'' #24 (Aug. 1959).
+
+Comics historian Ken Quattro called the series Wildey's most "noteworthy" Western work:
+{{quote|In concept, it was typical of all the [[Stan Lee]]-created Kids ([[Kid Colt|Colt]], [[Rawhide Kid|Rawhide]], [[Two-Gun Kid|Two-Gun]], [[Ringo Kid|Ringo]], etc.). What set it apart was Wildey's art. ... ''The Outlaw Kid'' was a monthly opportunity for Wildey to hone and develop his burgeoning art skills. Using ''Outlaw Kid'' #11 (May, 1956) as an example of his work well into the series, the influence of cinema on his work is evident. Though he may have had this influence all along, now it is readily apparent, with panels staged like film scenes. The characters have a realistic, illustrative look to them. ... Most significantly, his artwork finally had the consistent luster of professionalism. Wildey varied his inking from the fine stroke of an etching to the bold use of solid blacks to attain dramatic chiaroscuro effects.<ref name=ken>{{cite web|last=Quattro|first=Ken|url=http://www.comicartville.com/wildeypg1.htm|title=The Forgotten Art of Doug Wildey|publisher=Comicartville.com|date=n.d.|page=[http://www.comicartville.com/wildeypg2.htm 2]|archiveurl=https://www.webcitation.org/5x5UxrnpM?url=http://www.comicartville.com/wildeypg1.htm|archivedate=March 10, 2011|deadurl=no|df=mdy-all}}</ref>}}
+
+When Marvel began reprinting the series in ''The Outlaw Kid'' vol. 2, #1–30 (Aug. 1970 – Oct. 1975), it became the best-selling among the company's Western reprints.<ref name="evanier">Evanier, Mark. [http://povonline.com/cols/COL005.htm "Don Segall, Frank Ridgeway, & Doug Wildey,"] POV Online (November 18, 1994).</ref> [[Gil Kane]], [[John Severin]] and [[Herb Trimpe]], among others, provided new cover art. When the 1950s Wildey material ran out, Marvel commissioned new stories, by writer [[Mike Friedrich]], followed by the unrelated [[Gary Friedrich]], with art by Marvel Western veteran [[Dick Ayers]]. Yet with these new stories, in issues #10–16 (Oct. 1972 – June 1973), sales dropped, after which the title began re-reprinting Wildey's work.<ref name="evanier"/> Wildey reprints also appeared in the 1970s Marvel series ''[[Mighty Marvel Western]]'' (#9) and ''[[Western Gunfighters]]''<!--#8-10?-->.<!--One source lists an Outlaw Kid appearance in Rawhide Kid #46 (June 1965), but it is unclear if he guests in Rawhide Kid story, or if he stars in 5-page backup "The Warning," written and penciled by Alex Toth, inked by Vince Colletta. The Rawhide Kid #148 & 150 apps. the source also lists are almost certainly reprints.-->
+
+The Outlaw Kid reappeared in the four-issue [[Limited series (comics)|limited series]] ''[[Blaze of Glory: The Last Ride of the Western Heroes]]'' (2000), by writer [[John Ostrander]] and artist [[Leonardo Manco]], which specifically [[retconned]] that the naively clean-cut Marvel Western stories of years past were merely [[dime novel]] fictions of the characters' actual lives. It was revealed here that Temple's father, who did not want him gunslinging, had died from the shock of learning of his son's alter ego, and that a guilt-wracked Temple, blaming himself for his father's death, developed a [[split personality]] and was unaware he was the Outlaw Kid. Indeed, he was actually searching for the Outlaw Kid in the miniseries. He dies in the last issue, helping defend the town of Wonderment. His last act was to use dynamite to kill some opponents, noting his father would have been happy he did not use a gun. As series writer [[John Ostrander]] explained,
+{{quote|The Outlaw Kid was once described as the closest thing in the Old West to [[Spider-Man]]. He had a father who so disapproved of guns that the character created the Outlaw Kid, and would only use guns when he was The Outlaw Kid. In my version of it, he's gone a little bit over the edge, in that his father eventually found out, and the heart attack killed him, and he's devised the Outlaw Kid into a whole different personality. And in his regular personality, he thinks the Outlaw Kid is the killer, so he's hunting himself through the miniseries.<ref>[http://www.angelfire.com/on2/thefuture/ostrander.html ''Disinformation Ministry 2000'': John Ostrander interview] (no date)</ref>}}
+
+==Legacy==
+The mutant [[Outlaw (comics)|Outlaw]] of [[Agent X (Marvel Comics)|Agency X]] is a descendant of the Outlaw Kid.{{issue|date=January 2013}}
+
+==List of Doug Wildey's Outlaw Kid stories==
+
+''This list is incomplete.''
+
+* ''The Outlaw Kid'' #1 (Sept. 1954)
+:: "The Beginning!"
+:: "Jaws of Death!"
+:: "A Killer's Trap!"
+
+* ''The Outlaw Kid'' #2 (Nov. 1954)
+:: "The Fast Gun!" a.k.a. "The Fast Draw" (rep. Vol. 2, #3)
+:: "Redman's Revenge!"
+:: "Fury at Echo Pass!"
+
+* ''The Outlaw Kid'' #3 (Jan. 1955)(rep. Vol. 2, #1)
+:: "Hostage"
+:: "Breakthrough"
+:: "Showdown"
+
+* ''The Outlaw Kid'' #4 (Mar. 1955)
+:: [cover]
+:: "Ghost Town"
+:: "Death Battle"
+:: "Rruummbblle"
+    
+* ''The Outlaw Kid'' #5 (May 1955)(rep. Vol. 2, #2)
+:: "Two of a Kind"
+:: "The Newcomers"
+:: "Flames of Violence"
+
+* ''The Outlaw Kid'' #8 (Nov. 1955)
+:: "Helping Hand"
+:: "Gun Law"
+:: "The Outsider"
+
+* ''The Outlaw Kid'' #10 (March 1956)(rep. Vol. 2, #3)
+:: "The Fast Draw"
+:: "Renegade Rout"
+:: "Stand Up and Fight"
+:: "The Man Behind the Guns"
+
+* ''The Outlaw Kid'' #11 (May 1956) (rep. Vol. 2, #4)
+:: "Losers Take Nothing"
+:: "Six-gun Gamble"
+:: "Fang and Claw"
+:: "The Riddle of Scorpion Creek"
+
+* The Outlaw Kid #12 (July 1956)
+:: "Six-Gun Menace"
+:: "The Riddle of Fargo Pass"
+:: "Badman's Choice"
+:: "Range War"
+
+* The Outlaw Kid #13 (Sept. 1956)
+:: "Flames Along the Border"
+:: "Bully's Bluff" (rep. Vol. 2, #7, Aug. 1971)
+:: "Scourge of the Plains"
+:: "Appointment With Danger"
+
+* The Outlaw Kid #14 (Nov. 1956)
+:: "Whistling Lead"
+:: "Gunning for Trouble"
+:: "Gun Duel"
+:: "The Land Grabbers"
+
+* The Outlaw Kid #15 (Jan. 1957)
+:: "Duel in the Desert"
+:: "Guns For Hire"
+:: "Six-Gun Challenge"
+:: "Along The Outlaw Trail"
+
+* The Outlaw Kid #16 (Mar. 1957)
+:: "Six-Gun Meeting"
+:: "Redmen on the Rampage"
+:: "Treachery on the Trail"
+:: "Law and Order"
+
+* The Outlaw Kid #17 (May 1957)
+:: "Gunning For Trouble"
+:: "Empty Holsters"
+:: "Fists of Steel"
+:: "Showdown at Sunup"
+
+* The Outlaw Kid #18 (July 1957)
+:: "Menace on Main Street"
+:: "The Ambushers Strike"
+:: "Six-Gun PayoFf"
+:: "The Kid's Revenge"
+
+* The Outlaw Kid #19 (Sept. 1957)
+:: "When the Owlhoots Rode"
+:: "Revenge of the Redmen"
+:: "Gun Crazy"
+:: "Treachery in Caliber City"
+
+* ''Wyatt Earp'' #24 (Aug. 1959)
+:: "The Man Behind the Guns" (reprint #10?)
+
+REPRINTS
+
+''Information will go above when sourced.''
+
+* ''The Outlaw Kid'' Vol. 2, #5 (April 1971)
+:: "Empty holsters!"
+:: "Fists of steel!"
+:: "Showdown at Sunup!"
+:: "Gunning for Trouble!"
+
+* ''The Outlaw Kid'' Vol. 2, #6 (June 1971; re-reprinted #22, June 1974)
+:: "Redmen on the Rampage!"
+:: "Six-Gun Meeting!"
+:: "Law and Order!"
+
+* ''The Outlaw Kid'' Vol. 2, #9 (Dec. 1971; re-reprinted #25, Dec. 1974)
+:: "Gun Law"
+:: "The Outsider"
+
+* ''The Outlaw Kid'' Vol. 2, #10 (June 1972)
+:: "The Origin of the Outlaw Kid"
+
+==References==
+{{reflist}}
+
+==External links==
+* [https://web.archive.org/web/20091026205847/http://www.geocities.com/ratmmjess/outlaw.html Guide To Marvel's Pre-FF 1 Heroes: The Outlaw Kid]
+* [http://www.internationalhero.co.uk/o/outlawkid.htm International Heroes: The Outlaw Kid]
+* [http://www.atlastales.com/sI/3095 Atlas Tales: The Outlaw Kid]
+* [http://www.maelmill-insi.de/UHBMCC/ The Unofficial Handbook of Marvel Comics Creators]
+* [http://www.comics.org/ The Grand Comics Database]
+* [http://www.lib.msu.edu/comics/rri/orri/index.htm Michigan State University Libraries Comic Art Collection Reading Room Index]
+* [http://www.marvunapp.com/Appendix3/outlawax.htm The Unofficial Handbook of the Marvel Universe: Outlaw]
+
+{{Marvel Western Characters}}
+
+[[Category:American comics]]
+[[Category:Fictional outlaws]]
+[[Category:1954 comics debuts]]
+[[Category:Comics characters introduced in 1954]]
+[[Category:1957 comics endings]]
+[[Category:1970 comics debuts]]
+[[Category:1975 comics endings]]
+[[Category:Western (genre) characters]]
+[[Category:Western (genre) comics]]
+[[Category:American comics characters]]
+[[Category:Marvel Comics superheroes]]
+[[Category:Marvel Comics titles]]

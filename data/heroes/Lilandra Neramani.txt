@@ -1,0 +1,115 @@
+{{Superherobox
+|image=Xmen122.png
+|image_size=250
+|caption=Cover to ''New X-Men'' #122<br>Art by [[Frank Quitely]].
+|character_name=Princess-Majestrix Lilandra Neramani
+|publisher=[[Marvel Comics]]
+|debut=''[[Uncanny X-Men]]'' #97 (February 1976)
+|creators=[[Chris Claremont]]<br>[[Dave Cockrum]]
+|real_name = Lilandra Neramani
+|species= [[Shi'ar]]
+|homeworld = Aerie
+|alliances=[[Shi'ar|Shi'ar Imperium]]<br/>[[Starjammers]] 
+|aliases = <!-- optional: actual identities the character uses, not nicknames -->
+|supports = <!--optional-->
+|powers=Limited [[telepathy]]<br>Shi'ar armor and ceremonial staff
+}}
+'''Lilandra Neramani''' ({{IPAc-en|l|ɪ|ˈ|l|æ|n|d|r|ə}}) is a [[fictional character]] appearing in American comic books published by [[Marvel Comics]], most commonly in association with the [[X-Men]]. She is the Empress, or Majestrix, of the [[Shi'ar]] Empire and shares a lifelong bond with the leader of the X-Men, [[Professor X|Charles Xavier]]. She and Xavier were married, but their marriage was [[annulment|annulled]] after the [[Cassandra Nova]] incident.
+
+As the Empress, Lilandra is protected by the [[Imperial Guard (comics)|Imperial Guard]], led by [[Gladiator (Kallark)|Gladiator]].
+
+Lilandra has often been a pivotal secondary character in the X-Men's history, from her participation in the [[Phoenix (comics)|Phoenix]] Saga, to her role in [[Grant Morrison|Grant Morrison's]] experimental and controversial run on ''[[New X-Men (2001 series)|New X-Men]]''.  Her role as one of [[Professor X]]'s most cherished loves has played a significant part in the development of both characters, as well as many of the plots throughout the X-Men books.
+
+==Publication history==
+{{expand section|date=July 2016}}
+Lilandra Neramani first appeared in ''X-Men'' vol. 1 #97 (1976) and was created by [[Chris Claremont]] and [[Dave Cockrum]].
+
+==Fictional character biography==
+Lilandra is the sibling of [[D'Ken]], [[Deathbird]], and an unnamed older sister. Lilandra was born on the Aerie (now known as Chandilar, native world of the Shi'ar). Deathbird, the oldest of the surviving three, was denied the throne for "unspeakable" crimes (the murder of her mother and older sister) and was exiled. Instead the throne went to D'Ken, who turned out to be a power mad dictator. Lilandra became a Grand Admiral of the Imperial Guard, in the Shi'ar fleet, but turned against D'Ken, when she found out about his plans involving the [[M'Kraan Crystal]]. Branded a traitor, Lilandra fled to Earth, hoping to find allies among its large population of [[superhero]]es and found them in [[Professor X|Charles Xavier]] and his [[X-Men]]. She began sending visions of herself to Xavier as she traveled to Earth.<ref>''X-Men'' Vol. 1 #97-98, 102-104</ref>
+
+===Dealing with D'Ken===
+Finally meeting Xavier in person, she was captured by [[Erik the Red (comics)|Davan Shakari]].<ref>''X-Men'' Vol. 1 #105</ref> She was held captive by D'Ken, and revealed D'Ken's plot to gain ultimate power. She was saved by the space pirates known as the [[Starjammers]] and the X-Men, and reunited on Earth with Xavier.<ref>''X-Men'' Vol. 1 #107-108</ref> She ultimately invited Xavier to accompany her to the Shi'ar throne-world.<ref>''Uncanny X-Men'' #117</ref> During the ''Phoenix Saga'', the X-Men, in particular [[Phoenix (comics)|Phoenix]], managed to stop D'Ken's plan, who ultimately was banished after being driven mad.{{issue|date=March 2013}}
+
+===Majestrix-in-Exile===
+Lilandra took the throne as Majestrix-Shi'ar (empress of the Shi'ar Imperium) with Xavier as her official consort.<ref>''Uncanny X-Men'' #122</ref> She staged a trial by combat to determine the fate of Phoenix.<ref>''Uncanny X-Men'' #137</ref> She overcame Deathbird's first attempted coup.<ref>''Uncanny X-Men'' #154, 156-157</ref> However, a short while later her position was usurped by Deathbird, who had made a pact with the [[Brood (comics)|Brood]] and [[Badoon]]. She managed to escape along with the X-Men, and Lilandra became Majestrix-in-Exile on Earth.<ref>''Uncanny X-Men'' #161-162, 164-168</ref> She became a freedom fighter and allied herself with the Starjammers and decided to take back her throne.{{issue|date=March 2013}}
+
+===Trial of Reed Richards===
+As monarch, Lilandra has taken a leading role in interstellar affairs, such as dealing with the menace of [[Dark Phoenix]] and indicting [[Mister Fantastic|Reed Richards]] of the [[Fantastic Four]] for daring to save the life of the planet consumer, [[Galactus]].<ref>''Fantastic Four'' #261-262</ref>
+
+===Return to the throne===
+When Charles Xavier suffered a near-fatal heart attack, the Starjammers saved him and cured him, but due to enemy spacecraft, they could not return to Earth.<ref>''Uncanny X-Men'' #200-201</ref> It was later recounted how Lilandra escaped D'Ken and first had mental contact with Xavier.<ref>''Classic X-Men'' #14</ref> She then nearly killed Deathbird in combat.<ref>''X-Men Spotlight On: Starjammers'' #1-2</ref> With the help of Xavier and the Starjammers, Lilandra eventually managed to retake the throne and her exile was revoked. She was freed from control by the [[Skrull|Warskrulls]] and parted with Xavier.<ref>''Uncanny X-Men'' #275-277</ref>
+
+===Kree-Shi'ar War===
+Before much longer, interstellar war erupted between the Shi'ar and the [[Kree]]. Lilandra ordered the Starjammers to transport the nega-bomb into Kree space.<ref>''Wonder Man'' #8</ref> She survived an assassination attempt by the Kree [[Starforce (comics)|Starforce]], and decided to recall the nega-bomb.<ref>''Thor'' #446</ref> She discovered that a Skrull impersonating Araki helped cause the Kree-Shi'ar War.<ref>''Avengers West Coast'' #82</ref> At the end of the war, she took control of the devastated Kree Empire, and appointed Deathbird as her viceroy there.<ref>''Avengers'' #347</ref> Fearing the Kree would seek retribution against the Avengers for their part in ending the war, Lilandra dispatched the Shi'ar warrior, [[Deathcry]] (who has recently been revealed to be Lilandra's niece and Deathbird's daughter) to Earth as their protector as atonement for killing one of her platoon members in a drunken rage over a mutual lover.<ref>''Chaos War: Dead Avengers'' #2</ref>
+
+===Cassandra Nova===
+While Lilandra is a peaceful and beloved empress, her reign has proven to be tumultuous. During her reign, the [[Skrull]] tried to infiltrate and control the Shi'ar government, an intergalactic war with the [[Kree]] erupted and there were attacks by the [[Phalanx (comics)|Phalanx]] and the [[List of Marvel Comics alien races#U|Uncreated]]. The most damage done to the Shi'ar Empire was done by [[Cassandra Nova]], who, in the body of Charles Xavier, mind-controlled Lilandra and made her order the Shi'ar fleets to attack the Empire's territory, and then used them in an attempt to destroy mutant-kind. Lilandra was lost for a while on earth and attempted to kill Xavier, not understanding he was his own self again. Several Shi'ar noblemen took her away. This and [[Jean Grey]] turning into the Phoenix again, were the reasons for the Shi'ar Council to annul the marriage between Lilandra and Xavier. It appears the Shi'ar Council was responsible for ordering the recent mass extermination of the Grey family by the Shi'ar Death Commandos as Lilandra has been recovering from her ordeal with Cassandra Nova on the planet Trellerri and is apparently unaware of their machinations. As she was making preparations to return to her duties as Empress, she was ambushed by Chancellor Araki, who was revealed to be in league with the Shi'ar Vice Chancellor K'Tor and the Empire's Secret Order as part of a coup to remove Lilandra from the throne, and return D'Ken as Emperor. With the aid of a guard still loyal to her, Lilandra was rescued from captivity by the X-Men and the Starjammers and told them of D'Ken's return.{{issue|date=March 2013}}
+
+===Emperor Vulcan===
+This was all part of a plan by [[Vulcan (Marvel Comics)|Vulcan]], a powerful mutant, to gain control of the empire. During the incident, many members of the Imperial Guard die at his hands. D'Ken is soon killed after Vulcan officially marries Deathbird. Thus, Vulcan is now the ruler of the Shi'ar Imperium. Lilandra is currently in the company of the Starjammers, opposing Vulcan's tyranny. Most of the Starjammers are eventually captured by Vulcan. However, Korvus, Marvel Girl and Lilandra remain free.{{issue|date=March 2013}}
+
+===X-Men: Kingbreaker & War of the Kings===
+Lilandra appeared as a central character in the Emperor Vulcan sequel, ''X-Men: Kingbreaker'' and in the ''War of Kings'' miniseries, which began in early 2009.<ref>http://www.newsarama.com/comics/080823-XMenKingbreaker.html</ref><ref>http://www.newsarama.com/comics/080727-WarofKings.html</ref>
+
+In issue #4 of the ''War of Kings'' crossover, Lilandra is assassinated by [[Darkhawk]], who is being controlled by Razor, who is in turn impersonating a Shi'ar citizen. She dies in the arms of [[Gladiator (Kallark)|Gladiator]].<ref>''[[War of Kings (comics)|War of Kings]]'' #4</ref>
+
+==Powers and abilities==
+As a member of the alien [[Shi'ar]] race, Lilandra's physical abilities are somewhat greater than those of a human woman. Lilandra also has limited telepathic abilities whose extent have yet to be clearly defined.
+
+Lilandra is an excellent hand-to-hand combatant, trained in Shi'ar methods of armed and unarmed combat. She is also a good starship pilot.
+
+Lilandra sometimes wears battle armor of unknown composition. She uses a variety of Shi'ar weaponry as needed.
+
+==Other versions==
+
+===Age of Apocalypse===
+Although Lilandra does not make an appearance, it is known that in this reality Lilandra was killed by her brother D'ken when she tried to stop him from taking control of the M'kraan Crystal.{{Issue|date=April 2009}}
+
+===MC2===
+[[File:Ultlilandra.png|205px|right|thumb|Ultimate Lilandra. Art by [[Tom Raney]].]]
+An alternate, older version of the original Lilandra has been revealed in [[Marvel Comics 2|MC2]]'s miniseries, [[Last Planet Standing]]. There, the Shi'ar Empire is eaten by the planet devourer [[Galactus]] and Lilandra's Imperial Guard help her and her servants escape right before Galactus consumes the entire empire. What has become of her since is at this point still unknown.
+
+===Ultimate Marvel===
+An alternate version of Lilandra has turned up in the [[Ultimate Marvel]] universe's ''[[Ultimate X-Men]]'' title (starting in issue #66). Lilandra Neramani is not an alien, but the "Majestrix" of the [[Shi'ar#Ultimate Marvel|Church of Shi'ar Enlightenment]], and claims to represent an ancient religion that worships the [[Phoenix (comics)#Ultimate Marvel|Phoenix]]. They wish to finance the X-Men in return for the study of [[Jean Grey#Ultimate Jean Grey/Marvel Girl|Jean Grey]].<ref>''[[Ultimate X-Men]]''#66</ref> She is later seen attending Charles Xavier's funeral.<ref>''[[Ultimate X-Men]]''#79</ref>
+
+Prior to this, in ''[[Ultimate X4]]'' #1, a mental projection of seemingly alien origin, showing an attractive female humanoid calling herself '''General Lal-Qil-Atrox''', asks Charles Xavier to assist her in capturing dangerous mutants whose powers are classed at "sun-eater" level.  However, this was revealed to be a ruse staged by Rhona Burchill, the [[Mad Thinker#Ultimate Thinker|Mad Thinker]], to send the X-Men on a wild goose chase so she could steal components of their [[Cerebro]] computer system.<ref>''Ultimate X4'' #1-4</ref>
+
+===X-Men: The End===
+Lilandra is featured in this alternate future storyline, still heavily affected by the attacks of [[Cassandra Nova]].{{issue|date=March 2013}}  During the time that Nova possessed Xavier's body, Lilandra became pregnant with their son.{{issue|date=March 2013}}  Both he and Lilandra would later be murdered by Nova.{{Issue|date=February 2010}}
+
+==In other media==
+
+===Television===
+* Lilandra first appears in the third season of  [[X-Men (TV series)|''X-Men'']], voiced by [[Camilla Scott]]. This incarnation of the character possessed limited telepathic capabilities. There, she sought out help of Professor Xavier and his X-Men to help her defeat her evil brother D'Ken. During the short time they shared alone, Xavier and Lilandra quickly fell in love and eventually managed to defeat D'Ken. When Lilandra became the new heir to the Shi'ar throne, she kissed and thanked Xavier for his help and even offered him to join her, but he declined to do this for as long as there is no peace between mankind and [[Mutant (Marvel Comics)|mutants]]. Lilandra left, but eventually returned to Earth when Xavier became deadly ill in the final episode of the show. She took Xavier to the Shi'ar Empire with her so they could heal him.
+* Lilandra appears in the ''[[Hulk and the Agents of S.M.A.S.H.]]'' episode "It's a Wonderful Smash", voiced by [[Nika Futterman]].<ref name="It's a Wonderful Smash">{{cite episode|title=It's a Wonderful Smash|series=Hulk and the Agents of S.M.A.S.H.|network=Disney XD|season=1|number=25|airdate=July 6, 2014}}</ref> She and the [[Supreme Intelligence]] are discussing a peace treaty between the Kree and the Shi'ar that involves the [[Guardians of the Galaxy (2008 team)|Guardians of the Galaxy]] bringing them the Orb of Truth. After the Agents of S.M.A.S.H. and the Guardians of the Galaxy escape from the [[Collector (comics)|Collector]] and bring them the artifact, the peace treaty between the Kree and the Shi'ar is a success.
+
+===Video games===
+* Lilandra appears in ''[[X-Men (1993 video game)|X-Men]]''. In the game's second level, the X-Men travel to the Shi'ar Empire and must rescue her from Deathbird.{{Citation needed|date=December 2008}}
+* Lilandra appears in an extra mission in the [[PlayStation Portable]] versions of ''[[X-Men Legends II: Rise of Apocalypse]]''.{{citation needed|date=January 2017}}
+* Lilandra appears in ''[[Marvel: Ultimate Alliance]]'', voiced by [[Marabina Jaimes]].<ref>{{cite web|url=http://www.marvelultimatealliance.com/characters.php?id%3D208 |title=Archived copy |accessdate=2006-07-16 |deadurl=yes |archiveurl=https://web.archive.org/web/20060903111931/http://www.marvelultimatealliance.com/characters.php?id=208 |archivedate=2006-09-03 |df= }}</ref> In the game, the throne is taken from her by her sister Deathbird. An optional quest involves whether the player saves her from her confinement. The player has to prevent the Shi'ar starship from self-destructing by smashing power nodes within a time limit. In one of the rooms that hold power nodes, Lilandra is seen hooked up to what is described as a "torture chamber." To save her, a computer near her has to be smashed. It is very durable and hard to destroy, putting further stress on the objective to smash the power nodes before time runs out and the ship self-destructs. Also, if the power nodes are destroyed beforehand, the computer can no longer be harmed. If the player decides to rescue her, the Shi'ar will give Earth advanced technology to wipe out all diseases and hunger on Earth and the Shi'ar's technology will eventually enable humanity to colonize other planets. If the player doesn't, the Shi'ar will refuse to help the heroes when they fail to stop an asteroid that comes to obliterate the Western coast of the United States. Even when Lilandra is freed, she tells the heroes that she is forever in their debt. Outside of that, she has special dialogue with Storm when she's trapped.
+
+===Parodies===
+* Footage of Lilandra's appearance in the ''[[X-Men (TV series)|X-Men]]'' episode "[[List of X-Men (TV series) episodes#Season Three (1994–1995)|Phoenix Saga (Part 3): The Cry of the Banshee]]" was parodied in "[[The Juggernaut Bitch!!]]" internet video, where she was referred to only as "The Bitch".
+
+==References==
+{{Reflist|30em}}
+
+==External links==
+* {{Marvelwiki|Neramani,_Lilandra|Lilandra Neramani}}
+
+{{X-Men}}
+{{Ultimate X-Men}}
+
+{{DEFAULTSORT:Neramani, Lilandra}}
+[[Category:Comics characters introduced in 1976]]
+[[Category:Characters created by Chris Claremont]]
+[[Category:Characters created by Dave Cockrum]]
+[[Category:Extraterrestrial superheroes]]
+[[Category:Female characters in comics]]
+[[Category:Fictional emperors and empresses]]
+[[Category:Fictional aviators]]
+[[Category:Marvel Comics martial artists]]
+[[Category:Marvel Comics superheroes]]
+[[Category:Marvel Comics telepaths]]
+[[Category:Shi'ar]]
+[[Category:Space pirates]]

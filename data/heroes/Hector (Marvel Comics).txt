@@ -1,0 +1,51 @@
+{{short description|Marvel Comics superhero}}
+{{In-universe| subject = a [[Wikipedia:WikiProject Comics|comics]] | described_object = a '''character''' | category = |date=October 2009}}
+{{Notability|date=August 2018}}
+{{Infobox comics character <!--Wikipedia:WikiProject Comics--> 
+|image=Northstar & hector.jpg
+|imagesize=200
+|caption=Hector and [[Northstar (Marvel Comics)|Northstar]] shown sun-bathing together in ''Marvel Swimsuit Special 1995'' (1995)
+|character_name=Hector
+|real_name=Unknown
+|species=
+|publisher=[[Marvel Comics]]
+|debut='''Incredible Hulk #379''' 
+|creators=[[Peter David]]; [[Dale Keown]]
+|alliances=[[Pantheon (Marvel Comics)|Pantheon]]
+|previous_alliances=
+|aliases=Scott Shannon
+|powers=Energy flail, super strength, flight
+}}
+
+'''Hector''' is a [[fictional character]] appearing in [[American comic book]]s published by [[Marvel Comics]]. The character is usually depicted as a member of the [[superhero]] family the [[Pantheon (Marvel Comics)|Pantheon]]. Hector uses an energy [[flail (weapon)|flail]] as a weapon. Hector appears to be something of a master strategist.
+
+==Fictional character biography==
+Hector is a member of the Pantheon, a superhuman group of beings with exceptional lifespans and incredible physical durability. 
+It was revealed to the reader, upon the arrival of Cassiopea, Hector was not like the others. When told "a real woman could straight you out", Hector responded with "I don't like real women! I like--" <ref>Incredible Hulk Vol. 1 #413</ref> but before he could finish the thought, was interrupted by Ulysses. Additional references were made about Hector's sexuality <ref>Incredible Hulk Vol. 1 #414</ref> until it was revealed Hector was gay. <ref>Incredible Hulk Vol. 1 #417</ref>
+
+Hector's sexuality was never an issue for anyone else in the family, aside from [[Ulysses (Pantheon)|Ulysses]], who took exception to a brief, friendly conversation with Northstar [[Northstar (Marvel Comics)|Northstar]] at Rick Jones' wedding <ref>Incredible Hulk Vol. 1 #418</ref>. Ulysses once suggested that gays brought the AIDS crisis on themselves by being too promiscuous, which led to Hector punching him to spare a lengthy and pointless argument<ref>Incredible Hulk Vol. 1 #420</ref>. 
+Hector often has to fight off the unwanted sexual advances of fellow Pantheon member [[Cassiopea (Pantheon)|Cassiopea]].{{issue|date=April 2013}}
+
+Hector often goes on Pantheon missions, including unofficial ones such as helping the Hulk avenge the murder of an old Las Vegas mobster friend.{{issue|date=April 2013}}
+
+Later, Ulysses sacrifices himself to save Hector from being shot by Jason<ref>Incredible Hulk Vol. 1 #421</ref>. When asked why he would die for someone he hates, Ulysses answers that busting each other's chops is what brothers do.{{issue|date=April 2013}}
+
+Nothing is known about Hector's life prior to joining the Pantheon. He made the comment that he was recruited into the Pantheon 30 years ago.<ref>''Incredible Hulk'' #401</ref> One of the lower level technicians at the Pantheon made the comment that Hector is the biggest gossip in the group.{{issue|date=April 2013}}
+
+==Powers and abilities==
+Hector is an excellent hand-to-hand combatant and wields an energy flail. He is also able to fly. Like the other Pantheon members, Hector has a healing factor.
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://marvel.wikia.com/Hector_%28Pantheon%29_%28Earth-616%29 Hector (Pantheon)] at Marvel Wiki
+
+[[Category:Characters created by Peter David]]
+[[Category:Comics articles that need to differentiate between fact and fiction]]
+[[Category:Fictional gay males]]
+[[Category:LGBT superheroes]]
+[[Category:Marvel Comics superheroes]]
+
+
+{{marvel-hero-stub}}

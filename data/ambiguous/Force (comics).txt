@@ -1,0 +1,55 @@
+{{Notability|date=August 2018}}
+{{In-universe|date=August 2018}}
+{{Infobox comics character <!--Wikipedia:WikiProject Comics--> 
+|image=IronMan-224.jpg
+|caption=Force (left center, below [[Iron Man]]) as featured on the cover of ''[[Iron Man (comic book)|Iron Man]]'' #224 (Nov. 1987). Art by [[Bob Layton]].
+|character_name=Force
+|real_name=Clayton Wilson
+|species=
+|publisher=[[Marvel Comics]]
+|debut=''Prince Namor, the Savage Sub-Mariner'' #67 (November 1972)
+|creators=[[Steve Gerber]]<br>[[Don Heck]]
+|alliances=
+|aliases=Carl Walker, Taylor 
+|powers='''Via suit''': <br>Enhanced strength<br>Force field projection<br>Flight
+}}
+'''Force''' (born '''Clayton "Clay" Wilson''', legally changed to '''Carl Walker''') is a [[fictional character]] appearing in [[American comic book]]s published by [[Marvel Comics]]. The character first appears in ''Prince Namor, the Savage Sub-Mariner'' #67 (November 1972), and was created by writer [[Steve Gerber]] and artist [[Don Heck]].
+
+==Fictional character biography==
+Clayton Wilson is a graduate student at [[Empire State University]] working as a research assistant to [[scientist]] Dr. Damon Walters who develops a prototype device for creating a protective [[force shield|force field]]. Wilson steals the prototype force field generator, creates a incorporated battle-suit, and adopts the alias "Force". The character then goes on a [[Running amok|rampage]] through [[New York City]] until he was defeated by hero [[Namor|Namor the Sub-Mariner]].<ref>''Prince Namor, the Sub-Mariner'' #67-68 (Nov. - Jan. 1972 - 1973)</ref>
+
+Force later returns as a professional [[criminal]], working for crime boss [[Justin Hammer]] in exchange for modifications to his suit. Force and a group of mercenaries hijack the yacht of industrialist Tony Stark (Iron Man's [[alter ego]]) and take several [[hostage]]s. [[Iron Man]], however, tracks the yacht, defeats Force and his men and rescues the hostages.<ref>''Iron Man'' #140-141 (November-December 1980)</ref>
+
+Wilson eventually decides to reform. Hammer, however, traps the character in the suit and threatens to kill him if he reneges on the agreement. Force flees and Hammer sends the [[Abner Jenkins|Beetle]], [[Whiplash (comics)|Blacklash]] and the [[Blizzard (comics)|Blizzard]] to kill him. Iron Man aids Force in stopping the villains, then lies to the authorities and advises that Wilson was killed in battle to placate Hammer. Wilson is provided with a new identity and employment with Barstow Electronics, a subsidiary of [[Stark Industries]].<ref>''Iron Man'' #223-224 (October-November 1987)</ref> Analysis of Force's armor reveals that elements were actually based on Stark's own designs, Stark bringing in Wilson to quickly ask him where he acquired that technology, thus setting in motion [[Armor Wars|certain events]] and learning that Hammer acquired some of Stark's plans thanks to a raid carried out by [[Spymaster (comics)|Spymaster]].<ref>''Iron Man'' #225 (January 1988)</ref> Wilson makes another brief appearance, impersonating Iron Man to assistance the hero.<ref>''Iron Man'' #244 (July 1989)</ref>
+
+The character makes another appearance as part of the "Iron Legion" group, subsequently battling the giant [[robot]] [[Ultimo (Marvel Comics)|Ultimo]].<ref>''Iron Man'' #300 (January 1994)</ref> 
+
+After being [[blackmail]]ed by [[Sonny Burch]], Force travels to the country [[Iraq]] to aid Stark once again.<ref>''Iron Man'' vol. 3 #79 (June 2004); #81-82 (both July 2004)</ref>
+
+Wilson reappears as Force during the ''[[Dark Reign (comics)|Dark Reign]]'' storyline, arresting several villains employed by the [[Hood (comics)|Hood]].<ref>''Dark Reign: The Hood'' #1-3 (July-September 2009)</ref>
+
+==Powers, abilities, and equipment==
+Clayton Wilson designed and used a powered battle-suit incorporating the force field projector designed by Dr. Damon Walters. The suit also provides enhanced strength, [[flight]] and can generate an [[electric current]] that can be channelled through the force field when activated. The character is a graduate student in [[physics]].
+
+==In other media==
+===Television===
+* Force appears in ''[[Iron Man: Armored Adventures]]''. This version's armor is a recolored version of Iron Man's Space Armor design. In the episode "Armor Wars", he is a member of [[Iron Monger|Obadiah Stane]]'s [[Guardsman (comics)|Guardsmen]] and a former operative of the [[Maggia (comics)|Maggia]]. 
+* A different version of Clay Wilson appears in the live-action series ''[[The Punisher (TV series)|The Punisher]]'', portrayed by [[Tim Guinee]]. This version cares for his son Lewis (played by [[Daniel Webber (actor)|Daniel Webber]]), a discharged Army veteran who suffers from [[Posttraumatic stress disorder|PTSD]]. In the episode "Kandahar", he attempts to comfort Lewis after he nearly shoots him, but his son pushes him away. Clay later tells [[Curtis Hoyle]] about what happened.<ref>{{cite episode|title=Kandahar|series=Marvel's The Punisher|credits=Goddard, Andy (director); Steve Lightfoot (writer)|network=[[Netflix]]|airdate=November 17, 2017|season=1|number=3}}</ref> In the episode "Crosshairs", Clay attempts to connect with Lewis into moving on with life, unaware of the fact that his son just killed O'Connor. He even shows footage of the boxing match between [[George Foreman]] and [[Muhammad Ali]] in an attempt to connect with his son.<ref>{{cite episode|title=Crosshairs|series=Marvel's The Punisher|credits=Goddard, Andy (director); Bruce Marshall Romans (writer)|network=[[Netflix]]|airdate=November 17, 2017|season=1|number=7}}</ref>
+
+==References==
+<references/>
+
+==External links==
+* {{Marvelwiki|Force|Force}}
+
+{{Iron Man}}
+
+{{Steve Gerber}}
+
+[[Category:Characters created by Don Heck]]
+[[Category:Characters created by Steve Gerber]]
+[[Category:Comics characters introduced in 1972]]
+
+[[Category:Fictional scientists]]
+[[Category:Marvel Comics superheroes]]
+[[Category:Marvel Comics supervillains]]

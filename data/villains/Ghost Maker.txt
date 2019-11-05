@@ -1,0 +1,45 @@
+{{Notability|date=August 2018}}
+{{In-universe|date=August 2018}}
+{{Infobox comics character <!--Wikipedia:WikiProject Comics-->
+|image=
+|caption=
+|character_name=Ghost Maker
+|publisher=[[Marvel Comics]]
+|debut=''[[Master of Kung Fu (comics)|Master of Kung Fu]]'' #110 (March 1982)
+|creators=[[Doug Moench]] and [[Gene Day]]
+|real_name=Grigori Sovchencko
+|aliases =
+|alliances=[[The Hand (comics)|The Hand]]
+|powers=Skilled martial artist
+}}
+
+'''Ghost Maker''' is a [[fictional character]], a [[supervillain]] appearing in [[American comic book]]s published by [[Marvel Comics]].
+
+==Publication history==
+{{expand-section|date=November 2015}}
+Ghost-Maker first appeared in ''[[Master of Kung Fu (comics)|Master of Kung Fu]]'' #110 (March 1982), and was created by [[Doug Moench]] and [[Gene Day]].
+
+==Fictional character biography==
+Born in the [[Soviet Union]], Ghost Maker's father was a high-ranking KGB member who trained his son in martial arts for 15 years. His training was completed when he killed 10 top Western spies. While attacking a Sussex military camp, he came into conflict with [[Shang-Chi]] and his associate Leiko Wu. However, during one of their battles, Ghost Maker got exposed to raindrops containing death-dust and it appeared nothing but his skeleton remained.<ref>''Master of Kung Fu'' #110-111</ref>
+
+A cult known as the Snakeroot resurrected the Ghost Maker to fight both [[Daredevil (Marvel Comics character)|Daredevil]] and [[Elektra (comics)|Elektra]]. However, he failed, especially when the two were joined by Shang-Chi. Elektra had enough of the fighting and killed the Ghost Maker once again using one of her sais. His corpse was later retrieved by the villainous organization known as the Hand, who resurrected Ghost Maker once again to become their loyal servant.<ref>''Daredevil Annual'' #10</ref>
+
+Ghost Maker reappeared during the [[Civil War (comics)|Civil War]] event and when the registration law was announced, he wanted to leave the country again. He contacted [[Vienna (comics)|Vienna]] to make him a new fake identity, but he didn't know Vienna was secretly working for the [[Heroes for Hire]], who later apprehended Ghost Maker and several other supervillains. Shang-Chi was also part of this team.<ref>''Heroes for Hire'' vol. 2 #1</ref>
+
+==Powers and abilities==
+Ghost Maker is a highly skilled martial artist, on par individually with Shang-Chi, Daredevil and Elektra. It was postulated in ''Civil War: Battle Damage Report''<ref name="civilwarbattledamage">{{Comic book reference | Writer = [[Anthony Flamini]] & [[Ronald Byrd]] | Penciller = [[Scott Kolins]] | Inker = [[Scott Kolins]] | Story = | Title = Civil War: Battle Damage Report | Issue = 1 | Date = March 2007 | Publisher = [[Marvel Comics]] | }}</ref> that after his second resurrection he may be incapable of truly dying.
+
+==References==
+{{reflist|2}}
+
+==External links==
+* [http://www.comicvine.com/ghost-maker/29-43276/ Ghost Maker] at Comic Vine
+
+{{Shang-Chi}}
+
+[[Category:Comics characters introduced in 1982]]
+[[Category:Fictional Russian people]]
+[[Category:Marvel Comics martial artists]]
+[[Category:Marvel Comics supervillains]]
+
+{{Marvel-villain-stub}}

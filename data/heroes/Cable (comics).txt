@@ -1,0 +1,367 @@
+{{Infobox comics character <!--Part of Wikipedia:WikiProject Comics-->
+| character_name = Cable
+| image          = Cable-promo-image.jpg
+| converted      = y
+| caption        = Textless cover of ''[[Cable (comic book)|Cable]]'' #1 (March 2008).<br />Art by [[Ariel Olivetti]].
+| alter_ego      = Nathan Christopher Charles Summers
+| species        = [[Mutant (Marvel Comics)|Human Mutant]]
+| publisher      = [[Marvel Comics]]
+| debut= '''As Nathan Summers:''' <br />''[[The Uncanny X-Men]]'' #201 (January [[1986 in comics|1986]]) <br /><br>'''As Cable:''' <br/>''[[The New Mutants]]'' #87 (March [[1990 in comics|1990]])
+| creators       = '''Nathan Summers:'''<br>[[Chris Claremont]]<br><br>'''Cable:'''<br>[[Louise Simonson]]<br>[[Rob Liefeld]]
+| alliances      = {{Plain list | 
+* [[X-Men]]
+* [[X-Force]]
+* [[Askani]]
+* [[Six Pack (comics)|Six Pack]]
+* [[Apocalypse: The Twelve|The Twelve]]
+* [[New Mutants]]
+* [[Uncanny Avengers|Avengers Unity Division]]
+* The Underground
+}}
+| partners= {{Plain list |
+* [[Domino (comics)|Domino]]
+* [[Rachel Summers]]
+* [[Deadpool]]
+* [[Hope Summers (comics)|Hope Summers]]
+}}
+| aliases= Nathan Winters, Nathan Dayspring, Askani'son, Soldier X, Chosen One, Traveler
+| powers=
+* [[Telekinesis]]
+* [[Telepathy]]
+* Expert [[marksman]] and [[hand-to-hand combat]]ant
+* [[Cybernetics|Cybernetic]] enhancement
+*Teleportation
+| cat=super
+| subcat=Marvel Comics
+| hero=y
+| sortkey=Cable
+}}
+
+'''Cable''' ('''Nathan Summers''') is a fictional character appearing in [[American comic book]]s published by [[Marvel Comics]], commonly in association with [[X-Force]] and the [[X-Men]]. The character first appeared as a newborn infant in ''[[Uncanny X-Men]]'' #201 (Jan. 1986) created by writer [[Chris Claremont]], while Cable's adult identity was created by writer [[Louise Simonson]] and artist/co-writer [[Rob Liefeld]], and first appeared in ''[[New Mutants|The New Mutants]]'' #87 (March 1990).
+
+Nathan Summers is the biological son of the X-Men member [[Cyclops (Marvel Comics)|Cyclops]] (Scott Summers) and [[Madelyne Pryor]] ([[Jean Grey]]'s clone), the [[Sibling#half|half brother]] of [[Rachel Summers]] and [[Nate Grey]], and the genetic template for [[Stryfe]]. He is from a possible future timeline, having been transported as an infant to the future, where he grew into a warrior, before returning to the present.
+
+[[Josh Brolin]] portrays Cable in the [[X-Men (film series)|''X-Men'' film series]], beginning with ''[[Deadpool 2]]''.<ref name=HollywoodReporter>{{cite web|last=Kit|first=Borys|url=http://www.hollywoodreporter.com/heat-vision/deadpool-2-josh-brolin-play-cable-993232|title=Josh Brolin to Play Cable in 'Deadpool 2' (Exclusive)|accessdate=April 12, 2017|magazine=[[The Hollywood Reporter]]|date=April 12, 2017}}</ref>
+
+==Publication history==
+===Creation===
+Nathan Christopher Charles Summers is the son of Scott Summers (aka [[Cyclops (Marvel Comics)|Cyclops]]), and [[Madelyne Pryor]] (who was [[Inferno (comics)|later revealed]] to be a clone of [[Jean Grey]]). Writer [[Chris Claremont]], who had written the series since issue #94 (August 1975), revealed Madelyne to be pregnant in ''X-Men/Alpha Flight'' #1 (December 1985).<ref>[[Claremont, Chris]]; [[Paul Smith (comics)|Smith, Paul]] (p), [[Wiacek, Bob]] (i). "The Gift - Part 1", ''[[X-Men/Alpha Flight]]'' #1 (December 1985). Marvel Comics.</ref> The next depiction of her pregnancy was in ''The Uncanny X-Men'' #200, when she goes into premature labor.<ref>Claremont, Chris; [[Romita, John. Jr.]] (p), [[Dan Green (artist)|Green, Dan]] (i). "The Trial of Magneto!", ''The Uncanny X-Men'' (Vol 1) #200 (December 1985). Marvel Comics.</ref> In the following issue, #201 (January [[1986 in comics|1986]]), Nathan first appears as a newborn infant.<ref>Claremont, Chris; [[Leonardi, Rick]] (p), [[Portacio, Whilce]] (i). "Duel", ''The Uncanny X-Men'' (Vol 1) #201 (January 1986). Marvel Comics.</ref>
+
+The character's first appearance as the adult warrior Cable was at the end of ''The New Mutants'' #86 (Feb. 1990). He does not appear anywhere in the issue's story, but the "next issue" teaser. This was followed by a full appearance in ''The New Mutants'' #87 (March 1990). At first, Cable was not intended to be the adult version of Nathan Summers, but was created as a result of unrelated editorial concerns. Editor [[Bob Harras]] wanted to "shake things up" for the book, and felt a new leader was needed, one distinct from the perennial X-Men leader and the New Mutants' first mentor, [[Professor X]]. The book's writer, [[Louise Simonson]], thought a military leader would be a good idea, and Harras tasked the book's artist, [[Rob Liefeld]], to conceptualize the character. Harras may also have suggested the character's bionic eye. Both Simonson and Liefeld each separately conceived of the leader being a time traveler from the future. Liefeld chose the name Cable for the character.<ref name=CBR4.2.09>{{Cite web|author=Cronin, Brian | url=http://goodcomics.comicbookresources.com/2009/04/02/comic-book-legends-revealed-201/ | title=Comic Book Legends Revealed #201 | work=[[Comic Book Resources]] | date=April 2, 2009}}</ref> Liefeld explains the creation of the character:
+
+{{quote|I was given a directive to create a new leader for the New Mutants. There was no name, no description besides a 'man of action', the opposite of Xavier. I created the look, the name, much of the history of the character. After I named him Cable, Bob suggested Quinn and Louise had Commander X.<ref>{{Cite web | url=http://www.comicsbulletin.com/features/116883849126986.htm | title=Rob Liefeld: Any More Questions? | work=[[Comics Bulletin]] | date=January 14, 2007 | deadurl=yes | archiveurl=https://web.archive.org/web/20090114220920/http://www.comicsbulletin.com/features/116883849126986.htm | archivedate=January 14, 2009 | df= }}</ref>}}
+
+Harras and writer/artists [[Jim Lee]] and [[Whilce Portacio]], who were writing the ''X-Men'' spinoff ''[[X-Factor (comics)|X-Factor]]'' that starred Cyclops and the other four original X-Men, decided that Nathan would be sent into the future and grow up to become Cable. Liefeld, who conceived that Cable and his archenemy [[Stryfe]] were one and the same, disliked this idea. (Eventually Stryfe was revealed to be a clone of Cable.)<ref name=CBR4.2.09/> In the 1991 ''X-Factor'' storyline, Nathan is infected by the villain [[Apocalypse (comics)|Apocalypse]] with a techno-organic virus. Because he can only be saved by the technology of the far-future, Scott reluctantly allows Sister Askani, a member of a clan of warriors dedicated to opposing Apocalypse, to take Nathan into the future so that he can be cured, a one-way trip from which she tells him she and Nathan will be unable to return.<ref>Claremont, Chris; [[Lee, Jim]]; Portacio, Whilce (w), Portacio, Whilce (p), [[Thibert, Art]] (i). "Endgame Part 4: Finale", ''[[X-Factor (comics)|X-Factor]]'' (Vol 1) #68 (July 1991). Marvel Comics.</ref>
+
+===''New Mutants'' and ''X-Force''===
+In his first adult appearance, Cable is seen in conflict with [[Stryfe]]'s [[Mutant Liberation Front]],<ref>''The New Mutants'' #87 (March 1990)</ref> the [[Federal government of the United States|United States government]], and [[Freedom Force (comics)|Freedom Force]].<ref>Simonson, Louise (w), Liefeld, Rob (p), Barta, Hilary (i). "The Great Escape", ''The New Mutants'' #88 (April 1990)</ref> The [[New Mutants]] intervene and he asks for their help against the Mutant Liberation Front.<ref>Simonson, Louise (w), Liefeld, Rob (p), Barta, Hilary (i). "The Gift", ''The New Mutants'' #89 (May 1990). Marvel Comics.</ref> Cable sees them as potential soldiers in his war against Stryfe, and becomes their new teacher and leader.<ref>Simonson, Louise (w), Liefeld, Rob (p), Barta, Hilary (i). "To Hunt the Hunter", ''The New Mutants'' #90 (June 1990). Marvel Comics.</ref> He comes into conflict with [[Wolverine (character)|Wolverine]],<ref>Simonson, Louise (w), Hall, Bob; Liefeld, Rob (p), Albrecht, Jeff; Barta, Hilary (i). ''The New Mutants'' #92–93 (Aug.–Sept. 1990). Marvel Comics.</ref> who is revealed to harbor feud with Cable. Despite this, the two warriors and the New Mutants team up with and [[Sunfire (comics)|Sunfire]] against the MLF.<ref>''The New Mutants'' #94 (Oct. 1990). Marvel Comics.</ref> Cable also leads the New Mutants against [[Cameron Hodge]] and the [[Genosha]]ns in the 1990 "[[X-Tinction Agenda]]" storyline.<ref>Simonson, Louise (w), Liefeld, Rob (p), Rubinstein, Joe (i). "Shell Game," ''The New Mutants'' #95 (Nov. 1990). Marvel Comics.</ref>
+
+[[File:New Mutants 087-01.jpg|thumb|upright|left|''[[New Mutants|The New Mutants]]'' #87 (March 1990); art by [[Rob Liefeld]] and [[Todd McFarlane]]]]
+With the aid of [[Domino (comics)|Domino]], Cable reorganizes the New Mutants into X-Force. ''The New Mutants'' ended with issue #100, with Cable and other characters then appearing the following month in ''[[X-Force]]'' #1.<ref name="marvel1">{{Cite web | url=http://marvel.com/universe/Cable | title=Marvel Universe Wiki: Cable | work=Marvel.com | accessdate=2011-02-11}}</ref> The ''X-Force'' series provided further detail for the character's back story revealing that he was from the future and that he had traveled to the past with the aim of stopping Stryfe's plans as well as preventing [[Apocalypse (comics)|Apocalypse]]'s rise to power. Cable traveled between the 1990s and his future with his ship ''Graymalkin'', which contained a sentient [[computer program]] called [[Ship (comics)#The Future|Professor]], the future version of the program built into [[X-Factor (comics)|X-Factor's]] [[Ship (comics)|Ship]].{{Issue|date=September 2008}}
+
+In 1992, the character starred in a two issue miniseries, ''Cable: Blood and Metal'', written by [[Fabian Nicieza]], pencilled by [[John Romita, Jr.]], and inked by [[Dan Green (artist)|Dan Green]], published in October and November of that year. The series explored Cable and the villain Stryfe's ongoing battle with one another, and its effect on Cable's supporting cast.
+
+===''Cable'' (vol. 1) and ''Soldier X''===
+{{Main|Cable (comic book)}}
+Shortly after ''Blood and Metal'', Cable was given his own ongoing series titled '''''[[Cable (comic book)|Cable]]'''''. Issue #6 (Dec. 1993) confirmed the character to be Nathan Christopher Summers, the son of [[Cyclops (Marvel Comics)|Cyclops]] (Scott Summers) and [[Madelyne Pryor]] ([[Jean Grey]]'s clone) who had been taken to the future in ''X-Factor'' #68 (July 1991), introduced by writer [[Chris Claremont]], and appeared in ''[[Uncanny X-Men]]'' #201 (Jan. 1986). The series ran for 107 issues from May 1993 until September 2002 before being relaunched as '''''Soldier X''''', which lasted 12 more issues until Aug. 2003.
+
+The 1994 miniseries ''[[The Adventures of Cyclops and Phoenix]]'' provided further information on the character's back story. In the future, Mother Askani, a time-displaced [[Rachel Summers]], pulled the minds of Scott and Jean into the future where, as "Slym" and "Redd", they raised Cable for twelve years. During their time together, the "family" prevented Apocalypse from transferring his essence into a new body, ending his reign of terror.<ref>''[[The Adventures of Cyclops and Phoenix]]'' (May–Aug. 1994)</ref> It is furthermore established that [[Mister Sinister]] created Cyclops' son Nathan (who became the time-traveling soldier Cable) to destroy Apocalypse.<ref>''Cable Annual '99''</ref>
+
+===''Cable and Deadpool'', ''Cable'' (vol. 2)===
+[[File:2.9.16RobLiefeldByLuigiNovi4.jpg|thumb|The character's co-creator, [[Rob Liefeld]], holding up a copy of ''New Mutants'' #87, in which the character made his first full appearance]]
+After his solo series ended, he was paired with the mercenary [[Deadpool]] in a new ongoing series titled ''[[Cable & Deadpool]]''.<ref>''Cable & Deadpool'' #1 (May 2004)</ref> The series largely dealt with Cable's efforts to change the world for the better, including turning his old spaceship ''Greymalkin'' into the floating utopian island of [[Providence (Marvel Comics)|Providence]].<ref>''Cable & Deadpool'' #6 (Oct. 2004)</ref> The first story arc of the series features a Cable that has learned to suppress his techno-organic virus to a nearly effortless degree, allowing him to access the better part of his vast psionic powers. He gains a power level similar to his [[Nate Grey]] counterpart from [[The Age of Apocalypse]] reality and tries to use them to force the people of the world to live in peace. Using his powers at this magnitude also means that he will die due to the vast power being too much for his body to continuously maintain. He tries to carry out his plans quickly, defeating the X-Men, Six Pack and [[S.H.I.E.L.D.]] with little effort. They turn the tide of the battle on Cable by enlisting the aid of the [[Silver Surfer]]. Cable and the Silver Surfer battled, destroying buildings and other structures but were immediately rebuilt by Cable's vast telekinesis. All the while Cable tried to explain his good intentions to the Surfer with no avail. Although Cable destroyed his board and briefly held his own against the Surfer, he was ultimately defeated when the Surfer destroyed Cable's arm.{{issue|date=July 2016}} Around the same time period, Cable becomes a member of a team of [[X-Men]] that consists of [[Rogue (comics)|Rogue]], [[Iceman (comics)|Iceman]], [[Cannonball (comics)|Cannonball]], [[Sabretooth (comics)|Sabretooth]], [[Mystique (comics)|Mystique]], [[Lady Mastermind]], and [[Karima Shapandar|Omega Sentinel]].{{Issue|date=July 2010}} In preparation for [[X-Men: Messiah Complex|Messiah Complex]], Cable seemingly died when he detonated Providence to prevent [[Gambit (comics)|Gambit]] and [[Sunfire (comics)|Sunfire]] from stealing his database,{{Issue|date=July 2010}} causing the series to focus mostly on Deadpool for the next six or so issues. This series was canceled at the fiftieth issue and was replaced by two series starring each of the characters.{{issue|date=November 2011}}
+
+It is revealed that Cable survived, and has the mutant baby girl that the X-Men, [[Marauders (comics)|Marauders]], and [[Purifiers (Marvel Comics)|Purifiers]] have been seeking during the Messiah Complex storyline.<ref>''X-Men'' #205 (Jan. 2008)</ref> In 2008, [[Marvel Comics]] released ''Cable'' vol. 2, a new ongoing series by [[Duane Swierczynski]] and artist [[Ariel Olivetti]].<ref>{{Cite web | url=http://www.comicbookresources.com/?page=article&id=12087 | title=Duane Swierczynski Is Your New 'Cable' Provider | work=Comic Book Resources | date=December 4, 2007}}</ref> This new series directly follows the events of "[[X-Men: Messiah Complex|Messiah Complex]]". The series features Cable, and the messianic child's time traveling adventures. The dangers of the future and pursuit by [[Bishop (comics)|Bishop]] are balanced with the humor of "Cable the soldier" becoming "Cable the Nanny."<ref>''Cable'' vol. 2, #7–8 (Dec. 2008 – Jan. 2009)</ref>
+
+It is revealed that Cable and the mutant messiah have taken refuge in the future in the secluded safe haven of New Liberty. There, Cable gets married to a resident, Hope, who later dies defending the child. Cable decides to name her [[Hope Summers (comics)|Hope]], in honor of her deceased foster mother.<ref>''Cable'' vol. 2, #7–10 (Dec. 2008 – March 2009)</ref>
+
+In 2009, ''Cable'' vol. 2 had a seven-issue crossover with ''[[X-Force]]'', ''X-Force/Cable: [[Messiah War]]'', which is the second story in a three-part storyline that began in ''X-Men: Messiah Complex''.<ref>{{Cite web | url=http://www.comicbookresources.com/?page=article&id=19158 | title=Kyle/Yost/Choi Talk 'Messiah War' | work=Comic Book Resources | date=December 12, 2008}}</ref>
+
+After the events of the Messiah War, Hope and Cable are separated in time, appearing in the same spot but in different years. When Cable touches down from the spot, he appears two years after Hope, and is steadily losing control of his body due to the techno-organic virus within him. It alters his appearance so much that Hope doesn't register Cable's face.{{Issue|date=August 2009}} Eventually, Bishop, using his codename as a way to portray himself as a holy figure, gains on them, and Cable and Hope jettison themselves into space in the last ship the planet had. Bishop, armed with a thermonuclear device in the stump of his arm, states that he knows how to make his own ship and it'll only be a matter of time.{{Issue|date=August 2009}}
+
+''Cable'' was canceled in April 2010 with issue #25 (the final issue being called ''Deadpool and Cable'' #25).<ref>{{Cite web | url=http://marvel.com/images/gallery/comic_issue/29932/images_from_deadpool_cable_2010_25 | title=Gallery: Images from ''Deadpool and Cable'' #25 | work=Marvel.com | date=April 7, 2010 | accessdate=2011-02-11 | archive-url=https://web.archive.org/web/20121021091302/http://marvel.com/images/gallery/comic_issue/29932/images_from_deadpool_cable_2010_25# | archive-date=2012-10-21 | dead-url=yes | df= }}</ref>
+
+In the 2010 storyline "[[X-Men: Second Coming|Second Coming]]", Cable succumbs to the techno-organic virus in his bloodstream while holding open a time-portal that allowed other members of X-Force to escape from the future. The death was shown in ''X-Force'' #28 written by [[Craig Kyle]] and [[Chris Yost]], who noted that, "For us, Cable was always a character whose death was something the character himself would put forward—if that's what it took to complete his mission, he wouldn't think twice about it."<ref>{{Cite web | last=Ching | first=Albert | title=Spoiler Sport: X-Force #28 – Yost on 'Second Coming' | url=http://www.newsarama.com/comics/spoiler-sport-xforce-28-100709.html|publisher=[[Newsarama]] | accessdate=2010-07-17}}</ref>
+
+===''Avengers: X-Sanction''===
+On July 27, 2011, Marvel announced at the San Diego Comic Con the return of Cable. The new project, originally titled as "Cable Reborn", was re-titled as ''Avengers: X-Sanction'', written by [[Jeph Loeb]] and drawn by [[Ed McGuinness]]. The miniseries served as a lead-in to the ''[[Avengers vs. X-Men]]'' storyline beginning in April 2012.<ref>{{cite web|url=http://marvel.com/news/story/16306/sdcc_2011_cable_reborn|title=D23 Expo: Jack Kirby and Stan Lee Honored as Disney Legends|website=News - Marvel.com|access-date=2011-07-24|archive-url=https://web.archive.org/web/20130518040339/http://marvel.com/news/story/16306/sdcc_2011_cable_reborn#|archive-date=2013-05-18|dead-url=yes|df=}}</ref><ref>{{cite web|last=Hunsaker|first=Andy|title=Cable Returns in Avengers: X-Sanction|url=http://www.craveonline.com/comics/previews/174248-cable-returns-in-avengers-x-sanction|publisher=CraveOnline}}</ref><ref>{{cite web|url=http://marvel.com/news/story/17810/avengers_vs_x-men|title=D23 Expo: Jack Kirby and Stan Lee Honored as Disney Legends|website=News - Marvel.com|access-date=2011-12-09|archive-url=https://web.archive.org/web/20131207173336/http://marvel.com/news/story/17810/avengers_vs_x-men#|archive-date=2013-12-07|dead-url=yes|df=}}</ref>
+
+Having been teleported to the future during his last act, Cable learned from his old mentor, Blaquesmith, that Hope will apparently die in some future accident caused by the [[Avengers (comics)|Avengers]], prompting him to go back in time and try to use his last 24 hours of life before the techno-organic virus completely consumes his body to stop the Avengers before they can kill Hope.<ref>''Avengers: X-Sanction'' #1</ref>
+
+Although he manages to defeat [[Captain America]], [[Falcon (comics)|Falcon]], and [[Iron Man]], he is caught off-guard when he is attacked by the [[Thunderbolt Ross#Red Hulk|Red Hulk]], initially assuming that the Red Hulk is "Talbot", a foe from the future, before the Red Hulk informs him with grim satisfaction that he is actually someone who Cable has never fought before.<ref>''Avengers: X-Sanction'' #2</ref> With the aid of Blaquesmith – flashbacks revealing that they discovered various anti-mutant technologies in the Avengers Mansion – Cable manages to fight off the Red Hulk, partially infecting him with the techno-organic virus, only to be interrupted by Hope and Cyclops, who both denounce his actions as unnecessary, culminating in Wolverine and [[Spider-Man]] attacking him as they vow to take back the Avengers.<ref name="Avengers: X-Sanction #3">''Avengers: X-Sanction'' #3</ref> During the fight with Wolverine, Spider-Man is taken out by Cyclops, and Blaquesmith convinces Hope to counter Cable's moves by freeing the Avengers, ripping out the bomb that Cable threatened would blow them up while Red Hulk burned the techno-organic virus out of his system.{{issue|date=January 2013}}
+
+The Avengers then proceeded to fight Cable until he was nearly dead from both the fight and the virus, and Cyclops asked to take his son home, with Captain America insisting the Avengers keep the weapons and ship. Back at Utopia, Blaquesmith helps Hope to realize that she can still save Cable, and she begins to absorb the techno-organic virus before fully manifesting the Phoenix Force raptor for the first time around herself. When it vanishes, Cable is cured not only of the advanced incursion of the virus, but apparently fully, as his left hand is shown to be fully organic along with his left eye, but he remains in a catatonic state. Afterwards, Cable and Cyclops speak telepathically, with Cable informing his father that Hope is indeed the Phoenix and is destined to save Earth from an unknown disaster. He goes on to say that a war will come with the Avengers and that he needs Cyclops to protect Hope. Cable promises to be there when he's needed in the future.<ref>''Avengers: X-Sanction'' #4</ref>
+
+===''Cable and X-Force''===
+Cable's next appearance was in a new series, ''[[Cable and X-Force]]'' by writer Dennis Hopeless and artist [[Salvador Larroca]].  The series debuted in December 2012 and features Cable and a new fugitive team, unofficially referred to by the Marvel Universe media as the new "X-Force".<ref name="Cable&X-Force">{{cite web |url=http://www.comicbookresources.com/?page=article&id=40999 |title=EXCLUSIVE: The Future is Hopeless for "Cable and X-Force" |last=Richards |first=Dave |date=14 September 2012 |publisher=Comic Book Resources |accessdate=14 September 2012}}</ref> This version of [[X-Force]] initially consists of Cable, [[Colossus (comics)|Colossus]], [[Doctor Nemesis]], [[Domino (comics)|Domino]], and [[Forge (comics)|Forge]].<ref>''Cable and X-Force'' #1</ref> This series focuses on eliminating disasters based on mysterious visions that Cable is receiving, resorting to occasionally more brutal methods than the prime X-teams would use. After the events of "Avengers X-Sanction" Cable is forced to wear an eye patch and an advanced harness for his non-functioning left arm that was created by Forge.{{issue|date=July 2016}} Although Hope healed his arm, it is useless because it is not his original arm as it has been destroyed a few times, notably in his battles with Silver Surfer and Bastion.{{issue|date=July 2016}}
+
+===''X-Force''===
+Continuing from ''[[Cable and X-Force]]'' Cable puts together a new [[X-Force#Volume 4|X-Force team]] with Psylocke, Dr. Nemesis, Fantomex and Marrow in order to track down and deal with mutant threats using lethal force.  The story is written by ''[[X-Men: Legacy]]'' writer [[Simon Spurrier]]. Cable is infected with an extra-dimensional virus that provides super powers at the cost of killing them in around a year, however Cable is injected with an early version designed to kill him in a day.<ref name="auto1">''X-Force'' Vol 4 #6</ref> Cable's daughter [[Hope Summers (comics)|Hope]] accidentally copies this virus, since it is based on super powers, and has to be placed into a coma in order to save her life.<ref name="auto1"/> Cable cannot defeat the virus either, so he creates a new clone each day to replace himself but each clone still has only one day to live. Cable and X-Force eventually track down the man Volga who created the virus and defeat him. However, Fantomex goes insane from needing to "be the best" and betrays the team using new god-like powers derived from the Volga virus.<ref>''X-Force'' Vol 4 #11</ref> Cable unleashes hundreds of his clones to fight him, with Hope eventually stopping Fantomex before the last clone is killed so Cable can live on. Hope then takes over as leader of X-Force and "fires" Cable for his morally questionable methods.<ref>''X-Force'' Vol 4 #15</ref>
+
+===''Cable and Deadpool: Split Second''===
+After travelling through time and fixing several mistakes that a future Deadpool caused, Cable and present-Deadpool eventually fix the timeline. The effects on the timeline causes Cable to revert to his original "status quo", with his robotic arm and his original telekinesis and telepathic power set.<ref>''Cable and Deadpool: Split Seconds'' #6</ref>
+
+===''Uncanny Avengers''===
+Cable is seen in the year 2087 dealing with some unidentified issue related to Stryfe, in the aftermath of an Inhuman attack that covers the city of Boston in sentient plant life.<ref>''Uncanny Avengers'' Vol. 3 #2</ref> He eventually joins the rest of the Uncanny Avengers in the present and helps deal with the Inhuman causing the problems, before deciding to join the team when he learns the team's true mission is dealing with the [[Red Skull]] with Professor Xavier's brain and powers.<ref>''Uncanny Avengers'' Vol. 3 #4</ref> After Captain America disbands the Uncanny Avengers in the aftermath of [[Civil War II]] and for Cable and Rogue teaming up with mutant villans Sebastion Shaw and Toad to find a cure for the Terrigen Mists,{{issue|date=August 2018}} Rogue continues the team in their mission to stop the Red Skull.<ref>''Uncanny Avengers'' Vol.3 #15</ref>
+
+===''Cable'' Vol 3 ===
+After the events of "Secret Wars" storyline, Cable stars in his third ongoing monthly series, as part of Marvel's 2017 "[[ResurrXion|X-Men: ResurrXion]]" relaunch of its ''X-Men'' and ''Inhumans''-related books. In this series, Cable is depicted as a member of an organization that protects the Marvel universe timeline from damage caused by time travel.{{issue|date=September 2018}} The first arc of this series "Conquest", sees Cable tracking down a time-traveling villain.{{issue|date=September 2018}} The second arc, "The Newer Mutants", has Cable assemble a team trying to determine who is murdering Externals.{{issue|date=September 2018}} The third arc, "Past Fears" spans five eras of Cable's history and sees him battling a techno-organic villain known as Metus.{{issue|date=September 2018}}
+
+===''Extermination''===
+When the young Iceman is attacked by an unknown assailant, Cable arrives to save him. However, Cable is attacked by the unknown assailant who tells him that he failed his duty to protect time, then shoots Cable, killing him. It is revealed that Cable's killer is a younger version of him (dubbed Kid Cable), who has arrived in the present to capture the five time-displaced X-Men. Kid Cable kidnaps Mimic then arrives at the X-Mansion and incapacitates young Angel and Beast but is only able to leave with the former. During Ahab's attack on the X-Mansion, Kid Cable returns and is able to capture young Beast. When he is confronted by the young Jean Grey and former members of X-Force (Domino, Warpath, and Boom-Boom), he clarifies that he is indeed the younger version of the Cable they knew and he killed and reveals that the reason he's been kidnapping the time-displaced X-Men is because he intends to return them all to the past, something that his older self never did, hence why he killed him. His reasoning for this is because Ahab will kill one of the young X-Men (Cable says that it's young Iceman he kills but clarifies that it doesn't matter which one dies, as long as it's one of the five) in the present, thus greatly changing huge parts of their future (battles they won are now lost, humans turn against Mutants much sooner, an earlier and stronger version of the Sentinel Program and Reaver Virus arise which in turn damns mutantkind and brings an earlier and deadlier end to the X-Men). As such, Kid Cable saw fit to kidnap them all so he can personally return them back to their past (even kidnapping Mimic so he would remove his wings and attach them to young Angel, since the latter didn't have cosmic fire wings in the past).<ref>''Extermination'' #1-4</ref>
+
+==Powers and abilities==
+Cable was born with [[telepathy|telepathic]] and [[psychokinesis|telekinetic]] abilities. However, the extent to which he has been able to utilize these powers has varied dramatically throughout his appearances. Originally, both were limited by his need to restrain his [[techno-organic virus|techno-organic]] infection, and his powers were negligible compared to his more traditional fighting skills. However, following the subsidence of the infection, they gradually increased to the point where they were similar in magnitude to those of [[Nate Grey]], to whom he is genetically identical. At their height, he demonstrated the ability to simultaneously levitate the floating city of [[Providence (comics)|Providence]] and combat the [[Silver Surfer]].<ref>''Cable and Deadpool'' #10 (Feb. 2005). Marvel Comics.</ref> Following that story, his powers were burnt out and he replaced both with technological substitutes. He later states that both his telepathy and telekinesis have faded to nothing.<ref>''Cable'' vol. 2, #10 (March 2009). Marvel Comics.</ref>
+
+Cable has fought Wolverine to a stalemate,<ref>''New Mutants'' #93 (1990). Marvel Comics.</ref> and defeated Captain America in hand-to-hand combat and defeated Falcon, Red Hulk and Iron Man using both brute force and wit, all while Cable was in severe pain and hours away from dying of his techno-organic infection.<ref>''Avengers X-Sanction'' #1-4 (2012). Marvel Comics.</ref>
+
+When Professor Xavier's son [[Legion (Marvel Comics)|Legion]] travels back in time to kill Magneto in the "Legion Quest" storyline, Beast notes that Cable possesses "latent time-travel abilities". With the assistance of [[Shi'ar]] technology, Professor Xavier "jump-starts" this ability while Jean Grey telekinetically holds Cable's body together, allowing Cable to send his consciousness into the past.<ref>''Uncanny X-Men'' vol. 1, #321 (February 1995). Marvel Comics.</ref>
+
+In the "Messiah War" storyline, during the fight with his clone, Stryfe, Cable demonstrates the ability to hide others from Stryfe's mental view, implying that at least he retains some of his telepathic powers. He also still possesses some of his telekinesis, but he is using it solely to keep the techno-organic virus in his body at bay.<ref>''X-Force'' vol. 3, #15 (July 2009)</ref><ref>''Cable'' vol. 2, #15 (Aug. 2009). Marvel Comics.</ref>
+
+His techno-organic body parts possess enhanced strength and durability, and his techno-organic left eye gives him enhanced eyesight, allowing him to see farther than a normal human and in the [[infrared]] spectrum. He is also able to interface his techno-organic body parts with other types of machinery, an ability that allows him to [[Hacker (computer security)|hack]] into computers, open [[electronic lock]]s, and travel through time.{{Citation needed|date=January 2010}}
+
+As of the end of the "Avengers: X-Sanction" storyline, Hope Summer has apparently cured Cable of the techno-organic virus using the Phoenix Force, and appears to at least have his telepathy.<ref name="Avengers: X-Sanction #3"/> As a result, his cybernetic eye and arm have been restored to flesh and blood, although almost nonfunctional and atrophied, forcing Cable to wear an eyepatch (hiding a psimitar like implant) and use an enhanced brace, made by Forge and laden with special weaponry.<ref>''Cable & X-Force'' #1–2 (2013). Marvel Comics.</ref> Due to a future Hope's tampering with his mind, he also gained the ability to see multiple possible future events before they unfolded.<ref>''Cable & X-Force'' #13 (2013). Marvel Comics.</ref>
+
+In ''Deadpool & Cable: Split Second'', Cable once again loses most of his powers, but retains his precognition. However, he regains them along with his cybernetics as a result of Deadpool repairing Cable's personal timeline.<ref>''Cable and Deadpool: Split Seconds'' #1-6 (2015). Marvel Comics.</ref>
+
+Cable makes use of a spear-like weapon called the Psi-Mitar, which was originally a long staff with a spear point on one end and a scythe blade on the other, used primarily by the Askani. It functions as a focus and amplifier for telepathic or telekinetic power, which it can project as powered blasts.{{fact|date=September 2018}}
+
+Apart from his superhuman abilities, Cable has been said to have a brilliant mind for military tactics.<ref>Brisson, Ed (w), Larraz, Pepe (a). "Extermination Part Two of Five", ''Extermination'' #2 (October 2018). Marvel Comics.</ref>
+
+==Other versions==
+In addition to his mainstream [[Marvel Universe]] incarnation, Cable has been depicted in other [[fictional universe]]s.
+
+===Cable and Deadpool===
+In the ''Cable and Deadpool'' series storyline "Enema of State",<ref>''Cable & Deadpool'' #15 – #18</ref> Deadpool and the mutants [[Cannonball (comics)|Cannonball]] and [[Siryn]] discover several alternate versions of Cable as they traverse several alternate universes via "Bodyslide", searching for Cable after he disappears. They remain in each separate universe for only a brief time, while Deadpool searches for Cable from "his" timeline/universe. They first encounter an evil incarnation of Cable who has become one of the four [[Horsemen of Apocalypse]], War.<ref>''Cable & Deadpool'' #15 (July 2005)</ref> Other versions include a guru-type Cable known as "Brother Nathan", on whose alternate earth all violence had been abolished,<ref name="Cable 2005">''Cable & Deadpool'' #16 (Aug. 2005)</ref> a [[Phalanx (comics)|Phalanx]]-Cable, consumed by the [[techno-organic virus]] within his body,<ref name="Cable 2005"/> and the Cable of the "[[House of M]]" reality, an infant in the care of a subdued [[Mister Sinister]] on a quiet Nebraska farm,<ref>''Cable and Deadpool'' #17 (Sept. 2005)</ref> which Deadpool eventually realizes was ''his'' Cable. Deadpool seized the infant, took him back to his home universe, and cared for Nathan, who grew rapidly after having been injected with Deadpool's DNA.<ref>''Cable and Deadpool'' #18 (Oct. 2005)</ref>
+
+===Earth X===
+In the setting of the ''[[Earth X]]'' storyline, the [[Techno-organic virus]] has overtaken Cable's body, who has become a blob of organic metal.<ref>''Universe X Special'' #5</ref>
+
+===Deadpool Pulp===
+In the ''[[Deadpool Pulp]]'' timeline, Cable is now '''General Cable''', who, along with [[Stryfe]] (also a General) and [[J. Edgar Hoover]], hires former CIA man Wade Wilson to get back a stolen [[nuclear briefcase]].<ref>''Deadpool Pulp'' #1–4 (2010)</ref>
+
+===Wolverine: Rahne of Terra===
+In the fantasy world depicted in the [[graphic novel]] ''Wolverine: [[Rahne of Terra]]'', Cable's counterpart is a wizard called the Mage, who carried the [[Warlock (New Mutants)|Warlock]] Staff and a crossbow.<ref>''Wolverine: Rahne of Terra'' (Aug. 1991)</ref>
+
+===Ultimate Marvel===
+In ''[[Ultimate X-Men]]'', Cable is a future version of [[Ultimate Wolverine|Wolverine]] who goes back to the past to capture Professor Xavier, returning with him to the future in order to train him for the coming battle with [[Alternative versions of Apocalypse#Ultimate Apocalypse|Apocalypse]].<ref>''Ultimate X-Men'' #75–76 (Dec. 2006 – Jan. 2007)</ref> After Apocalypse's death, Cable fades out of existence.<ref>''Ultimate X-Man'' #78</ref>
+
+===What If..?===
+A two-part storyline in ''[[What If (comics)|What If...]]'' asks, "What If Cable Destroyed the X-Men?" In this story, Cable clashes with Professor X and the X-Men over their beliefs and differences in methods. Ultimately, Cable leads a faction of mutants loyal to him and assassinates the Professor, [[Cyclops (Marvel Comics)|Cyclops]], and [[Jean Grey]] before embarking on a violent crusade. Cable is ultimately killed by [[Wolverine (character)|Wolverine]],<ref>''What If?'' vol. 2, #45 (Feb. 1993)</ref> but his actions have already led to the further oppression of mutants. [[Magneto (comics)|Magneto]] attempts to take control of America in the chaos, but is killed by a new model of plastic [[Sentinel (comics)|Sentinels]], who decide that enslaving humanity is the best way to root out mutants. However, Wolverine assembles several surviving mutants to fight against the Sentinels as a new team of X-Men.<ref>''What If?'' vol. 2, #46 (March 1993)</ref>
+
+===X-Men Forever===
+''[[X-Men Forever]]'' is an alternate universe written by Chris Claremont that takes place after the events of ''X-Men'' vol. 2, #3. In it, it is revealed that X-Factor's confrontation with Apocalypse ended differently—Nathan was saved, but aged somehow from a toddler into a child.<ref>''X-Men Forever'' 2 #2</ref> Nathan lives with his great-grandmother and grandfather in Alaska. An attack by mysterious agents causes Nathan to be moved to the protective custody of the [[Starjammers]].<ref>''X-Men Forever'' #18 (April 2010)</ref> He is shown to possess telepathic powers. Cable appears in one panel of the series but no connection between Cable and Nathan is made.<ref>''X-Men Forever'' Vol 2 #10</ref>
+
+===Venomized===
+This version of Cable was consumed by the [[List of alien races in Marvel Comics#P|Poisons]] and joined them into invading Earth 616. He's seen along with other Poison infected X-Force members attacking the X Mansion. In the end he and the other Poisons crumbled with the death of the Poison Queen. <ref>''Venomized''</ref>
+
+==In other media==
+===Television===
+Cable made eight appearances in ''[[X-Men (TV series)|X-Men: The Animated Series]]'' in the episodes "[[Slave Island (X-Men)|Slave Island]]", "[[The Cure (X-Men)|The Cure]]", "Time Fugitives, Parts 1-2" and "Beyond Good and Evil, Parts 1-4" voiced by [[Lawrence Bayne]] in the English version and by [[Tesshō Genda]] in the Japanese dub. This version of Cable possessed his trademark metal arm but it is said to be a bionic construct rather than a result of the techno-organic virus. He is never shown to be telepathic, though he does use telekinesis in one episode. He is also depicted as coming from the year 3999, where he leads an army in a desperate war against the forces of the immortal villain [[Apocalypse (comics)|Apocalypse]]. Cyclops' future paternity to Cable is implied in the second part of the episode "Time Fugitives" after Jean Gray telepathically read Cable's mind. Cable and Cyclops also do not get along during missions.
+
+===Film===
+[[File:Josh Brolin as Cable.jpg|thumb|Promotional image of [[Josh Brolin]] as Cable for the film, ''[[Deadpool 2]]''.]]
+[[Josh Brolin]] was cast in a four-picture deal with [[20th Century Fox]] to play Nathan Summers / Cable in the [[X-Men (film series)|''X-Men'' film universe]], with ''[[Deadpool 2]]'' as his first appearance.<ref name=HollywoodReporter/> In May 2017, producer Hutch Parker discussed the future of the franchise, stating that the introduction of Cable with his time-traveling abilities makes an interconnection between the upcoming ''[[The New Mutants (film)|New Mutants]]'', ''Deadpool 2'', and ''[[Dark Phoenix (film)|Dark Phoenix]]'', as well as previous films a possibility.<ref>{{cite web|url=http://screenrant.com/x-men-dark-phoenix-hutch-parker-interview/2/|title=X-Men's Logan: Producer Hutch Parker Interview|date=31 May 2017|publisher=}}</ref> In his first appearance, Cable is depicted as a mysterious time traveling soldier from a devastated future with a cybernetic left arm and eye.
+
+In ''[[Deadpool 2]]'', Cable goes back in time to assassinate the young mutant Russell Collins, as in the future Collins becomes a criminal and murders his wife and daughter, who is later identified as [[Hope Summers (comics)|Hope]]. Deadpool forms the X-Force team to stop him, but both sides are at an impasse when Russell teams up with [[Juggernaut (comics)|Juggernaut]]. Cable decides to team up with X-Force to take down the two threats, but allows Wade the chance to redeem Russell before the kid becomes a murderer. Wade sacrifices himself when Cable tries to shoot Russell, causing Russell to reject his future as a villain which saves Cable's family. In return, Cable uses his last charge on his time-traveling device to travel to the past to prevent himself from killing Wade while still allowing Russell to have his change of heart at the cost of Cable losing the chance to return home to his family, Cable concluding that he will remain in the present to create a better future for his family.
+
+===Video games===
+* Cable appears as a playable character in the [[fighting game]] ''[[Marvel vs. Capcom 2: New Age of Heroes|Marvel vs. Capcom 2]]'', voiced again by Lawrence Bayne. In the game, he has 3 modes: With his plasma cannon, uppercuts an enemy, or throwing a Stasis Grenade.
+* Cable is an exclusive hidden character in the [[PlayStation Portable|PSP]] version of the role-playing game ''[[X-Men Legends II: Rise of Apocalypse]]''.
+* Similarly, Cable was a hidden character in the [[Sega Game Gear]] platform game ''[[X-Men: Gamesmaster's Legacy]]''.
+* Cable is seen in the ''[[X-Men: Reign of Apocalypse]]'' video game for the [[Game Boy Advance]].
+* Cable appears in ''[[Marvel: Ultimate Alliance 2]]'', voiced by [[Keith Ferguson (voice actor)|Keith Ferguson]]. He is a [[non-player character]] and serves as a boss fight for the Pro-Registration side. In the Pro-Registration campaign, the heroes fight Cable at an Anti-Registration base in New Jersey. After his defeat, Cable is arrested. He and Hercules are later broken out by Captain America. In the Anti-Registration side, he commands the player during the New Jersey base mission. In the funeral scene following the Prison 42 incident, Cable is featured amongst the missing and presumed deceased heroes, indicating that he was absorbed into the Fold. Cable was later added as a playable character in the [[Xbox 360]] and [[PlayStation 3]] versions of the game via [[downloadable content]], and was part of the initial roster of heroes in the [[PlayStation 4]], [[Xbox One]] and PC versions.<ref>{{Cite web | url=http://marvelultimatealliance.marvel.com/#/Characters/Cable | title=Marvel Ultimate Alliance Characters: Cable | work=Marvel.com | deadurl=yes | archiveurl=https://web.archive.org/web/20090318200922/http://marvelultimatealliance.marvel.com/#/Characters/Cable | archivedate=2009-03-18 | df= }}</ref>
+* Cable makes a cameo appearance in Deadpool's ending in ''[[Ultimate Marvel vs. Capcom 3]]''. Deadpool also received a "Cablepool" costume via downloadable content, which causes him to joke about Cable's lack of presence in the game.
+* Cable is a playable character in ''[[Marvel Super Hero Squad Online]]''.
+* Cable appears as an unlockable character in ''[[Marvel: Avengers Alliance]]''.
+* Cable appears as a supporting character in ''[[Deadpool (video game)|Deadpool]]'',<ref>{{cite web|url=http://gamerant.com/deadpool-game-cable-death/|title=Cable & Death Join 'Deadpool' Game|date=10 January 2013|publisher=}}</ref>  voiced by [[Fred Tatasciore]]. He occasionally assists Deadpool in dealing with enemies by providing support-fire with his massive futuristic cannon. In the game, Cable time-travels to Genosha to give Deadpool a dire warning, but bores Deadpool into killing himself. He later reprograms a Sentinel bot to take Deadpool to Magneto's citadel, which goes haywire. He later helps Deadpool recover the souls of dead mutants and deliver them to [[Death (Marvel Comics)|Death]]. He also appears in the final cutscene, confirming that Deadpool killed the correct Mr. Sinister.
+*Cable was a playable character in the [[Massively multiplayer online role-playing game|MMORPG]] ''[[Marvel Heroes (video game)|Marvel Heroes]]'' voiced by [[James M. Connor]].<ref name="MarvelHeroesMMORPG">{{cite web |url=https://www.marvelheroes.com/news/news-articles/cable-joins-marvel-heroes |title=Cable joins Marvel Heroes |publisher=''[[Marvel Heroes (video game)|Marvel Heroes]]'' |date=2011-10-17 |accessdate=2012-07-19 |deadurl=yes |archiveurl=https://web.archive.org/web/20120625040631/http://marvelheroes.com/news/news-articles/cable-joins-marvel-heroes |archivedate=2012-06-25 |df= }}</ref><ref>{{cite web|url=https://www.youtube.com/watch?v=tt7sW3PUeqY|title=Marvel Heroes - Developer Diary: Voices|first=|last=GameSpot|date=24 May 2013|publisher=|via=YouTube}}</ref>
+* Cable is playable in the mobile game ''[[Marvel: Future Fight]]''.<ref>[https://www.newsarama.com/36375-marvel-future-fight-adds-cable-apocalypse-more-x-men-characters.html "X-MEN's AGE OF APOCALYPSE Joins MARVEL FUTURE FIGHT"]. Newsarama. September 13, 2017.</ref>
+* Cable is playable in the mobile game ''[[Marvel Puzzle Quest]]''.<ref>https://www.marvel.com/articles/games/this-week-in-marvel-games-black-cat-mystique-cable-daredevil-and-more</ref>
+
+==Influence==
+Artist [[Alex Ross]] drew upon his dislike of Liefeld's design of Cable when Ross designed the character [[Magog (comics)|Magog]] for the 1996 miniseries ''[[Kingdom Come (comics)|Kingdom Come]]''. Following writer [[Mark Waid]]'s instructions that the character's appearance be based on aspects of superhero design trends of the time that they disliked, Ross said of Cable, "That's a character that Mark Waid invented that was really just put to me like come up with the most God awful, Rob Liefeld sort of design that you can. What I was stealing from was – really only two key designs of Rob's – the design of Cable. I hated it. I felt like it looked like they just threw up everything on the character – the scars, the thing going on with his eye, the arm, and what's with all the guns? But the thing is, when I put those elements together with the helmet of [[Shatterstar]] – I think that was his name – well, the ram horns and the gold, suddenly it held together as one of the designs that I felt happiest with in the entire series."<ref>Brick, Scott (March 2007). "Alex Ross". ''[[Wizard (magazine)|Wizard Xtra!]]''. p. 95.</ref><ref>{{cite web |first=Jonah |last=Weiland |url=http://www.comicbookresources.com/?page=article&id=7045 |title=Ten Years Later: Reflecting on "Kingdom Come" with Alex Ross |publisher=[[Comic Book Resources]]|date=May 10, 2006}}</ref>
+
+==Collected editions==
+{{See also|Cable & Deadpool#Collected editions}}
+{{See also|Cable (comic book)#Collected editions}}
+The stories have been collected in a number of [[trade paperback (comics)|trade paperbacks]].
+
+===Mini-series===
+{| class="wikitable" style="width:90%;"
+|-
+! Title (Trade Paperback/ Hardcover)
+! Material collected
+! Publication date
+! ISBN
+|-
+| ''The Adventures of Cyclops and Phoenix''
+| ''The Adventures of Cyclops and Phoenix'' (1994) #1–4
+| January 1996
+| Paperback: {{ISBNT|0-7851-0171-3}}
+|-
+| ''Askani'son''
+| ''Askani'son'' (1996) #1–4
+| September 1997
+| Paperback: {{ISBNT|0-7851-0565-4}}
+|-
+| ''X-Men: The Adventures of Cyclops and Phoenix''
+| ''The Adventures of Cyclops and Phoenix'' (1994) #1–4, ''Askani'son'' (1996) #1–4, <br /> ''Phoenix'' #1-3, ''X-Men Books of Askani'', Material from the ''Marvel Valentine's Day Special''
+| 2014
+|Paperback: {{ISBNT|0785188339}}
+|-
+| ''X-Force and Cable: Legend Returns''
+| ''X-Force'' (Vol.2, 2005) #1–6 
+| April 2005
+| Paperback: {{ISBNT|0-7851-1429-7}}
+|}
+
+===''Cable and X-Force'' (2013 series)===
+{| class="wikitable" style="width:90%;"
+|-
+! Title (Trade Paperback/ Hardcover)
+! Material collected
+! Publication date
+! ISBN
+|-
+| ''Cable and X-Force, Volume 1: Wanted''
+| ''Cable and X-Force'' #1–5, ''Marvel Now! Point One'' (X-Force story)
+| May 2013
+| Paperback: {{ISBNT|978-0785166900}}
+|-
+| ''Cable and X-Force, Volume 2: Dead or Alive''
+| ''Cable and X-Force'' #6–9
+| November 2013
+| Paperback: {{ISBNT|978-0785166917}}
+|-
+| ''Cable and X-Force, Volume 3: This Won't End Well''
+| ''Cable and X-Force'' #10–14
+| February 2014
+| Paperback: {{ISBNT|978-0785188827}}
+|-
+| ''Cable and X-Force, Volume 4: Vendettas''
+| ''Cable and X-Force'' #15–19 and  ''Uncanny X-Force'' #16–19
+| April 2014
+| Paperback: {{ISBNT|978-0785189466}}
+|}
+
+===Oversized Hardcovers===
+{| class="wikitable" style="width:90%;"
+|-
+! Title (Hardcover)
+! Material collected
+! Publication date
+! ISBN
+|-
+| ''X-Force Omnibus'' – Vol. 1
+| ''Cable: Blood & Metal'' #1–2; ''New Mutants'' #98–100, Annual #7; ''X-Men Annual'' #15; ''X-Factor Annual'' #6; ''X-Force'' #1–15; Spider-Man #16; material from ''New Warriors Annual'' #1, ''X-Force Annual'' #1
+|February 2013
+|{{ISBNT|0785165959}}
+|-
+| ''Deadpool and X-Force Omnibus'' HC
+| ''Cable'' (1993) #1–8; ''X-Force'' #19-31, Annual #2; ''Deadpool: The Circle Chase'' #1-4; ''Deadpool'' (1994) #1-4; ''New Warriors'' (1990) #31; ''Nomad'' #20
+|November 2017
+|{{ISBNT|978-1302908300}}
+|-
+| ''X-Men: The Wedding of Cyclops & Phoenix''
+| ''Cable'' (1993) #6-8; ''Uncanny X-Men'' #307-310; ''X-Men'' (1991) #26-35; ''Avengers'' (1963) #368-369; ''Avengers West Coast'' #101; ''X-Men Unlimited'' #3; ''Uncanny X-Men Annual'' #18; ''X-Men: The Wedding Album''; ''What If?'' #60; ''The Adventures of Cyclops and Phoenix'' #1-4; material from ''Marvel Valentine Special''
+| September 2018
+| {{ISBNT|978-1302913229}}
+|-
+| ''X-Men: Phalanx Covenant''
+| ''Cable'' #16; ''Uncanny X-Men'' #306, #311–314 and #316–317; ''Excalibur'' #78–82; ''X-Men'' #36–37; ''X-Factor'' #106; ''X-Force'' #38; ''Wolverine'' #85 
+| February 2014
+| {{ISBNT|978-0785185499}}
+|-
+| ''X-Men: Legionquest''
+| ''Cable'' #20; ''Uncanny X-Men'' #318-321; ''X-Men'' #38–41; ''X-Men Annual'' #3; ''X-Men Unlimited'' #4-7; ''X-Factor'' #107-109  
+| April 2018
+| {{ISBNT|978-1302910389}}
+|-
+| ''X-Men: Age of Apocalypse''
+| ''Cable'' #20, ''Uncanny X-Men'' #320–321, ''X-Men'' #40–41, ''X-Men Alpha'', ''Amazing X-Men'' #1–4, ''Astonishing X-Men'' #1–4, ''Factor X'' #1–4, ''Gambit & the X-Ternals'' #1–4, ''Generation Next'' #1–4, ''Weapon X'' #1–4, ''X-Calibre'' #1–4, ''X-Man'' #1–4, ''X-Men Omega'', ''Age of Apocalypse: The Chosen'' and ''X-Men Ashcan'' #2
+| March 2012
+| {{ISBNT|978-0785159827}}
+|-
+| ''X-Men / Avengers: Onslaught Omnibus''
+| '' Cable'' #32-36; ''Uncanny X-Men'' #333-337; ''X-Force'' #55, #57-58; ''X-Man'' #15-19; ''X-Men'' #53-57, ''Annual '96''; ''X-Men Unlimited'' #11; ''Onslaught: X-Men'', ''Onslaught: Marvel Universe'', ''Onslaught: Epilogue''; ''Avengers'' #401-402; ''Fantastic Four'' #415; ''Incredible Hulk'' #444-445; ''Wolverine'' #104-105; ''X-Factor'' #125-126; ''Amazing Spider-Man'' #415; ''Green Goblin'' #12; ''Spider-Man'' #72; ''Iron Man'' #332; ''Punisher'' #11; ''Thor'' #502; ''X-Men: Road to Onslaught'' #1; ''material from Excalibur'' #100, ''Fantastic Four'' #416
+| July 14, 2015
+| {{ISBNT|978-0785192626}}
+|-
+| ''X-Men: Operation Zero Tolerance''
+| ''Cable'' #45–47; ''Uncanny X-Men'' #346; ''X-Men'' #65–70; ''Generation X'' #26–31; ''X-Force'' #67–70; ''Wolverine'' #115–118; ''X-Man'' #30
+| April 2012
+| {{ISBNT|978-0785162407}}
+|-
+| ''X-Men: Revolution By Chris Claremont Omnibus''
+| ''Cable'' #87; ''Uncanny X-Men'' #381-389; ''X-Men'' #100-109 and ANNUAL 2000; ''X-Men Unlimited'' #27-29; ''X-Men: Black Sun'' #1-5; ''Bishop: The Last X-Man'' #15-16
+| August 2018
+| {{ISBNT|978-1302912147}}
+|-
+| ''Cable: Soldier X Hardcover''
+| ''Cable'' #91-107; ''Soldier X'' #1-12
+| October 2018
+| {{ISBNT|978-1302913984}}
+|-
+| ''Deadpool & Cable Omnibus''
+| ''Cable & Deadpool'' #1-50; ''Deadpool/GLI Summer Fun Spectacular''; ''and material from Deadpool (2012)'' #27
+| November 2014
+| {{ISBNT|978-0785192763}}
+|-
+|''X-Force/Cable: Messiah War''
+|''Cable,'' vol. 2 #11–15; ''X-Force,'' vol. 3 #14–16; ''X-Men: The Times and Life of Lucas Bishop'' #1–3; ''Messiah War;'' and ''X-Men: Future History—The Messiah War Sourcebook''
+| August 2009
+|{{ISBNT|0-7851-3157-4}}
+|-
+|''X-Men: Second Coming (Finale to Cable vol.2)''
+|''Second Coming: Prepare''; ''X-Men: Second Coming'' #1–2; ''Uncanny X-Men'' #523–525; ''X-Force,'' vol. 3 #26–28; ''New Mutants,'' vol. 3 #12–14; and ''X-Men: Legacy'' #235–237
+|September 2010
+|{{ISBNT|0-7851-4678-4}}
+|-
+|''X-Men: Second Coming - Revelations''
+|''X-Men: Hope''; ''X-Men: Blind Science''; ''X-Men: Hellbound'' #1–3; ''X-Factor'' #204-206
+|October 2010
+|{{ISBNT|0-7851-5007-2}}
+|-
+| ''Avengers: X-Sanction''
+| ''Avengers: X-Sanction'' #1–4
+| May 2012
+|{{ISBNT|978-0-7851-5862-2}}
+|}
+
+==References==
+{{Reflist}}
+
+==External links==
+* [http://marvel.com/universe/Cable Cable] at Marvel.com
+* {{comicbookdb|type=character|id=1778|title=Cable}}
+* [http://uncannyxmen.net/characters/cable Spotlight On...Cable] at UncannyXmen.net
+* [https://web.archive.org/web/20060118100514/http://users.rcn.com/aardy/comics/awards/cbg.shtml Comics Buyer’s Guide Fan Awards]
+{{X-Men}}
+{{Ultimate X-Men}}
+{{New Mutants}}
+{{Wolverine}}
+{{Deadpool}}
+{{X-Force}}
+{{Magneto}}
+
+[[Category:Characters created by Chris Claremont]]
+[[Category:Characters created by Louise Simonson]]
+[[Category:Characters created by Rob Liefeld]]
+[[Category:Comics characters introduced in 1990]]
+[[Category:Fictional cyborgs]]
+[[Category:Fictional future people]]
+[[Category:Fictional mercenaries]]
+[[Category:Fictional schoolteachers]]
+[[Category:Fictional technopaths]]
+[[Category:Fictional telekinetics]]
+[[Category:Male characters in comics]]
+[[Category:Marvel Comics characters who can teleport]]
+[[Category:Marvel Comics characters who have mental powers]]
+[[Category:Marvel Comics characters with superhuman strength]]
+[[Category:Marvel Comics martial artists]]
+[[Category:Marvel Comics mutants]]
+[[Category:Marvel Comics telepaths]]
+[[Category:Marvel vs. Capcom fighters]]
+[[Category:Time travelers]]

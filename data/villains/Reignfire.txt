@@ -1,0 +1,45 @@
+{{Primary sources|date=July 2010}}
+{{Infobox comics character| <!--Wikipedia:WikiProject Comics-->
+image=[[Image:xforce43.jpg|250 px]]
+|caption=Cover to ''X-force'' #43 featuring Reignfire and [[Danielle Moonstar|Moonstar]].
+|character_name=Reignfire
+|real_name=
+|species=[[Mutant (Marvel Comics)|Human Mutant]], [[molecular cloning|clone]]
+|publisher=[[Marvel Comics]]
+|debut=''X-Force'' #26
+|creators=[[Fabian Nicieza]] & Matt Broome
+|alliances=[[Mutant Liberation Front]]
+|aliases=[[Sunspot (comics)|Sunspot]], Project Nineteen
+|powers=Solar absorption and rechanneling; Super strength; Flight; Projection of heat and light as concussive blasts or in a stream of fiery rain; forge a [[telepathy|telepathic link]] with genetic host.
+}}
+
+'''Reignfire''' is a [[fiction]]al [[character (arts)|character]] and [[villain]] appearing in [[American comic book]]s published by [[Marvel Comics]]. The character has appeared in the series ''[[X-Force]]''. His original creators were [[Fabian Nicieza]] and Matt Broome, who had completely different plans for the villain than what evolved.
+
+==Creation history==
+Originally, Fabian Nicieza had meant for Reignfire to be a [[time travel]]ing, slightly older, more mentally disturbed version of Sunspot.{{cn|date=January 2013}} However, when a later writer John Francis Moore took over the title he changed the original plan and came up with the explanation about the protoplasmic, amorphous origin.{{cn|date=January 2013}}
+
+==Fictional character biography==
+After the events of the ''[[X-Cutioner's Song]]'' crossover event, the [[Mutant Liberation Front]] (MLF) was [[prison|incarcerate]]d and left leaderless. To fill this void came a maniacal being named Reignfire. He liberated four members of the original MLF: [[Forearm (comics)|Forearm]], [[Reaper (Marvel Comics)|Reaper]], [[Wildside (comics)|Wildside]], and [[Tempo (comics)|Tempo]], and added two more to their ranks: [[Danielle Moonstar|Moonstar]] and [[Locus (comics)|Locus]]. He charged his team with the mission of killing [[Henry Peter Gyrich]]--a man who had always been a thorn in the side of the mutant agenda. However, their attempt was foiled by X-Force and, during the battle, the powers of Locus and [[Sunspot (comics)|Sunspot]] reacted together in an odd way, [[Teleportation|teleporting]] the pair to parts unknown. Before doing so, Reignfire says Cable's real name,{{issue|date=January 2013}} a big [[foreshadowing]] technique in Nicieza's original plan.{{cn|date=January 2013}}
+
+When Reignfire made his presence known, it was noticed how remarkably similar he was to Sunspot, not only in appearance but in powers as well. Since, at this time, Sunspot was [[missing in action]] (MIA), that possibility was not ruled out by [[Cable (comics)|Cable]]. His suspicions were revealed when, in the middle of a battle, Reignfire removes his mask to show that he is indeed Roberto.{{issue|date=January 2013}}
+
+Cable uses his [[telepathy|telepathic]] powers to forcefully remove/suppress the Reignfire [[persona]] in Sunspot, and supposedly succeeds. As an unexpected [[Unintended consequence|side effect]], Sunspot gathered some knowledge from Cable's mind, including information about [[Askani]] -- Cable's religion and language. There were occasional moments when Sunspot would have a mental struggle to suppress evil urges, but for the most part all seems well.{{issue|date=January 2013}}
+
+Later, Sunspot goes to visit his friend and former [[New Mutants]] teammate [[Skids (comics)|Skids]] in [[Colorado]] when the pair is attacked by none other than Locus and Reignfire. Although things once more go awry with Locus' powers when they come in contact with Skids' [[force shield|force field]], the mission is generally a success as Sunspot is captured. Once shackled to the wall, Reignfire begins to tell the story of his "real" origin: he was not an evil Sunspot, which many had believed, but a [[molecular cloning|clone]] of him created from his cellular material. He was once a [[protoplasm]]ic entity possessed by the [[Celestial (comics)|Celestials]] with no real form until [[Gideon (comics)|Gideon]] injected a sample of Sunspot's blood into his container. With a set of genetic material to duplicate, the protoplasmic goo began to pattern itself on the [[DNA]] sample given to it and thus shared Sunspot's appearance and powers. Another added bonus was the fact that, when he was within close proximity, he could activate a telepathic link with his host and psychically imprint himself onto Sunspot—explaining why Sunspot would sometimes seem to be evil. Reignfire wanted to kill Sunspot, but fails when several of his teammates came to his rescue.{{issue|date=January 2013}}
+
+When he next appeared, it was back with the Celestials' ship. X-Force found the ship and the protoplasmic figure inside and, after a battle, Reignfire was crushed to death by a Celestial [[golem]] inside of the ship.{{issue|date=January 2013}}
+
+==Powers and abilities==
+Since Reignfire was the genetic clone of Sunspot, he shared all of his abilities: absorption rechanneling of solar energy, either within his own body or externally, to create multiple abilities including, super strength, [[vertical draft|thermal updrafts]] for flight, projection of heat and light as [[concussion|concussive]] blasts or in a stream of fiery rain, and the ability to forge a [[telepathy|telepathic link]] with his genetic host and psychically imprint himself onto his brain.
+
+==References==
+{{reflist}}
+
+==External links==
+*[http://uncannyxmen.net/characters/reignfire Uncannyxmen.net Character Profile on Reignfire]
+
+[[Category:Fictional clones]]
+[[Category:Fictional characters with fire or heat abilities]]
+[[Category:Marvel Comics characters with superhuman strength]]
+[[Category:Marvel Comics mutants]]
+[[Category:Marvel Comics supervillains]]

@@ -1,0 +1,63 @@
+{{Infobox comics character <!--Wikipedia:WikiProject Comics-->
+|character_name = Power Man (Victor Alvarez)
+|image          = Power man.jpg
+|imagesize      = <!-- numeral only, defaults to 250 -->
+|converted      = y
+|caption        = Power Man and other teen superheroes as part of the unofficial team "The Chosen" on the cover of ''[[Fear Itself (comics)|Fear Itself: The Home Front]]'' #6. Art by [[Marko Djurdjević]].
+|alter_ego     = Victor Alvarez
+|publisher      = [[Marvel Comics]]
+|debut          = ''[[Shadowland (comics)|Shadowland]]: Power Man'' #1 (October 2010)
+|creators       = [[Fred Van Lente]] <br>[[Mahmud Asrar]]
+|species        = [[Human]] (empowered)
+|homeworld      =
+|alliances      = [[Avengers Academy]]<br />[[Heroes for Hire]]<br />[[The Mighty Avengers|Mighty Avengers]]<br />The Chosen<br>[[New Avengers (comic)|Avengers Idea Mechanics]]
+|partners       = [[Iron Fist (comics)|Iron Fist]]
+|aliases        =
+|powers         = Skilled Martial Artist
+Chi Absorption: Superhuman Strength, Enhanced Physicality, Healing, and Invulnerability
+|cat            = super
+|subcat         = Marvel Comics
+|hero           = y
+|villain        =
+|sortkey        = Power Man (Victor Alvarez)
+|}}
+'''Victor Alvarez''' is a fictional [[superhero]] appearing in [[American comic book]]s published by [[Marvel Comics]]. He is the third person to use the [[Power Man]] alias after [[Erik Josten]] and [[Luke Cage]].
+
+==Publication history==
+The character first appeared in ''Shadowland: Power Man'' #1, part of Marvel's 2010 "[[Shadowland (comics)|Shadowland]]" [[Fictional crossover|crossover]] and was created by [[Fred Van Lente]] and [[Mahmud Asrar]].<ref name=cbr26166>{{cite web |first=Dave |last=Richards |url=http://www.comicbookresources.com/?page=article&id=26166 |title=Van Lente on "Shadowland: Power Man" |publisher=[[Comic Book Resources]] |date=May 11, 2010 |accessdate=June 5, 2010 }}</ref><ref name=newsaramapm100511>{{cite web |first=Vaneta |last=Rogers |url=http://www.newsarama.com/comics/shadowland-power-man-100511.html |title=An All-New POWER MAN Bursts out of the Marvel's SHADOWLAND |publisher=[[Newsarama]] |date=May 11, 2010 |accessdate=September 25, 2011 }}</ref> The character subsequently appeared in a spin-off [[Limited series (comics)|mini-series]], ''[[Power Man and Iron Fist]]'', the following year.<ref name=cbr27368>{{cite web |first=Dave |last=Richards |url=http://www.comicbookresources.com/?page=article&id=27368 |title=CCI EXCLUSIVE: Van Lente's New "Power Man & Iron Fist" |publisher=[[Comic Book Resources]] |date=July 22, 2010 |accessdate=September 25, 2011 }}</ref><ref name=newsaramapmif100723>{{cite web |first=Albert |last=Ching |url=http://www.newsarama.com/comics/power-man-iron-fist-100723.html |title=SDCC 2010: POWER MAN & IRON FIST: Reunited For The 1st Time |publisher=[[Newsarama]] |date=July 23, 2010 |accessdate=September 25, 2011 }}</ref><ref name=cbr29901>{{cite web |first=Dave |last=Richards |url=http://www.comicbookresources.com/?page=article&id=29901 |title=Van Lente Buddies Up With "Power Man & Iron Fist" |publisher=[[Comic Book Resources]] |date=December 15, 2010 |accessdate=September 25, 2011 }}</ref> Power Man would then appear in "The Chosen", a story in the [[anthology comic]] ''[[Fear Itself (comics)|Fear Itself: The Home Front]]''.<ref name=thechosen>{{Cite comic |writer=[[Fred Van Lente|Van Lente, Fred]] |artist=[[Alessandro Vitti|Vitti, Alessandro]] |story=The Chosen |title=[[Fear Itself (comics)|Fear Itself: The Home Front]] |issue=#5-7 |date=October–December 2011 |publisher=[[Marvel Comics]] }}</ref>
+
+Power Man appeared as a supporting character in ''[[Avengers Academy]]'' beginning with issue #21 (Jan 2012), making occasional appearances throughout the series.
+
+Starting in September 2013, he appears as one of the lead characters in the [[Marvel NOW!]] relaunch of ''[[Mighty Avengers]]''.<ref>{{cite web|url=http://www.newsarama.com/18034-mighty-creative-team-details-revealed.html|title=MIGHTY AVENGERS Creative Team, Details Revealed|publisher=}}</ref>
+
+==Fictional character biography==
+Victor Alvarez was first introduced as a teenager from the neighborhood of [[Hell's Kitchen, Manhattan|Hell's Kitchen]] in [[New York City]]. He is the son of Reina Alvarez and [[Shades (comics)|Shades]]. As a child, he was caught in an explosion caused by the villain [[Bullseye (comics)|Bullseye]] that resulted in the deaths of over 100 people including his father. Victor survived by somehow using a technique that drew the [[Qi|chi]] from the dead bodies around him and temporarily granted him superhuman strength and fortitude.<ref>''Shadowland: Power Man'' #3</ref>
+
+Some time later during the ''[[Shadowland (comics)|Shadowland]]'' storyline, Victor took on the name Power Man and began using his abilities to fight crime as a hero for hire, advertising his services on sites like [[Craigslist]]. Victor's activities eventually drew the attention of [[Luke Cage]], a member of the [[Avengers (comics)|Avengers]] who had once used the Power Man name. Cage and his partner [[Iron Fist (comics)|Iron Fist]] eventually learn that Victor is the son of Shades, a Puerto Rican supervillain that Cage had fought years earlier. Though Victor dislikes both Cage and Iron Fist, he eventually teams up with them to help the other heroes fight the crazed [[Daredevil (Marvel Comics character)|Matt Murdock]] and his army of [[The Hand (comics)|Hand]] ninjas.<ref>''Shadowland: Power Man'' #1-4</ref><ref>{{cite web|url=http://www.comicbookresources.com/?page=user_review&id=2587|title=Shadowland: Power Man #1|date=23 August 2010|publisher=}}</ref>
+
+During the ''[[Fear Itself (comics)|Fear Itself]]'' storyline, Power Man ends up teleported onto a station in the middle of the Pacific Ocean with [[Amadeus Cho]], [[Anya Corazon|Spider-Girl]], [[Thunderstrike (Kevin Masterson)|Thunderstrike]], and [[X-23]]. They end up fighting a group of samurai Shark Men.<ref>''Fear Itself: The Home Front'' #5-7</ref> Power Man is part of the new class of students when the [[Avengers Academy]] moves to the former headquarters of the [[West Coast Avengers]].<ref>''Avengers Academy'' #21 (Nov. 2011)</ref>
+
+During the ''[[Infinity (comic book)|Infinity]]'' storyline, Power Man was with Heroes for Hire while they stopped [[Plunderer (comics)|Plunderer]]'s men from stealing robot parts. After [[The Superior Spider-Man|Superior Spider-Man]] ([[Doctor Octopus]]' mind in Peter Parker's body) stops Plunderer, he called Heroes for Hire mercenaries in front of Power Man. While at a café with Luke Cage, Power Man expresses a desire to attack Spider-Man, Luke is more concerned with the consequences for his family. Power Man then plans to start his own version of the Avengers.<ref>''Mighty Avengers'' Vol. 2 #1</ref>
+
+==Powers and abilities==
+As a result of the traumatic explosion during his childhood, Power Man possesses the ability to draw [[Qi|chi]] energy from those around him and temporarily grant himself superhuman strength and fortitude. When utilizing this power, Victor's skin color changes to a glowing red. This technique is similar to the one that gives Iron Fist his abilities, something the hero commented on during his first encounter with Victor.<ref>''Shadowland: Power Man'' #2</ref> Victor Alvarez wears a yellow and black body suit with metal embellishments, similar to the look of Luke Cage, the first (heroic) Power Man.<ref>{{cite web|url=http://marvel.com/news/story/16432/earths_mightiest_costumes_luke_cage|title=Earth's Mightiest Costumes: Luke Cage|website=Marvel.com}}</ref>
+
+==References==
+{{Reflist}}
+
+==External links==
+{{Portal|2010s|Superhero fiction|Fictional characters|Comics}}
+* {{comicbookdb|type=character|id=45961|title=Power Man (Victor Alvarez)}}
+* {{gcdb series|id=51933|title=''Shadowland: Power Man''}}
+* {{gcdb series|id=55593|title=''Power Man and Iron Fist'' (2011)}}
+* [http://marvel.wikia.com/Victor_Alvarez_%28Earth-616%29 Power Man (Victor Alvarez)] at Marvel Wiki
+* [http://www.comicvine.com/power-man-alvarez/4005-71023/ Power Man (Victor Alvarez)] at Comic Vine
+* [http://worldofblackheroes.com/2011/07/28/power-man-victor-hernan-alvarez/ Powerman Biography] at World of Black Heroes
+* {{cite web |first=Dave |last=Richards |url=http://www.comicbookresources.com/?page=article&id=27613 |title=THE UNUSUAL SUSPECTS: Power Man  |publisher=[[Comic Book Resources]] |date=August 2, 2010 |accessdate=September 25, 2011 }}
+
+{{Iron Fist}}
+
+{{DEFAULTSORT:Power Man}}
+[[Category:Comics characters introduced in 2010]]
+[[Category:Characters created by Fred Van Lente]]
+[[Category:Fictional characters from New York (state)]]

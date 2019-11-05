@@ -1,0 +1,32 @@
+{{mergeto|List of Marvel Comics characters: M|date=September 2018}}
+{{Infobox comics character| <!--Wikipedia:WikiProject Comics-->
+|image=
+|caption=
+|character_name=Mountjoy
+|real_name=Mountebank
+|species=[[Mutant (Marvel Comics)|Human Mutant]]
+|publisher=[[Marvel Comics]]
+|debut=''Bishop: The Mountjoy Crisis'' #1
+|creators=[[John Ostrander]]<br>[[Carlos Pacheco]]
+|alliances=[[Hellfire Club (comics)|Hellfire Club]]
+|aliases=Scribe
+|powers=merge with and/or possess others.
+}}
+
+'''Mountjoy''' is a [[fictional character|fictional]] [[Mutant (Marvel Comics)|mutant]] character appearing in [[American comic book]]s published by [[Marvel Comics]]. The character first appeared in ''Bishop: The Mountjoy Crisis'' #1.
+
+==Fictional character biography==
+Mountjoy is a mutant who was trained by the Emplates to merge with another person’s body in order to feed. Originally from the same future as [[Bishop (comics)|Bishop]], Mountjoy went through one of [[Trevor Fitzroy]]’s time portals while inside the body of [[Bantam (comics)|Bantam]]. He then left Bantam after he arrived. After, when Fitzroy was presumed dead, Mountjoy hunted down Bantam for he was the only one who knew of Mountjoy’s presence. Chasing Bantam, Mountjoy encountered Bishop, whose sister [[Shard (comics)|Shard]] once captured and imprisoned Mountjoy in their future. Mountjoy defeated Bishop while merging with Storm and using her as a hostage. Mountjoy then released [[Storm (Marvel Comics)|Storm]] and escaped. Later, Mountjoy was found by Bishop at a [[New York City Police Department|New York Police]] Station. While chasing each other downtown, Mountjoy ambushed and absorbed Bishop. Arriving at the [[X-Mansion]] in Bishop’s body, Mountjoy divested Bishop and went after the other [[X-Men]]. He found and absorbed [[Archangel (comics)|Archangel]], [[Gambit (comics)|Gambit]] and [[Psylocke]]. Mountjoy was then lured into the Danger Room by Shard. Inside the [[Danger Room]], Mountjoy fought off Bishop with powers from the three X-Men he absorbed. Not knowing the Shard was a hologram, Mountjoy tried to absorb her but couldn’t. Shard held Mountjoy in place as Bishop fired an energy blast at him. The blast forced Mountjoy to let go of Archangel, Gambit and Psylocke, and he was defeated.{{issue|date=February 2013}}
+
+Mountjoy would later infiltrate the Inner Circle of the [[London]] [[Hellfire Club (comics)|Hellfire Club]], and merge inside the Circle’s recorder [[Scribe (comics)|Scribe]]. [[Captain Britain|Brian Braddock]] was sent by [[Shinobi Shaw]] to find Mountjoy. Mountjoy, hiding in Scribe’s body, would confide in Braddock and pose as his ally. When the Inner Circle’s plans were revealed, and Braddock donned his Captain Britain costume, Mountjoy and the Black Queen [[Ms. Steed]] attacked Captain Britain. After Steed was defeated, Mountjoy tried to escape. Captain Britain caught up with him and knocked him out. Mountjoy and the Inner Circle were then put in jail.{{issue|date=February 2013}}
+
+Mountjoy, still in Scribe’s body, was bailed out of jail by [[Sebastian Shaw (comics)|Sebastian Shaw]]. Taken to Liberty Island, Mountjoy was put in a duel against [[Madelyne Pryor]]. Using Scribe’s powers, Mountjoy nearly defeated Madelyne and closed in for the kill. Madelyne then reached inside Scribe and pulled out Mountjoy, defeating him.{{issue|date=February 2013}} Mountjoy's current whereabouts are unknown. However, it is known that he retained his mutant powers after [[Decimation (comics)|M-Day]].<ref>''X-Men: Endangered Species'' #1</ref>
+
+==Powers and abilities==
+Mountjoy can merge his body into another's two different ways. One is by becoming a "silent partner": His will dominates, your body remains the same, his facial features dominate and his energy is renewed. The second is by a "hostile takeover" that absorbs you, mind, body and soul while also renewing him. He also generates a basilisk field, slowing the reaction time of his victims within a five-yard area where he exerts.
+
+==References==
+{{reflist}}
+
+[[Category:Marvel Comics mutants]]
+[[Category:Marvel Comics supervillains]]

@@ -1,0 +1,29 @@
+{{Infobox comics character| <!--Wikipedia:WikiProject Comics-->
+image=[[File:Val Rhymin.jpg|250px]]
+|caption=Val Rhymin.<br> Art by [[Humberto Ramos]].
+|character_name=Val Rhymin
+|publisher=[[Marvel Comics]]
+|debut=''[[Runaways (comics)|Runaways]]'' # 1 (August, 2008) <!--Please notate the volume when referring to Runaways issues. It makes thing less confusing, considering that two completely different story lines take place in vol. 1 #1 and vol. 2 #1.-->
+|creators=[[Terry Moore (comics)|Terry Moore]]<br/ > [[Humberto Ramos]]
+|real_name=Val Rhymin
+|alliances=[[Runaways (comics)|Runaways]]
+|aliases=
+|powers=Magic.
+}}
+
+'''Val Rhymin'''<ref name="runv3#1">{{Comic book reference | Writer = [[Terry Moore (comics)|Terry Moore]] | Penciller =  [[Humberto Ramos]] | Inker = [[Christina Strain]] | Story = Dead Wrong | Title = Runaways | Volume = 3 | Issue = 1 | Date = August 2008 | Publisher = [[Marvel Comics]] }}</ref> is a [[fictional character]] in the [[Marvel Comics]] award-winning series, ''[[Runaways (comics)|Runaways]]''. He was created by author [[Terry Moore (comics)|Terry Moore]] and artist [[Humberto Ramos]], and debuted in ''Runaways'' #1 ([[2008 in comics|August 2008]]), at the start of the series' third volume. Val first appeared as a worker in a radio station. Although he played a minor role in ''Runaways''<nowiki>'s</nowiki> "[[Dead Wrong (comics)|Dead Wrong]]" story arc, Val was the main villain in the following story arc, "[[List of Runaways story arcs#Rock Zombies|Rock Zombies]]".
+
+==Fictional character biography==
+When the [[Runaways (comics)|Runaways]] return to [[Los Angeles]], [[Nico Minoru]] asks [[Chase Stein]] to find a job. When they head to a shopping mall, Chase tries to bag a radio station job with Val Rhymin, his idol. Meanwhile, Val argues with his manager, saying his manager doesn't let him have any freedom. Curiously, it is now when Val's boss has his seizure, and falls over the mall balcony to the floor below. Before he hits, [[Klara Prast]] saves him by making the mall plant life break his fall.<ref name="summaryv3#1">{{cite web|url=http://runaways.mergingminds.org/showarticle.asp?section=10&fldAuto=439|title=Runaways (third series) #1|work=Fantomex|accessdate=2009-01-23|archive-url=https://web.archive.org/web/20110521063506/http://runaways.mergingminds.org/showarticle.asp?section=10&fldAuto=439|archive-date=2011-05-21|dead-url=yes|df=}}</ref>
+
+In ''Rock Zombies'' Val works with Monk Theppie - treasurer of the California Witchcraft Community - to mix magic spell chanting into a new song.  After testing the song on an employee - Lydia - Val broadcasts the song on the radio, transforming everyone who had plastic surgery in L.A. into zombies.  Val then orders the zombies to pillage the city and meet back at the Hollywood Bowl.  However the Runaways stop his plot with Nico binding Val with a spell.  Molly then reverts the zombies back to normal by playing the song backwards.{{issue|date=January 2013}}
+
+==References==
+{{reflist}}
+
+{{Runaways (comics)}}
+
+{{DEFAULTSORT:Rhymin, Val}}
+[[Category:Comics characters introduced in 2008]]
+[[Category:Fictional characters from Los Angeles]]
+[[Category:Marvel Comics supervillains]]

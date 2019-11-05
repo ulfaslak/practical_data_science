@@ -1,0 +1,52 @@
+{{about|the Marvel character|the DC character|Wesley Willis}}
+{{Infobox comics character| <!--Wikipedia:WikiProject Comics-->
+|image=
+|caption=
+|character_name=Milan
+|real_name=Francisco Milan
+|species=[[Mutant (Marvel Comics)|Human Mutant]]
+|publisher=[[Marvel Comics]]
+|debut=''Uncanny X-Men'' #300 (1993)
+|creators=[[Scott Lobdell]] & [[John Romita Jr.]]
+|alliances=[[Acolytes (comics)|Acolytes]]
+|aliases=
+|powers= Electropathy<br>Technopathy
+}}
+'''Francisco Milan''' was a fictional member of the [[Acolytes (comics)|Acolytes]] in [[Marvel Comics]]. He first appeared in ''[[Uncanny X-Men]]'' #300.
+
+==Fictional character biography==
+'''Milan''' is a member of the [[Acolytes_(comics)|Acolytes]], a super-powered team of terrorists that claim to follow the teachings of the villainous Magneto.
+
+Milan is one of the Acolytes who helped kidnap geneticist [[Moira MacTaggert]]. The group keep her in their current headquarters in a facility in France. Milan uses his powers to record various memories off Moira into the Acolyte computer systems. Moira is soon rescued by the heroic [[X-Men]].<ref>''[[Uncanny X-Men]]'' #300 (May 1993)</ref> With the other Acolytes, Milan leaves [[Fabian Cortez]] thanks to [[Exodus (comics)|Exodus]], and rejoin [[Magneto (comics)|Magneto]]; they appear at [[Magik (comics)|Illyana]]'s funeral, where they recruit [[Colossus (comics)|Colossus]].<ref>''Uncanny X-Men'' #304 (Sep 1993)</ref> The X-Men attack Avalon, and Milan assists the Acolytes in defending it.<ref>''X-Men'' vol. 2 #25 (Oct 1993)</ref>
+
+Milan is with a group of Acolytes searching for [[Omega Red]] in London, when Milan discovers evidence of his feeding, and Omega Red attacked [[List of Acolytes members#Known members|Katu]]; [[Amelia Voght]] saves Katu and offers Omega Red a way to be freed from his constant need to feed on people. After [[Cable (comics)|Cable]] battles Omega Red, the Acolytes offer Cable a truce and help in defeating their mutal enemy.<ref>''Cable'' Vol. 1 #9 (March 1994)</ref> Omega Red attacks the Tyuratum Space Center, thinking they have the cure for his virus, and Cable and the Acolytes arrive a few hours later. Milan finds the center's director and reads his memories, learning that Omega Red found what he wanted, and the Acolytes tell Cable that Omega Red will need to go into space to administer the cure. They travel to Magneto's old Arctic base to teleport to Avalon, but Cable finds that Omega Red has already been captured at the base by the Acolytes, who reveal the trap they have laid for Cable as well.<ref>''Cable'' Vol. 1 #10 (April 1994)</ref> Cable escapes by ordering the lights to turn off; Milan and [[Joanna Cargill|Cargill]] search for him, but Cable captures Milan. Cable is able to stop the Acolytes from using Omega Red in their plan to release his virus as a shield to keep humans from getting to Avalon.<ref>''Cable'' Vol. 1 #11 (May 1994)</ref> Milan is later present at the trial of the [[Neophyte (comics)|Neophyte]]. He talks about the recruitment of the young man in question. He and several other Acolytes had talked to the man through an abandoned church door for two days. This attempt works. Ultimately, because of the trial, Colossus is forced out of the Acolytes.<ref>''Uncanny X-Men'' #315 (Aug 1994)</ref>
+
+Milan is the one to fix Avalon's teleportation systems,{{issue|date=March 2013}} after Cable disables them in ''X-Force'' Vol 1 #25.
+
+Milan is present with the Acolytes and X-Men when the universe is destroyed and replaced with the [[Age of Apocalypse]].<ref>''X-Men'' vol. 2 #41 (Feb 1995)</ref> The Age of Apocalypse universe ends, and the mainstream universe is restored.<ref>''X-Men Prime'' one-shot (July 1995)</ref> [[Holocaust (Marvel Comics)|Holocaust]] survives his alternate universe's destruction and somehow appears in the mainstream universe when it is restored; he is taken aboard the space station [[Providence (comics)|Avalon]], the home base of the Acolytes. At this point, the group is being led by [[Exodus (comics)|Exodus]], who taken over when Magneto was rendered mentally inert by [[Professor X|Charles Xavier]]. Milan studies the emaciated form of Holocaust and conveys to the group that what they have is indeed a mutant. Milan agrees with Peter Rasputin, [[Colossus (comics)|Colossus]] that bringing the man aboard was not a good idea. For this doubt, he is assigned solitary guard duty on Holocaust. Milan ponders doubts that Exodus might not be the best leader. He receives a psychic flash from the captive and thus learns many details of the 'Age Of Apocalypse' universe, most notably that Magneto led the X-Men. Moments later, Holocaust consumes Milan from the feet up. [[Rusty Collins]], a fellow doubting Acolyte is sent to investigate Milan's vanishing. Holocaust consumes him as well.<ref>''X-Men'' vol. 2 #42 (July 1995)</ref>
+
+==Powers and abilities==
+Milan had the ability to convert brainwaves into electromagnetic emissions and vice versa. He could use his power to project thoughts in the form of movies, and communicate with machinery through direct mental interface.
+
+==In other media==
+
+===Television===
+* Milan made a cameo in the ''[[X-Men (TV series)|X-Men]]'' episode "Sanctuary" Pt. 1. He is shown on a video screen as one of the scientists that helped Magneto construct Asteroid M.
+
+==References==
+
+{{reflist}}
+
+==External links==
+* [http://marvel.wikia.com/wiki/Francisco_Milan_(Earth-616) Milan] at Marvel Wiki
+
+{{John Romita Jr.}}
+
+[[Category:Characters created by John Romita Jr.]]
+[[Category:Characters created by Scott Lobdell]]
+[[Category:Comics characters introduced in 1993]]
+[[Category:Fictional technopaths]]
+[[Category:Marvel Comics mutants]]
+[[Category:Marvel Comics supervillains]]
+
+[[fr:Milan (comics)]]

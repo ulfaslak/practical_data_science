@@ -1,0 +1,363 @@
+{{Infobox comics character <!--Wikipedia:WikiProject Comics-->
+| character_name = Iron Fist
+| image = Immortalironfist.jpg
+| converted = y
+| caption = Textless cover of ''[[The Immortal Iron Fist]]'' #1 (November 2006).<br>Art by [[David Aja]]
+| publisher = [[Marvel Comics]]
+| debut = ''[[Marvel Premiere]]'' #15 (May 1974)
+| creators = [[Roy Thomas]]<br>[[Gil Kane]]
+| alter_ego = Daniel Thomas Rand-K’ai
+| alliances = [[The New Avengers (comics)|New Avengers]]<br/>[[Heroes for Hire]]<br/>[[Defenders (comics)|Defenders]]<br/>[[Immortal Weapons]]<br/>[[Thunderbolts (comics)|Thunderbolts]]
+| partners = [[Luke Cage]]<br/>[[Misty Knight]]<br/>[[Colleen Wing]]<br/>[[Daredevil (Marvel Comics character)|Daredevil]]<br/>[[Master Izo]]
+| aliases = <!--he posed as Daredevil during the superhero Civil War-->Daredevil<!--he posed as Daredevil during the superhero Civil War-->, The Living Weapon, Young Dragon, Daniel Thomas Rand, Daniel Rand-Kai
+| powers = 
+*Skilled martial artist
+*Utilizes concentrated [[Ch'i|chi]] in his fist called the "Iron Fist," a mystical weapon
+| cat = super
+| subcat = Marvel Comics
+| hero = y
+| sortkey = Iron Fist (comics)
+|}}
+
+'''Iron Fist''' ('''Daniel''' "'''Danny'''" '''Rand''') is a fictional [[superhero]] appearing in [[American comic book]]s published by [[Marvel Comics]]. Created by [[Roy Thomas]] and [[Gil Kane]], Iron Fist first appeared in ''[[Marvel Premiere]]'' #15 (May 1974). The character is a practitioner of [[martial arts]] and the wielder of a mystical force known as the Iron Fist, which allows him to summon and focus his ''[[Qi|chi]]''. He starred in his own solo series in the 1970s, and shared the title ''[[Power Man and Iron Fist]]'' for several years with [[Luke Cage]], partnering with Cage to form the superhero team [[Heroes for Hire]]. The character has starred in numerous solo titles since, including ''[[The Immortal Iron Fist]]'', which expanded on his origin story and the history of the Iron Fist.
+
+Iron Fist has been adapted to appear in several animated television series and video games. [[Finn Jones]] portrays the character in the [[Marvel Cinematic Universe]] live-action television series ''[[Iron Fist (TV series)|Iron Fist]]'', ''[[The Defenders (miniseries)|The Defenders]]'', and the [[Luke Cage (season 2)|second season]] of ''[[Luke Cage (TV series)|Luke Cage]]''.
+
+==Publication history==
+[[Image:Amazing-Man Comics 5 page 05.jpg|thumb|[[Amazing-Man (Centaur Publications)|Amazing-Man]] in ''Amazing-Man Comics'' #5 (Sept. 1939). Art by Bill Everett]]
+Iron Fist, along with the previously-created [[Shang-Chi|Shang-Chi, Master of Kung Fu]], came from [[Marvel Comics]] during an American [[popular culture|pop culture]] trend in the early to mid-1970s of [[martial arts]] heroes. Writer/co-creator [[Roy Thomas]] wrote in a text piece in ''Marvel Premiere'' #15 that Iron Fist's origin and creation owe much to the [[Bill Everett]] character, [[Amazing-Man (Centaur Publications)|John Aman, the Amazing-Man]], created in 1939. Thomas later wrote that he and artist/co-creator [[Gil Kane]] had
+
+{{quote|...started "Iron Fist" because I'd seen my first [[kung fu]] movie, even before a [[Bruce Lee]] one came out, and it had a thing called "the ceremony of the Iron Fist" in it. I thought that was a good name, and we already had ''[[Master of Kung Fu (comics)|Master of Kung Fu]]'' going, but I thought, "Maybe a superhero called Iron Fist, even though we had [[Iron Man]], would be a good idea." [Publisher] Stan [Lee] liked the name, so I got hold of Gil and he brought in his Amazing Man influences, and we designed the character together...<ref>{{Cite journal | journal=[[Alter Ego (magazine)|Alter Ego]] | issue=70 | date=July 2007| title=Roy Thomas interview | page=38}}</ref>}}
+
+Debuting in a story written by Thomas and [[pencilled]] by Kane in the umbrella title ''[[Marvel Premiere]]'' #15–25 (May 1974 – October 1975), he was then written successively by [[Len Wein]], [[Doug Moench]], [[Tony Isabella]], and [[Chris Claremont]], with art by successive pencillers [[Larry Hama]], [[Arvell Jones]], [[Pat Broderick]], and, in some of his earliest professional work, [[John Byrne (comics)|John Byrne]]. As the ''Marvel Premiere'' issues had successfully established a considerable readership for the character,<ref>{{cite journal |last=Brennaman|first=Chris |title=Marvel Premiere|journal=[[Back Issue!]]|issue=71|page=25 |publisher=[[TwoMorrows Publishing]]|date=April 2014|location=Raleigh, North Carolina}}</ref> following this run, Iron Fist was immediately spun off into the solo series ''Iron Fist'', which ran 15 issues (November 1975 – September 1977). The solo series was written by Claremont and pencilled by Byrne. A subplot involving the [[Steel Serpent]] left unresolved by the cancellation of the series was wrapped up in issues #63–64 of ''[[Marvel Team-Up]]''.
+
+To rescue the character from cancellation, Marvel paired Iron Fist with another character who was no longer popular enough to sustain his own series, [[Luke Cage]].<ref name="back45">{{cite journal |last=Callahan |first=Timothy |date=December 2010 |title=Power Man and Iron Fist |journal=[[Back Issue!]] |issue=45 |pages= 3–11 |publisher=[[TwoMorrows Publishing]]}}</ref> The two characters were partnered in a three-part story in Cage's series ''Power Man'' #48–50. The title of the series changed to ''[[Power Man and Iron Fist]]'' with issue #50 (April 1978), although the [[Indicia (publishing)|indicia]] did not reflect this change until issue #67. Iron Fist co-starred in the series until the final issue (#125, September 1986), in which he is killed. Writer Jim Owsley (subsequently known as [[Christopher Priest (comics)|Christopher Priest]]) later commented, "Fist's death was senseless and shocking and completely unforeseen. It took the readers' heads clean off. And, to this day, people are mad about it. Forgetting, it seems, that (a) you were supposed to be mad, that death is senseless and Fist's death was supposed to be senseless, or that (b) this is a comic book."<ref name="back45"/>
+
+Iron Fist was revived half a decade later in ''[[Namor, the Sub-Mariner]]'' #21–25 (December 1991 – April 1992), a story which revealed that the character killed in ''Power Man and Iron Fist'' #125 was a [[doppelganger]]. The story was both written and drawn by Byrne, who found the manner of Iron Fist's death objectionable and later commented, "In one of those amazing examples of Marvel serendipity, it turned out to be fairly easy not only to resurrect Danny, but to make it seem like that was the plan all along."<ref>{{cite journal|last=Lantz|first=James Heath |title=Prince Namor the Sub-Mariner: Scion of the Deep or Royal Pain?|journal=[[Back Issue!]] |issue=91|pages=57–58 |publisher=[[TwoMorrows Publishing]]|date=September 2016|location=Raleigh, North Carolina}}</ref> Iron Fist then became a frequently starring character in the anthology series ''[[Marvel Comics Presents]]'', featuring in three multi-part [[story arc]]s and four one-shot stories in 1992 and 1993. Two solo [[miniseries]] followed: ''Iron Fist'' (vol. 2) #1–2 (September–October 1996), by writer [[James Felder]] and penciller Robert Brown; and ''Iron Fist'' (vol. 3) #1–3 (July–September 1998), by writer [[Dan Jurgens]] and penciller [[Jackson Guice]]. Also around this time, he was among the ensemble of the group series ''[[Heroes for Hire]]'' which ran 19 issues (July 1997 – January 1999).
+
+Following a four-issue miniseries by writer [[Jay Faerber]] and penciller [[Jamal Igle]], ''Iron Fist: Wolverine'' (November 2000 – February 2001), co-starring the [[X-Men]] character [[Wolverine (character)|Wolverine]] and cover-billed as ''Iron Fist/Wolverine: The Return of K'un Lun'', came another solo miniseries, ''Iron Fist'' vol. 4 #1–6 (May–October 2004), by writer [[Jim Mullaney]] and penciller Kevin Lau. The first issue of a new ongoing series, ''[[The Immortal Iron Fist]]'', by co-writers [[Ed Brubaker]] and [[Matt Fraction]] and primary artist [[David Aja]], premiered with a January 2007 cover-date. [[Duane Swierczynski]] took over the series from issue #17.<ref>{{cite web | url=http://www.newsarama.com/comics/080709-IronFistDS.html | title=Readying Iron Fist with Writer Duane Swierczynski | publisher=[[Newsarama]] | date=September 7, 2008}}</ref>
+
+Iron Fist's appearances outside his own title include three Iron Fist stories in Marvel's black-and-white comics magazine ''[[The Deadly Hands of Kung Fu]]'' #10 (March 1975), an additional story co-starring the [[Sons of the Tiger]] in issue #18 (November 1975), and a six-part serial, "The Living Weapon", in #19–24 (December 1975 – May 1976). He made guest appearances in such titles as ''[[Marvel Two-in-One]]'', ''[[Marvel Team-Up]]'', the Submariner series ''Namor'', ''[[Black Panther (comics)|Black Panther]]'', and ''[[Daredevil (Marvel Comics series)|Daredevil]]''.
+
+Iron Fist appeared as a regular character throughout the 2010–2013 ''New Avengers'' series, from issue #1 (August 2010) through its final issue, #34 (January 2013). In 2014 Iron Fist was given new life and set to star in a new 12-issue comic book series written and drawn by [[Kaare Andrews]] titled ''Iron Fist: The Living Weapon'' as part of the ''[[Marvel NOW!#All-New Marvel NOW!|All-New Marvel NOW!]]'' event.<ref>http://www.comicbookresources.com/?page=article&id=50154</ref>
+
+==Fictional character biography==
+
+===Background===
+Danny Rand was born in New York City. His father, [[Wendell Rand]], as a young boy happened upon the mystical city of [[K'un-L'un]]. During his time in K'un-L'un, Wendell saved the life of the city's ruler, Lord Tuan, and was adopted as Tuan's son. However, Wendell eventually left K'un-L'un and became a wealthy entrepreneur in the United States. He married socialite [[Heather Rand|Heather Duncan]] and had a child: Daniel.
+
+Wendell later organizes an expedition to again seek out K'un-L'un, taking his wife Heather, his business partner [[Harold Meachum]] and nine-year-old Danny. During the journey up the mountain, Danny slips off the path, his tie-rope taking his mother and father with him. Meachum, who also loves Heather, forces Wendell to plunge to his death but offers to rescue Heather and Danny. She rejects his help. Heather and Danny come across a makeshift bridge that appears out of nowhere and are attacked by a pack of wolves. Heather throws herself on the wolves to save Danny and is killed even as archers from K'un-L'un attempt to save her. The archers take the grieving Danny to see [[Yu-Ti|Yü-Ti]], the hooded ruler of K'un-L'un. When Danny expresses his desire for vengeance, Yü-Ti apprentices him to [[Lei Kung (comics)|Lei Kung]] the Thunderer, who teaches him martial arts.
+
+Danny proves to be the most gifted of Lei Kung's students. He toughens his fists by plunging them into buckets of sand, gravel, and rock. At 19, Danny is given the chance to attain the power of the Iron Fist by fighting and defeating the [[Chinese dragon|dragon]] [[Shou-Lao|Shou-Lao the Undying]], who guards the molten heart that had been torn from its body. Guessing that the heart provides life energy to Shou-Lao through the dragon-shaped scar on its chest, Danny covers the scar with his own body and hangs on until Shou-Lao collapses and dies, in the process burning a dragon brand into his own chest. Having killed Shou-Lao, he enters its cave and plunges his fists into a brazier containing the creature's molten heart, emerging with the power of the Iron Fist. It is later revealed that Danny is part of a long lineage of Iron Fists.
+
+When K'un-L'un reappears on Earth after 10 years, Danny leaves to find his father's killer. Returning to New York, Danny Rand, dressed in the ceremonial garb of the Iron Fist, seeks out Harold Meachum, now head of Meachum Industries. After overcoming a number of attempts on his life, he confronts Meachum in his office, only to find the man legless&mdash;an amputation carried out when, after abandoning Danny and his mother, he was caught in heavy snow and his legs became frostbitten.
+
+Meachum accepts his fate and tells Iron Fist to kill him. Overcome with pity, Iron Fist walks away. At that moment Meachum is murdered by a mysterious ninja, and his daughter Joy blames Iron Fist for the death.<ref>''Marvel Premiere'' #15-18</ref> Eventually, Iron Fist clears his name and begins a career as a superhero, aided by his friends [[Colleen Wing]] and [[Misty Knight]].<ref>''Marvel Premiere'' #21</ref> Notable adversaries in his early career include [[Sabretooth (comics)|Sabretooth]], the mysterious [[Master Khan]] (whom the ninja that killed Meachum once served), and the [[Steel Serpent]], the exiled son of Lei Kung, who coveted the Iron Fist power.
+
+===Heroes for Hire===
+While working undercover, Misty Knight infiltrates the organization of crime lord [[Bushmaster (Marvel Comics)#John McIver|John Bushmaster]]. When Bushmaster discovers Knight's treachery, he kidnaps [[Claire Temple]] and Noah Burstein, close associates of [[Luke Cage]], better known as Power Man, and holds them hostage to force Cage to eliminate Knight. Iron Fist is on hand to stop him, however, and after a battle, the truth comes out. Rand helps Cage and the [[Daughters of the Dragon]] (Knight and Wing) battle Bushmaster, rescue Temple and Burstein, and obtain evidence that proves Cage's innocence of prior drug charges. Afterwards, Iron Fist and Power Man become partners, forming [[Heroes for Hire]], Inc.<ref>''Power Man'' #48-50</ref>
+
+Iron Fist, in his [[secret identity]] of Danny Rand, resumes control of his parents' fortune as half of Rand-Meachum, Inc., making him quite wealthy.{{issue|date=March 2014}} This causes tension between Rand and Cage, who was raised poor.
+
+Power Man and Iron Fist's partnership ends with Rand contracting cancer and being kidnapped as part of a plot masterminded by [[Master Khan]]. Just prior to a battle with the Black Dragon Chiantang (the brother of the mythical Dragon King), Danny is replaced by a [[doppelgänger]] created by the extra-dimensional [[H'ylthri]].<ref>behind the scenes in ''Power Man and Iron Fist'' #120</ref>  The double (who wears a red variant of the Iron Fist costume) is killed by Captain Hero a short time later. Cage, now the prime suspect in Rand's apparent death, becomes a fugitive.<ref>''Power Man and Iron Fist'' #125</ref>
+
+===Resurrection===
+While in stasis in K'un-L'un with the H'ylthri, Iron Fist manages to focus his ''chi'', curing the cancer. He is later freed from stasis by [[Namor]].<ref>''Namor the Sub-Mariner'' #22-24</ref>
+
+Rand and Cage reform Heroes for Hire, Inc. with an expanded team, this time working for Namor's Oracle Corporation. Namor ultimately dissolves Oracle as well as Heroes for Hire, Inc.
+
+Iron Fist later loses his powers to [[Junzo Muto]],<ref>''New Warriors'' (vol. 2) #8-10</ref> the young leader of the [[Hand (comics)|Hand]], and subsequently becomes the guardian of a pack of displaced dragons in Tokyo.<ref>''Iron Fist/Wolverine'' #1-4</ref> His powers are eventually restored by Chiantang, who brainwashes Iron Fist and forces him to battle [[Black Panther (comics)|Black Panther]]. Black Panther is able to free Iron Fist from the creature's control, and the two work together to defeat the Black Dragon in [[Wakanda]].<ref>''Black Panther'' (vol. 2) #38-40</ref>
+
+In the ''Iron Fist'' miniseries, [[Miranda Rand|Miranda Rand-K'ai]] also returns from the dead. The H'ylthri revive her and promise to restore her to full life if she retrieves the extra-dimensional artifact known as the Zodiac Key. To this end, she takes the identity of Death Sting, bringing her into conflict with Iron Fist as well as with [[S.H.I.E.L.D.]] When the H'ylthri try to kill Iron Fist, Miranda turns the power of the Zodiac Key against them, seemingly killing herself in the process. However, exposure to chemicals from the H'ylthri pods prevented her death.
+
+===Posing as Daredevil===
+[[File:Iron Fist as Daredevil.jpg|frame|thumb|upright|Danny Rand as [[Daredevil (Marvel Comics character)|Daredevil]]; art by [[Michael Lark]].]]
+Rand disguises himself as [[Daredevil (Marvel Comics character)|Daredevil]] to convince the media and the public that Matt Murdock is not the masked vigilante.<ref>''Daredevil'' #87</ref>
+
+During the ''[[Civil War (comics)|Civil War]]'', he opposes the [[Superhuman Registration Act]], joining [[Captain America]] while still pretending to be Daredevil.{{Issue|date=April 2009}} Rand is apprehended by Pro-Registration forces.<ref>''Civil War'' #5</ref> He is later freed from the Negative Zone Prison, joining Captain America's team to battle [[Iron Man]]'s forces.<ref>''Civil War'' #6</ref>
+
+===New Avengers===
+After the arrest of Captain America, Rand joins the [[The New Avengers (comics)|New Avengers]], an underground group provided with secure accommodation by [[Doctor Strange]] and which includes his former teammate Luke Cage.<ref>''New Avengers'' #27</ref> In the public eye, Rand is able to avoid arrest with legal loopholes.<ref>''New Avengers'' #29</ref> Rand leaves the New Avengers, due to a variety of problems, but lets them know, if they ever need him, to give him a call.{{citation needed|date=July 2014}} He later aids the New Avengers in locating and rescuing Cage from [[Norman Osborn]] after he suffered a heart attack and was summarily taken into custody as a fugitive.<ref>''New Avengers'' #59</ref>
+
+===''The Immortal Iron Fist''===
+{{Main|The Immortal Iron Fist}}
+
+Orson Randall, Danny Rand's immediate predecessor, seeks out Danny Rand in New York and gives him The Book of the Iron Fist, a sacred ledger supposedly containing all the kung fu secrets of previous Iron Fists, which Randall claims will be necessary if Rand is to compete successfully in the coming tournament of the Seven Champions.{{issue|date=July 2014}} The [[Steel Serpent]], whose powers have been greatly augmented by the [[Crane Mother]], dispatches Randall. On the brink of death, Randall surrenders his ''chi'' to Rand, giving him sufficient power to battle the Serpent to a standstill.{{issue|date=July 2014}} After the battle, Rand is summoned by his master, Lei Kung (who is also the father of Steel Serpent) to compete in a tournament that will decide the cycle according to which each of the Seven Cities of Heaven appears on Earth.{{issue|date=July 2014}} However, the leaders of the Seven Cities had secretly erected gateways between Earth and each city without the knowledge of the populace. The corruption of the leaders of the Seven Cities of Heaven spurs Iron Fist, Lei Kung, Orson Randall's daughter, and [[Amazing-Man (Centaur Publications)|John Aman]] to plan a revolution.{{issue|date=July 2014}} Iron Fist discovers that Crane Mother and Xao, a high-ranking HYDRA operative, are planning to destroy K'un Lun by using a portal. Upon learning of the plot, Steel Serpent helps Rand and the other Immortal Weapons defeat Xao.{{issue|date=July 2014}}
+
+Rand destroys the train intended to destroy [[K'un-L'un]] by extending his ''chi'' to find the train's electromagnetic field. Meanwhile, the revolution orchestrated by Lei Kung and Orson's daughter proves successful, with Nu-an, the Yu-Ti of K'un Lun fleeing in terror. When Rand confronts Xao, Xao reveals that there is an eighth city of Heaven before killing himself. Rand suggests Lei Kung as the new Yu-Ti, with Orson's unnamed daughter as the new Thunderer.<ref>''Immortal Iron Fist'' #13</ref>
+
+After learning that the Randall fortune that started Rand International was formed from the oppression of the Cities of Heaven, Rand decides to transform the company into a non-profit organization, dedicated to helping the poor. He also sets up the Thunder Dojo in Harlem to help inner-city children, buys back the old Heroes for Hire building as the new Rand International Headquarters and his new home, while offering Luke Cage a position at the company. He also tries to reconnect with Misty Knight. Rand, on his 33rd birthday, learns every single one of the previous Iron Fists died at the age of 33, except Orson Randall, who vanished at that time.<ref>''Immortal Iron Fist'' #16</ref>
+
+Soon afterward, Rand is attacked and defeated by Zhou Cheng, a servant of Ch'l-Lin, who claims to have killed the Iron Fists in order to enter K'un Lun and devour the egg that births the next incarnation of Shou-Lao the Undying every generation, thus wiping out K'un Lun's Iron Fist legacy. Luke, Misty, and Colleen arrive and save Rand. Rand has his shoulder dislocated during a second battle with Cheng, but manages to defeat Cheng even in his weakened state. Following the duel, the Immortal Weapons, Luke, Colleen, and Misty arrive, and reveal to Rand that they have discovered a map in Cheng's apartment that leads to the Eighth City of Heaven. Rand and the others realize that this is where Ch'l-Lin originated, and depart for the Eighth City.<ref>''Immortal Iron Fist'' #20</ref>
+
+In the Eighth City, he meets Quan Yaozu, the first Iron Fist, who became disillusioned with K'un Lun and rose up to rule the Eighth City as Changming. Rand and Fat Cobra manage to defeat Quan.<ref>''Immortal Iron Fist'' #25</ref> Rand's actions during their battles impress Quan, who decides that Rand may be living proof that K'un Lun is not the corrupt city it once was. Rand and Davos agree to guide Quan to K'un Lun and arrange a meeting between him and Lei-Kung to give Quan a forum for his grievances.<ref>''Immortal Iron Fist'' #26</ref>
+
+However, when Rand returns to New York, he finds a HYDRA cell waiting for him at Rand International, seeking retribution for the death of Xao, and holding Misty hostage. In the ensuing battle, Rand International is destroyed, but Rand and Misty escape unharmed. Now left with only a fraction of his former net worth, Rand and Misty purchase a new condo in Harlem, and Rand decides to focus all of his attention and remaining resources at the Thunder Dojo. While moving into their new home, Rand asks Misty to marry him. Initially skeptical of the offer, Misty accepts and reveals that she is pregnant with Rand's child.<ref>''Immortal Iron Fist'' #27</ref>
+
+===Avengers reform===
+In the aftermath of ''[[Siege (comics)|Siege]]'', Rand joins the newly-reformed New Avengers.<ref>''Heroic Age: New Avengers'' #1</ref> After finding out that Misty's pregnancy was false, Misty and Danny decide to move out of their apartment and live separately, but continue their relationship.<ref>''I Am an Avenger'' #1</ref>
+
+Danny later has an encounter with someone who is going by the name of Power Man. He and Luke Cage discover that the Power Man is Victor Alvarez, a survivor of a building that [[Bullseye (comics)|Bullseye]] blew up.<ref>''Shadowland: Power Man'' #1</ref> Iron Fist becomes the new Power Man's mentor and the two become a team.{{Issue|date=February 2011}}
+
+During the ''[[Fear Itself (comics)|Fear Itself]]'' storyline, Iron Fist and the Immortal Weapons are summoned to [[Beijing]] to close the gates of the Eighth City that are on the verge of opening. However, Danny is placed under mind control which creates a mystical interference with the ability of the Immortal Weapons to close the gate. He is then forced to battle his allies. Thanks to War Machine knocking him out, the mission is completed successfully. However, Doctor Strange realizes that Iron Fist is now an Immortal Weapon of Agamotto.<ref>''Iron Man 2.0'' #6-7</ref>
+
+During the "[[Avengers vs. X-Men]]" storyline, Iron Fist and Lei Kung bring [[Hope Summers (comics)|Hope Summers]] to K'un Lun to train as an Iron Fist, in order to defeat the [[Phoenix (comics)|Phoenix]]-possessed [[X-Men]].<ref>''Avengers vs. X-Men'' #11</ref>
+
+===''Marvel NOW!''===
+In the ''[[Marvel NOW!]]'' era, Iron Fist joins [[Luke Cage]] as the Heroes For Hire, having been employed by [[Boomerang (comics)|Boomerang]] to arrest his former colleagues in the [[Sinister Six]].<ref>''Superior Foes of Spider-Man'' #3</ref>
+
+During the "[[Secret Empire (comics)|Secret Empire]]" storyline, Iron Fist became a member of the Defenders alongside Daredevil, Luke Cage, and Jessica Jones. They, alongside Cloak and Dagger, Doctor Strange, and Spider-Woman, fought the Army of Evil during Hydra's rise to power where they were defeated by Nitro. Iron Fist and those with him were trapped in the [[Darkforce]] dome by [[Blackout (Marcus Daniels)|Blackout]] when his powers were enhanced by [[Helmut Zemo|Baron Helmut Zemo]] using the [[Darkhold]].<ref>''Secret Empire'' #0</ref>
+
+During the "[[Hunt for Wolverine]]" storyline, Iron Fist babysat Danielle Cage while Luke and Jessica were away helping Iron Man and Spider-Man look for Wolverine's body after it went missing from its private resting place. After the mission was over, Luke and Jessica thanked Iron Fist for babysitting Danielle.<ref>''Hunt for Wolverine: The Adamantium Agenda'' #4. Marvel Comics.</ref>
+
+==Powers and abilities==
+Plunging his fists into the molten heart of the dragon Shou-Lao the Undying infused the dragon's superhuman energy into Rand. This, along with being trained by Lei Kung the Thunderer, gave Rand the power of the Iron Fist, allowing him to summon and focus his ''[[Qi|chi]]'' energy (also called natural energy or life force energy) to enhance his natural abilities to extraordinary levels. His strength, speed, stamina, durability, agility, reflexes and senses can all be greatly intensified.
+
+He is able to concentrate his own ''chi'' and the superhuman energy from Shou-Lao's heart into his hand, with it manifesting as a supernatural glow around his hand and fist. So concentrated, this "iron fist" can strike with superhuman hardness and impact, while his hand becomes impervious to pain and injury. However, summoning the power required by this feat leaves Rand physically and mentally drained, unable to repeat the act for a time, as long as an entire day in certain instances, though after years of using the ability, it has become less draining.{{citation needed|date=July 2014}}
+
+He can focus his ''chi'' inward to heal himself or outward to heal others of injury, as well as to give himself [[psychic]] senses and to [[telepathy|telepathically]] fuse his consciousness with another person.<ref>''Spider-Man'' #37</ref>
+
+Rand is also a skilled acrobat, gymnast, and a master of all of K'un Lun's martial arts, as well as various fighting styles from Earth, including [[Shaolin Kung Fu]], [[Aikido]],<ref>''Iron Fist'' (vol. 1) #15 (September 1977)</ref> [[Fujian White Crane]],<ref name=IronFistMartialArts1>''Iron Fist'' (vol. 2) #2 (October 1996)</ref> [[Judo]],<ref name=IronFistMartialArts2>''Marvel Team-Up'' (vol. 1) #63 (November 1977)</ref> [[Karate]],<ref name=IronFistMartialArts2 /> [[Muay Thai]],<ref name=IronFistMartialArts1 /> [[Ninjutsu]]<ref>''Iron Fist'' (vol. 1) #12 (April 1977)</ref> and [[Wing Chun]].<ref>''Iron Fist'' (vol. 2) #1 (September 1996)</ref>
+
+==Other characters named Iron Fist==
+{{expand section|date=January 2019}}
+This section lists the other people who have been called Iron Fist:
+
+===Fongji===
+Centuries ago, the Yu-Ti Nu-An had a recurring dream associating a red-haired girl with the Phoenix and a dragon. He later finds a matching red-haired girl named Fongji in the streets of K'un-L'un and has her trained as the Iron Fist.<ref>{{cite comic |writer=Bendis, Brian Michael |artist=Deodato Jr., Mike; Conrad, Will |colorist=Beredo, Rain |story= |title=New Avengers |volume=2 |issue=25 |date=April 2012 |publisher=Marvel Comics |id=}}</ref> Nu-An asks for [[Cultural depictions of Leonardo da Vinci#Comics and graphic novels|Leonardo da Vinci]] to come to K'un-L'un in order to help protect the world against the Phoenix's arrival; meanwhile, Fongji is submitted to a hard training, eventually manifesting the Phoenix powers. Nu-An orders her to battle the dragon Shao-Lao as established by the ritual of the Iron Fist. Fongji is successful in her test and becomes the Iron Fist, shortly before Da Vinci sees the Phoenix coming towards Earth.<ref>{{cite comic |writer=Bendis, Brian Michael |artist=Deodato Jr., Mike |colorist=Beredo, Rain |story= |title=New Avengers |volume=2 |issue=26 |date=May 2012 |publisher=Marvel Comics |id=}}</ref> Fongji is able to bond with the Phoenix and remain in control of herself, but she feels that Earth is still not ready for its evolution and departs.<ref>{{cite comic |writer=Bendis, Brian Michael |artist=Deodato Jr., Mike |colorist=Beredo, Rain |story= |title=New Avengers |volume=2 |issue=27 |date=June 2012 |publisher=Marvel Comics |id=}}</ref>
+
+===Fan Fei===
+In 1,000,000 BC, a K'un-Lun native named Fan Fei was born to the Green Lotus House and had taken a fascination with the [[Caveman|cavemen]] that lived outside K'un-Lun; going so far as to train a few of them in secret. After she was exposed, Fan Fei was chained up and forced to watch as her students were fed to Shou-Lou by Lei Kung. When she broke out, in the hopes that she will die fighting Shou-Lou, Fan Fei punched the dragon in his chest tattoo and gained his powers. Lei Kung had Fan Fei exiled from K'un-Lun, believing Shou-Lou was dead, and she traveled the world; fighting Deviants and the Gorgilla Clan of Man-Apes along the way. Fan Fei was approached by [[Mephisto (comics)|Mephisto]], who wanted her to use her powers to conquer Earth, but she declined. In response, Mephisto granted his gifts to the Gorgilla Clan. After a fight with Fan Fei, Mephisto led the Gorgilla Clan's Ape King to the Power Infinity Gem, which he used to fight Fan Fei again. After recuperating, Fan Fei found herself at the entrance of K'un-Lun. Lei Kung states that her sentencing was wrong, as they learned Shou-Lou was immortal, and wanted to bring her home. However, she declined, stating that Earth was her home and her fights here are just the beginning.<ref>''Avengers'' Vol. 8 #13. Marvel Comics.</ref>
+
+Fan Fei later banded together with [[Agamotto]], [[Phoenix Force (comics)#Lady Phoenix|Lady Phoenix]], [[Odin (comics)|Odin]], and Stone Age versions of [[Black Panther (comics)#Black Panther 1,000,000 B.C.|Black Panther]], [[Ghost Rider#1,000,000 B.C. version|Ghost Rider]], and [[Star Brand#1,000,000 B.C. version|Star Brand]] to fought off a Celestial named the Fallen. They would go on to defeat it and seal it underground in what would later become South Africa.<ref>''Marvel Legacy'' #1. Marvel Comics.</ref>
+
+==Other versions==
+===''MC2''===
+Iron Fist appeared in the pages of ''[[Spider-Girl]]'' #24, in which he is retired after the death of Misty Knight (his wife in this universe). However, he temporarily steps back into costume to aid Spider-Girl against the might of Dragon Fist.<ref>''Spider-Girl'' #24</ref>
+
+===''Marvel Zombies''===
+Iron Fist is shown twice in battle during the ''[[Marvel Zombies]]'' miniseries. He can be seen in several splash panels,{{Issue|date=September 2009}} as well as being bitten by a zombie version of [[Luke Cage]],{{Issue|date=September 2009}} punching a hole through a zombified [[Black Cat (Marvel Comics)|Black Cat]] and once again being bitten, apparently avoiding infection through his healing abilities.<ref>''Marvel Zombies vs. The Army of Darkness'' #2</ref> A different Iron Fist appears in ''[[Marvel Zombies Return]]'' in an alternate universe where he is unaffected by the zombie outbreak until Wolverine from the [[Marvel Zombies]] universe kills him with his claws.<ref>''Marvel Zombies Return'' #3 (2009)</ref>
+
+===''Ultimate Marvel''===
+Daniel Rand has appeared in ''[[Ultimate Spider-Man]]''. His first appearance in the Ultimate universe was in ''Ultimate Spider-Man'' #1/2. Later, he appeared in the ''Warriors'' story arc (issues #79-85) along with [[Shang-Chi#Ultimate Shang-Chi|Shang Chi]], [[Moon Knight#Ultimate Moon Knight|Moon Knight]], and others. He reappears in the ''Ultimate Knights'' arc, as a member of a Daredevil-led team trying to take down the [[Kingpin (comics)|Kingpin]]. In ''Ultimate Spider-Man'' #107, however, he has apparently betrayed the group to the Kingpin. Daredevil has uncovered the deception and ends issue #109 demanding answers from Rand. In issue #110 Iron Fist reveals that he has a daughter and the Kingpin threatened her life, so he chose his daughter's life over Daredevil's, and the rest of the heroes that teamed up to take down the Kingpin. He did distract Kingpin while Daredevil grabbed Kingpin's wife. Rand is last seen with his daughter and his daughter's mother [[Colleen Wing]].<ref>''Ultimate Spider-Man'' #106-111</ref>
+
+===''House of M''===
+In the ''[[House of M]]'' reality, Daniel Rand emerges from K'un-Lun, unaware of the mutant-dominated planet. He is attacked by mutant police, and eventually joins Luke Cage's Human Resistance Movement.
+
+===Earth-13584===
+In [[Advanced Idea Mechanics|A.I.M.]]'s pocket dimension of Earth-13584, Iron Fist appears as a member of Spider-Man's gang.<ref>''Dark Avengers'' vol. 2 #187</ref>
+
+===''Deadpool 2099''===
+Iron Fist is one of the few heroes still alive in 2099, he is known as the "Defender of the Streets" and now leads a large group of martial artists to continue his vigilante activities. Deadpool requests his aid to help deal with Wade's daughter, Warda, and Rand agrees to help his oldest living friend.<ref>''Deadpool'' vol. 4 #19.</ref>
+
+==Reception==
+Iron Fist is ranked as the 195th greatest comic book character of all time by ''[[Wizard (magazine)|Wizard]]'' magazine.<ref>{{cite web|url=http://herochat.com/forum/index.php?topic=170859.0 |title=Wizard's top 200 characters. External link consists of a forum site summing up the top 200 characters of Wizard Magazine since the real site that contains the list is broken. |publisher=[[Wizard (magazine)|''Wizard'' magazine]]. |accessdate=May 7, 2011 |deadurl=yes |archiveurl=https://web.archive.org/web/20110608020121/http://herochat.com/forum/index.php?topic=170859.0 |archivedate=June 8, 2011 |df= }}</ref> [[IGN]] also ranked Iron Fist as the 68th greatest comic book hero of all time stating that in the Marvel Universe, mastery of martial arts is enough to qualify as a superpower, and none are more "super" at the art of fighting than Iron Fist,<ref>{{cite web | url=http://www.ign.com/top/comic-book-heroes/68 | title=Iron Fist is number 68 | publisher=[[IGN]] | accessdate=May 14, 2011}}</ref> and as #46 on their list of the "Top 50 Avengers".<ref>{{cite web |last= |first= |date=April 30, 2012 |title=The Top 50 Avengers |url=http://www.ign.com/top/avengers/46 |publisher=[[IGN]] |accessdate=July 28, 2015}}</ref>
+
+==Collected editions==
+
+'''Epic/Essential/Masterwork Collections'''
+{| class="wikitable"
+|-
+! Title !! Material collected !! Publication date !! ISBN
+|-
+| '''Essential Iron Fist Vol. 1'''
+| ''Marvel Premiere'' #15-25; ''Iron Fist'' (vol. 1) #1-15; ''Marvel Team-Up'' (vol. 1) #63-64; ''Power Man'' #48-49; ''Power Man and Iron Fist'' #50
+| October 2004
+| SC: {{ISBNT|978-0785115465}}
+|-
+| '''Essential Power Man and Iron Fist Vol. 1'''
+| ''Power Man and Iron Fist'' #51-72, #74-75
+| January 2008
+| SC: {{ISBNT|978-0785127260}}
+|-
+| '''Essential Power Man and Iron Fist Vol. 2'''
+| ''Power Man and Iron Fist'' #76-100; ''Daredevil'' #178
+| March 2009
+| SC: {{ISBNT|978-0785130727}}
+|-
+| '''Marvel Masterworks: Iron Fist Vol. 1'''
+| ''Marvel Premiere'' #15-25, ''Iron Fist'' #1-2
+| June 2011
+| HC: {{ISBNT|978-0785150329}}
+|-
+| '''Marvel Masterworks: Iron Fist Vol. 2'''
+| ''Iron Fist'' #3-15, ''Marvel Team-Up'' #63-64
+| September 2012
+| HC: {{ISBNT|978-0785159551}}
+|-
+| '''Epic Collection Iron Fist Vol. 1: The Fury of Iron Fist'''
+| ''Marvel Premiere'' #15-25; ''Iron Fist'' (vol. 1) #1-15; ''Marvel Team-Up'' (vol. 1) #63-64
+| August 2015
+| SC: {{ISBNT|978-0785191643}}
+|}
+
+'''The Immortal Iron Fist'''
+{| class="wikitable"
+|-
+! Title !! Material collected !! Publication date !! ISBN
+|-
+| '''The Immortal Iron Fist Vol. 1: The Last Iron Fist Story'''
+| ''The Immortal Iron Fist'' #1-6; ''Civil War: Choosing Sides''
+| August 2007<br>November 2007
+| HC: {{ISBNT|978-0785128540}}<br>SC: {{ISBNT|978-0785124894}}
+|-
+| '''The Immortal Iron Fist Vol. 2: The Seven Capital Cities of Heaven'''
+| ''The Immortal Iron Fist'' #8-14, ''Annual'' #1
+| style=white-space:nowrap | June 2008<br>September 2008
+| style=white-space:nowrap | HC: {{ISBNT|978-0785129929}}<br>SC: {{ISBNT|978-0785125358}}
+|-
+| '''The Immortal Iron Fist Vol. 3: The Book of the Iron Fist'''
+| ''The Immortal Iron Fist'' #7, #15-16; ''Orson Randall and the Green Mist of Death''; ''The Origin of Danny Rand''; covers of ''Marvel Premiere'' #15-16
+| October 2008<br>February 2009
+| HC: {{ISBNT|978-0785129936}}<br>SC: {{ISBNT|978-0785125365}}
+|-
+| '''The Immortal Iron Fist Vol. 4: The Mortal Iron Fist'''
+| ''The Immortal Iron Fist'' #17-20; ''Orson Randall and the Death Queen of California''
+| April 2009<br>July 2009
+| HC: {{ISBNT|978-0785129943}}<br>SC: {{ISBNT|978-0785132967}}
+|-
+| '''The Immortal Iron Fist Vol. 5: Escape from the Eighth City'''
+| ''The Immortal Iron Fist'' #22-27
+| September 2009<br>November 2009
+| HC: {{ISBNT|978-0785133926}}<br>SC: {{ISBNT|978-0785131793}}
+|-
+| '''The Immortal Iron Fist Omnibus'''
+| ''The Immortal Iron Fist'' #1-16, ''Annual'' #1; ''Orson Randall and the Green Mist of Death''; ''The Origin of Danny Rand''; ''Civil War: Choosing Sides''
+| June 2009
+| HC: {{ISBNT|978-0785138198}}
+|-
+| '''The Immortal Iron Fist: The Complete Collection Volume 1'''
+| ''The Immortal Iron Fist'' #1-16, ''Annual'' #1; ''Orson Randall and the Green Mist of Death''; ''The Origin of Danny Rand''; ''Civil War: Choosing Sides''
+| December 2013
+| SC: {{ISBNT|978-0785185420}}
+|-
+| '''The Immortal Iron Fist: The Complete Collection Volume 2'''
+| ''The Immortal Iron Fist'' #17-27; ''Orson Randall and the Death Queen of California''; ''Immortal Weapons'' #1-5; ''Immortal Weapons Sketchbook''
+| June 2014
+| SC: {{ISBNT|978-0785188902}}
+|-
+|}
+
+'''Iron Fist'''
+{| class="wikitable"
+|-
+! Title !! Material collected !! Publication date !! ISBN
+|-
+| '''Iron Fist: The Return of K'un Lun'''
+| ''Iron Fist'' (1996) #1-2, ''Iron Fist'' (1998) #1-3, ''Iron Fist'' (2004) #1-6, ''Iron Fist/Wolverine'' #1-4, ''Uncanny Origins'' #14, material from ''Marvel Knights Double-Shot'' #4
+| April 2015
+| SC: {{ISBNT|978-0785192183}}
+|-
+| '''Iron Fist Vol. 1: The Trial of Seven Masters'''
+| ''Iron Fist'' (2017-2018) #1-5
+| September 2017
+| SC: {{ISBNT|978-1302907761}}
+|-
+| '''Iron Fist Vol 2. Sabertooth - Round 2'''
+| ''Iron Fist'' (2017-2018) #6-7, #72-76
+| April 2018
+| SC: {{ISBNT|978-1302907778}}
+|}
+
+'''Iron Fist: The Living Weapon'''
+{| class="wikitable"
+|-
+! Title !! Material collected !! Publication date !! ISBN
+|-
+| '''Iron Fist: The Living Weapon - Vol. 1: Rage'''
+| ''Iron Fist: The Living Weapon'' #1-6
+| December 2014
+| SC: {{ISBNT|978-0785154358}}
+|-
+| '''Iron Fist: The Living Weapon - Vol. 2: Redemption'''
+| ''Iron Fist: The Living Weapon'' #7-12
+| September 2015
+| SC: {{ISBNT|978-0785154365}}
+|-
+| '''Iron Fist: The Living Weapon - The Complete Collection'''
+| ''Iron Fist: The Living Weapon'' #1-12
+| April 2017
+| SC: {{ISBNT|978-1302904494}}
+|}
+
+'''Miniseries'''
+{| class="wikitable"
+|-
+! Title !! Material collected !! Publication date !! ISBN
+|-
+| | '''Immortal Weapons'''
+| ''Immortal Weapons'' #1-5
+| March 2010
+| SC: {{ISBNT|978-0785138488}}
+|-
+|}
+
+==In other media==
+===Television===
+====Animation====
+* Iron Fist appears in ''[[The Super Hero Squad Show]]'' episode "A Brat Walks Among Us", voiced by [[Mikey Kelley]]. He is seen as a member of Heroes for Hire (alongside Luke Cage and Misty Knight) when Brynnie Bratton hires them to help look for her father.
+* Iron Fist appears in ''[[The Avengers: Earth's Mightiest Heroes]]'' episode "To Steal an Ant-Man", voiced by [[Loren Lester]] reprising his role from ''Ultimate Marvel vs. Capcom 3''. He and [[Luke Cage]] are hired by [[Henry Pym]] to retrieve his Ant-Man suit from a thief who uses it in bank robberies. The character later appears in the episodes "Yellowjacket", "New Avengers", and "Avengers Assemble".
+* A teenaged version of Iron Fist appears as one of the main characters in ''[[Ultimate Spider-Man (TV series)|Ultimate Spider-Man]]'',<ref>[http://marvel.com/news/story/18195/spider-man_his_ultimate_friends_iron_fist Spider-Man & His Ultimate Friends: Iron Fist]</ref> voiced by [[Greg Cipes]].<ref>[http://marvel.toonzone.net/news.php?action=fullnews&id=770 Press Release For Marvel Universe Block, Animated "Spider-Man" and "The Avengers"]</ref> He is portrayed as [[Luke Cage]]'s best friend and often voices his opinions through on-the-spot [[proverb]]s befitting the given situation. Danny is a [[Vegetarianism|vegetarian]], practices [[meditation]] and is well-versed in [[martial arts]]. Despite Danny's great wealth from his father's company, the Rand Corporation, he chose to live a simple life amongst his friends as part of his training. Having the majority of his training in K'un-L'un completed, Danny joined S.H.I.E.L.D to make better use of his skills and gain more worldly experience. In the episode "Return to the Spider-Verse Pt. 1", Iron Fist brings Spider-Man and Kid Arachnid to K'un-L'un where Nick Fury and Madame Web are currently hiding out so that they can send Spider-Man and Kid Arachnid to the different universes to piece together the Siege Perilous. The same episode showed a version of Iron Fist who is a vampire that is loyal to Lizard King. Using a combination of the Siege Perilous shard and a UV light, Spider-Man and Kid Arachnid were able to cure everyone of the vampire strain. In the episode "The Spider-Slayers Pt. 3," after [[Nova (Sam Alexander)|Nova]] attacks [[Scarlet Spider]] because he learned that he was Doctor Octopus´spy for revealing Spider-Man's identity, to endanger S.H.I.E.L.D. Academy and [[Aunt May]], he along with Power Man and [[Squirrel Girl]] attack the [[Spider-Slayers]] and when they stop they agree to watch him with [[Flash Thompson|Agent Venom]] for his bad actions that deserve to be locked up for life, before his energy was drained by [[Kaine Parker|Kaine]]. At the end of "Graduation Day Pts. 1 and 2", he, Power Man, [[White Tiger (Ava Ayala)|White Tiger]] and Nova team with Spider-Man for the last time to find Doctor Octopus, protect Aunt May, and fight the [[Scorpion (Marvel Comics)|Scorpion]] and [[Crossbones (comics)|Crossbones]] (who becomes the new [[Lizard (comics)|Lizard]]) and defeat them. Then, at the graduation ceremony, he is trapped with the team in a contracting shield in the Triskelion and in the end is released by Spider-Man.
+* Iron Fist appears in the ''[[Lego Marvel Super Heroes: Maximum Overload]]'' miniseries, voiced by [[Greg Cipes]].{{citation needed|date=January 2018}}
+* Iron Fist appears in ''[[Avengers Assemble (TV series)|Avengers: Secret Wars]]'', voiced again by Greg Cipes.<ref>{{cite episode|title=The Immortal Weapon|series=Avengers Assemble|network=Disney XD|season=4|number=19|airdate=January 14, 2018}}</ref> He was in K'un-Lun at the time when [[Beyonder]] snatched it from Earth and used to make [[Battleworld]]. Iron Fist was reluctant to let Black Panther and Falcon claim Heimdall's sword due to the fact that it was used to seal away Dracula. When Dracula is freed, Iron Fist assists them in fighting Dracula and his forces even when it was discovered that a Venom symbiote has possessed Dracula. After Dracula is repelled, Iron Fist plans to go after Dracula and keep him from reaching the Battleworld location where more symbiotes are dwelling.
+
+====Marvel Cinematic Universe====
+[[File:Finn Jones as Danny Rand.jpg|thumb|[[Finn Jones]] as Danny Rand in the [[Netflix]] series ''[[Iron Fist (TV series)|Iron Fist]]''.]]
+* [[Finn Jones]] stars in [[Iron Fist (TV series)|a series based on the character]]<ref name="NetflixPlanned">{{cite web|url=http://www.deadline.com/2013/11/disney-netflix-marvel-series/|title=Disney To Provide Netflix With Four Series Based On Marvel Characters|last=Lieberman|first=David|website=[[Deadline Hollywood]]|date=November 7, 2013|accessdate=November 7, 2013}}</ref><ref name="NetflixCast">{{cite web |url=http://www.ew.com/article/2016/02/25/finn-jones-iron-fist |title=Game of Thrones actor Finn Jones to play Iron Fist |last=Hibberd |first=James |work=[[Entertainment Weekly]] |date=February 25, 2016 |accessdate=February 25, 2016 |archiveurl=https://www.webcitation.org/6fZGoQS8A?url=http://www.ew.com/article/2016/02/25/finn-jones-iron-fist |archivedate=February 25, 2016 |deadurl=no |df= }}</ref> while his younger self is portrayed by Toby Nichols. At a young age, he had a friendship with Ward Meachum and Joy Meachum when both their fathers ran Rand Enterprises. After a plane crash orchestrated by Harold Meachum happens, Danny survives and is rescued by some monks in K'un-Lun where he is trained by them. Years later, he returns to New York City where he plans to regain his family's company, after which he allies himself with Colleen Wing and uncovers an evil plot by the Hand.
+* Jones reprises his role in ''[[The Defenders (miniseries)|The Defenders]]'', a crossover miniseries.<ref name="Defenders">{{cite web |url=http://marvel.com/news/tv/26037/netflix_original_series_marvels_the_defenders_finds_its_showrunners |title=Netflix Original Series 'Marvel's The Defenders' Finds Its Showrunners |last=Strom |first=Marc |publisher=[[Marvel Comics|Marvel.com]] |date=April 15, 2015 |accessdate=April 15, 2015 |archiveurl=https://www.webcitation.org/6gmyjNCbo?url=http://marvel.com/news/tv/26037/netflix_original_series_marvels_the_defenders_finds_its_showrunners |archivedate=April 15, 2016 |deadurl=no |df= }}</ref> When the Hand puts their plans into motion that involves harvesting the dragon bones that are beneath Manhattan, Rand teams up with Daredevil, Jessica Jones, and Luke Cage to fight them.
+* Jones reprises his role in the [[Luke Cage (season 2)|second season]] of ''[[Luke Cage (TV series)|Luke Cage]]'' in the episode "The Main Ingredient" where he helps Cage look for [[Bushmaster (John McIver)|Bushmaster]] and [[Nightshade (Marvel Comics)|Tilda Johnson]].<ref>{{cite episode|title=The Main Ingredient|series=Marvel's Luke Cage|credits=Goddard, Andy (director); Akela Cooper (writer)|network=[[Netflix]]|airdate=June 22, 2018|season=2|number=10}}</ref>
+
+===Film===
+* In May 2000, [[Marvel Studios]] brought [[Artisan Entertainment]] to co-finance an Iron Fist film,<ref>{{cite web | first=Michael | last=Fleming | url=http://www.variety.com/article/VR1117781709 | title=Artisan deal a real Marvel | work=[[Variety (magazine)|Variety]] | date=May 16, 2000 | accessdate=March 30, 2008}}</ref> hiring [[Ray Park]] to star and [[John Turman]] to write the script in January 2001.<ref>{{cite web | first=Dana | last=Harris | url=http://www.variety.com/article/VR1117791215 | title=Park, Turman Marvel at ''Fist'' | work=Variety | date=January 3, 2001 | accessdate=March 30, 2008}}</ref> Park extensively read the comics Iron Fist had appeared in.<ref>{{cite web | first=Rob | last=Worley | authorlink=Rob Worley | url=http://www.comicbookresources.com/news/newsitem.cgi?id=2697 | title=Comics2Film Wrap For August 13, 2003 | work=[[Comic Book Resources]] | date=August 13, 2003 | accessdate=March 31, 2008}}</ref> [[Kirk Wong]] signed to direct in July 2001, with filming set for late 2001/early 2002.<ref>{{cite web | first=Dana | last=Harris | url=http://www.variety.com/article/VR1117850356 | title=Wong to forge Marvel's ''Iron'' | work=Variety | date=July 26, 2001 | accessdate=March 30, 2008}}</ref> ''Iron Fist'' nearly went into pre-production in March 2002.<ref>{{cite web | first=Rob | last=Worley | url=http://www.comics2film.com/index.php?a=story&b=441 | title=Marvel Chief talks Movies | work=Comics2Film | date=March 18, 2002 | accessdate=March 31, 2008}}</ref> Wong left the project in April 2002.<ref>{{cite web | first=Rob | last=Worley | url=http://www.comics2film.com/index.php?a=story&b=622 | title=Arad Confirms Wong off ''Iron Fist'' | work=Comics2Film | date=April 15, 2002 | accessdate=March 31, 2008}}</ref> By August 2002, pre-production had started.<ref>{{cite web | first=Kevin | last=Leung | url=http://www.comics2film.com/index.php?a=story&b=1531 | title=''Iron Fist'' Heating Up | work=Comics2Film | date=August 15, 2002 | accessdate=March 31, 2008}}</ref> Filming was pushed back to late 2002,<ref>{{cite web | first=David | last=Bloom | url=http://www.variety.com/article/VR1117868826 | title=Comic capers captivate studios | work=Variety | date=June 23, 2002 | accessdate=March 30, 2008}}</ref> and then to late 2003.<ref>{{cite web | first=Dana | last=Harris | url=http://www.variety.com/article/VR1117884620.html | title=Artisan reups with Summit for int'l distribution | work=Variety | date=April 14, 2003 | accessdate=March 30, 2008}}</ref> In March 2003, Marvel announced a 2004 release date.<ref>{{cite web | first=Rob | last=Worley | url=http://www.comicbookresources.com/news/newsitem.cgi?id=1964 | title=Marvel Movies: The Next Wave | work=Comic Book Resources | date=March 4, 2003 | accessdate=March 31, 2008}}</ref> In April 2003, [[Steve Carr]] entered negotiations to direct.<ref>{{cite web | first=Rob | last=Worley | url=http://www.comicbookresources.com/news/newsitem.cgi?id=2179 | title=Comics2Film Wrap For April 28th, 2003 | work=Comic Book Resources | date=April 28, 2003 | accessdate=March 31, 2008}}</ref> In November 2003, the release date was moved to 2006.<ref>{{cite web|first=Eric J. |last=Moreels |url=http://www.comixfan.com/xfan/forums/showthread.php?s=&threadid=23722 |archive-url=https://web.archive.org/web/20040104084323/http://www.comixfan.com/xfan/forums/showthread.php?s=&threadid=23722 |dead-url=yes |archive-date=January 4, 2004 |title=Arad's Mega Marvel Movie, TV Update |work=Comixfan |date=November 5, 2003 |accessdate=March 31, 2008 }}</ref> In March 2007, Carr placed ''Iron Fist'' on hold due to scheduling conflicts.<ref>{{cite web | author=Ftopel | url=http://www.rottentomatoes.com/news/1648519/steve_carr_waits_in_marvel_queue_for_quotiron_fistquot_production/ | title=Steve Carr Waits In Marvel Queue for ''Iron Fist'' Production | work=[[Rotten Tomatoes]] | date=March 29, 2007 | accessdate=March 30, 2008}}</ref> In 2009, Marvel announced they had begun hiring a group of writers to help come up with creative ways to launch its lesser-known properties, such as Iron Fist, along with others such as [[Black Panther (comics)|Black Panther]], [[Cable (comics)|Cable]], [[Doctor Strange]], [[Nighthawk (Marvel Comics)|Nighthawk]], and [[Vision (Marvel Comics)|Vision]].<ref>{{cite web | first=Marc | last=Graser | url=http://www.variety.com/article/VR1118001734.html?categoryid=13&cs=1 | title=Marvel's hiring writers | work=Variety | date=March 26, 2009 | accessdate=March 27, 2009}}</ref> In August 2010, Marvel Studios hired [[Rich Wilkes]] to write the screenplay.{{Vague|date=August 2010}}<ref>{{cite web | url=http://www.superherohype.com/news/articles/106236-marvel-moves-on-iron-fist | title=Marvel Moves on Iron Fist | first=Silas | last=Lesnick | work=SuperHeroHype | date=August 25, 2010}}</ref> Marvel has a future ''Iron Fist'' film project planned.<ref>[http://hollywoodreporter.com/heat-vision/marvel-cliffhanger-robert-downey-jrs-518837 Marvel Cliffhanger: Robert Downey Jr.'s $50 Million Sequel Showdown]</ref> In November 2013, [[Disney]] CEO [[Bob Iger]] stated that they "probably were never going to make feature films about" characters featured in Marvel's Netflix TV series such as ''Iron Fist'' but that if the Netflix series became popular, "[it was] quite possible that they could become feature films."<ref>{{cite web |url=https://variety.com/2013/digital/news/why-disney-chose-to-put-marvels-new-tv-shows-on-netflix-1200805867/ |title=Why Disney Chose to Put Marvel's New TV Shows on Netflix |last=Graser |first=Marc |work=[[Variety (magazine)|Variety]] |date=November 7, 2013 |accessdate=February 20, 2014 |archiveurl=https://www.webcitation.org/6NWLW9M2E?url=http://variety.com/2013/digital/news/why-disney-chose-to-put-marvels-new-tv-shows-on-netflix-1200805867/ |archivedate=February 20, 2014 |deadurl=no |df= }}</ref>
+
+===Video games===
+* Iron Fist appears as a non-playable character in the 16-bit [[video game]] ''[[Spider-Man and Venom: Maximum Carnage]]'' (1994), which was released for the [[Super Nintendo Entertainment System|Super NES]] and [[Sega Genesis|Genesis]] platforms.<ref>{{cite web | url=http://www.gamefaqs.com/snes/588683-spider-man-and-venom-maximum-carnage/faqs/2798 | title=Spider-Man and Venom: Maximum Carnage (SNES) FAQ}}</ref> When the user plays as Spider-Man, Iron Fist heals the player back to full health. During game play as Venom, Iron Fist attacks all enemies on screen with flying jump kicks.
+* In ''[[The Amazing Spider-Man: Lethal Foes]]'' [[video game]] (which was only released in Japan for the Super Famicom), Iron Fist makes a brief appearance between levels to talk with Spider-Man.{{citation needed|date=September 2014}}
+* Iron Fist appears as a playable character in ''[[Spider-Man: Friend or Foe]]'', voiced by John Rubinow. He is depicted as a S.H.I.E.L.D. agent who went missing when on Tangaroa Island. After Iron Fist is rescued from the P.H.A.N.T.O.M.s by Spider-Man, he joins him on his quest.<ref>''[[Spider-Man: Friend or Foe]]''</ref>
+* Iron Fist is a playable character in the Vicarious Visions (Xbox 360 and PlayStation 3, later also PlayStation 4, Xbox One and PC) versions of ''[[Marvel: Ultimate Alliance 2]]'', voiced by Peter Dobson. He is locked into the Anti-Registration faction during the Civil War portion of the game.<ref>{{cite web|url=http://marvelultimatealliance.marvel.com/#/Characters/Iron_Fist |title=Iron Fist profile in ''Marvel: Ultimate Alliance 2'' |work=[[Marvel Comics]] |accessdate=July 10, 2009 |deadurl=yes |archiveurl=https://web.archive.org/web/20090318200922/http://marvelultimatealliance.marvel.com/ |archivedate=March 18, 2009 |df= }}</ref>
+* Iron Fist makes a cameo appearance in [[Ryu (Street Fighter)|Ryu]]'s ending in ''[[Marvel vs. Capcom 3: Fate of Two Worlds]]''.{{citation needed|date=September 2014}}
+* Iron Fist is a new playable character in ''[[Ultimate Marvel vs. Capcom 3]]'', an update to the original ''Marvel vs. Capcom 3''.<ref>[http://comic-con.gamespot.com/story/6324583/ultimate-marvel-vs-capcom-3-roster-leaked GameSpot - Ultimate Marvel vs. Capcom 3 roster leaked] {{webarchive|url=https://web.archive.org/web/20110722101943/http://comic-con.gamespot.com/story/6324583/ultimate-marvel-vs-capcom-3-roster-leaked |date=2011-07-22 }}</ref> In this game, he is voiced by [[Loren Lester]].<ref>{{cite web|url=http://www.twitch.tv/capcomunity/b/297556644|title=Live streaming New York Comic-Con|deadurl=yes|archiveurl=https://web.archive.org/web/20111017083148/http://www.twitch.tv/capcomunity/b/297556644|archivedate=2011-10-17|df=}} TwitchTV (confirmation heard during 0:24:48 - 0:25:03)</ref>
+* Iron Fist was a playable character in the [[Facebook]] game ''[[Marvel: Avengers Alliance]]''.{{citation needed|date=September 2014}}
+* Iron Fist is available as downloadable content for the game ''[[LittleBigPlanet]]'', as part of "Marvel Costume Kit 5".<ref name="LittleBigPlanetMCK5">{{cite web |url=http://us.playstation.com/games-and-media/add-ons/littlebigplanet-2-marvel-heroes-costume-pack-5.html |title=Marvel Costume Kit 5 |publisher=[[Sony]] |accessdate=December 30, 2012 |archivedate=December 29, 2012 |archiveurl=https://www.webcitation.org/6DHNHlmfU?url=http://us.playstation.com/games-and-media/add-ons/littlebigplanet-2-marvel-heroes-costume-pack-5.html |deadurl=yes |df= }}</ref>
+* Iron Fist appears in ''[[Marvel Heroes (video game)|Marvel Heroes]]''. He is one of the Heroes for Hire that Luke Cage can summon in-game. He was initially voiced by JP Karliak as a non-playable character.<ref>{{cite web|url=http://www.behindthevoiceactors.com/characters/Marvel-Universe/Iron-Fist/|title=Voice Of Iron Fist - Marvel Universe <nowiki>|</nowiki> Behind The Voice Actors|website=Behind The Voice Actors|date=|accessdate=June 22, 2017|postscript=. Check marks indicates role has been confirmed using screenshots of closing credits and other reliable sources}}</ref> He became a playable character in 2015, voiced by [[Johnny Yong Bosch]].<ref>{{cite web|url=https://twitter.com/johnnyyongbosch/status/661783772652703744|title=It's been announced, I'm voicing #ironfist for #marvelheroes. Excited for this one!|publisher=[[Twitter]]|date=November 3, 2015|accessdate=November 4, 2015}}</ref>
+* Iron Fist appears as a playable character in ''[[Lego Marvel Super Heroes]]'',<ref>[https://www.youtube.com/watch?v=fo1nY5kH-SE]</ref> voiced by [[Andrew Kishino]].<ref name="news.marvel.com">https://news.marvel.com/games/61757/marvels-iron-fist-netflix-hero-comes-marvel-games/</ref>
+*Iron Fist is a playable character in the Spider-Man Playset for ''[[Disney Infinity: Marvel Super Heroes]]'' and ''[[Disney Infinity 3.0]]'',{{citation needed|date=September 2014}} voiced by [[Greg Cipes]].{{citation needed|date=November 2014}}
+*Iron Fist is a playable character in ''[[Marvel Contest of Champions]]''.{{citation needed|date=January 2015}}
+*Iron Fist is a playable character in ''[[Lego Marvel's Avengers]]'',{{citation needed|date=December 2015}} voiced by [[Greg Cipes]].{{citation needed|date=January 2016}}
+*Iron Fist is a playable character in ''[[Marvel: Future Fight]]''.<ref name="news.marvel.com"/>
+*Iron Fist is a playable character in ''[[Marvel Puzzle Quest]]''.<ref name="news.marvel.com"/>
+
+==References==
+{{Reflist|2}}
+
+==External links==
+{{Portal|1970s|Superhero fiction|Fictional characters|Comics}}
+* [http://www.marvel.com/universe/Iron_Fist_%28Danny_Rand%29 Iron Fist] at Marvel.com
+* {{Marvunapp|http://www.marvunapp.com/Appendix3/randkaiwendellif.htm|Wendell Rand-K'ai}}
+* {{Marvunapp|http://www.marvunapp.com/Appendix/silvdrag.htm|Heather Duncan Rand (Silver Dragon)}}
+* {{IMDb title|3322310|Iron Fist}}
+*[http://toonopedia.com/ironfist.htm Iron Fist] at [[Don Markstein's Toonopedia]]. [https://www.webcitation.org/6kb5SHO6T?url=http://toonopedia.com/ironfist.htm Archived] from the original on September 17, 2016.
+
+{{Iron Fist}}
+{{Luke Cage}}
+{{Ultimate Spider-Man}}
+{{Spider-Man characters}}
+{{Jessica Jones}}
+{{Daredevil}}
+{{Avengers}}
+{{Heroes for Hire}}
+
+{{DEFAULTSORT:Iron Fist (Comics)}}
+[[Category:Characters created by Gil Kane]]
+[[Category:Characters created by Roy Thomas]]
+[[Category:Comics adapted into television series]]
+[[Category:Comics by Chris Claremont]]
+[[Category:Comics characters introduced in 1974]]
+[[Category:Fictional bodyguards]]
+[[Category:Fictional characters from New York City]]
+[[Category:Fictional secret agents and spies]]
+[[Category:Fictional private investigators]]
+[[Category:Fictional vigilantes]]
+[[Category:Marvel Comics martial artists]]
+[[Category:Marvel Comics television characters]]
+[[Category:Marvel vs. Capcom fighters]]

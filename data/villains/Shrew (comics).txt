@@ -1,0 +1,38 @@
+{{Infobox comics character| <!--Wikipedia:WikiProject Comics-->
+  image =
+| caption =
+| character_name = Shrew
+| publisher = [[Marvel Comics]]
+| debut =  ''X-Factor'' vol. 1 #80
+| creators =
+| alter_ego = Marilyn Maycroft
+| species= [[Mutant (Marvel Comics)|Human Mutant]]
+| alliances =[[Hell's Belles]]
+| aliases =
+| powers =
+}}
+
+'''Shrew''' ('''Marilyn Maycroft''') is a [[fictional character]], a [[Mutant (Marvel Comics)|mutant]] appearing in [[American comic book]]s published by [[Marvel Comics]]. Her first appearance was in ''X-Factor vol. 1 #80''.
+
+==Fictional character biography==
+Shrew formerly worked as one of [[Hell's Belles]], trained by [[Cyber (Marvel Comics)|Cyber]], and employed by a drug cartel. Tiring of this existence, perhaps after being arrested, she turned in evidence against her old allies in exchange for being given immunity from criminal trial. She was to enter the [[witness protection program]] after her testimony, but when her old allies came after her, the US government commissioned [[X-Factor (comics)|X-Factor]] to protect her.{{Issue|date=September 2011}}
+
+While [[Havok (comics)|Havok]], [[Strong Guy]], and [[Wolfsbane (comics)|Wolfsbane]] watched over Shrew at the Barclay Hotel in Virginia, Hell's Belles and Cyber came after her. While X-Factor was occupied against her former teammates, Shrew was left to face [[Tremolo (comics)|Tremolo]].{{Issue|date=September 2011}}
+
+X-Factor managed to temporarily drive off Hell's Belles, but Cyber had poisoned Strong Guy and demanded Shrew in exchange for an antidote. The US government's toxicologist provided his own antidote, and X-Factor and the Shrew confronted Cyber and the Belles. X-Factor joined by [[Jamie Madrox|Multiple Man]] and [[Quicksilver (comics)|Quicksilver]] overpowered their attackers, and Shrew herself gathered the courage to knock Cyber into the path of an oncoming subway train.{{Issue|date=September 2011}}
+
+It is unknown if Shrew lost or kept her mutant powers after the [[Decimation (comics)|M-Day]].
+
+==Powers and abilities==
+Marilyn can transform into a large anthropomorphic [[soricidae]]. This form gives her enhanced strength, speed, agility, and senses, as well as razor sharp claws and fangs.
+
+==References==
+{{reflist}}
+
+{{DEFAULTSORT:Shrew (Comics)}}
+[[Category:Female supervillains]]
+[[Category:Fictional shapeshifters]]
+[[Category:Marvel Comics mutants]]
+[[Category:Marvel Comics supervillains]]
+
+{{Marvel-villain-stub}}

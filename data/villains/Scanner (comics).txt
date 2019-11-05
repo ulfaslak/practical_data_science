@@ -1,0 +1,55 @@
+{{mergeto|List of Marvel Comics characters: S|date=July 2018}}
+{{notability|date=June 2018}}
+{{in-universe|date=June 2018}}
+{{Infobox comics character| <!--Wikipedia:WikiProject Comics-->
+|image=Scanner xm86.jpg
+|image_size=250
+|caption=Scanner attacking [[Professor X]] in X-Men v.2 #86; Art by [[Alan Davis]]
+|character_name=Scanner
+|real_name=Sarah Ryall
+|species=[[Mutant (Marvel Comics)|Human Mutant]]
+|publisher=[[Marvel Comics]]
+|debut=''Avengers'' #357<small> (as Screener)</small><br>''Uncanny X-Men'' #300<small> (as Scanner)
+|creators=[[Scott Lobdell]] (Writer)<br>[[John Romita Jr.]] (Artist) (X-Men issue)
+|alliances=[[Acolytes (comics)|Acolytes]]
+|aliases=Screener
+|powers=Depowered, formerly: Psionic detection of mutants, astral projection/electro-transitional state
+}}
+'''Scanner''' ('''Sarah Ryall'''<ref>''The Official Handbook of the Marvel Universe A-Z #1</ref>), otherwise known as '''Screener''', is a fictional [[Mutant (Marvel Comics)|mutant]] character appearing in [[American comic book]]s published by [[Marvel Comics]].
+
+==Publication history==
+Scanner first appeared as Screener in ''[[Avengers (comics)|Avengers]]'' #357 and then as Scanner in ''Uncanny X-Men'' #300, and was created by [[Scott Lobdell]] and [[John Romita Jr.]].
+
+==Fictional character biography==
+As a member of the [[Acolytes (comics)|Acolytes]], Scanner served as a scout that would survey the area before the others arrived, using her mutant ability to project an astral form to travel great distances. She was often seen as weak by the other Acolytes, and she lacked the confidence that the others had. During the Fall of [[Providence (comics)|Avalon]],<ref>"X-Men" vol. 2 #42-43 (July 1995)</ref> the Acolytes' space station, Scanner survived with teammates [[Unuscione]], [[Joanna Cargill|Cargill]] and the [[Kleinstocks]] by the help of [[Cyclops (Marvel Comics)|Cyclops]]. After crash-landing in the [[Australian Outback]], the group found the [[X-Men]]'s former base thanks to Scanner's scouting.<ref>"X-Men" vol. 2 #44</ref> Scanner requested to stay at the Xavier Institute but was declined and the usually passive and naive member of the Acolytes became bitter and angry that the X-Men did not extend an offer for her to join the X-Men or receive a reprieve to help rehabilitate her, much like the X-Men had done for former young and misguided villains like Rogue.<ref>"X-Men" vol. 2 #86</ref>
+
+Scanner was one of the very few mutants to survive [[Cassandra Nova]]'s Sentinel attack on Genosha as she was revealed to have been depowered along with 90% of the Earth's mutants thanks to none other than her leader's daughter, the [[Scarlet Witch]].<ref>''New Avengers'' #18</ref>
+
+==Powers and abilities==
+In her first appearance Scanner was presented as having the ability to psychically detect mutants within an unspecified range (it is not clear if she could only detect mutants, or could detect all humans in her range and distinguish between powered and non-powered individuals).
+
+Subsequent appearances established her with the power to indefinitely project her astral form. She could manifest her astral form at a remote location, or travel vast distances very quickly. While in her astral state she could communicate with others telepathically and make her astral form visible to others as a ghost-like transparent copy of her actual body. While projecting, Scanner's real body remained unconscious. Additionally, Scanner could use her astral form to disrupt the astral forms of others upon contact, forcing them to return to their body.
+
+Later writers mistakenly wrote Scanner as transforming her body and clothing into an 'electro-transitional' state, similar to a living hologram, that was intangible and able to travel great distances at very fast speeds. While in this state she could communicate telepathically and was intangible to most forms of physical harm.
+
+==In other media==
+===Television===
+* Scanner first appears in the ''[[Wolverine and the X-Men (TV series)|Wolverine and the X-Men]]'' episode "Greetings From Genosha." She is one of the many Acolytes of Magneto.
+
+==References==
+{{Reflist}}
+
+==External links==
+* [http://uncannyxmen.net/characters/scanner UncannyXmen.net Character Profile on Scanner]
+
+{{John Romita Jr.}}
+
+[[Category:Characters created by John Romita Jr.]]
+[[Category:Characters created by Scott Lobdell]]
+[[Category:Comics characters introduced in 1992]]
+[[Category:Female supervillains]]
+[[Category:Fictional characters who can turn intangible]]
+[[Category:Marvel Comics characters who have mental powers]]
+[[Category:Marvel Comics mutants]]
+[[Category:Marvel Comics supervillains]]
+[[Category:Marvel Comics telepaths]]

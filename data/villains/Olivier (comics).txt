@@ -1,0 +1,103 @@
+{{Infobox comics character
+<!--Wikipedia:WikiProject Comics-->
+| character_name = Olivier
+| image          = Olivierpun1.jpg
+| imagesize      = 
+| converted      = y
+| caption        = Frank Costa (left) and Olivier (right) in ''The Punisher'' Vol. 4, #2 (December 1998) <br> Art by [[Bernie Wrightson]]
+| publisher      = [[Marvel Comics]]
+| debut          = '''Frank Costa:''' <br> ''Marvel Super Action'' Vol. 1, #1 (January 1976) <br> '''Olivier:''' <br> ''[[The Punisher (1998 series)|The Punisher]]'' Vol. 4, #1 (November 1998)
+| first_series   = 
+| first_episode  = 
+| first_comic    = 
+| creators       = '''Frank Costa:''' <br> [[Tony DeZuniga]] <br> [[Archie Goodwin (comics)|Archie Goodwin]] <br> '''Olivier:''' <br> Bernie Wrightson <br> [[Christopher Golden]] <br> [[Thomas E. Sniegoski]]
+| voiced_by      = 
+| based_on       = 
+| alter_ego      = 
+| full_name      =
+| species        = [[List of Marvel Comics demons|Demon]]
+| homeworld      = [[Heaven]]
+| alliances      = [[List of Marvel Comics demons#The Hell-lords|Hell-lords]] <br> [[Maggia (comics)#The Costa Family|Costa Family]] <br> Lucifer's Inner Circle 
+| partners       = 
+| supports       = 
+| aliases        = Frank Costa
+| powers         = Portal generation<br>Hellfire projection<br>Immunity to age, disease, and injuries<br>Illusion creation and manipulation<br>Ability to command lesser demons
+| cat            = super
+| subcat         = Marvel Comics
+| hero           = 
+| villain        = y
+| sortkey        = Olivier
+| addcharcat#    = 
+}}
+
+'''Olivier''' is a fictional [[supervillain]] appearing in [[American comic book]]s published by [[Marvel Comics]]. The character is usually depicted as an enemy of the [[antihero]] the [[Punisher]].<ref> {{cite book|author = Bradley Mengel|title = Serial Vigilantes of Paperback Fiction: An Encyclopedia from Able Team to Z-Comm|url = http://www.mcfarlandbooks.com/book-2.php?id=978-0-7864-4165-5|archive-url = https://archive.is/20150404123847/http://www.mcfarlandbooks.com/book-2.php?id=978-0-7864-4165-5|dead-url = yes|archive-date = 4 April 2015|accessdate = 26 March 2015|year = 2012|publisher = [[McFarland & Company]]|isbn = 9780786441655|page = 217}} </ref> He was created by [[Bernie Wrightson]], [[Christopher Golden]], and [[Thomas E. Sniegoski]], and first appeared in ''[[The Punisher (1998 series)|The Punisher]]'' Vol. 4, #1 (November 1998). The character was a reimagining of an earlier one named '''Frank Costa''', who was created by [[Tony DeZuniga]] and [[Archie Goodwin (comics)|Archie Goodwin]], and who debuted in ''Marvel Super Action'' Vol. 1, #1 (January 1976).
+
+== Publication history ==
+
+Frank Costa debuted in ''Marvel Super Action'' Vol. 1, #1 as the head of the organized crime family responsible for the deaths of the loved ones of Frank Castle, the [[Punisher]]. The character was killed off-panel in that story, with his only appearance outside of it being in Issue #3 of the [[prequel]] miniseries ''The Punisher: Year One''.
+
+''The Punisher'' Vol. 4 revealed Frank Costa was, in fact, the human form of Olivier, a [[List of Marvel Comics demons#The Hell-lords|Hell-lord]] who was once Prince of the [[Archangel]]s. Olivier was present in all four issues of ''The Punisher'' Vol. 4, and went on to make [[cameo appearance]]s in ''[[Nightcrawler (comics)|Nightcrawler]]'' Vol. 3, #1-3 and ''[[Journey into Mystery]]'' Vol. 1, #627.
+
+Olivier received profiles in ''Marvel Encyclopedia'' #5, ''All-New [[Official Handbook of the Marvel Universe]]'' #8, ''Marvel Zombies: The Book of Angels, Demons & Various Monstrosities'' #1 and ''Official Handbook of the Marvel Universe A-Z'' #8.
+
+==Fictional character history==
+At some unspecified point in the past, there was a war in Heaven against [[God]], in which the demon Olivier sided with [[Lucifer (Marvel Comics)|Lucifer]] and was cast out of paradise. Olivier eventually came to rule a portion of Hell but the other lords of Hell grew resentful of his ambition and they forced him into the body of a stillborn human infant. Olivier's spirit returned life to the infant, although he lost all memory of his life as a Hell-lord.<ref name="pun1">{{Cite comic | writer=[[Christopher Golden]], [[Tom Sniegoski]] | penciller=[[Bernie Wrightson]] | inker=[[Jimmy Palmiotti]] | story=Purgatory Part I: The Harvest | title=Punisher | volume=4 | issue=1 | date=November 1998 | publisher=[[Marvel Comics]]}}</ref>
+
+Olivier grew up as a human named Frank Costa, in the Costa crime family, an arm of the [[Maggia (comics)|Maggia]]. He became a petty criminal, and one night, while working as a lookout he shot and killed a mobster from a rival family. This act of taking a human life completely restored Frank Costa's memory of his life as Olivier, and he started plotting his revenge on the other Lords of Hell that had placed him in that body.<ref name="pun2">{{Cite comic | writer=[[Christopher Golden]], [[Tom Sniegoski]] | penciller=[[Bernie Wrightson]] | inker=[[Jimmy Palmiotti]] | story=Purgatory Part 2: The Mark of Cain | title=Punisher | volume=4 | issue=2 | date=December 1998 | publisher=[[Marvel Comics]]}}</ref>
+
+For decades, Olivier, still in his identity as Frank Costa, worked to become the head of the Costa crime family. He used [[occultism]] and magic rituals to discover the existence of Frank Castle, an American soldier in the [[Vietnam War]]. Olivier decided to use Castle as his instrument for revenge.<ref name="pun3">{{Cite comic | writer=[[Christopher Golden]], [[Tom Sniegoski]] | penciller=[[Bernie Wrightson]] | inker=[[Jimmy Palmiotti]] | story=Purgatory Part 3: A Gathering of Angels | title=Punisher | volume=4 | issue=3 | date=January 1999 | publisher=[[Marvel Comics]]}}</ref> When Castle returned to the United States, Olivier ordered his assassins to murder a mob banker in [[Central Park]], knowing that Castle's wife and children would be caught in the crossfire and killed; what appeared to be a random act of violence was in fact deliberately planned. Their murders were the motivations for Castle to become the Punisher, whose victims would be forced into becoming undead servants of Olivier.<ref name="mp2">{{Cite comic | writer=[[Gerry Conway]] | penciller=[[Tony DeZuniga]] | inker=[[Tony DeZuniga]] | story=Death Sentence | title=Marvel Preview | volume= | issue=2 | date=1975 | publisher=[[Marvel Comics]]}}</ref><ref name="msa1">{{Cite comic | writer=[[Archie Goodwin (comics)|Archie Goodwin]] | penciller=[[Tony DeZuniga]] | inker=[[Rico Rival]] | story=Accounts Settled ... Accounts Due | title=Marvel Super-Action | volume= | issue=1 | date=January 1976 | publisher=[[Marvel Comics]]}}</ref>
+
+The Punisher then set about killing the assassins who had murdered his family, one of whom was Bruno Costa, the brother of Olivier's host body and alter ego, Frank Costa. Castle later discovered Frank Costa dead of an icepick wound to the head, ostensibly administered by a prostitute named Audrey whom the Punisher later killed. Unbeknownst to the Punisher, Audrey killing Frank Costa released the soul of Olivier, which returned to his realm of Hell in its true form. Olivier claimed he had allowed Audrey to kill him, as he hadn't wanted to wait to die of natural causes to return to Hell, and could not have committed suicide, as that would have alerted the other Hell-lords to his return.<ref name="pun4">{{Cite comic | writer=[[Christopher Golden]], [[Tom Sniegoski]] | penciller=[[Bernie Wrightson]] | inker=[[Jimmy Palmiotti]] | story=Purgatory Part 4: The Hour of Judgment | title=Punisher | volume=4 | issue=4 | date=February 1999 | publisher=[[Marvel Comics]]}}</ref>
+
+Olivier felt that through the Punisher he had gathered enough souls to launch an attack on the rest of Hell, and he caused Frank Castle to despair over the lives he had taken as the Punisher. Castle was driven to suicide by Olivier's demonic servants, and he shot himself. Castle was then immediately resurrected by Gadriel, the guardian angel who had failed in Castle's defense.<ref name="pun4"/> From his base in New York's [[Flatiron Building]], Olivier sent his minions against Heaven's angels and the dominions of the other Lords of Hell, including [[Daimon Hellstrom]], but was thwarted in his assassination attempt on Hellstrom by the Punisher and Gadriel.<ref> {{cite book|author = Peter Sanderson|title = The Marvel Comics Guide to New York City|url = http://books.simonandschuster.ca/The-Marvel-Comics-Guide-to-New-York-City/Peter-Sanderson/9781416531418|accessdate = 29 May 2015|year = 2007|publisher = [[Simon & Schuster|Gallery Books]]|isbn = 1416531416|page = 35}} </ref> Olivier revealed to the Punisher that he was responsible for the deaths of the Punisher's family.<ref name="pun2"/> The Punisher fought a reanimated Bruno Costa and the contact of the weapons of Heaven (the Punisher) and Hell (Bruno Costa) caused a dimensional portal to open through which the tentacles of Hell began to reach. The Punisher shot Olivier into the tentacles' embrace, and they immediately tore Olivier to pieces. The portal was sealed by Gadriel sacrificing his life.<ref name="pun4"/>
+
+Olivier later resurfaced allied to the demon Pazuzu and several other entities serving on the court of [[Lucifer (Marvel Comics)|Lucifer]] that were trying to open a portal to Earth with the help of a coven of witches. They were thwarted by [[Nightcrawler (comics)|Nightcrawler]], Seth Walker, and [[Magik (comics)|Magik]].<ref>{{Cite comic | writer=[[Roberto Aguirre-Sacasa]] | penciller=[[Darick Robertson]] | inker=[[Wayne Faucher]] | story=The Devil Inside, Part One: The Locked Room | title=Nightcrawler | volume= 3 | issue= 1-4 | date=November 2004 | publisher=[[Marvel Comics]]}}</ref><ref>{{Cite comic | writer= | penciller= | inker= | story= | title=[[Official Handbook of the Marvel Universe]] | volume= | issue= 8 | date=2008 | publisher=[[Marvel Comics]]}}</ref>
+
+The Egyptian deity [[Khonshu (Marvel Comics)|Khonshu]] expressed interest in the Punisher, but was deterred from anointing him by the Punisher's connection to Olivier, remarking that the vigilante "belongs to another" and that he "flies his lord's banner" (the Punisher's skull insignia).<ref> {{Cite comic|writer = Charlie Huston|penciller = Mico Suayan|inker = Mico Suayan|colorist = Frank D'Armata|letterer = VC's Rus Wooton|editor = Axel Alonso|story = Midnight Sun, Chapter Four: His Lord's Banner|title = Moon Knight|volume = 3|issue = #10|date = June 2007|publisher = Marvel Comics|location = United States}} </ref>
+
+During the "[[Fear Itself (comics)|Fear Itself]]" storyline, Olivier attended the Devil's Advocacy to talk about the [[Serpent (comics)|Serpent]]'s actions on Earth.<ref>''Journey Into Mystery'' #627</ref>
+
+==Powers and abilities==
+As a demon and true fallen angel, Olivier is impervious to age, disease, and injuries that would kill an ordinary mortal. He also has the ability to create and manipulate illusions, shoot blasts of hellfire, and create portals to other dimensions. He also has the authority to command demons of a lesser degree. Olivier claims to be one of the most powerful lords of hell, approximately on the same level as [[Mephisto (comics)|Mephisto]].
+
+==In other media==
+===Film===
+* Costa was the initial name of the crime family that massacred the Castle family in the 2004 ''[[The Punisher (2004 film)|Punisher]]'' film. It was later changed to the Saint.<ref> {{cite web|url = http://www.comicbookresources.com/?page=article&id=3305|title = Behind the Scenes with ''Punisher'' Writer Michael France|last = Richards|first = Dave|publisher = Comic Book Resources|date = 23 March 2004|website = comicbookresources.com|accessdate = 16 October 2015}} </ref>
+
+* The Costa crime family is showcased in Detective [[Martin Soap]]'s expository slideshow in the 2008 film ''[[Punisher: War Zone]]'', with it being insinuated that the entire syndicate was wiped out by the Punisher.<ref>{{cite AV media|people = [[Lexi Alexander]] (Director)|date = 5 December 2008|title = [[Punisher: War Zone]]|medium = Motion picture|location = United States|publisher = [[Lions Gate Entertainment]]}}</ref> The head of the family is renamed '''Antonio Costa''' (changed most likely because he shared the same first name as the Punisher) and a photo of him is shown, but the actor is not identified.
+
+===Video games===
+* The Costas are shown gunning down the Castle family in the opening cinematic of the 1990 ''Punisher'' game for [[DOS]].<ref> {{cite video game|title = The Punisher|developer = [[Paragon Software]]|publisher = [[MicroProse]]|date = 1990|platform = [[DOS]]|version = 1.0|scene = |level = |quote = }} </ref>
+* The Costas, led by Olivier's human brother Bruno, appear in the ''[[The Punisher (arcade game)|Punisher]]'' arcade game released in 1993. Bruno is killed when he is cornered by the Punisher and incinerated by a robot sent by the [[Kingpin (character)|Kingpin]].<ref> {{cite video game|title = [[The Punisher (1993 video game)|The Punisher]]|developer = [[Capcom]]|publisher = Capcom|date = 22 April 1993|platform = Arcade|version = 1.0|scene = |level = 2|quote = }} </ref>
+* Don Costa is one of the rival Maggia heads who [[Hammerhead (comics)|Hammerhead]] captures and attempts to assassinate on live television in the downloadable ''[[Spider-Man (2018 video game)|Spider-Man]]'' mission "Turf Wars." Spider-Man at one point muses that Costa deserves to be "punished" for his involvement in the deaths of innocent families.<ref> {{cite video game|title = [[Spider-Man (2018 video game)|Spider-Man]]|developer = [[Insomniac Games]]|publisher = [[Sony Interactive Entertainment]]|date = 7 September 2018|platform = [[PlayStation 4]]|version = |scene = |level = Turf Wars|quote = }} </ref>
+
+== References ==
+{{reflist|2}}
+
+== External links ==
+* [http://marvel.com/universe/Olivier Olivier] at Marvel.com
+* [http://www.comicvine.com/olivier/4005-35118/ Olivier] at Comic Vine
+* [http://marvel.wikia.com/Olivier_%28Earth-616%29 Olivier] at Marvel Wiki
+* {{comicbookdb|type=character|id=7769|title=Olivier}}
+* {{comicbookdb|type=character|id=53126|title=Frank Costa}}
+* {{marvunapp|http://www.marvunapp.com/Appendix/olivir.htm|Olivier}}
+
+{{Punisher}}
+{{Marvel Mystic}}
+
+[[Category:Characters created by Archie Goodwin]]
+[[Category:Comics characters introduced in 1976]]
+[[Category:Comics characters introduced in 1998]]
+[[Category:Fictional characters with fire or heat abilities]]
+[[Category:Fictional empaths]]
+[[Category:Fictional mobsters]]
+[[Category:Fictional shapeshifters]]
+[[Category:Mythology in Marvel Comics]]
+[[Category:Marvel Comics angels]]
+[[Category:Marvel Comics characters who can move at superhuman speeds]]
+[[Category:Marvel Comics characters who can teleport]]
+[[Category:Marvel Comics characters with accelerated healing]]
+[[Category:Marvel Comics characters with superhuman strength]]
+[[Category:Marvel Comics demons]]
+[[Category:Marvel Comics devils]]
+[[Category:Punisher characters]]

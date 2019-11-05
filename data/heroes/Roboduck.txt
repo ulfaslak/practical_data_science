@@ -1,0 +1,44 @@
+{{Infobox comics character <!-- Wikipedia:WikiProject Comics -->
+| character_name = Roboduck
+| image = Roboduck new gen.jpg
+| imagesize = 
+| converted = y
+| caption = Roboduck. Art by Abdul H. Rashid.
+| species = [[Robot]]
+| publisher = [[Marvel Comics]]
+| debut = ''NEW-GEN'' #1 (May [[2010 in comics|2010]])
+| creators = J.D. Matonti <br> Chris Matonti <br> Julia Coppola
+| alter_ego = None
+| alliances = A.P.N.G., Gabriel
+| aliases =
+| powers = Arm-mounted [[Plasma (physics)|plasma]] cannons, flight, powerful plasma burp
+| cat = super
+| subcat = Marvel Comics
+| hero = y
+| sortkey = Roboduck
+}}
+'''Roboduck''' is a fictional character, a superhero that appears in the  [[NEW-GEN (Comic)|NEW-GEN]] comic books published by [[Marvel Comics]]. Created by Chris Matonti, J.D. Matonti, and Julia Coppola, he first appeared in NEW-GEN #1 (2010). He is a sentient [[robot]] from the world of NEW-GEN, and a member of the A.P.N.G. since its founding.<ref>{{cite web|url=http://www.comicvine.com/roboduck/29-74322/|title=Roboduck (Character) - Comic Vine|website=Comic Vine}}</ref>
+
+==Fictional character biography==
+
+===Construction and early life===
+Roboduck was assembled on New-Gen, as a first generation combat robot, equipped with an advanced weapons system. When [[Deadalus (comics)|Deadalus]] released a [[Nanotechnology|nanobot]] plague throughout New-Gen, the miniature robots wrought havoc on Roboduck's [[Artificial intelligence|A.I.]] programming. Instead of altering his physical appearance and capabilities, the nanobots transformed Roboduck's mind to operate much like that of a human. Gabriel took Roboduck in after his transformation, in order to train him to use his powers and abilities responsibly.<ref>NEW-GEN #1</ref>
+
+===Training with A.P.N.G.===
+As the human members of the A.P.N.G. grew up, Roboduck joined them in their combat training and school studies. As he is unable to learn like a normal New-Gen robot, via uploads and downloads, Roboduck lacks the vast informational wealth available to other robots, like Nate Guard, another member of the A.P.N.G. With his hyperactive and improvisational mind, he quickly established himself as the class clown of the A.P.N.G., wisecracking and causing mischief throughout much of their education.<ref>NEW-GEN #3</ref>
+
+===Battle with Sly===
+After Sly burrowed out of the underworld onto Zadaar IV with his army of MetalMites and [[Microtechnology|microbots]], Roboduck was sent, along with the rest of the members of the A.P.N.G. to fight, after Sly's forces proved to powerful for Mini to beat on his own. Throughout the course of the battle, Roboduck destroyed several MetalMites with his weapons array. He also allows [[Minotaur (New-Gen)|Mini]] to use him as a [[cannon]] of sorts, Mini aiming him at enemies and squeezing him so a more powerful plasma burp can be shot.<ref name="New Gen 5">NEW-GEN #5</ref> When Sly uses his specialized laser and deactivates the nanobots inside the A.P.N.G., he also disables Roboduck's entire operating system, rendering him inert for a brief period of time. Gabriel resurrects Roboduck when he arrives and gives all the members of the A.P.N.G. specially designed nano-gloves, restoring them to full power. As Gabriel fights Sly, Roboduck resumes destroying MetalMites with his teammates, eventually emerging victorious and returning home to New-Gen.<ref>NEW-GEN #6</ref>
+
+==Powers and abilities==
+As a first generation battle robot, Roboduck possesses an advanced, plasma based, weapons system for use in ranged combat. His right arm transforms into a plasma cannon from which he can fire bolts of energy. He can also burp a more powerful plasma blast from his mouth, but he has trouble controlling it. If he is squeezed hard while firing his plasma burp, the power of the attack is increased by a drastic margin. Roboduck is also capable of flight, enabled by thrusters in his feet and elbows.<ref name="New Gen 5"/>
+
+After he was infected by Deadalus' nanobots, Roboduck lost the ability to gain and process information like a robot. However, the nanobots gave Roboduck the ability to learn and think like a human. This allows him to think more analytically, feel more emotion, and improvise more effectively than most other robots on New-Gen. It also allows him to disobey orders and seek attention through fooling around.<ref>{{cite web |url=http://apngenterprises.com/comic/characters-of-new-gen/ |title=Archived copy |accessdate=2011-08-04 |deadurl=yes |archiveurl=https://web.archive.org/web/20110707153446/http://apngenterprises.com/comic/characters-of-new-gen/ |archivedate=2011-07-07 |df= }}</ref>
+
+==References==
+{{Reflist}}
+
+==External links==
+* https://web.archive.org/web/20110707153446/http://apngenterprises.com/comic/characters-of-new-gen/
+* http://www.comicvine.com/roboduck/29-74322/
+* https://duck.co/roboduck

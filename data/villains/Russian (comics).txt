@@ -1,0 +1,97 @@
+{{Infobox comics character
+<!--Wikipedia:WikiProject Comics-->
+| character_name = The Russian
+| image          = Russian-assassin.jpg
+| imagesize      = 
+| converted      = y
+| caption        = The Russian in ''[[The Punisher (2000 series)|The Punisher]]'' Vol. 5, #9 (December 2000) <br> Art by [[Steve Dillon]]
+| publisher      = [[Marvel Comics]]
+| debut          = ''The Punisher'' Vol. 5, #8 (November 2000)
+| first_series   = 
+| first_episode  = 
+| first_comic    = 
+| creators       = [[Garth Ennis]] (writer)<br>[[Steve Dillon]] (artist)
+| voiced_by      = 
+| based_on       = 
+| alter_ego      = 
+| full_name      =
+| species        = [[Human]] [[Cyborg]]
+| homeworld      = [[Earth-616]]
+| alliances      = Gnucci Family <br> General Kreigkopf's Army
+| partners       = 
+| supports       = 
+| aliases        = The Ivan
+| powers         = Considerable strength, stamina and durability<br>Nigh-invulnerability<br>Enhanced sense of smell
+| cat            = super
+| subcat         = Marvel Comics
+| hero           = 
+| villain        = y
+| sortkey        = Russian (comics)
+| addcharcat#    = 
+|}}
+'''The Russian''' is a [[fictional character]], a [[supervillain]] appearing in [[American comic book]]s published by [[Marvel Comics]]. He is an enemy of the [[Punisher]].<ref>{{cite web|url=http://comicsalliance.com/punisher-villains/ |title=The Punisher's Strangest Villains Ever |last=Sims |first=Chris |publisher=Comics Alliance |date=8 March 2010 |website=comicsallianc.com |accessdate=21 May 2015 |deadurl=yes |archiveurl=https://web.archive.org/web/20150522063444/http://comicsalliance.com/punisher-villains/ |archivedate=22 May 2015 |df= }}</ref>
+
+==Publication history==
+Created by [[Garth Ennis]] and [[Steve Dillon]], the character made his first appearance in ''[[The Punisher (2000 series)|The Punisher]]'' Vol. 5, #8 (November 2000).
+
+The Russian debuted off-panel in ''[[The Punisher (2000 series)|The Punisher]]'' Vol. 5, #8, was fully introduced in the following issue, and appeared in every subsequent one up until his death in Issue #11. In the following series, the character was resurrected as a [[cyborg]], and was featured in ''[[The Punisher (2001 series)|The Punisher]]'' Vol. 6, #1-5.
+
+The Russian received profiles in ''Marvel Encyclopedia'' #5, ''All-New [[Official Handbook of the Marvel Universe]]'' #9, and ''Official Handbook of the Marvel Universe A-Z'' #9
+
+==Fictional character biography==
+The earliest known sightings of the Russian occurred while he was vacationing in [[Afghanistan]] in the 1980s. He subsequently traveled the world, inserting himself into various conflicts for fun and profit; locations he is said to have fought in include [[Lebanon]], [[Iraq]], [[Rwanda]], [[East Timor]], [[Chechnya]], the [[Balkans]], and [[Belfast]] (where he [[Cannibalism|consumed]] a man on a bet). The Russian's activities led to him being wanted dead or alive by numerous law enforcement agencies, as well as criminal organizations such as the [[Yakuza]].<ref name = "Nine">{{Cite comic|writer = Garth Ennis|penciller = Steve Dillon|inker = Jimmy Palmiotti|colorist = Chris Sotomayer|letterer = Richard Starkings and Comicraft's Wes Abbott|editor = Nanci Dakesian|story = Fяom Яussia With Love|title = The Punisher|volume = 5|issue = #9|date = December 2000|publisher = Marvel Comics|location = United States}}</ref>
+
+The Russian is contacted at his home in [[Kazakhstan]] by American crime lord [[Ma Gnucci]], who offers him ten million dollars to kill the [[Punisher]]. The Russian agrees to the deal, boards a Russian airliner to North America, crashes it above Canada, and crosses the border into New York City, where he is briefed by Gnucci.<ref name="Nine"/><ref>{{Cite comic|writer = Garth Ennis|penciller = Steve Dillon|inker = Jimmy Palmiotti|colorist = Chris Sotomayer|letterer = Richard Starkings and Comicraft's Wes Abbott|editor = Nanci Dakesian|story = Desperate Measures|title = The Punisher|volume = 5|issue = #8|date = November 2000|publisher = Marvel Comics|location = United States}}</ref> The Russian is then brought to the Punisher's current address, and engages the [[vigilante]], their fight (which the Russian dominates) bringing them into the apartment of the Punisher's morbidly obese neighbor, Mr. Bumpo. The Punisher burns the Russian's face with a hot pizza that Bumpo had been dining on, trips him, and then throws Bumpo on top of him. The Russian asphyxiates under Bumpo, and has his head cut off by the Punisher, who uses it to intimidate what remains of Ma Gnucci's forces into surrendering.<ref>{{Cite comic|writer = Garth Ennis|penciller = Steve Dillon|inker = Jimmy Palmiotti|colorist = Chris Sotomayer|letterer = Richard Starkings and Comicraft's Wes Abbott|editor = Nanci Dakesian|story = Glutton for Punishment|title = The Punisher|volume = 5|issue = #10|date = January 2001|publisher = Marvel Comics|location = United States}}</ref><ref>{{Cite comic|writer = Garth Ennis|penciller = Steve Dillon|inker = Jimmy Palmiotti|colorist = Chris Sotomayer|letterer = Richard Starkings and Comicraft's Wes Abbott|editor = Stuart Moore and Nanci Dakesian|story = Any Which Way You Can|title = The Punisher|volume = 5|issue = #11|date = February 2001|publisher = Marvel Comics|location = United States}}</ref><ref name="MGN">{{cite book|author = Robert G. Weiner|title = Marvel Graphic Novels and Related Publications: An Annotated Guide to Comics, Prose Novels, Children's Books, Articles, Criticism and Reference Works|url = https://www.mcfarlandbooks.com/book-2.php?id=978-0-7864-2500-6|accessdate = 26 December 2015|year = 2008|publisher = [[McFarland & Company]]|isbn = 9780786425006|page = 63}}{{dead link|date=April 2018 |bot=InternetArchiveBot |fix-attempted=yes }}</ref>
+
+The Russian's remains are recovered by General Kreigkopf, who resurrects him as a [[cyborg]] using technology stolen from [[S.H.I.E.L.D.]]. Side-effects of the experimental hormone treatments he is given to stabilize his reinvigorated and improved body cause the Russian to develop breasts (which he adores) and an implied form of [[menstruation]], which prompts him to begin wearing women's clothing, including high heels.<ref>{{Cite comic|writer = Garth Ennis|penciller = Steve Dillon|inker = Jimmy Palmiotti|colorist = Chris Sotomayer|letterer = RS and Comicraft's Wes Abbott|editor = Nanci Dakesian and Stuart Moore|story = Well Come on Everybody and Let's Get Together Tonight|title = The Punisher|volume = 6|issue = #1|date = August 2001|publisher = Marvel Comics|location = United States}}</ref> To test the Russian's capabilities, Kreigkopf approves his request to return to New York City to kill the Punisher, who the Russian throws off of the [[Empire State Building]]. The Punisher is saved by [[Spider-Man]], and in the battle that ensues he wields the superhero as a human shield, and uses his web-shooters to knock the Russian off of the skyscraper. The Russian survives crashing through the street below and being hit by a subway train, and retreats to Kreigkopf's base on Grand Nixon Island.<ref>{{Cite comic|writer = Garth Ennis|penciller = Steve Dillon|inker = Jimmy Palmiotti|colorist = Chris Sotomayer|letterer = RS and Comicraft's Wes Abbott|editor = Nanci Dakesian and Stuart Moore|story = Does Whatever a Spider Can|title = The Punisher|volume = 6|issue = #2|date = August 2001|publisher = Marvel Comics|location = United States}}</ref> The Russian is repaired, and denied another chance to face the Punisher.<ref>{{Cite comic|writer = Garth Ennis|penciller = Steve Dillon|inker = Jimmy Palmiotti|colorist = Chris Sotomayer|letterer = RS and Comicraft's Wes Abbott|editor = Nanci Dakesian and Stuart Moore|story = American Ugly|title = The Punisher|volume = 6|issue = #3|date = September 2001|publisher = Marvel Comics|location = United States}}</ref><ref>{{cite book|author = Peter Sanderson|title = The Marvel Comics Guide to New York City|url = http://books.simonandschuster.ca/The-Marvel-Comics-Guide-to-New-York-City/Peter-Sanderson/9781416531418|accessdate = 29 May 2015|year = 2007|publisher = [[Simon & Schuster|Gallery Books]]|isbn = 9781416531418|pages = 49–51}}</ref>
+
+The Russian is placed on a [[Boeing 747]] full of soldiers that Kreigkopf intends to have attack the [[European Union]] in [[Brussels]]. The Punisher, who had tracked the Russian down, forces the airplane to crash into Grand Nixon Island's fuel depot; the Russian emerges from the wreckage as the only survivor.<ref>{{Cite comic|writer = Garth Ennis|penciller = Steve Dillon|inker = Jimmy Palmiotti|colorist = Chris Sotomayer|letterer = RS and Comicraft's Wes Abbott|editor = Stuart Moore|story = Dirty Work|title = The Punisher|volume = 6|issue = #4|date = October 2001|publisher = Marvel Comics|location = United States}}</ref> When Kreigkopf improvises his attack plan by ordering that a French airplane carrying a nuclear warhead be hijacked, the Punisher boards the aircraft, followed by the Russian. The Punisher blows out the back of the Russian's head by shoving a gun into his mouth, then chains him to the atomic bomb and drops it on Grand Nixon. The island and all of the criminals on it are obliterated, as is the Russian, whose last words are, "Dosvidanja, Big Boy! The Russian really has to hand it to you!"<ref name = "MGN"/><ref>{{Cite comic|writer = Garth Ennis|penciller = Steve Dillon|inker = Jimmy Palmiotti|colorist = Chris Sotomayer|letterer = Richard Starkings and Comicraft's Saida!|editor = Stuart Moore|story = No Limits|title = The Punisher|volume = 6|issue = #5|date = December 2001|publisher = Marvel Comics|location = United States}}</ref>
+
+==Powers and abilities==
+In his first storyline, the Russian possessed tremendous strength and durability; he singlehandedly wipes out a Bravo Force team, unintentionally crushes a man with a friendly gesture, smacks the Punisher with a toilet he had ripped out of its foundation, and tears apart a revolver, while also being unfazed by being kicked in the crotch, stabbed in the stomach, and bludgeoned with a chair. Additionally, he alludes to surviving freefalling from an airplane, and being repeatedly shot in the head. Despite his nigh-invulnerability, the Russian was sensitive to heat, becoming enraged when the Punisher successfully injured him with a stove, and a hot pizza.
+
+When General Kreigkopf resurrected the Russian, he had his body augmented with plastics and [[adamantium]], replaced most of his organs with ones taken from animals, and gave him olfactory sensors that increased his sense of smell to the level of a [[bloodhound]]'s.
+
+==Obsession with American culture==
+In his initial comic appearances, the Russian was shown to have an obsession with [[popular culture|American pop culture]]. His first thoughts upon being offered $10 million to kill the Punisher was a realization of how many pairs of [[Levi Strauss & Co.|Levi's]] and [[Compact Disc]]s he could buy with that amount. The Russian is also a self-confessed [[superhero]] [[Fan (person)|fan]]. He is the president of "The [[Daredevil (Marvel Comics character)|Daredevil]], Man Without Fear, Fan Club" of [[Smolensk]]. He also wished to gain autographs from the [[X-Men]], the [[Fantastic Four]], and [[Spider-Man]]. He also believes [[Thor (Marvel Comics)|Thor]] would make a good [[communist]] because of his big hammer.
+
+==Other versions==
+===Marvel MAX===
+A flashback sequence in  ''[[The Punisher (2004 series)|The Punisher]]'' Vol. 7, #75 depicts the Punisher fighting the Russian, who tries to break his back. The circumstances surrounding the battle, as well as how it is resolved, are not revealed.<ref>{{Cite comic|writer = Peter Milligan|penciller = Goran Parlov|inker = Goran Parlov|colorist = Lee Loughridge|letterer = VC's Cory Petit|editor = Axel Alonso|story = Father's Day|title = The Punisher|volume = 7|issue = #75|date = 14 October 2009|publisher = Marvel Comics|location = United States}}</ref>
+
+===Marvel Noir===
+In ''[[Marvel Noir|Punisher Noir]]'', the Russian is a soldier turned independent mercenary who, after [[World War I]], is sent after Frank Castelione, who is on a locomotive headed for England. A fight ensues and moves to the top of the train, where Frank shoves a grenade into the crotch of the Russian's pants, and pushes him off of the vehicle. Years later, the Russian, now identifying as female, helps [[Jigsaw (Marvel Comics)|Jigsaw]] and [[Barracuda (comics)|Barracuda]] murder Frank at the behest of mob boss [[Dutch Schultz]].<ref>{{Cite comic|writer = Frank Tieri|penciller = Paul Azaceta|inker = Paul Azaceta|colorist = Nick Filardi|letterer = VC's Joe Sabino|editor = Sebastian Girner|story = Punisher & Son|title = Punisher Noir|volume = 1|issue = #2|date = 16 September 2009|publisher = Marvel Comics|location = United States}}</ref><ref>{{Cite comic|writer = Frank Tieri|penciller = Paul Azaceta|inker = Paul Azaceta|colorist = Nick Filardi|letterer = VC's Joe Sabino|editor = Sebastian Girner|story = Two Down...|title = Punisher Noir|volume = 1|issue = #3|date = 21 October 2009|publisher = Marvel Comics|location = United States}}</ref>
+
+Frank's son, Frank Castelione Jr., grows up to become the Punisher, and discovers the Russian's connection to his father's death after tracking down and killing Barracuda and Jigsaw. The Punisher confronts the Russian at the [[Bronx Zoo]], and their fight brings them into the reptile exhibit, where the Russian is mauled by alligators. Despite losing an arm, the Russian continues to try to attack the Punisher, who finishes him off by emptying two fully loaded guns into him. Frank, Jr. then stages the scene to make it look like the Russian was the Punisher all along.<ref>{{Cite comic|writer = Frank Tieri|penciller = Antonio Fuso|inker = Antonio Fuso|colorist = Nick Filardi|letterer = VC's Joe Sabino|editor = Sebastian Girner|story = The Last Words of Dutch Schultz|title = Punisher Noir|volume = 1|issue = #4|date = 9 December 2009|publisher = Marvel Comics|location = United States}}</ref>
+
+==In other media==
+===Film===
+[[File:RussianPunisherFilm.jpg|thumb|right|Kevin Nash as the Russian in the 2004 film ''The Punisher''.]]
+The Russian appears in the 2004 live-action film ''[[The Punisher (2004 film)|The Punisher]]'', portrayed by [[professional wrestling|professional wrestler]] [[Kevin Nash]].<ref>{{cite web|url = http://movies.ign.com/articles/501/501411p1.html|title = An Interview with Kevin Nash|last = P.|first = Ken|publisher = IGN|date = 26 March 2004|website = movies.ign.com|accessdate = 13 April 2015}}</ref> He has no onscreen dialogue and is sent by mob boss Howard Saint to dispose of Punisher. Powering through everything that the vigilante throws at him, the Russian beats the Punisher to near death with his bare hands, and numerous objects. The Punisher gains the upper hand when he hurls a pot of pasta in boiling water on the Russian's face; while the Russian is incapacitated by pain, he is knocked down a flight of stairs, the fall breaking his neck.<ref>{{cite AV media|people = [[Jonathan Hensleigh]] (Director)|date = 16 April 2004|title = [[The Punisher (2004 film)|The Punisher]]|medium = Motion picture|location = United States|publisher = [[Lions Gate Entertainment]]}}</ref>
+
+===Video game===
+The Russian appears in ''[[The Punisher (2005 video game)|The Punisher]]'' video game, voiced by [[Darryl Kurylo]]. In the game, he is working for General Kreigkopf, has lines (most of them relating to his favorite superheroes). The Russian is fought twice as a boss, the second battle ending with him being blown up by a nuclear device that was smuggled onto Grand Nixon Island.<ref>{{cite video game|title = [[The Punisher (2005 video game)|The Punisher]]|developer = [[Volition (company)|Volition]]|publisher = [[THQ]]|date = 16 January 2005|platform = [[PlayStation 2]], [[Xbox]], and [[Microsoft Windows]]|version = 1.0|scene = |level = |quote = }}</ref>
+
+==References==
+{{Reflist|2}}
+
+==External links==
+* [http://marvel.wikia.com/wiki/Russian_(Earth-616) Russian] at Marvel Wiki
+* [http://comicvine.gamespot.com/russian/4005-41663/ Russian] at Comic Vine
+* {{comicbookdb|type=character|id=9613|title=Russian}}
+
+{{Punisher}}
+
+[[Category:Fictional cyborgs]]
+[[Category:LGBT supervillains]]
+[[Category:Fictional assassins]]
+[[Category:Fictional cannibals]]
+[[Category:Punisher characters]]
+[[Category:Fictional mercenaries]]
+[[Category:Fictional mass murderers]]
+[[Category:Fictional Russian people]]
+[[Category:LGBT characters in comics]]
+[[Category:Characters created by Garth Ennis]]
+[[Category:Comics characters introduced in 2000]]
+[[Category:Fictional transgender and transsexual characters]]
+[[Category:Marvel Comics characters with superhuman strength]]

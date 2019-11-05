@@ -1,0 +1,73 @@
+{{for|other uses of "Angel" in comics|Angel (comics)}}
+{{Infobox comics character| <!--Wikipedia:WikiProject Comics-->
+image= File:AngelThomasHalloway.png
+|caption= Angel from ''Marvel Project'' #4. Art by [[Steve Epting]]
+|character_name= The Angel
+|real_name= Thomas Halloway
+|publisher= [[Timely Comics]] ([[Marvel Comics]])
+|debut= ''[[Marvel Mystery Comics|Marvel Comics]]'' #1 (Oct. 1939)
+|creators= [[Paul Gustavson]] (artist)<br>Writer unconfirmed
+|alliances=[[All-Winners Squad]]<br>[[V-Battalion]]<br>[[Scourges of the Underworld]]
+|aliases=
+|powers=Excellent acrobat and hand to hand combatant<br>Accomplished disguise artist, occult scholar and pilot<br>Skilled detective<br>Flight via mystic cape<br>Use of knives and other weapons
+|}}
+
+The '''Angel''' ('''Thomas Halloway''', often shortened to '''Tom Halloway''') is a [[fictional character]], a [[superhero]] appearing in [[American comic book]]s published by [[Marvel Comics]]. Created by artist [[Paul Gustavson]] and an unconfirmed writer during the [[Golden Age of Comic Books]], the Angel [[first appeared]] in ''[[Marvel Mystery Comics|Marvel Comics]]'' #1 (Oct. 1939), the first publication of Marvel Comics' predecessor, [[Timely Comics]].
+
+The Angel is a non-superpowered detective who nonetheless wore a superhero costume.
+
+==Publication history==
+Created by artist [[Paul Gustavson]] and written either by him<ref name=toonopedia>[http://www.toonopedia.com/angel1.htm The Angel] (Marvel Comics, 1939) at [[Don Markstein's Toonopedia]]. [https://www.webcitation.org/66fvZxcyj Archived] from the original on April 4, 2012. "The character was created by cartoonist Paul Gustavson, who wrote and drew his first adventure as well as many later ones."</ref> or by [[Ray Gill]]<ref name=gcd-marvel1>[http://www.comics.org/issue/556/ ''Marvel Comics'' #1] at the [[Grand Comics Database]].</ref> or another writer, the Angel debuted in [[Timely Comics]]' ''[[Marvel Mystery Comics|Marvel Comics]]'' #1 (Oct. 1939).<ref name=gcd-marvel1 /> The Angel was the next-most-popular Timely character after the "big three" of the [[Human Torch (android)|Human Torch]], the [[Namor the Sub-Mariner|Sub-Mariner]] and [[Captain America]], with more than 100 Golden Age appearances — starting in that initial Marvel title (which changed its name to ''Marvel Mystery Comics'' with issue #2), up through #79 (Dec. 1946); as the sole backup feature in ''Sub-Mariner Comics'' #1-21 (Spring 1941 - Fall 1946); and in occasional appearances in ''[[All Winners Comics]]'' (#1, Summer 1941), ''The Human Torch'' (#5[a], Summer 1941), ''[[Mystic Comics]]''  (vol. 2, #1-3, Oct.-Winter 1944), ''[[Daring Comics]]'' (#10, Winter 1944-45).
+
+A [[simulacrum]] of the Angel was temporarily created from the mind of [[Rick Jones (comics)|Rick Jones]], along with those of the [[Blazing Skull]], the [[Fin (comics)|Fin]], the [[Jeffrey Mace|Patriot]], and the Golden Age [[Vision (Timely Comics)|Vision]], to aid the superhero team the [[Avengers (comics)|Avengers]] during the [[Kree-Skrull War]], in ''The Avengers''  #97 (March 1972).
+
+The Angel is one of the central characters of the eight-issue [[miniseries]] ''[[The Marvels Project]]'' (Aug. 2009 - May 2010), by writer [[Ed Brubaker]] and penciler [[Steve Epting]].
+
+==Fictional character biography==
+A costumed detective with no superpowers, the Angel is among the few such heroes to wear no mask, and in his Golden Age appearances makes no effort to conceal his identity as independently wealthy Thomas Halloway, a former surgeon. Thomas' mother died in childbirth - consequently he was brought up in the prison where his father was a warden. There he was instructed by a number of experts, as well as a number of the inmates, which gave him a unique insight into the underworld. He earned his moniker when he saved one of these inmates from the chair. Though he wore a costume like a superhero, he wore no mask to conceal his identity. He later acquires the Cape of [[Mercury (mythology)|Mercury]],<ref>''[[Marvel Mystery Comics]]'' #11</ref> which allows him to fly, but he has used this ability only occasionally, as on his campaign against the foreign spy Cat's Paw.<ref>''Marvel Mystery Comics'' #20 (June 1941)</ref>
+
+The Angel was already active by the time of the first Human Torch and Sub-Mariner adventures,<ref>''Marvel Comics'' #1</ref> and active as far back as 1936.<ref>''[[Daredevil (Marvel Comics series)|Daredevil]]'' vol. 2, #66</ref> He fights alongside  Namor against [[World War II]] "Nazombies",<ref>''The Human Torch'' #5[a] (Summer 1941)</ref> and was later [[retconned]] as a member of both the [[All-Winners Squad]] and the [[V-Battalion]] after the war.<ref>''[[Citizen V]] & the V-Battalion: The Everlasting'' #1 (March 2002)</ref> The Angel was also possibly a Secret Service agent for a brief period of time.<ref>''Sub-Mariner Comics'' #5 (Apr. 1942)</ref>
+
+Halloway remained active as an older character in 1990s comics, and was revealed as the primary force behind the murderous vigilante group [[Scourges of the Underworld]],<ref name="usagentv1-3">''U.S. Agent'' #3 (Aug. 1993)</ref> which assassinated a large number of lesser supervillains and archcriminals. Confronted by [[U.S. Agent (comics)|U.S. Agent]], Angel was wounded during the battle and arrested for his part in the murders of the Scourge of the Underworld. However, due to lack of concrete evidence on U.S. Agent's part, Angel was let go and resumed his normal life.<ref name="usagentv1-4">''U.S. Agent'' #4 (Sept. 1993)</ref><ref>''[[Captain America]]'' #442</ref>
+
+Halloway's grandson, '''Jason Halloway''', is given his grandfather's mask and weapons at the end of ''The Marvels Project'' #8 (July 2010).
+
+==Angel (Simon Halloway)==
+{{Infobox comics character| <!--Wikipedia:WikiProject Comics-->
+image=
+|caption=
+|character_name=The Angel
+|real_name=Simon Halloway
+|publisher=[[Marvel Comics]]
+|debut=''Captain America'' #442<br><small>(modern age)</small>
+|creators=
+|alliances=
+|previous_alliances=
+|aliases=
+|powers=
+}}
+
+Due to continuity differences between Tom's appearance and a previous set of appearances, his brother has been [[retconned]] as one of two men who had assumed the identity of the Angel and substituted for his brother on numerous occasions. In modern times, he was living as a homeless man in and beneath [[Manhattan]], where he was ambushed and murdered by the [[supervillain]] [[Everyman (Marvel Comics)|Zeitgeist]].<ref name="newxmen21">{{Comic book reference | Writer = [[Mark Gruenwald]] | Penciller =  [[Dave Hoover]] & [[Sandu Florea]] | Inker = [[Dan Bulanadi]] | Story = Broad Stripes And White Stars | Title = Captain America | Issue = 442 | Date = August 1995 | Publisher = [[Marvel Comics]] | }}</ref>  He has also appeared in ''[[Marvel Super-Heroes (comics)|Marvel Super-Heroes]]'' vol. 3, #7 (Oct. 1991) and in ''[[The Incredible Hulk (comic book)|The Incredible Hulk]]'' vol. 2, #432-433 (Aug.-Sept. 1995). It is unknown what occurred between the brothers and why Tom's brother ended up homeless.
+
+==Powers and abilities==
+Thomas Halloway had no superpowers but he was an excellent acrobat and hand-to-hand combatant, an accomplished disguise artist, occult scholar and pilot and a skilled detective. He also wore the Cape of Mercury, which granted him the ability to fly, and used knives and other weapons.
+
+==Other versions==
+===X-Men Noir===
+An alternate version of the Angel appears in ''[[X-Men Noir]]'' investigating the death of [[Jean Grey]]. This Angel, Thomas Halloway, is depicted as private investigator and the child of the warden of a prison called the Welfare Pen. Thomas' mother died in childbirth - consequently he was brought up in the prison where his father was a warden. There he was instructed by a number of experts, as well as a number of the inmates, which gave him a unique insight into the underworld. He earned his moniker when he saved one of these inmates from the chair. Though he wore a costume like a superhero, he wore no mask to conceal his identity. The final issue reveals that the Angel identity is shared by twins: the idealistic Tom Halloway and his ruthless brother '''Robert Halloway'''. Robert sacrifices himself to stop Jean, revealed as having killed [[Rogue (comics)#Marvel Noir|Anne-Marie Rankin]] and taken her place.
+
+==References==
+{{reflist}}
+
+==External links==
+*[http://www.internationalhero.co.uk/g/gaangel.htm The Angel] at International Hero
+
+{{GoldenAge}}
+
+[[Category:Fictional twins]]
+[[Category:Comics characters introduced in 1939]]
+[[Category:Golden Age superheroes]]
+[[Category:Fictional surgeons]]
+[[Category:Fictional vigilantes]]
+[[Category:Marvel Comics superheroes]]
+[[Category:Timely Comics characters]]

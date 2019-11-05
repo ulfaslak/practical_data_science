@@ -1,0 +1,52 @@
+<!-- Please do not remove or change this AfD message until the discussion has been closed. -->
+{{Article for deletion/dated|page=Herr Kleiser|timestamp=20190203161048|year=2019|month=February|day=3|substed=yes|help=off}}
+<!-- Once discussion is closed, please place on talk page: {{Old AfD multi|page=Herr Kleiser|date=3 February 2019|result='''keep'''}} -->
+<!-- End of AfD message, feel free to edit beyond this point -->
+{{More citations needed|date=December 2006}}
+{{Notability|date=January 2019}}
+{{Infobox comics character <!--Wikipedia:WikiProject Comics-->
+|character_name=Herr Kleiser
+|image = 
+|publisher=[[Marvel Comics]]
+|debut=''[[Ultimates]]'' #10 (July 2003)
+|creators=[[Mark Millar]] <br> [[Bryan Hitch]]
+|alliances=[[Chitauri]]<br>[[Nazi Germany]]
+|aliases= Herr Kameleon
+|relatives=
+|powers=Superhuman strength and healing<br>Shapeshifting<br>Skilled hand to hand combatant 
+}}
+
+'''Herr Kleiser''' is a [[fictional character]] appearing in [[American comic book]]s published by [[Marvel Comics]]. The character has appeared in ''[[Ultimate Marvel Universe|Ultimate]]'' [[comic book]]s. The character first appeared in ''[[Ultimates]]'' #10 (July 2003) and was created by writer [[Mark Millar]] and artist [[Bryan Hitch]].<ref>''Ultimates'' #8 - 13 (2005)</ref>
+
+==Fictional character biography==
+Kleiser was a high-ranking member of the alien hierarchy known as the [[Chitauri]], and was part of a group who infiltrated Earth during [[World War II]].<ref>''Ultimates'' #8</ref> Taking the form of a Nazi officer named Kleiser (by absorbing and devouring him), he and his fellow aliens contacted the Nazi party and attempted to help them win the war by offering advanced technology. The Chitauri wished to utilize the Nazis to conquer Earth and impose "order", erasing all individuality, which they saw as an aberration. Near the end of the war, Herr Kleiser faced [[Captain America]], and was defeated not by brute force but by clever strategy and misdirection; Kleiser never forgot this humiliating defeat. For decades, Kleiser and the other Chitauri slowly built a new power base and secretly influenced human affairs to prepare for another takeover attempt. 60 years later, Herr Kleiser infiltrated the [[S.H.I.E.L.D.]] Psi-Division, and planted false information designed to lure the Ultimates to an island in [[Micronesia]] where they were supposed to be destroyed by a nuclear device. However, [[Iron Man]]'s force field and [[Thor (Marvel Comics)|Thor]]'s dimension-warping hammer allowed the Ultimates to escape unharmed, although thousands of S.H.I.E.L.D. personnel were killed. Kleiser and the remainder of his troops also infiltrated the Triskelion, the headquarters of S.H.I.E.L.D. and the Ultimates. He captured [[Wasp (comics)|The Wasp]] and brought her to Area 51 in the desert near [[Phoenix, Arizona]].<ref>''Ultimates'' #10</ref>
+
+A short time later the remnants of the Chitauri fleet came to Earth and informed Kleiser they were soon to destroy the planet; at this point it was revealed the Ultimates had survived and a large battle began. During this fight Herr Kleiser and Captain America finally engaged in personal combat, during which Kleiser demonstrated superhuman strength, great durability and near-instant healing, as well as being able to perceive General Fury while the latter was in "light-negative" (invisible) mode. Captain America was nearly overcome by Kleiser and briefly ended this battle by cutting the alien in half. However this did not finish him and Captain America had to have Bruce Banner intentionally traumatised so as to bring out the [[Hulk (comics)|Hulk]]. Captain America then told the Hulk that Kleiser had been "all over [[Betty Ross|Betty]]" and the Hulk promptly pounded Kleiser into the ground, tore him apart and ate him. The  invading fleet was defeated, and Iron Man and Thor disposed of the alien's Doomsday bomb. Banner's excretions were later collected by S.H.I.E.L.D. to analyze and destroy, as Herr Kleiser was a shapeshifter and might have been able to survive even the digestive process.<ref>''Ultimates'' #13</ref>
+
+==Powers and abilities==
+Herr Kleiser is a skilled fighter, able to sustain a long and brutal combat against Captain America,{{issue|date=April 2013}} and then holding a resistance to various direct blows from the Incredible Hulk.{{issue|date=April 2013}} He is revealed to have healing powers strong enough to cure a direct shot to the head,{{issue|date=April 2013}} being cut in half and escape unharmed from a jet's explosion.{{issue|date=April 2013}} He also has superhuman strength and the ability to shapeshift.
+
+==In other media==
+
+Herr Kleiser appears as a minor antagonist in ''[[Ultimate Avengers]]'' and as the main antagonist in ''[[Ultimate Avengers 2|Ultimate Avengers 2: Rise of the Panther]]'' voiced by [[Jim Ward (voice actor)|Jim Ward]] (who would later voice another Captain America Nazi villain, [[Baron Strucker]]). In the first film, he is present at a top secret Nazi base where the Nazi/Chitauri are perfecting a nuclear rocket to launch at America, until seemingly killed by Cap while fighting on the rocket. In the second film, Kleiser under orders from the Chitauri hierarchy, invades [[Wakanda]] to reclaim their [[Vibranium]] shipment shot down in the '40s. Kleiser was then buried in a field of the mineral by Captain America and [[Black Panther (comics)|the Black Panther]], the latter whose father, King T'Chalka, was murdered by Kleiser at the beginning of the film. In the final conflict, Panther and Cap sealed Kleiser in Wakanda's vibranium deposits.
+
+==References==
+{{Reflist}}
+
+{{Ultimate Marvel}}
+{{Mark Millar}}
+
+{{DEFAULTSORT:Kleiser, Herr}}
+[[Category:Marvel Comics supervillains]]
+[[Category:Ultimate Marvel characters]]
+[[Category:Extraterrestrial supervillains]]
+[[Category:Fictional characters from parallel universes]]
+[[Category:Fictional extraterrestrial characters]]
+[[Category:Fictional shapeshifters]]
+[[Category:Nazis in comic book fiction]]
+[[Category:Comics characters introduced in 2003]]
+[[Category:Marvel Comics characters with accelerated healing]]
+[[Category:Fictional mass murderers]]
+[[Category:Film characters]]
+[[Category:Characters created by Mark Millar]]
+[[Category:Skrull]]

@@ -1,0 +1,58 @@
+{{short description|Marvel Comics superhero}}
+{{Notability|date=August 2018}}
+{{More citations needed|date=August 2018}}
+{{In-universe|date=August 2018}}
+{{Infobox comics character| <!--Wikipedia:WikiProject Comics-->
+| image =<!-- Deleted image removed: [[Image:inertiasqsup001.jpg|225px]] -->
+| caption = Inertia (II)<BR>Art By Gary Frank
+| character_name = Inertia
+| publisher = [[Marvel Comics]]
+| debut = '''(First)''' [[Squadron Supreme]] #10 (Jun 1986)<BR>'''(Second)''' Supreme Power #18
+| creators = '''(First)''' [[Mark Gruenwald]] and [[Paul Ryan (comics)|Paul Ryan]]<br>'''(Second)''' [[J. Michael Straczynski]]<br>[[Gary Frank]]
+| real_name = Edith ''Eddy'' Freiberg
+| alliances = '''(First)''' [[America Redeemers]]<br/>[[Squadron Supreme]]<br/>'''(Second)''' [[Supreme Power|The Squadron Supreme]]
+| aliases =
+| powers = transfer [[kinetic energy]] into object or person
+}}
+
+'''Inertia''' is the name of two separate, but related fictional superheroes appearing in [[American comic book]]s published by [[Marvel Comics]].
+
+==Various incarnations of Inertia==
+The first Inertia was a character from [[Earth-712]] (the world of the faux [[Justice League|JLA]] characters known as the [[Squadron Supreme]]).  Like most of the newer characters created for the Squadron Supreme mini-series, Inertia's counterpart in the [[Justice League of America|Detroit Justice League]] was [[Vixen (comics)|Vixen]].{{cn|date=September 2015}}  Her powers were based on using [[kinetic energy]] against the enemy.  The second Inertia is a member of the rebooted ''Squadron Supreme'', from the ''[[Supreme Power]]'' universe, also known as [[Earth-31916]].
+
+=== Inertia (Squadron Supreme) ===<!-- This section is linked from [[America Redeemers]] -->
+
+====Fictional character biography====
+Edith Freiberg had the power to absorb and redirect kinetic energy (motion).  After being recruited by [[Nighthawk (Marvel Comics)#Kyle Richmond (Earth-712)|Nighthawk]] to the team of super powered "[[America Redeemers|Redeemers]]", she was one of the Redeemers who joined the Squadron Supreme's "Utopia Program" in hopes of stopping it.<ref>''Squadron Supreme'' #10</ref> Inertia was then revealed to have joined the Squadron as a double agent. During her time in the Squadron, she developed a romantic relationship with [[Haywire (comics)|Haywire]].<ref>''Squadron Supreme'' #11</ref> Alongside Nighthawk's Redeemers, she attacked the Squadron Supreme. During the fight, she battled [[Power Princess#Power Princess: Squadron Supreme|Power Princess]] and was defeated by [[Doctor Spectrum#Joseph Ledger (Earth-712)|Doctor Spectrum]].<ref>''Squadron Supreme'' #12</ref>
+
+Alongside the Squadron Supreme, [[Professor Imam]], and [[Master Menace]], Inertia attacked the [[Nth Man]], a universe-absorbing entity that was encroaching into the [[Earth-712]] universe. Inertia died after an attempt to use her powers against the Nth Man backfired, as he was too large an entity for her to absorb the kinetic energy from, and her body was overloaded by a surge of energy which caused her to disperse in a pink haze.<ref>''Squadron Supreme: Death of a Universe'' Graphic Novel</ref>
+
+====Powers and abilities====
+Inertia had the ability to transfer "inertia" (actually momentum) from one person or object to another.
+
+=== Inertia (Supreme Power) ===
+'''Edith Freiberg''' is a lesbian Army [[Private (rank)|private]], first introduced in ''Part III: High Command'' where she is seen trashing a bar and attacking several men (using her powers to redirect kinetic energy) before being introduced to the public as part of the [[Supreme Power|Squadron Supreme]]. She is portrayed as having problems with men and with authority and in issue #4, her back story is fleshed out.{{issue|date=April 2013}}
+
+Edith's father was the head of an ultra-conservative church and a highly prejudiced and abusive man. Her powers manifested at a young age when a nurse trying to give her a vaccination could not get the needle through her skin. Her father believed this was a sign of demonic power and, unable to hurt 'Eddy', would beat her mother for any of Edith's perceived transgressions.{{issue|date=April 2013}}
+
+In high school, she was attacked and raped by three boys (her classmates). While she could easily have defended herself, Edith was aware that this would only result in her mother receiving a beating and so did not attempt to defend herself. The stress of this event and her inability to use her powers when she most needed to left her in a catatonic state for some time. Despite this, her father refused to believe she had been raped (citing the lack of injury), instead accusing her of being promiscuous.{{issue|date=April 2013}}
+
+Edith's mother soon discovered that her husband was having an affair and confronted him. Edith's father accidentally caused a car accident that killed Edith's mother and attempted to cover up the event to save his reputation. Edith recovered after hearing the news, finding and killing her father—then killing the boys who had raped her.{{issue|date=April 2013}}
+
+During 'Operation Long Walk' (the Squadron's mission in the Middle East), Edith finds a young girl whose mother and older sister were raped and then [[Stoning|stoned to death]] by four male relatives on the pretext of erasing the shame of the rape ("[[Honor killing]]"). The girl had apparently been hiding to avoid a similar fate. Using [[Master Menace|Emil Burbank]] as a translator, Edith finds the relatives and buries them up to their necks. She then tears a steel bar off a nearby railing, gives it to the girl, and walks away. The girl apparently kills them.{{issue|date=April 2013}}
+
+So far, her behavior has been shown to be erratic and possibly psychotic. Stanley Stewart ([[the Atlanta Blur|The Blur]]) has attempted to reach out to her, and Edith has thanked him for his concern, but she still refuses his offer of friendship.{{issue|date=April 2013}}
+
+==References==
+{{reflist}}
+
+==External links==
+*[https://web.archive.org/web/20060614155142/http://classicmarvel.com/cast_list/earth_s.htm Marvel Heroes Classic Roleplaying Game page on Inertia]
+*[http://www.marvel.com/universe/Inertia_%28Earth-712%29 Marvel.com page on Inertia]
+
+[[Category:Characters created by Mark Gruenwald]]
+[[Category:Comics characters introduced in 1986]]
+[[Category:Fictional lesbians]]
+[[Category:LGBT superheroes]]
+[[Category:Marvel Comics characters with superhuman strength]]
+[[Category:Marvel Comics superheroes]]

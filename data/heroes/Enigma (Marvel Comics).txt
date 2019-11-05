@@ -1,0 +1,52 @@
+{{no footnotes|date=June 2010}}
+{{Infobox comics character
+<!--Wikipedia:WikiProject Comics-->
+| image =
+| imagesize =
+| converted = y
+| caption = "Tara" from ''Peter Parker: Spider-Man'' (vol. 2) #48
+| publisher = [[Marvel Comics]]
+| debut = ''Peter Parker: Spider-Man'' (vol. 2) #48
+| creators = [[Paul Jenkins (writer)|Paul Jenkins]]<br>[[Mark Buckingham]]<br>Wayne Faucher
+| alter_ego = Tara Virango
+| full_name =
+| species = [[Mutant (Marvel Comics)|Human mutant]]
+| homeworld =
+| alliances = 
+| partners =
+| supports =
+| aliases = Enigma
+| powers =
+| cat = super
+| subcat = Marvel Comics
+| hero = y
+| villain = y
+| sortkey =
+}}
+'''Enigma''' ('''Tara Virango''') is a [[Character (arts)|fictional character]], a [[superheroine]] appearing in [[American comic book]]s published by [[Marvel Comics]]. Tara is a native of [[Bangladesh]] and through her [[Mutant (Marvel Comics)|mutation]] from a nano-virus, she gained superhuman powers giving her some sort of connection to the Buddhist goddess, [[Tara (Buddhism)|Tara]].
+
+==Character history==
+Enigma makes her comic debut in ''Peter Parker: Spider-Man'' (vol. 2) #48. Tara seeks revenge against those who infected the Bangladeshi village of Malpura: AGK, Inc. She contacts [[Spider-Man]] in order to seek his help in bringing justice to the people infected and killed by the nano-virus. The AGK corporation was commissioned by the [[CIA]] to create an intelligent metal nano-virus capable of enhancing latent mutant abilities. AGK tested the virus on Malpura, killing four thousand people. Tara survived, but was infected with the virus, which granted her superhuman abilities.
+
+Years later, Tara moved to [[New York City]] and adopted the identity of Enigma, patterning herself after the Buddhist goddess, Tara. She stole the fifty-million-dollar Star of Persia diamond from AGK's vaults and encountered Spider-Man, who she contacted mentally, giving him flashes of her memories of the Malpura disaster. The following night, she tracked Spider-Man to his apartment and led him on a chase across the city, ending when she presented him with a scarf and head-butted him. Upon waking, Spider-Man found that she had led him to AGK's headquarters.
+
+Enigma met AGK head, Kirkland, and his security director, Corman, at AGK's headquarters. She demanded that an additional fifty million dollars in compensation be paid to the Malpura survivors in return for the Star of Persia. Corman refused and threatened her with a squirt-gun filled with the control virus, which would kill her instantly. Spider-Man soon arrived to break the standoff and the two heroes pursued Corman into a research lab, where they battled until Corman accidentally shattered a number of test tubes of the virus onto himself, which transformed him into the Virus. The Virus melted through the floor and Enigma disappeared. She later had a brief encounter with Peter Parker on the streets of New York. She thanked him for his help, and then melted into the crowd.
+
+==Special note==
+Enigma is never referred to as such in the two issues she appears in. Her "Enigma" alias and her real name were revealed by [[Tony Stark]] in ''[[Civil War (comics)|Civil War: Battle Damage Report]]''.
+
+The Malpura disaster is likely based on the 1984 methyl isocyanate leak in Bhopal, India, which killed thousands of people. Union Carbide, the owner of the chemical plant, has been heavily criticized for providing insufficient compensation to the victims of the disaster.
+
+"Tara" is an actual Buddhist deity, who was said to have risen from a lotus flower, and has multiple aspects, each represented by a color. The red and yellow scarves used by Enigma symbolize her fierce, violent aspect. Enigma may have a literal, mystical connection to Tara, or she may just have patterned her superhuman identity after Tara.
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://www.adherents.com/lit/comics/Tara.html The Religious Affiliation of Comic Book Characters]
+* [http://www.marvunapp.com/Appendix4/enigmaspdrmn.htm The Appendix to the Handbook of the Marvel Universe]
+* [http://www.comicbookreligion.com/char?ID=3016&Enigma_Tara_Virango Religion of Enigma (Tara Virango)]
+
+[[Category:Marvel Comics superheroes]]
+[[Category:Fictional Bangladeshi people]]
+[[Category:Fictional Bengali people]]

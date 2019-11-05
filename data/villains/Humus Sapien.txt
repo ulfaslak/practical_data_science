@@ -1,0 +1,39 @@
+{{Superherobox <!--Part of Wikipedia:WikiProject Comics-->
+ | image=[[Image:HumusSapiens.jpg|250px]]
+ | caption=The character as he appeared in FOOM #3.
+ | character_name=Humus Sapien
+ | species=[[Mutant (Marvel comics)|Human Mutant]]
+ | publisher=[[Marvel Comics]]
+ | debut=''[[FOOM]]'' #3 (Autumn 1973)<br>''[[Thunderbolts (comics)|Thunderbolts]]'' #54 (Sept. 2001)
+ | creators=Michael A Barreiro<br>[[Fabian Nicieza]] (writer)<br>[[Patrick Zircher]] (artist)
+ | real_name = Sonny Baredo
+ | homeworld = <!-- optional -->
+ | alliances=[[Thunderbolts (comics)|Thunderbolts]]
+ | aliases = Humus Sapiens
+ | supports =<!--optional-->
+ | powers= Ability to destroy all non-natural substances
+}}
+
+'''Humus Sapien''' ('''Sonny Baredo''') is a [[fictional]] [[supervillain]] appearing in [[American comic book]]s published by [[Marvel Comics]]. He first appeared as '''Humus Sapiens''' in ''[[FOOM]]'' #3 (Autumn 1973), created by Michael A. Barreiro. He first appeared as Humus Sapien in ''[[Thunderbolts (comics)|Thunderbolts]]'' #54 (Sept. 2001), by the writer-artist team of [[Fabian Nicieza]] and [[Patrick Zircher]].
+
+==Publication history==
+
+===''FOOM''===
+Humus Sapien [[first appeared]] in Marvel's self-produced [[fanzine|fan magazine]], ''[[FOOM]]'' #&nbsp;3 (Fall 1973), created (as [[supervillain]] Humus Sapiens) by Michael A. Barreiro of [[Penn Hills, Pennsylvania|Penn Hills]], [[Pennsylvania]], and was the winning entry in the magazine's character-creation contest.<ref name=samruby>[http://samruby.com/Series/FOOM/foom03.htm ''FOOM'' contents and checklist: Issue #&nbsp;3]. {{webarchive |url=https://www.webcitation.org/5rQZDtQER?url=http://samruby.com/Series/FOOM/foom03.htm |date=2010-07-23 }}.</ref> Although ''FOOM'' founding editor [[Jim Steranko]] wrote in the premiere-issue introduction that, "The winning entry (to be selected by Ol' Smilin' [[Stan Lee|Stan [Lee]]] himself) will become a super guest-star featured in one of Marvel's top hero mags!" This never occurred and both the character and the contest faded into obscurity.
+
+Later, Barreiro inquired about the character but received no response from Marvel. In 1979, ''Buyer's Guide to Comic Fandom'' columnist, [[Fred Hembeck]], wrote about the character and contest and, though nothing immediately came of it, the column prompted [[Tom Brevoort]], editor of Marvel's ''[[Thunderbolts (comics)|Thunderbolts]]'', to call Barreiro two decades later with an offer to use the character.<ref name=post>{{cite news|last=Sodergren |first=Rebecca |url=http://www.postgazette.com/ae/20010814comic0814p4.asp |title=Bad Guy Finally Finishes First |work=[[Pittsburgh Post-Gazette]] |date=August 14, 2001 |accessdate=October 10, 2011 |archiveurl=https://www.webcitation.org/5rQYmG0K0?url=http://www.postgazette.com/ae/20010814comic0814p4.asp |archivedate=July 23, 2010 |deadurl=no |df= }}.</ref>
+
+===Thunderbolts===
+In 1998, writer [[Kurt Busiek]] and editor [[Tom Brevoort]] decided to use Barreiro's character in the [[superhero]] series, ''[[Thunderbolts (comics)|Thunderbolts]]''. [[Fabian Nicieza]], who succeeded Busiek as ''Thunderbolts'' writer (and had also entered the ''FOOM'' contest), agreed. Renamed Humus Sapien, the character finally debuted, after 28 years, in ''Thunderbolts'' #54 ([[cover-date]]d Sept. 2001). Barreiro was allowed to [[inker|ink]] one page of the issue featuring the character.<ref name=post />
+
+==Fictional character biography==
+Humus Sapien fought the [[Redeemers (comics)|Redeemers]]  when he emerged from a [[suspended animation]] chamber where he had been imprisoned by [[Ogre (Marvel Comics)|Ogre]] and [[Factor Three]].<ref>''Thunderbolts'' vol.1 #54</ref> He has vaguely defined superhuman abilities powered by Earth's population; however, each time he uses his powers, random people around the world die. Humus Sapien's final battle, after which he voluntarily leaves Earth, drains the lives of 2,400 random people across the globe, including the [[Middle Eastern]] superhero, the [[Arabian Knight (comics)#Abdul Qamar|Arabian Knight]].<ref>''Thunderbolts'' vol.1 #55</ref>
+
+==References==
+{{Reflist}}
+
+==External links==
+* {{Marvunapp|http://www.marvunapp.com/Appendix/humussapien.htm|Humus Sapien}}
+
+[[Category:Marvel Comics mutants]]
+[[Category:Marvel Comics supervillains]]

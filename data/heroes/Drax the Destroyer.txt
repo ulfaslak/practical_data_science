@@ -1,0 +1,217 @@
+{{Superherobox <!--Wikipedia:WikiProject Comics-->
+|character_name = Drax the Destroyer
+|image          = Drax-cover.jpg
+|imagesize      = 
+|caption        = Textless cover of ''Drax'' #1 (November 2015).<br>Art by Scott Hepburn and Matt Milla.
+|converted      = y
+|real_name      = Arthur Sampson Douglas
+|publisher      = [[Marvel Comics]]
+|debut          = ''[[Iron Man (comic book)|The Invincible Iron Man]]'' #55 (February 1973)
+|creators       = [[Jim Starlin]]
+|species        = Human
+|homeworld      = <!-- optional -->
+|alliances      = [[Guardians of the Galaxy (2008 team)|Guardians of the Galaxy]]<br>[[Infinity Watch]]<br>[[Legion of the Unliving]]<br>[[Phalanx (comics)|Phalanx]]<br>[[Secret Defenders]]<br>[[United Front (comics)|United Front]]
+|aliases        = <!-- optional: actual identities the character uses, not nicknames -->
+|supports       = <!--optional-->
+|powers         = 
+*Superhuman strength, endurance, stamina, speed, senses
+*Skilled [[swordsman]] and hand-to-hand combatant
+*Cosmic awareness
+|}}
+
+'''Drax the Destroyer''' ('''Arthur Douglas''') is a [[fictional character]] appearing in [[American comic book]]s published by [[Marvel Comics]]. Created by [[Jim Starlin]], the character first appeared in ''[[Iron Man (comic book)|The Invincible Iron Man]]'' #55 (February 1973).
+
+The character's origin story relates that Arthur Douglas was a human whose family was attacked and killed by the [[supervillain]] [[Thanos]]. Needing a champion to combat Thanos, the being known as [[Kronos (comics)|Kronos]] took Arthur's spirit and placed it in a powerful new body, and Drax the Destroyer was born. Drax's powers included enhanced strength and resilience, flight, and the ability to project energy blasts from his hands. The character often battled Thanos, and on occasion the [[superhero]]es [[Captain Marvel (Mar-Vell)|Captain Marvel]] and [[Adam Warlock]]. He was also a member of the group known as the [[Infinity Watch]].
+
+In 2004, the character lost his flight and energy blasts, and a portion of his strength and resilience. This version of the character played a role in the [[fictional crossover|crossover]] comic book storylines "[[Annihilation (comics)|Annihilation]]" and "[[Annihilation: Conquest]]", and became a member of the relaunched [[Guardians of the Galaxy (2008 team)|Guardians of the Galaxy]].
+
+Drax has been featured in a variety of associated Marvel merchandise, including [[animation|animated]] [[television series]], action figures, and [[video game]]s. He is portrayed by [[Dave Bautista]] in the [[Marvel Cinematic Universe]], appearing in ''[[Guardians of the Galaxy (film)|Guardians of the Galaxy]]'' (2014), ''[[Guardians of the Galaxy Vol. 2]]'' (2017), ''[[Avengers: Infinity War]]'' (2018), and the upcoming film ''[[Avengers: Endgame]]'' (2019).<ref name="Dave Bautista - IMDb">{{cite web |url=https://www.imdb.com/name/nm1176985/ |title=Dave Bautista - IMDb | access-date=4 May 2017}}</ref>
+
+==Publication history==
+Drax first appeared in ''[[Iron Man (comic book)|The Invincible Iron Man]]'' #55 (February 1973), and was created by [[Jim Starlin]] with the help of writer [[Mike Friedrich]].  He had a recurring role in ''[[Captain Marvel (Mar-Vell)|Captain Marvel]]'', beginning with issue #27 (July 1973).  He also appeared in ''[[Adam Warlock|Warlock]]'' #10 (December 1975), ''Iron Man'' #88 (July 1976), ''Warlock'' #15 (November 1976), ''Logan's Run'' #6 (June 1977), ''[[Thor (Marvel Comics)|Thor]]'' #314 (December 1981), and ''[[Avengers (comics)|Avengers]]'' #219 (May 1982), before being killed by [[Moondragon]] in ''Avengers'' #220 (June 1982).
+
+Starlin resurrected Drax in ''[[Silver Surfer]]'' vol 3 #35 (1990), and he had a recurring role until issue 50. After appearing in ''[[The Infinity Gauntlet]]'' #1–6 (1991), he was featured in ''[[Warlock and the Infinity Watch]]'' #1–42 (1992–1995) as a member of the titular team, the [[Infinity Watch]]. The character reappeared in ''Warlock'' vol. 3 #1–4 (1998–1999) and ''[[Genis-Vell|Captain Marvel]]'' vol. 4 #4–6 (2001).
+
+Drax received an eponymous 4 issue miniseries in 2004, and was a starring character in ''Annihilation: [[Nova (Richard Rider)|Nova]]'' #1–4 (2005) and ''[[Annihilation (comics)|Annihilation]]'' #1–6 (2006). After a follow up appearance in ''Nova'' vol 4 #4–7 (2007) and the 2008 "[[Annihilation: Conquest]]" storyline, he was featured as a team member in the 2008 relaunch of [[Guardians of the Galaxy (2008 team)|Guardians of the Galaxy]], and appeared in the 25 issue series of the same name. The character had a small role in ''[[The Thanos Imperative]]'' #1–3 (2010), in which he was killed.
+
+The character reappeared in ''[[Avengers Assemble (comics)|Avengers Assemble]]'' issues #4–8 (June–October 2012), with no reference to his death.  He will star in ''Guardians of the Galaxy'' vol. 3, a part of the [[Marvel NOW!]] relaunch.<ref name="MarvelNOW">{{cite web |url=http://www.comicbookresources.com/?page=article&id=41610 |title=NYCC: Bendis, McNiven & Wacker Relaunch the "Guardians of the Galaxy" |last=Richards |first=Dave |date=14 October 2012 |publisher=Comic Book Resources |accessdate=15 October 2012}}</ref>
+
+==Fictional character biography==
+
+===Creation and early life===
+While driving through a desert with his wife and daughter, Arthur Douglas' car is attacked by a spaceship piloted by [[Thanos]], who thinks the humans have seen him.<ref name="CaptMv1no32"/> His daughter, Heather, survives the crash and is adopted by Thanos' father, [[Mentor (A'lars)|Mentor]], and raised on [[Titan (Marvel Comics location)|Titan]]. She later becomes [[Moondragon]].<ref name="DDv1no107"/>
+
+[[Image:Captain Marvel Drax.jpg|200px|thumb|Drax (left) on the cover of ''[[Captain Marvel (Mar-Vell)|Captain Marvel]]'' #58 (September 1978). Art by [[Dave Cockrum]].]]
+Needing a champion to combat the threat from Thanos, Mentor and the Titan god [[Kronos (comics)|Kronos]] capture Douglas' spirit and place it in a powerful new body. He is rechristened "Drax the Destroyer", and his sole purpose is to kill Thanos. With [[Iron Man]], Drax battles Thanos and the [[Blood Brothers (comics)|Blood Brothers]],<ref name="IMv1no55"/> but Thanos escapes. While trying to prevent Thanos from getting the [[Cosmic Cube]],<ref name="CaptMv1no27-31"/> Drax's memories are restored to him.<ref name="CaptMv1no32"/> After seeing [[Captain Marvel (Mar-Vell)|Captain Marvel]] defeat Thanos,<ref name="CaptMv1no33"/> Drax attacks Captain Marvel, for robbing him of his purpose.<ref name="CaptMv1no42-44"/> Drax wanders space in grim contemplation, searching for a resurrected Thanos. By the time he learns that Thanos had managed to rematerialize himself, Thanos has once again been destroyed in battle with Captain Marvel, [[Avengers (comics)|the Avengers]], and [[Adam Warlock]].<ref name="CaptMv1no58"/><ref name="MTIO1977"/> Alongside Captain Marvel, Drax battles [[ISAAC (comics)|ISAAC]], Stellarax, Lord Gaea, [[Elysius]], and Chaos.<ref name="CaptMv1no59-62"/><ref name="MarvelSLv2no1-2"/>
+
+Some time later, Drax, possessed by an alien entity, battles his daughter Moondragon and the superhero [[Thor (Marvel Comics)|Thor]]. After Drax recovers, he and Moondragon journey through space in search of knowledge.<ref name="Thor314"/> Eventually, they come upon the planet Ba-Banis, a world of humanoid aliens caught in a vast civil war. Moondragon uses her mental powers to quell the conflict and then decides to set herself up as the world's goddess. Drax recognizes that her ambitions are ignoble and so sends their ship to Earth with a holographic distress message. The Avengers respond and discover Moondragon's world of mentally enforced tranquility.<ref name="Avengers219"/> Freed by the Avengers from his daughter's mental domination, Drax advances toward her, seeking to end her menace. In order to stop him, Moondragon mentally forces Drax's life essence to vacate his artificial body.<ref name="Avengers220"/>
+
+===Infinity Watch===
+{{Main|Infinity Watch}}
+When Thanos is resurrected by [[Death (Marvel Comics)|Mistress Death]], Kronos reanimates the Destroyer and grants him even greater physical power.<ref name="SSv3no35"/> However, Kronos does not consider the effects of Drax's death, and the Destroyer's mind retains the damage done by Moondragon. Alongside a multitude of other heroes, Drax helps battle Thanos and [[Nebula (comics)|Nebula]] for possession of the [[Infinity Gauntlet]].<ref name="InfinityGauntlet6"/> Drax is chosen by [[Adam Warlock]] to safeguard the [[Infinity Gems|Power Gem]] as part of the [[Infinity Watch]].<ref name="WarlockIWno2"/>
+
+After the energy vampire [[Rune (comics)|Rune]] steals the gems,<ref name="RuneSurfer"/> the Watch members go their separate ways.<ref name="WarlockIWno42"/> Drax returns to Titan with Moondragon, who successfully petitions Kronos to restore Drax's mind to its former acuity at the cost of some physical power. Thus, Drax is restored to his original condition.<ref name="CPUno4"/> Drax is accused of the murder of [[Elysius]] and several others, but is cleared when it is discovered that the creature [[Syphon (Marvel Comics)|Syphon]] was manipulating him.<ref name="Warlockv3no1-4"/> While seeking out Moondragon, Drax enters into an altercation with [[Genis-Vell]].<ref name="CaptMv4no4"/> In the course of this struggle, Drax is transported to the [[Microverse]] with Genis, where, for a time, he finds acceptance and happiness on the planet [[K'ai]].<ref name="CaptMv4no6-8"/>
+
+===Reborn===
+{{Main|Annihilation (comics)|Annihilation: Conquest}}
+Later, Drax is seen on a prison transport ship with [[Paibok]], [[Lunatik]], and the [[Blood Brothers (comics)|Blood Brothers]]. The ship crashes in Alaska, and Drax attacks the others to keep them from harming innocent lives.<ref name="Draxmini1"/> He mistakes a young girl named Cammi for his daughter, and tries to protect her from Paibok. Drax appears to be killed, but a slimmer, smarter Drax emerges from the larger shell of the dead body.<ref name="Draxmini3"/> When a second prison ship arrives to recapture the prisoners, both Drax and Cammi are arrested.<ref name="Draxmini4"/>
+
+Surviving [[Annihilus]]' attack on the intergalactic prison known as the [[Kyln]], Drax and Cammi team up with the last member of the Xandarian [[Nova Corps]], [[Nova (Richard Rider)|Richard Rider]]. Together they fight against the advancing Annihilation Wave as Drax trains Nova to be a warrior.<ref name="AnnNova4"/> Drax learns that Thanos has taken Moondragon hostage, and that she will be killed if Drax pursues him.<ref name="Annihilation1"/> During a doomed battle between the Annihilation Wave and the [[United Front (comics)|United Front]], Drax stays behind to fight off the invaders while [[Nova (Richard Rider)|Nova]] and the rest of the group (including Cammi) finish the evacuation.<ref name="Annihilation3"/> Drax fights his way to the Annihilation Wave's mother ship, where he finds Thanos and kills him. Drax helps to free a captive [[Galactus]], who teleports Moondragon and Drax to a far-off planet to spare them from his wrath on the Annihilation Wave.<ref name="Annihilation5"/> Afterwards, Moondragon says Drax just "disappeared". Cammi is later seen, alive, allied with one of Thanos' powerful, miniature assistants.<ref name="Annihilation6"/>
+
+When the [[Phalanx (comics)|Phalanx]] invade the [[Kree]] home-world, Drax is assimilated as a "select" of the Phalanx hive mind. They dispatch him, along with [[Gamora]], to apprehend Nova, who had fled the planet.<ref name="Novav4no7"/> Following Nova to Kvch, the home planet the [[Technarchy]] (parental race of the Phalanx), Drax and Gamora are freed from the Phalanx by the Technarch Tyro. Together they return to Hala where they help in the defeat of [[Ultron]].<ref name="AnnihilationC6"/>
+
+===Guardians of the Galaxy===
+{{Main|Guardians of the Galaxy (2008 team)}}
+[[Star-Lord]] recruits Drax for the new [[Guardians of the Galaxy (2008 team)|Guardians of the Galaxy]].<ref name="GotGv2no1"/> The Guardians are forced to ally themselves with a resurrected Thanos and travel into an alternate reality known as the "Cancerverse".<ref name="ThanosImp1"/> While experiencing a bout of madness, Drax attacks Thanos and is killed.<ref name="ThanosImp3"/> Drax later reappears with the Guardians on Earth without reference to his death.<ref name="AAv2no4"/><ref name="AAv2no5"/>
+
+==Powers and abilities==
+Drax's initial incarnation's powers included superhuman strength, stamina and resistance to physical injury as well the ability to project concussive blasts of cosmic energy from his hands. He could also travel at high speeds in [[outer space]] and [[Hyperspace (science fiction)|hyperspace]] without air, food, or water. Drax also had telepathy,<ref>"[[Iron Man]]" Vol 1 #55 (February 1973)</ref> having used it to engage [[Thanos]] in a psychic battle and stalemating him mind to mind.<ref>"Captain Marvel" Vol 1 #28</ref> 
+
+After his resurrection, his physical capabilities are greatly enhanced beyond their original levels but he suffered severe mental disability in his new incarnation.<ref name="SSv3no35"/> Instead of his telepathy which enabled him to track Thanos across vast distances, he now possessed the ability to sense either him or other beings who have been in recent contact with Thanos, alongside a precognitive ability to sense when beings will be in contact with Thanos in the near future. For a time, Drax possessed the [[Infinity Gems|Power Gem]] that had the potential to grant him superhuman physical and energy manipulation powers with no feasible limit. However, because of his severely-reduced intellect, he lacked the mental capacity and imagination to use the gem for anything other than bolstering his physical strength. While possessing the gem, Drax's strength has been compared with that of the merged incarnation of the [[Hulk (comics)#Merged Hulk/The Professor|Hulk]], but lacking the latter's rage-fueled potential.
+
+Just prior to the 2006 "Annihilation" mini-series and continuing through the present, Drax undergoes a physical change, resulting in a much-smaller physical form, his superhuman, physical powers greatly reduced to a level comparable to those of his original form and the loss of his energy projection, flight and most any residual psionic capabilities; having just enough to glean the moments of his demise from Cammi.<ref name="Draxmini3"/> However, his intellect has returned to its original level, and he has taken a liking to using knives in battle.<ref name="Draxmini4"/><ref name="AnnNova4"/> At least temporarily, he had the ability to pass through Thanos's force field; his power levels seem to increase the closer he is to Thanos.<ref name="Annihilation4"/> He could also heal at an accelerated rate and had senses sharp enough to tell humans from aliens by smell,<ref>"Annihilation: Nova" Vol 1 #1</ref> root out a skrull in disguise and detect when energy weapons were about to go off.<ref>"Guardians of the Galaxy" Vol 2 #5</ref>
+
+==In other media==
+
+===Television===
+* Drax appears in the episode "Learning Curve" of the ''[[Silver Surfer (TV series)|Silver Surfer]]'' animated series, voiced by [[Norm Spencer]]. He is a [[cyborg]], stated to have an organic brain in a mechanical body, and is a companion of [[Mentor (A'lars)|Mentor]].
+* Drax the Destroyer appears in the ''[[Ultimate Spider-Man (TV series)|Ultimate Spider-Man]]'' episode "Guardians of the Galaxy", voiced by [[David Sobolov]]. He is seen as a member of the Guardians of the Galaxy. In the episode "The Return of the Guardians of the Galaxy", Drax the Destroyer was seen recuperating on the Guardians' spaceship when they land on Earth at the time when Titus and the Chitauri target Nova's helmet. Drax the Destroyer recovers in time to help fight Titus's forces.
+* Drax the Destroyer appears in the ''[[Avengers Assemble (TV series)|Avengers Assemble]]'' episode "Guardians and Spaceknights", voiced again by David Sobolov.
+* Sobolov reprises his role as Drax in ''[[Hulk and the Agents of S.M.A.S.H.]]'' episode "It's a Wonderful Smash",<ref name="It's a Wonderful Smash">{{cite episode|title=It's a Wonderful Smash|series=Hulk and the Agents of S.M.A.S.H.|network=Disney XD|season=1|number=25|airdate=July 6, 2014}}</ref> and "Guardians of the Galaxy".
+* Drax appears in ''[[Marvel Disk Wars: The Avengers]]'' episodes 24 and 25, voiced by Yoshinori Sonobe.
+* Sobolov reprises his role as Drax in the ''[[Guardians of the Galaxy (TV series)|Guardians of the Galaxy]]'' animated series.<ref>September 27, 2015, "[http://www.cosmicbooknews.com/content/watch-david-sobolov-guardians-galaxy-drax-interview Watch: David Sobolov Guardians of the Galaxy Drax Interview]", CosmicBookNews (accessed October 7, 2015)</ref> It was shown in the "Origins" episode that Drax surrendered himself to the Nova Corps in exchange that the aliens with him that were abducted by Ronan the Accuser are returned safely to their planets. In "Undercover Angle", Drax screamed the [[Wilhelm scream]] after [[Supergiant (comics)|Supergiant]] threw him.
+* Drax appears in ''[[Lego Marvel Super Heroes - Guardians of the Galaxy: The Thanos Threat]]'', voiced again by David Sobolov.<ref>End credits for ''Lego Marvel Super Heroes - Guardians of the Galaxy: The Thanos Threat''</ref>{{better source|date=June 2018}}
+
+===Film===
+[[File:Dave Bautista as Drax the Destroyer.jpg|thumb|right|upright|[[Dave Bautista]] as Drax in a character poster for the 2014 film, ''[[Guardians of the Galaxy (film)|Guardians of the Galaxy]]''.]]
+[[Dave Bautista]] plays Drax in the live-action 2014 [[Marvel Studios]] film ''[[Guardians of the Galaxy (film)|Guardians of the Galaxy]]''.<ref name="GotGBautista"/> In the film, Drax is an alien whose wife and daughter were slaughtered by [[Ronan the Accuser]], on the instructions of Thanos, for which Drax vows revenge. He first meets the other Guardians of the Galaxy in prison, including [[Gamora]], whom he holds responsible for his family's deaths because she is a daughter of Thanos. She tells him that she was raised by Thanos only after he slaughtered her own family, and bears no loyalty to him, and the two join [[Peter Quill]] in escaping prison in order to confront Ronan, whom they eventually kill. A recurring gag throughout the film is Drax's inability to understand metaphors because Drax's species is, according to [[Rocket Raccoon|Rocket]], completely literal. Bautista reprised his role as Drax in its 2017 sequel ''[[Guardians of the Galaxy Vol. 2]]'' and again in ''[[Avengers: Infinity War]]'' (2018).<ref name="Bautista">{{cite tweet|date=January 22, 2017 |first=Dave|last=Bautista|authorlink=Dave Bautista|user=DaveBautista|title=Welp!!! That makes 3 of us! And I start filming tomorrow! 😱 #MarvelShroudofSecrecy 😖|number=823294808655532036 |accessdate=January 22, 2017|archivedate=January 23, 2017 |archiveurl=https://www.webcitation.org/6nibckobt?url=https://twitter.com/DaveBautista/status/823294808655532036 |deadurl=no }}</ref><ref name="GotGSequel">{{cite web |url=http://comicbook.com/2015/11/04/dave-bautista-says-james-gunn-making-guardians-of-the-galaxy-vol/ |title=Dave Bautista Says James Gunn Making Guardians of the Galaxy Vol. 2 Different |last=Siegel |first=Lucas |publisher=Comicbook.com |date=November 4, 2015 |accessdate=November 5, 2015 |archiveurl=https://www.webcitation.org/6cosZKjvL?url=http://comicbook.com/2015/11/04/dave-bautista-says-james-gunn-making-guardians-of-the-galaxy-vol/ |archivedate=November 5, 2015 |deadurl=no |df= }}</ref>
+
+===Video games===
+* Drax makes a [[cameo appearance]] as he is seen as frozen statues in the backgrounds of [[Thanos]] stages in ''[[Marvel Super Heroes (video game)|Marvel Super Heroes]]''.{{cn|date=December 2017}} Once Thanos is defeated by any of the superheroes, he is unfrozen and the heroes are saved.
+* Drax the Destroyer appears as a playable character in ''[[Lego Marvel Super Heroes]]'', voiced by [[David Sobolov]].{{cn|date=December 2017}}
+* Drax appears as an unlockable character in ''[[Marvel: Avengers Alliance]]''.{{cn|date=December 2017}}
+* Drax is a non-playable Team-Up character in ''[[Marvel Heroes (video game)|Marvel Heroes]]''.{{cn|date=December 2017}} He can be called in to assist heroes in combat if purchased or unlocked.
+* Drax is a playable character in the video game ''[[Disney Infinity: Marvel Super Heroes]]'', along with the other Guardians of the Galaxy members.{{citation needed|date=June 2014}}
+* Drax is an unlockable and playable character in the game ''[[Marvel Contest of Champions]]'', along with other Guardians of the Galaxy members like Gamora, Star-Lord and Rocket Raccoon.{{cn|date=December 2017}}
+* Drax is a playable character in the video game ''[[Disney Infinity 3.0]]''.{{cn|date=December 2017}}
+* Drax is a playable character in ''[[Marvel: Future Fight]]''.{{cn|date=December 2017}}
+* Drax appears in ''[[Guardians of the Galaxy: The Telltale Series]]'', voiced by [[Brandon Paull Eells]].{{cn|date=April 2017}} This version has a wife named Hovat and daughter named Kamaria, who were killed by Thanos.
+* Drax is a playable character in ''[[Lego Marvel Superheroes 2]]''.{{cn|date=December 2017}}
+* Drax is a playable character in ''[[Marvel Strike Force]]'', with Dave Bautista reprising his role.<ref>{{cite web|url=https://ew.com/gaming/2018/03/28/marvel-strike-force-game-trailer/|title=Drax hilariously takes center stage in new 'MARVEL Strike Force' trailer — exclusive|author=|date=|website=EW.com|accessdate=28 December 2018}}</ref>
+
+==References==
+{{Reflist|30em|refs=
+<ref name="IMv1no55">{{Cite comic| writer=[[Jim Starlin]] |cowriters=[[Mike Friedrich]] |penciller=Jim Starlin |inker=[[Mike Esposito (comics)|Mike Esposito]] |story=Beware the... Blood Brothers! |title=[[Iron Man]] |issue=55 |date=February 1973 |publisher=Marvel Comics}}</ref>
+
+<ref name="CaptMv1no27-31">{{Cite comic| writer=[[Mike Friedrich]] |cowriters=[[Jim Starlin]] |penciller=Jim Starlin |inker=[[Pablo Marcos]] |story=Trapped On Titan! |title=[[Captain Marvel (Mar-Vell)|Captain Marvel]] |issue=27 |date=July 1973 |publisher=Marvel Comics}}<br/>
+{{Cite comic| writer=Mike Friedrich |cowriters=Jim Starlin |penciller=Jim Starlin |inker=[[Dan Green (artist)|Dan Green]] |story=When Titans Collide! |title=Captain Marvel |issue=28 |date=September 1973 |publisher=Marvel Comics}}<br/>
+{{Cite comic| writer=Jim Starlin |penciller=Jim Starlin |inker=[[Al Milgrom]] |story=Metamorphosis! |title=Captain Marvel |issue=29 |date=November 1973 |publisher=Marvel Comics}}<br/>
+{{Cite comic| writer=Jim Starlin |penciller=Jim Starlin |inker=Al Milgrom |story=...To Be Free From Control! |title=Captain Marvel |issue=30 |date=January 1974 |publisher=Marvel Comics}}<br/>
+{{Cite comic| writer=Jim Starlin |penciller=Jim Starlin |inker=Dan Green, Al Milgrom |story=The Beginning of the End! |title=Captain Marvel |issue=31 |date=March 1974 |publisher=Marvel Comics}}</ref>
+
+<ref name="DDv1no107">{{Cite comic| writer=[[Steve Gerber]] |penciller=[[Bob Brown (comics)|Bob Brown]] |inker=[[Sal Buscema]] |story=Blind Man's Bluff! |title=[[Daredevil (Marvel Comics series)|Daredevil]] |issue=107 |date=January 1974 |publisher=Marvel Comics}}</ref>
+
+<ref name="CaptMv1no32">{{Cite comic| writer=[[Jim Starlin]] |cowriters=[[Mike Friedrich]] |penciller=Jim Starlin |inker=[[Dan Green (artist)|Dan Green]] |story=Thanos The Insane God! |title=[[Captain Marvel (Mar-Vell)|Captain Marvel]] |issue=32 |date=May 1974 |publisher=Marvel Comics}}</ref>
+
+<ref name="CaptMv1no33">{{Cite comic| writer=[[Jim Starlin]] |cowriters=[[Steve Englehart]] |penciller=Jim Starlin |inker=[[Klaus Janson]] |story=The God Himself |title=[[Captain Marvel (Mar-Vell)|Captain Marvel]] |issue=33 |date=July 1974 |publisher=Marvel Comics}}</ref>
+
+<ref name="CaptMv1no42-44">{{Cite comic| writer=[[Steve Englehart]] |penciller=[[Al Milgrom]] |inker=[[Mike Esposito (comics)|Mike Esposito]], [[Frank Giacoia]] |story=Shoot-Out At The O.K. Space Station! |title=[[Captain Marvel (Mar-Vell)|Captain Marvel]] |issue=42 |date=January 1976 |publisher=Marvel Comics}}<br/>
+{{Cite comic| writer=Steve Englehart |penciller=Al Milgrom |story=Destroy! Destroy! |title=Captain Marvel |issue=43 |date=March 1976 |publisher=Marvel Comics}}<br/>
+{{Cite comic| writer=Steve Englehart |penciller=Al Milgrom |story=Death Throws! |title=Captain Marvel |issue=44 |date=May 1976 |publisher=Marvel Comics}}</ref>
+
+<ref name="MTIO1977">{{Cite comic| writer=[[Jim Starlin]] |penciller=Jim Starlin |inker=[[Josef Rubinstein]] |story=Death Watch! |title=[[Marvel Two-in-One]] Annual |issue=2 |date=December 1977 |publisher=Marvel Comics}}</ref>
+
+<ref name="CaptMv1no58">{{Cite comic| writer=[[Doug Moench]] |penciller=[[Pat Broderick]] |inker=[[Bob McLeod (comics)|Bob McLeod]] |story=A Destroyer--Denied! |title=[[Captain Marvel (Mar-Vell)|Captain Marvel]] |issue=58 |date=September 1978 |publisher=Marvel Comics}}</ref>
+
+<ref name="CaptMv1no59-62">{{Cite comic| writer=[[Doug Moench]] |penciller=[[Pat Broderick]] |inker=Bruce D. Patterson |story=The Trouble with Titan... |title=[[Captain Marvel (Mar-Vell)|Captain Marvel]] |issue=59 |date=November 1978 |publisher=Marvel Comics}}<br/>
+{{Cite comic| writer=Doug Moench |penciller=Pat Broderick |inker=Bruce D. Patterson |story=Moon-Traps And Paradise |title=Captain Marvel |issue=60 |date=January 1979 |publisher=Marvel Comics}}<br/>
+{{Cite comic| writer=Doug Moench |penciller=Pat Broderick |inker=Bruce D. Patterson |story=Chaos And The Pit! |title=Captain Marvel |issue=61 |date=March 1979 |publisher=Marvel Comics}}<br/>
+{{Cite comic| writer=Doug Moench |penciller=Pat Broderick |inker=Bruce D. Patterson |story=Earth Skirmish |title=Captain Marvel |issue=62 |date=May 1979 |publisher=Marvel Comics}}</ref>
+
+<ref name="MarvelSLv2no1-2">{{Cite comic| writer=[[Doug Moench]] |penciller=[[Pat Broderick]] |inker=Bruce D. Patterson |story=The Saturn Storm! |title=[[Marvel Spotlight]] |volume=2 |issue=1 |date=July 1979 |publisher=Marvel Comics}}<br/>
+{{Cite comic| writer=Doug Moench |penciller=Pat Broderick |inker=Bruce D. Patterson |story=The Dark Corners! |title=Marvel Spotlight |volume=2 |issue=2 |date=September 1979 |publisher=Marvel Comics}}</ref>
+
+<ref name="Thor314">{{Cite comic| writer=[[Doug Moench]] |penciller=[[Keith Pollard]] |inker=[[Dan Green (artist)|Dan Green]], [[Pablo Marcos]] |story=Acts of Destruction |title=[[Thor (Marvel Comics)|Thor]] |issue=314 |date=December 1981 |publisher=Marvel Comics}}</ref>
+
+<ref name="Avengers219">{{Cite comic| writer=[[Jim Shooter]] |penciller=[[Bob Hall (comics)|Bob Hall]] |inker=[[Vince Colletta]], [[Dan Green (artist)|Dan Green]], [[Al Milgrom]] |story=... By Divine Right! |title=[[Avengers (comics)|The Avengers]] |issue=219 |date=May 1982 |publisher=Marvel Comics}}</ref>
+
+<ref name="Avengers220">{{Cite comic| writer=[[Jim Shooter]] |penciller=[[Bob Hall (comics)|Bob Hall]] |inker=[[Dan Green (artist)|Dan Green]] |story=War Against the Gods! |title=[[Avengers (comics)|The Avengers]] |issue=220 |date=June 1982 |publisher=Marvel Comics}}</ref>
+
+<ref name="SSv3no35">{{Cite comic| writer=[[Jim Starlin]] |penciller=[[Ron Lim]] |inker=Tom Christopher |story=The Name Is Thanos!! |title=[[Silver Surfer]] |volume=3 |issue=35 |date=March 1990 |publisher=Marvel Comics}}</ref>
+
+<ref name="InfinityGauntlet6">{{Cite comic| writer=[[Jim Starlin]] |penciller=[[Ron Lim]] |inker=[[Josef Rubinstein]] |story=The Final Confrontation |title=[[The Infinity Gauntlet]] |issue=6 |date=December 1991 |publisher=Marvel Comics}}</ref>
+
+<ref name="WarlockIWno2">{{Cite comic| writer=[[Jim Starlin]] |penciller=[[Angel Medina (artist)|Angel Medina]] |inker=[[Terry Austin (comics)|Terry Austin]] |story=Gathering the Watch! |title=[[Warlock and the Infinity Watch]] |issue=2 |date=March 1992 |publisher=Marvel Comics}}</ref>
+
+<ref name="RuneSurfer">{{Cite comic| writer=Dan Danko |cowriters=Chris Ulm |penciller=[[Henry Flint]] |inker=Mark McKenna |story=Into Infinity |title=[[Rune (comics)|Rune]]/[[Silver Surfer]] |issue=1 |date=April 1995 |publisher=[[Malibu Comics]]}}</ref>
+
+<ref name="WarlockIWno42">{{Cite comic| writer=[[John Arcudi]] |penciller=Mike Gustovich |inker=[[Keith Williams (comics)|Keith Williams]] |story=Win, Lose, Draw! |title=[[Warlock and the Infinity Watch]] |issue=42 |date=July 1995 |publisher=Marvel Comics}}</ref>
+
+<ref name="CPUno4">{{Cite comic| writer=Barry Dutter |penciller=[[Dave Hoover]] |story=Mind Body Soul |title=Cosmic Powers Unlimited |issue=4 |date=February 1996 |publisher=Marvel Comics}}</ref>
+
+<ref name="Warlockv3no1-4">{{Cite comic| writer=[[Tom Lyle]] |penciller=Tom Lyle |inker=Robert Jones |story=Resurrection |title=[[Adam Warlock|Warlock]] |volume=3 |issue=1 |date=November 1998 |publisher=Marvel Comics}}<br/>
+{{Cite comic| writer=Tom Lyle |penciller=Tom Lyle |inker=Robert Jones |story=Afterlife |title=Warlock |volume=3 |issue=2 |date=December 1998 |publisher=Marvel Comics}}<br/>
+{{Cite comic| writer=Tom Lyle |penciller=Tom Lyle |inker=Robert Jones |story=Countdown to Destruction |title=Warlock |volume=3 |issue=3 |date=January 1999 |publisher=Marvel Comics}}<br/>
+{{Cite comic| writer=Tom Lyle |penciller=Tom Lyle |inker=Robert Jones |story=Endgame |title=Warlock |volume=3 |issue=4 |date=February 1999 |publisher=Marvel Comics}}</ref>
+
+<ref name="CaptMv4no4">{{Cite comic| writer=[[Peter David]] |penciller=[[Ron Lim]] |inker=Mark McKenna, [[Mark Nelson (artist)|Mark Nelson]] |story=Other Side of the Drax |title=[[Genis-Vell|Captain Marvel]] |volume=4 |issue=4 |date=April 2000 |publisher=Marvel Comics}}</ref>
+
+<ref name="CaptMv4no6-8">{{Cite comic| writer=Peter David|penciller=[[ChrisCross]] |inker=Anibal Rodriguez |story=It's A Small Universe After All! |title=Captain Marvel|volume=4 |issue=6 |date=June 2000 |publisher=Marvel Comics}}<br/>
+{{Cite comic| writer=Peter David |penciller=ChrisCross |inker=Anibal Rodriguez |story=Night of the Comet, Man |title=Captain Marvel |volume=4 |issue=7 |date=July 2000 |publisher=Marvel Comics}}<br/>
+{{Cite comic| writer=Peter David |penciller=ChrisCross |inker=Anibal Rodriguez |story=Skrull & Crossbones |title=Captain Marvel |volume=4 |issue=8 |date=August 2000 |publisher=Marvel Comics}}</ref>
+
+<ref name="Draxmini1">{{Cite comic| writer=[[Keith Giffen]] |penciller=Mitch Breitweiser |story=Earthfall |title=Drax the Destroyer |issue=1 |date=November 2005 |publisher=Marvel Comics}}</ref>
+
+<ref name="Draxmini3">{{Cite comic| writer=[[Keith Giffen]] |penciller=Mitch Breitweiser |story=From the Ashes |title=Drax the Destroyer |issue=3 |date=January 2006 |publisher=Marvel Comics}}</ref>
+
+<ref name="Draxmini4">{{Cite comic| writer=[[Keith Giffen]] |penciller=Mitch Breitweiser |story=Hard Penance |title=Drax the Destroyer |issue=4 |date=February 2006 |publisher=Marvel Comics}}</ref>
+
+<ref name="AnnNova4">{{Cite comic| writer=[[Dan Abnett]] |cowriters=[[Andy Lanning]] |penciller=[[Kev Walker]] |inker=Rick Magyar |story=Ten Minutes and Counting |title=[[Annihilation (comics)|Annihilation]] - [[Nova (Richard Rider)|Nova]] |issue=4 |date=September 2006 |publisher=Marvel Comics}}</ref>
+
+<ref name="Annihilation1">{{Cite comic| writer=[[Keith Giffen]] |penciller=[[Andrea Di Vito]] |story=Blood and Thunder |title=[[Annihilation (comics)|Annihilation]] |issue=1 |date=October 2006 |publisher=Marvel Comics}}</ref>
+
+<ref name="Annihilation3">{{Cite comic| writer=[[Keith Giffen]] |penciller=[[Andrea Di Vito]] |story=Desperate Measures |title=[[Annihilation (comics)|Annihilation]] |issue=3 |date=December 2006 |publisher=Marvel Comics}}</ref>
+
+<ref name="Annihilation4">{{Cite comic| writer=[[Keith Giffen]] |penciller=[[Andrea Di Vito]] |story=Revelation |title=[[Annihilation (comics)|Annihilation]] |issue=4 |date=January 2007 |publisher=Marvel Comics}}</ref>
+
+<ref name="Annihilation5">{{Cite comic| writer=[[Keith Giffen]] |penciller=[[Andrea Di Vito]] |story=Ascension |title=[[Annihilation (comics)|Annihilation]] |issue=5 |date=January 2007 |publisher=Marvel Comics}}</ref>
+
+<ref name="Annihilation6">{{Cite comic| writer=[[Keith Giffen]] |penciller=[[Andrea Di Vito]] |story=Finale |title=[[Annihilation (comics)|Annihilation]] |issue=6 |date=March 2007 |publisher=Marvel Comics}}</ref>
+
+<ref name="Novav4no7">{{Cite comic| writer=[[Dan Abnett]] |cowriters=[[Andy Lanning]] |penciller=Sean Chan, Brian Denham |inker=Scott Hanna |story=Out |title=[[Nova (Richard Rider)|Nova]] |volume=4 |issue=7 |date=December 2007 |publisher=Marvel Comics}}</ref>
+
+<ref name="AnnihilationC6">{{Cite comic| writer=[[Dan Abnett]] |cowriters=[[Andy Lanning]] |penciller=[[Tom Raney]], Wellinton Alves |inker=Scott Hanna |story=Last Stand |title=[[Annihilation: Conquest]] |issue=6 |date=June 2008 |publisher=Marvel Comics}}</ref>
+
+<ref name="GotGv2no1">{{Cite comic| writer=[[Dan Abnett]] |cowriters=[[Andy Lanning]] |penciller=[[Paul Pelletier]] |inker=Rick Magyar |story=Somebody's Got To Do It |title=[[Guardians of the Galaxy (2008 team)|Guardians of the Galaxy]] |volume=2 |issue=1 |date=July 2008 |publisher=Marvel Comics}}</ref>
+
+<ref name="ThanosImp1">{{Cite comic| writer=[[Dan Abnett]] |cowriters=[[Andy Lanning]] |penciller=Miguel Sepulveda |story=The Thanos Imperative (Part 1 of 6) |title=[[The Thanos Imperative]] |issue=1 |date=August 2010 |publisher=Marvel Comics}}</ref>
+
+<ref name="ThanosImp3">{{Cite comic| writer=[[Dan Abnett]] |cowriters=[[Andy Lanning]] |penciller=Miguel Sepulveda |story=The Thanos Imperative (Part 3 of 6) |title=[[The Thanos Imperative]] |issue=3 |date=October 2010 |publisher=Marvel Comics}}</ref>
+
+<ref name="AAv2no4">{{Cite comic| writer=[[Brian Michael Bendis]] |penciller=[[Mark Bagley]] |inker=Danny Miki |story=Zodiac, Part Four |title=[[Avengers Assemble (comics)|Avengers Assemble]] |volume=2 |issue=4 |date=August 2012 |publisher=Marvel Comics}}</ref>
+
+<ref name="AAv2no5">{{Cite comic| writer=[[Brian Michael Bendis]] |penciller=[[Mark Bagley]] |inker=Danny Miki |story= |title=[[Avengers Assemble (comics)|Avengers Assemble]] |volume=2 |issue=5 |date=September 2012 |publisher=Marvel Comics}}</ref>
+
+<ref name="GotGBautista">{{cite web |url=http://www.hollywoodreporter.com/heat-vision/marvel-signs-wwes-dave-bautista-428724 |title=Marvel Signs WWE's Dave Bautista for 'Guardians of the Galaxy' (Exclusive) |first=Borys |last=Kit |work=[[The Hollywood Reporter]] |date=March 14, 2013 |accessdate=March 14, 2013 |archiveurl=https://www.webcitation.org/6F7h5oLk3?url=http://www.hollywoodreporter.com/heat-vision/marvel-signs-wwes-dave-bautista-428724 |archivedate=March 14, 2013 |deadurl=no |df= }}</ref>
+}}
+
+==External links==
+* [http://marvel.com/universe/Drax Drax] at the Marvel Universe
+* [http://www.marveldatabase.com/Drax_the_Destroyer Drax] at the Marvel Database Project
+* {{comicbookdb|type=character|id=635|title=Drax the Destroyer}}
+{{Jim Starlin}}
+{{Thanos}}
+{{Guardians of the Galaxy}}
+{{Silver Surfer}}
+{{Marvel Cosmic}}
+
+{{DEFAULTSORT:Drax The Destroyer}}
+[[Category:Characters created by Jim Starlin]]
+[[Category:Characters created by Mike Friedrich]]
+[[Category:Comics characters introduced in 1973]]
+[[Category:Fictional characters from Los Angeles County]]
+[[Category:Guardians of the Galaxy characters]]
+[[Category:Marvel Comics characters who can move at superhuman speeds]]
+[[Category:Marvel Comics characters with superhuman strength]]
+[[Category:Marvel Comics superheroes]]
+[[Category:Superhero film characters]]

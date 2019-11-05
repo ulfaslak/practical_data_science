@@ -1,0 +1,44 @@
+<!-- Please do not remove or change this AfD message until the discussion has been closed. -->
+{{Article for deletion/dated|page=Ani-Mator|timestamp=20190131170323|year=2019|month=January|day=31|substed=yes|help=off}}
+<!-- Once discussion is closed, please place on talk page: {{Old AfD multi|page=Ani-Mator|date=31 January 2019|result='''keep'''}} -->
+<!-- End of AfD message, feel free to edit beyond this point -->
+{{Infobox comics character| <!--Wikipedia:WikiProject Comics-->
+image=[[Image:AniMator.png]]
+|caption=
+|character_name=Ani-Mator
+|real_name=Dr. Frederick Animus
+|species=[[human]]
+|publisher=[[Marvel Comics]]
+|debut=''[[New Mutants]]'' vol. 1 #59 (Jan 1988)
+|creators=[[Louise Simonson]] and [[Bret Blevins]]
+|alliances=Creatures of Paradise<br/>[[The Right (comics)|The Right]]
+|aliases=
+|powers=None
+}}The '''Ani-Mator''' ('''Dr. Frederick Animus''') is a [[fictional character]] appearing in [[American comic book]]s published by [[Marvel Comics]].
+
+==Publication history==
+The Ani-Mator appeared in ''[[New Mutants]]'' vol. 1 #59-60 (January-February 1988), and was created by [[Louise Simonson]] and [[Bret Blevins]].
+
+The Ani-Mator received an entry in the ''[[Official Handbook of the Marvel Universe|Official Handbook of the Marvel Universe Update '89]]'' #1.
+
+==Fictional character biography==
+Dr. Frederick Animus was a geneticist employed by a university conducting medical research.  Instead, he concentrated on research of mutation.  When he falsified reports on the effectiveness of medication, several people died.  The university investigated him, fired him, and he was sent to jail for his negligence. It was there he met Cameron Hodge.<ref name="NewMut60">''New Mutants'' vol. 1 #60</ref>
+
+Taking the name Ani-Mator, he was employed as a geneticist by [[Cameron Hodge]]'s organization The Right to research a means of stopping the process that creates [[Mutant (Marvel Comics)|mutants]].  When the Right set him up on a deserted island in the North Atlantic, which he called Paradise, Dr. Animus instead created a race of "Ani-Mates" through gene slicing and selective breeding, which combined the characteristics of human beings and other animals, intending for them to be a slave race for humanity.<ref name="NewMut60"></ref>
+
+One of the Ani-Mates, [[Bird-Brain (Marvel Comics)|Bird-Brain]], escaped the Paradise island and ultimately befriends the [[New Mutants]]. The New Mutants returned to the island with Bird-Brain to stop the mad scientist's experiments.<ref>''New Mutants'' vol. 1 #59</ref> They succeeded in defeating Animus' creations, but right afterwards they were captured by Hodge and agents of [[The Right (comics)|The Right]], who had become suspicious of the doctor's activities. Bird-Brain subsequently rallied the surviving Ani-Mates to help rescue his human friends.<ref name="NewMut60"></ref>
+
+During the fight with the Right troopers, Animus broke free and procured a gun. He attempted to shoot and kill [[Wolfsbane (comics)|Wolfsbane]], whom - due to her shape-shifting power - he considered too valuable a specimen to be captured by the Right. But as he fired, he instead hit and killed [[Cypher (comics)|Cypher]], who had pushed Rahne out of the way. In retaliation, [[Magik (comics)|Magik]] threatened to shoot Ani-Mator with his own gun until being talked down by Wolfsbane, and instead exiled him to the dimension of [[Otherplace|Limbo]].<ref name="NewMut61">''New Mutants'' vol. 1 #61</ref> There he was captured by [[S'ym]], transferred into a demon of [[List of alien races in Marvel Comics#Technarchy|living circuitry]], and forced to serve in S'yms army. Bird-Brain stayed on the island to help his animal friends.<ref name="NewMut61"></ref>
+
+==References==
+{{Portal|Superhero fiction|Fictional characters|1980s}}
+{{Reflist}}
+
+==External links==
+*[http://en.marveldatabase.com/Ani-Mator_%28Earth-616%29 Marvel Database entry]
+*[http://cmro.travis-starnes.com/character_history.php?character=2274 Complete Marvel Reading Order entry]
+
+[[Category:Characters created by Louise Simonson]]
+[[Category:Comics characters introduced in 1988]]
+[[Category:Fictional scientists]]
+[[Category:Marvel Comics supervillains]]

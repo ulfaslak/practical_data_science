@@ -1,0 +1,51 @@
+{{For|the DC Comics character|Mad Dog (DC Comics)}}
+
+{{in-universe|date=January 2009}}
+
+{{Infobox comics character| <!--Wikipedia:WikiProject Comics-->
+image=[[File:Mad dog - solo avengers 9.jpg|250px]]
+|caption=Mad-Dog from a panel in ''Solo Avengers'' #9
+|character_name=Mad-Dog
+|real_name=Robert "Buzz" Baxter
+|publisher=[[Marvel Comics]]
+|debut= ''[[Miss America (Madeline Joyce)|Miss America Comics]]'' #2 (Nov 1944)<ref>[https://web.archive.org/web/20091026214350/http://www.geocities.com/Athens/Olympus/7160/Timely6.htm  The Timely Comics Web Page, The War Years Part 2<!-- Bot generated title -->]</ref><br>(modern, as Buzz Baxter) ''[[Amazing Adventures]]'' #13 (Jul 1972)<br>(as Mad-Dog) ''[[Defenders (comics)|Defenders]]'' vol. #125 (Nov 1983)
+|creators=[[Steve Englehart]] (writer)<br>[[Tom Sutton]] (artist)
+|alliances=[[Roxxon Oil]]<br/>[[Secret Empire (organization)|Secret Empire]]<br/>[[Mutant Force]]<br/>[[United States Air Force]]
+|aliases=
+|powers=enhanced senses and physical abilities, secretes neurotoxin in saliva
+}}
+
+'''Mad-Dog''' ('''Robert "Buzz" Baxter''') is a [[fictional character]] appearing in [[American comic book]]s published by [[Marvel Comics]].
+
+==Publication history==
+{{Expand section|date=October 2009}}
+The character's first appearance is in ''Miss America Comics'' #2 (1944). His first appearance as Buzz Baxter in modern comics was in ''Amazing Adventures'' #13 (Jul 1972), and his first appearance as Mad-Dog was in ''Defenders'' vol. 1 #125.
+
+==Fictional character biography==
+Robert "Buzz" Baxter was born in Centerville, California. He and Patsy Walker were high school sweethearts, and got married shortly after graduation. After high school, he joined the [[United States Air Force|USAF]], serving in the [[Vietnam War]], eventually earning the rank of [[colonel]].<ref>''Avengers'' #144</ref> He later became the security consultant to the [[Roxxon Energy Corporation|Brand Corporation]]. He began an investigation of the [[Beast (comics)|Beast]]'s appearances at the Brand Corporation.<ref>''Amazing Adventures'' vol. 2 #13</ref> While he was working for Brand, he and Patsy grew distant and got divorced. Baxter had the [[Squadron Supreme]] capture the [[Avengers (comics)|Avengers]], and held them prisoner at a Brand facility. Baxter confronted his ex-wife Patsy, and was forced by Hellcat to release the Avengers from Brand captivity.<ref>''Avengers'' #141–142, 149</ref>
+
+Baxter later allowed [[Roxxon Energy Corporation|Roxxon]], the company to which Brand was a subsidiary, to experiment on him and mutate him. As '''Mad-Dog''', he became a [[mercenary]], and directed [[Resistants|Mutant Force]]. He invaded the wedding of [[Daimon Hellstrom]] and Patsy Walker to abduct Patsy and the [[Defenders (comics)|Defenders]]. He was defeated by Daimon Hellstrom, and placed in [[S.H.I.E.L.D.]] custody along with Mutant Force. However, he escaped with Mutant Force.<ref>''Defenders'' #125–126</ref> He became an agent of the third [[Secret Empire (organization)|Secret Empire]]. As security chief, he aided the Secret Empire and its leader, [[Professor Power]], in an attempt to start World War III. Together with Mutant Force, he battled and was defeated by the Defenders.<ref>''Defenders'' #129–130</ref>
+
+Much later, Mad-Dog abducted and intended to kill Hellcat, but was defeated by her.<ref>''Solo Avengers'' #9</ref> He joined [[Crossfire (comics)|Crossfire]] and other costumed criminals in an attack on [[Hawkeye (comics)|Hawkeye]].<ref>''Avengers Spotlight'' #22–25</ref> He also unsuccessfully attacked the [[Fantastic Four]] during the "[[Acts of Vengeance]]."<ref>''Fantastic Four'' #335</ref>
+
+In [[Toronto]], Baxter was caught up in the violent influence of the release of the Sk'ar. He fought [[Gamma Flight]], but was teleported away by [[Manikin (comics)|Manikin]]'s future self.<ref>''Alpha Fight'' #111</ref> [[Roxxon]] hired him and [[Angar the Screamer|Angar]] to lead a group of operatives in a twofold mission: infiltrate and destroy [[S.H.I.E.L.D.]]. The villains stormed the S.H.I.E.L.D. [[Helicarrier]], but the new Super-Agents of S.H.I.E.L.D. eventually defeated Baxter and other villains.<ref>''Nick Fury: Agent of SHIELD'' #32–35</ref> He fought [[Crossbones (comics)|Crossbones]], as the first of five competitors at a super-villain convention on Boca Caliente and was quickly defeated.<ref>''Captain America'' #411</ref>  He was later present when [[Captain America]], [[Diamondback (Rachel Leighton)|Diamondback]], [[Falcon (comics)|Falcon]] and [[Shang-Chi]] battled numerous villains on the island.<ref>''Captain America'' #412–414</ref> He next worked with [[Taskmaster (comics)|Taskmaster]], when was sent to test the skills of Siren, an [[Ultraverse]] resident on [[Earth-616]].<ref>''Siren Infinity'' #1</ref>
+
+==Powers and abilities==
+Mad-Dog gained superhuman powers as a result of bionic engineering and cellular augmentation by the Roxxon Mutagenic Department and by the third [[Secret Empire (organization)|Secret Empire]]. Baxter was given superhuman strength and endurance, and superhumanly acute animal-like senses, particularly hearing and smell.  He also possesses bionically strengthened jaw muscles, and has been given large hollow, fang-like canine teeth. His teeth can emit a foaming chemical poison, to which he himself is immune, which can induce paralysis and possibly death if it enters a victim's bloodstream through Mad-Dog's bite.  However, the process which gave Mad Dog his powers also gave him insanity which clouds his judgment and behavior.
+
+He now possesses a large animalistic appearance, with pointed ears, claws on both his hands and feet, and a coat of fur on his limbs and torso.{{issue|date=September 2016}}
+
+Robert Baxter has received combat training from the U.S. Air Force.
+
+==References==
+{{reflist}}
+
+==External links==
+* {{Marvunapp|http://www.marvunapp.com/Appendix3/maddogbaxter.htm|Mad-Dog}}
+
+[[Category:Comics characters introduced in 1944]]
+[[Category:Fictional characters from California]]
+[[Category:Marvel Comics characters who can move at superhuman speeds]]
+[[Category:Marvel Comics characters with superhuman strength]]
+[[Category:Marvel Comics supervillains]]
+[[Category:Timely Comics characters]]

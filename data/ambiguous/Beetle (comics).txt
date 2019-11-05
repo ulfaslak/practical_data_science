@@ -1,0 +1,212 @@
+{{Infobox comics set index  <!--Wikipedia:WikiProject Comics-->
+|code_name  = Beetle
+|image      = Spider-Man Web of Doom 3.jpg
+|imagesize  = 
+|caption    = ''[[Spider-Man|Spider-Man: Web of Doom]]'' #3 featuring [[Abner Jenkins]]'s second Beetle armor and the version most associated with the name.<br/>Art by [[Shawn McManus]].
+|publisher  = [[Marvel Comics]]
+|debut      = '''[[Abner Jenkins]]''':<br>''[[Strange Tales]]'' #123 (August 1964)<br>'''[[Leila Davis]]''':<br>''[[Thunderbolts (comics)|Thunderbolts]]'' #48 (March 2001)<br>'''Three Beetles''':<br>''Thunderbolts'' #103 (August 2006)<br>'''Ultimate Marvel''':<br>''[[Ultimate Spider-Man]]'' #124 (September 2008) <br>'''[[Janice Lincoln]]''':<br>''[[Captain America (comic book)|Captain America]]'' #607 (August 2010)<br>'''Hobgoblin's Beetle''':<br>''[[The Amazing Spider-Man]]'' #6 (November 2014)
+|creators   = '''[[Abner Jenkins]]''':<br>[[Stan Lee]] (writer)<br>[[Carl Burgos]] (artist)<br>'''[[Leila Davis]]''':<br>[[Danny Fingeroth]]<br>Al Pilgrim<br>'''Three Beetles''':<br>[[Fabian Nicieza]]<br>[[Tom Grummett]]<br>'''Ultimate Marvel''':<br>[[Brian Michael Bendis]] (writer)<br>[[Stuart Immonen]] (artist)<br>'''[[Janice Lincoln]]''':<br>[[Ed Brubaker]]<br>Jackson Butch Guice<br>'''Hobgoblin's Beetle''':<br>[[Dan Slott]]
+|characters = [[Abner Jenkins]]<br />[[Leila Davis]]<br />[[Janice Lincoln]]
+|seealso    = 
+|cat        = super
+|subcat     = Marvel Comics
+|hero       = y
+|villain    = y
+|sortkey    = Beetle
+}}
+The '''Beetle''' is the name used by multiple fictional [[character (arts)|characters]] appearing in [[American comic book]]s published by [[Marvel Comics]]. It is also the name of the three versions of high tech armor used by seven separate characters.
+
+==Publication history==
+
+The Beetle debuted in the "Human Torch" segment of ''[[Strange Tales]]'' #123 (August 1964) with the original incarnation [[Abner Jenkins]] using the first armor. This version was beaten by the [[Thing (comics)|Thing]] and [[Human Torch]]. This version would be used until the character switched to the second armor in ''Peter Parker, the Spectacular Spider-Man'' #59 (October 1981) (which is most associated with the name) and would be in use until ''[[Thunderbolts (comics)|Thunderbolts]]'' #1 (April 1997) when Jenkins's alter ego was changed to MACH-1. A new version debuted in ''Thunderbolts'' #35 (February 2000). This version resembled a walking tank and would be used by Jenkins and the second incarnation [[Leila Davis]]. This version was crushed by [[Graviton (comics)|Graviton]], killing Davis who was still inside at the time. After Davis's death, the Beetle armor would go unused until ''Thunderbolts'' #103 (August 2006) when all three versions were stolen and used by three college students. The individual names of these characters were not revealed in this initial appearance.
+
+==Fictional character biography==
+
+===Abner Jenkins===
+[[File:Strange Tales 123.jpg|200px|left|thumb|Cover to ''[[Strange Tales]]'' #123 which showed [[Abner Jenkins]]'s original Beetle armor (in the left). Art by [[Jack Kirby]].]]
+{{main|Abner Jenkins}}
+
+An ex-master [[mechanic]], Abner Jenkins left his career to pursue life as an adventurer seeking wealth and fame under the Beetle name. A defeat at the [[Fantastic Four]]'s hands sent Beetle into the direction of a life of crime where he was even a member of the [[Masters of Evil]]. Years later, Jenkins joined the [[Thunderbolts (comics)|Thunderbolts]], a choice that eventually took him on a more heroic pathway in life.
+{{-}} 
+
+===Leila Davis===
+[[Image:Thunderbolts35.jpg|200px|thumb|left|[[Leila Davis]]'s Beetle armor on the cover of ''Thunderbolts'' #35. Art by [[Mark Bagley]].]]
+{{main|Leila Davis}}
+
+The widow of minor [[supervillain]] [[Ringer (comics)|Ringer]], Leila Davis began her criminal career as a driver for the super villain [[Sinister Syndicate]] team. After Ringer's death, Leila would go on to have her own costumed career, first as Hardshell and finally as the Beetle. She was killed when [[Graviton (comics)|Graviton]] crushed the Beetle armor with her still inside.
+{{-}}
+
+===The three Beetles===
+Three college students stole the previous incarnations of the Beetle armor during Marvel's [[Civil War (comics)|Civil War event]].<ref>{{Cite comic
+| writer = [[Fabian Nicieza]]
+| penciller = [[Tom Grummett]]
+| inker = [[Gary Erskine]]
+| story = Taking Civil Liberties
+| title = [[Thunderbolts (comics)|Thunderbolts]]
+| volume = 
+| issue = 103
+| date = August 2006
+| publisher = [[Marvel Comics]]
+| location = 
+| page = 
+| panel = 
+| id =
+}}</ref> The individual piloting the first version was called Joaquim and the person in the second version was revealed to be female. No other information was revealed about them in their subsequent appearances in ''Thunderbolts''.<ref>These appearances were in:
+*{{Cite comic
+| writer = Fabian Nicieza
+| penciller = Tom Grummett
+| inker = Gary Erskine
+| story = Taking Civil Liberties
+| title = Thunderbolts
+| volume = 
+| issue = 104
+| date = September 2006
+| publisher = 
+| location = 
+| page = 
+| panel = 
+| id =
+}}
+*{{Cite comic
+| writer = Fabian Nicieza
+| penciller = Tom Grummett
+| inker = Gary Erskine
+| story = Power Full
+| title = Thunderbolts
+| volume = 
+| issue = 107
+| date = December 2006
+| publisher = 
+| location = 
+| page = 
+| panel = 
+| id =
+}}
+*{{Cite comic
+| writer = Fabian Nicieza
+| penciller = Tom Grummett
+| inker = Gary Erskine
+| story = Power Full
+| title = Thunderbolts
+| volume = 
+| issue = 108
+| date = January 2007
+| publisher = 
+| location = 
+| page = 
+| panel = 
+| id =
+}}</ref>
+
+In those issues which made up a storyline named the "Guardian Protocols", they defend the city of Dallas against a plot by the [[Grandmaster (Marvel Comics)|Grandmaster]] as members of an enlarged Thunderbolts team recruited by Baron Zemo and consisting of numerous [[supervillain]]s.{{issue|date=January 2013}} When the [[Overmind (comics)|Overmind]] lets the full power of the Wellspring (the source of power the Grandmaster is using) loose when he attempts to revive Baron Zemo, the defenders of Sydney and Dallas are overrun, with the three Beetles presumably among them.{{issue|date=January 2013}}
+
+In 2007, the three Beetles were identified among the 142 registered superheroes who appear on the cover of the comic book ''[[Avengers: The Initiative]]'' #1.<ref>{{cite web|url=http://www.marvel.com/news/comicstories.947 |archive-url=https://archive.is/20120526061017/http://www.marvel.com/news/comicstories.947 |dead-url=yes |archive-date=2012-05-26 |title='&#39;Avengers: The Initiative'&#39; #1 Character Map |publisher=Marvel.com |date= |accessdate=2010-09-13 }}</ref>
+
+''The Official Handbook of the Marvel Universe A-Z Update'' #5 revealed that the three college students that wear the three Beetle armors are named '''Joaquim Robichaux''', '''Elizabeth Vaughn''' and '''Gary Quinn'''.<ref>''The Official Handbook of the Marvel Universe A-Z Update #5</ref>
+
+===Janice Lincoln===
+{{main|Janice Lincoln}}
+
+[[Image:Janice Lincoln.png|200px|left|thumb|[[Janice Lincoln]]'s Beetle armor.]]
+A new female Beetle attacks [[Bucky Barnes|Captain America]] and [[Black Widow (Natalia Romanova)|Black Widow]].<ref>{{Cite comic
+| writer = [[Ed Brubaker]]
+| penciller = [[Mitch Breitweiser]]
+| inker = Mitch Breitweiser
+| coinker = [[Butch Guice]]
+| story = No Escape Part 2
+| title = [[Captain America]]
+| volume = 6
+| issue = 607
+| date = August 2010
+| publisher = Marvel Comics
+| location = 
+| page = 
+| panel = 
+| id =
+}}</ref> The two managed to defeat her and remand her to The Raft.<ref>{{Cite comic
+| writer = Ed Brubaker
+| penciller = Butch Guice
+| inker = [[Rick Magyar]]
+| coinker = [[Mark Pennington]]
+| story = No Escape Part 3
+| title = Captain America
+| volume = 6
+| issue = 606
+| date = September 2010
+| publisher = 
+| location = 
+| page = 
+| panel = 
+| id =
+}}</ref> As part of the ''[[Marvel NOW!]]'' event, Beetle returns as a member of the latest incarnation of the [[Sinister Six]]. In this appearance, her first name is revealed to be Janice,<ref>''[[The Superior Spider-Man]]'' #1</ref> and is later revealed to be the daughter of [[Tombstone (comics)|Tombstone]].<ref>''Superior Foes of Spider-Man'' #6</ref>
+
+Beetle features as one of the main characters in ''[[Superior Foes of Spider-Man]]''. Janice's origin is later recounted, where it is shown that as a child, she idolized her father and his criminal activities, but was forbidden to take part in them. After building a successful career as a defense attorney, she was appointed to defend Baron Zemo, at which point she volunteered to work for him as the new Beetle. Janice's armor is also revealed to have been built by the [[Fixer (comics)|Fixer]].<ref>''Superior Foes of Spider-Man'' #7</ref>
+{{-}}
+
+===Hobgoblin's Beetle===
+[[Roderick Kingsley]] had sold one of Abner Jenkins's old Beetle armors and gear to an unnamed criminal. He was seen at the Bar With No Name attending the wake of [[Electro (Marvel Comics)|Electro]]'s servant Francine Frye. Beetle was later seen at the Bar With No Name among the patrons who want the [[Black Cat (Marvel Comics)|Black Cat]] to be the Queen of the Criminal Underworld.<ref>''Amazing Spider-Man'' Vol. 3 #6</ref> The Hobgoblin later regained the services of Beetle.<ref>''Spider-Woman'' Vol 6 #13</ref>
+
+==Other versions==
+
+===Marvel UK===
+The Beetle name was used by an armored [[S.T.R.I.K.E.]] [[Superhuman Restraint Unit|superhuman restraint squad]] in the ''[[Jaspers' Warp]]'' story arc<ref>{{Comic book reference | Writer = [[Alan Moore]] | Artist = [[Alan Davis]] | Story = Among Those Dark Satanic Mills (or Madwar) | Title = [[The Mighty World Of Marvel]] | Issue = 9 | date=  February 1984 | Publisher = [[Marvel UK]] | }}</ref> published by the [[Marvel UK]] [[imprint (trade name)|imprint]].
+
+===Ultimate Marvel===
+The [[Ultimate Marvel]] version of Beetle is a mysterious mercenary from [[Latveria]] with a completely revamped armor.<ref>''Ultimate Spider-Man'' #124</ref> [[Spider-Man (Ultimate Marvel character)|Spider-Man]] first finds Beetle robbing a sample of the [[Venom (Marvel Comics character)|Venom]] [[Symbiote (comics)|symbiote]] from [[Roxxon Energy Corporation|Roxxon]]. Beetle later breaks into [[Bolivar Trask]]'s lab where [[Eddie Brock]] is held, leading to Venom chasing after Beetle. Just as Beetle is cornered, Venom is stopped by Spider-Man. When the Venom symbiote leaves Brock and attaches to Spider-Man, Beetle escapes in the confusion. Disguised as a civilian which Brock least expected, Beetle later captures Venom to deliver to Latveria.<ref>{{Cite comic
+| writer = [[Brian Michael Bendis]]
+| penciller = [[Stuart Immonen]]
+| inker = [[Wade Von Grawbadger]]
+| story = 
+| title = Ultimate Spider-Man
+| volume = 1
+| issue = 128
+| date = January 2009
+| publisher = Marvel Comics
+| location = 
+| page = 
+| panel = 
+| id =
+}}</ref> Beetle's suit is later seen being repaired by the [[Tinkerer]] (Elijah Stern) when a [[Sinister Six|group of villains]] arrives for weapons against Spider-Man.<ref>''Ultimate Spider-Man'' #158</ref>
+
+==In other media==
+
+===Television===
+* The Abner Jenkins version of Beetle appeared in the 1980s Saturday morning animated series ''[[Spider-Man and His Amazing Friends]]'', voiced by [[Christopher Collins]].{{cn|date=October 2018}} 
+* The Abner Jenkins version of Beetle made a brief appearance in the ''[[Iron Man (TV series)|Iron Man]]'' animated series, voiced by [[John Reilly (actor)|John Reilly]] with a [[Liverpool|Liverpudlian]] accent that evokes the [[Beatles|similarly named band]].{{cn|date=October 2018}}
+* The Ultimate Marvel incarnation of Beetle appears in the ''[[Ultimate Spider-Man (TV series)|Ultimate Spider-Man]]'' cartoon series, voiced by [[Steven Blum]].<ref name="Beetle Mania">{{cite episode|title=Beetle Mania|series=Ultimate Spider-Man|network=Disney XD|season=1|number=16|airdate=July 29, 2012}}</ref> This version is depicted as a highly capable criminal mercenary that rarely says anything and his notable trademark is the unusually large amount of fold-out rocket launchers hidden all over his armor's surface. In the episode "Beetle Mania", he targets the [[Daily Bugle|Daily Bugle Communications]] for [[J. Jonah Jameson]]'s campaign that exposes the mercenary's criminal dealings with various supervillains, such as helping [[MODOK]] out of prison and deals with [[Doctor Doom]]. When he fights the S.H.I.E.L.D. trainees, Beetle's assassination attempt is stopped by [[Spider-Man]] and he is knocked out by [[Luke Cage|Power Man]]; Jameson's monitor renderings were there whereas [[Mary Jane Watson]] is actually there physically. In the episode "The Attack of the Beetle", Beetle is shown having a penchant for holding grudges against Spider-Man for their previous encounter as well as [[Phil Coulson]] for being 'sparring partners'. During his first fight with the two, Beetle decides to use [[Aunt May|May Parker]] as a hostage. While May manages to escape, Beetle is eventually beaten by Spider-Man and Coulson (with help from May). In the episode "Hawkeye", Beetle went to destroy the new S.H.I.E.L.D. [[Helicarrier|Tri-Carrier]] but is defeated and captured by Spider-Man and [[Hawkeye (comics)|Hawkeye]]. In the episode "The Sinister Six", Beetle appeared as a member of the [[Sinister Six]] alongside [[Doctor Octopus]], [[Electro (Marvel Comics)|Electro]], the [[Rhino (comics)|Rhino]], [[Kraven the Hunter]] and the [[Lizard (comics)|Lizard]]. Along with the group, he fought Spider-Man. When the trainees arrive, Beetle fights with [[Nova (Sam Alexander)|Nova]] but is defeated by [[Iron Fist (comics)|Iron Fist]] after Spider-Man's teammates switch opponents and is later detained in [[S.H.I.E.L.D.]] custody. In the episode "Agent Venom", Beetle is hired by [[Taskmaster (comics)|Taskmaster]] to obtain a sample of the [[Venom (Marvel Comics character)|Venom]] symbiote. He chases after [[Flash Thompson]], ignoring [[Harry Osborn]] and Mary Jane in the process. Beetle subsequently had to fight with Spider-Man and then Agent Venom. While Spider-Man deals with Taskmaster, Beetle is eventually defeated by Agent Venom. In the episode "New Warriors", Beetle is among the escaped supervillains along with Doctor Octopus, the [[Scorpion (Marvel Comics)|Scorpion]] and the Green Goblin during a showdown between Taskmaster's [[Thunderbolts (comics)|team]] and the [[New Warriors]]. Along with his fellow supervillains, Beetle is eventually defeated by the New Warriors. In the episode "Contest of Champions" Pt. 1, Beetle - alongside the [[Abomination (comics)|Abomination]] and the [[Executioner (comics)|Executioner]] - are sent by the [[Grandmaster (Marvel Comics)|Grandmaster]] to obtain Spider-Man for the contest against the [[Collector (comics)|Collector]]. In the episode "Anti-Venom", Beetle attempts to steal a truck only to be attacked by Spider-Man and Agent Venom in order to defeat Sinister Six's possible recruits. However, [[Hydra (comics)|Hydra]] had previously upgraded Beetle's armor, allowing him to fight off the duo until the Patrioteer hacks Beetle's armor and sends Beetle crashing into the pavement.
+* The Abner Jenkins version of Beetle appears in the ''[[Spider-Man (2017 TV series)|Spider-Man]]'' animated series, voiced by [[Fred Tatasciore]].<ref>{{cite episode|title=Dead Man's Party|series=Spider-Man|network=Disney XD|season=2|number=31|airdate=July 16, 2018}}</ref>
+
+===Video games===
+[[File:Ultimate Beetle.jpg|thumb|200px|right|Beetle in the ''[[Ultimate Spider-Man (video game)|Ultimate Spider-Man]]'' video game.]]
+* The Abner Jenkins version of Beetle appears in both the [[Super Nintendo Entertainment System|Super NES]] and [[Sega Genesis|Genesis]] ''[[Spider-Man Animated Series (video game)|Spider-Man Animated Series]]'' games based on the animated series.
+* The Abner Jenkins version of Beetle was the first boss in the 1995 Super Famicom game ''[[Spider-Man: Lethal Foes]]'', a game only released in Japan.
+* The Abner Jenkins version of Beetle played a minor role in the [[PlayStation]] game ''[[Spider-Man 2: Enter Electro]]'', voiced by [[Daran Norris]].
+* The Ultimate Marvel incarnation of Beetle appears in the ''[[Ultimate Spider-Man (video game)|Ultimate Spider-Man]]'' video game, voiced by [[Tucker Smallwood]]. This version acts as the [[Latveria]]ns' agent, collecting genetic information from superhumans to genetically engineer super-soldiers. His notable actions are stealing [[Sandman (Marvel Comics)|Sandman]]'s vial of sand, freeing the [[Ultimate Green Goblin|Green Goblin]], and battling [[Spider-Man (Ultimate Marvel character)|Spider-Man]] shortly afterwards but escaped by ducking into the nearby Latverian Embassy. Concept art in the game's special edition shows Beetle giving Sandman's vial to Doctor Doom. Beetle is later sent to capture the Venom symbiote but [[Eddie Brock|Venom]] eventually chases and defeats Beetle.
+* The Ultimate Marvel version of Beetle appears in ''[[Lego Marvel Super Heroes]]'', voiced again by Steven Blum.
+
+===Toys===
+* In 1997, the Abner Jenkins version of Beetle received an action figure in the ''[[Spider-Man: The Animated Series]]'' line, despite not appearing on the show.
+* In 2005, the Leila Davis version of Beetle received an action figure in the "[[Spider-Man Classics]]" line, series 14.
+* In 2013, the Ultimate version of Beetle received a figure in the ''[[Ultimate Spider-Man (TV series)|Ultimate Spider-Man]]'' "Daily Bugle Showdown" play set from [[Lego]].
+* In 2014, the Ultimate version of Beetle from the ''[[Ultimate Spider-Man]]'' video game received a figure in the ''[[The Amazing Spider-Man 2|Amazing Spider-Man 2]]'' line of the [[Marvel Legends]] series, despite not appearing in the actual film.
+* In 2016, the Janice Lincoln version of Beetle received an action figure from the Absorbing Man BAF (Build-A-Figure) Spider-Man Marvel Legends line.
+* In 2017, the Abner Jenkins version of Beetle received an action figure from the Vulture Wing BAF Wave, coinciding with the release of ''[[Spider-Man: Homecoming]]''.
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://www.marvel.com/universe/Beetle_(disambiguation) Beetle (disambiguation)] at the Marvel Universe
+* [[MarvelDatabase:Beetle|Beetle]] at the Marvel Database Project
+
+{{Spider-Man characters}}
+{{Ultimate Spider-Man}}
+{{Sinister Six}}
+{{Stan Lee}}
+{{DEFAULTSORT:Beetle (Comics)}}
+[[Category:Characters created by Carl Burgos]]
+[[Category:Characters created by Stan Lee]]
+[[Category:Comics characters introduced in 1963]]
+[[Category:Marvel Comics supervillains]]
+[[Category:Science fiction weapons]]
+[[Category:Spider-Man characters]]

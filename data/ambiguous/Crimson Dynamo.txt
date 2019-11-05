@@ -1,0 +1,256 @@
+{{For|other uses of Dynamo in comics|Dynamo (comics)}}
+{{In-universe|date=June 2009}}
+'''Crimson Dynamo''' ([[Russian language|Russian]]: Багровый Динамо, ''{{lang|ru|Bagrovyj Dinamo}}''; also Красный Динамо (Krasný Dinamo)) is the name of several [[fictional character]]s appearing in [[American comic book]]s published by [[Marvel Comics]]. The various Crimson Dynamos have been [[powered armor]]–wearing [[Russia]]n or [[Soviet Union|Soviet]] agents who have clashed with the superhero [[Iron Man]] over the course of his heroic career.
+
+==Publication history==
+The Anton Vanko version of Crimson Dynamo first appeared in ''[[Tales of Suspense]]'' #46 (Oct. 1963) and was created by [[Stan Lee]] and [[Don Heck]].
+
+The Boris Turgenov version of Crimson Dynamo first appeared in ''Tales of Suspense'' #52 (April 1964) and was created by [[Stan Lee]], [[Don Rico]], and [[Don Heck]].
+
+The Alex Nevsky version of Crimson Dynamo first appeared in ''[[Iron Man (comic book)|Iron Man]]'' #15 (July 1969) and was created by [[Archie Goodwin (comics)|Archie Goodwin]] and [[George Tuska]].
+
+The Yuri Petrovich version of Crimson Dynamo first appeared in ''Champions'' #7 (Aug. 1976) and was created by [[Tony Isabella]] and [[George Tuska]].
+
+The Dimitri Bukharin version of Crimson Dynamo first appeared in ''Iron Man'' #109 and was created by [[Bill Mantlo]] and [[Carmine Infantino]].
+
+The Valentin Shatalov version of Crimson Dynamo first appeared in ''Iron Man'' #255 and was created by [[Glenn Herdling]], [[Fabian Nicieza]], and [[Herb Trimpe]].
+
+The seventh Crimson Dynamo first appeared in ''Captain America'' vol. 3, #32 and was created by [[Dan Jurgens]].
+
+The Gennady Gavrilov version of Crimson Dynamo first appeared in ''Crimson Dynamo'' #1 and was created by [[John Jackson Miller]] and [[Steve Ellis (comics)|Steve Ellis]].
+
+The ninth Crimson Dynamo first appeared in ''Secret War'' #3 and was created by [[Brian Michael Bendis]] and [[Gabriele Dell'Otto]].
+
+The tenth Crimson Dynamo first appeared in ''Iron Man'' vol. 4, #7 and was created by [[Daniel Knauf]], [[Charles Knauf]], and [[Patrick Zircher]].
+
+The Boris Vadim version of Crimson Dynamo first appeared in ''Hulk'' vol. 2, #1 and was created by [[Jeph Loeb]] and [[Ed McGuinnes]].
+
+The Galina Nemirovsky version of Crimson Dynamo first appeared in ''Hulk: Winter Guard'' #1 and was created by [[Steve Ellis (comics)|Steve Ellis]] and [[David Gallaher]].
+
+==Fictional character biography==
+
+===Anton Vanko===
+{{Infobox comics character 
+| character_name = Crimson Dynamo
+| image = [[File:Crimson Dynamo Armor MK I.jpg]]
+| caption = Anton Vanko as the original Crimson Dynamo.<br>Art by [[Don Heck]].
+| publisher = [[Marvel Comics]]
+| debut = ''[[Tales of Suspense]]'' #46<br>(October [[1963 in comics|1963]])
+| creators = [[Stan Lee]]<br>[[Don Heck]]
+| alter_ego = Anton Vanko
+| full_name =
+| species = [[Human]]
+| homeworld = [[Earth-616]]
+| alliances = <!-- optional -->
+| aliases= Ivan Vanko
+| partners = <!-- optional -->
+| supports = <!-- optional -->
+| powers = Armored suit grants:<br>Superhuman strength and durability<br>Flight via boot jets<br>Hand-blasters<br>Small missiles on the back shoulder area<br>Computer and radio transmitter and receiver
+|}}
+
+'''Anton Vanko''' ({{lang-ru|Анто́н Ва́нко}}), the first Crimson Dynamo, was also the armor's creator. A Soviet scientist of [[Armenia]]n birth with a [[Ph.D]] in Physics, Vanko was one of the world's foremost experts on electricity. At the behest of the USSR, Vanko built a powered exoskeleton capable of performing incredible feats. He also designed the [[Unicorn (comics)|Unicorn]]'s helmet and instructed the Russian agent in its use.<ref>''Tales of Suspense'' #56</ref>
+
+As the Crimson Dynamo, Vanko was sent by the Soviet Government to sabotage [[Stark Industries]] and defeat his American counterpart [[Iron Man]] in battle.<ref>''Tales of Suspense'' #46</ref> Vanko's armor allowed him to generate and control electricity in all of its forms, such as firing devastating bolts of lightning and flying using electromagnetic propulsion. Unlike Iron Man, who at the time had to regularly charge the chest plate powering his suit (and keeping him alive), the Crimson Dynamo was powered by a self-sustaining generator.
+
+After losing to Iron Man, Vanko defected to the [[United States]] out of fear that his superiors would kill him for failing. Vanko began to work for [[Iron Man|Tony Stark]] as one of his chief scientists. Eventually, the two became friends and Vanko developed pride and admiration for his new home. Unfortunately, soon the Soviets came for Vanko, just as he predicted. The KGB sent their top agent [[Black Widow (Natalia Romanova)|Black Widow]] as well as Boris Turgenev to apprehend him. Vanko died saving Iron Man by firing an unstable, experimental laser pistol at Turgenev, killing himself in the process.<ref name="Tales of Suspense #52">''Tales of Suspense'' #52</ref>
+{{Clear}}
+
+===Boris Turgenov===
+
+'''Boris Turgenov''', the second Crimson Dynamo, had a very short career as a supervillain. Turgenov came to the United States with the [[Black Widow (Natalia Romanova)|Black Widow]] to kill Anton Vanko, Tony Stark and Iron Man (at the time Stark kept his identity secret, with Iron Man posing as his most trusted bodyguard - Turgenov believed them to be separate people and planned to kill both). Turgenov almost carried out his mission, virtually defeating Iron Man with the stolen Crimson Dynamo suit. He was killed when Vanko sacrificed his own life for the cause of freedom by firing an experimental and unstable laser pistol at Boris.<ref name="Tales of Suspense #52"/> Both Vanko's heroic sacrifice and Turgenov's death were revisited in the Iron Man miniseries ''Enter the Mandarin'', where it is revealed that [[Temugin]] (the Mandarin's son) witnessed the event.{{issue|date=April 2017}}
+{{Clear}}
+
+===Alexander Nevsky===
+{{Infobox comics character 
+| character_name = Crimson Dynamo
+| image = [[File:Crimson Dynamo 002.jpg]]
+| caption = Alexander Nevsky as the third Crimson Dynamo.
+| publisher = [[Marvel Comics]]
+| debut = ''[[Iron Man (comic book)|Iron Man]]'' #15<br>(July 1969)
+| creators = [[Archie Goodwin (comics)|Archie Goodwin]]<br>[[George Tuska]]
+| alter_ego = Alexander Nevsky
+| full_name =
+| species = [[Human]]
+| homeworld = [[Earth-616]]
+| alliances = [[Titanic Three]]
+| aliases= Alex Niven
+| partners = <!-- optional -->
+| supports = <!-- optional -->
+| powers = Armored suit grants:<br>Superhuman strength<br>Flight<br>Invulnerability<br>Electric and laser blasts<br>Smokescreen<br>Backpack rocket launcher 
+|}}
+
+'''Alexander Nevsky''' was Anton Vanko's up-and-coming protege, with a greatly admired and respected scientific genius. However, his promising career was ruined when the Soviet government discredited Vanko after he fled to the West. Sent into exile for his association with the turncoat, Nevsky grew to hate the Soviet Union as well as Iron Man for besting Vanko. Nevsky also sought vengeance against Tony Stark, whom Nevsky felt exploited Vanko under the American capitalist system (not knowing that Stark and Iron Man are the same person). Disguised as brilliant new scientist '''Alex Niven''' behind Cord Industries, he planned to help the struggling competitor beat out Stark Industries in the marketplace.<ref>''Iron Man'' volume 1 #15</ref> From there, Nevsky used a new and improved Crimson Dynamo armor and bested Iron Man.{{issue|date=August 2016}} Finally, he worked towards undermining Tony Stark by romancing Janice Cord, Stark's girlfriend at the time and the daughter of Cord Industries's [[CEO]].{{issue|date=August 2016}}
+
+After he donned the Crimson Dynamo armor in public,<ref>''Iron Man'' #21</ref> his old Soviet masters sent the [[Titanium Man]] to kill him. When Titanium Man killed Janice, Nevsky blamed Iron Man for the tragedy and swore to avenge her.<ref>''Iron Man'' #22</ref> Although he held Titanium Man just as responsible for Janice's death, Nevsky was forced by circumstance to partner with him and [[Radioactive Man (comics)|Radioactive Man]] in Vietnam, where all three Communist-aligned fugitives formed the [[Titanic Three]].<ref>''Avengers'' #130</ref> After defecting to Vietnam, Nevsky made one final attempt to kill Iron Man and was once again unsuccessful.<ref>''Iron Man'' #73</ref> As a result, he was found and assassinated by the [[KGB]] and they confiscated his armor for their own purposes.<ref>According to the ''[[Official Handbook of the Marvel Universe]]''</ref>
+
+"The Beginning of the End,"—Nevsky's original story arc in ''Iron Man'' #17-23—is considered one of the best Iron Man stories and, alongside Tony Stark's origin in ''Tales of Suspense'' #39, the best Iron Man story of the [[Silver Age of Comics]].<ref>http://goodcomics.comicbookresources.com/2013/05/03/the-25-greatest-iron-man-stories-ever-told/2/</ref><ref>http://www.ign.com/articles/2013/05/02/top-25-iron-man-stories?page=2</ref><ref>http://www.ign.com/articles/2010/05/04/iron-mans-greatest-stories</ref>
+{{Clear}}
+
+===Yuri Petrovich===
+
+'''Yuri Petrovich''', the fourth Crimson Dynamo, first appeared in ''Champions'' #7 (Aug. 1976) as the son of '''Ivan Petrovich''' - a friend of the Black Widow (now-reformed). When Western agents (presumably Americans) failed to convince Ivan to defect to the West, they assassinated Yuri's mother; in the chaos that followed, Ivan and Yuri each believed the other dead. Yuri was brought to the West, where Soviet agents posing as Westerners indoctrinated him to hate the West. When Black Widow and Ivan defected to the United States, Yuri was "rescued" by the Soviets, returned to Russia, and trained as a KGB assassin. He was given the Crimson Dynamo armor and sent to kill the Black Widow and Ivan. Yuri and his allies (his girlfriend [[Darkstar (Marvel Comics)|Darkstar]], the [[Griffin (Marvel Comics)|Griffin]], [[Rampage (Marvel Comics)|Rampage]], and the original [[Titanium Man#Boris Bullski|Titanium Man]]) fought the Black Widow and her teammates, the [[Champions (1975 team)|Champions]]. When Yuri learned of the true nature of his "Western" captors, he went berserk. Darkstar teamed up with the Champions to subdue Yuri, and after he and his other allies were defeated, Yuri was returned to Russia, convicted by the Soviet government, and exiled to a [[Siberia]]n labor camp.<ref>''Champions'' #8-10</ref>
+{{Clear}}
+
+===Dmitri Bukharin===
+{{Main|Dmitri Bukharin}}
+[[File:Yuricrimson.jpg|250px|thumb|right|[[Dmitri Bukharin]] as the fifth Crimson Dynamo.]]
+
+'''[[Dmitri Bukharin]]''', the fifth Crimson Dynamo, was given Yuri Petrovich's armor by his masters in the KGB. He joined the [[Soviet Super-Soldiers]], but was expelled after his teammates decided to sever their connections to the Soviet government. Afterward, he received a new, redesigned suit of armor.<ref>Behind the scenes between ''Secret Wars II'' #7 and ''X-Factor'' Annual #1.</ref> He later joined the [[Supreme Soviets]], a group of superhumans who were loyal to the Soviet government; the group became the People's Protectorate after the USSR dissolved. When the new government confiscated his armor, he was given another suit and adopted the codename '''[[Dmitri Bukharin|Airstrike]]'''. By the events of ''[[Dark Reign (comics)|Dark Reign]]'', however, he had returned to the identity and armor of the Crimson Dynamo, albeit as an ally of Iron Man instead of an enemy. He is currently a member of the [[Winter Guard]], a Russian counterpart of the [[Avengers (comics)|Avengers]].
+
+Bukharin's tenure is the longest of anyone in the Crimson Dynamo's publication history, and occurred during such seminal Iron Man storylines as "[[Demon in a Bottle]]", "[[Doomquest]]", and "[[Armor Wars]]". As a result, Bukharin's Crimson Dynamo is considered by some to be the definitive version of the character.
+{{Clear}}
+
+===Valentin Shatalov===
+{{Infobox comics character 
+| character_name = Crimson Dynamo
+| image = [[File:Crimson Dynamo Shatalov.jpg]]
+| caption = Valentin Shatalov as the sixth Crimson Dynamo.
+| publisher = [[Marvel Comics]]
+| debut = ''[[Iron Man (comic book)|Iron Man]]'' ##255<br>(April 1990)
+| creators = [[Glenn Herdling]]<br>[[Fabian Nicieza]]<br>[[Herb Trimpe]]
+| alter_ego = 
+| full_name = Valentin Shatalov
+| species = [[Human]]
+| homeworld = [[Earth-616]]
+| alliances = Remont 4 <br/>[[Lethal Legion]]
+| aliases= <!-- optional -->
+| partners = <!-- optional -->
+| supports = <!-- optional -->
+| powers = Armored suit grants:<br>Superhuman strength<br>Invulnerability<br>Flight<br> Electric and laser blasters<br>Electrical shock when touching or grappling with an opponent<br>Gatling gun contained in right arm<br>Missiles<br>A 'fusioncaster' chest beam
+|}}
+
+'''Valentin Shatalov''', a Colonel-General in the Soviet Army and a KGB agent, is the sixth Crimson Dynamo. He used his rank to obtain the Crimson Dynamo armor from Dmitri Bukharin for his own use. He was the founder of Remont-4, a group of Russian superhumans who sought to return the [[Soviet Union]] to [[Stalinism]]. Shatalov and his allies (the cyborg Firefox and the original [[Unicorn (comics)|Unicorn]] among others) recruited the original [[Titanium Man]] to their cause. The Remont-4 fought the Soviet Super Soldiers and a group of Russian mutant exiles in addition to plaguing [[Iron Man]].<ref>''Iron Man'' #255</ref>
+
+In Shatalov's first appearance as the Crimson Dynamo, he was in a training session with [[Devastator (comics)|Devastator]] in [[Russia]] at the same time Iron Man had encountered an out-of-control mutant dubbing himself Freak Quincy in Los Angeles. Quincy's out-of-control powers tapped into Devastator's satellite uplink from the other side of the world, and he managed to switch the minds of Stark and Shatalov. His unfamiliarity with the Iron Man armor resulted in Shatalov firing pulse bolts that destroyed Quincy's arms, although the mutant survived. After Stark and Shatalov struggled to maintain each other's identities, Shatalov was able to get the hospitalized Quincy to recreate the transmission that switched their minds. Out of respect for Stark, Shatalov did not reveal Stark's identity.<ref>''Iron Man'' #316</ref>
+
+Sometime after the fall of the Soviet Union, Shatalov received an upgraded Crimson Dynamo armor, less bulky than Bukharin's model, and with silver accents, this was the first Crimson Dynamo armor that was not completely crimson. Shatalov later met Tony Stark in person, when the latter traveled to Russia to oversee the opening of the first Stark Enterprises branch in the country, and revealed to Stark that he had kept his identity as Iron Man a secret. Stark's trip to Russia was interrupted by the rampage of the Titanium Man, Boris Bullski, who still could not accept the new Russia, and saw Stark's presence in his homeland as an affront to everything he believed the U.S.S.R. stood for. As the Titanium Man fought Iron Man, the Black Widow, and the Crimson Dynamo, Shatalov's leg was broken. He begged Iron Man not to finish the fight with Bullski, as he felt having the American Avenger take down a former Soviet hero would be too damaging to his country's morale. Stark volunteered to wear the Dynamo armor in Shatalov's place, and with radio assistance from Shatalov and the Widow, fought Bullski. When Bullski refused to surrender, Shatalov overrode Stark's control of the Dynamo armor, firing a blast that killed Bullski. Shatalov took the fall with his superiors, who had wanted to recover Bullski alive, and he was relieved of his duties as Crimson Dynamo.<ref>''Iron Man'' #317</ref>
+{{Clear}}
+
+===Other Crimson Dynamos===
+
+Like many of Iron Man's Cold War-era villains, the Crimson Dynamo fell into a degree of obscurity after the dissolution of the Soviet Union. Since Shatalov, there have been seven people to bear the Crimson Dynamo mantle, almost all of them anonymous, short-lived or otherwise unremarkable foes.
+
+The seventh Crimson Dynamo, '''Gregar Valski''', was defeated by [[Nick Fury]] and [[Captain America]].<ref>''Captain America'' vol. 3, #42</ref> He wore Dmitri Bukharin's former armor, though his skill piloting it was minimal.
+
+{{Infobox comics character 
+| character_name = Crimson Dynamo
+| image = [[File:Crimsondynamogennady1.jpg|250px|Gennady Gavrilov as the eighth Crimson Dynamo.]]
+| caption = Gennady Gavrilov as the eighth Crimson Dynamo.
+| publisher = [[Marvel Comics]]
+| debut = ''Crimson Dynamo'' #1<br>(October 2003)
+| creators = [[John Jackson Miller]]<br>[[Steve Ellis (comics)|Steve Ellis]]
+| alter_ego = <!-- optional -->
+| full_name = Gennady Dmitreivich Gavrilov
+| species = [[Human]]
+| homeworld = [[Earth-616]]
+| alliances = <!-- optional -->
+| aliases= Trouble Magnet, Iron Gennady, Gyena, Kulakh42
+| partners = <!-- optional -->
+| supports = <!-- optional -->
+| powers = Armored suit
+|}}
+
+In Marvel Epic's six issue 2003 series ''Crimson Dynamo'', Russian collegiate '''Gennady Gavrilov''' became the eighth Crimson Dynamo after he found the helmet of a "Beta unit" designed by Anton Vanko based on but improved over the original, with its very own recharging satellite in orbit. Believing the helmet to be a sophisticated gaming system, Gavrilov caused the dormant armor to awaken and make its way towards the helmet, inadvertently leaving a trail of destruction. He would eventually, if briefly, wear the entire armor in a standoff with the Russian military. He kept the armor afterward.<ref>''Crimson Dynamo'' #1-6</ref>
+
+The '''ninth Crimson Dynamo''' appeared in the ''[[Secret War (comics)|Secret War]]'' miniseries as a member of [[Lucia von Bardas]]'s army of villains which she gathered to defeat the Avengers. This Crimson Dynamo's armor was created by the [[Tinkerer]].<ref>''Secret War'' #3</ref>
+
+The '''tenth Crimson Dynamo''' is introduced in ''Iron Man'' vol. 4, #7 (June 2006) where he is apprehended by Iron Man after attempting to rob a bank. It was later revealed that this armor had been bought on the black market, and that the designs for Crimson Dynamo-based technology have been for sale for a while.<ref>''Iron Man'' vol. 4, #7</ref> This Crimson Dynamo was later slain by the [[Punisher]].<ref>{{Cite comic|writer = Charles Soule|penciller = Mast and Syzmon Kudranski|inker = Mast and Syzmon Kudranski|colorist = Jim Charalampidis|letterer = VC's Clayon Cowles|editor = Jake Thomas|story = Chapter Seven|title = Daredevil/The Punisher: Seventh Circle|volume = 1|issue = #7|date = 1 June 2016|publisher = Marvel Comics|location = United States}}</ref>
+
+The '''eleventh Crimson Dynamo''' was a member of the "Alpha Gen Soviet Super-Soldiers", a group of Russian superhumans put into cryogenic stasis after the Cold War ended. During a fight between [[The Order (comics)|the Order]] and the Infernal Man, Order member Corona set off an enormous explosion which awakened the Super-Soldiers. This Crimson Dynamo was apparently destroyed by Order members Supernaut and Aralune.<ref>''The Order'' #2</ref>
+
+'''Boris Vadim''', the twelfth Crimson Dynamo, first appears in the premiere issue of ''[[Hulk (comics)|Hulk]]'' vol. 2 (March 2008). A [[S.H.I.E.L.D.]]-sanctioned team consisting of Iron Man, [[Doc Samson]] and [[She-Hulk]] encounters the [[Winter Guard]], a Russian superhero team of which Vadim is a member, while investigating the apparent murder of the [[Abomination (comics)|Abomination]] in Russia.<ref>''Hulk'' #1</ref> In ''War Machine: Weapon of SHIELD'', Vadim was seen ignoring orders from his superiors and helping [[War Machine]] defeat invading [[Skrull]]s.<ref>''Invincible Iron Man'' #35</ref> He later flees to the United States seeking political asylum, joining the [[Thunderbolt Ross|Red Hulk]]'s mercenary group.<ref>''Hulk'' #14''</ref> Some time later, while battling the mutated Igor Drenkov, Vadim was devoured.<ref>''Hulk: Winter Guard'' #0</ref>
+
+'''Galina Nemirovsky''' replaced Boris Vadim to become the thirteenth Crimson Dynamo.<ref>{{Comic book reference|Title = [[Hulk: Winter Guard]]|Volume = 1|Issue = 1|Date = December 2009|Publisher = Marvel Comics}}</ref> She is considered by her Russian masters to be one of the best Crimson Dynamo pilots ever, and was a graduate of their "Federal Dynamo" program.<ref>''Darkstar & The Winter Guard'' #1</ref>
+
+Galina was apparently recruited by [[Mandarin (comics)|Mandarin]] and [[Zeke Stane]] to join the other Iron Man villains in a plot to take down Iron Man. Mandarin and Zeke Stane gave Galina a new Crimson Dynamo armor.<ref>''Invincible Iron Man'' #513</ref>
+{{Clear}}
+
+==Powers and abilities==
+The Crimson Dynamo wears an armored battle-suit that serves as an exoskeleton, providing the wearer with superhuman strength and durability. The suit's outer layer was composed of a carborundum matrix alloy, and is equipped with hand-blasters that can fire high-frequency electrical bolts, small missiles contained in the back shoulder area of the battle-suit, computers and radio transmitter and receiver and boot jets that allow flight. Subsequent versions of the battle-suit have featured upgrades of various kinds, by the [[Gremlin (comics)|Gremlin]] and other Russian scientists. As Crimson Dynamo, Valentin Shatalov's version of the armor was equipped with a powerful chest-mounted fusion-caster weapon.
+
+==Other versions==
+
+===Heroes Reborn===
+In the [[Heroes Reborn (comics)|Heroes Reborn]] universe, created by [[Franklin Richards (Fantastic Four)|Franklin Richards]], Anton Vanko/Crimson Dynamo appeared as a member of [[Loki (comics)|Loki]]'s [[Masters of Evil]].<ref name="IronMan-2-10">''Iron Man'' vol. 2, #10</ref> He was first seen teamed with the [[Titanium Man]] as a defender of Russia. When Iron Man and Rebel O'Reilly traveled over Russian airspace to get to [[Hydra (Marvel Comics)|Hydra]]'s headquarters, the two briefly battled both the Dynamo and Titanium Man. Iron Man would easily defeat them in combat with the superior technology within his Prometheum Armor.{{issue|date=July 2013}}
+ 
+Later, the Crimson Dynamo and Titanium Man would be hired by the [[Black Knight (Nathan Garrett)|Black Knight]] to join the Masters of Evil.<ref name="IronMan-2-10" /> He is later killed by Doombots.{{issue|date=April 2016}}
+
+===Marvel Zombies===
+The Crimson Dynamo was killed and devoured by his zombified enemy, Iron Man, in ''Marvel Zombies 2''.{{issue|date=November 2012}}
+
+===Civil War: House of M===
+In the [[House of M]], the Yuri Petrovich version of the Crimson Dynamo was a member of the Soviet Super-Soldiers.<ref>''Civil War: House of M'' #2</ref>
+
+===Ultimate Marvel===
+In the [[Ultimate Marvel]] universe, there are two versions of the Crimson Dynamo.
+
+[[The Ultimates]] featured '''Alex Su''' as a '''[[China|Chinese]] Dynamo''' as a member of The Liberators. Based on similar technology to [[Ultimate Iron Man (comics)|Tony Stark]]'s Iron-Tech he is unable to exit his armor, having been fused inside, but can supposedly use it to control up to 50 giant-sized drone versions (which are revealed to be piloted independently). He is apparently killed when Stark vaporizes him while piloting the massive Iron Man Six aircraft.<ref>''Ultimates 2'' #6-13</ref>
+
+Major '''Valentin Shatalov''' appears in ''Ultimate Fantastic Four'' #47. He is based in a shack in [[Siberia]], and has apparently been out of contact with his superiors for a long time, becoming entirely self-sufficient. When he is given the order to activate his armor he has forgotten correct procedure, and his contact was not even sure he was still alive. Reed Richards reports that this Crimson Dynamo is an "Eastern Bloc version of Iron Man", making the latest Ultimate version extremely similar to the original character. He has joined forces with the [[Ultimate Fantastic Four|Fantastic Four]] to defeat the [[Red Ghost]].<ref>''Ultimate Fantastic Four'' #47</ref>
+
+==In other media==
+
+===Television===
+* The Anton Vanko version of Crimson Dynamo appeared in the Iron Man portion of ''[[The Marvel Super Heroes]]'', voiced by [[Henry Ramer]]. The episode he appears in was based on his first comic book appearance, with some of the stills actual panels from the comic book.{{citation needed|date=August 2012}}
+* The Yuri Petrovich version of Crimson Dynamo appeared in the ''[[Iron Man (TV series)|Iron Man]]'', voiced by [[William Hootkins]] (in "Not Far from the Tree"), and by [[Stuart M. Rosen|Stu Rosen]] (in "The Armor Wars" Pt. 1). Here he is depicted as a former KGB agent. In "Not Far from the Tree" Crimson Dynamo worked with A.I.M. and a clone of [[Howard Stark]] to kill Tony, and take control of Stark Industries. Crimson Dynamo is defeated when Iron Man kicks him into the Arc Reactor. In the episode "Armor Wars Pt. 1", he has broken off of A.I.M., trying to recreate the Soviet Union with former KGB agents by blowing up a nuclear power plant. Crimson Dynamo is killed when he blows up a nuclear weapon by ramming into it, in the hopes that the Soviet Union would 'rise from the ashes'. Upon receiving the armor fragments from [[Nick Fury]], Tony Stark discovered that Crimson Dynamo's armor was made from Stark Industries technology.
+* Three variations of Crimson Dynamo appears in ''[[Iron Man: Armored Adventures]]''.<ref>[http://www.comicscontinuum.com/stories/0907/28/voices.htm Comics Continuum]</ref> The first character appears in the episode "Iron Man vs. the Crimson Dynamo" piloted by Ivan Vanko (voiced by Mark Oliver), and was actually a repair droid created by [[Project Pegasus]] to fix space stations. When one was attacked by solar flares two years prior to the series, Ivan was abandoned by the crew, albeit reluctantly, and kept alive via a solar power [[IV drip]]. Upon crashing in New York, Ivan went on an insanity induced rampage, armed with various tools and knocked Iron Man around, intent on destroying Project Pegasus. Eventually, Ivan is stopped when [[Pepper Potts]] brings his wife and son into the facility, snapping Ivan out of it, and taken to the hospital for medical treatment.  The second character appears in the episode "Seeing Red". This time, the armor is redesigned with actual weapons by [[Iron Monger|Obadiah Stane]] and piloted by [[Guardsman (comics)|Michael O'Brian]] (voiced by [[Brian Drummond]]), head of security. While he did beat Iron Man's normal armor, O'Brian is stopped by the [[Hulkbuster Armor MK II|Dynamo Buster]] variation. The final version appears in the episode "Enter: Iron Monger," a fully automated copy of the suit is destroyed by the [[Iron Monger]] mecha.
+* The Valentin Shatalov version of Crimson Dynamo appears in ''[[The Super Hero Squad Show]]'', voiced by [[Jess Harnell]].{{Citation needed|date=November 2009}} In the episode "Tales of Suspense", he collaborates with [[Doctor Doom]] and [[Melter]] as part of a plot to discredit Iron Man.
+* The Anton Vanko version of Crimson Dynamo appears in ''[[The Avengers: Earth's Mightiest Heroes]]'', voiced by Chris Cox. In "The Vault" Pt. 1, he attacks [[Iron Man]] during the break out, but is knocked out by [[Hawkeye (comics)|Hawkeye]]. He joins the [[Masters of Evil]] as he was seen in their company at the end of the episode "Gamma World" Pt. 2.<ref>http://marvel.toonzone.net/avengersemh/comics/aemh02prev01.jpg</ref> In "Masters of Evil", Crimson Dynamo  helped the attack on [[Avengers Mansion]], but is defeated and escapes with the rest of the group. In "This Hostage Earth", Crimson Dynamo guards a Norn Stone in an abandoned [[Hydra (comics)|HYDRA]] base. [[Captain America]] appears and battles him, which ends when Captain America breaks open his helmet and allows ghosts to attack Crimson Dynamo. In "Acts of Vengeance", Crimson Dynamo distracts [[Enchantress (comics)|Enchantress]], but is saved by Iron Man and Hawkeye. After [[Wonder Man]] destroys the Norn Stone, Crimson Dynamo is knocked out and put in Prison 42.
+* The [[Marvel Cinematic Universe|MCU]] incarnation of Anton Vanko appears as a younger man in ''[[Agent Carter (TV series)|Agent Carter]]'', portrayed by [[Costa Ronin]].<ref>http://marvel.com/news/tv/23629/costa_ronin_joins_marvels_agent_carter</ref>
+* The Anton Vanko version of Crimson Dynamo appears in ''[[Avengers Assemble (TV series)|Avengers Assemble]]'', voiced by [[Fred Tatasciore]].<ref>{{cite episode|title=The House of Zemo|series=Avengers Assemble|serieslink=Avengers Assemble (TV series)|work=Disney XD|season=2|number=17|airdate=May 10, 2015}}</ref> This version is shown as a member of the [[Winter Guard]] and using his Ivan Vanko alias. In the episode "Secret Avengers", the [[Avengers (comics)|Secret Avengers]] pursue Crimson Dynamo when he has gotten the key to a specific power source. Crimson Dynamo had an obstacle along the way in the form of [[Power Princess]]. The Avengers got involved in the battle which ended with Crimson Dynamo falling into the river. Luckily for Captain America, [[Black Widow (Natasha Romanova)|Black Widow]] was able to place a tracer on Crimson Dynamo. When they find the tracer near some mountains, they are attacked by Crimson Dynamo where he causes an avalanche. Upon defeating Crimson Dynamo offscreen, [[Hulk (comics)|Hulk]] used parts of Crimson Dynamo's armor to carry his teammates' bodies into a Russian facility to meet the Winter Guard so that they can use a key to get to open a container holding a specific power source. When the near-armorless Crimson Dynamo caught up, Captain America's group fought Crimson Dynamo and the Winter Guard until the facility starts to destabilize. Both sides had to work together in order to keep the fragments of the facility from harming the village below. With [[Falcon (comics)|Falcon]]'s help, Crimson Dynamo freed the power source who turned out to be the Russian [[Radioactive Man (comics)|Radioactive Man]] as he dissolves the facility.
+* The Galina Nemirovsky version of Crimson Dynamo appears in the ''[[Spider-Man (2017 TV series)|Spider-Man]]'' episode "The Rise of Doc Ock" Pt. 1, voiced by [[Laura Bailey (voice actress)|Laura Bailey]].<ref>{{cite episode|title=The Rise of Doc Ock Pt. 1|series=Spider-Man|network=Disney XD|season=1|number=15|airdate=January 21, 2018}}</ref> This version had lost her family when mobsters took her land and her family's life in Russia. She attacks Otto Octavius' lab at Horizon High to obtain a power source for her armor. The resulting fight with Spider-Man caused Otto Octavius' mechanical arms to become fused to his nervous system. When Crimson Dynamo gets her hands on the power source, it enhances her armor to the point where she can use it's drones. With help from Otto Octavius, Spider-Man was able to defeat Crimson Dynamo and leave her for the police.
+
+===Film===
+[[Mickey Rourke]] plays Ivan Vanko, an original character based on [[Whiplash (comics)|Whiplash]] and the Crimson Dynamo, in ''[[Iron Man 2]]''.<ref>{{Cite news|author=Michael Fleming, Marc Graser|title=Mickey Rourke set for 'Iron Man 2'|work=[[Variety (magazine)|Variety]]|date=2009-03-11|url=http://www.variety.com/article/VR1118001114.html|accessdate=2009-03-11}}</ref> Ivan Vanko is the son of [[Anton Vanko]] (portrayed by [[Evgeniy Lazarev]]), a Russian physicist who worked alongside [[Howard Stark]] in the 1960s to invent the [[Iron Man's armor in other media|Arc Reactor]]. However, the elder Vanko was deported back to the Soviet Union by Stark after stealing patents and selling them on the [[black market]]. Ivan uses "Boris Turgenov" as an alias when he comes to the United States.
+
+===Video games===
+* Crimson Dynamo is the main villain in ''[[The Invincible Iron Man (video game)|The Invincible Iron Man]]'' for [[Game Boy Advance]].{{citation needed|date=August 2017}}
+* The Valentin Shatalov version of Crimson Dynamo appears as a mini-boss in ''[[Marvel: Ultimate Alliance]]'', voiced by [[Robin Atkin Downes]].{{citation needed|date=August 2017}} He is member of [[Doctor Doom]]'s [[Masters of Evil]] and is encountered on the S.H.I.E.L.D. Omega Base. He has special dialogue with Iron Man where he states that his new armor would defeat Iron Man.
+* Crimson Dynamo appears in ''[[Marvel Super Hero Squad (video game)|Marvel Super Hero Squad]]'', voiced by [[Jess Harnell]].{{citation needed|date=August 2016}}
+* The Valentin Shatalov version of Crimson Dynamo appears as a villain in the ''[[Iron Man 2 (video game)|Iron Man 2]]'' video game adaption, voiced by [[Dimitri Diatchenko]].{{citation needed|date=August 2017}} This version is an ally of A.I.M.
+* Crimson Dynamo is featured as a boss in the [[Facebook]] game ''[[Marvel: Avengers Alliance]]''.{{citation needed|date=November 2015}}
+* Crimson Dynamo is a boss a number of times in ''[[Iron Man 3: The Official Game]]'', voiced by Jeff Bottoms.{{citation needed|date=August 2017}}
+* The Dmitri Bukharin version of Crimson Dynamo appears as playable character in ''[[Lego Marvel's Avengers]]''.{{citation needed|date=August 2016}}
+* Crimson Dynamo appears in ''[[Marvel: Avengers Alliance#Marvel: Avengers Alliance 2|Marvel: Avengers Alliance 2]]''.<ref>{{cite web |url=https://marvelavengersalliance2.com/aa2_characters/crimson-dynamo-2/ |title=Archived copy |accessdate=2016-04-05 |deadurl=yes |archiveurl=https://web.archive.org/web/20160419064151/https://marvelavengersalliance2.com/aa2_characters/crimson-dynamo-2/ |archivedate=2016-04-19 |df= }}</ref>
+* The Galina Nemirovsky version of Crimson Dynamo appears in ''[[Marvel Avengers Academy]]''.{{citation needed|date=August 2017}}
+
+===Music===
+Crimson Dynamo is mentioned in the song ''[[Magneto and Titanium Man]]'' by [[Paul McCartney and Wings]]. The song also references [[Titanium Man]], another Iron Man villain.
+
+===Toys===
+* Crimson Dynamo is the 122nd figurine in ''[[The Classic Marvel Figurine Collection]]''.
+* Crimson Dynamo was released in [[Hasbro]]'s 3.75" ''Iron Man: Armored Adventures'' figure line based on the animated series of the same name.
+* Crimson Dynamo was released in the ''Iron Man Face Off'' 4-pack from the ''[[Marvel Super Hero Squad]]'' line, packaged with figures of Iron Man, [[War Machine]], and [[Titanium Man]]. The same figure was released in the ''Crimson Dynamo Attacks'' 4-pack, packaged with 2 figures of Iron Man and one of War Machine. A second figure of Dynamo was released in the ''Armor Wars: Part II'' 3-pack, packaged with Iron Man and Titanium Man.
+* A figure of Crimson Dynamo was released in wave 36 of the ''Marvel [[Minimates]]'' line.
+* A figure of Crimson Dynamo was released in wave 1 of [[Hasbro]]'s 3.75" ''[[Iron Man 2 (toy line)|Iron Man 2]]'' movie tie-in line.
+* A figure of Crimson Dynamo will be released in wave 2 of [[Hasbro]]'s 6" ''[[Iron Man: The Armored Avenger]] Legends Series'' line.
+
+==References==
+{{Reflist|30em}}
+
+==External links==
+* [http://www.marvel.com/universe/Crimson_Dynamo The Crimson Dynamo] at Marvel.com
+* {{Marvunapp|http://www.marvunapp.com/Appendix3/crimsondynamovanko.htm|Anton Vanko}}; links to other Dynamos
+* {{Marvunapp|http://www.marvunapp.com/Appendix4/crimsondynamoim.htm|Ninth Crimson Dynamo}}
+* [http://www.farawaypress.com/comics/crimsondynamo/crimsondynamo5.html Anton Vanko chronological timeline on miniseries author's site]
+{{Iron Man}}
+{{Black Widow}}
+{{Winter Guard}}
+{{Stan Lee}}
+[[Category:Articles about multiple fictional characters]]
+[[Category:Characters created by Don Heck]]
+[[Category:Characters created by Stan Lee]]
+[[Category:Comics characters introduced in 1963]]
+[[Category:Fictional Armenian people]]
+[[Category:Fictional astronauts]]
+[[Category:Fictional electrical engineers]]
+[[Category:Fictional generals]]
+[[Category:Fictional KGB agents]]
+[[Category:Fictional physicists]]
+[[Category:Fictional secret agents and spies]]
+[[Category:Marvel Comics characters with superhuman strength]]
+[[Category:Marvel Comics superheroes]]
+[[Category:Marvel Comics supervillains]]
+[[Category:Marvel Comics titles]]
+[[Category:Russian superheroes]]
+[[Category:Soviet Union-themed superheroes]]

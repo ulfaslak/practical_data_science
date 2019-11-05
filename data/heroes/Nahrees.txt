@@ -1,0 +1,52 @@
+{{Notability|date=August 2018}}
+{{In-universe|date=August 2018}}
+{{Superherobox| <!--Wikipedia:WikiProject Comics-->
+image=[[Image:Nahreesinhuman.jpg|225px]]
+|caption=Nahrees on the cover of ''Inhumans '' #09
+|character_name=Nahrees
+|publisher=[[Marvel Comics]]
+|debut=''Inhumans'' v2 #2 (1998) 
+|creators=[[Paul Jenkins (writer)|Paul Jenkins]]<br />[[Jae Lee]]
+|alliances=[[Inhumans]]
+|powers=Generates electricity, flight.
+|}}
+'''Nahrees''' is a [[fictional character]]/[[superhero]] appearing in [[American comic book]]s published by [[Marvel Comics]]. She is a member of the [[Inhumans]].
+
+== Fictional character biography ==
+
+Nahrees was part of the delegation sent to Earth in 1992. The delegation consisted of [[Tonaja (comics)|Tonaja]] (team leader), [[San (comics)|San]], [[Alaris (comics)|Alaris]], Nahrees and [[Jolen (comics)|Jolen]], Nahrees' former lover.{{issue|date=January 2013}} During this time, she studied at the [[University of Wisconsin–Madison]]. She dated Damon Hart, a rich and spoiled human.<ref>''Inhumans'' (vol. 4) #9</ref> Nahrees is depicted throughout the series as being arrogant, self-centered, and cold hearted.
+
+She works as a Royal Guard and her base of operation is Attilan. 
+
+She took part in a raid against the United States during the Silent War.{{issue|date=January 2013}} The raid was botched by the [[Fantastic Four]] and she was captured by ONE.{{issue|date=January 2013}}
+
+Her enemies are Richard Anderson, Doctor Cartwright, [[Fantastic Four]], [[Invisible Woman]] and [[Quicksilver (comics)|Quicksilver]].
+
+== Powers and abilities ==
+
+Nahrees can generate massive quantities of electricity, possibly up to ten million volts.{{citation needed|date=December 2014}} She manipulates the electricity naturally found in the environment and is able to store and absorb a seemingly limitless amount of current. She uses electricity for gliding. 
+
+She also has the physiology of an average Inhuman, so all her bodily functions are superior to that of a normal human in strength, reaction time, stamina, resistance to injury and speed. However, like all inhumans, she has a weakened [[immune system]].
+
+== In other media ==
+=== Television ===
+*Nahrees appears in the ''Inhumans'' motion comics, voiced by [[Kelly Sheridan]].<ref name="btva">{{cite web | title=Voice Of Nahrees - Inhumans <nowiki>|</nowiki> Behind The Voice Actors | url=http://www.behindthevoiceactors.com/tv-shows/Inhumans/Nahrees/ | work=Behind The Voice Actors | accessdate=October 18, 2017| postscript=. Check mark indicates role has been confirmed using screenshots of closing credits and other reliable sources}}</ref>
+
+==References==
+{{reflist|30em}}
+
+==External links==
+*[http://marvel.com/universe/Nahrees Nahrees] at the Marvel Universe wiki
+*{{Marvunapp|http://www.marvunapp.com/Appendix4/nahreesinhum.htm}}
+*[http://marvel.wikia.com/wiki/Nahrees_%28Earth-616%29 Nahrees] at the Marvel Database
+
+{{Inhumans}}
+
+[[Category:Characters created by Paul Jenkins (writer)]]
+[[Category:Comics characters introduced in 1998]]
+[[Category:Fictional characters with electric or magnetic abilities]]
+[[Category:Inhumans]]
+[[Category:Marvel Comics superheroes]]
+
+
+{{Marvel-hero-stub}}

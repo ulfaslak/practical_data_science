@@ -1,0 +1,107 @@
+{{lead too short|date=January 2016}}
+{{Infobox comics character<!--Wikipedia:WikiProject Comics-->
+|image=[[File:Alpha flight 89 guardian.jpg|250px|]]
+|caption=Guardian in a cover detail to<br>''[[Alpha Flight]]'' #89.<br>Art by [[Jim Lee]].
+|character_name=Guardian
+|real_name=James MacDonald Hudson
+|species = [[Human]]
+|homeworld = [[Earth-616]]
+|publisher=[[Marvel Comics]]
+|debut=[[Uncanny X-Men|''The X-Men'']] #109 (February, 1978)
+|creators=[[John Byrne (comics)|John Byrne]]
+|alliances=[[Alpha Flight]]<br>[[Beta Flight]]<br>[[Department H]]<br>[[Royal Canadian Mounted Police]]
+|aliases=Weapon Alpha, Vindicator, Jamie, Jimmy, Mac, Jimmy Hudson, Dr. Hudson, Antiguard, Major Maple-Leaf
+|powers=Physical attributes enhanced to peak of human potential<br>Flight<br>Personal force field<br>Ability to fire energy blasts
+}}
+'''Guardian (James Hudson)''', also known as '''Weapon Alpha''' and '''Vindicator''', is a [[fictional character]], a [[superhero]] appearing in [[American comic book]]s published by [[Marvel Comics]]. Created by [[John Byrne (comics)|John Byrne]], the character made his first appearance in [[Uncanny X-Men|''The X-Men'']] #109 (February 1978) which was co-plotted by Byrne and his long-time collaborator [[Chris Claremont]]. He was designed to be the Canadian equivalent of [[Captain America]], hence his costume markings are modeled after the [[Canadian flag]]. Guardian is often confused with [[Captain Canuck]], another Canadian-themed superhero with similar costume and superpowers.<ref>{{cite web |url=http://www.comicvine.com/forums/battles-7/captain-canuck-vs-guardian-1476768/ |title=Captain Canuck vs Guardian - Battles - Comic Vine |website=Comic Vine}}</ref> The character is the leader of [[Alpha Flight]].
+
+==Concept and creation==
+Guardian was a fan character, created by John Byrne years before he did any professional work in comics.<ref name="back29">{{cite journal |last=Nickerson |first=Al |title=Claremont and Byrne: The Team that Made the X-Men Uncanny |journal=[[Back Issue!]] |issue=29 |page=5 |publisher=[[TwoMorrows Publishing]] |date=August 2008 |location=Raleigh, North Carolina}}</ref>
+
+He was originally called "the Canadian Shield", after [[Canadian Shield|the rock formation]], but when Byrne introduced the character in ''X-Men'' this name was rejected by publisher [[Marvel Comics]] because of their fictional organization [[S.H.I.E.L.D.]] Byrne then suggested "Guardian", but this was also rejected due to the numerous extant Marvel characters under that name, so ''X-Men'' scripter Chris Claremont came up with Weapon Alpha and later Vindicator.<ref name="back29"/> These names were used for the character's initial appearances in ''X-Men'' #109, 120-121, and 139-140. Byrne disliked both these names,<ref name="back29"/> and when he was assigned the writing and penciling of the newly launched ''Alpha Flight'' comic, he quickly had "Vindicator" change names to his earlier suggestion, "Guardian." 
+
+==Fictional character biography==
+James MacDonald Hudson was born in [[London, Ontario]], Canada.<ref>{{cite web |url=http://marvel.com/universe/Guardian_%28James_Hudson%29 |title=marvel.com/universe/Guardian |publisher=Marvel.com |date=2006-10-25 |accessdate=2011-04-25}}</ref> He is a leading petrochemical engineer and scientist for the Am-Can Corporation developing a [[powered armor|powered exoskeleton suit]]. When he learns that his work will be used for American military purposes, Hudson raids his workplace, steals the prototype suit and destroys the plans. He leaves the suit to be recovered (albeit without the vital control helmet, which he built before coming to the company) and fully expects to be sued and arrested for his actions.
+
+However, Hudson's girlfriend, [[Vindicator (comics)|Heather MacNeil]], uses political connections in the [[Canadian government]] to persuade Am-Can to waive the charges against him. As a result, [[Department H]] is formed, a secret branch of the Canadian Department of National Defence, and Hudson is named as head of operations. Inspired by the debut of the [[Fantastic Four]], James Hudson planned to create a superhero team for Canada.<ref name="X-Men #109">''Uncanny X-Men'' #109</ref> He started out with a prototype superhero team called [[The Flight]] which had [[Wolverine (character)|Wolverine]] as one of its members.<ref>''Alpha Flight Special'' vol. 2 #1 (1992)</ref>
+
+Following his prototype team the Flight, Hudson forms [[Alpha Flight]] as a superhero team for the Canadian government and develops his exoskeleton into a battle suit. As Weapon Alpha, Hudson sought to capture Wolverine, who had left Canada and joined the [[X-Men]]. He accidentally injured [[Moira MacTaggert]] in the process.<ref name="X-Men #109"/> He then led Alpha Flight in battle against the X-Men to capture Wolverine.<ref>''X-Men'' #120-121</ref> After that mission failed, he made no further attempts to forcibly return Wolverine to Canada.
+
+With the cancellation of Department H and its funding, Alpha Flight is temporarily disbanded. Hudson laments this for a time, but then is called to action by the arrival of the [[Great Beasts|Great Beast]] [[Tundra (Marvel Comics)|Tundra]]. He sets out alone, but Heather takes it upon herself to summon the rest of Alpha Flight, plus two recently "gold-striped" members. The team defeats Tundra, and then summarily decides to reform, albeit without direct Government support.<ref>''Alpha Flight'' #1</ref>
+
+Hudson and Alpha Flight retain their security clearances and status as RCMP Auxiliaries. They have a series of adventures, both as a team and as individuals. Early on, Hudson expresses a lack of confidence in himself, but he slowly gains some over time. For example, his initial reaction to the imposing creature the [[Wendigo (comics)|Wendigo]] has him expressing fear. Nevertheless, he confronts the creature "like a super-hero borne"<ref>''X-Men'' #140</ref>.
+
+Though Hudson and his wife initially struggle as any Canadian middle-class couple do, he is soon offered a plum job with the large corporation Roxxon in New York City. Relocated to New York, Hudson is almost immediately trapped and set upon by an evil incarnation of [[Omega Flight]] and an old foe: his old boss from Am-Can, [[Jerry Jaxon]]. The battle is soon joined by the rest of Alpha Flight, though it does not end well for Hudson. Although seemingly killed when his battle suit explodes due to the strain of energizing a multiple teleportation matrix system (thanks to Jaxon), he is in fact transported to Jupiter's moon, [[Ganymede (moon)|Ganymede]]. There he meets an alien race known as the Q`wrrlln. In their attempts to heal Hudson, the Q`wrrlln integrate his battle suit into his body, fusing it to his biological and nervous systems.<ref>''Alpha Flight'' #25</ref> (This is originally posed as a ruse by [[Delphine Courtney]] to confuse and deceive Heather Hudson and the surviving members of Alpha Flight.<ref>''Alpha Flight'' #26</ref>)
+
+Hudson eventually returns to Earth and takes the name Vindicator, leaving the title of "Guardian" (and position of leadership) with his wife, Heather. Again, Hudson's time with the team is cut short when the Q'wrrlln summon him (and a select group of heroes) to protect their planet against [[Galactus]]. As before, Hudson seemingly perishes when his suit detonates while transporting the heroes back home. However, during the explosion Hudson is transported to an alternate dimension. After some time, he eventually returns to Earth.{{issue|date=July 2013}}
+
+While again working for Department H, Hudson becomes caught up in the plans of its new director, General Jeremy Clarke. Scientists working for Clarke clone Hudson, steal his memories, and attempt to shoot his body into outer space. The plan does not succeed, though, as Hudson crash lands in [[Antarctica]].{{issue|date=July 2013}}
+
+A seemingly de-aged Hudson reappears to the members of Alpha Flight. This is in fact the clone created by Department H. The original Hudson is eventually found by [[Sasquatch (comics)|Sasquatch]] in Antarctica. After his return he once again becomes team leader while the clone becomes leader of [[Beta Flight]]. Later, both Hudsons are captured by [[Advanced Idea Mechanics|AIM]], and the clone is killed in the escape.<ref>''Wolverine'' Vol. 2 #143</ref>
+
+Along with several other members of Alpha Flight, Hudson attempts to return a clutch of [[Plodex]] eggs to their homeworld. However, an accident brings temporal copies of most of the original Alpha Flight from a time before Hudson's first "death" to the present. This group, including James Hudson, takes up the role of Alpha Flight while the original ones are helping to rebuild the Plodex homeworld.{{issue|date=July 2013}}
+
+Alpha Flight (Sasquatch, [[Major Mapleleaf|Major Mapleleaf II]], [[Puck (comics)|Puck Jr.]], Guardian, [[Vindicator (comics)|Vindicator]], [[Shaman (comics)|Shaman]], and [[Puck (comics)|Puck]]) is brutally attacked by [[Xorn|The Collective]],<ref>''[[Avengers (comics)|New Avengers]]'' #16</ref> resulting in the deaths of Guardian, Vindicator, Shaman, and Puck. Their bodies are left in the [[Yukon Territory]] as the Collective continues on to the United States.{{issue|date=July 2013}}
+
+The Guardian suit was worn by [[Michael Pointer (comics)|Michael Pointer]] during his run in [[Omega Flight]] before joining [[Green Goblin|Norman Osborn]]'s [[Dark X-Men]] as Weapon Omega.{{issue|date=July 2013}}
+
+During the ''[[Chaos War (comics)|Chaos War]]'' storyline, Guardian (alongside Vindicator, [[Shaman (comics)|Shaman]], and [[Marrina Smallwood]]) are among the heroes that return from the dead following what happened to the death realms. He reunites Alpha Flight to fight the Great Beasts.<ref>''Chaos War: Alpha Flight''</ref> James Hudson remains among the living after the defeat of the Chaos King.<ref>''Chaos War #5''</ref>
+
+==Powers and abilities==
+Formerly, Guardian used a skin-tight technological "battle suit" composed of steel mesh which served as an exoskeleton; it allowed him to fly, fire energy blasts and had a personal force field for defense. The suit design stems from a geological/oil-exploration exo-suit designed by Hudson during his early career. The original suit was clunky, over-large and awkward, though it did have an energy beam "weapon" system, ostensibly used for drilling/tunneling. The skin-tight suit is considered to be a later, possibly 2nd or 3rd generation, evolution of the original design. The battle suit is cybernetically controlled and contains a high resolution navigation system. The battle suit permits flight by directing beams of force towards the ground, propelling the wearer forward at up to Mach 1.
+
+Guardian could cause the battle suit computers to trigger and release gravitons, canceling the Earth's rotation relative to himself, propelling himself forward at up to about 1000 miles per hour (at the equator). This effect would suspend his positioning relative to the Earth's electromagnetic field while the planet rotated, allowing him to travel West at high speed depending on his [[latitude]] positioning.
+
+When he returned from space, the technology of the suit that formerly existed as a separate part of him was incorporated into his body. The alien Q`wrrlln converted James Hudson into a cyborg incorporating much of his battle suit; some of his mechanical parts were visible on the surface of his body. As a result, his powers were greatly enhanced. Hudson's cyborg brain was half-organic (portions of his original brain) and half-mechanical. Hudson could control his mechanical systems by mental command, though he was vulnerable to being controlled by the Q`wrrlln through the mechanical portion of his brain. With great effort the human portion of his brain could override this control.
+
+Guardian's power suit allows for:
+*increased strength and durability;
+*[[cybernetic]] link-up and hacking abilities;
+*advanced weapons systems, including (but not limited to) [[Electromagnetic radiation|electromagnetic]] pulse projectors, beams of concussive energy from the gauntlets, bolts of plasma, [[Ultrasound|ultrasonic]] beams, and a graviton beam;
+*increased intelligence due to the fusion of his battle suit to his neural network;
+*increased speed, reaching [[Mach number|Mach]] 1;
+*ability to create and travel through a wormhole.
+* the ability to lock himself relative to the Earth's electromagnetic field. Essentially, he cancels out the effects of the Earth's rotation upon himself. This allowed him to apparently "vanish", while actually being whisked westward at the speed of the planet's rotation.
+*the creation of a protective force field that dampens inertia and absorbs energy;
+*force shields that also deflect outside pressure, such as in the ocean depths;
+
+Hudson has earned a Ph.D. in engineering. He is a brilliant engineer, inventor, and a good battle strategist and leader.
+
+==Other versions==
+*On [[Marvel Zombies (series)|Earth-2149]], a zombified Guardian can be seen attacking the X-Men alongside zombified versions of Alpha Flight. He is killed when [[Magneto (comics)|Magneto]] scalps him with a metal blade. His body can later be seen being examined by [[Reed Richards]] on the S.H.I.E.L.D. [[Helicarrier]].
+*On Earth-3240, where the Cold War never ended, Guardian was Heather Hudson's second husband. (Her previous husband was [[Wolverine (character)|Logan]], whom she had killed while under the control of Weapon X.) This Guardian has much the same powers as the [[Earth-616]] Guardian.
+* On [[Ultimate Marvel|Earth 1610]], the [[Ultimate Marvel|Ultimate Universe]] version of Hudson is a non-powered Gulf war veteran and sheriff of Port St. Lucie, Florida, and was acquainted with [[Ultimate Wolverine|Wolverine]], who also introduced him to his wife Heather. Wolverine entrusted him with raising his son from Magda a.k.a. "The Witch of [[Wundagore]]". Hudson named him ''James Hudson'' (which later became James Howlett, after James discovered his true father). James eventually manifested a healing factor and claws in ''[[Ultimate Comics: X]]''.
+
+==In other media==
+
+===Television===
+* Hudson appears in the ''[[X-Men (TV series)|X-Men]]'' animated series under the code name Vindicator, voiced by [[Barry Flatman]]. He conspired with the head of Alpha Flight to force Wolverine's return to Canada so they can conduct experiments on how he was able to survive the [[Adamantium|adamantium]] bonding process and, if possible, extract the adamantium from his skeleton, regardless of the possibility of killing Wolverine. He felt heavily betrayed by Wolverine leaving Alpha Flight and used that as justification for his actions. He also deceived his team into believing he was bringing Wolverine back to the team. Throughout his battle with Logan, he was able to use his force field to protect himself from Wolverine's claws. However, when it failed, he was at Logan's mercy. Wolverine told him that the only reason he was still breathing after the battle is that he loved Vindicator's wife Heather. He also threatened that, if he or Alpha Flight came after him again, all bets were off.
+
+===Video games===
+* Guardian also appears as an NPC in ''[[X-Men Legends II: Rise of Apocalypse]]'' voiced by [[Jim Ward (voice actor)|Jim Ward]]. He and Vindicator are encountered in an abandoned Weapon X facility. He has special dialogue with Wolverine.
+* Guardian appears as a playable character in ''[[Marvel Super Hero Squad Online]]''.
+
+===Toys===
+*In 2008, Hasbro released an action figure of Guardian in its Marvel Legends line which was exclusive to Walmart.
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://alphaflight.net/showwiki/Guardian_I AlphaFlight.Net Alphanex Entry on - Guardian]
+* [http://www.marvel.com/universe/Guardian_%28James_Hudson%29 Guardian] at Marvel.com
+
+{{Flight Program}}
+[[Category:Fictional characters from Ontario]]
+[[Category:Fictional cyborgs]]
+[[Category:Fictional engineers]]
+[[Category:Fictional inventors]]
+[[Category:Fictional scientists]]
+[[Category:Fictional characters with energy manipulation powers]]
+[[Category:Powered exoskeletons in fiction]]
+[[Category:Marvel Comics martial artists]]
+[[Category:Marvel Comics superheroes]]
+[[Category:Canadian-themed superheroes]]
+[[Category:Comics characters introduced in 1978]]
+[[Category:Characters created by John Byrne]]
+[[Category:Characters created by Chris Claremont]]

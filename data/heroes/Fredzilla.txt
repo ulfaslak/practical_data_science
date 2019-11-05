@@ -1,0 +1,77 @@
+{{short description|Fictional character in the Marvel universe}}
+{{Infobox comics character<!--Wikipedia:WikiProject Comics-->
+|image=Fred (Marvel Comics).jpg
+|caption=Fred.<br>Art by [[David Nakayama]].
+|character_name=Fredzilla
+|real_name=Fred 
+|species=Human
+|publisher=[[Marvel Comics]]
+|debut=''[[Big Hero 6 (comics)|Big Hero 6]]'' #1 (September 2008)
+|creators=[[Chris Claremont]]<br>[[David Nakayama]]
+|alliances=[[Big Hero 6 (comics)|Big Hero 6]]
+|aliases=
+|powers=[[Kaiju]] transformation<br>Dinosaur aura generation 
+}}
+
+'''Fred''' (nicknamed '''Fredzilla''') is a fictional character appearing in [[American comic book]]s published by [[Marvel Comics]]. He is a member of the superhero team [[Big Hero 6 (comics)|Big Hero 6]].
+
+The character appears in the 2014 animated film ''[[Big Hero 6 (film)|Big Hero 6]]'', voiced by [[T. J. Miller]], and in the subsequent animated series by [[Brooks Wheelan]].
+
+==Publication history==
+The character was created by [[Chris Claremont]] and [[David Nakayama]] and first appeared in ''Big Hero 6'' #1 (September 2008). He along with [[Wasabi-No-Ginger]] were meant to serve as replacements for then current members [[Sunpyre]] and [[Ebon Samurai]].
+
+==Fictional character biography==
+{{expand section|date=June 2014}}
+Nicknamed Fredzilla, it is revealed that he is descended from the [[Ainu people|Ainu]], a group of indigenous people of Japan and that he spent time growing up on a secret [[S.H.I.E.L.D.]] base in Japan.<ref>''Big Hero Six'' #5 (January 2009). Marvel Comics.</ref>
+
+==Powers and abilities==
+Fred can transform into a [[Godzilla]]-like Kaiju. In addition, he can manifest the aura of his Kaiju form that can only be seen from certain perspectives.<ref>''Big Hero Six'' #2 (October 2008)</ref>
+
+==In other media==
+
+===Film===
+{{Infobox character
+| name               = Fred
+| series             = [[Big Hero 6 (film)|Big Hero 6]]
+| image              = Fred from Disney's Big Hero 6.png
+| image_size         = 150
+| caption            = [[Walt Disney Animation Studios]] re-imagining of Fred
+| first              = ''[[Big Hero 6 (film)|Big Hero 6]]'' (2014)
+| creator            = [[Don Hall (filmmaker)|Don Hall]]<br/>[[Chris Williams (director)|Chris Williams]]
+| voice              = [[T. J. Miller]] (film, [[Kingdom Hearts III]]) <br />[[Brooks Wheelan]] (TV series)
+| nickname           = Flame Jumper <small>(by Karmi)</small><ref>{{cite episode|title=Fan Friction|series=Big Hero 6: The Series|credits=Juwono, Ben (director); Jenny Jaffe (writer)|network=[[Disney XD]]|airdate=August 18, 2018|season=1|number=15}}</ref><br>Lizard Guy <small>(by Richardson Mole)</small>
+| alias              = Fredzilla<ref name="Fredzilla" />
+| gender             = Male
+| lbl21               = Full name
+| data21              = Frederick Frederickson IV<ref name="Frederick">{{cite episode|title=Baymax Returns|series=Big Hero 6: The Series|credits=Heneveld, Stephen and Ben Juwono (director); Sharon Flynn and Paiman Kalayen (writer)|network=[[Disney XD]]|airdate=November 20, 2017|season=1|number=1}}</ref>
+}}
+
+Fred appears in the [[Walt Disney Animation Studios]] 2014 animated film ''[[Big Hero 6 (film)|Big Hero 6]]'', voiced by [[T. J. Miller]].<ref>{{cite news|title=Disney Gives Marvel Fans First Look at Big Hero 6 Animated Film|url=http://www.ign.com/articles/2013/08/10/disney-gives-marvel-fans-first-look-at-big-hero-6-animated-film|accessdate=9 August 2013|newspaper=IGN|date=9 August 2013}}</ref><ref name="rotoscopers">{{cite web|last=Stradling|first=Morgan|title=Comedian TJ Miller is First Voice Actor Announced for Disney’s ‘Big Hero 6′ – He’s Voicing Fred!|url=http://www.rotoscopers.com/2014/03/27/comedian-tj-miller-is-first-voice-actor-announced-for-disneys-big-hero-6/|publisher=Rotoscopers|accessdate=March 28, 2014|date=March 27, 2014}}</ref> In the film, he is depicted as a laid-back comic book fan who works as the mascot at the San Fransokyo Institute of Technology. Speaking of Miller, co-director [[Chris Williams (director)|Chris Williams]] said "He's a real student of comedy. There are a lot of layers to his performance, so Fred ended up becoming a richer character than anyone expected."<ref name="rotoscopers"/><ref name="USATodayTruitt">{{cite web|last=Truitt|first=Brian|title=Meet the saviors of San Fransokyo in 'Big Hero 6'|url=https://www.usatoday.com/story/life/movies/2014/07/13/big-hero-6-character-reveal-exclusive/12535005/|newspaper=USA Today|accessdate=July 14, 2014|date=July 13, 2014}}</ref><ref name="DeadlineMayaJames">{{cite web|last1=Yamato|first1=Jen|title=Maya Rudolph, James Cromwell, More Join Disney’s Marvel Animation ‘Big Hero 6′|url=http://deadline.com/2014/07/disney-big-hero-6-voice-cast-804122/|publisher=Deadline|accessdate=September 5, 2014|date=July 14, 2014}}</ref><ref>{{cite web|title=Fred|url=https://thismoment-a.akamaihd.net/other/1410708464-2030.pdf|publisher=xprizechallenge.org|accessdate=September 24, 2014}}</ref> In much of the promotional materials, Fred initials his last name as "L.".<ref>{{cite web|url=https://disneysbighero6-bh6.tumblr.com/post/101558763514/fred|title=Fred...|website=Tumblr|author=disneybighero6-bh6|date=November 2, 2014|accessdate=April 19, 2018}}</ref>
+
+Fred considers himself a "major science enthusiast" and is always asking his friends to build and design things that are outside the laws of probability. Fred has a blue dragon suit built for him by Hiro which allows him to leap great distances and shoot fire. During the movie Fred's friends learn that he is actually incredibly wealthy, and he provides the secret base (his huge house), financial support, and necessary training for them to become superheroes. In the post-credits scene, Fred accidentally opens a secret door in his home, in which he finds superhero costumes and equipment. Fred then finds out these belong to his father (voiced by [[Stan Lee]] and animated in his likeness), a retired superhero, when he unexpectedly returns from his vacation. As they embrace each other, he says that he and Fred have much to talk about.
+
+===Television===
+Fred appears in ''[[Big Hero 6: The Series]]'', voiced by [[Brooks Wheelan]].<ref>{{cite news|title='Big Hero 6': Maya Rudolph & More Reprise Roles for Disney XD Animated Series|url=http://deadline.com/2016/11/big-hero-6-maya-rudolph-jamie-chung-reprise-roles-disney-xd-animated-series-1201847587/|work=Deadline|accessdate=November 3, 2016|date=November 3, 2016}}</ref> In the first episode, "Baymax Returns", Fred reveals his full name as '''Frederick Frederickson IV''' (retconning the promotional material). He pushes the team to continue crime fighting and he comes up with the name "Big Hero 6."<ref name="Frederick" /> Fred is shown to be very much aware of his own screw ups and in "Fred's Bro-Tillion" made every attempt to succeed in pleasing his mother who by the end accepts Fred's quirks.<ref>{{cite episode|title=Fred's Bro-Tillion|series=Big Hero 6: The Series|credits=Heneveld, Stephen (director); Sharon Flynn (writer)|network=[[Disney XD]]|airdate=June 10, 2018|season=1|number=4}}</ref> The nickname "Fredzilla" is uttered for the first time when he refers to himself as such starting in "The Impatient Patient".<ref name="Fredzilla">{{cite episode|title=The Impatient Patient|series=Big Hero 6: The Series|credits=Good, Kathleen (director); Bob Schooley and Mark McCorkle (writer)|network=[[Disney XD]]|airdate=July 7, 2018|season=1|number=9}}</ref> Despite being employed at SFIT, Fred does not have an access card like any of the students do.<ref>{{cite episode|title=Rivalry Weak|series=Big Hero 6: The Series|credits=Heneveld, Stephen (director); Han-Yee Ling (writer)|network=[[Disney XD]]|airdate=August 11, 2018|season=1|number=14}}</ref> In the episode "Mini-Max", it is shown that Fred has an uncontrollable destructive side when no one is fighting crime with him, resulting in Hiro designing a "sidekick" (really a nanny of sorts) named Mini-Max. The episode reveals that he is [[Arachnophobia|arachnophobic]] to the point that he tenses up. However, it is also shown that he is capable of inducing contradictory postulation as he took out a defective defense system by inquiring what it meant for it to attack a threat when the threat could potentially be itself.<ref>{{cite episode|title=Mini-Max|series=Big Hero 6: The Series|credits=Good, Kathleen and Kenji Ono (director); Paiman Kalayeh (writer)|network=[[Disney XD]]|airdate=August 25, 2018|season=1|number=16}}</ref>
+
+===Video games===
+Fred makes an appearance along with the rest of Big Hero 6 in ''[[Kingdom Hearts III]]''.<ref>{{cite web|url=http://collider.com/new-kingdom-hearts-3-trailer/|title=New ‘Kingdom Hearts III’ Trailer Calls in the Big (Hero 6) Guns|website=Collider|last=Trumbore|first=David|date=September 10, 2018|accessdate=September 10, 2018}}</ref>
+{{-}}
+
+==References==
+{{reflist|30em}}
+
+==External links==
+* [http://marvel.wikia.com/Fredzilla_%28Fred%29_%28Earth-616%29 Fredzilla] at Marvel Wiki
+* [http://www.comicvine.com/fredzilla/4005-35427/ Fredzilla] at Comic Vine
+
+{{Big Hero 6}}
+
+[[Category:Big Hero 6 characters]]
+[[Category:Fictional Ainu people]]
+[[Category:Fictional characters from Hokkaido]]
+[[Category:Fictional college students]]
+[[Category:Japanese superheroes]]
+[[Category:Marvel Comics superheroes]]
+[[Category:Teenage characters in comics]]
+
+{{Marvel-hero-stub}}

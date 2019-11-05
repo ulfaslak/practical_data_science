@@ -1,0 +1,54 @@
+{{refimprove|date=July 2016}}
+{{Notability|date=August 2018}}
+{{In-universe|date=August 2018}}
+{{Infobox comics character| <!--Wikipedia:WikiProject Comics-->
+image=[[Image:Brain Child from X-treme X-Men.png]]
+|caption=Brainchild from ''X-Treme X-Men: Savage Land'' #3 (Jan 2002). Pencils by Kevin Sharpe, inks by [[Danny Miki]].
+|character_name=Brainchild
+|real_name=
+|species=[[Savage Land Mutates|Savage Land Mutate]]
+|publisher=[[Marvel Comics]]
+|debut=''[[Uncanny X-Men|X-Men]]'' #62 (Nov 1969)
+|creators=[[Roy Thomas]] and [[Neal Adams]]
+|alliances=[[Savage Land Mutates]]
+|aliases=
+|powers=Superhuman intelligence
+|}}
+
+'''Brainchild''' is a fictional character appearing in [[American comic book]]s published by [[Marvel Comics]].
+
+==Publication history==
+Brainchild first appeared in ''[[Uncanny X-Men|X-Men]]'' vol. 1 #62-63 (November–December 1969), and was created by [[Roy Thomas]] and [[Neal Adams]].
+
+==Fictional character biography==
+Brainchild was once a [[Savage Land Races#Swamp Men|Swamp Man]] of the [[Savage Land]], a tropical preserve hidden in Antarctica. He became one of the [[Savage Land Mutates]], changed by [[Magneto (comics)|Magneto]] to give him unusually high intelligence, although he at least formerly only had the emotional level of a child.{{Issue|date=January 2011}} Brainchild was one of Magneto's first Savage Land Mutates, and has been involved in all the Mutates' subsequent activities.
+
+He is central to the selling of the Savage Land's resources to a corrupt faction within [[S.H.I.E.L.D.]]<ref>''New Avengers'' #5 (May 1, 2005)</ref>
+
+One incident, involving robotic dinosaurs, brings Brainchild into conflict with the heroic duo known as [[Moon Boy]] and [[Devil Dinosaur]].<ref>''Avenging Spider-Man'' #14 - 15 (January - February 2013)</ref>
+
+==Powers and abilities==
+Brainchild’s superhuman intelligence and computer-like mind enable him to make scientific and mathematical calculations with the speed and accuracy of a highly advanced computer.
+
+==Other versions==
+* Barbarus and Brainchild are eaten by the zombified Ka-Zar and [[Zabu]] in ''Marvel Zombies Vs. The Army of Darkness''.<ref>''Marvel Zombies vs. The Army of Darkness'' #3 (2007)</ref>
+* Brainchild appears in a two-part ''[[What If (comics)|What If?]]'' story: #46 (February 1993) - 'What If... Cable Had Destroyed The X-Men?' and #47 (March 1993) - 'What If... Magneto Took Over The USA?'
+
+==In other media==
+Brainchild appears in the ''[[X-Men (TV series)|X-Men: The Animated Series]]'' episode "Reunion" parts I and II along with the other Savage Land Mutates including [[Vertigo (Marvel Comics)|Vertigo]], [[Sauron (comics)|Sauron]] and [[Amphibius (comics)|Amphibius]]. Xavier briefly wonders if he is the "Master" the Mutates refer to and follow, but it is in fact [[Mister Sinister]].
+
+==References==
+<references/>
+
+==External links==
+* {{Marvunapp|http://www.marvunapp.com/Appendix4/brainchildslm.htm|Brainchild}}
+* [http://en.marveldatabase.com/Brainchild_%28Earth-616%29 Marvel Database Brainchild entry]
+
+[[Category:Characters created by Neal Adams]]
+[[Category:Characters created by Roy Thomas]]
+[[Category:Comics characters introduced in 1969]]
+[[Category:Marvel Comics mutates]]
+[[Category:Marvel Comics supervillains]]
+
+
+{{Marvel-villain-stub}}

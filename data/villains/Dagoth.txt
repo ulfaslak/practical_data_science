@@ -1,0 +1,9 @@
+#Redirect [[List of Marvel Comics demons]]
+
+{{Rcat shell|
+{{R from fictional character|Marvel Comics}}
+}}
+
+[[Category:Comics characters introduced in 1973]]
+[[Category:Marvel Comics devils]]
+[[Category:Marvel Comics supervillains]]

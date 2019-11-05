@@ -1,0 +1,46 @@
+{{Distinguish|Crusaders (DC Comics)}}
+{{Refimprove|date=July 2016}}
+
+{{Infobox comics organization <!--Wikipedia:WikiProject Comics-->
+|name=Crusaders
+|image=Invaders-15.jpg
+|imagesize=
+|caption=The Crusaders battle [[World War II]] superhero team the [[Invaders (comics)|Invaders]] on the cover of ''The Invaders'' #15 (April 1977). Art by [[Jack Kirby]].
+|publisher=[[Marvel Comics]]
+|debut=''[[Invaders (comics)|The Invaders]]'' #14 (March [[1977 in comics|1977]])
+|creators=[[Roy Thomas]]<br>[[Jack Kirby]]<br>[[Frank Robbins]]
+|base=
+|members=[[Captain Wings]]<br>[[Dyna-Mite]]<br>[[Ghost Girl (Marvel Comics)|Ghost Girl]]<br>The [[Spirit of '76 (Marvel Comics)|Spirit of '76]]<br>Thunder Fist<br>Tommy Lightning
+|cat=teams
+|subcat=Marvel Comics
+|hero=y
+|sortkey=Crusaders
+}}
+'''The Crusaders''' is a group of [[fictional]] characters appearing in [[American comic book]]s published by [[Marvel Comics]]. The characters first appear in ''[[Invaders (comics)|The Invaders]]'' #14 (March 1977) and were created by [[Roy Thomas]], [[Jack Kirby]], and [[Frank Robbins]].
+
+==Publication history==
+The Crusaders first appear in the [[World War II]] title ''[[Invaders (comics)|The Invaders]]'' and capture the crew of a crashed [[Germany|German]] [[bomber]]. Accepted by the [[United Kingdom|British]] people, the team ([[Captain Wings]], [[Destroyer (Roger Aubrey)|Dyna-Mite]], [[Ghost Girl (Marvel Comics)|Ghost Girl]], the [[Spirit of '76 (Marvel Comics)|Spirit of '76]], Thunder Fist, and Tommy Lightning) becomes the official protectors of the current [[king]] ([[George VI]]), thereby displacing the [[United States|American]] [[superhero]] team the Invaders. The Crusaders are revealed to be guided by a [[Taxicab driver|cabbie]] driver and apparent British [[spy]] called "Alfie", who can cancel their powers courtesy of a technological belt the character wears.
+
+The character Dyna-Mite, who has no memory of his former life, becomes suspicious and spies on Alfie, learning he is a [[Nazi]] agent and is planning to use the heroes to [[assassinate]] the king. Dyna-Mite warns the Invaders, and Alfie instigates a fight between the heroes and the Crusaders. The Nazi is killed in a car crash attempting to escape from the android [[Human Torch (android)|Human Torch]]. The Crusaders, now powerless, disband, although Dyna-Mite—revealed to be Roger Aubrey, the close friend of Brian Falsworth, the brother of Invader [[Spitfire (comics)|Spitfire]]—remains trapped in a minute form.<ref>''The Invaders'' #14-15 (March–April 1977)</ref>
+
+Aubrey is eventually restored to normal height and adopts Falsworth's former heroic identity as the Destroyer, now calling himself the [[Destroyer (Timely Comics)|Mighty Destroyer]] (as Falsworth eventually succeeded his father, James Falsworth, as [[Union Jack (comics)#Union Jack (Brian Falsworth)|Union Jack II]]).<ref>''The Invaders'' #26 (March 1978)</ref>
+
+===Conception===
+The Crusaders were based on the [[DC Comics]] superhero team the [[Freedom Fighters (comics)|Freedom Fighters]].<ref>{{Cite web | url=http://goodcomics.comicbookresources.com/2006/09/21/comic-book-urban-legends-revealed-69/ | title=Comic Book Urban Legends Revealed #69 | last=Cronin | first=Brian | work=[[Comic Book Resources]] | date=September 21, 2006 | accessdate=January 27, 2011}}</ref> The character associations are: [[Captain Wings]] and [[Black Condor]]; [[Dyna-Mite]] and [[Doll Man]]; [[Ghost Girl (Marvel Comics)|Ghost Girl]] and [[Phantom Lady#Sandra Knight|Phantom Lady]]; [[Spirit of '76 (Marvel Comics)|Spirit of '76]] and [[Uncle Sam (comics)|Uncle Sam]]; Thunder Fist and [[Human Bomb]]; and Tommy Lightning and the [[Ray (comics)|Ray]].
+
+At the same time that the Invaders were meeting the Crusaders in Marvel Comics, DC Comics' Freedom Fighters were also facing off against a team called the [[Crusaders (DC Comics)|Crusaders]],<ref>''Freedom Fighters'' #8-9 (May–August 1977)</ref> with the DC version of the Crusaders based upon Marvel Comics' Invaders. (Several of the Crusaders that fought the Freedom Fighters were really "comic book fans" named "Lennie" ([[Len Wein]]), "Marvin" ([[Marv Wolfman]]), "Arch" ([[Archie Goodwin (comics)|Archie Goodwin]]), and "Roy" ([[Roy Thomas]]), as shown in ''Freedom Fighters'' #9.)
+
+==References==
+{{Reflist}}
+
+==External links==
+* {{comicbookdb|team|272}}
+
+{{Invaders}}
+{{Jack Kirby}}
+
+[[Category:Characters created by Jack Kirby]]
+[[Category:Characters created by Roy Thomas]]
+[[Category:Marvel Comics superhero teams|Crusaders]]
+[[Category:Marvel Comics superheroes]]
+[[Category:United States-themed superheroes]]

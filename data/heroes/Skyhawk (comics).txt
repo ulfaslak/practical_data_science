@@ -1,0 +1,11 @@
+#REDIRECT [[Earth Force (Marvel Comics)#Skyhawk]]
+
+{{Rcat shell|
+{{R from fictional character|Marvel Comics}}
+{{R from merge}}
+{{R to section}}
+}}
+
+[[Category:Fictional businesspeople]]
+[[Category:Fictional characters from New York City]]
+[[Category:Marvel Comics superheroes]]

@@ -1,0 +1,78 @@
+<!-- Please do not remove or change this AfD message until the discussion has been closed. -->
+{{Article for deletion/dated|page=Black Crow (comics)|timestamp=20190131175539|year=2019|month=January|day=31|substed=yes|help=off}}
+<!-- Once discussion is closed, please place on talk page: {{Old AfD multi|page=Black Crow (comics)|date=31 January 2019|result='''keep'''}} -->
+<!-- End of AfD message, feel free to edit beyond this point -->
+{{Use mdy dates|date=November 2015}}
+{{multiple issues|
+{{Notability|date=August 2018}}
+{{In-universe|date=August 2018}}
+}}
+{{Superherobox| <!--Part of Wikipedia:WikiProject Comics-->
+image=[[Image:Black Crow (Marvel character).jpg|250px]]
+|caption=
+|character_name=Black Crow
+|publisher=[[Marvel Comics]]
+|debut=''[[Captain America (comic book)|Captain America]]'' #292, (April 1984)
+|creators= [[J.M. DeMatteis]] (writer)<br>[[Paul Neary]] (penciller)
+|real_name=Jesse Black Crow
+|species = <!-- optional -->
+|homeworld = <!-- optional -->
+|alliances = <!-- optional -->
+|aliases = <!-- optional: actual identities the character uses, not nicknames -->
+|supports =
+|powers=Various mystical powers, superhuman agility, skilled combatant
+|}}
+
+'''Black Crow''' ('''Jesse Black Crow''') is a fictional [[Indigenous peoples of the United States|Native American]] [[superhero]] appearing in [[American comic book]]s published by [[Marvel Comics]].
+
+==Publication history==
+The Black Crow first appeared in ''[[Captain America (comic book)|Captain America]]'' #292 (April 1984), and was created by writer [[J. M. DeMatteis]] and [[penciller]] [[Paul Neary]].<ref name=Green>{{cite book |last1=Green |first=Paul |date= |title=Encyclopedia of Weird Westerns: Supernatural and Science Fiction Elements in Novels, Pulps, Comics, Films, Television and Games |url=https://books.google.com/books?id=HDnHo993Dv0C&pg=PA38#v=onepage&q&f=false |page=38 |publisher=McFarland |isbn=9780786458004 |accessdate=December 2, 2013}}</ref><ref>[https://books.google.com/books?id=3et4AAAAQBAJ&pg=PA195#v=onepage&q&f=false Native Americans in Comic Books: A Critical Study]</ref>
+
+==Fictional character biography==
+Jesse Black Crow, a member of the Navajo nation, left the [[New Mexico]] reservation to become a construction worker on skyscrapers in New York City. One day, while working 20 stories up, scaffolding gave way and Jesse plunged to the ground. He survived the fall, but was permanently paralyzed from the waist down. Comatose in the hospital, Jesse received a vision from the spirit of the Earth showing him the plight of the Native American people. When needed, the spirit transformed Jesse into, '''Black Crow''', a mystical warrior and protector of his people.<ref name=Green/><ref name=CC292/>
+
+The Earth spirit first sent Black Crow to challenge [[Captain America]] to a trial by combat because, as a symbol of modern America, Captain America must perish to appease the spirit. After a well-fought battle, Captain America made a gesture of appeasement to the Earth spirit. This ended the conflict and created a spiritual bond between the two American heroes.<ref name=CC292>{{Cite comic | writer = [[J.M. DeMatteis]] | penciller = [[Paul Neary]] | inker = Eduardo Berreto | colorist = Bob Sharen | letterer = Diana Albers | editor = [[Mark Gruenwald]] | story = An American Christmas | title = [[Captain America]] | volume = 1 | issue = 292 | date = April 1984 | publisher = [[Marvel Comics]] | location = New York City}}</ref><ref>[https://books.google.com/books?id=gQD0WX6czQAC&pg=PA173#v=onepage&q&f=false Captain America and the Struggle of the Superhero: Critical Essays]</ref>
+
+Some weeks later, Black Crow appeared at Captain America's bedside. The Captain had been poisoned by the [[Red Skull]] and was on the brink of death. Black Crow enhanced Captain America's will to live and the poison burned out of his system.<ref>''Captain America'' #299–300</ref> Months later, the Earth spirit sent Black Crow to observe [[Daredevil (Marvel Comics character)|Daredevil]] who was to meet with a mysterious danger that never materialized.<ref>''Daredevil'' #225</ref>
+
+Much later, Black Crow battled the malevolent Native American spirit, the Cat, in Yosemite National Park, but neither could defeat the other. The [[Avengers (comics)|Avenger]] [[Hawkeye (comics)|Hawkeye]] traveled to Yosemite to train, but was unable due to the Cat's influence. Black Crow told the Avenger that he was chosen to defeat the Cat. At first, Hawkeye disagreed, but finally agreed and defeated the Cat with Black Crow's help.<ref>''Marvel Fanfare'' #39 (August 1988)</ref><ref>[http://www.marvunapp.com/Appendix3/cathawkeye.htm Cat (Native American Demon)] at marvunapp.com</ref>
+
+Black Crow later assisted [[Red Wolf (comics)#William Talltrees|Red Wolf]] and [[Doctor Strange]] in rescuing Red Wolf's mentor, Owayodata, who had been taken hostage by a trio of other Native American gods, Calumet, [[Nanabozho]] and Hotamitanio.<ref>''Doctor Strange'' Vol. 3 #25</ref><ref>[http://marvunapp.com/Appendix/owydat.htm Owayodata] at marvunapp.com</ref><ref>[http://www.marvunapp.com/Appendix/hotamint.htm Hotamintanio] at marvunapp.com</ref>
+
+Some time later, Black Crow interceded into a conflict between [[Spider-Man]] and the [[Puma (comics)|Puma]]. He put Spider-Man and Puma through a mystical experience to resolve their differences, and then removed Puma's knowledge of Spider-Man's secret identity. Soon after this, Black Crow is attacked by the demon [[D'Spayre]]. But, Black Crow finally reveals himself as real to Jesse and with their combined strength defeat D'Spayre.
+
+In his last known appearance, Black Crow appeared to Captain America telling him that he was going to die within 24 hours.<ref>''Captain America'' #443</ref><ref>[http://www.marvunapp.com/Appendix2/stankowicz.htm Fabian Stankowicz] at marvunapp.com</ref>
+
+===Civil War/The Initiative===
+After the passing of SHRA he was arrested and sent to prison "42". In the Civil War tie-in ''War Crimes'', it was revealed that Black Crow was apprehended after a 12-hour stand off with S.H.I.E.L.D. He was among the many prisoners who escaped during the massive breakout arranged by Captain America.
+
+Jesse was being considered as a "potential recruit" for the [[Avengers: The Initiative|Initiative]] program.<ref name="civilwarbattledamage">{{Comic book reference | Writer = [[Anthony Flamini]] & [[Ronald Byrd]] | Penciller =  [[Scott Kolins]] | Inker = [[Scott Kolins]] | Story =  | Title = Civil War: Battle Damage Report | Issue = 1 | Date = March 2007 | Publisher = [[Marvel Comics]] | }}</ref>
+
+==Powers and abilities==
+Normally, Jesse Black Crow is paralyzed from the waist down and uses a wheelchair. He has the ability to undergo a mystical transformation into the Black Crow courtesy of an "Earth Mother" spirit once worshiped by his Navajo ancestors.
+
+In his form as Black Crow, he has superhuman strength, stamina, durability, agility and reflexes, and is a gifted unarmed combatant.  He can mystically summon fog and mist and has shape-shifting powers. His two most well-known forms are that of a crow or a bolt of lightning, but he has apparently also transformed himself into mist, and assumed the forms of Spider-Man, the [[Puma (comics)|Puma]], an actual puma, and a gigantic crow. He retains his human intelligence in any form, and can speak in animal form.
+
+Black Crow can also apparently mystically transport himself and others into the other-dimensional land of the Anasazi of Native American myth.
+
+Black Crow has proven capable of communicating telepathically with Captain America, paralyzing a person through mystic hypnosis, and removing specific memories from a person's mind. He possesses mystic senses that are attuned to the spirits of mortal Native Americans and to their deities.  He can sense the auras of other Native Americans and thereby learn their recent past.
+
+He appears capable of creating visions and illusions in the minds of others, leading to speculation that some of the above-mentioned feats may have been illusions as well.
+
+He carries a spear, which he spins to perform certain mystic feats such as cleansing negative magical energies. He also carries an ordinary longbow, arrows, and knife. He wears a pouch containing mystic herbs he can employ for various purposes, involving his knowledge of mystic rituals.
+
+He also uses "freezing mist" that can paralyze other people and blank their minds for brief periods of time.
+
+==References==
+{{reflist}}
+
+==External links==
+* {{comicbookdb|character|6869|Black Crow}}
+
+[[Category:Characters created by J. M. DeMatteis]]
+[[Category:Characters created by Paul Neary]]
+[[Category:Comics characters introduced in 1984]]
+[[Category:Fictional characters from New Mexico]]
+[[Category:Fictional Navajo people]]
+[[Category:Marvel Comics characters who use magic]]
+[[Category:Marvel Comics superheroes]]

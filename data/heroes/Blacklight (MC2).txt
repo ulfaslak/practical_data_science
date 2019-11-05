@@ -1,0 +1,48 @@
+{{Multiple issues|
+{{Citations broken|date=October 2013}}
+{{Refimprove|date=October 2013}}
+{{notability|date=June 2018}}
+}}
+{{Use mdy dates|date=June 2014}}
+
+{{Infobox comics character| <!--Wikipedia:WikiProject Comics-->
+image=[[Image:BlacklightAN.jpg|250px]]
+|caption=Blacklight flies to the rescue.
+|character_name=Blacklight
+|real_name=Kandra Freeman<ref name=comicboards>{{Cite web |url=http://www.comicboards.com/spidergirl/view.php?rpl=000705170607 |title=Archived copy |access-date=December 1, 2006 |archive-url=https://web.archive.org/web/20070927024513/http://www.comicboards.com/spidergirl/view.php?rpl=000705170607 |archive-date=September 27, 2007 |dead-url=yes |df=mdy-all }}</ref>{{Citation broken|date=October 2013}}
+|publisher=[[Marvel Comics]]
+|debut=''[[A-Next]]'' #9 (1999)
+|creators=[[Tom DeFalco]]<br>[[Ron Frenz]]
+|alliances=[[A-Next]]
+|aliases=
+|powers=High speed flight<br>Energy projection<br>Control over solid light constructs
+|}}
+
+'''Blacklight''' ('''Kandra Freeman'''), is a fictional character appearing in [[American comic book]]s published by [[Marvel Comics]]. The character appeared in the [[Marvel Comics 2|MC2]] series ''[[A-Next]]''.  She is the daughter of Derek Freeman and [[Monica Rambeau]] aka Photon.<ref name=comicboards/>{{Citation broken|date=October 2013}}
+
+==Fictional character biography==
+When [[Thunderstrike (Kevin Masterson)|Kevin Masterson]] of A-Next was attacked by his old enemies, the "Sons of the Serpent", he was heavily outnumbered, and was surrounded by people so he couldn't transform into his heroic identity of Thunderstrike. But help arrived in the form of a costumed heroine, called Blacklight (whose costume bore a noticeable resemblance to the costume worn by Photon). Blacklight was able to use her energy manipulation powers to fight the Sons of the Serpent. Despite her apparent newness to the superhero game, she soon showed the Serpents that she was a force to be reckoned with, especially when she demonstrated the power to form solid objects out of [[darkforce]]. Kevin was finally able to change into Thunderstrike and help her fight the Serpents. Thunderstrike was very impressed with her performance after the battle was won, and offered her a spot on the A-Next team, but she declined, preferring to work as a solo hero.
+
+But when the evil Red Queen and her [[Revengers]] captured A-Next, Blacklight was quick to lend assistance, using her energy constructs to both free the captured heroes, and fight the villains. When the battle was over, she accepted membership with A-Next.
+
+==Powers and abilities==
+Blacklight has the ability to manipulate solid light constructs, and use it to fire blasts of destructive energy. She can also focus her energies into solid form and create energy-constructs in virtually any form she can envision (ramps, stop signs, giant shovels, etc.) out of darkforce. She can also use her energy powers to fly at high speed.
+
+==References==
+{{Reflist}}
+
+==External links==
+* {{comicbookdb|type=character|id=21323|title=Blacklight (MC2)}}
+
+{{MC2}}
+
+[[Category:Characters created by Tom DeFalco]]
+[[Category:Characters created by Ron Frenz]]
+[[Category:Comics characters introduced in 1999]]
+[[Category:Marvel Comics 2]]
+[[Category:Marvel Comics superheroes]]
+[[Category:Female characters in comics]]
+[[Category:Fictional African-American people]]
+
+
+{{Marvel-hero-stub}}

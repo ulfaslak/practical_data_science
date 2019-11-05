@@ -1,0 +1,617 @@
+{{Infobox comics character| <!--Wikipedia:WikiProject Comics-->
+|character_name  = Dormammu
+|image           = dormammu.jpg
+|converted       = y
+|caption         = Dormammu, as seen in ''[[Defenders (comics)|Defenders]]'' vol. 3, #1<br>(September 2005).<br>Art by [[Kevin Maguire (artist)|Kevin Maguire]]. 
+|publisher       = [[Marvel Comics]]
+|debut           = ''[[Strange Tales]]'' #126 (November 1964)
+|creators        = [[Stan Lee]] (writer)<br>[[Steve Ditko]] (artist)
+|species         = Faltine
+|alliances       = [[Mindless Ones]]
+|partners        = [[Umar (Marvel Comics)|Umar]]<br/>[[Satannish]]
+|aliases         = The Dread One; Lord of Chaos; The Great Enigma
+|powers          = Mystic energy manipulation<br>Mastery of dark magic<br>Dimensional teleportation<br>Immortality
+|}}
+'''Dormammu''' ({{IPAc-en|d|ɔr|ˈ|m|ɑː|m|uː}}) is a [[fictional character]] appearing in [[American comic book]]s published by [[Marvel Comics]]. The character first appeared in ''[[Strange Tales]]'' #126 (November 1964), and was created by [[Stan Lee]] and [[Steve Ditko]].
+
+Debuting in the [[Silver Age of comic books]], Dormammu has appeared in six decades of Marvel publications, featuring prominently in the [[Doctor Strange]] titles and limited series as a recurring enemy of the [[mysticism|mystic]] hero. The character has also appeared in associated Marvel merchandise including [[films]], [[animated]] [[television series]], [[toy]]s, [[trading cards]], and [[video games]].
+
+In 2009, Dormammu was ranked as [[IGN]]'s 56th Greatest Comic Book Villain of All Time.<ref>[http://uk.comics.ign.com/top-100-villains/56.html Dormammu is number 56] {{webarchive |url=https://web.archive.org/web/20130627044842/http://uk.comics.ign.com/top-100-villains/56.html |date=June 27, 2013 }} [[IGN]]. Retrieved 10-05-09.</ref>
+
+The character made his film debut in the 2016 film ''[[Doctor Strange (2016 film)|Doctor Strange]]'', performed through motion capture by [[Benedict Cumberbatch]] and voiced by Cumberbatch and an unidentified British actor.
+
+==Publication history==
+=== Origin ===
+Dormammu first appeared in ''[[Strange Tales]]'' #126–127 (November – December 1964), but had been mentioned previously in dialog, along with his realm the "Dark Dimension".
+
+Writer [[Mike Conroy (writer)|Mike Conroy]] said:
+
+{{quote|text=To Lee and Steve Ditko, the Lord of the Realm of Darkness and the associated invocations were just another piece of business, another way of adding depth to the otherwordly nature of Strange's adventures. However, the readers were intrigued. They wanted to know more. "It seems there was something about that nutty name, Dormammu, that was keeping Doc's devoted disciples awake at nights trying to figure out who Dormammu was," Lee explained. "I knew I was in big trouble. I had made up the name—now I had to dream up a character to go with the name. But who? How?
+
+Ditko visualized the answer. "He gave the demoniac DD...a visage totally different from any villain I had ever seen in comics before," proclaimed Lee.<ref>Conroy, Mike. ''500 Comicbook Villains'', Collins & Brown, 2004.</ref>}}
+
+After being established as the ruler of an [[Parallel universe (fiction)|alternate dimension]] (later described as the god-tyrant of its denizens),<ref>''Excalibur'' v.3, #14 (2005)</ref> Dormammu became a perennial foe of Sorcerer Supreme Doctor Strange, who until this time had dealt almost exclusively with off-beat "one-off" mystical threats in ''Strange Tales'' #110–125 (July 1963 – October 1964). Strange's first encounter with Dormammu in the "Dark Dimension" also introduced [[Clea]], eventually revealed to be the niece of the villain (like Clea's name, this was not initially revealed in ''Strange Tales'' #126; November 1964), and the monstrous and imprisoned [[Mindless Ones]].
+
+Major appearances include starring in an epic fifteen issue storyline in ''Strange Tales'' #131–146 (April 1965 – July 1966); the discovery that Dormammu has a sister, [[Umar (comics)|Umar]], and both are in fact mystical beings called ''Faltine'' in ''Strange Tales'' #150 (November 1966); teaming with fellow villain [[Loki (comics)|Loki]] to instigate the "Avengers-Defenders War" in ''[[Avengers (comics)|Avengers]]'' #115–118 (September – December 1973) and ''[[Defenders (comics)|Defenders]]'' #8–11 (September – December 1973); ''[[Thor (Marvel Comics)|Thor]] '' Annual #9 (1981); ''Doctor Strange, Sorcerer Supreme'' #1–2 (November 1988 & January 1989) and the [[Limited series (comics)|limited series]] ''Doctor Strange: The Flight of the Bones'' #1–4 (February – May 1999) and ''[[Patsy Walker|Hellcat]]'' #1–3 (September – November 2000).
+
+After a major appearance in ''[[The Amazing Spider-Man]]'' #498–500 (October – December 2003), Dormammu became the patron of small-time villain the [[Hood (comics)|Hood]] in ''[[The New Avengers (comics)|New Avengers]]'' #46 (December 2008).
+
+== Fictional character biography ==
+
+=== 1960s ===
+Dormammu is first mentioned by [[Baron Mordo|Karl Amadeus Mordo]], senior apprentice of the appointed "Sorcerer Supreme" the "[[Ancient One]]", who, in the entity's service, attempts to slowly weaken the sorcerer, but is stopped when his fellow pupil [[Doctor Strange|Stephen Strange]] alerts his master to the betrayal.<ref>{{Cite comic
+  | writer= [[Stan Lee]]
+<!--   | artist= [[Steve Ditko]] -->
+  | story= Black Magic
+  | title= [[Strange Tales]]
+  | volume= 1
+  | issue= 111
+  | date= August 1963
+  | publisher= [[Marvel Comics]]
+  | page= 
+  | panel= 
+}}</ref>
+
+The character later appears in person when sending a messenger to boast his renewed intentions of conquering his universe before his aging adversary. In response, Doctor Strange travels to Dormammu's "[[Dark Dimension (comics)|Dark Dimension]]" as the Ancient One does not consider himself powerful enough to defeat Dormammu, and manages to overcome all supernatural servitors sent against him. Dormammu engages Strange in mystic combat and shows himself to be far more powerful, but, when drawing upon the realm's energies, inadvertently weakens the barrier containing the horde of [[Mindless Ones]]. Since they threatened Dormammu's subjects, Strange helped his enemy to re-seal the juggernauts by letting power from his amulet flow into Dormammu. Indebted to Strange for his help, Dormammu ends the fight, and in return Strange demands a binding vow to never enter the "Earth realm" again and to not harm Clea. Dormammu complies, but gains a burning hatred against Strange for the humiliation.<ref>{{Cite comic
+  | writer= [[Stan Lee]]
+<!--   | artist= [[Steve Ditko]] -->
+  | story= The Domain of the Dread Dormammu!; Duel With the Dread Dormammu!
+  | title= [[Strange Tales]]
+  | volume= 1
+  | issue= 126-127
+  | date= November–December 1964
+  | publisher= [[Marvel Comics]]
+  | page= 
+  | panel= 
+}}</ref>
+
+Dormammu uses a loophole to his oath by granting Mordo vast power, whereupon the sorcerer leads his minions on a lengthy hunt for Strange, and abduct the Ancient One as a bargaining chip. Dormammu's niece, [[Clea]], assists Strange by weakening the barrier of the Mindless Ones, forcing her uncle to focus elsewhere. Dormammu learns of her betrayal, brings all three Earth sorcerers to a neutral realm, to let her see his disciple destroy Strange, and summons fellow "Lords of the Netherworlds" to watch the spectacle. When Strange begins to get an advantage against Mordo, Dormammu decides to face the sorcerer in a contest of pure hand-to-hand-combat. The physically stronger entity eventually falls to his foe's greater familiarity with [[martial arts]]. To Dormammu's humiliation, before the gathered Lords, Strange forces him to vow not to menace the Earth even by proxy. The villain strikes a parting blow by banishing Clea, and inciting another lord to attack Strange.<ref name="Martial arts fight">{{Cite comic
+  | writer= Steve Ditko; Stan Lee
+<!--   | artist= Steve Ditko -->
+  | story= The Pincers of Power!
+  | title= [[Strange Tales]]
+  | volume= 1
+  | issue= 130-141
+  | date= March 1965 - January 1966
+  | publisher= [[Marvel Comics]]
+  | page= 
+  | panel= 
+}}</ref>
+
+In an apparent bid for power the character engages the universal embodiment, [[Eternity (comics)|Eternity]], in single combat, but is defeated and banished.<ref>{{Cite comic
+  | writer= [[Denny O'Neil]]
+<!--   | artist= Steve Ditko -->
+  | story= When The Unliving Strike!
+  | title= Strange Tales
+  | volume= 
+  | issue= 146
+  | date= July 1966
+  | publisher= Marvel Comics
+  | page= 
+  | panel= 
+}}</ref>
+
+Dormammu captures Clea, and overpowers and imprisons Strange. The sorcerer manipulates Umar into freeing him, and then surprises Dormammu by pushing him through a portal to the Earth. This makes the entity wither from the curse cast by his own power, when vowing to never enter the Earth realm, and he departs to his own plane.<ref>{{Cite comic
+  | writer= Roy Thomas
+<!--   | penciller= [[Tom Palmer]] (171); [[Gene Colan]] (172-173)
+  | inker= [[Dan Adkins]] (171); Tom Palmer (172-173) -->
+  | story= 
+  | title= [[Doctor Strange]]
+  | volume= 1
+  | issue= 171-173
+  | date= August - October 1968
+  | publisher= Marvel Comics
+  | page= 
+  | panel= 
+}}</ref>
+
+===1970s===
+Dormammu enters into an alliance with the [[Asgard (comics)|Asgardian]] [[Loki (comics)|Loki]]  and tricks superhero teams the [[Avengers (comics)|Avengers]] and [[Defenders (comics)|Defenders]] into fighting each other for components of the artifact known as the [[Evil Eye of Avalon|Evil Eye]]. The Eye is reassembled, and allows Dormammu to merge his own universe with all the planets of the "regular" Marvel Universe without breaking his vow. Dormammu imprisons the traitorous Loki and effortlessly overwhelms all of his other opponents, leaving only the [[Scarlet Witch]]. When Loki escapes and distracts Dormammu, the Scarlet Witch casts a hex on the Eye that causes it to absorb Dormammu, and costs Loki his sanity.<ref name="Avengers/Defenders War">"Avengers/Defenders War" from:
+*{{Cite comic
+  | writer= [[Steve Englehart]]
+<!--   | penciller= [[Bob Brown]]
+  | inker= [[Mike Esposito]] -->
+  | story= 
+  | title= [[Avengers (comics)|The Avengers]]
+  | volume= 1
+  | issue= 115-118
+  | date= September - December 1973
+  | publisher= Marvel Comics
+  | page= 
+  | panel= 
+}}
+*{{Cite comic
+  | writer= Steve Englehart
+<!--   | penciller= [[Sal Buscema]]
+  | inker= [[Frank McLaughlin]] (8-9); [[Frank Bolle]] (10-11) -->
+  | story= 
+  | title= [[Defenders (comics)|The Defenders]]
+  | volume= 1
+  | issue= 8-11
+  | date= September - December 1973
+  | publisher= Marvel Comics
+  | page= 
+  | panel= 
+}}</ref>
+
+After being seen in [[Flashback (narrative)|flashback]],<ref>{{Cite comic
+  | writer= Steve Englehart
+<!--   | penciller= [[Frank Brunner]]
+  | inker= [[Alan Weiss]] -->
+  | story= Amidst the Madness
+  | title= Doctor Strange
+  | volume= 2
+  | issue= 3
+  | date= September 1974
+  | publisher= Marvel Comics
+  | page= 
+  | panel= 
+}}</ref> the character manages to reintegrate himself on Earth, but is recovering slowly to full strength. Together with Umar, Dormammu captures the [[Elder Gods (Marvel Comics)|elder goddess]] [[Gaea (Marvel Comics)|Gaea]],<ref>
+{{Cite comic
+  | writer= Steve Englehart
+<!--   | penciller= Gene Colan
+  | inker= [[Klaus Janson]] (6); [[John Romita Sr.]] (7) -->
+  | story= 
+  | title= Doctor Strange
+  | volume= 2
+  | issue= 6-7
+  | date= February - April 1975
+  | publisher= Marvel Comics
+  | page= 
+  | panel= 
+}}</ref> and seeks revenge against the Scarlet Witch by kidnapping her and her mentor, [[Agatha Harkness]], from her wedding to the [[Vision (Marvel Comics)|Vision]]. After Wanda and Agatha remove the heat needed for his regeneration, he departs for his own realm.<ref>{{Cite comic
+  | writer= Steve Englehart
+<!--   | penciller= [[Don Heck]]
+  | inker= [[John Tartaglione]] -->
+  | story= ...Let All Men Bring Together
+  | title= Giant-Size Avengers
+  | volume= 1
+  | issue= 4
+  | date= June 1975
+  | publisher= Marvel Comics
+  | page= 
+  | panel= 
+}}</ref> Immediately afterwards, he attempts to destroy Doctor Strange and Clea. He is betrayed by Umar, who steals his power and allows the character to be banished from Earth.<ref>{{Cite comic
+  | writer= Steve Englehart
+<!--   | penciller= Gene Colan
+  | inker= Tom Palmer (8); [[Frank Chiaramonte]] (9) -->
+  | story= 
+  | title= Doctor Strange
+  | volume= 2
+  | issue= 8-9
+  | date= June - August 1975
+  | publisher= Marvel Comics
+  | page= 
+  | panel= 
+}}</ref>
+
+Dormammu tricks Strange into battling both the demon [[Ghost Rider]] and the Bounty Hunter in an unsuccessful attempt to kill Strange.<ref>
+{{Cite comic
+  | writer= [[Don Perlin]]; [[Roger McKenzie (comics)|Roger McKenzie]]
+<!--   | penciller= Don Perlin
+  | inker= [[Jim Mooney]] (30); [[Bob Layton]] (31) -->
+  | story= 
+  | title= [[Ghost Rider]]
+  | volume= 3
+  | issue= 30-31
+  | date= June - August 1978
+  | publisher= Marvel Comics
+  | page= 
+  | panel= 
+}}</ref> Dormammu appears in a "''[[What If (comics)|What If...?]]''" [[Parallel universe (fiction)|alternate universe]] story as Strange's master in that reality.<ref>
+{{Cite comic
+  | writer= [[Peter Gillis]]
+<!--   | penciller= [[Tom Sutton]]; [[Bruce Patterson]]
+  | inker= Bruce Patterson -->
+  | story= What if Dr. Strange had Been a Disciple of Dormammu?
+  | title= [[What If (comics)|What If...?]]
+  | volume= 1
+  | issue= 18
+  | date= December 1979
+  | publisher= Marvel Comics
+  | page= 
+  | panel= 
+}}</ref>
+
+===1980s===
+Dormammu acts as the envoy of [[Lord Chaos (Marvel Comics)|Lord Chaos]] and plays against [[Odin (Marvel Comics)|Odin]] in a cosmic chess match whose outcome decides the universal balance of chaos and order. Umar attempts to rig the game in her brother's favor by manipulating Odin's son Thor unsuccessfully, and the game ends in a draw.<ref>{{Cite comic
+  | writer= [[Chris Claremont]]
+<!--   | penciller= [[Luke McDonnell]]; [[Vince Colletta]]
+  | inker= Vince Colletta -->
+  | story= The Great Game!
+  | title= [[Thor (Marvel Comics)|Thor Annual]]
+  | volume= 1
+  | issue= 9
+  | date= 1981
+  | publisher= Marvel Comics
+  | page= 
+  | panel= 
+}}</ref>
+
+Dormammu's agent Baron Mordo travels back in time to [[London]] in the year 1943, where he allies with the [[Aristocracy (class)|aristocrats]] Viscount Krowler and Sir Anthony Baskerville. Dormammu possesses Krowler, and begins to manifest on the Earth plane by absorbing power from the destruction of [[World War II]], but he is banished by Doctor Strange.<ref>''Doctor Strange'' vol.2, #49-51 (1981-1982)</ref>
+
+The character reappears during the "[[Inferno (Marvel Comics)|Inferno]]" storyline. Strange, following an arduous confrontation with [[Shuma-Gorath]], heals through a process that takes him through various mystical realms. This allows Dormammu to attach himself to his foe, and possess the sorcerer’s body, which exempts him from the vow to not directly enter the Earth-realm. Summoning extraterrestrial sorcerers as his lieutenants, Dormammu vows to "burn" and replace the [[Celestial (comics)|Celestials]] as the greatest power in the Earth's universe, but is distracted and tricked by Clea and Strange (his consciousness occupying a [[rat]]), while their ally [[Topaz (Marvel Comics)|Topaz]] exorcises Dormammu’s presence.<ref name="Celestials">{{Cite comic
+  | writer= Peter Gillis
+<!--   | penciller= [[Richard Case]]
+  | inker= [[Randy Emberlin]] -->
+  | story= 
+  | title= Doctor Strange, Sorcerer Supreme
+  | volume= 1
+  | issue= 1-2
+  | date= November 1988 - January 1989
+  | publisher= Marvel Comics
+  | page= 
+  | panel= 
+}}</ref>
+
+===1990s===
+The character reconstitutes again, regains control of the Dark Dimension from Clea by subverting her will, and summons her parents, Umar and Orini, from exile. Umar and Baron Mordo join forces with Clea and Doctor Strange. The enraged Dormammu threatens to completely destroy the "Dark Dimension" in retaliation, but Umar convinces him to accept a compromise as the ruler of a sub-realm, whereas his sister takes over rulership from Clea, with Mordo as her consort. Clea agrees to abdicate rather than see all of her people killed, but promises to return if Umar becomes a tyrant again. Dormammu finds that he has been tricked into becoming the ruler of the realm of the Mindless Ones.<ref>{{Cite comic| writer= Roy Thomas; [[Dann Thomas]]| penciller= [[Jackson Guice]]  | inker= [[Tony Dezuniga]]; [[Mark McKenna]]| story= The Dark Wars  | title= Doctor Strange, Sorcerer Supreme  | volume= 1  | issue= 21-24| date= October - December 1990| publisher= Marvel Comics}}</ref>
+
+After two brief appearances,<ref>{{Cite comic| writer= Roy Thomas; Dann Thomas|penciller= [[Chris Marrinan]]| inker= Mark McKenna| story= Strange Tales Part II| title= Doctor Strange, Sorcerer Supreme| volume= 1| issue= 28| date= April 1991| publisher= Marvel Comics}}</ref><ref>{{Cite comic| writer= [[Geof Isherwood]]| penciller= Geof Isherwood| inker= [[Dave Simons]]| story= The Curse of Kyllian| title= Doctor Strange, Sorcerer Supreme Annual| volume= 1| issue= 3| date= 1993| publisher= Marvel Comics}}</ref> Dormammu, in the guise of another of the Faltine, manipulates Clea into recruiting allies from the Lords of the Netherworlds to depose her mother. This frees Dormammu to reclaim his realm. He absorbs Umar and Mordo into himself, becoming more powerful than ever before, and he disintegrates the assembled entities.
+
+Strange, at the time weakened without support from the "Principalities", confronts Dormammu with his allies Clea, the [[Silver Surfer]], [[Hulk]], and [[Ghost Rider]], but they are unable to cause any injury to the villain. Strange journeys into the core of Dormammu's essence and uses the [[Eye of Agamotto]] to strip away his self-delusion, and make him acknowledge that his thirst for chaos, power, and conquest are unworthy of a being of his stature. Dormammu is momentarily shaken, and appears to be defeated, but this is only a mirage. The villain gloats that he has not shown "one tenth" of his true power against the heroes, but that he now realizes that rulership of "one puny" universe is beneath his notice, as he now has far greater and "more interesting" ambitions, and contemptuously dismisses the "insignificant mortals".<ref name="SecretDefenders">{{Cite comic| writer= [[Len Kamanski]] <!--   | artist= Geof Isherwood -->  | story= The Heart of Darkness  | title= Doctor Strange, Sorcerer Supreme  | volume= 1  | issue= 48-50  | date= December 1992 - February 1993  | publisher= Marvel Comics  | page=   | panel= }}</ref>
+
+The character observes the [[Guardians of the Galaxy (1969 team)|Guardians of the Galaxy]] – adventurers from the [[31st century]] of [[Earth-691]] – travel to the mainstream era of [[Earth-616]]. Dormammu follows them back to their dimension, merges with his counterpart in this timeline, doubling his power, and attacks their headquarters, demanding the presence of the Doctor Strange of their time. Strange, now called the Ancient One, arrives with his disciple, the alien [[Krugarr]], and battles Dormammu, assisted by the Guardians, the "Galactic Guardians", and the [[Phoenix Force (comics)|Phoenix Force]]. Dormammu kills the elderly Strange, and almost overwhelms his other foes, but is defeated when Krugarr summons the spirit of Strange, and they channel the combined power of everyone in the assembly to banish Dormammu to his home dimension.<ref name="GotG">{{Cite comic  | writer= [[Michael Gallagher (writer)|Michael Gallagher]]<!--   | penciller= [[Kevin West]]  | inker= [[Steve Montano]] -->  | story=   | title= Guardians of the Galaxy  | volume= 1  | issue= 34-36  | date= March - May 1993  | publisher= Marvel Comics  | page=   | panel= }}</ref>
+
+Dormammu appears as the guiding force behind an attack on the self-titled [[Goddess (comics)|Goddess]]<ref>{{Cite comic  | writer= Geof Isherwood; Roy Thomas<!--   | artist= [[Geof Isherwood]] -->  | story= World Enough, And Time...  | title= Doctor Strange, Sorcerer Supreme  | volume= 1  | issue= 55  | date= July 1993  | publisher= Marvel Comics  | page=   | panel= }}</ref> during the "[[Infinity Crusade]]" storyline. During ''The Flight of the Bones'' storyline the character is revealed as the instigator behind a series of [[spontaneous combustion]]s of criminals and an attack on an ally of Strange by cultists.<ref>{{Cite comic  | writer= [[Dan Jolly]]; [[Tony Harris (comics)|Tony Harris]]; [[Ray Snyder]]<!--   | penciller= Tony Harris  | inker= Ray Snyder -->  | story= The Flight of the Bones  | title= Doctor Strange  | volume= 3  | issue= 1-4  | date= February - May 1999  | publisher= Marvel Comics  | page=   | panel= }}</ref>
+
+===2000s===
+Dormammu uses the demon lord [[Satannish]] (revealed as his creation) and [[warlock]] [[Nicholas Scratch]] to lead his armies to capture five of the inter-dimensional places of [[Hell (comics)|Hell]], in a plot to eventually conquer all life and afterlife. Dormammu, however, is thwarted when the heroine [[Patsy Walker|Hellcat]] rallies the powers of Hell to weaken the character by engineering a complete absence of mystic flame.<ref name="hellcat">{{Cite comic
+  | writer= Steve Englehart
+<!--   | artist= [[Norm Breyfogle]] -->
+  | story= 
+  | title= [[Hellcat (comics)|Hellcat]]
+  | volume= 1
+  | issue= 1-3
+  | date= September - November 2000
+  | publisher= Marvel Comics
+  | page= 
+  | panel= 
+}}</ref> Dormammu also allies with the entity [[Mephisto (comics)|Mephisto]] to drive an attacking force out of their respective dimensions.<ref>
+{{Cite comic
+  | writer= [[Dan Abnett]]; [[Andy Lanning]]
+<!--   | artist= [[Liam Sharp]] -->
+  | story= 
+  | title= [[Magik (comics)|Magik]]
+  | volume= 2
+  | issue= 1-4
+  | date= December 2000 - March 2001
+  | publisher= Marvel Comics
+  | page= 
+  | panel= 
+}}</ref>
+
+Dormammu sends an army of Mindless Ones to attack the city of [[New York City|New York]], and trick several prominent Marvel superheroes into unintentionally making him materialize on Earth by tricking them into combining dimensional energies in an attempt to dispel the Mindless Ones. Doctor Strange engages Dormammu in combat, and sends the hero [[Spider-Man]] back in time to a critical moment to stop his enemy from being able to re-enter Earth's universe, Spider-Man warning the heroes to delay in their attempts to stop the Mindless Ones long enough for the younger Strange to show up and banish them himself.<ref>The Spider-Man story "Happy Birthday" from:
+*{{Cite comic
+  | writer= [[J. Michael Straczynski]]
+<!--   | penciller= [[John Romita, Jr.]]; John Romita, Sr.
+  | inker= [[Scott Hanna]] -->
+  | story= 
+  | title= [[The Amazing Spider-Man]]
+  | volume= 2
+  | issue= 57-58
+  | date= November 2003
+  | publisher= Marvel Comics
+  | page= 
+  | panel= 
+}}
+*{{Cite comic
+  | writer= J. Michael Straczynski
+<!--   | penciller= John Romita, Jr.; John Romita, Sr.
+  | inker= Scott Hanna -->
+  | story= 
+  | title= [[The Amazing Spider-Man]]
+  | volume= 3
+  | issue= 500
+  | date= December 2003
+  | publisher= Marvel Comics
+  | page= 
+  | panel= 
+}}</ref>
+
+Dormammu returns, now in a symbiotic link with Umar. Together they petition the "''Pan-dimensional Oversight Council''" (counting Strange and [[Nightmare (Marvel Comics)|Nightmare]] among its members) to perform a [[preemptive strike]] against Earth's superhumans, as "potential [[weapons of mass-destruction]]", and when the petition fails, Dormammu eats most of the present council-members, whereas Umar reduces the rest to "screaming blobs of mindless jelly".  The siblings then attack and overcome the entity Eternity, and use the acquired power to remake all universes in their hellish image. The pair are opposed by a reuniting of some of the original Defenders (Strange; the Hulk; and [[Namor|Namor the Sub-Mariner]]), with Dormammu retreating when Umar steals his power.<ref name="DeMatteis&Giffen">{{Cite comic
+  | writer= [[J.M. DeMatteis]]; [[Keith Giffen]]
+<!--   | artist= [[Kevin Maguire]] -->
+  | story= 
+  | title= Defenders
+  | volume= 3
+  | issue= 1-5
+  | date= September 2005 - January 2006
+  | publisher= Marvel Comics
+  | page= 
+  | panel= 
+}}</ref> The character also appears briefly during a storyline in which Strange contemplates his past.<ref>{{Cite comic
+  | writer= [[Brian K. Vaughn]]
+<!--   | penciller= [[Marcos Martin]]
+  | inker= [[Alvaro Lopez]] -->
+  | story= The Oath
+  | title= Doctor Strange: The Oath
+  | volume= 1
+  | issue= 1-5
+  | date= December 2006 - April 2007
+  | publisher= Marvel Comics
+  | page= 
+  | panel= 
+}}</ref>
+
+Acting in secrecy, Dormammu empowers criminal mastermind the [[Hood (comics)|Hood]], who in turn resurrects several dead supervillains and forms a crime army.<ref name="NA46">{{Cite comic
+  | writer= [[Brian Michael Bendis]]
+<!--   | penciller= [[Billy Tan]]
+  | inker= [[Matt Banning]] -->
+  | story= 
+  | title= [[The New Avengers (comics)|New Avengers]]
+  | volume= 1
+  | issue= 46
+  | date= February 2009
+  | publisher= Marvel Comics
+  | page= 
+  | panel= 
+}}</ref> When the Hood asks for information about his "benefactor" from the demoness [[Satana (Marvel Comics)|Satana]], she claims that Dormammu disposed of his sister off-page.<ref name="Hood">''Dark Reign: The Hood'' #3 (2009)</ref>
+
+The character temporarily takes control of the "zombie" virus that decimates [[Marvel Zombies|Earth-2149]],<ref name="Marvel Zombies">{{Cite comic
+  | writer= [[Fred Van Lente]]
+<!--   | artist= [[Kev Walker]] -->
+  | story= Night Shift
+  | title= [[Marvel Zombies 4]]
+  | volume= 1
+  | issue= 2
+  | date= July 2009
+  | publisher= Marvel Comics
+  | page= 
+  | panel= 
+}}</ref> and also takes advantage of the fact that Strange loses the title of Sorcerer Supreme, but the latter eventually [[exorcism|exorcises]] his influence from the Hood together with [[Daimon Hellstrom]] and [[Brother Voodoo|Doctor Voodoo]].<ref>
+{{Cite comic
+  | writer= Brian Michael Bendis
+<!--   | penciller= Billy Tan; [[Chris Bachalo]]
+  | inker= Matt Banning; [[Tim Townsend]] -->
+  | story= 
+  | title= New Avengers
+  | volume= 1
+  | issue= 51-54
+  | date= May - August 2009
+  | publisher= Marvel Comics
+  | page= 
+  | panel= 
+}}</ref>
+
+===2010s===
+Dormammu briefly appears when the newly appointed "Sorcerer Supreme" Doctor Voodoo enters his domain. The villain dismisses Voodoo as an "unworthy" opponent and refers to his vastly inferior "gutter gods". This, however, causes Voodoo to strengthen the seals to the entity's realm.<ref name="DoctorVoodoo"/> The character also appears as one of the prospective "suitors" (holders of a slave-contract) for the hand of Satana.<ref>''Deadpool Team-Up'' #892 (2010)</ref>
+
+During the ''[[Fear Itself (comics)|Fear Itself]]'' storyline, Dormammu attended the Devil's Advocacy where they talked about the threat of the Serpent on Earth.<ref>''Journey Into Mystery'' #627</ref>
+
+Dormammu appears in ''[[Uncanny X-Men]]''. After [[Magik (Illyana Rasputin)|Illyana Rasputin]] is pulled into Limbo it is revealed that Dormammu is responsible for taking over the realm.<ref>''Uncanny X-Men'' vol. 3 #5</ref> Dormammu is apparently killed by Illyana off-page.<ref>''Uncanny X-Men'' vol. 3 #6</ref>
+
+The entity reappears with a plot to turn humanity into [[Mindless Ones]], but is thwarted by the plans of [[Phil Coulson]], with help from the [[Absorbing Man]] and the [[Howling Commandos]].<ref>''S.H.I.E.L.D.'' Vol. 3 #5-6 (2015)</ref>
+
+During the "[[Damnation (comics)|Damnation]]" storyline, Doctor Strange's soul comes across Dormammu in the Realm Between at the time when Mephisto is causing trouble in [[Las Vegas]].<ref>''Doctor Strange'' #688. Marvel Comics.</ref>
+
+==Character==
+Dormammu has been described as "something worse than a demon".<ref name="Hood"/> It is unknown exactly how ancient he is, as he inhabits a wholly alien realm, separate from the rest of the [[Marvel Universe]], that defies the laws of physics as understood on Earth. He is known to have already existed at the creation of the current demonic netherworlds;<ref name="hellcat"/> to have clashed with [[Agamotto]] hundreds of millions of years ago; to have served as the primary enemy of the [[Vishanti]] ever since; and to have been considered an extreme threat by the mages of "[[Kull of Atlantis|pre-cataclysm]]" [[Atlantis (Marvel Comics)|Atlantis]].<ref name="Marvel Zombies"/>
+
+Dormammu is presented as the most powerful and malevolent of "the Faltine",<ref name="SecretDefenders"/> fictional [[n-dimensional space|higher-dimensional]] mystical energy beings. Not native to the "Dark Dimension", Dormammu and "his" sibling Umar were exiled for slaying their progenitor "Sinifer" and for their morbid/unclean obsession with physical matter. They journeyed to the Dark Dimension in search of experience, and assumed corporeal forms.<ref>''Doctor Strange'' vol.3, #22 (October 1990)</ref> Dormammu merged with the local "Flames of Regency" to further enhance his power, and returned to an energy state, whereas Umar had grown accustomed to physical pleasure. After imprisoning the horde of marauding virtually unstoppable [[Mindless Ones]], Dormammu enslaved the entire realm and demanded worship as its sole deity. He continued to gradually merge other mystical universes to his own, while spreading his worship to any sorcerers throughout the multiverse who invoked his powers.<ref>''Dr. Strange'' vol.2 #72</ref>
+
+The character is sometimes shown as incredibly patient, with certain plots to achieve his goals spanning billions of years,<ref name="hellcat"/> whereas others are planned far more recently or even improvised through opportunity.<ref name="SecretDefenders"/> Although extremely intelligent, with tremendous knowledge of the mystic arts, he is overwhelmingly arrogant, generally does not adapt well to sudden confusion and unexpected developments,<ref name="GotG"/> and has a tendency to gloat over technically outmatched foes rather than swiftly finish them off.<ref name="Martial arts fight"/><ref name="Avengers/Defenders War"/><ref name="SecretDefenders"/><ref name="DoctorVoodoo">''Doctor Voodoo: Avenger of the Supernatural'' #1 (2010)</ref> What makes Dormammu different from other prominent Marvel supervillains is that he has been shown as fully capable of personally defeating cosmic entities, even without external power sources and outside of the "Dark Dimension".<ref name="GotG"/><ref name="DeMatteis&Giffen"/>
+
+Originally genderless siblings, Dormammu and his sister Umar have an unpredictable love-hate relationship. Sometimes loyal and collaborative, other times they gladly betray each other or take the other's power for themselves.<ref name="SecretDefenders"/><ref name="DeMatteis&Giffen"/> Umar has an occasional tendency to sarcastically puncture her brother's obsessive histrionics with more pragmatic sadistic hedonism.<ref name="DeMatteis&Giffen"/>
+
+Writer [[Keith Giffen]] has described them as "Donnie and Marie from hell. The brother-sister sibling rivalry relationship blown up to nightmarish, universe-shattering proportions." Nevertheless, Dormammu is "completely inhuman",<ref>{{cite web |url=http://forum.newsarama.com/showthread.php?t=37585 |title=Giffen & Dematteis Talk Defenders And A Little Bit Of Everything |publisher=Google.se |date= |accessdate=2011-02-12 }}{{dead link|date=September 2017 |bot=InternetArchiveBot |fix-attempted=yes }}</ref> the kind of character that "commits mass murder... on a whim".<ref>{{cite web|author= |url=http://www.comixfan.com/xfan/forums/showthread.php?t=34406 |title=Defending Drax With Keith Giffen |publisher=Google.se |date= |accessdate=2011-02-12}}</ref>
+
+==Powers and abilities==
+Presented as one of the most powerful known mystical entities within the Marvel Universe, Dormammu is acknowledged by Doctor Strange as his "most terrible foe";<ref>{{Cite comic
+  | writer= J. Michael Straczynski
+<!--   | penciller= John Romita, Jr..
+  | inker= Scott Hanna -->
+  | story= 
+  | title= The Amazing Spider-Man
+  | volume= 2
+  | issue= 57
+  | date= November 2003
+  | publisher= Marvel Comics
+  | page= 
+  | panel= 
+}}</ref> a threat to "the life of the universe itself", that "at full power no one could stand against."<ref>{{Cite comic
+  | writer= J. Michael Straczynski
+<!--   | penciller= John Romita, Jr.
+  | inker= Scott Hanna -->
+  | story= 
+  | title= The Amazing Spider-Man
+  | volume= 2
+  | issue= 58
+  | date= November 2003
+  | publisher= Marvel Comics
+  | page= 
+  | panel= 
+}}</ref>
+
+The character is an interdimensional entity composed of mystical energy that can be used to achieve almost any effect he desires, including: energy projection, matter manipulation, [[Resizing (fiction)|resizing]], [[teleportation]], [[Demonic possession|possession]]; [[necromancy]], bestowing of power, and creating demon lords.<ref>The individual powers list as examples are from:
+*Bestowing power<br>&nbsp;&nbsp;&nbsp;{{Cite comic
+  | writer= Steve Ditko; Stan Lee
+  | story= Face-to-Face at Last With Baron Mordo!
+  | title= Strange Tales
+  | volume= 1
+  | issue= 132
+  | date= May 1965
+  | publisher= [[Marvel Comics]]
+  | page= 
+  | panel= 
+}}
+*Energy projection<br>&nbsp;&nbsp;&nbsp;"Avengers/Defenders War" (September - December 1973), Marvel Comics
+*Size shifting, teleportation<br>&nbsp;&nbsp;&nbsp;{{Cite comic
+  | writer= Len Kamanski
+  | story= The Heart of Darkness
+  | title= Doctor Strange, Sorcerer Supreme
+  | volume= 1
+  | issue= 50
+  | date= February 1993
+  | publisher= Marvel Comics
+  | page= 
+  | panel= 
+}}
+*Creating demon lords<br>&nbsp;&nbsp;&nbsp;{{Cite comic
+  | writer= Steve Englehart
+  | story= 
+  | title= Hellcat
+  | volume= 1
+  | issue= 1-3
+  | date= September - November 2000
+  | publisher= Marvel Comics
+  | page= 
+  | panel= 
+}}
+*Resurrection of the dead<br>&nbsp;&nbsp;&nbsp;{{Cite comic
+  | writer= [[Garth Ennis]]
+  | story= 
+  | title= [[Punisher (comics)|Punisher]]
+  | volume= 7
+  | issue= 2-7
+  | date= March - August 2004
+  | publisher= Marvel Comics
+  | page= 
+  | panel= 
+}}
+*Matter transmutation<br>&nbsp;&nbsp;&nbsp;{{Cite comic
+  | writer= J.M. DeMatteis; Keith Giffen
+  | story= Almost a Good Idea...
+  | title= Defenders
+  | volume= 3
+  | issue= 1
+  | date= September 2005
+  | publisher= Marvel Comics
+  | page= 
+  | panel= 
+}}
+*Body possession<br>&nbsp;&nbsp;&nbsp;{{Cite comic
+  | writer= [[Brian Michael Bendis]]
+  | title= [[The New Avengers (comics)|New Avengers]]
+  | volume= 1
+  | issue= 46
+  | date= February 2009
+  | publisher= Marvel Comics
+  | page= 
+  | panel= 
+}}<!-- Please note that this list is in publication order. The entries citing multiple issues should be refined to the first example of the power. All should include a page and panel reference. And if a power was displayed in a story published earlier than one listed here, the older story should replace the newer one.--></ref> In certain instances Dormammu has been displayed approaching a universal,<ref>
+*{{Cite comic
+  | writer= [[Stan Lee]]
+<!--   | penciller= [[Steve Ditko]]
+  | inker=  -->
+  | story= The end at last!
+  | title= [[Strange Tales]]
+  | volume= 1
+  | issue= 146
+  | date= 1966
+  | publisher= Marvel Comics
+  | page= 
+  | panel= 
+}}
+*{{Cite comic
+  | writer= [[Steve Englehart]]
+<!--   | penciller= [[Sal Buscema]]
+  | inker= [[Frank Bolle]] -->
+  | story= Avengers/Defenders War
+  | title= [[Defenders (comics)|The Defenders]]
+  | volume= 1
+  | issue= 11
+  | date= December 1973
+  | publisher= Marvel Comics
+  | page= 
+  | panel= 
+}}
+*{{Cite comic
+  | writer= [[Chris Claremont]]
+<!--   | penciller= [[Luke McDonnell]]
+  | inker= [[Vince Colletta]] -->
+  | story= The Great Game!
+  | title= [[Thor (Marvel Comics)|Thor Annual]]
+  | volume= 1
+  | issue= 9
+  | date= 1981
+  | publisher= Marvel Comics
+  | page= 
+  | panel= 
+}}</ref> or even multiversal,<ref name="DeMatteis&Giffen" /> scale of influence.
+
+Dormammu is apparently stronger in the Dark Dimension, being empowered by the worship of his followers,<ref>{{Cite comic
+  | writer= Steve Ditko; Stan Lee
+<!--   | artist= Steve Ditko -->
+  | story= 
+  | title= Strange Tales
+  | volume= 1
+  | issue= 126-127
+  | date= November - December 1964
+  | publisher= Marvel Comics
+  | page= 
+  | panel= 
+}}</ref> and can draw upon its power.<ref name="NA46"/> The character has been shown to have one significant weakness: being vulnerable in environments that cannot fuel his mystical Faltine flames.<ref name="hellcat"/><ref>{{OHOTMU PA 
+|character = 
+|ish_1 = 3
+|pg_1 = 33
+|ish_2 = 4
+|pg_2 = 3
+|ish_4 = 1
+|pg_4 = 
+|ish_5 = 3
+|pg_5 = 
+}}</ref>
+
+==Other versions==
+
+===Marvel Mangaverse===
+Dormammu is summoned into [[Marvel Mangaverse]] by [[The Incredible Hulk]] ([[Nick Fury]] is revealed to be behind the attacks by the Hulk as well).<ref>''Marvel Mangaverse: Avengers Assemble!!'' #1-4 (2002)</ref>
+
+===Ultimate Marvel===
+In the ''[[Ultimate Marvel]]'' universe, Dormammu first appears in ''[[Ultimatum (Ultimate Marvel)|Ultimatum]]'', which introduces him as a powerful demon who succeeds in killing Doctor Strange (actually the son of the original).<ref>''Ultimatum'' #1-5 (September 2009)</ref> The demon was then confronted by [[Susan Storm]] and [[Ben Grimm]] in front of the destroyed [[Sanctum Sanctorum]]. Dormammu was defeated after Susan sealed his entire head with her force-field and being overwhelmed by [[Johnny Storm]]'s power, turning him into a powerless human being.<ref>''Ultimatum: Fantastic Four Requiem'' #1 (2009)</ref>
+
+==In other media==
+
+===Television===
+* Dormammu appears in the 1979 ''[[Spider-Woman (TV series)|Spider-Woman]]'' episode "Realm of Darkness". This version bears little relation to his comic book look aside from the flaming head. He is summoned to Earth by worshipers from [[Grand Cayman Island]]. He plans to stop the [[Moon]] in its orbit when the eclipse occurs so that he can engulf Earth in complete darkness.
+* Dormammu appears in the 1990s ''[[Spider-Man (1994 TV series)|Spider-Man]]'' series' episodes "Doctor Strange", "Venom Returns", and "Carnage", voiced by [[Ed Gilbert]]. In this series, he uses his servant Baron Mordo to try freeing himself. Knowing that the Venom symbiote was due to reproduce and create a new symbiote, Dormammu had Mordo send the rocket it was on back to earth. Using the newly formed Carnage, Dormammu collected humans souls equal to his own and switched places with them. However, Spidey and Venom manage to reverse the process, sealing Dormammu, Carnage and Venom back into "hot head's" home dimension.
+*Dormammu appears in ''[[The Super Hero Squad Show]]'' episode "Enter: Dormammu", voiced by [[Robert Englund]]. Doctor Strange (whose Eye of Agamotto is holding an Infinity Sword fractal) ends up unleashing Dormammu from his Dark Dimension into Super Hero City. A recurring gag during this episode was Falcon asking Dormammu if he knows that his head is on fire. When Dormammu unleashes his Mindless Ones upon Super Hero City, Dormammu manages to steal the fractals from the Vault and Villainville while taking Captain America and Doctor Doom hostage. When the fractal is extracted from the Eye of Agamotto, Doctor Strange then uses a spell to banish Dormammu back into the Dark Dimension. In "This Al Dente Earth", Doctor Strange briefly pulls Dormammu's head out of the Dark Dimension in order to damage Galactus' machine. In the episode "Soul Stone Picnic", Dark Surfer called up Dormammu where he tells him that he plans to destroy the universe in the next two episodes.
+* Dormammu appeared in the ''[[Hulk and the Agents of S.M.A.S.H.]]'' episodes "Stranger in a Strange Land"<ref name="Stranger in a Strange Land">{{cite episode|title=Stranger in a Strange Land|series=Hulk and the Agents of S.M.A.S.H.|network=Disney XD|season=1|number=20|airdate=March 30, 2014}}</ref> and "Hulking Commandos", voiced by [[Phil LaMarr]].
+* Dormammu appeared in the ''[[Ultimate Spider-Man (TV series)|Ultimate Spider-Man]]'' episode "Cloak and Dagger", voiced again by Phil LaMarr. Dormammu gains control of [[Cloak and Dagger (comics)|Cloak]] so that he can obtain Doctor Strange, Iron Fist, and White Tiger as part of a plot to power the Siege Perilous and lead the Mindless Ones into invading Earth. Dormammu's skill with intangibility is featured in this episode. In the episode "The Moon Knight Before Christmas," it was revealed in a flashback that Mysterio made a deal with Dormammu to enhance his illusion abilities where the side-effect ended up trapping Mysterio in his helmet upon his defeat until the day when Spider-Man freed him and his daughter Frances Beck.
+* Dormammu appears in the ''[[Avengers Assemble (TV series)|Avengers Assemble]]'' episodes "Widow's Run" and "Into the Dark Dimension", voiced again by Phil LaMarr.<ref>{{cite episode|title=Into the Dark Dimension|series=Avengers Assemble|network=Disney XD|season=3|number=7|airdate=April 24, 2016}}</ref> Due to the effects that the [[Infinity Gems]] are having on reality, Dormammu and the Mindless Ones emerge from a portal to the Dark Dimension causing the Avengers and Doctor Strange to fight them. Dormammu and the Mindless Ones are repelled by Black Widow using the powers of four [[Infinity Gems|Infinity Stones]]: the Time Stone, the Space Stone, the Mind Stone and the Reality Stone.
+
+===Film===
+[[File:Dormammu in Doctor Strange 2016 film.png|thumb|350px|right|Dormammu as he appears in the film ''[[Doctor Strange (2016 film)|Doctor Strange]]''.]]
+* Dormammu appears in the 2007 animated [[Direct-to-video|Direct-To-DVD]] film ''[[Doctor Strange: The Sorcerer Supreme]]'' voiced by [[Jonathan Adams (American actor)|Jonathan Adams]].
+* Dormammu appears in the 2016 film ''[[Doctor Strange (2016 film)|Doctor Strange]]'', with [[Benedict Cumberbatch]] performing the [[motion capture]] and providing the voice for the character,<ref>{{cite web|url=http://www.slashfilm.com/benedict-cumberbatch-doctor-strange-second-role/|title=SPOILERS: Benedict Cumberbatch Plays Two Roles in 'Doctor Strange'|date=7 November 2016|publisher=|accessdate=2 March 2018}}</ref> that was also blended in with the voice of an unidentified British actor that director [[Scott Derrickson]] could not recall the name of.<ref>{{cite web|url=http://www.ign.com/articles/2016/10/25/benedict-cumberbatch-plays-a-second-marvel-character-in-doctor-strange|title=Benedict Cumberbatch Plays a Second Marvel Character in Doctor Strange|first=Daniel|last=Krupa|date=25 October 2016|publisher=|accessdate=2 March 2018}}</ref>
+
+===Video games===
+* Dormammu appears as a playable character in ''[[Marvel vs. Capcom 3: Fate of Two Worlds]]'' and its standalone update ''[[Ultimate Marvel vs Capcom 3]]'', voiced by [[Michael T. Weiss]].<ref>[http://www.capcom-unity.com/jgonzo/blog/2010/08/17/gamescom_2010:_marvel_vs._capcom_3_-_introducing_dormammu__viewtiful_joe Introducing Dormammu & Viewtiful Joe]</ref>
+* Dormammu appears as a villain character in ''[[Marvel Super Hero Squad Online]]'', voiced by [[Robert Englund]].
+* Dormammu was featured as a boss in the [[Facebook]] game ''[[Marvel: Avengers Alliance]]''.
+* Dormammu appears as a villain character in ''[[Marvel Heroes (video game)|Marvel Heroes]]'', voiced by [[Robin Atkin Downes]].
+* Dormammu appears as a playable character in ''[[Lego Marvel Super Heroes]]'', voiced by [[Travis Willingham]].
+* Dormammu appears as a playable character in ''[[Marvel Future Fight]]''.{{citation needed|date=February 2017}}
+* Dormammu appears in the mobile game ''[[Marvel Contest of Champions]]'' as a playable character and Events Quest final boss.<ref>{{cite web|url=https://news.marvel.com/games/59863/entering-marvel-contest-champions-dormammu|title=Entering Marvel Contest of Champions: Dormammu|website=News - Marvel.com|accessdate=2 March 2018|archive-url=https://web.archive.org/web/20180303052148/https://news.marvel.com/games/59863/entering-marvel-contest-champions-dormammu/|archive-date=2018-03-03|dead-url=yes|df=}}</ref>
+* Dormammu return as a playable character in ''[[Marvel vs. Capcom: Infinite]]'', voiced by [[Phil LaMarr]].<ref>{{cite video game | developer=[[Capcom]] | publisher=[[Capcom]] | scene=Credits, "Cast" | title=[[Marvel vs. Capcom: Infinite]] | year=2017}}</ref><ref>{{cite web|url=https://www.previewsworld.com/Catalog/JUN170939|title=SPIDER-MAN DEADPOOL #20 GENZOMAN MARVEL VS CAPCOM VAR (JUN170939)|publisher=|accessdate=2 March 2018}}</ref> The Dark Dimension also appears as a stage in the game, merged with the Makai Kingdom from ''[[Darkstalkers]]'' to become the Dark Kingdom.
+* Dormammu appears in ''[[Lego Marvel Super Heroes 2]]'', voiced by [[Gary Martin (actor)|Gary Martin]].<ref>{{cite web|title=Characters|url=http://www.ign.com/wikis/lego-marvel-super-heroes-2/Characters|website=IGN Database|accessdate=22 December 2017}}</ref> Baron Mordo planned to use the Book of the Vishanti to make Kang the Conqueror bend to the will of Dormammu and have Chronopolis absorbed into the Dark Dimension. This plot was thwarted by Doctor Strange, She-Hulk, and Spider-Man.
+
+==References==
+{{Reflist}}
+
+==External links==
+* {{Marvelwiki}}
+* [http://marvel.wikia.com/wiki/Dormammu_%28Earth-616%29 Dormammu] at Marvel Wiki
+* [http://www.comicvine.com/dormammu/4005-2205/ Dormammu] at Comic Vine
+* [http://www.marveldirectory.com/individuals/d/dormammu.htm Dormammu] at MarvelDirectory.com
+* {{comicbookdb|type=character|id=1587|title=Dormammu}}
+
+{{Doctor Strange}}
+{{Defenders}}
+{{Midnight Sons}}
+{{Marvel Mystic}}
+{{Stan Lee}}
+
+[[Category:Characters created by Stan Lee]]
+[[Category:Characters created by Steve Ditko]]
+[[Category:Comics characters introduced in 1964]]
+[[Category:Fictional characters with immortality]]
+[[Category:Fictional demons and devils]]
+[[Category:Fictional mass murderers]]
+[[Category:Marvel Comics characters who use magic]]
+[[Category:Marvel Comics demons]]
+[[Category:Marvel Comics principalities]]
+[[Category:Marvel Comics supervillains]]
+[[Category:Marvel vs. Capcom fighters]]
+[[Category:Video game bosses]]

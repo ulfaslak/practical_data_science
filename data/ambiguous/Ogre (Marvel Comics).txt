@@ -1,0 +1,43 @@
+{{Infobox comics character <!--Wikipedia:WikiProject Comics-->
+|image=
+|caption=
+|character_name=Ogre
+|real_name=Brian Dunlap
+|publisher=[[Marvel Comics]]
+|debut=''Uncanny X-Men'' #28 (January 1967)
+|creators=[[Roy Thomas]] & [[Werner Roth (comics)|Werner Roth]]
+|alliances=[[Factor Three]]<br>[[Thunderbolts (comics)|Thunderbolts]]
+|aliases=
+|powers=Mechanical genius
+}}
+'''Ogre''' is a [[fictional character]] appearing in [[American comic book]]s published by [[Marvel Comics]].
+
+==Fictional character biography==
+Ogre was originally an operative of the mutant terrorist organization [[Factor Three]].<ref>''The X-Men'', #28, 1967</ref> However he had no mutant powers, and he used an explosive helmet to blackmail [[Banshee (comics)|Banshee]] who soon battled the original [[X-Men]].<ref>''The X-Men'', #28, 1967</ref>
+
+When Factor Three disbanded, Ogre remained behind in Mount Charteris (outside Burton Canyon, Colorado), one of their many mountain bases. Over the years the base was occupied by [[Hydra (Marvel Comics)|HYDRA]], the [[Sons of the Serpent]], August Masters and the [[Masters of Evil]] (led by the second [[Crimson Cowl]]). When [[Moonstone (comics)|Moonstone]] was held prisoner by the Masters of Evil, Ogre slipped a key into her room which released her from her shackles. This helped Moonstone and the [[Thunderbolts (comics)|Thunderbolts]] defeat the Masters.{{issue|date=January 2013}}
+
+[[Hawkeye (comics)|Hawkeye]], the new leader of the Thunderbolts, suggested that they keep Mount Charteris as their own headquarters. As time passed, the Thunderbolts began to notice strange things happening in their headquarters. [[Atlas (comics)|Atlas]]'s damaged costume was repaired.{{issue|date=January 2013}} A hover vehicle Hawkeye borrowed from [[Champions (1975 team)|the Champions]] was renovated overnight.{{issue|date=January 2013}} The team began to realize someone was hiding in the unexplored levels of Mount Charteris and began to investigate.<ref>''Thunderbolts'', #33, 1999</ref>
+
+After a brief skirmish with the Thunderbolts, Atlas convinced Ogre that they meant him no harm. The Ogre recounted his story and Hawkeye offered Ogre membership.<ref>''Thunderbolts'', #33, 1999</ref> Soon after, the Thunderbolts went back to their part of the mountain base and Ogre was knocked unconscious by [[Fixer (comics)|Techno]], a former member of the Thunderbolts. Techno had Ogre placed in a cryogenic sleep.<ref>''Thunderbolts'', #33, 1999</ref> Techno then morphed his appearance so he would resemble Ogre and took his place on the team.{{issue|date=January 2013}}
+
+For months Techno pretended to be Ogre, causing mischief amongst his former teammates. When Techno was seemingly destroyed by [[Scourge of the Underworld|Scourge]] saving [[Jolt (comics)|Jolt]] (who had also been in cryogenic sleep), Ogre was released.{{issue|date=January 2013}}
+
+Soon after, it was revealed that Ogre had his own [[cryogenic]] prisoner that he had been holding captive for several years. Sonny Baredo, a.k.a. [[Humus Sapien]], was kidnapped by Factor Three years earlier, but it was decided he was too dangerous to be released. When the Thunderbolts disbanded the [[Redeemers (comics)|Redeemers]] and [[S.H.I.E.L.D.]] took over operation of Mount Charteris,{{issue|date=January 2013}} a resurrected Techno (now in a human body) began to investigate and released Baredo. Mount Charteris was destroyed as a result.{{issue|date=January 2013}} The Redeemers fought Humus Sapien and discovered that every time he used his powers, someone else on Earth died. Eventually Baredo decided to leave Earth through an extra-dimensional tesseract rather than endanger innocents. Ogre chose to leave Earth with him, in part to gain redemption for his keeping Baredo prisoner.<ref>''Thunderbolts'' #54 (Sept. 2001)</ref>
+
+==Powers and abilities==
+Ogre appears to have an increased level of engineering and scientific knowledge beyond the current level of technology, including the design and creation of weapons systems and vehicles. He carries various weapons of his own design, such as particle blasters and lasers.
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{Marvunapp|http://www.marvunapp.com/Appendix/ogrefactor3.htm|Ogre}}
+
+{{Thunderbolts}}
+
+[[Category:Characters created by Roy Thomas]]
+[[Category:Comics characters introduced in 1967]]
+[[Category:Fictional inventors]]
+[[Category:Marvel Comics superheroes]]
+[[Category:Marvel Comics supervillains]]

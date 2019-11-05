@@ -1,0 +1,198 @@
+{{For|the DC character of the same name|Captain Marvel (DC Comics)}}
+{{Infobox comics set and title
+<!--Wikipedia:WikiProject Comics-->
+<!--Character section-->
+|code_name  = Captain Marvel
+|image      = Generations Captain Marvel & Captain Mar-Vell.jpg
+|imagesize  = 250
+|caption    = [[Captain Marvel (Mar-Vell)|Mar-Vell]] and [[Carol Danvers]] on the cover of ''[[Generations (comics)|Generations: Captain Marvel & Captain Mar-Vell]]'' #1 (November 2017). Art by [[David Nakayama]].
+|publisher  = [[Marvel Comics]]
+|debut      = ''[[Marvel Super-Heroes (comics)|Marvel Super-Heroes]]'' #12
+|debutmo    = December
+|debutyr    = 1967
+|debutyr1   = 1982
+|debutyr2   = <!-- Genis did not originally appear as "Captain Marvel" -->
+|debutyr3   = 2003
+|debutyr4   = <!-- Danvers acquired the name but didn't debut with it -->
+|debutyr5   = 2007
+|writer1    = [[Stan Lee]]
+|artist1    = [[Gene Colan]]
+|characters = [[Captain Marvel (Mar-Vell)|Mar-Vell]]<br/>[[Monica Rambeau]]<br/>[[Genis-Vell]]<br/>[[Phyla-Vell]]<br/> [[Captain Marvel (Khn'nr)|Khn'nr]]<br/>[[Noh-Varr]]<br/>[[Carol Danvers]]
+|seealso    =
+<!--Series section--> 
+|title               = Captain Marvel
+|cvr_image           = Captain Marvel v1 1.jpg 
+|cvr_caption         = Mar-Vell on the cover of ''Captain Marvel'' #1 (May 1968)<br>Art by [[Gene Colan]]<ref name="split"/>
+|schedule            = {{collapsible list|
+'''(vol 1)'''<br>Monthly (1–19) and<br>Bi-monthly (20–62)<br>'''(vol 2–8, ''Mighty...'')'''<br>Monthly
+}}
+|format              = {{collapsible list|'''(vol 1–4, 6–8, ''Mighty...'')'''<br>[[Ongoing series]]<br>'''(vol 5)'''<br>[[Limited series (comics)|Limited series]]<br>[[One-shot (comics)|One-shot]] supposedly issues were also published in 1989 and 1994
+}}
+|limited             =  
+|ongoing             = 
+|1shot               = 
+|Superhero           = 
+|pub_series          = Marvel Comics
+|date                = {{collapsible list|
+'''(vol 1)'''<br>May 1968<ref name="split">The first 6 issues were published under the indecia ''Marvel's Space-Born Superhero! Captain Marvel''</ref> – May 1979<br>'''(1-shots)'''<br>1989 and 1994<br>'''(vol 2)'''<br>December 1995 – May 1996<br>'''(vol 3)'''<br>January 2000 – October 2002<br>'''(vol 4)'''<br>November 2002 – September 2004<br>'''(vol 5)'''<br>January – June 2008<br>'''(vol 6)'''<br>September 2012 – November 2013<br>'''(vol 7)'''<br>March 2014 – May 2015<br>'''(vol. 8)'''<br>January – November 2016<br>'''''Mighty Captain Marvel'''''<br>January 2017 – present }}
+|1stishyr            = 
+|1stishyr1           = 
+|1stishyr2           = 
+|1stishyr3           = 
+|1stishyr4           = 
+|1stishyr5           = 
+|issues              = {{collapsible list|
+'''(vol 1)''': 62<br>'''(vol 2)''': 6<br>'''(vol 3)''': 35<br>'''(vol 4)''': 25<br>'''(vol 5)''': 5<br>'''(vol 6)''': 17<br>'''(vol 7)''': 15<br>'''(vol 8)''': 10 }}
+|main_char_team      = {{collapsible list|
+'''(vol 1)'''<br>[[Captain Marvel (Mar-Vell)|Mar-Vell]]<br>'''(1-shots)'''<br>[[Monica Rambeau]]<br>'''(vol 2–4)'''<br>[[Genis-Vell]]<br>'''(vol 5)'''<br>Khn'nr<br>'''(vol 6–8, ''Mighty...'')'''<br>[[Carol Danvers]] 
+}}
+|writers             = {{collapsible list|
+'''(vol 1)'''<br>[[Arnold Drake]]<br>[[Gary Friedrich]]<br>[[Roy Thomas]]<br>[[Marv Wolfman]]<br>[[Mike Friedrich]]<br>[[Jim Starlin]]<br>[[Steve Englehart]]<br>[[Gerry Conway]]<br>Scott Edelman<br>'''(vol 2)'''<br>[[Fabian Nicieza]]<br>'''(vol 3–4)'''<br>[[Peter David]]<br>'''(vol 5)'''<br>Brian Reed<br>'''(vol 6–7)'''<br>[[Kelly Sue DeConnick]]<br>'''(vol 8)'''<br>Michele Fazekas<br>[[Christos Gage]] & Ruth Gage<br>('''''Mighty...''''')<br>Margaret Stohl 
+}}
+|artists             = 
+|pencillers          = {{collapsible list|
+'''(vol 1)'''<br>[[Don Heck]]<br>[[Dick Ayers]]<br>[[Frank Springer]]<br>[[Gil Kane]]<br>[[Wayne Boring]]<br>[[Jim Starlin]]<br>[[Al Milgrom]]<br>[[Pat Broderick]]<br>'''(vol 2)'''<br>[[Ed Benes]]<br>'''(vol 3–4)'''<br>[[ChrisCross]]<br>'''(vol 5)'''<br>[[Lee Weeks]]<br>'''(vol 6)'''<br>Dexter Soy<br>Filipe Andrade<br>Scott Hepburn<br>[[Patrick Olliffe]]<br>'''(vol 7)'''<br>David Lopez<br>'''(vol 8)'''<br>[[Kris Anka]]<br>('''''Mighty...''''')<br>Ramon Rosanas
+}}
+|inkers              = {{collapsible list|
+'''(vol 1)'''<br>[[Vince Colletta]]<br>[[Dan Adkins]]<br>[[Al Milgrom]]<br>[[Terry Austin (comics)|Terry Austin]]<br>'''(vol 2)'''<br>Mike Sellers<br>'''(vol 3–4)'''<br>'''(vol 5)'''<br>Jesse Delperdang<br>'''(vol 6)'''<br>Dexter Soy<br>Filipe Andrade<br>'''(vol 7)'''<br>David Lopez<br>'''(vol 8)'''<br>[[Kris Anka]]<br>('''''Mighty...''''')<br>Ramon Rosanas
+}}
+|letterers           = 
+|colorists           = 
+|editors             = 
+|creative_team_month = 
+|creative_team_year  = 
+|creators_series     = 
+|TPB                 = 
+|ISBN                = 
+|nonUS               = 
+|cat                 = super
+|subcat              = Marvel Comics
+|altcat              = 
+|hero                = y
+|villain             = 
+|sortkey             = Captain Marvel
+|sort_title          = Captain Marvel
+}}
+
+'''Captain Marvel''' is the name of several [[fictional]] [[superhero]]es appearing in [[American comic book]]s published by [[Marvel Comics]]. Most of these versions exist in Marvel's main [[shared universe]], known as the [[Marvel Universe]].
+
+== Publication history ==
+
+Following a trial in which [[DC Comics]] sued [[Fawcett Comics]] for breach of [[copyright]], claiming Fawcett's Captain Marvel was too similar to [[Superman]], the latter stopped publishing [[Captain Marvel (DC Comics)|Captain Marvel]].<ref>[http://goodcomics.blogspot.com/2005/06/comic-book-urban-legends-revealed-2.html Comic Book Urban Legends Revealed #2], Comics Should Be Good, June 9, 2005</ref> In the late sixties Marvel gained the [[trademark]] "Captain Marvel" with their first series.
+
+To retain their trademark, Marvel has had to publish a ''Captain Marvel'' title at least once every two years since, leading to a number of [[ongoing series]], [[Limited series (comics)|limited series]], and [[one-shot (comics)|one-shots]] featuring a range of characters using the Captain Marvel alias.<ref>[http://goodcomics.comicbookresources.com/2005/08/18/comic-book-urban-legends-revealed-12/ Comic Book Urban Legends Revealed #12], Comics Should Be Good, [[Comic Book Resources]], August 18, 2005</ref>
+
+=== Mar-Vell ===
+{{main|Captain Marvel (Mar-Vell)}}
+
+The first Captain Marvel printed by Marvel Comics was created by [[Stan Lee]] and [[Gene Colan]] in ''[[Marvel Super-Heroes (comics)|Marvel Super-Heroes]]'' #12 (December 1967).<ref name="DeFalco125">{{cite book|last = DeFalco|first = Tom|authorlink = Tom DeFalco|last2= Gilbert|first2= Laura, ed.|chapter= 1960s|title = Marvel Chronicle A Year by Year History|publisher = [[Dorling Kindersley]]|date = 2008|page = 125|isbn =978-0756641238|quote= Captain Mar-Vell was a Kree warrior sent to spy on Earth, by Stan Lee and artist Gene Colan.}}</ref> This character is an [[Extraterrestrial life|alien]] military officer, '''Captain Mar-Vell''' of the [[Kree]] Imperial Militia, who is sent to observe the planet [[Earth]] as it is developing technology to travel into space. Mar-Vell eventually wearies of his superiors' malign intent and allies himself with Earth, and the Kree Empire brands him a traitor.  From then on, Mar-Vell fights to protect Earth from all threats.
+
+He was later revamped by [[Roy Thomas]] and [[Gil Kane]]. Having been exiled to the [[Negative Zone]] by the [[Supreme Intelligence]], the only way Mar-Vell can temporarily escape is to exchange atoms with [[Rick Jones (comics)|Rick Jones]] by means of special wristbands called Nega-Bands.<ref name="DeFalco138">DeFalco "1960s" in Gilbert (2008), p. 138: "Rick Jones...became bonded to Captain Mar-Vell thanks to Roy Thomas and artist Gil Kane."</ref> He is also given superpowers and his Kree military uniform is replaced with a form fitting costume. The process of the young man being replaced in a flash by the older superhero was a nod to the original Fawcett Captain Marvel, which had young Billy Batson saying the magic word "Shazam" to transform into the hero.
+
+With the title's sales still flagging, Marvel allowed [[Jim Starlin]] to conceptually revamp the character,<ref name="Sanderson159">[[Peter Sanderson|Sanderson, Peter]] "1970s" in Gilbert (2008), p. 159: "In March [1973], the first of artist Jim Starlin's many sagas of the Marvel heroes' wars against Thanos began."</ref> although his appearance was little changed.  Mar-Vell is freed from the Negative Zone and becomes a cosmic champion, the "Protector of the Universe" appointed by the cosmic entity [[Eon (comics)|Eon]].  Together, Mar-Vell and Rick continue to battle against evil, most notably battling the Death-worshipping [[Thanos]]. Mar-Vell became a close ally of the [[Titan (Marvel Comics location)|Titans]], and one of their number, [[Elysius]], became his lover.
+
+His career was cut short when he developed inoperable cancer, the result of an earlier exposure to toxic [[nerve gas]] during a battle with [[Nitro (comics)|Nitro]]. He died from this cancer on Titan in the presence of the Marvel Universe's superhero community, as chronicled in Marvel's first large-format [[graphic novel]], ''The Death of Captain Marvel'', published in 1982.<ref name="DeFalco207">DeFalco "1980s" in Gilbert (2008), p. 207: "This title by Jim Starlin was the first of a new series of Marvel Graphic Novels. Running between forty-eight and ninety-six pages, these paperback books were an attempt to compete with the European-style graphic albums."</ref>
+
+=== Monica Rambeau ===
+{{main|Monica Rambeau}}
+The second Captain Marvel was created by writer [[Roger Stern]] and artist [[John Romita, Jr.]]. She first appeared in ''[[The Amazing Spider-Man]] Annual'' #16 (1982).
+
+The character is '''Monica Rambeau''', a police lieutenant from [[New Orleans]] who possesses the power to transform herself into any form of [[energy]].<ref>''Amazing Spider-Man Annual'' #16 (1982)</ref>  Her powers were briefly altered so that she cannot transform to energy, but instead can generate a personal force field.<ref>''Captain Marvel (vol. 3)'' #1 (November 1989)</ref> Sometime later, the [[Stranger (comics)|Stranger]] returned her energy transformation abilities. She is a member of the [[Avengers (comics)|Avengers]], and at one point served as their leader.  She eventually ceded the Captain Marvel name to the original Captain Marvel's son after which Rambeau took the name '''Photon''',<ref>''[[Avengers Unplugged]]'' #5 (June 1996)</ref> using that for quite some time, until Genis-Vell adopted the same name. Genis-Vell and Monica discussed this and Monica decided on the name '''Pulsar'''.<ref>''New Thunderbolts'' #9 (August 2005)</ref>
+
+Rambeau later joined H.A.T.E. (the Highest Anti-Terrorism Effort) in the new series titled ''[[Nextwave|NEXTWAVE]]''.<ref>''Nextwave: Agents of H.A.T.E.'' #1 (March 2006)</ref> In this series created by [[Warren Ellis]] and [[Stuart Immonen]], H.A.T.E. (a subsidiary of the [[Beyond Corporation]]) forms a team to fight the Bizarre Weapons of Mass Destruction. Members include Monica Rambeau, a man known only as [[Captain (comics)|"The Captain"]], [[Tabitha Smith|Boom Boom]], [[Machine Man|Aaron Stack]], and [[Elsa Bloodstone]]. She most recently returned to the Avengers using the codename '''Spectrum.
+'''
+
+=== Genis-Vell ===
+{{main|Genis-Vell}}
+The third Captain Marvel is '''Genis-Vell''', who first appeared in ''[[Silver Surfer]] Annual'' #6 (1993) using the codename of "Legacy". The character is the genetically-engineered son of Mar-Vell and his lover Elysius, created from the late Mar-Vell's cell samples and artificially aged to physical, if not emotional, maturity.  Genis, like his father, wears the Nega-Bands, possesses Cosmic Awareness and is, for a time, bonded with [[Rick Jones (comics)|Rick Jones]]. Although the pair do not get along at first, they eventually become good friends.  Genis goes insane and threatens to destroy the universe.
+
+After dying and resurrecting himself - with the secret aid of [[Baron Helmut Zemo]] - Genis-Vell joins the [[Thunderbolts (comics)|Thunderbolts]] under the name '''Photon'''. However, in accelerating his resurrection, Zemo links Genis to the ends of time, causing a degenerative effect on the universe.  To prevent the inevitable destruction of all existence, Zemo scatters pieces of Genis-Vell's body through time and the [[Darkforce]] Dimension.
+
+=== Phyla-Vell ===
+{{main|Phyla-Vell}}
+The fourth Captain Marvel is '''Phyla-Vell''', Genis-Vell's younger sister.  She was created by [[Peter David]] and [[Paul Azaceta]] in ''Captain Marvel'' (vol. 5) #16 (January 2004). Her name is a [[Taxonomy (biology)|taxonomical]] pun on the part of writer Peter David. Phyla is created when Genis, an only child, recreates the universe and, in doing so, creates various anomalies which result in his mother being restored to life and his sister coming into existence. She is last seen romancing [[Moondragon]].
+
+Phyla-Vell appears in the ''[[Annihilation (comics)|Annihilation]]'' event, fighting alongside [[Nova (Richard Rider)|Nova]]'s [[United Front (comics)|United Front]] in an effort to stop the destructive armies of [[Annihilus]]. She becomes the new [[Quasar (comics)|Quasar]] after the original one is killed by Annihilus.<ref>[http://www.newsarama.com/NYCC/2007/Marvel/cup_o_joe.html NYCC '07 - JOE QUESADA's CUP 'O JOE PANEL] {{webarchive |url=https://web.archive.org/web/20070226131153/http://www.newsarama.com/NYCC/2007/Marvel/cup_o_joe.html |date=February 26, 2007 }}, [[Newsarama]]</ref>
+
+Phyla has superhuman strength. She can fire energy blasts, fly, and act like an "energy sponge", absorbing any energy attacks directed at her and returning them as energy blasts. Phyla also has cosmic awareness and is a proficient fighter.
+
+Phyla later became an avatar for Oblivion, and renamed herself Martyr.  She died to save her comrades in the [[Guardians of the Galaxy (2008 team)|Guardians of the Galaxy]].
+
+=== Khn'nr ===
+{{main|Khn'nr}}
+The fifth Captain Marvel is '''Khn'nr''', who first appeared in ''[[Civil War (comics)|Civil War]]: The Return'' (March 2007). He is a [[Skrull]] sleeper agent who is bound with Mar-Vell's DNA to lock itself into Mar-Vell's form and given technological replicas of the Kree Nega-Bands. However, his mental conditioning was botched, causing Khn'nr's personality to be erased leaving the Mar-Vell persona dominant. Though part of the [[Secret Invasion]], this Marvel decides to fight against the invading Skrulls. As of now, he is apparently dead.
+
+=== Noh-Varr ===
+{{main|Noh-Varr}}
+As part of the [[Dark Reign (comics)|Dark Reign]] storyline '''Noh-Varr''' joined the new team the [[Dark Avengers]] using the alias Captain Marvel.<ref>''[[Dark Avengers]]'' #1 (March 2009)</ref> He first appears in ''[[Marvel Boy]]'' #1 (August 2000). He subsequently quit the team on discovering they were all villains at which point he was contacted by the Supreme Intelligence, given a copy of the original Captain Marvel's Nega Bands and told he should take his place as the Kree's protector of Earth. This led to Noh-Varr taking the new code name Protector.
+
+=== Carol Danvers ===
+{{main|Carol Danvers}}
+In July 2012, Carol Danvers, the longtime super-heroine known as '''[[Ms. Marvel]]''', assumed the mantle of Captain Marvel in an ongoing series written by [[Kelly Sue DeConnick]] with art by [[Dexter Soy]]. Danvers dons a [[jumpsuit]] and explores her own past. DeConnick said at [[WonderCon]] 2012 that her pitch for the series could be described as "Carol Danvers as [[Chuck Yeager]]". She said the series would contemplate what Captain Marvel's legend means to Danvers, how she will wield it, and how the rest of the [[Marvel Universe]] reacts.<ref name=Beard120317>{{cite web |last=Beard |first=Jim |date=March 17, 2012 |title=WonderCon 2012: Captain Marvel |url=http://marvel.com/news/story/18290/wondercon_2012_captain_marvel |website=marvel.com |publisher=Marvel |accessdate=March 19, 2012 |archive-url=https://www.webcitation.org/6BjZkxz9A?url=http://marvel.com/news/story/18290/wondercon_2012_captain_marvel# |archive-date=2012-10-27 |dead-url=yes |df= }}</ref>
+
+==Other versions==
+
+===Ultimate Captain Marvel===
+{{main|Mahr Vehl}}
+The [[Ultimate Marvel]] miniseries ''[[Ultimate Secret]]'' introduces a renegade Kree who has been surgically altered to look human and sent to Earth by his people to observe its destruction by the entity [[Gah Lak Tus]], but defects to help the humans. He wears a specially designed combat suit that is activated by his wristwatch. The Kree technology in the suit gives Mahr Vehl increased strength and allows him to fly, create energy shields, turn invisible, view different fields of the light spectrum, and fire energy blasts through the "totalkannon" located on his lower arm.
+
+His real name is Pluskommander Geheneris Halason Mahr Vehl. As with the [[Marvel Universe]] character of [[Mar-Vell]], he assumes the identity of Dr. Philip Lawson, a scientist working on the space program. He dated the Ultimate version of [[Ms. Marvel#Ultimate Marvel|Carol Danvers]].  The name 'Captain Marvel' arises as a mispronunciation by General [[Ultimate Nick Fury|Nick Fury]] and Carol Danvers.  Only the [[Falcon (comics)#Ultimate Marvel|Falcon]] and [[Ultimate Thor|Thor]] have bothered to learn how to pronounce his name correctly.
+
+===Ruins===
+{{main|Ruins (comics)}}
+In the two-issue [[Warren Ellis]] mini-series ''[[Ruins (comics)|Ruins]]'' (1995), Captain Marvel is one of the many [[Kree]] prisoners, in a Kree [[Indian reservation|reservation]] in [[Nevada]].  The reservation was placed deliberately on top of a former nuclear test site. As a result of this the majority of the Kree are suffering from various forms of [[cancer]]s and [[tumour]]s including Mar-Vell  who is the Kree's spokesperson. Mar-Vell gives an interview to [[Daily Bugle]] reporter Phil Sheldon regarding the failed Kree invasion of Earth. Mar-Vell recounts how his ship was made vulnerable to a nuclear strike when their cloaking and  shielding was affected by cosmic [[radiation]] from a deceased [[Silver Surfer]].
+
+===Fantastic Four: The End===
+{{main|Fantastic Four: The End}}
+In the limited series ''Fantastic Four: The End'', the superheroine formerly known as [[Kismet (Marvel Comics)|Kismet]] (now under the name of Ayesha) has apparently taken over the Captain Marvel mantle in the not-too-distant future.<ref>''[[Fantastic Four: The End]]'' #1 (Jan. 2007)</ref>
+
+===House of M===
+{{main|House of M}}
+In the alternate, [[Mutant (Marvel Comics)|mutant]]-dominated world created by [[Scarlet Witch]], Carol Danvers ([[Ms. Marvel]] in mainstream continuity) uses the name Captain Marvel and is one of the few non-mutant heroes with a successful career.
+
+===Marvel Zombies===
+{{main|Marvel Zombies}}
+In the mini-series ''[[Marvel Zombies]]'' Captain Marvel is seen sitting with Vulture and [[Hercules (comics)|Hercules]] (both infected) waiting for Iron Man.  He is later killed by the Silver Surfer for immediate cause.
+
+===Cancerverse===
+In ''[[The Thanos Imperative]]'', the main villain is an alternate version of Captain Marvel called '''Lord Mar-Vell'''. Unlike his [[Earth-616]] counterpart, this Mar-Vell colluded with the [[Many-angled ones]] to survive his cancer by actually destroying [[Death (Marvel Comics)|Death]] via the sacrifice of its Avatar.
+
+===Amalgam Comics===
+{{main|Captain Marvel (Amalgam Comics)}}
+In two issues of ''[[JLX (comics)|JLX]]'' and ''[[JLX: Unleashed]]'', Captain Marvel combines with [[Captain Marvel (DC Comics)|Captain Marvel]] to become yet another Captain Marvel, sporting the [[DC Comics]] lightning bolt uniform design but with the original green and white colors of the Marvel version.
+
+===Age of Ultron===
+{{main|Age of Ultron}}
+In the [[Age of Ultron]] crossover event [[Janet van Dyne]] becomes Captain Marvel in an alternate timeline created by the death of [[Hank Pym|Henry Pym]]. Pym is murdered by a time-travelling Wolverine to prevent the creation of [[Ultron]], an artificial intelligence which in a post-apocalyptic future has wiped out most of the Earth's population including most superheroes.
+
+==Other media==
+A live-action film, ''[[Captain Marvel (film)|Captain Marvel]]'', centered on the Danvers version of the character, is scheduled for release in March 2019.<ref>{{cite web |url=http://marvel.com/news/movies/25244/marvel_studios_phase_3_update?linkId=17794776 |title=Marvel Studios Phase 3 Update |publisher=[[Marvel Comics|Marvel.com]] |date=August 18, 2014 |accessdate=October 8, 2015 |archiveurl=https://www.webcitation.org/6c83EJZBL?url=http://marvel.com/news/movies/25244/marvel_studios_phase_3_update?linkId=17794776 |archivedate=October 8, 2015 |deadurl=yes |df=mdy-all }}</ref> It is part of the [[Marvel Cinematic Universe]] and stars [[Brie Larson]] as Danvers.<ref>{{cite web|url=http://www.ew.com/article/2016/07/23/brie-larson-captain-marvel|title=Brie Larson officially announced as Captain Marvel|last=Breznican|first=Anthony|work=[[Entertainment Weekly]]|date=July 23, 2016|accessdate=July 23, 2016|archiveurl=https://web.archive.org/web/20160724031553/http://www.ew.com/article/2016/07/23/brie-larson-captain-marvel|archivedate=July 24, 2016 |deadurl=no}}</ref>
+
+== References ==
+{{Reflist}}
+
+== Sources ==
+{{refbegin}}
+*{{comicbookdb|type=character|id=2936|title=Captain Marvel (Mar-Vell)}}
+*{{comicbookdb|type=character|id=3253|title=Captain Marvel (Monica Rambeau)}}
+*{{comicbookdb|type=character|id=2928|title=Captain Marvel (Genis-Vell)}}
+*[http://www.marvunapp.com/Appendix2/phylacaptainmarvel.htm Captain Marvel (Phyla-Vell)] at the Appendix to the Handbook of the Marvel Universe
+*{{comicbookdb|type=character|id=4760|title=Captain Marvel (Phyla-Vell)}}
+*{{comicbookdb|type=character|id=22075|title=Captain Marvel (Khn'nr)}}
+*{{comicbookdb|type=character|id=29223|title=Captain Marvel (Noh-Varr)}}
+{{refend}}
+
+== External links ==
+* [http://marvel.com/universe/Captain_Marvel_%28disambiguation%29 Captain Marvel] at the Marvel Universe
+* [[MarvelDatabase:Captain Marvel|Captain Marvel]] at the Marvel Database Project
+* [https://web.archive.org/web/20091026192303/http://geocities.com/mailittomarvell/  Captain Marvel Appearances in Publication Order]
+* [http://www.captainmarvelculture.com Captain Marvel Culture] A history of the many Captain Marvels
+
+{{Captain Marvel}}
+{{Ms. Marvel}}
+{{Marvel Cosmic}}
+{{Stan Lee}}
+
+[[Category:1968 comics debuts]]
+[[Category:Characters created by Stan Lee]]
+[[Category:Comics about women]]

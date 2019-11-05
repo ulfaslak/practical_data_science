@@ -1,0 +1,59 @@
+{{Infobox comics character| <!--Wikipedia:WikiProject Comics-->
+image=
+|caption=
+|character_name=Burner
+|real_name=Byron Calley
+|species=[[Mutant (Marvel Comics)|Human Mutant]]
+|publisher=[[Marvel Comics]]
+|debut=''[[Captain America (comic book)|Captain America Annual]]'' #4 (1977)
+|creators=[[Jack Kirby]] (writer / artist)
+|alliances=[[Brotherhood of Evil Mutants]]<br/>[[Resistants|Mutant Force/Resistants]]<br/>[[Secret Empire (organization)|Secret Empire]]
+|aliases=Crucible
+|powers=pyrokinesis
+|}}
+
+'''Burner''' ('''Byron Calley'''), also known as '''Crucible''' is a fictional [[Mutant (Marvel Comics)|mutant]] character appearing in [[American comic book]]s published by [[Marvel Comics]]. The character's first appearance was in ''[[Captain America (comic book)|Captain America Annual]]'' #4.
+
+==Publication history==
+The fictional character '''Burner''' first appeared in ''[[Captain America (comic book)|Captain America Annual]]'' #4 in 1977, and was created by [[Jack Kirby]]. Burner subsequently appeared in ''Defenders'' vol. 1 #78-80, 83, 87, 125-126, and 128-130.  As '''Crucible''', he appeared in ''Captain America'' vol. 1 #343, 346, 368, 394, and 426. He appeared once again as Burner in ''New Warriors'' vol. 2, #6.
+
+Burner appeared as part of the "Mutant Force" entry in the ''[[Official Handbook of the Marvel Universe|Official Handbook of the Marvel Universe Deluxe Edition]]'' #9.
+
+==Fictional character biography ==
+'''Byron Calley''' was born in [[Secaucus, New Jersey]]. He became a professional criminal, as '''Burner''', and was recruited by [[Magneto (comics)|Magneto]] into his second [[Brotherhood of Mutants|Brotherhood of Evil Mutants]] team. He battled [[Captain America]] in his first mission with the Brotherhood.<ref>''Captain America Annual'' #4</ref> Next, the team renamed itself [[Resistants|Mutant Force]] when Magneto abandoned them. Mutant Force was employed by the [[Mandrill (comics)|Mandrill]] in his scheme to take over the U.S. Mutant Force battled the [[Valkyrie (Marvel Comics)|Valkyrie]], [[Wasp (comics)|Wasp]], [[Patsy Walker|Hellcat]], [[Nighthawk (Marvel Comics)#Nighthawk|Nighthawk]], and [[Henry Pym|Yellowjacket]].<ref>''Defenders'' #78-80</ref> Mutant Force was then recruited into government service, and battled the [[Hulk (comics)|Hulk]].<ref>''Defenders'' #83</ref> Burner testified against the [[Defenders (comics)|Defenders]] before a special government tribunal.<ref>''Defenders'' #87</ref> Mutant Force and [[Mad Dog (Marvel Comics)|Mad Dog]] were then employed by [[Professor Power]]'s [[Secret Empire (organization)|Secret Empire]], and battled the Defenders to thwart their attempt to stop the launch of a missile to instigate World War III.<ref>''Defenders'' #129-130</ref>
+
+Some time later, Mutant Force became the ''Resistants'', a mutant terrorist group in opposition to the [[Registration acts (comics)#Mutant Registration Act|Mutant Registration Act]], and mutant rights activists. Burner changed his name to '''Crucible''' during his time with the Resistants. The Resistants rescued the mutant [[Quill (comics)#Quill (Resistants)|Quill]] from the custody of then-current fifth [[U.S. Agent (comics)|Captain America]] and [[Battlestar (comics)|Bucky]].<ref>''Captain America'' #343</ref> The Resistants then rescued [[Mentallo]] from the [[Guardsman (comics)|Guardsmen]]'s custody, and battled Captain America and Bucky again. During the battle, Crucible was accidentally non-fatally shot by Mentallo (who had taken the name '''Think-Tank''').<ref>''Captain America'' #346</ref> Crucible was later seen trying to bring down Captain America at the behest of the [[Red Skull]], but was severely injured in the fight.<ref>''Captain America'' #350</ref> Apparently recovered, he was later among the Resistants protesting in Washington for mutant rights, where he encountered the original [[Captain America]].<ref>''Captain America'' #368</ref>
+
+He was later seen, again as Burner and part of Mutant Force, fighting against the [[New Warriors]] but was defeated by the young heroes.<ref>''[[New Warriors]]'' vol. 2, #6</ref>
+
+==Powers and abilities==
+Burner is a [[Mutant (Marvel Comics)|mutant]] that can psionically induce and retard combustion. He can cause something to burst into flame at a maximum distance of approximately {{convert|200|ft|m}}. He can project flames from his hands like a flamethrower. He can douse a fire at a maximum distance of approximately {{convert|200|ft|m}}. His mind automatically douses any flame that comes within one foot of him, effectively making him immune to the effects of his own power as well as any fire in general.
+
+==Other versions==
+
+===Civil War: House of M===
+Burner was shown as a member of Magneto's mutant army during his rise to power.<ref>Civil War: House of M #4</ref>
+
+==In other media==
+
+===''X-Men'' animated series===
+Byron Calley appears in the episode "Sanctuary" of the X-Men animated series. He is depicted as an old friend of Gambit's who joins Fabian Cortez's acolytes on Asteroid M.  Calley helps the X-Men defeat Cortez when they discover that he tried to assassinate Magneto.
+
+==References==
+{{reflist}}
+
+==External links==
+* {{Marvunapp|http://www.marvunapp.com/Appendix3/burnermutantforce.htm|Burner}}
+* [http://en.marveldatabase.com/Byron_Calley_%28Earth-616%29 Burner] at Marvel Wiki
+
+{{Brotherhood of Evil Mutants}}
+{{Jack Kirby}}
+
+[[Category:Characters created by Jack Kirby]]
+[[Category:Comics characters introduced in 1977]]
+[[Category:Fictional characters from New Jersey]]
+[[Category:Fictional characters with fire or heat abilities]]
+[[Category:Fictional human rights activists]]
+[[Category:Fictional mercenaries]]
+[[Category:Marvel Comics mutants]]
+[[Category:Marvel Comics supervillains]]

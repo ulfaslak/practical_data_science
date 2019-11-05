@@ -1,0 +1,834 @@
+{{About||Laura Kinney, the star of All-New Wolverine|X-23|parallel universe version of the character|Old Man Logan|parallel universe version of the character|Wolverine (Ultimate Marvel character)}}
+
+{{Infobox comics character <!-- Wikipedia:WikiProject Comics -->
+| character_name = Wolverine
+| image          = Marvelwolverine.jpg
+| imagesize      =
+| converted      = y
+| caption        = Promotional art for ''[[The New Avengers (comics)|The New Avengers]]'' #5 (March 2005), by [[David Finch (comics)|David Finch]].
+| publisher      = [[Marvel Comics]]
+| debut          = '''Cameo:'''<br>''[[The Incredible Hulk (comic book)|The Incredible Hulk]]'' #180 (October 1974)<br />'''Full appearance:'''<br>''The Incredible Hulk'' #181 (November 1974)
+| creators       = {{Plainlist|
+* [[Roy Thomas]]
+* [[Len Wein]]
+* [[John Romita Sr.]]
+}}
+|
+| alter_ego      = James Howlett 
+| species        = [[Mutant (Marvel Comics)|Human mutant]]
+| alliances      = {{Plainlist|
+* [[X-Men]]
+* [[Alpha Flight]]
+* [[Avengers (comics)|Avengers]]
+* [[Fantastic Four|New Fantastic Four]]
+* [[Weapon X]]
+* [[X-Force]]
+}}
+| aliases        = Logan, Jeremiah Logan, Patch, Weapon X (Ten), Death, Mutate #9601, Emilio Garra, Weapon Chi, Experiment X, Agent Ten, Peter Richards, Mai' keth, Black Dragon, Captain Canada, Captain Terror, John Logan, Jim Logan
+| powers         = 
+*Superhuman senses, agility, reflexes, and animal-like attributes
+*Extended longevity via regenerative healing factor
+*[[Adamantium]]-infused skeleton
+*Retractable bone claws
+*Skilled hand-to-hand combatant
+| cat            = super
+| subcat         = Marvel Comics
+| hero           = y
+| sortkey        = Wolverine (character)
+}}
+
+'''Wolverine''' (birth name: '''James Howlett''';<ref>{{cite comic | writer=[[Bill Jemas|Jemas, Bill]] | cowriters=[[Joe Quesada|Quesada, Joe]], [[Paul Jenkins (writer)|Jenkins, Paul]] | title=[[Origin (comics)|Origin]] | publisher=[[Marvel Comics]] | date=2001–2002}}</ref> [[colloquial]]: '''Logan''', '''Weapon X''') is a fictional chara<!-- Please do not specify what type of character you think Wolverine is. Categories like "superhero" and "anti-hero" are subjective. It's better to use a generic term and let the reader decide for themselves.-->cter appearing in [[American comic book]]s published by [[Marvel Comics]], mostly in association with the [[X-Men]]. He is a [[Mutant (Marvel Comics)|mutant]] who possesses animal-keen senses, enhanced physical capabilities, powerful regenerative ability known as a healing factor, and three retractable claws in each hand. Wolverine has been depicted variously as a member of the X-Men, [[Alpha Flight]], and the [[Avengers (comics)|Avengers]].
+
+The character appeared in the last panel of ''[[The Incredible Hulk (comic book)|The Incredible Hulk]]'' #180 before having a larger role in #181 ([[cover-date]]d Nov. 1974). He was created by Marvel editor-in-chief [[Roy Thomas]],<ref>{{cite news| url= https://www.bostonglobe.com/lifestyle/names/2017/10/27/waltham-eighth-grader-gets-artwork-published-national-comics-magazine/mhrfqCupKR0ZqdHVQGhgFL/story.html| title= Waltham eighth grader gets artwork published in national comics magazine| first= Kaitlyn| last= Locke| work= [[Boston Globe]]| date= October 27, 2017| access-date= January 2, 2018}}</ref> writer [[Len Wein]],<ref name=WeinDead>{{cite news| url= https://www.rollingstone.com/culture/news/len-wein-comics-writer-and-wolverine-co-creator-dead-at-69-w502170 | first= Daniel| last= Kreps| date= September 11, 2017 | title= Len Wein, Comic Book Writer and Wolverine Co-Creator, Dead at 69| work= [[Rolling Stone]] | access-date= January 2, 2018}}</ref> and Marvel [[art director]] [[John Romita Sr.]] Romita designed the character, although it was first drawn for publication by [[Herb Trimpe]]. Wolverine then joined a revamped version of the superhero team the X-Men, where eventually writer [[Chris Claremont]] and artist-writer [[John Byrne (comics)|John Byrne]] would play significant roles in the character's development. Artist [[Frank Miller (comics)|Frank Miller]] collaborated with Claremont and helped revise the character with a four-part eponymous limited series from September to December 1982, which debuted Wolverine's [[catchphrase]], "I'm the best there is at what I do, but what I do best isn't very nice."
+
+Wolverine is typical of the many tough [[antihero]]es that emerged in American popular culture after the [[Vietnam War]];<ref name= Wright2003>{{cite book | last=Wright | first=Bradford W. | title=Comic Book Nation | publisher=[[Johns Hopkins University Press]] | date=September 18, 2003 | isbn=978-0-8018-7450-5}}</ref>{{rp|265}} his willingness to use deadly force and his brooding nature became standard characteristics for [[comic book]] antiheroes by the end of the 1980s.<ref name= Wright2003 />{{rp|277}} As a result, the character became a [[Breakout character|fan favorite]] of the increasingly popular ''X-Men'' franchise,<ref name= Wright2003 />{{rp|263, 265}} and has been featured in his own solo comic book series since 1988.
+
+He [[Wolverine in other media|has appeared]] in most X-Men adaptations, including [[List of animated television series|animated television series]], [[video game]]s, and the [[live-action]] [[20th Century Fox]] [[X-Men (film series)|''X-Men'' film series]], in which he is portrayed by [[Hugh Jackman]] in nine of the ten films. The character is highly rated in many comics best-of lists, ranked #1 in ''[[Wizard (magazine)|Wizard]]'' magazine's 2008 Top 200 Comic Book Characters;<ref>{{cite web| url= http://www.wizarduniverse.com/05230810thgreatestcharacters3.html| archiveurl= https://web.archive.org/web/20080527233109/http://www.wizarduniverse.com/05230810thgreatestcharacters3.html |archivedate=May 27, 2008| website= WizardUniverse.com| title= The 200 Greatest Comic Book Characters of All Time: Numbers 20 to 1!| author= Wizard Staff| date= May 23, 2008 | access-date= January 2, 2018}}</ref> 4th in ''[[Empire (magazine)|Empire]]''{{'}}s 2008 Greatest Comic Characters;<ref name="E #50">{{cite web | url=http://www.empireonline.com/50greatestcomiccharacters/default.asp?c=4 | title=The 50 Greatest Comic Book Characters | work=[[Empire (magazine)|Empire]] | date=July 2008}}</ref> and 4th on [[IGN]]'s 2011 Top 100 Comic Book Heroes.<ref>{{cite web|url=http://www.ign.com/top/comic-book-heroes/4 |title=Wolverine - #4 Top Comic Book Heroes |publisher=IGN |accessdate=2011-08-12}}</ref>
+
+==Publication history==
+Marvel editor-in-chief [[Roy Thomas]] asked writer [[Len Wein]] to devise a character specifically named Wolverine, who is Canadian and of small stature and with a [[wolverine]]'s fierce temper. [[John Romita Sr.]] designed the first Wolverine costume, and believes he introduced the retractable claws, saying, "When I make a design, I want it to be practical and functional. I thought, 'If a man has claws like that, how does he scratch his nose or tie his shoelaces?'"<ref name="newsday">{{cite news|authorlink=Frank Lovece |last=Lovece |first=Frank |url=http://www.newsday.com/services/bellerose-artist-created-x-men-s-wolverine-1.1229097 |title=Bellerose artist created X-Men's Wolverine |work=[[Newsday]] |date=April 23, 2009 |archiveurl=https://www.webcitation.org/5nfeLd17L?url=http://www.newsday.com/services/bellerose-artist-created-x-men-s-wolverine-1.1229097 |archivedate=February 20, 2010 |deadurl=no |df= }}</ref> Wolverine first appeared in the final "teaser" panel of ''[[The Incredible Hulk (comic book)|The Incredible Hulk]]'' #180 ([[cover-date]]d Oct. 1974) written by Wein and penciled by [[Herb Trimpe]]. The character then appeared in a number of advertisements in various Marvel Comics publications before making his first major appearance in ''The Incredible Hulk'' #181 (Nov. 1974) again by the Wein–Trimpe team. In 2009, Trimpe said he "distinctly remembers" Romita's sketch and that, "The way I see it, [Romita and Wein] sewed the monster together and I shocked it to life!... It was just one of those secondary or tertiary characters, actually, that we were using in that particular book with no particular notion of it going anywhere. We did characters in ''The [Incredible] Hulk'' all the time that were in [particular] issues and that was the end of them."<ref>{{cite web|authorlink=Frank Lovece|last=Lovece|first= Frank|url=http://www.filmjournal.com/filmjournal/content_display/news-and-features/features/movies/e3i55fbb4c9063b301d1cb81bba0691e7a6 |title=Wolverine Origins: Marvel artists recall the creation of an icon|work=[[Film Journal International]]|date= April 24, 2009|archiveurl=https://web.archive.org/web/20090505063540/http://www.filmjournal.com/filmjournal/content_display/news-and-features/features/movies/e3i55fbb4c9063b301d1cb81bba0691e7a6 | archivedate=May 5, 2009|deadurl=no}}</ref> Though often credited as co-creator, Trimpe denied having had any role in Wolverine's creation.<ref>{{cite journal|last= Aushenker|first= Michael|authorlink= Michael Aushenker|date= April 2007|title= The Son of Satan: A Trident True Devil Hero|journal= [[Back Issue!]]|issue= 21|pages= 6–13|publisher= [[TwoMorrows Publishing]]}}</ref>
+
+[[File:inchulk181.jpg|right|thumb|Wolverine made his full debut in ''[[The Incredible Hulk (comic book)|The Incredible Hulk]]'' #181 (Nov. 1974); cover art by [[Herb Trimpe]] with alterations by [[John Romita Sr.]]<ref>[http://www.comics.org/issue/27934/ ''The Incredible Hulk'' #181] at the [[Grand Comics Database]].</ref>]]
+The character's introduction was ambiguous, revealing little beyond his being a [[superhuman]] agent of the Canadian government. In these appearances, he does not retract his claws, although Wein stated they had always been envisioned as retractable.{{citation needed|date=March 2013}} He appears briefly in the finale to this story in ''The Incredible Hulk'' #182.
+
+Wolverine's next appearance was in 1975's ''Giant-Size X-Men'' #1, written by Wein and penciled by [[Dave Cockrum]], in which Wolverine is recruited for a new squad. [[Gil Kane]] illustrated the cover artwork but incorrectly drew Wolverine's mask with larger headpieces. Dave Cockrum liked Kane's accidental alteration (believing it to be similar to [[Batman]]'s mask) and incorporated it into his own artwork for the actual story.<ref>Cunningham, Brian (1996). "Dressed to Kill". ''Wizard Tribute to Wolverine''.</ref> Cockrum was also the first artist to draw Wolverine without his mask, and the distinctive hairstyle became a trademark of the character.<ref name="Sanderson">{{cite comic | writer=Sanderson, Peter | date=Oct. 1986 | story=Wolverine: The Evolution of a Character | title=The Incredible Hulk and Wolverine | publisher=Marvel Comics}}</ref>
+
+A revival of ''X-Men'' followed, beginning with ''[[Uncanny X-Men|X-Men]]'' #94 (August 1975), drawn by Cockrum and written by Chris Claremont. In ''X-Men'' and ''Uncanny X-Men'', Wolverine is initially overshadowed by the other characters, although he does create tension in the team as he is attracted to [[Cyclops (Marvel Comics)|Cyclops']] girlfriend, [[Jean Grey]]. As the series progressed, Claremont and Cockrum (who preferred [[Nightcrawler (comics)|Nightcrawler]]<ref name="X-Men Companion">''X-Men Companion''</ref>) considered dropping Wolverine from the series;<ref name="X-Men Companion" /> Cockrum's successor, artist [[John Byrne (comics)|John Byrne]], championed the character, later explaining, as a Canadian himself, he did not want to see a Canadian character dropped.<ref name="Sanderson"/><ref>{{cite book | last=DeFalco | first=Tom | title=Comics Creators on X-Men | publisher=[[Titan Books]] | date=May 1, 2006 | page=110 | isbn=978-1-84576-173-8}}</ref> Byrne modeled his rendition of Wolverine on actor Paul D’Amato, who played Dr. Hook in the 1977 sports film ''[[Slap Shot (film)|Slap Shot]]''.<ref>Cronin, Brian (November 20, 2014). [http://goodcomics.comicbookresources.com/2014/11/20/foggy-ruins-of-time-john-byrnes-inspiration-for-wolverine/ "Foggy Ruins of Time – John Byrne’s Inspiration for Wolverine"]. [[Comic Book Resources]].</ref> Byrne also created Alpha Flight, a group of Canadian superheroes who try to recapture Wolverine due to the expense their government incurred training him. Later stories gradually establish Wolverine's murky past and unstable nature, which he battles to keep in check. Byrne also designed a new brown-and-tan costume for Wolverine, but retained the distinctive Cockrum cowl.<ref>{{cite comic|writer=[[Claremont, Chris]]; [[Byrne, John]]|penciller=Byrne, John|inker=[[Austin, Terry]]|story=...Something Wicked This Way Comes!|title=[[The Uncanny X-Men]]|issue=139|publisher=[[Marvel Comics]]|date=Nov. 1980}}</ref> Cockrum had introduced a new costume for Wolverine (taken from his adversary [[Fang (comics)|Fang]]) in the final issue of his run, but it was dropped one issue into Byrne's run because he and Cockrum alike found it painfully difficult to draw.<ref>{{cite journal|last=Nickerson|first=Al |title=Claremont and Byrne: The Team that Made the X-Men Uncanny|journal=[[Back Issue!]]|issue=29 |page=10|publisher=[[TwoMorrows Publishing]]|date=August 2008|location=Raleigh, North Carolina}}</ref>
+
+Following Byrne's departure, Wolverine remained in ''X-Men''. The character's growing popularity led to a solo, four-issue, ''[[Wolverine (comic book)|Wolverine]]'' (September–December 1982), by Claremont and Frank Miller, followed by the six-issue ''[[Kitty Pryde and Wolverine]]'' by Claremont and [[Al Milgrom]] (Nov. 1984&nbsp;– April 1985). Marvel launched an ongoing solo book written by Claremont with art by [[John Buscema]] in November 1988. It ran for 189 issues. [[Larry Hama]] later took over the series and had an extensive run. Other writers who wrote for the two ''Wolverine'' ongoing series include [[Peter David]], [[Archie Goodwin (comics)|Archie Goodwin]], [[Erik Larsen]], Frank Tieri, [[Greg Rucka]], [[Mark Millar]], and [[Gregg Hurwitz]]. Many artists have also worked on the series, including John Byrne, Gene Colan, [[Marc Silvestri]], [[Mark Texeira]], [[Adam Kubert]], [[Leinil Francis Yu]], [[Rob Liefeld]], [[Sean Chen (artist)|Sean Chen]], [[Darick Robertson]], [[John Romita Jr.]], and [[Humberto Ramos]]. During the 1990s, the character was revealed to have bone claws, after his adamantium is ripped out by [[Magneto (comics)|Magneto]] in ''X-Men'' #25, which was inspired by a passing joke of Peter David's.<ref>{{cite news | last=Cronin | first=Brian | title=Comic Book Urban Legends Revealed #96 | publisher=Comic Book Resources| date=March 29, 2007 | url=http://goodcomics.comicbookresources.com/2007/03/29/comic-book-urban-legends-revealed-96/ | accessdate=April 3, 2007}}</ref>
+
+In addition to the ''Wolverine'' series and appearances in the various ''X-Men'' series, two other storylines expand upon the character's past: "Weapon X", by writer-artist [[Barry Windsor-Smith]], serialized in ''[[Marvel Comics Presents]]'' #72–84 (1991); and ''Origin'', a six-issue limited series by co-writers [[Joe Quesada]], [[Paul Jenkins (writer)|Paul Jenkins]], and [[Bill Jemas]] and artist [[Andy Kubert]] (Nov. 2001&nbsp;– July 2002). A second solo series, ''Wolverine: Origins'', written by [[Daniel Way]] with art by [[Steve Dillon]], [[Spin-off (media)|spun off of]], and runs concurrently with, the second ''Wolverine'' solo series.
+
+Wolverine appeared as a regular character throughout both the 2010–2013 ''Avengers'' series and the 2010–2013 ''New Avengers'' series.
+
+===Wolverine's first intended origin===
+Despite suggestions that co-creator Len Wein originally intended for Logan to be a mutated wolverine cub, evolved to humanoid form by an already established Marvel geneticist, the [[High Evolutionary]],<ref>{{cite web | url=http://goodcomics.comicbookresources.com/2005/10/20/comic-book-urban-legends-revealed-21/ | last=Cronin | first=Brian | title=Comic Book Urban Legends Revealed #21 | publisher=Comic Book Resources | date=October 20, 2005 | accessdate=August 19, 2007}}</ref> Wein denies this:
+
+{{quote|1=While I readily admit that my original idea was for Wolvie's claws to extend from the backs of his gloves ... I absolutely ''did not'' ever intend to make Logan a mutated wolverine. I write stories about human beings, not evolved animals (with apologies for any story I may have written that involved the High Evolutionary). The mutated wolverine thing came about long after I was no longer involved with the book. I'm not certain if the idea was first suggested by Chris Claremont, the late, much-missed Dave Cockrum, or John Byrne when he came aboard as artist, but it most certainly ''did not'' start with me.<ref name="saywhat">{{cite web | url=http://lenwein.blogspot.com/2009/02/say-what.html#links | title=WeinWords | last=Wein | first=Len | work=Say What? | date=February 24, 2009}}</ref>}}
+
+Wein said on the ''X-Men Origins: Wolverine'' [[Blu-ray]] special features that he has read "Ten things you did not know about Wolverine", which says the character was originally intended to be a mutated wolverine cub, and that this rekindled Wein's frustration. He again stated that he had "always known that Wolverine was a mutant."
+
+In an article about the evolution of Wolverine included in a 1986 reprint of ''The Incredible Hulk'' #180–181, titled ''Incredible Hulk and Wolverine'', Cockrum said he considered having the High Evolutionary play a vital role in making Wolverine a human.<ref name="Sanderson" /> Writer Wein wanted Wolverine to be the age of a young adult, with superhuman strength and agility similar to [[Spider-Man]]. This changed when Wein saw Cockrum's drawing of the unmasked Wolverine as a hairy 40-year-old.<ref name="Sanderson" /> Wein originally intended the claws to be retractable and part of Wolverine's gloves, and both gloves and claws would be made of adamantium.<ref name="saywhat" /> Chris Claremont eventually revealed that they were an integrated part of Wolverine's anatomy in ''X-Men'' #98 (April 1976). Writer [[Jeph Loeb]] used a similar origin for Wolverine in the Marvel continuity, having feral mutants be an evolved lifeform.<ref>''Wolverine: Evolution''</ref>
+
+===Wolverine's second intended origin===
+John Byrne said, both in interviews and on his website, that he drew a possible face for Wolverine, but then learned that Dave Cockrum had already drawn him unmasked in ''X-Men'' #98 (April 1976), long before Byrne's run on the series.<ref>{{cite web|url=http://www.byrnerobotics.com/FAQ/listing.asp?ID=2&T1=Questions+about+Comic+Book+Projects#213 |title=Questions about Comic Book Projects |work=Byrne Robotics |date=September 14, 2007 |deadurl=yes |archiveurl=https://web.archive.org/web/20130126025406/http://www.byrnerobotics.com/FAQ/listing.asp?ID=2&T1=Questions+about+Comic+Book+Projects |archivedate=January 26, 2013 |df= }}</ref><ref>{{cite web | url=http://www.oafe.net/yo/mlfo2_ws.php | title=Wolverine/Sabretooth&nbsp;– Marvel Legends Face-Off | work=OAFE}}</ref> Later, Byrne used the drawing for the face of [[Sabretooth (comics)|Sabretooth]], an enemy of the martial artist superhero [[Iron Fist (comics)|Iron Fist]], whose stories Chris Claremont was writing. Byrne then conceived of the idea of Sabretooth being Wolverine's father.<ref name="loganfiles.com">{{cite web | url=http://loganfiles.com/w-relationship.html | title=Who's your Daddy? | work=Logan Files | last1=Wells | first1=John | last2=Caringer | first2=Mark}}</ref><ref>{{cite web | url=http://www.byrnerobotics.com/FAQ/listing.asp?ID=3&T1=Questions+about+Aborted+Storylines#207 | title=Questions About Aborted Storylines | work=Byrne Robotics | date=August 29, 2006}}</ref> Together, Byrne and Claremont came up with Wolverine being about 60 years old and having served in [[World War II]] after escaping from Sabretooth, who was about 120 years old.<ref name="loganfiles.com" />
+
+===''Death of Wolverine''===
+{{main|Death of Wolverine}}
+
+===''Hunt for Wolverine''===
+{{main|Hunt for Wolverine}}
+Wolverine is set to appear in the upcoming ''Hunt for Wolverine'' which will explore the mystery behind Logan's return.<ref>[https://www.newsarama.com/38259-the-hunt-for-wolverine-explores-different-genres-for-logan-s-return.html#undefined.uxfs.uxfs THE HUNT FOR WOLVERINE Explores Different Genres for LOGAN's Return By Newsarama]</ref>
+
+===''Return of Wolverine''===
+In 2018, Marvel announced the upcoming five-issue ''Return of Wolverine'' miniseries, which is set to end the trilogy started in ''Death of Wolverine'' and ''Hunt for Wolverine''.<ref>{{cite web|url=https://www.hollywoodreporter.com/heat-vision/return-wolverine-miniseries-coming-marvel-1117296|title=Marvel Launching 'Return of Wolverine' Miniseries|website=The Hollywood Reporter}}</ref> Writer [[Charles Soule]] said that, having returned from the dead, Wolverine will have more abilities, including the ability to heat his claws.
+
+==Fictional character biography==
+{{long plot|date=June 2015}}
+Wolverine was born as '''James Howlett''' in northern [[Alberta]], Canada, during the late 1880s, purportedly to rich farm owners John and Elizabeth Howlett,<ref>''[[Origin (comics)|Wolverine: Origin]]'' #1. Marvel Comics.</ref> though he is actually the illegitimate son of the Howletts' groundskeeper, [[Thomas Logan]].<ref>''Wolverine'' (vol. 4) #5. Marvel Comics.</ref> After Thomas is thrown off the Howletts' property for an attempted rape perpetrated by his other son, named simply [[Dog Logan|Dog]], he returns to the Howlett manor and kills John Howlett. In retaliation, young James kills Thomas with bone claws that emerge from the back of his hands, as his mutation manifests.<ref>''Wolverine: Origin'' #2. Marvel Comics.</ref> He flees with his childhood companion, Rose, and grows into manhood on a mining colony in the [[Yukon]], adopting the name '''"Logan"'''.<ref>''Origin'' #3–5. Marvel Comics.</ref> When Logan accidentally kills Rose with his claws, he flees the colony and lives in the wilderness among wolves,<ref>''Wolverine: Origin'' #6. Marvel Comics.</ref> until he is captured and placed in a circus.<ref>''Origin II'' #2. Marvel Comics.</ref> Saul Creed, brother of [[Sabretooth (comics)|Victor Creed]], frees Logan, but after he betrays Logan and Clara Creed to [[Mister Sinister|Nathaniel Essex]], Logan drowns Creed in Essex's potion.<ref>''Origin II''</ref> Logan returns to civilization, residing with the [[Blackfoot]] people. Following the death of his Blackfoot lover, [[Silver Fox (comics)|Silver Fox]], at the hands of Victor Creed, now known as [[Sabretooth (comics)|Sabretooth]],<ref>Claremont, Chris (w), ''Wolverine'' #10. Marvel Comics.</ref> he is ushered into the Canadian military during [[World War I]]. Logan spends time in [[Madripoor]] before settling in [[Japan]], where he marries [[Itsu (comics)|Itsu]] and has a son, [[Daken]]. Logan is unaware of his son for many years.
+
+During World War II, Logan teams up with [[Captain America]]<ref>''Wolverine: Origins'' #16–20. Marvel Comics.</ref> and continues a career as a [[mercenary]]. He serves with the [[1st Canadian Parachute Battalion]]<ref>''Wolverine'' (vol. 2) #34. Marvel Comics.</ref> during [[Normandy Landings|D-Day]], and later with the [[Central Intelligence Agency|CIA]] before being recruited by [[Team X (comics)|Team X]], a [[black ops]] unit.
+
+As a member of [[Team X (comics)|Team X]], Logan is given false memory implants. Eventually breaking free of this mental control, he joins the Canadian Defense Ministry. Logan is subsequently kidnapped by the Weapon X program, where he remains captive and experimented on, until he escapes.<ref>[[Windsor-Smith, Barry]] (w, a). "[[Weapon X (story arc)|Weapon X]]", ''[[Marvel Comics Presents]]'' #72 - 84 (1991). Marvel Comics.</ref> It is during his imprisonment by [[Weapon X#Original installment|Weapon X]] that he has [[adamantium]] forcibly fused onto his bones. [[Guardian (Marvel Comics)|James]] and [[Vindicator (comics)|Heather Hudson]] help him recover his humanity following his escape, and Logan begins work as an intelligence operative for the Canadian government's [[Department H]]. He becomes Wolverine, one of Canada's first superheroes. In his first mission, he is dispatched to stop the destruction caused by a brawl between the [[Hulk]] and the [[Wendigo (comics)|Wendigo]].<ref>''[[The Incredible Hulk (comic book)|The Incredible Hulk]]'' (vol. 2), #180–181. Marvel Comics.</ref>
+
+Later, [[Professor X|Professor Charles Xavier]] recruits Wolverine to a new iteration of his superhero-mutant team, the [[X-Men]] where he shares a relationship to [[Jean Grey]] with [[Cyclops (Marvel Comics)|Cyclops]].<ref>''Giant-Size X-Men'' #1. Marvel Comics.</ref> It was later revealed that Wolverine had been sent to assassinate Xavier, who wiped Logan's memories and forced him to join the X-Men.<ref>''[[House of M]]'' #1. Marvel Comics.</ref>
+
+In ''X-Men'' #25 (1993), at the culmination of the "[[Fatal Attractions (comics)|Fatal Attractions]]" [[fictional crossover|crossover]], the [[supervillain]] Magneto forcibly removes the adamantium from Wolverine's skeleton. This massive trauma causes his healing factor to burn out and also leads to the discovery that his claws are actually bone. Wolverine leaves the X-Men for a time, embarking on a series of adventures during which his healing factor returns. Feral by nature, Wolverine's mutation process will eventually cause him to degenerate physically into a more primitive, bestial state.<ref>''Uncanny X-Men'' #330. Marvel Comics.</ref>
+
+After his return to the X-Men, [[Cable (comics)|Cable]]'s son [[Genesis (Marvel Comics)|Genesis]] kidnaps Wolverine and attempts to re-bond adamantium to his skeleton.<ref>''Wolverine'' (vol. 2) #99–100. Marvel Comics.</ref> This is unsuccessful and causes Wolverine's mutation to accelerate out of control. He is temporarily changed into a semi-sentient beast-like form. Eventually, the villain [[Apocalypse (comics)|Apocalypse]] captures Wolverine, brainwashes him into becoming the [[Horsemen of Apocalypse|Horseman Death]], and successfully re-bonds adamantium to his skeleton. Wolverine overcomes Apocalypse's programming and returns to the X-Men.
+
+In 2004, Mark Millar took on Wolverine with the "Enemy of the State" story arc. Wolverine travels to Japan to search for Mariko's missing nephew, but it was a trap by the Hand to brainwash Wolverine.<ref>''Wolverine'' (vol. 3) #20. Marvel Comics.</ref> [[Hydra (comics)|HYDRA]] is revealed to be allied with the cults the [[Dawn of the White Light]] and the [[Hand (comics)|Hand]] in order to kill superheroes and brainwash them into soldiers. Wolverine kills [[Hornet (comics)#Eddie McDonough|The Hornet]], so Elektra and S.H.I.E.L.D. decide to come after him.<ref>''Wolverine'' (vol. 3) #23. Marvel Comics.</ref> Wolverine also attacks the [[Fantastic Four]] in the Baxter Building. He is not able to injure the team, but hacks their computer and steals Reed's anti-[[Galactus]] weapons before teleporting out.<ref>''Wolverine'' (vol. 3) #22. Marvel Comics.</ref> They believe that the next attack will be against [[Daredevil (Marvel Comics character)|Daredevil]], but it was a trap to capture Elektra and brainwash her.<ref>''Wolverine'' (vol. 3) #24. Marvel Comics.</ref> He also attacks the X-Mansion. He threatens [[Rachel Summers]] with a bomb that will kill the students unless she uses Cerebro to kill the president. Instead she figures out how to disarm the bomb. Right before he is subdued, Wolverine strikes at Kitty Pryde, who phases, so his blades kill [[Northstar (Marvel Comics)|Northstar]].<ref>''Wolverine'' (vol. 3) #25. Marvel Comics.</ref> Wolverine is captured by S.H.I.E.L.D. and submitted to VR reprogramming. Hydra then strikes the S.H.I.E.L.D. helicarrier with all their brainwashed villains.<ref name="ReferenceA">''Wolverine'' (vol. 3) #26. Marvel Comics.</ref> Wolverine is unleashed on them and manages to save [[Nick Fury]] from Elektra. Wolverine then tracks down Northstar and the Dawn of the White Hand with three reprogrammed [[Sentinel (comics)|sentinels]].<ref>''Wolverine'' (vol. 3) #28. Marvel Comics.</ref> He then attacks the Hand's secret base with the last Sentinel and faces Elektra, who is now the Queen of the Hand. It turns out she can't be brainwashed since she's been resurrected so many times. They finish off the Hand leaders, then track down [[Gorgon (Tomi Shishido)|The Gorgon]], whom Wolverine kills by showing him a reflection of himself on his adamantium claws. Wolverine is finally able to track down the grave of missing boy.<ref>''Wolverine'' (vol. 3) #31. Marvel Comics.</ref>
+
+In ''Wolverine''  (vol. 3) #32, Mark Millar drafts a tale of Wolverine in a concentration camp, who is constantly executed and burned in a furnace, then resurrected, which mentally tortures the camp warden. He does not speak a word in the issue, which suggested to Millar by [[Will Eisner]], to resolve Millar's perception that Wolverine's normal manner of speech would not be an appropriate fit for the story's setting.<ref>Bazz, Robert (September 5, 2009). [https://highfivecomics.wordpress.com/2009/09/05/when-will-eisner-met-wolverine/ "When Will Eisner Met Wolverine"]. High Five! Comics.</ref><ref>Millar, Mark (October 25, 2006). [https://books.google.com/books?id=cxNeeL3DkOwC&pg=PT367&lpg=PT367&dq=Eisner,+Wolverine,+concentration+camp&source=bl&ots=NcwPN4VzyQ&sig=4Jfm_sIYXBPWC8_952j78KsTXC0&hl=en&sa=X&ved=0ahUKEwj765S9s-_RAhUk24MKHXQjB7IQ6AEIOzAF#v=onepage&q=Eisner%2CWolverine%2Cconcentrationcamp&f=false "Breakfast with Logan and Will" (Introduction)]. ''Wolverine: Enemy of the State'', Marvel Comics. Archived at [[Google Books]]. Retrieved February 1, 2017.</ref>
+
+In 2005, author [[Brian Michael Bendis]] had Wolverine join the [[The New Avengers (comics)|New Avengers]]. During the [[miniseries]] ''[[House of M]]'', Wolverine is able to recall that his previous memories and uses mutant [[Layla Miller]], to deconstruct the world Scarlet Witch created. Wolverine is one of the few characters who can remember the House of M world and seeks out to enact vengeance on those who wronged him.<ref>''Wolverine'' (vol. 3) #40. Marvel Comics.</ref> In ''Wolverine: Origins'', the character's second solo series, Wolverine discovers that he has a son named [[Daken]], who has been brainwashed and made a living weapon by the villain [[Romulus (Marvel Comics)|Romulus]], the man behind Wolverine's own brainwashing. Wolverine then makes it his mission to rescue Daken and stop Romulus from manipulating or harming anyone again.<ref>''Wolverine: Origins'' (vol. 1) #5. Marvel Comics.</ref>
+
+During the events of the "[[X-Men: Messiah Complex|Messiah Complex]]" storyline, Cyclops orders Wolverine to reform [[X-Force]].{{issue|date=November 2016}} Since then, Wolverine and the team (initially consisting of [[X-23]], [[Warpath (comics)|Warpath]], and [[Wolfsbane (comics)|Wolfsbane]]) have starred in a new monthly title.{{citation needed|date=November 2016}} The team was also featured in the "[[Messiah War]]" storyline, a sequel to "Messiah Complex". After the events of Second Coming, Cyclops ends the X-Force program,{{issue|date=November 2016}} but Wolverine continues a new [[Uncanny X-Force]] team in secrecy with Angel/Archangel, Psylocke, Deadpool and Fantomex.{{issue|date=November 2016}}
+
+In 2008, writer [[Mark Millar]] and artist [[Steve McNiven]] explored a possible future for Wolverine in an eight-issue story arc entitled "[[Old Man Logan]]" that debuted with ''Wolverine'' #66. Millar, the writer for the story, said, "It's ''[[Batman: The Dark Knight Returns|The Dark Knight Returns]]'' for Wolverine, essentially. The big, wide, show-stopping series that plays around with the most popular Marvel character of the last forty years, a dystopian vision of the Marvel Universe and a unique look at their futures. The heroes have gone, the villains have won and we're two generations away from the Marvel we know."<ref>{{cite web|author=Brady, Matt|url=http://forum.newsarama.com/showthread.php?t=144471 |title=Millar On ''Old Man Logan'' |work=[[Newsarama]] |date=January 25, 2008 |deadurl=yes |archiveurl=https://web.archive.org/web/20090122060924/http://forum.newsarama.com/showthread.php?t=144471 |archivedate=January 22, 2009 }}</ref>
+
+In ''[[X-Men]]'' #5, it is revealed that in order for Wolverine to fully infiltrate the ranks of the vampires that were attacking Utopia at the behest of Dracula's son Xarus (when Wolverine thought the vampire virus had simply bested his healing factor) during the "[[Curse of the Mutants]]" storyline, Cyclops has to infect him with nanites that are capable of shutting off Wolverine's healing factor. Cyclops can activate them by merely clicking a button on a remote control device he carries with him at all times.<ref>''X-Men'' #5. Marvel Comics.</ref>
+
+===Wolverine Goes to Hell===
+"The Red Right Hand" is a group of people who have been wronged by Wolverine and have sworn revenge on him. They trick him into trying to save his girlfriend Melita Garner (who was [[Mystique (comics)|Mystique]] in disguise) and then trap him in a mystical circle to send him straight to Hell. While he is in Hell, a group of demons possess Wolverine's body. The demons then attack [[Kestrel (Marvel Comics)|Wraith]] while he is at church, then they attack [[Colossus (comics)|Colossus]]. The Red Right Hand then start to kill off people that Wolverine knows, like the [[Silver Samurai]]. While in Hell, Wolverine confronts Thomas Logan, the groundskeeper of Wolverine's legal father who is revealed to be Wolverine's biological father.
+
+Wolverine is also reunited with various people he has either killed or died because of him, both foes (led by [[Sabretooth (comics)|Sabretooth]]) and friends. Wolverine manages to escape from Hell with the help of Melita, [[Daimon Hellstrom]], and the [[Ghost Rider (Johnny Blaze)|Ghost Rider]].<ref>''Wolverine'' (vol. 4) #1–5. Marvel Comics.</ref> However, his body is still possessed by the demons. The X-Men find out that Wolverine is possessed and decide that he should die to protect humankind, believing Wolverine would prefer to die rather than kill innocents. Wolverine is attacked on all sides by fighting the demons that still possess him and the X-Men that want him killed. He subsequently tracks down the Red Right Hand and kills their team of killers, the Mongrels. Wolverine fights his way through them only to find that the Red Right Hand's members have all committed suicide, while a pre-recorded message reveals that the Mongrels were all his illegitimate children. Unable to seek vengeance, Logan drags his children to the graves of their mothers before abandoning the world altogether.<ref>''Wolverine'' (vol. 4) #6–15. Marvel Comics.</ref>
+
+Broken and depressed, Wolverine secludes himself in the frozen wilderness and travels with a pack of wolves, eating little scraps of what's left of their kills. Poachers find the pack and capture any wolves that are young enough to fight. Wolverine goes to find his pack and kills the poachers. As he debates going back to the wild and hiding in deeper seclusion, he finds injured children whom the poachers were using to fight wolves for sport. Wolverine returns the children to their families only to be found by Melita and his allies who convince him to come back to civilization.<ref>''Wolverine'' (vol. 4) #16. Marvel Comics.</ref> Sometime afterwards, the events of Fear Itself and before Schism take place.
+
+===Schism===
+At the beginning of the events of Schism, Cyclops thanks Wolverine for always being there for him as they seem to finally have come to a mutually spoken and understood respect for each other after years of fighting and rivalry. While at a conference for weapon control, Kid Omega (Quentin Quire) launches a psychic terrorist attack on the ambassadors present. In response, Sentinels are deployed at the conference and are disposed of by Cyclops and Wolverine. Due to growing fears of mutant threat, countries around the world begin to mobilize their Sentinel forces. As Cyclops begins to deploy X-Men around the globe to deal with the threat, Wolverine returns to Utopia to find Hope Summers and the Lights waiting for their combat training lesson. After insulting Hope's team and realizing that Idie is losing her childhood, Wolverine asks Kitty Pryde to make him a doll to give to Idie. Wolverine gives the doll to Idie and eats ice cream with her while news reports of Sentinel activity play and tensions build around Utopia. Sometime after, Kid Omega shows up on Utopia. Wolverine tries to attack Kid Omega when Cyclops stops him. While Cyclops sends a team of some of his most powerful X-Men, as well as some of the island students, to a local mutant museum exhibit as a "show of force", Wolverine goes to a local bar to sulk in his aggravation with the current situation. The new Hellfire Club attacks the exhibit and incapacitates all senior X-Men present. As Wolverine rushes to the museum to help from the bar and Cyclops flies in from Utopia, Idie asks if she should kill the Hellfire Club to help. While Wolverine protests against it profusely, Cyclops tells Idie to do what she feels is right. Idie kills almost every Hellfire Club member left to save her friends and mentors. Wolverine pops his claws at Cyclops in anger that he used a child to save the day, but restrains himself when he realizes what he is doing.<ref>''X-Men: Schism'' #1–3. Marvel Comics.</ref>
+
+From the wreckage of the museum, a sentinel begins to form. While Wolverine tries to stop the sentinel from maturing, he is thrown into the ocean. Shortly after, Wolverine swims on to Utopia and tells the mutant children that they need to leave. Cyclops tells the students to fight together and that they can beat the sentinel, but Wolverine objects to using children to fight battles. Cyclops doesn't listen and begins to prepare the students for combat. Shortly after Wolverine returns with a detonator to blow up Utopia and orders all remaining people on the island to evacuate. Cyclops and Wolverine's frustration with each other come to a head when Cyclops brings up [[Jean Grey]] saying that she never loved Wolverine and always feared him. Wolverine replies "And if she were here right now, who do you think she would be more frightened of?" The two fight each other in a rage while being attacked by the sentinel and as Wolverine claws into Cyclops' visor, the students reappear on the battlefield to help them fight the sentinel. In the morning, Cyclops and Wolverine stand victorious with the students all living, but Wolverine cannot continue watching Cyclops use children as soldiers to fight these battles. Wolverine announces his departure from Utopia and indicates he will take any mutant on the island who wants to leave with him. While Wolverine does not leave as an enemy of Cyclops and his X-Men, he makes clear he wants both sides to stay out of the others business.<ref>''X-Men: Schism'' #4–5. Marvel Comics.</ref>
+
+Wolverine returns to [[Westchester County, New York|Westchester, New York]] to open a new school, the "[[Wolverine and the X-Men (comics)|Jean Grey School for Higher Learning]]".<ref>''Wolverine and the X-Men'' #1, 2011. Marvel Comics.</ref>
+
+===Regenesis===
+After the Schism, around half of all the mutants on Utopia accompany Wolverine to Westchester to be a part of the new school. He appoints himself as the headmaster, [[Kitty Pryde]] as the co-headmistress, [[Beast (comics)|Hank McCoy]] as the vice-principal, and various other characters such as [[Rogue (comics)|Rogue]], [[Cannonball (comics)|Cannonball]], [[Iceman (Marvel Comics)|Iceman]], [[Rachel Summers|Rachel Grey]], and [[Gambit (comics)|Gambit]] are appointed as the school's staff. [[Toad (comics)|Toad]] is appointed as a janitor. The first issue focuses on the state education board visiting to approve of their school application. As Logan and Kitty give the delegation a tour, Kade Kilgore shows up and tells Logan that he is the one who caused the Schism and he will destroy all that Logan has worked to build up. Wolverine founded the Jean Grey School for Higher Learning, spending all the fortune that he had amassed over the years upon it.<ref>''Wolverine and the X-Men'' #1. Marvel Comics.</ref> On its first day it was assaulted by the new [[Hellfire Club (comics)|Hellfire Club]], who had been a major force in causing the Schism of the X-Men. Wolverine made it clear that he didn't want to lose any of the kids and fought as hard as he could against the Frankenstein Monsters whom Iceman defeated by making Ice clones of himself. Then, they were attacked by the Hellfire Club, who were in possession of a spawn of the original [[Krakoa]].<ref>''Wolverine and the X-Men'' #2. Marvel Comics.</ref>
+
+[[Kid Omega]], who wants to prove himself to [[Broo (comics)|Broo]], [[Oya (comics)|Idie]] and Kid Gladiator, reasoned with Krakoa who then joined Wolverine's X-Men. Wolverine confronts the Hellfire Club tells them to stay away from his school, though he admonishes Krakoa not to attack them. [[Daredevil (Marvel Comics character)|Matt Murdock]] tells Kade Kilgore that he is being sued by Wolverine for the sum of $879 million for the damage he did to the school. As the school is rebuilt, Logan is informed that Krakoa was glad they allowed him to stay and Logan notes the advantage of school grounds that could defend itself.<ref>''Wolverine and the X-Men'' #3. Marvel Comics.</ref>
+
+==="Avengers vs. X-Men"===
+When the Phoenix Force returned to Earth, Wolverine sided with the Avengers and went with them to Utopia to take Hope Summers into custody (as they suspected her of being the Phoenix Force's intended host). Wolverine found this particularly difficult to do as he was forced to fight those he once thought of as family.<ref>''Avengers vs. X-Men'' #2. Marvel Comics.</ref>
+
+Cyclops tries to convince Wolverine to switch sides and become part of the X-Men once more. Wolverine is infuriated, feeling Cyclops has betrayed what the X-Men stood for, and did not have the right to determine who was a part of them.{{issue|date=May 2012}}
+
+After Hope's escape, Wolverine accompanies her to the Blue Area of the Moon. She promises to let Wolverine kill her if she is unable to control the Phoenix Force; her only request is that she gets the chance to control it. However, Wolverine betrays her by summoning the Avengers.<ref>''Avengers vs. X-Men'' #4. Marvel Comics.</ref> The Phoenix Force begins to bond with Hope, at which point she admits that she cannot contain it. She asks Wolverine to kill her, but he is prevented from doing so by Cyclops. Eventually, the Phoenix Force possesses the X-Men present on the moon, who then return to Earth, leaving Wolverine and the Avengers injured on the Blue Area of the Moon.<ref>''Avengers vs X-Men'' #5. Marvel Comics.</ref>
+
+===''Uncanny Avengers''===
+[[File:6.29.13CarlosPachecoByLuigiNovi5.jpg|thumb|right|[[Carlos Pacheco]] sketching Wolverine at the 2013 [[Wizard World]] New York Experience]]
+After "Avengers vs X-Men", Wolverine gives a eulogy at the funeral of Professor X, where he admits that he wanted to kill Cyclops.<ref>{{cite comic|writer=[[Remender, Rick]]|artist=[[Cassaday, John]]|story=New Union|title=[[Uncanny Avengers]]|issue=1|date=December 2012}}</ref> Later, he becomes a member of the Avengers Unity Squad, a team created by Captain America to improve human/mutant relations by having X-Men and Avengers working together. The team's first mission pits them against a clone of the [[Red Skull]] who had grafted Professor X's brain onto his own.<ref>''Uncanny Avengers'' (vol. 1), #1–4. Marvel Comics.</ref>
+
+During those events, a solo mission left Wolverine infected with an "intelligent virus" hailing from the Microverse. While his healing factor purges the infection from his body, the viral agent was still able to suppress Wolverine's healing factor, leaving him in the search for a cure.<ref name="Wolverinevol"/>
+
+===Death of Wolverine===
+{{Main|Death of Wolverine}}
+In September and October 2014, the "[[Death of Wolverine]]" storyline began after a virus from the microverse turned off Wolverine's healing factor, allowing his enemies to be able to kill him. Heroes such as [[Mister Fantastic]] offered to work on finding a means of reactivating his healing factor. When he learned that a bounty had been placed on his head, Logan resolved to find his foe, eventually identifying it as [[Abraham Cornelius|Doctor Abraham Cornelius]], the founder of the Weapon X program. After defeating Dr. Cornelius' latest experiment, Wolverine slashed the adamantium container before it could be infected with Dr. Cornelius' chemicals and Wolverine gets covered in it during the process. Wolverine dies from suffocation from the hardening adamantium.<ref>''Death of Wolverine'' #1–4. Marvel Comics.</ref>
+
+Wanting to possess Logan, [[Ogun (comics)|Ogun]] traveled to the Paradise facility to find him already dead, so instead he made Sharp his host.<ref>''Death of Wolverine: The Weapon X Program'' #3. Marvel Comics.</ref> His body was later seen still kneeling on the roof when the subjects led by Sharp escaped Weapon X soldiers looking to retrieve them and escaped the lab in a helicopter, and was last seen caught in an explosion on the roof.<ref>''Death of Wolverine: The Weapon X Program'' #1. Marvel Comics.</ref>
+
+===Post mortem and legacy===
+[[File:Wolverine (Laura Kinney).jpg|thumb|upright|[[X-23]] as Wolverine on a variant cover of ''All-New Wolverine'' #6 (May 2016). Art by Emanuela Lupacchino.]]
+The aftermath of Wolverine's death is explored in the series ''Wolverines''.<ref>Beard, Jim (April 28, 2014). [http://marvel.com/news/comics/2014/4/28/22415/c2e2_2014_death_of_wolverine "C2E2 2014: Death of Wolverine"]. Marvel.com.</ref> Sharp, Skel, Neuro, Endo, Junk, and the "Wolverines" (a team formed from the fallout of his death by Daken, Lady Deathstrike, Mystique, Sabretooth, and X-23) try to find Logan's adamantium-covered body, which is taken by Mister Sinister. The group infiltrate Mister Sinister's fortress to retrieve the body, but it is taken by the X-Men after a battle.<ref>''Wolverines'' (vol 5) #6. Marvel Comics.</ref>
+
+As one of his last requests, Wolverine arranged for [[Spider-Man]] to become a [[Spider-Man and the X-Men|member of the Jean Grey School for Higher Learning's staff]], wanting Spider-Man to investigate a suspected double agent.<ref>''Spider-Man and the X-Men'' #1. Marvel Comics.</ref> Despite the initial hostility he faced from the rest of the team, Spider-Man soon exposed a plan by [[Mister Sinister]] to acquire genetic samples from the X-Men and create a new clone army. [[Storm (Marvel Comics)|Storm]] even noted after Sinister's defeat that Spider-Man's unconventional attitude made him more like Wolverine than she had acknowledged.<ref>''Spider-Man and the X-Men'' #6. Marvel Comics.</ref>
+
+[[Black Widow (Natasha Romanova)|Black Widow]] tracked a knife covered in Wolverine's blood in the possession of [[Advanced Idea Mechanics|A.I.M.]] to a research facility in [[Moscow]]. [[Captain America]] and [[Deadpool]] went to retrieve it in order to prevent A.I.M. from misusing Wolverine's DNA. Deadpool was given the blood-covered knife by Captain America to do with it as he wanted. Deadpool had recently acquired an incubator that could create new bodies using a DNA sample. Deadpool deferred the decision to bring Wolverine back to life until he had more time to think on whether it would have been what Wolverine wanted.<ref>''Death of Wolverine: Deadpool & Captain America'' #1. Marvel Comics.</ref>
+
+X-23 begins wearing a [[X-23#All-New Wolverine|variation of Wolverine's costume]] and adopts his codename.<ref>''All-New Wolverine'' #1. Marvel Comics.</ref>
+
+An [[alternate timeline]] version of Wolverine known as [[Old Man Logan]] who arrives after the [[Secret Wars (2015 comic book)|Secret Wars]] from Earth-807128 is invited to join the [[Extraordinary X-Men]].<ref>''Extraordinary X-Men'' #2. Marvel Comics.</ref> Old Man Logan was shown the adamantium-frozen body of the present-era Wolverine to prove that this wasn't the elderly Logan's past.<ref>''Old Man Logan'' Vol. 2 #4. Marvel Comics.</ref>
+
+In the afterlife, Wolverine makes a brief reappearance when he, [[Jean Grey|Phoenix]] and [[Amanda Sefton]] encourage [[Nightcrawler (comics)|Nightcrawler]], who has just been fatally stabbed by the Crimson Pirates, to return to the land of the living.<ref>''Nightcrawler'' vol.4 #10 (2014). Marvel Comics.</ref>
+
+===Resurrection===
+In ''[[Marvel Legacy]]'' #1, the time-displaced Jean Grey discovers the adamantium shell in Wolverine's grave has been cracked open and is empty. Meanwhile, Wolverine acquires the Space [[Infinity Gem]] after killing the [[Giants (Marvel Comics)|Frost Giant]] that was targeting it on Loki's behalf.<ref>''Marvel Legacy'' #1</ref>
+
+Later, Logan tries unsuccessfully to rekindle his relationship with Captain America,<ref>''Captain America'' #697</ref> Jane Foster,<ref>''Mighty Thor'' #703</ref> Spider-Man,<ref>''Amazing Spider-Man'' #794</ref> the Avengers,<ref>''Avengers'' #680</ref> and other heroes.<ref>''Black Panther'' #170</ref><ref>''X-Men: Red'' #2</ref><ref>''Marvel 2-In-One'' #3</ref><ref>''Invincible Iron Man'' #598</ref> While he initially refused to join the X-Men, he secretly observed the preparations for the wedding of [[Kitty Pryde|Kitty]] and [[Colossus (comics)|Colossus]], wishing them good luck.<ref>''X-Men: Gold'' #30 (June 2018)</ref>
+
+===Infinity Countdown===
+While camping, Wolverine was attacked by some Ultron Virus-infected aliens and manage to defend himself thanks to the Space Stone he wields. Wolverine is soon afterwards confronted by Loki for a warning of the upcoming War and many villains who are trying to seek the stones will eventually pursue Logan and the rest of his allies who have the Infinity Gems soon.<ref>''Infinity Countdown Prime'', 2018</ref> He then gives the Space Stone to a clone of Natasha Romanoff.<ref>''Infinity Countdown'' #1, 2018</ref>
+
+===Hunt for Wolverine===
+In the months predating this event, someone looking like Wolverine popped up in several comics' last pages, hinting to a possible return of the clawed mutant.
+
+It has been revealed that before the time-displaced Jean Grey "discovers" the adamantium shell in Wolverine's grave has been cracked open and is empty, the X-Men set up Wolverine's 'public' grave in the cabin and were able to get his body out of the adamantium shell by having Kitty phase his corpse out of it, subsequently burying him in a secret location in Canada while leaving the shell as a site for others to attend in memorial of him. The shell is cracked when the Reavers attempt to steal Wolverine's corpse and shortly after that attack, Kitty visits the 'real' grave and realizes that it is empty. Kitty contacts Daredevil and Tony Stark for help finding who took Wolverine, but all are left concerned at the questions of who would even know the location of the true grave- which was known only by a few key X-Men- and whether Wolverine was stolen or 'woke up' on his own as the X-Men also began their investigation, leaving the time-displaced Jean Grey alone in the cabin.<ref>''Hunt for Wolverine'' #1</ref> At the same time, some of Wolverine's worst enemies hear what happened and join the hunt.{{issue|date=July 2018}}
+
+There are 4 teams who investigate independently Logan's body disappearing and reappearing:
+
+* In '''Weapon Lost''', vigilante Daredevil, Inhuman detective [[Nur (comics)|Frank McGee]], retired private eye Misty Knight, and multilanguage speaking mutant Cypher search for Logan by following his sightings. After fighting Albert in Canada, the group finds info involving Wolverine's involvement with a group called Soteira.<ref>''Hunt for Wolverine: Weapon Lost'' #1-4. Marvel Comics.</ref>
+* In '''Adamantium Agenda''', Tony Stark tries to buy a superhero genetic code (possibly Logan's) from an underground secret auction, helped by [[Spider-Man]], [[Luke Cage]], [[Jessica Jones]], and X-23's Wolverine appearance when they infiltrate an auction involving superhuman DNA that is crashed by Mister Sinister. While Soteira was revealed to have stolen some of Mister Sinister's work, Iron Man discovers that Sarah Kinney is X-23's biological mother and that one of the X-Men members is not a mutant meaning that there is a genetically-altered sleeper agent among them.<ref>''Hunt for Wolverine: Adamantium Agenda #1-4. Marvel Comics.</ref>
+* In '''Claws of a Killer''', feral mutant [[Sabretooth (comics)|Sabretooth]], cyborg martial artist and assassin [[Lady Deathstrike]], and Wolverine's long-lost son [[Daken]] team up to check news on their enemy's whispered resurface. When they arrive in Maybelle, Arizona to investigate the sightings, they fight an army of zombies and the Soteira Killteam Nine where its members include Lord Dark Wind and Graydon Creed's zombie forms.<ref>''Hunt for Wolverine: Claws of a Killer'' #1-4. Marvel Comics.</ref>
+* In '''Mystery in Madripoor''', female X-Men members Domino, Storm, Psylocke, Rogue and Jubilee fly to Madripoor, once a relatively peaceful hideout for their teammate, searching for clues and fighting [[Viper (Madame Hydra)|Viper]] and the [[Femme Fatales (comics)|Femme Fatales]] who are now joined by Wolverine's old enemy [[Sapphire Styx]]. While finding out that the Femme Fatales have also imprisoned a weakened Magneto, the women find that Viper has a benefactor in Soteira.<ref>''Hunt for Wolverine: Mystery in Madripoor'' #1-4.</ref>
+* In ''Dead Ends'', it is revealed that Wolverine is in the clutches of Soteira's leader Persephone as her holographic transmission to Kitty Pryde, Daredevil, and Iron Man advises them not to come looking for Wolverine. Persephone tells a restrained Wolverine that it will be over soon.<ref>''Hunt for Wolverine: Dead Ends'' #1. Marvel Comics.</ref>
+
+==Powers and abilities==
+Wolverine is a mutant with a number of both natural and artificial improvements to his physiology.
+
+===Healing and defensive powers===
+[[File:Wolverine-first-claws.jpg|upright|thumb|Depiction of Wolverine using his claws for the first time in ''Origin'' #2 (February 2014). Art by Andy Kubert and Richard Isanove.]]
+His primary mutant power is an accelerated healing process, typically referred to as his mutant [[healing factor]], that regenerates damaged or destroyed tissues of his body far beyond the capabilities of an ordinary human. In addition to accelerated healing of physical traumas, Wolverine's healing factor makes him extraordinarily resistant to diseases, drugs, and toxins. However, he can still suffer the immediate effects of such substances in massive quantities; he has been shown to become intoxicated after ingesting significant amounts of alcohol,<ref>''Wolverine'' #3 (Nov. 1982). Marvel Comics.</ref> and has been incapacitated on several occasions with large amounts of powerful drugs and poisons;<ref>''Marvel Comics Presents'' #87 (1991). Marvel Comics.</ref> [[S.H.I.E.L.D.]] once managed to keep Wolverine anesthetized by constantly pumping eighty milliliters of anesthetic a minute into his system.<ref name="ReferenceA"/>
+
+His healing factor is facilitated by artificial improvements he was subjected to under the Weapon X program (in later comics called the Weapon Plus program), in which his skeleton was reinforced with the virtually indestructible metal adamantium. While the adamantium in his body stops or reduces many injuries, his healing factor must also work constantly to prevent metal poisoning from killing him. As his healing powers are currently inactive, [[Beast (comics)|Beast]] has synthesized a drug to counteract the adamantium poisoning.<ref name="Wolverinevol"/>
+
+His healing factor also dramatically affects his aging process, allowing him to live far beyond the normal lifespan of a human. Despite being born in the late 19th century,<ref>''Origin''. Marvel Comics.</ref> he has the appearance, conditioning, health, and vitality of a man in his physical prime. While seemingly ageless, it is unknown exactly how greatly his healing factor extends his life expectancy.
+
+Although his body heals, the healing factor does not suppress the pain he endures while injured.<ref>''Wolverine'' vol. 3, #65 (Oct. 2007). Marvel Comics.</ref>  Wolverine also admits to feeling phantom pains for weeks or months after healing from his injuries.<ref>''X-Men Unlimited'' #12 (Dec. 2005). Marvel Comics.</ref> He does not enjoy being hurt and sometimes has to work himself up for situations where extreme pain is certain.<ref>''Wolverine'' (vol. 2) #105 (Sept. 1996). Marvel Comics.</ref><ref>''Wolverine'' (vol. 3) #64 (June 2008). Marvel Comics.</ref> Wolverine, on occasion, has deliberately injured himself or allowed himself to be injured for varying reasons, including freeing himself from capture,<ref>''Wolverine'' (vol. 2) #98 (February 1996). Marvel Comics.</ref> intimidation,<ref>''Wolverine'' (vol. 2) #184 (February 2003). Marvel Comics.</ref> strategy,<ref>''Wolverine'' (vol. 3) #63 (May 2008). Marvel Comics.</ref> or simply indulging his feral nature.<ref>''Wolverine'' (vol. 2) #90 (February 1995). Marvel Comics.</ref><ref>''Wolverine'' Annual '95 (June 1995). Marvel Comics.</ref><ref>''Wolverine'' (vol. 2) #186 (April 2003). Marvel Comics.</ref> Though he now has all of his memories, his healing abilities can provide increased recovery from psychological trauma by suppressing memories in which he experiences profound distress.<ref>''Wolverine'' (vol. 2) #175. Marvel Comics.</ref>
+
+Depictions of the speed and extent of injury to which Wolverine can heal vary due to a broad degree of artistic license employed by various comic book writers. Originally, this was portrayed as accelerated healing of minor wounds,<ref>''X-Men'' #107 (Oct. 1977). Marvel Comics.</ref> though [[Chris Claremont]], head writer of the X-Men comics from the mid 1970s to the early 1990s increased Wolverine's healing factor substantially, though not nearly as much as later writers would. During the 1980s, Wolverine's mutant healing factor is depicted as being able to heal massive levels of trauma, though his recovery time could extend to days, weeks or months before fully healing; often depending upon the severity of the injuries, their extent and the frequency with which they're inflicted.<ref name="Wolverine vol.1 #2 October 1982">''Wolverine'' #2 (Oct. 1982). Marvel Comics.</ref><ref>''Uncanny X-Men''  #251–273 (Nov. 1989 – Jan. 1991). Marvel Comics.</ref><ref>''Marvel Comics Presents'' #86–90 (1991). Marvel Comics.</ref> During the 1990s through the modern era, other writers have increased Wolverine's healing factor to the point that it could fully regenerate nearly any damaged or destroyed bodily tissues within seconds.<ref>''Wolverine'' vol. 2, #92 (Aug. 1995). Marvel Comics.</ref><ref>''Wolverine'' vol. 2, #115 (Aug. 1997). Marvel Comics.</ref><ref>''X-Men'' vol. 2, #150 (Feb. 2004). Marvel Comics.</ref> Among the more extreme depictions of Wolverine's healing factor include fully healing after being caught near the center of an [[atomic explosion]]<ref>''Logan'' #2 (June 2008). Marvel Comics.</ref> and the total regeneration of his soft body tissue, within a matter of minutes, after having it incinerated from his skeleton.<ref>''Wolverine'' vol. 3, #43 (Aug. 2006). Marvel Comics.</ref> An explanation is given in a recent mini-series starring Wolverine for the increase of his healing powers. In the series, Wolverine is referred to as an "adaptive self-healer" after undergoing numerous traumatic injuries to test the efficiency of his healing factor. Wolverine has endured so much trauma, and so frequently, that his healing factor has adapted, becoming faster and more efficient to cope with increasing levels of trauma.<ref>''Wolverine: The Best There Is'' #4 (May 2011). Marvel Comics.</ref> The [[Xavier Protocols]], a series of profiles created by Xavier that lists the strengths and weaknesses of the X-Men, say that Wolverine's healing factor is increased to "incredible levels" and theorizes that the only way to stop him is to [[decapitation|decapitate]] him and remove his head from the vicinity of his body.<ref>''Excalibur'' #100. Marvel Comics.</ref>
+
+It is possible to suppress the efficiency of his healing powers. For example, if an object composed of [[carbonadium]] is inserted and remains lodged within his body, his healing powers are slowed dramatically.<ref>''Wolverine: Origins'' #7. Marvel Comics.</ref> The [[Muramasa]] blade, a [[katana]] of mystic origins that can inflict wounds that nullify superhuman healing factors, can also suppress Wolverine's powers.<ref>''Wolverine: Origins'' #39 (Oct. 2009). Marvel Comics.</ref> It has also been noted that Wolverine needs protein for his healing factor to generate tissue, meaning that if he was seriously injured and malnourished, his body might not be able to repair itself.<ref>''Wolverine'' #66 (Feb. 1992). Marvel Comics.</ref> His healing factor has also been turned off using nanites.<ref>{{Cite book|title=Marvel Encyclopedia: Updated and Expanded|last=|first=|publisher=|year=|isbn=|location=|pages=}}</ref>
+
+It has been suggested that Wolverine can be killed by [[drown]]ing.<ref>''Wolverine'' vol. 2, #19 (Dec. 1989). Marvel Comics.</ref> He has said that he is not particularly fond of being in water, due partially to the weight of his adamantium-laced skeleton, and that he can die if held underwater long enough — his healing factor would only prolong the agony.<ref>''Wolverine: Weapon X'' #5 (Nov. 2009). Marvel Comics.</ref> The two-part story arc "Drowning Logan" finds Wolverine trapped underwater for an extensive period of time.<ref>''Wolverine'' (vol. 5) #5 (Jun. 2013). Marvel Comics.</ref> The second part of the story arc hints that this experience weakens his healing factor and future health.<ref>''Wolverine'' #6 & 8 (2013). Marvel Comics.</ref> Following "Drowning Logan", [[Beast (comics)|Beast]] reveals that an "intelligent virus" originating from the [[Microverse]] has shut off his healing factor, though not before it purged his body of the virus, leaving him as susceptible to injury, disease, and aging as any ordinary human.<ref name="Wolverinevol">''Wolverine'' (vol. 5) #7 (July 2013). Marvel Comics.</ref>
+
+''Wolverine'' vol. 3, #57 reveals that when Wolverine is injured so seriously that his body actually dies before his healing factor can repair the damage, he returns to life by fighting with Azrael, the Angel of Death, while trapped in Purgatory, because Wolverine defeated Azrael in real-world combat during World War I.<ref>''Wolverine'' (vol. 3) #57. Marvel Comics.</ref> However, after Wolverine's resurrection and brainwashing by the Hand, he made a new deal with Azrael that repaired the damage to his soul, negated their previous arrangement, and weakened his healing factor slightly — and the next time Wolverine sustains death-inducing injuries, he will remain dead.<ref>''Wolverine'' (vol. 3) #61. Marvel Comics.</ref>
+
+Due to a combination of his healing factor and high-level [[psionic]] shields implanted by Professor Xavier, Wolverine's mind is highly resistant to [[Telepathy|telepathic]] assault and probing.<ref>''Wolverine'' vol. 3, #46 (Nov. 2006)</ref> Wolverine's mind also possesses what he refers to as "mental scar tissue" created by the traumatic events of his life. It acts as a type of natural defense, even against a psychic as powerful as [[Emma Frost]].<ref>''X-Men: Original Sin'' (Dec.  2008). Marvel Comics.</ref>
+
+===Other abilities===
+Wolverine's mutation also consists of animal-like adaptations of his body, including pronounced, and sharp fang-like canines and three retractable claws housed within each forearm. While originally depicted as bionic implants created by the Weapon X program,<ref>''Wolverine'' #2. Marvel Comics.</ref> the claws are later revealed to be a natural part of his body.<ref>''Wolverine'' (vol. 2) #75. Marvel Comics.</ref> The claws are not made of [[keratin]], as claws tend to be in the animal kingdom, but extremely dense bone. Wolverine's hands do not have openings for the claws to move through: they cut through his flesh every time he extrudes them, with occasional references implying that he feels a brief moment of slight pain in his hands when he unsheathes them.<ref>''Wolverine'' vol. 2, #77. Marvel Comics.</ref> During a talk to Jubilee, Wolverine reveals that there are channels inside his forearms through which the claws move when he extrudes them, and that he unsheathes the claws a few times a day to keep the channels open, similar to pierced ears.<ref>''Wolverine'', #75. Marvel Comics</ref>
+
+[[File:Wolverine Weapon X Vol 1 1.jpg|thumb|upright|left|Wolverine's claws in ''Wolverine: Weapon X'' #1 (June 2009). Art by Ron Garney.]]
+Wolverine's senses of sight, smell, and hearing are all superhumanly acute. He can see with perfect clarity at greater distances than an ordinary human, even in near-total darkness. His hearing is enhanced in a similar manner, allowing him to both hear sounds ordinary humans cannot and also hear to greater distances. Wolverine is able to use his sense of smell to track targets by scent, even if the scent has been eroded somewhat over time by natural factors. This sense also allows him to identify [[shapeshifting]] mutants despite other forms they may take.<ref name="Wolverine 1992">''Wolverine'' vol. 2, #51 (Feb. 1992). Marvel Comics.</ref> He is also able to use his senses of smell and hearing, through concentration, as a type of natural [[lie detector]], such as detecting a faint change in a person's heartbeat and scent due to perspiration when a lie is told.<ref>Claremont, Chris (w), [[Davis, Alan]] [[Farmer, Mark]] (i). "Impediments", ''The Uncanny X-Men'' #451 (December 2004). Marvel Comics.</ref><ref>''Wolverine: Origins'' #9 (Feb. 2007). Marvel Comics.</ref>
+
+On more than one occasion, Wolverine's entire skeleton, including his claws, has been molecularly infused with adamantium. Due to their coating, his claws can cut almost any known solid material, including most metals, wood, and some varieties of stone. The only known exceptions are adamantium itself and [[Captain America]]'s [[Captain America's shield|shield]], which is made out of a proto-adamantium-[[vibranium]] [[alloy]]. Vibranium alone is not comparable in terms of durability with adamantium, and has been broken by [[Colossus (comics)|Colossus]]. Wolverine's ability to slice completely through a substance depends upon both the amount of force he can exert and the thickness of the substance. His claws can also be used to block attacks or projectiles, as well as dig into surfaces allowing Wolverine to climb structures.<ref>''Wolverine'' (vol. 2) #91, #101</ref> The adamantium also adds weight to his blows, increasing the effectiveness of his offensive capabilities.<ref name="Wolverine vol.1 #2 October 1982"/> His adamantium skeleton makes him highly susceptible to magnetic-based attacks.<ref>''X-Men'' vol. 2, #25 (Oct. 1993). Marvel Comics.</ref> According to [[Mister Fantastic|Reed Richards]], Wolverine would be unable to move without his enhanced strength due to the additional weight of the adamantium bonded to his skeleton.<ref>''Death of Wolverine'' vol.1 #1 (Nov. 2014). Marvel Comics.</ref>
+
+Wolverine's healing factor also affects a number of his physical attributes by increasing them to superhuman levels. His stamina is sufficiently heightened to the point he can exert himself for numerous hours, even after exposure to powerful tranquilizers.<ref>''X-Men'' (vol. 2) #5. Marvel Comics.</ref> Wolverine's agility and reflexes are also enhanced to levels that are beyond the physical limits of the finest human athlete.<ref>''Wolverine: Origins'' #5. Marvel Comics.</ref><ref name="OHOTMU Wolverine">''Official Handbook of the Marvel Universe: Wolverine 2004''</ref> Due to his healing factor's constant regenerative qualities, he can push his muscles beyond the limits of the human body without injury.<ref name="Wolverine vol.2 #1">''Wolverine'' vol. 2, #1 (Nov. 1988. Marvel Comics.</ref> This, coupled by the constant demand placed on his muscles by over one hundred pounds of adamantium,<ref>''Wolverine'' vol. 2, #57. Marvel Comics.</ref> grants him some degree of superhuman strength. Since the presence of the adamantium negates the natural structural limits of his bones, he can lift or move weight that would otherwise damage a human skeleton.<ref name="OHOTMU Wolverine"/> He has been depicted breaking steel chains,<ref>''X-Men'' #111 (June 1978). Marvel Comics.</ref><ref>''Wolverine: The Amazing Immortal Man & Other Bloody Tales'' (July 2008). Marvel Comics.</ref><ref>''Wolverine: Origins'' #32 (March 2009). Marvel Comics.</ref><ref>''Wolverine'' (vol. 3) #51. Marvel Comics.</ref> lifting several men above his head with one arm and throwing them through a wall,<ref name="Wolverine vol.2 #1"/> lifting [[Ursa Major (comics)|Ursa Major]] (in grizzly bear form) over his head before tossing him across a room,<ref>''Wolverine: First Class'' #8 (Dec, 2008). Marvel Comics.</ref> and hauling a [[piano|concert grand piano]], and the platform it rests on, via a harness, while climbing a sheer cliff.<ref>''Wolverine: Weapon X'' #16 (Aug. 2010). Marvel Comics.</ref> Colossus and other allies use Wolverine's endurance and strength when throwing him at high speed in the Fastball Special.
+
+In the upcoming ''Return of Wolverine'' limited-series, Wolverine will gain the ability to heat up his adamantium claws to where they can reach high-level temperatures.<ref>[https://www.newsarama.com/40218-the-return-of-wolverine-1-brings-logan-back-with-new-powers.html? THE RETURN OF WOLVERINE #1 Brings LOGAN Back - With New Powers] -Newsarama</ref>
+
+===Skills and personality===
+{{quote|1=The essence of [Logan's] character [is] a "failed samurai." To Samurai, duty is all, selfless service the path to their ultimate ambition, death with grace.<ref name="Introduction">{{cite book |last=Claremont |first=Chris |authorlink=Chris Claremont |year=1987 |title=[[Wolverine (comic book)#Volume 1|Wolverine TPB]]}}</ref>}}
+
+During his time in Japan and other countries, Wolverine became proficient in many forms of [[martial arts]], with experience in many different fighting styles. He is proficient with most weaponry, including firearms, though he is partial to bladed weapons. He has demonstrated sufficient skills to defeat expert martial artist [[Shang-Chi]]<ref>''X-Men'' (vol. 2) #62 (March 1997). Marvel Comics.</ref> and Captain America<ref>''Wolverine: Origins'' #4–5. Marvel Comics.</ref> in single combat. He also has a wide knowledge of the body and [[pressure point]]s.<ref>''X-Men'' (vol. 2) #108 (January 2001), ''Wolverine'' vol. 3, #20 (Dec. 2004)</ref> Like many of the X-Men, he is trained to pilot the group's [[SR-71 Blackbird]] supersonic plane.<ref>[[David, Peter]] (w), [[McFarlane, Todd]] (a). "Vicious Circle", ''[[The Incredible Hulk (comic book)|The Incredible Hulk]]'' #340 (February 1988). Marvel Comics.</ref> He is highly skilled in the field of [[espionage]] and covert operations.{{Citation needed|date=October 2009}}
+
+Wolverine will sometimes lapse into a "[[berserker]] rage" while in close combat. In this state he lashes out with the intensity and aggression of an enraged animal and is even more resistant to psionic attack.<ref name="Wolverinevol_a">''Wolverine'' vol. 2, #168 (Nov. 2001). Marvel Comics.</ref> Though he loathes it, he acknowledges that it has saved his life many times, it being most notably useful when he faced the telepathic '[[Mister X (Marvel Comics)|Mister X]]', as X's ability to read his mind and predict his next move in a fight was useless as not even Wolverine knows what he will do next in his berserk state.<ref name="Wolverinevol_a"/> Despite his apparent ease at taking lives, he mournfully regrets and does not enjoy killing or giving in to his berserker rages. Logan adheres to a firm [[Bushido|code]] of personal [[honor]] and [[morality]].<ref>''Wolverine'' (vol. 2) #1 (Nov. 1988), Marvel Comics. Quote: "I'm an X-Man. [...] With them, killing is a last resort. With me, it's second nature. I take the world as it is, and give better than I get. Come at me with a sword. I'll meet you with a sword. You want mercy. Show a little first. [...] Some of those folks died fighting... some praying... some accepted their fate... some cursed it... some begged for their lives... most were terrified. Details don't matter. What's important is that they died. And those scales have to be balanced. In kind."</ref>
+
+In contrast to his brutish nature, Wolverine is extremely knowledgeable. Due to his longer lifespan, he has traveled around the world and amassed [[Polyglotism|extensive knowledge of foreign languages]] and cultures. He is fluent in [[English language|English]], [[Japanese language|Japanese]], [[Russian language|Russian]], [[Chinese language|Chinese]], [[Cheyenne language|Cheyenne]], [[Spanish language|Spanish]], [[Arab language|Arabic]], and [[Lakota language|Lakota]]; he also has some knowledge of [[French language|French]], [[Tagalog language|Filipino]], [[Thai language|Thai]], [[Vietnamese language|Vietnamese]], [[Italian language|Italian]], [[Korean language|Korean]], [[Hindi]], [[Telugu language|Telugu]], [[Persian language|Persian]],{{citation needed|date=February 2017}} [[German language|German]],<ref>''Wolverine'' (vol. 2). #37 (March 1991). Marvel Comics.</ref> and [[Portuguese language|Portuguese]].<ref>''Wolverine: Saudade'' (Oct. 2006). Marvel Comics.</ref><ref>''Wolverine: Origins'' #32. Marvel Comics.</ref> When [[Forge (comics)|Forge]] monitors Wolverine's vital signs during a [[Danger Room]] training session, he calls Logan's physical and mental state "equivalent of an [[Olympic Games|Olympic]]-level gymnast performing a gold medal routine while simultaneously beating four [[chess]] computers in his head."<ref name="Wolverine 1992"/> Much to Professor Xavier's disapproval, Wolverine is also a heavy drinker and smoker; his healing powers negate the long-term effects of alcohol and tobacco and allow him to indulge in prolonged binges.
+
+Wolverine is frequently depicted as a gruff [[loner]], often taking leave from the X-Men to deal with personal issues or problems. He is often irreverent and rebellious towards authority figures, though he is a reliable ally and capable leader. He has been a mentor and father figure to several younger women, especially [[Jubilee (comics)|Jubilee]], [[Kitty Pryde]] and [[X-23]], and has had failed romantic relationships with numerous women (most notably [[Mariko Yashida]]<ref>''Wolverine''. #1–4 (Sept.-Dec. 1982). Marvel Comics.</ref>), as well as a mutual,<ref>''Classic X-Men'' #1, p. 31 (1986). Marvel Comics. Marvel Comics.</ref> but unfulfilled attraction to Jean Grey, leading to arguments with her boyfriend (and later husband), [[Cyclops (Marvel Comics)|Scott Summers]]. He also married [[Viper (Madame Hydra)|Viper]] as part of a debt,<ref>''Wolverine'' #126 (July 1998). Marvel Comics.</ref> then later divorced her.<ref>''Wolverine'' #169 (Dec. 2001). Marvel Comics.</ref> It has also been implied that he and [[Squirrel Girl]] had a relationship at some point in the past.<ref>''New Avengers'' #7. Marvel Comics.</ref> Wolverine has had an on-again, off-again romantic relationship with longtime teammate and friend, [[Storm (Marvel Comics)|Storm]].<ref>''Wolverine and the X-Men'' #24 (March 2013). Marvel Comics.</ref><ref>''Wolverine'' #7 (May 2014). Marvel Comics.</ref>
+
+==Other versions==
+{{Main|Alternative versions of Wolverine}}
+[[File:Wolverine AKA James "Logan" Howlett.png|upright|thumb|[[Hugh Jackman]] has portrayed Wolverine in nine installments of the X-Men film series.]]
+As one of Marvel's flagship characters, Wolverine has seen many adaptations and re-imaginings. For example, an issue of ''[[Exiles (Marvel Comics)|Exiles]]'' featured a planet of Wolverines. In the ''[[Marvel Mangaverse]]'', Wolverine is even the founder of the X-Men. In ''[[Marvel Zombies]]'', Wolverine appears zombified alongside Marvel's other major players. The [[Ultimate Marvel]] line of comics sought to ingrain Wolverine into its ''[[Ultimate X-Men]]'' title from the onset. The "[[Old Man Logan]]" storyline is set in an alternate timeline 50 years into the future where the world's superhuman heroes are dead; Wolverine has aged considerably and has become a [[pacifist]].
+
+==In other media==
+{{Main|Wolverine in other media}}
+Wolverine is one of the few X-Men characters appearing in every media adaptation of the ''X-Men'' franchise, including film, television, and computer and video games. Australian actor [[Hugh Jackman]] has played Wolverine in nine ''X-Men'' films.
+
+==Reception==
+Wolverine topped ''[[Wizard (magazine)|Wizard]]'' magazine's 200 Greatest Comic Book Characters of All Time list.<ref>[http://www.wizarduniverse.com/05230810thgreatestcharacters3.html "200 Greatest Comic Book Characters of All Time"]. ''[[Wizard (magazine)|Wizard]]''  {{webarchive|url=https://web.archive.org/web/20080527233109/http://www.wizarduniverse.com/05230810thgreatestcharacters3.html |date=2008-05-27 }}</ref> [[IGN]] ranked Wolverine 4th in the Top 100 Comic Book Heroes.<ref>[http://www.ign.com/lists/comic-book-heroes/4 "IGN's Top 100 Comic Book Heroes: #4: Wolverine"]. [[IGN]]. Retrieved February 1, 2017.</ref> ''[[Empire (magazine)|Empire]]'' magazine named him the fourth-greatest comic book character.<ref>[http://www.empireonline.com/movies/features/50greatestcomiccharacters/ "The 50 greatest comic-book characters"]. ''[[Empire (magazine)|Empire]]''. September 12, 2016.</ref>
+
+==Collected editions==
+
+===Marvel Essentials===
+{| class="wikitable"
+|-
+| ''Essential Wolverine, Vol. 1'' (b&w)
+| ''Wolverine'' vol. 2, #1–23
+| February 2009
+| {{ISBNT|978-0785135661}}
+|-
+| ''Essential Wolverine, Vol. 2'' (b&w)
+| ''Wolverine'' vol. 2, #24–47
+| March 2002
+| {{ISBNT|978-0785105503}}
+|-
+| ''Essential Wolverine, Vol. 3'' (b&w)
+| ''Wolverine'' vol. 2, #48–69
+| March 2002
+| {{ISBNT|978-0785105954}}
+|-
+| ''Essential Wolverine, Vol. 4'' (b&w)
+| ''Wolverine'' vol. 2, #70–90
+| May 2006
+| {{ISBNT|978-0785120599}}
+|-
+| ''Essential Wolverine, Vol. 5'' (b&w)
+| ''Wolverine'' vol. 2, #91–110, ''Annual '96''; ''Uncanny X-Men'' #332
+| December 2008
+| {{ISBNT|978-0785130772}}
+|-
+| ''Essential Wolverine, Vol. 6'' (b&w)
+| ''Wolverine'' vol. 2, #111–128, −1, ''1997 Annual''
+| November 2012
+| {{ISBNT|978-0785163527}}
+|-
+| ''Essential Wolverine, Vol. 7'' (b&w)
+| ''Wolverine'' Vol. 2 #129–148, ''Hulk'' Vol. 1 #8 
+| May 2013
+| {{ISBNT|978-0785184089}} 
+|}
+
+===Main series===
+{| class="wikitable"
+|-
+| ''Wolverine''
+| ''Wolverine'' #1–4; ''Uncanny X-Men'' #172–173
+| March 2009<br>January 2007<br>June 18, 2013
+| style="white-space:nowrap" | SC: {{ISBNT|978-0785137245}}<br>HC: {{ISBNT|978-0785123293}}
+|-
+| ''The Best of Wolverine, Vol. 1''
+| ''Wolverine'' #1–4; ''Marvel Comics Presents'' #72–84; ''The Incredible Hulk'' #181; ''Uncanny X-Men'' #205; ''Captain America Annual'' #8
+| October 2004
+| {{ISBNT|978-0785113706}}
+|-
+| ''Wolverine Omnibus, Vol. 1''
+| ''Wolverine'' #1–4; ''Wolverine'' vol. 2, #1–10; ''Marvel Comics Presents'' #1–10, 72–84; ''The Incredible Hulk'' #180–182, 340; ''[[Marvel Treasury Edition]]'' #26; ''Best of Marvel Comics'' (HC); ''Kitty Pryde and Wolverine'' #1–6; ''Spider-Man vs. Wolverine'' #1; ''[[Marvel Age]] Annual'' #4; ''[[Punisher War Journal]]'' #6–7; ''Uncanny X-Men'' #172–173
+| April 2009
+| {{ISBNT|978-0785134770}}
+|-
+| ''Wolverine Classic, Vol. 1''
+| ''Wolverine'' vol. 2, #1–5
+| April 2005
+| {{ISBNT|978-0785117971}}
+|-
+| ''Wolverine Classic, Vol. 2''
+| ''Wolverine'' vol. 2, #6–10
+| September 2005
+| {{ISBNT|978-0785118770}}
+|-
+| ''Wolverine Classic, Vol. 3''
+| ''Wolverine'' vol. 2, #11–16
+| May 2006
+| {{ISBNT|978-0785120537}}
+|-
+| ''Wolverine Classic, Vol. 4''
+| ''Wolverine'' vol. 2, #17–23
+| September 2006
+| {{ISBNT|978-0785120544}}
+|-
+| ''Wolverine Classic, Vol. 5''
+| ''Wolverine'' vol. 2, #24–30
+| September 2007
+| {{ISBNT|978-0785127390}}
+|-
+| ''Wolverine by Larry Hama & Marc Silvestri – Volume 1''
+| ''Wolverine'' vol. 2, #31–37; ''Wolverine: The Jungle Adventure;'' ''Wolverine: Bloodlust''
+| July 9, 2013 
+| {{ISBNT|978-0785184515}}
+|-
+| ''Wolverine by Larry Hama & Marc Silvestri – Volume 2''
+| ''Wolverine'' vol. 2, #38–46; ''Wolverine: Rhane of Terra''
+| February 4, 2014 
+| {{ISBNT|978-0785188711}}
+|-
+| ''Wolverine: Weapon X Unbound''
+| ''Wolverine'' vol. 2, #47–57''
+| January 24, 2017
+| {{ISBNT|978-1302903886}}
+|-
+| ''Wolverine Legends, Vol. 6: [[Marc Silvestri]]''
+| ''Wolverine'' vol. 2, #31–34, 41–42, 48–50
+| May 2004
+| {{ISBNT|978-0785109525}}
+|-
+| ''Wolverine Epic Collection: The Dying Game''
+| ''Wolverine'' vol. 2, #87–100, Annual '95; Wolverine: Knight of Terra 
+| December 2015
+| SC: {{ISBNT|978-0785192619}}
+|-
+| ''Wolverine: Not Dead Yet''
+| ''Wolverine'' vol. 2, #119–122
+| December 1998<br>May 2009
+| SC: {{ISBNT|978-0785107040}}<br>HC: {{ISBNT|978-0785137665}}
+|-
+| ''Wolverine Epic Collection: Shadows of Apocalypse''
+| ''Wolverine'' vol. 2, #133–149, Hulk (1999) #8, Wolverine/Cable (one-shot)
+| February 2017
+| SC: {{ISBNT|978-1302903855}}
+|-
+| ''X-Men vs. Apocalypse, Vol. 1: The Twelve''
+| ''Wolverine'' vol. 2, #146–147; ''Cable'' #73–76; ''Uncanny X-Men'' #376–377; ''X-Men'' #96–97
+| March 2008
+| {{ISBNT|978-0785122630}}
+|-
+| ''X-Men vs. Apocalypse; Vol. 2: Ages of Apocalypse''
+| ''Wolverine'' vol. 2, #148; ''Cable'' #77; ''Uncanny X-Men'' #378, ''Annual '99''; ''X-51'' #8; ''X-Men'' #98; ''X-Men Unlimited'' #26; ''X-Men: The Search for Cyclops'' #1–4
+| style="white-space:nowrap" | September 2008
+| {{ISBNT|978-0785122647}}
+|-
+| ''Wolverine: Blood Debt''
+| ''Wolverine'' vol. 2, #150–153
+| July 2001
+| {{ISBNT|978-0785107859}}
+|-
+| ''Wolverine: The Best There Is''
+| ''Wolverine'' vol. 2, #159–161, 167–169
+| September 2002
+| {{ISBNT|978-0785110071}}
+|-
+| ''Wolverine/Deadpool: Weapon X''
+| ''Wolverine'' vol. 2, #162–166; ''[[Deadpool]]'' #57–60
+| August 2002
+| {{ISBNT|978-0785109181}}
+|-
+| ''Wolverine Legends, Vol. 3: Law of the Jungle''
+| ''Wolverine'' vol. 2, #181–186
+| March 2003
+| {{ISBNT|978-0785111351}}
+|-
+| ''Wolverine, Vol. 1: The Brotherhood''
+| ''Wolverine'' vol. 3, #1–6
+| February 2004
+| {{ISBNT|978-0785111368}}
+|-
+| ''Wolverine, Vol. 2: Coyote Crossing''
+| ''Wolverine'' vol. 3, #7–11
+| May 2004
+| {{ISBNT|978-0785111375}}
+|-
+| ''Wolverine, Vol. 3: Return of the Native''
+| ''Wolverine'' vol. 3, #12–19
+| October 2004
+| {{ISBNT|978-0785113973}}
+|-
+| ''Wolverine: Enemy of the State, Vol. 1''
+| ''Wolverine'' vol. 3, #20–25
+| October 2006<br>May 2005
+| SC: {{ISBNT|978-0785114925}}<br>HC: {{ISBNT|978-0785118152}}
+|-
+| ''Wolverine: Enemy of the State, Vol. 2''
+| ''Wolverine'' vol. 3, #26–32
+| June 2006<br>December 2005
+| SC: {{ISBNT|978-0785116271}}<br>HC: {{ISBNT|978-0785119265}}
+|-
+| ''Wolverine: Enemy of the State Ultimate Collection''
+| ''Wolverine'' vol. 3, #20–32
+| June 2008<br>October 2006
+| SC: {{ISBNT|978-0785133018}}<br>HC: {{ISBNT|978-0785122067}}
+|-
+| ''House of M: World of M, Featuring Wolverine''
+| ''Wolverine'' vol. 3, #33–35; ''[[Black Panther (comics)|Black Panther]]'' vol. 4, #7; ''Captain America'' vol. 5, #10; ''[[The Pulse (comics)|The Pulse]]'' #10
+| March 2006
+| {{ISBNT|978-0785119227}}
+|-
+| ''Wolverine: Origins and Endings''
+| ''Wolverine'' vol. 3, #36–40
+| December 2006<br>May 2006
+| SC: {{ISBNT|978-0785119791}}<br>HC: {{ISBNT|978-0785119777}}
+|-
+| ''Wolverine: Blood and Sorrow''
+| ''Wolverine'' vol. 3, #41, 49; ''Giant-Size Wolverine'' #1; ''[[X-Men Unlimited]]'' #12
+| July 2007
+| {{ISBNT|978-0785126072}}
+|-
+| ''Wolverine: Civil War''
+| ''Wolverine'' vol. 3, #42–48
+| May 2007
+| {{ISBNT|978-0785119807}}
+|-
+| ''Wolverine: Evolution''
+| ''Wolverine'' vol. 3, #50–55
+| March 2008<br>November 2007
+| SC: {{ISBNT|978-0785122562}}<br>HC: {{ISBNT|978-0785122555}}
+|-
+| ''Wolverine: The Death of Wolverine''
+| ''Wolverine'' vol. 3, #56–61
+| July 2008<br>April 2008
+| SC: {{ISBNT|978-0785126126}}<br>HC: {{ISBNT|978-0785126119}}
+|-
+| ''Wolverine: Get Mystique''
+| ''Wolverine'' vol. 3, #62–65
+| August 2008
+| {{ISBNT|978-0785129639}}
+|-
+| ''Wolverine: Old Man Logan''
+| ''Wolverine'' vol. 3, #66–72; ''Wolverine: Old Man Logan Giant-Size''
+| September 2010<br>October 2009
+| SC: {{ISBNT|978-0785131724}}<br>HC: {{ISBNT|978-0785131595}}
+|-
+| ''Dark Wolverine, Vol. 1: The Prince''
+| ''Wolverine'' vol. 3, #73–74 (back stories); ''[[Dark Wolverine]]'' #75–77
+| March 2010<br>November 2009
+| SC: {{ISBNT|978-0785138662}}<br>HC: {{ISBNT|978-0785139003}}
+|-
+| ''Dark Wolverine, Vol. 2: My Hero''
+| ''Dark Wolverine'' vol. 3, #78–81
+| March 2010
+| SC: {{ISBNT|978-0785138679}}<br>HC: {{ISBNT|978-0785139775}}
+|-
+| ''Wolverine Goes to Hell''
+| ''Wolverine'' vol. 4, #1–5
+| January 2011<br>February 2011
+| SC: {{ISBNT|978-0785147855}}<br>HC: {{ISBNT|978-0785147848}}
+|-
+| ''Wolverine Vs. The X-Men''
+| ''Wolverine'' vol. 4, #6–9 & 5.1
+| June 2011
+| SC: {{ISBNT|978-0785147879}}<br>HC: {{ISBNT|978-0785147862}}
+|-
+| ''Wolverine's Revenge''
+| ''Wolverine'' vol. 4, #10–16
+| November 2011
+| SC: {{ISBNT|978-0785152798}}<br>HC: {{ISBNT|978-0785152798}}
+|-
+| ''Wolverine: Goodbye, Chinatown''
+| ''Wolverine'' vol. 4, #17–20
+| April 2012
+| HC: {{ISBNT|978-0785161417}}
+|-
+| ''Wolverine: Back in Japan''
+| ''Wolverine'' #300–304
+| July 2012
+| HC: {{ISBNT|978-0785161431}}
+|-
+| ''Wolverine: Rot''
+| ''Wolverine'' #305–309
+| September 2012
+| HC: {{ISBNT|978-0785161455}}
+|-
+| ''Wolverine: Sabretooth Reborn''
+| ''Wolverine'' #310–313
+| February 2013
+| HC: {{ISBNT|978-0785163251}}
+|-
+| ''Wolverine: Covenant''
+| ''Wolverine'' #314–317
+| April 2013
+| TPB: {{ISBNT|978-0785164678}}
+|}
+
+===Marvel Comics Presents featuring Wolverine===
+{| class="wikitable"
+|-
+! Title !! Material collected !! Publication date !! ISBN
+|-
+| ''Marvel Comics Presents: Wolverine, Vol. 1''
+| ''Marvel Comics Presents'' #1–10
+| July 2005
+| {{ISBNT|978-0-7851-1826-8}}
+|-
+| ''Marvel Comics Presents: Wolverine, Vol. 2''
+| ''Marvel Comics Presents'' #39–50
+| January 2006
+| {{ISBNT|978-0-7851-1883-1}}
+|-
+| ''Marvel Comics Presents: Wolverine, Vol. 3''
+| ''Marvel Comics Presents'' #51–61
+| June 2006
+| {{ISBNT|978-0-7851-2065-0}}
+|-
+| ''Marvel Comics Presents: Wolverine, Vol. 4''
+| ''Marvel Comics Presents'' #62–71
+| December 2006
+| {{ISBNT|978-0-7851-2066-7}}
+|-
+| ''Wolverine and Ghost Rider in Acts of Vengeance''
+| ''Marvel Comics Presents'' #64-70
+| 1993
+| {{ISBNT|0-7851-0022-9}}
+|-
+| ''Wolverine: Weapon X''
+| ''Marvel Comics Presents'' #72–84
+| March 2009<br>March 2007
+| SC: {{ISBNT|978-0-7851-3726-9}}<br>HC: {{ISBNT|978-0785123279}}
+|-
+| ''Wolverine: Blood Hungry''
+| ''Marvel Comics Presents'' #85–92
+| December 1993
+| {{ISBNT|978-0-7851-0003-4}}
+|-
+| ''Wolverine: Prehistory''
+| ''Marvel Comics Presents'' #93–98; Wolverine (2003) #32; Logan: Path of the Warlord, Shadow Society; Wolverine: Agent of Atlas #1-3; First X-Men #1-5; Wolverine: Hunger; Wolverine (1988) -#1; Before The Fantastic Four: Ben Grimm & Logan #1-3; Wolverine/Cable; Wolverine: the Amazing Immortal Man & Other Bloody Tales, Wolverine (2010) #1000
+| February 2017
+| {{ISBNT|978-1-3029-0386-2}}
+|-
+| ''Wolverine: Typhoid's Kiss''
+| ''Marvel Comics Presents'' #109–116
+| May 1994
+| {{ISBNT|978-0-7851-0056-0}}
+|-
+| ''Wolverine Vs. the Marvel Universe''
+| ''Marvel Comics Presents'' #117–122; Captain America Annual #8; Daredevil (1964) #249; Spider-Man Vs. Wolverine, Incredible Hulk (1968) #340, Wolverine (1988) #134, Wolverine Vs. Thor #1-3, Marvel Universe Vs. Wolverine #1-4
+| March 2017
+| {{ISBNT|978-1-3029-0465-4}}
+|}
+
+===Wolverine: Origins===
+{| class="wikitable"
+|-
+! Title !! Material collected !! Publication date !! ISBN
+|-
+| ''Wolverine: Origins, Vol. 1: Born in Blood''
+| ''Wolverine: Origins'' #1–5
+| April 2007<br>November 2006
+| SC: {{ISBNT|978-0-7851-2287-6}}<br>HC: {{ISBNT|978-0785122852}}
+|-
+| ''Wolverine: Origins, Vol. 2: Savior''
+| ''Wolverine: Origins'' #6–10
+| October 2007<br>March 2007
+| SC: {{ISBNT|978-0-7851-2288-3}}<br>HC: {{ISBNT|978-0785122869}}
+|-
+| ''Wolverine: Origins, Vol. 3: Swift and Terrible''
+| ''Wolverine: Origins'' #11–15
+| November 2007<br>August 2007
+| SC: {{ISBNT|978-0-7851-2613-3}}<br>HC: {{ISBNT|978-0785126379}}
+|-
+| ''Wolverine: Origins, Vol. 4: Our War''
+| ''Wolverine: Origins'' #16–20, ''Annual'' #1
+| June 2008<br>February 2008
+| SC: {{ISBNT|978-0-7851-2614-0}}<br>HC: {{ISBNT|978-0785126386}}
+|-
+| ''Wolverine: Origins, Vol. 5: Deadpool''
+| ''Wolverine: Origins'' #21–27
+| December 2008<br>September 2008
+| SC: {{ISBNT|978-0-7851-2615-7}}<br>HC: {{ISBNT|978-0785126393}}
+|-
+| ''X-Men: Original Sin''
+| ''Wolverine: Origins'' #28–30; ''X-Men: Original Sin''; ''X-Men: Legacy'' #217–218
+| August 2009<br>February 2009
+| SC: {{ISBNT|978-0-7851-2956-1}}<br>HC: {{ISBNT|978-0785130383}}
+|-
+| ''Wolverine: Origins, Vol. 6: Dark Reign''
+| ''Wolverine: Origins'' #31–36
+| December 2009<br>September 2009
+| SC: {{ISBNT|978-0-7851-3538-8}}<br>HC: {{ISBNT|978-0785136286}}
+|-
+| ''Wolverine: Origins, Vol. 7: Romulus''
+| ''Wolverine: Origins'' #37–40
+| April 2010<br>December 2009
+| SC: {{ISBNT|978-0785135395}}<br>HC: {{ISBNT|978-0-7851-3629-3}}
+|-
+| ''Wolverine: Origins, Vol. 8: Seven the Hard Way''
+| ''Wolverine: Origins'' #41–45
+| September 2010<br>April 2010
+| SC: {{ISBNT|978-0-7851-4649-0}}<br>HC: {{ISBNT|978-0785146483}}
+|-
+| ''Wolverine: Origins, Vol. 9: The Reckoning''
+| ''Wolverine: Origins'' #46–50; ''Dark Wolverine'' #85–87
+| October 2010
+| HC: {{ISBNT|978-0785139782}}
+|}
+
+===Wolverine: First Class===
+{| class="wikitable"
+|-
+! Title !! Material collected !! Publication date !! ISBN
+|-
+| ''Wolverine: First Class – The Rookie''
+| ''Wolverine: First Class'' #1–4; ''The Incredible Hulk'' #181
+| October 2008
+| {{ISBNT|978-0-7851-3316-2}}
+|-
+| ''Wolverine: First Class – To Russia With Love''
+| ''Wolverine: First Class'' #5–8; "The Uncanny X-Men" #139–140
+| February 2009
+| {{ISBNT|978-0-7851-3317-9}}
+|-
+| ''Wolverine: First Class – Wolverine by Night''
+| ''Wolverine: First Class'' #9–12
+| April 2009
+| {{ISBNT|978-0-7851-3534-0}}
+|-
+| ''Wolverine: First Class – Ninjas, Gods and Divas''
+| ''Wolverine: First Class'' #13–16; ''X-Men and Power Pack'' #1
+| August 2009
+| {{ISBNT|978-0-7851-3535-7}}
+|-
+| ''Wolverine: First Class – Class Actions''
+| ''Wolverine: First Class'' #17–21
+| February 2010
+| {{ISBNT|978-0-7851-3678-1}}
+|}
+
+===Other===
+{| class="wikitable"
+|-
+! Title !! Material collected !! Publication date !! ISBN
+|-
+| ''Wolverine Legends, Vol. 2: Meltdown''
+| ''Havok and Wolverine: Meltdown'' #1–4
+| March 2003
+| {{ISBNT|978-0785110484}}
+|-
+| ''Wolverine: Soultaker''
+| ''Wolverine: Soultaker'' #1–5
+| August 2005
+| {{ISBNT|978-0785115052}}
+|-
+| ''Wolverine Legends, Volume 4: Xisle''
+| ''Wolverine: Xisle'' #1–5
+| July 2003
+| {{ISBNT|978-0785112211}}
+|-
+| ''Wolverine: Dangerous Games''
+| ''Wolverine: Deathsong''; ''Wolverine: Dangerous Games''; ''[[Wolverine: Firebreak]]''; ''Wolverine: Killing Made Simple''; 
+| December 2008
+| {{ISBNT|978-0785134718}}
+|-
+| ''Wolverine: Origin''
+| ''Origin'' #1–6
+| March 2006<br>October 2006
+| style="white-space:nowrap" | SC: {{ISBNT|978-0785137276}}<br>HC: {{ISBNT|978-0785123286}}
+|-
+| ''Wolverine: Origin 2''
+| ''Origin 2'' #1–5
+| August 2014
+| style="white-space:nowrap" | >HC: {{ISBNT|978-0785184812}}
+|-| ''Wolverine: The End''
+| ''Wolverine: The End'' #1–6
+| May 2007
+| {{ISBNT|978-0-7851-1349-2}}
+|-
+| ''Ultimate Wolverine vs. Hulk''
+| ''Ultimate Wolverine vs. Hulk'' #1–6
+| May 2010<br>October 2009
+| SC: {{ISBNT|978-0785141570}}<br>HC: {{ISBNT|978-0785140139}}
+|-
+| ''Wolverine: Weapon X, Vol. 1: The Adamantium Men''
+| ''Wolverine: Weapon X'' #1–5; ''Wolverine'' vol. 3, #73–74
+| April 2010<br>November 2009
+| SC: {{ISBNT|978-0785141112}}<br>HC: {{ISBNT|978-0785140177}}
+|-
+| ''Wolverine: Weapon X, Vol. 2: Insane in the Brain''
+| ''Wolverine: Weapon X'' #6–10
+| July 2010<br>March 2010
+| SC: {{ISBNT|978-0785141129}}<br>HC: {{ISBNT|978-0785140184}}
+|-
+| ''Wolverine: Weapon X, Vol. 3: Tomorrow Dies Today''
+| ''Wolverine: Weapon X'' #11–16; ''Dark Reign: The List – Wolverine''
+| October 2010<br>March 2011
+| SC: {{ISBNT|978-0785146513}}<br>HC: {{ISBNT|978-0785146506}}
+|-
+| ''X-Men: Wolverine/Gambit''
+| ''Wolverine/Gambit: Victims'' #1–4
+| June 2002<br>November 2009
+| SC: {{ISBNT|978-0785108962}}<br>HC: {{ISBNT|978-0785138020}}
+|-
+| ''Wolverine: Flies to a Spider''
+| ''Wolverine: Chop Shop''; ''Wolverine: Switchback''; ''Wolverine Holiday Special: Flies to a Spider''; ''Wolverine: Dead Man's Hand''
+| August 2009
+| {{ISBNT|978-0785135692}}
+|-
+| ''Wolverine Noir''
+| ''Wolverine Noir'' #1–4
+| May 2010<br>November 2009
+| SC: {{ISBNT|978-0785135470}}<br>HC: {{ISBNT|978-0785139454}}
+|-
+| ''Weapon X: Days of Future Now''
+| ''Weapon X: Days of Future Now'' #1–5
+| February 2006
+| {{ISBNT|978-0785117490}}
+|-
+| ''Wolverine/Black Cat: Claws''
+| ''Wolverine/Black Cat'' #1–3
+| February 2010<br>February 2007
+| SC: {{ISBNT|978-0785142850}}<br>HC: {{ISBNT|978-0785118503}}
+|-
+| ''Hulk/Wolverine: 6 Hours''
+| ''Hulk/Wolverine: 6 Hours'' #1–4; ''The Incredible Hulk'' #181
+| May 2003
+| {{ISBNT|978-0785111573}}
+|-
+| ''Marvel Platinum: The Definitive Wolverine''
+| ''Origin'' #2; ''Marvel Comics Presents'' #79; ''Incredible Hulk'' #181;
+''Uncanny X-Men'' #109; ''Wolverine'' #1–4; ''Spider-Man vs. Wolverine'' #1;
+''X-Men'' #25; ''Wolverine'' #75, #145
+| April 2009
+| {{ISBNT|978-1-84653-409-6}}
+|-
+| ''Wolverine: Logan''
+| ''Logan'' #1–3
+| style="white-space:nowrap" | April 2009<br>September 2008
+| SC: {{ISBNT|978-0785134145}}<br>HC: {{ISBNT|978-0785134251}}
+|}
+
+==References==
+{{reflist|30em}}
+
+==External links==
+{{commons category|Wolverine (comics)}}
+* {{Comicbookdb|type=character|id=2|title=Wolverine}}
+* {{Marvelwiki|Wolverine|Wolverine}}
+* {{Dmoz|Arts/Comics/Titles/X/X-Men/Characters/Wolverine|Wolverine}}
+* [http://uncannyxmen.net/characters/wolverine UncannyXmen.net Spotlight on Wolverine] at UncannyXMen.net
+
+{{Wolverine}}
+{{X-Men}}
+{{Navboxes
+|title=Related topics
+|list1=</span>
+{{Avengers}}
+{{Flight Program}}
+{{X-Force}}
+{{New Avengers}}
+{{Uncanny Avengers}}
+{{Fantastic Four}}
+{{Weapon Plus}}
+{{Magneto}}
+{{Deadpool}}
+{{Spider-Man characters}}
+{{The Hulk}}
+{{Captain America}}
+{{Nick Fury}}
+{{Kitty Pryde}}
+}}
+{{Portal bar|United States|1970s|Fictional characters|Comics}}
+
+{{DEFAULTSORT:Wolverine (character)}}
+[[Category:Wolverine (comics)| ]]
+[[Category:Canadian superheroes]]
+[[Category:Characters created by John Romita Sr.]]
+[[Category:Characters created by Len Wein]]
+[[Category:Characters created by Roy Thomas]]
+[[Category:Comics characters introduced in 1974]]
+[[Category:Fictional assassins]]
+[[Category:Fictional Canadian Army personnel]]
+[[Category:Fictional Canadian secret agents]]
+[[Category:Fictional Canadian people]]
+[[Category:Fictional characters from Alberta]]
+[[Category:Fictional characters with memory disorders]]
+[[Category:Fictional characters with slowed aging]]
+[[Category:Fictional characters with superhuman senses]]
+[[Category:Fictional filicides]]
+[[Category:Fictional judoka]]
+[[Category:Fictional jujutsuka]]
+[[Category:Fictional karateka]]
+[[Category:Fictional kenjutsuka]]
+[[Category:Fictional Korean War veterans]]
+[[Category:Fictional mercenaries]]
+[[Category:Fictional orphans]]
+[[Category:Fictional patricides]]
+[[Category:Fictional prisoners of war]]
+[[Category:Fictional samurai]]
+[[Category:Fictional schoolteachers]]
+[[Category:Fictional smokers]]
+[[Category:Fictional super soldiers]]
+[[Category:Fictional Vietnam War veterans]]
+[[Category:Fictional vigilantes]]
+[[Category:Fictional World War I veterans]]
+[[Category:Fictional World War II veterans]]
+[[Category:Male characters in comics]]
+[[Category:Male characters in film]]
+[[Category:Marvel Comics adapted into films]]
+[[Category:Marvel Comics characters with accelerated healing]]
+[[Category:Marvel Comics characters with superhuman strength]]
+[[Category:Marvel Comics martial artists]]
+[[Category:Marvel Comics mutants]]
+[[Category:Marvel Comics special forces personnel]]
+[[Category:Marvel vs. Capcom fighters]]
+[[Category:Revived fictional characters]]
+[[Category:S.H.I.E.L.D. agents]]
+[[Category:Superhero film characters]]

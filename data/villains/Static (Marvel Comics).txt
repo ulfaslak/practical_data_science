@@ -1,0 +1,12 @@
+#REDIRECT [[List of Marvel Comics characters: S#Static]]
+
+{{Rcat shell|
+{{R from fictional character|Marvel Comics}}
+{{R comics to list entry}}
+{{R printworthy}}
+}}
+
+[[Category:Characters created by Chris Claremont]]
+[[Category:Comics characters introduced in 2000]]
+[[Category:Marvel Comics mutants]]
+[[Category:Marvel Comics supervillains]]

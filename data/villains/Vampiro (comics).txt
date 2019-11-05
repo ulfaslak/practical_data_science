@@ -1,0 +1,10 @@
+#Redirect [[List of Eternals#Earth]]
+
+{{Rcat shell|
+{{R from fictional character|Marvel Comics}}
+{{R from merge}}
+}}
+
+[[Category:Marvel Comics Eternals]]
+[[Category:Marvel Comics supervillains]]
+[[Category:Comics characters introduced in 1979]]

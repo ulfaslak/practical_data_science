@@ -1,0 +1,61 @@
+{{For|the [[Spider-Man]] villain of the same name|Shocker (comics)}}
+{{Notability|date=August 2018}}
+{{In-universe|date=August 2018}}
+{{Infobox comics character| <!--Wikipedia:WikiProject Comics-->
+image=
+|caption=
+|character_name=Randall Darby
+|real_name=Randall Darby
+|species=[[Mutant (Marvel Comics)|Human Mutant]]
+|publisher=[[Marvel Comics]]
+|debut=''[[Captain America (comic book)|Captain America Annual]]'' #4 (1977)
+|creators=[[Jack Kirby]]
+|alliances=[[Brotherhood of Mutants]]<br/>[[Mutant Force]]<br/>[[Secret Empire (organization)|Secret Empire]]<br/>[[Resistants]]
+|aliases=Shocker, Paralyzer
+|powers= Bio-EM generation / manipulation
+}}
+
+'''Paralyzer''' ('''Randall Darby'''), also known as the second '''Shocker''', is a [[fictional character]], a [[Mutant (Marvel Comics)|mutant]] appearing in [[American comic book]]s published by [[Marvel Comics]].
+
+==Publication history==
+Shocker II's first appearance was in ''Captain America Annual'' #4 (1977) and he was created by [[Jack Kirby]].
+
+The character subsequently appears in ''Defenders'' vol. 1 #78-80 (December 1979-February 1980), 83 (May 1980), 87 (September 1980), 125-126 (November-December 1983), and 128-130 (February-April 1984). The character appears as '''Paralyzer''' in ''Captain America'' vol. 1 #343 (July 1988), 346 (October 1988), 368 (March 1990), 394 (November 1991), ''Midnight Sons Unlimited'' #3 (October 1993), and ''Captain America'' 426 (April 1994). The character returns to his Shocker identity, appearing in ''New Warriors'' vol. 2 #6 (March 2000), ''X-Men'' vol. 2 #132 (November 2002), ''Uncanny X-Men'' #442-443 (June 2004), ''Excalibur'' vol. 3 #2 (August 2004), and ''New Avengers'' #16-19 (April-July 2006).
+
+Shocker II appeared as part of the "Mutant Force" entry in the ''[[Official Handbook of the Marvel Universe|Official Handbook of the Marvel Universe Deluxe Edition]]'' #9.
+
+==Fictional character biography==
+Randall Darby was discovered and recruited by [[Magneto (comics)|Magneto]] to become a member of his Brotherhood of Evil Mutants, taking the code-name '''Shocker'''.<ref>''Captain America Annual'' #4</ref> After being abandoned by Magneto, Darby and his teammates become known as Mutant Force.<ref>''Defenders'' vol. 1 #78-80 (December 1979-February 1980)</ref> Under this name they work for the United States government,<ref>''Defenders'' vol. 1 #83 (May 1980)</ref> and, later, the [[Secret Empire (organization)|Secret Empire]].<ref>''Defenders'' vol. 1 #125</ref>
+
+Darby changes his code-name to '''Paralyzer''' when the Mutant Force become the Resistants. The Resistants' protest against the [[United States]]' [[Registration Acts (comics)#Mutant Registration Act|Mutant Registration Act]] was cut short by a clash with [[U.S. Agent (comics)|John Walker]], who was the current [[Captain America]].<ref>''Captain America'' #343</ref><ref>''Captain America'' #346</ref> Later, the Resistants revert to their Mutant Force identities and costumes.<ref>''Captain America'' #426</ref> Their next clash is with the [[New Warriors]].<ref>''New Warriors'' vol.2 #6</ref>
+
+Paralyzer later battles [[Spider-Man]], subduing him with a lucky blow. Spider-Man later teams up with several members of the [[Midnight Sons]] who were investigating the activities of a more demonic Spidey-duplicate. While pursuing this creature, the heroes discover and stop the Paralyzer's plan to recreate [[Zzzax]].<ref>''Midnight Sons Umlimited'' #3 (Oct. 1, 1993)</ref>
+
+After the [[Sentinel (comics)|Sentinels]] destroy [[Genosha]], Paralyzer, again called the Shocker, helps [[Toad (comics)|Toad]] and other mutants create a statue of Genosha's former ruler Magneto. [[Unus]] becomes the leader of the group.<ref>''X-Men'' vol.2 #132</ref><ref>''Uncanny X-Men'' #442-443</ref> 
+
+Shocker is seen during a meeting of Unus' people, after Unus himself was swallowed by [[Freakshow (comics)|Freakshow]], one of the other mutants on the island. Their group was not sure if they would take Unus back if, in fact, he had survived. He does return, prompting Shocker and the others into attacking him in order to prove he still had the skills.<ref>''Excalibur'' vol.3 #2</ref>
+
+Shocker loses his powers on [[Decimation (comics)|M-Day]] and the energies that he used to control were then drawn to [[Xorn|The Collective]].<ref>''New Avengers'' #16-19</ref>
+
+==Powers and abilities==
+Darby can generate powerful fields of bio-electromagnetic energy from his body. He also has cybernetic claws of unknown origin in lieu of his hands and feet, and can channel his electrical energy through them into shock bolts or high-voltage fields of electromagnetic energy.
+
+==Other versions==
+===Civil War: [[House of M]]===
+Randall Darby is among the mutants in Magneto's army. He is punished for wanting to kill an injured enemy.<ref>''Civil War: House of M'' #1 (2008)</ref> Later, Shocker is killed during the liberation of Genosha, an island that has mutant slaves.<ref>''Civil War: House of M'' #2 (2008)</ref>
+
+==References==
+{{reflist}}
+
+==External links==
+* {{Marvunapp|http://www.marvunapp.com/Appendix3/shockermutantforce.htm|Randall Darby}}
+{{DEFAULTSORT:Darby, Randall}}
+
+{{Jack Kirby}}
+
+[[Category:Comics characters introduced in 1977]]
+[[Category:Characters created by Jack Kirby]]
+[[Category:Fictional activists]]
+[[Category:Fictional mercenaries]]
+[[Category:Marvel Comics mutants]]
+[[Category:Marvel Comics supervillains]]

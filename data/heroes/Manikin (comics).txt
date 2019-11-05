@@ -1,0 +1,52 @@
+{{Notability|date=January 2019}}
+{{Infobox comics character| <!--Wikipedia:WikiProject Comics-->
+image=<!-- Deleted image removed: [[Image:ManikinAlpha.jpg|thumb]] 
+|caption=Manikin (center) and his three genetic relatives (clockwise from left) Proto, Highbrow and Ape-Man.  Artist unknown.-->
+|character_name=Manikin
+|real_name=Whitman Knapp
+|species=[[Mutant (Marvel Comics)|Human Mutant]]
+|publisher=[[Marvel Comics]]
+|debut=''[[Alpha Flight]]'' #44 (Mar 1987)
+|creators=[[Bill Mantlo]] and [[David Ross (artist)|Dave Ross]]
+|alliances=[[Alpha Flight]]<br/>[[Beta Flight]]
+|aliases=
+|powers=Ability to summon three genetic relatives from various points of human evolution
+}}
+
+'''Manikin''' ('''Whitman Knapp''') is a fictional [[Mutant (Marvel Comics)|mutant]] character appearing in [[American comic book]]s published by [[Marvel Comics]]. He is a [[super hero]] and former member of [[Alpha Flight]].
+
+==Publication history==
+Manikin first appeared in ''[[Alpha Flight (comic book)|Alpha Flight]]'' #44 (March 1987), and was created by [[Bill Mantlo]] and [[David Ross (artist)|Dave Ross]].
+
+==Fictional character biography==
+Whitman Knapp was a young intern at a Canadian Hospital, who was unaware he was a mutant. He worked with [[Scramble (comics)|Lionel Jeffries]], a brilliant healer who used his mutant power of organic manipulation to help others (albeit in unethical manners, by using dead patients tissues in his work) His power mirrored the power of his brother [[Madison Jeffries]] of Alpha Flight who could manipulate inorganic matter like metal and glass.{{issue|date=March 2013}}
+
+Lionel was, however, insane, and used his powers to absorb, and lobotomise, the brilliant [[Roger Boch]]s (who was the designer and pilot of the robotic [[Box (comics)|Box]] of Alpha Flight). Bochs' inventive mind, coupled with his Lionel's organic controlling powers allowed him to become a shapeshifting monster, Omega.<ref>"Alpha Flight" #48</ref>
+
+Whitman attempted to stop them, and had his entire physiology distorted by Lionel.<ref>"Alpha Flight" #48</ref>
+
+The resulting stress triggered Whitman's mutant powers, and he reversed his disfigurement and manifested his four selves for the first time. His past and future selves all looked to the "normal" version of Knapp for guidance and direction. Despite his neophyte heroic status he helped in the defeat of Lionel Jefferies.<ref>"Alpha Flight" #49</ref>
+
+Knapp assumed the name of Manikin (as a pun on "Man-i-kin", since he viewed his alternate selves as kin/family) served as a member of Alpha Flight for a time, later shifting down to the training team of [[Beta Flight]] to gain more experience.{{issue|date=March 2013}}
+
+Later, following an assault by the  supervillain [[Jackal (Marvel Comics)|Jackal]], Manikin lost the power to summon the other manifestations of himself, but could instead change himself into any one of them at a time.{{issue|date=March 2013}}
+
+It is not known if he still is a mutant following House of M.
+
+==Powers and abilities==
+Manikin is able to summon three of his genetic relatives from various points of human evolution: <br />
+'''Proto''': A semi-[[Sentience|sentient]] glob of [[Primeval (TV series)|primeval]] goo capable of [[corroding]] substances through secretion of [[acid]].<br />
+'''Ape-Man''': A pre-[[homo sapiens]] [[hominid]] with great strength, but incapable of intelligible speech.<br />
+'''Highbrow''': A future descendant of humanity possessed of great intellect and the power to [[Teleportation|teleport]].
+
+==References==
+{{reflist}}
+
+==External links==
+* [https://web.archive.org/web/20110716100949/http://www.alphaflight.net/alphanex/index.php?title=Manikin '''AlphaFlight.Net''' Alphanex Entry on - Manikin]
+
+{{DEFAULTSORT:Manikin (Comics)}}
+[[Category:Comics characters introduced in 1987]]
+[[Category:Fictional Canadian people]]
+[[Category:Marvel Comics mutants]]
+[[Category:Marvel Comics superheroes]]
