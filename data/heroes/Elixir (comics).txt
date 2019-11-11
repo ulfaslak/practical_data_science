@@ -2,13 +2,13 @@
 {{Infobox comics character| <!--Part of Wikipedia:WikiProject Comics-->
 |image= Elixirprofile.jpg
 |imagesize=200
-|caption=Elixir<br> Art by Paco Medina
+|caption=Elixir<br /> Art by Paco Medina
 |character_name=Elixir
 |real_name=Joshua "Josh" Foley
 |species=[[Mutant (Marvel Comics)|Human Mutant]]
 |publisher=[[Marvel Comics]]
 |debut=''New Mutants'' vol. 2 #5 (November 2003)
-|creators=[[Nunzio DeFilippis]]<br>[[Christina Weir]]<br>[[Keron Grant]]
+|creators=[[Nunzio DeFilippis]]<br />[[Christina Weir]]<br />[[Keron Grant]]
 |alliances=[[New Mutants#The New Mutants, vol. 2|New Mutants training squad]]<br/>[[New X-Men]]<br/>[[Reavers (comics)|Reavers]]<br/>[[X-Mansion|Xavier Institute]]<br/>[[X-Force]]<br/>[[List of X-Men members#X-Men-In-Training (2006–present)|X-Men-In-Training]]
 |aliases=
 |powers= Biological manipulation
@@ -58,17 +58,21 @@ Elixir later resurfaces, having joined a church group to help find himself, when
 
 Because of the nature of Josh's powers, he does not remain dead for long, regenerating in his grave before making his way back to Genosha. Emotionally and mentally unstable as a result of his experiences, he tests his expanding powers by torturing the Dark Riders, resurrecting them and killing them over and over again. Magneto and his team discover his survival and track him down, eventually taking him to one of the medical centers where mutants are being treated for M-Pox. Josh is able to completely heal the mutants there, but the rush of destroying the disease ravaging him leads him to nearly drain the life from the human medical personnel, and then the X-Men when they tried to stop him. They are able to reach and stop him. Josh is taken to Xorn's retreat, in hopes the mutant can help Josh come to terms with the tragedies, and gain control of his powers.<ref>''Uncanny X-Men Annual (Vol 4)'' #1</ref>
 
-Soon afterwards he is approached by [[Exodus (comics)|Exodus]] and together both travel to the Savage Land where Magneto has been fatally stabbed by Psylocke. Elixir heals Magneto anew but the master of magnetism declines their invitation to join them, and tells them he must remain "dead" for the sake of mutantkind. Elixir and Exodus then teleport to parts unknown.<ref>''Uncanny X-Men (Vol 4)'' #19</ref>
+Soon afterward he is approached by [[Exodus (comics)|Exodus]] and together both travel to the Savage Land where Magneto has been fatally stabbed by Psylocke. Elixir heals Magneto anew but the master of magnetism declines their invitation to join them, and tells them he must remain "dead" for the sake of mutantkind. Elixir and Exodus then teleport to parts unknown.<ref>''Uncanny X-Men (Vol 4)'' #19</ref>
 
 Elixir and Exodus were later approached by Magneto in order to help contain the Mothervine virus, an aggressive and wildly unstable biotech enhancement tailored to engineer mutant childbirths but that also triggered secondary and tertiary mutation within mutants as well as re-trigger primary mutations in depowered mutants who lost their powers on M-Day, which was released worldwide by Miss Sinister, [[Havok (comics)|Havok]], Emma Frost and [[Bastion (comics)|Bastion]]. As Exodus teleported the trio to each Mothervine impact zone, Magneto patrolled the sites for dangers as Elixir managed to cure most people affected by the Mothervine bombs, except for those that already carried a dormant X-Gene. When Elixir was taken to the masterminds' base, he neutralized all samples of the Mothervine serum and even purged it from Jimmy Hudson's system, putting an end to the Mothervine threat once and for all. He also healed Havok's scars sustained during the Planet X.<ref>''X-Men: Blue'' #28</ref>
 
+===The Five===
+When Professor X uses Krakoa as the home for the new mutant nation in the Pacific Ocean east of Papua New Guinea, Elixir is revealed to be part of a group known as "The Five" which is made of five specific individuals whose purpose has a significant ramifications going forward for the X-Men's survival in general. Besides Elixir, The Five is made up of Goldballs (Fabio Medina), Proteus, Tempus and Hope Summers, and they all have an important part to play in keeping mutants alive, as they are the ones responsible for the several resurrections that occurred off-panel. Through Goldballs' abilities to create golden orbs of matter which it is discovered aren't just orbs of biological matter, but eggs that he can create in limitless supply, allows Proteus, who can warp reality, to make those eggs viable. They next inject into those eggs, preserved DNA of a mutant, allowing Elixir to kickstart the process of cellular replication, paving the way for a mutant embryo to grow inside the egg.
+That process would take quite a bit of time of course, but Eva Bell is able to control time, so she speeds up the process. That's when Magneto explains that while each member of the group couldn't achieve these feats on their own, they have Hope's abilities to unify them and allow all parts to run at peak velocity and unison.
+
 ==Powers and abilities==
-Elixir is an [[Omega-level mutant]], capable of controlling the biological structure of any organic matter including his own body.<ref name="NM12"/> He must be in proximity to whomever he uses his power on. Besides healing, he is capable of boosting and restoring mutant abilities,<ref name="NM10"/> causing painful boils and welts to appear, manipulating the life-forces of others, creating tumors,<ref>{{Cite book|title=X-Force: Necrosha|last=|first=|publisher=|year=|isbn=|location=|pages=}}</ref>curing the Legacy Virus,<ref>''X-Force'' vol. 3 #10</ref> causing death, and cleansing the body of drugs.<ref>''X-Force'' vol. 3 #3</ref> and later after his powers were expanded radically he can even cure the M-Pox. 
+Elixir is an [[Omega-level mutant]], capable of controlling the biological structure of any organic matter including his own body.<ref name="NM12"/> He must be in proximity to whomever he uses his power on. Besides healing, he is capable of boosting and restoring mutant abilities,<ref name="NM10"/> causing painful boils and welts to appear, manipulating the life-forces of others, creating tumors,<ref>{{Cite book|title=X-Force: Necrosha|last=|first=|publisher=|year=|isbn=|location=|pages=}}</ref> curing the Legacy Virus,<ref>''X-Force'' vol. 3 #10</ref> causing death, and cleansing the body of drugs.<ref>''X-Force'' vol. 3 #3</ref> and later after his powers were expanded radically he can even cure the M-Pox. 
 The [[Stepford Cuckoos]] telepathically copied and transferred the [[Beast (comics)|Beast]]'s knowledge of anatomy, biology, and genetics into Josh's mind, allowing him the knowledge to heal virtually any malady.<ref>''New X-Men'' #38</ref>
 
 Because of his control over his own biology, Elixir has proven to be very difficult to treat medically.<ref>''New X-Men'' vol. 2 #28</ref> He usually passes out after pushing his powers too far and remains in a coma for some time. Elixir is also virtually immortal as although he can be killed, his powers grant him the ability to resurrect himself, as well as the ability to be reborn into a new body. He can even regenerate on a cellular level.
 
-Since his rebirth, Elixir can bring people back from dead as seen as when he was able to affect the 16 millions deceased mutants on Genosha at once, and although it quickly drained him out of energy and he passed out, [[M (Marvel Comics)|Monet]] and Magneto speculated, that Elixir was fully capable of resurrecting them all.
+Since his rebirth, Elixir can bring people back from dead as seen as when he was able to affect the 16 million deceased mutants on Genosha at once, and although it quickly drained him out of energy and he passed out, [[M (Marvel Comics)|Monet]] and Magneto speculated, that Elixir was fully capable of resurrecting them all.
 
 He is also able to detect abnormalities in living beings: he detected techo-organic cells in Angel's body, detected Emplate in Monet's body and even sensed the effect of magical inversion on Sabretooth. When Josh started to cure the M-Pox he felt that the disease was afraid of him.
 
@@ -91,7 +95,7 @@ In the ''[[House of M]]'' reality, Josh was an agent of [[S.H.I.E.L.D.]], servin
 * [http://www.comicvine.com/elixir/4005-4552/ Elixir] at Comic Vine
 {{New Mutants}}
 {{X-Men}}
-{{Portal bar|Fictional characters|Superhero fiction|New York|2000s}}
+{{Portal bar|Speculative fiction|New York (state)}}
 
 {{DEFAULTSORT:Elixir (Comics)}}
 [[Category:American superheroes]]

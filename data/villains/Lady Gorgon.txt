@@ -30,7 +30,7 @@
 | addcharcat#    = 
 |}}
 
-'''Lady Gorgon (Tanya Adrian)''' is a [[fictional character]], a [[supervillain]] appearing in [[American comic book]]s published by [[Marvel Comics]]. Created by [[Matt Fraction]], [[Rick Remender]], and [[Howard Chaykin]], the character made her first appearance in ''[[The Punisher War Journal|Punisher War Journal]]'' Vol. 2, #20 (August 2008). She is an enemy of the [[Punisher]].<ref>{{cite web|url = http://www.comicbookresources.com/?page=article&id=24736|title = Remender Hunts Monsters with ''Punisher''|last = Richards|first = Dave|publisher = Comic Book Resources|date = 8 February 2010|website = comicbookresources.com|accessdate = 22 September 2015}}</ref><ref>{{cite web|url = http://www.newsarama.com/4840-frankencastle-here-to-stay-w-may-s-frankencastle-17.html|title = Frankencastle Here to Stay w/ May's ''FrankenCastle'' #17|last = Ching|first = Albert|publisher = Newsarama|date = 4 March 2010|website = newsarama.com|accessdate = 22 September 2015}}</ref><ref>{{cite web|url=http://comicsalliance.com/the-end-of-franken-castle/ |title=The End of Franken-Castle: Why We'll Miss the Monster |last=Wolkin |first=David |publisher=Comics Alliance |date=30 September 2010 |website=comicsalliance.com |accessdate=22 September 2015 |deadurl=yes |archiveurl=https://web.archive.org/web/20150923061014/http://comicsalliance.com/the-end-of-franken-castle/ |archivedate=23 September 2015 |df= }}</ref>
+'''Lady Gorgon (Tanya Adrian)''' is a [[fictional character]], a [[supervillain]] appearing in [[American comic book]]s published by [[Marvel Comics]]. Created by [[Matt Fraction]], [[Rick Remender]], and [[Howard Chaykin]], the character made her first appearance in ''[[The Punisher War Journal|Punisher War Journal]]'' Vol. 2, #20 (August 2008). She is an enemy of the [[Punisher]].<ref>{{cite web|url = http://www.comicbookresources.com/?page=article&id=24736|title = Remender Hunts Monsters with ''Punisher''|last = Richards|first = Dave|publisher = Comic Book Resources|date = 8 February 2010|website = comicbookresources.com|accessdate = 22 September 2015}}</ref><ref>{{cite web|url = http://www.newsarama.com/4840-frankencastle-here-to-stay-w-may-s-frankencastle-17.html|title = Frankencastle Here to Stay w/ May's ''FrankenCastle'' #17|last = Ching|first = Albert|publisher = Newsarama|date = 4 March 2010|website = newsarama.com|accessdate = 22 September 2015}}</ref><ref>{{cite web|url=http://comicsalliance.com/the-end-of-franken-castle/ |title=The End of Franken-Castle: Why We'll Miss the Monster |last=Wolkin |first=David |publisher=Comics Alliance |date=30 September 2010 |website=comicsalliance.com |accessdate=22 September 2015 |url-status=dead |archiveurl=https://web.archive.org/web/20150923061014/http://comicsalliance.com/the-end-of-franken-castle/ |archivedate=23 September 2015 }}</ref>
 
 == Publication history ==
 
@@ -59,7 +59,7 @@ Gorgon is a [[Telepathy|telepath]] capable of controlling minds, reading thought
 
 {{Punisher}}
 
-[[Category:Fictional assassins]]
+[[Category:Fictional female assassins]]
 [[Category:Punisher characters]]
 [[Category:Female supervillains]]
 [[Category:Fictional female ninja]]
@@ -69,3 +69,4 @@ Gorgon is a [[Telepathy|telepath]] capable of controlling minds, reading thought
 [[Category:Characters created by Rick Remender]]
 [[Category:Characters created by Howard Chaykin]]
 [[Category:Comics characters introduced in 2008]]
+[[Category:Female characters in comics]]

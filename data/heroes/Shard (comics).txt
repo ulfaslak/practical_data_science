@@ -1,3 +1,4 @@
+{{Notability|date=February 2019}}
 {{Infobox comics character
 |image=x-factor147.jpg
 |image_size=250
@@ -13,7 +14,7 @@
 |powers=Energy blasts, intangibility (holographic Shard only)
 }}
 
-'''Shard Bishop''' is a [[Mutant (Marvel Comics)|mutant]] character appearing in [[American comic book]]s published by [[Marvel Comics]].
+'''Shard Bishop''' is a [[Mutant (Marvel Comics)|mutant]] fictional character appearing in [[American comic book]]s published by [[Marvel Comics]].
 
 ==Fictional character biography==
 Shard was a Lieutenant in [[Xavier's Security Enforcers]], (X.S.E.) with her older brother [[Bishop (comics)|Lucas Bishop]] in their native timeline in the 2080s.  She is the daughter of mutant [[Aboriginal Australians|Indigenous Australian]] refugees (their ancestor is the mutant [[Gateway (comics)|Gateway]]) who fled Australia for America the day before it was devastated in a nuclear attack.  Shard was born and raised in a mutant concentration camp, in which mutants were branded over their right eyes with the letter "M" for recognition.  In [[Uncanny X-Men]] Annual #17, Shard is stated as having the mutant ability of "transubbing ambient light into concussive force".{{issue|date=December 2012}}
@@ -54,5 +55,7 @@ Shard is able to absorb ambient light particles and convert/transsub it to allow
 [[Category:Female characters in comics]]
 [[Category:Fictional characters who can turn intangible]]
 [[Category:Fictional orphans]]
+[[Category:Marvel Comics female superheroes]]
 [[Category:Marvel Comics mutants]]
 [[Category:Marvel Comics superheroes]]
+[[Category:Fictional indigenous people of Australia]]

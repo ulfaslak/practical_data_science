@@ -1,15 +1,27 @@
 {{Notability|date=August 2018}}
-The '''Hulk Robot''' is a group of fictional [[robot]]s appearing in [[American comic book]]s published by [[Marvel Comics]]. These robots are modeled after the [[Hulk (comics)|Hulk]].
+The '''Hulk Robot''' is one of a group of fictional [[robot]]s appearing in [[American comic book]]s published by [[Marvel Comics]]. These robots are modeled after the [[Hulk]].
 
-The first Hulk Robot first appeared in ''[[The Incredible Hulk (comic book)|The Incredible Hulk]] #4.
+The first Hulk Robot first appeared in ''[[The Incredible Hulk (comic book)|The Incredible Hulk]]'' #4, created by [[Jack Kirby]] and [[Stan Lee]].
 
-The second Hulk Robot first appeared in ''[[Eternals (comics)|Eternals]]'' #14 and was created by [[Jack Kirby]].
+The second Hulk Robot first appeared in ''[[Eternals (comics)|Eternals]]'' #14, by Jack Kirby.
 
 ==Fictional character biography==
 ===Military's Hulk Robot===
+{{Infobox comics character <!--Wikipedia:WikiProject Comics-->
+|image=
+|caption=
+|publisher=[[Marvel Comics]] 
+|debut=''[[The Incredible Hulk (comic book)|The Incredible Hulk]]'' #4 (November 1962)
+|creators= [[Jack Kirby]], [[Stan Lee]]
+|character_name=Hulk Robot
+|real_name=
+|alliances=[[Thunderbolt Ross]]
+|aliases=
+|powers=
+}}
 The first Hulk Robot was a simulacrum created by the scientists at Gamma Base that was used to test the value of the Iceberg Rocket that General [[Thunderbolt Ross]] had his scientists create.<ref>''The Incredible Hulk'' #4. Marvel Comics.</ref>
 
-A later model of the Hulk Robot was operated by a remote that is worn by an individual at a safe distance. During the time he was cured of his gamma-radiation condition, [[Hulk (comics)|Bruce Banner]] donned the harness in order to fight [[Leader (comics)|Leader]] during his takeover of Gamma Base. Although the Hulk Robot fought Leader's Murder Module, it was destroyed in battle where the feedback nearly killed Bruce Banner.<ref>''Incredible Hulk'' #224. Marvel Comics.</ref>
+A later model of the Hulk Robot was operated by a remote that is worn by an individual at a safe distance. During the time he was cured of his gamma-radiation condition, [[Hulk|Bruce Banner]] donned the harness in order to fight [[Leader (comics)|Leader]] during his takeover of Gamma Base. Although the Hulk Robot fought Leader's Murder Module, it was destroyed in battle where the feedback nearly killed Bruce Banner.<ref>''Incredible Hulk'' #224. Marvel Comics.</ref>
 
 Another version of the military's Hulk Robot came into the possession of the magician Kropotkin the Great during one of his visits to Gamma Base. Even though he hasn't been to Gamma Base for a while, Kropotkin the Great still owns this Hulk Robot.<ref>''Giant-Size Incredible Hulk'' #1. Marvel Comics.</ref>
 
@@ -18,15 +30,15 @@ Another version of the military's Hulk Robot came into the possession of the mag
 |image=
 |caption=
 |publisher=[[Marvel Comics]] 
-|debut=''[[Eternals (comics)|Eternals]]'' #14
+|debut=''[[Eternals (comics)|Eternals]]'' #14 (August 1977)
 |creators= [[Jack Kirby]] (writer - artist)
-|character_name=Hulk Robot
-|real_name=Hulk Robot
+|character_name=Cosmic Hulk
+|real_name=
 |alliances=Assembly of Evil<br/>[[Intelligencia (comics)|Intelligencia]]
-|aliases=Cosmic Hulk
+|aliases=Hulk robot
 |powers=Superhuman strength, speed, stamina, and durability
 }}
-Rusty and Arthur are two Maryland Institute of Technology students who constructed the Hulk Robot to be the mascot for their school's all-star game, but Dr. Timothy Ryan considered it dangerous and wouldn't allow it. It was brought to life by cosmic energies released by the [[Eternals (comics)|Eternals]] from [[Olympia (comics)|Olympia]] when they emerged from the [[Uni-Mind]]. The energies granted the Hulk Robot sentience and increased its strength to rival the Hulk. It broke out of the lab and went on a rampage. When the National Guard couldn't stop the Hulk Robot, three Eternals members ([[Ikaris]], [[Makkari (comics)|Makkari]], and [[Sersi]]) were called in.<ref>''Eternals'' #14</ref> Both the Eternals and National Guard were losing until [[Zuras]] entered the fray.<ref>''Eternals'' #15. Marvel Comics.</ref> When it charged Zuras, cosmic energies leaked and it was rendered inert.<ref>''Eternals'' #16. Marvel Comics.</ref>
+Rusty and Arthur are two Maryland Institute of Technology students who constructed a Hulk robot to be the mascot for their school's all-star game, but Dr. Timothy Ryan considered it dangerous and wouldn't allow it. It was brought to life by cosmic energies released by the [[Eternals (comics)|Eternals]] from [[Olympia (comics)|Olympia]] when they emerged from the [[Uni-Mind]]. The energies granted the Hulk Robot sentience and increased its strength to rival the Hulk. It broke out of the lab and went on a rampage. When the National Guard couldn't stop the Hulk Robot, three Eternals members ([[Ikaris]], [[Makkari (comics)|Makkari]], and [[Sersi]]) were called in.<ref>''Eternals'' #14</ref> Both the Eternals and National Guard were losing until [[Zuras]] entered the fray.<ref>''Eternals'' #15. Marvel Comics.</ref> When it charged Zuras, cosmic energies leaked and it was rendered inert.<ref>''Eternals'' #16. Marvel Comics.</ref>
 
 Later on, [[Doctor Doom]] found the Hulk Robot and dismantled and rebuilt it to serve him.<ref name="Incredible Hulk #350">''Incredible Hulk'' #350. Marvel Comics.</ref> He sent it to fight the [[Thing (comics)|Thing]] who thought it was the real Hulk after taking out the Grey Hulk.<ref>''Fantastic Four'' #320. Marvel Comics.</ref> When Thing discovered it wasn't the real Hulk during battle, he tore it apart.<ref name="Incredible Hulk #350"/>
 

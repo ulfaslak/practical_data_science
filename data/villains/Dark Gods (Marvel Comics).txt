@@ -1,4 +1,3 @@
-{{notability|date=June 2018}}
 {{in-universe|date=June 2018}}
 {{Infobox comics organization
 <!--Wikipedia:WikiProject Comics-->
@@ -8,8 +7,11 @@
 |publisher=[[Marvel Comics]]
 |debut= ''Thor'' #5 (Nov. 1998) (as group)
 |creators=[[Dan Jurgens]]<br>[[John Romita Jr.]]
+|type= [[Gods (Marvel Comics)|Gods]]
+|organization= Criminals
+|owners= Majeston Zelia
 |base= Narcisson
-|members=Majeston Zelia (leader)<br>[[Perrikus]]<br>Tserron<br>Adva<br>D'Chel<br>Slototh<br>Tokkots
+|members=Perrikus<br>Tserron<br>Adva<br>D'Chel<br>Slototh<br>Tokkots
 |cat= teams
 |subcat=Marvel Comics
 |hero=
@@ -28,6 +30,13 @@ Revealed to be the evil opposites of the [[Norse mythology|Norse]] gods, the Dar
 
 [[Desak]] the God Slayer eventually finds and slaughters the surviving Dark Gods, and only Perrikus and Adva (god of Portals and Knowledge) escape.<ref>''Thor'' vol. 2, #42 - 43 (Dec. 2001 - Jan. 2002)</ref> The pair eventually battle Thor at the direction of [[Zarrko]] the Tomorrow Man, although both concede defeat when Thor severs Perrikus's right arm with the [[Bloodaxe (comics)|Bloodaxe]]. Perrikus and Adva retreat and have yet to reappear.<ref>''Thor'' vol. 2, #53 (Oct. 2002)</ref>
 
+== Other versions ==
+=== What If!? ===
+These Dark Gods were ancient extra-dimensional entities who bled through the dimensional barriers to the [[Microverse]] world of K'ai in times past. Their worship eventually died out, but they eventually plan to reclaim the K'ai and its people.<ref>''What If!?'' #23. Marvel Comics.</ref>
+
+=== Old Ones === 
+The multidimensional [[Old Ones]] or [[Many-Angled Ones]], which are also known as [[Elder Gods (Marvel Comics)|Elder Gods]], have been called as Dark Gods.<ref>''All-New Official Handbook of the Marvel Universe'' #8. Marvel Comics.</ref>
+
 ==References==
 {{reflist}}
 
@@ -40,6 +49,3 @@ Revealed to be the evil opposites of the [[Norse mythology|Norse]] gods, the Dar
 [[Category:Comics characters introduced in 1998]]
 [[Category:Marvel Comics supervillains]]
 [[Category:Marvel Comics deities]]
-
-
-{{Marvel-Comics-stub}}

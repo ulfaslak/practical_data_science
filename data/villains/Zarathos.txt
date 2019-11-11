@@ -1,6 +1,8 @@
+{{Multiple issues|
 {{more citations needed|date=December 2017}}
 {{In-universe|date=August 2018}}
 {{Notability|date=August 2018}}
+}}
 {{Infobox comics character| <!--Wikipedia:WikiProject Comics-->
 image=[[Image:52 1 b-1-.jpg|240px|Cover of Marvel Comics' ''Ghost Rider'' #77]]
 |caption        = Cover of Marvel Comics' ''Ghost Rider'' #77
@@ -10,6 +12,7 @@ image=[[Image:52 1 b-1-.jpg|240px|Cover of Marvel Comics' ''Ghost Rider'' #77]]
 |debut          = ''[[Marvel Spotlight]]'' #5 (August 1972)
 |creators       = [[Roy Thomas]], [[Gary Friedrich]], and [[Mike Ploog]]
 |species        = [[List of Marvel Comics demons|Demon]]
+|homeworld      = [[Earth]]
 |alliances      =
 |partners       = [[Mephisto (comics)|Mephisto]]<br/>[[Lilith (Marvel Comics)|Lilith]]
 |aliases        = [[Ghost Rider]]
@@ -30,7 +33,9 @@ Near the climax of the events of ''[[Secret Wars II]]'', the [[Beyonder]], anger
 
 Zarathos becomes a threat once again when the [[Midnight Sons]] are formed. He briefly joins forces with the demon mother [[Lilith (Marvel Comics)#Mother of All Demons|Lilith]] (not to be confused with [[Lilith (Marvel Comics)#Dracula's daughter|Dracula's daughter]], who has the same name),{{Issue|date=July 2009}} but soon leaves her after he realized she was just using him to bring her the Medallion of Power.{{Issue|date=July 2009}} Another reason he left her was because she duped him into joining her forces. (His memory was so bad at the time that Lilith actually convinced him that he was her son). After he left, he went to become the leader of the Fallen, the evil Blood (his acolytes) once again. Having lost his memory, Zarathos has not quite reached his full power until he meets the Fallen.{{Issue|date=July 2009}} After that he gains enough power to defeat Ghost Rider and absorb his essence. However, he suffers horrible agony since Ghost Rider was still residing within him. This gives the Midnight Sons a chance to defeat Zarathos. It is [[Blade (comics)|Blade]] who takes Foundry's sword, killing her with it so he can use her blood-stained sword to defeat Zarathos. Blade defeats Zarathos by turning him into stone;{{Issue|date=July 2009}} he remained that way until the ''Ghost Rider: Hammerlane'' mini-series where he began to reconstitute himself within Johnny Blaze, after which he and Johnny made peace with one another.{{Issue|date=January 2010}}  After the ''Fear Itself'' storyline, Blaze had Zarathos exorcised from him.{{issue|date=December 2011}}  The demon Zarathos was eventually then bonded to a female host in the present series.{{issue|date=December 2011}}  Eventually, Zarathos was ultimately bound once again to Johnny Blaze.{{issue|date=November 2016}}
 
-Before he was turned to stone, Zarathos had claimed that he had coupled with Lilith, impregnating her.{{Issue|date=July 2009}} Lilith plans to unleash her children, but this is yet to be seen.
+Before he was turned to stone, Zarathos had claimed that he had coupled with [[Lilith (comics)#Mother of All Demons|Lilith]], impregnating her.{{Issue|date=July 2009}} Lilith plans to unleash her children, but this is yet to be seen.{{issue|date=July 2019}}
+
+During the ''[[Damnation (comics)|Damnation]]'' event, Zarathos along with Johnny Blaze went to Hell and took Mephisto's Throne, becoming the new King of Hell.{{issue|date=July 2019}}
 
 ==Powers and abilities==
 Zarathos is an extremely powerful demon almost on the same level as [[Mephisto (comics)|Mephisto]]. Zarathos possesses various inherent supernatural powers, and as such he is able to control the elements on the Earth themselves, and can trap his opponents by taking the ground itself and wrapping it around his foe. Zarathos, if he wishes, can form the rocks into spikes, impaling his foes.

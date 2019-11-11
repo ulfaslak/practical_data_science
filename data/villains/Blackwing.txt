@@ -1,7 +1,7 @@
 {{About|the Marvel Comics supervillians|other uses|Black Wings (disambiguation){{!}}Black Wings}}
 '''Blackwing''' is the name of two fictional supervillains and one hero appearing in [[American comic book]]s published by [[Marvel Comics]].
 
-A 1940s version of Joseph Manfredi appears in ''[[Agent Carter (TV series)|Agent Carter]]'' portrayed by [[Ken Marino]].
+A 1940s version of Joseph Manfredi appeared in the second season of ''[[Agent Carter (TV series)|Agent Carter]]'' set in the [[Marvel Cinematic Universe]] portrayed by [[Ken Marino]].
 
 ==Publication history==
 {{expand-section|date=February 2016}}
@@ -9,8 +9,8 @@ The first Blackwing appeared in ''[[Daredevil (Marvel Comics series)|Daredevil]]
 
 ==Fictional character biography==
 ===Joseph Manfredi===
-{{Infobox comics character| <!--Wikipedia:WikiProject Comics--> 
-image=
+{{Infobox comics character <!--Wikipedia:WikiProject Comics--> 
+|image=
 |caption=
 |character_name=Blackwing
 |real_name=Joseph Manfredi
@@ -33,7 +33,7 @@ The second [[Crimson Cowl (Justine Hammer)|Crimson Cowl]] recruited Blackwing to
 After that last defeat, Joseph abandoned the Blackwing identity and became a crime lord creating his own private villains in [[Heavy Mettle]]. He ordered Firestrike to bring him the battle suit of [[New Warriors]] member [[Turbo (comics)|Turbo]] in hopes of proving himself to his father and the other crime bosses of New York.<ref name="NW3-4">''New Warriors'' vol. 2 #3-4. Marvel Comics.</ref> The New Warriors defeated Joseph's group and Firestrike is currently in the Witness Protection Program in exchange for his testimony against Joseph Manfredi.<ref>''New Warriors'' vol. 2 #6-7. Marvel Comics.</ref>
 {{clear}}
 
-===Heavy Mettle===
+===Heavy Mettle version===
 A member of Joseph Manfredi's group [[Heavy Mettle]] also goes by the name of Blackwing.<ref name="NW3-4"/>
 
 During the ''[[Dark Reign (comics)|Dark Reign]]'' storyline, this Blackwing is shown as a new member of [[Green Goblin|Norman Osborn]]'s Shadow Initiative.<ref>''Avengers: The Initiative'' #26. Marvel Comics.</ref> She was later injured during the attempt to retake 42, the Negative Zone Prison, from [[Blastaar]]'s forces. She was killed in action.<ref>''Avengers: The Initiative'' #27. Marvel Comics.</ref>

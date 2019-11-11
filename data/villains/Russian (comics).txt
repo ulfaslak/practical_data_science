@@ -29,7 +29,7 @@
 | sortkey        = Russian (comics)
 | addcharcat#    = 
 |}}
-'''The Russian''' is a [[fictional character]], a [[supervillain]] appearing in [[American comic book]]s published by [[Marvel Comics]]. He is an enemy of the [[Punisher]].<ref>{{cite web|url=http://comicsalliance.com/punisher-villains/ |title=The Punisher's Strangest Villains Ever |last=Sims |first=Chris |publisher=Comics Alliance |date=8 March 2010 |website=comicsallianc.com |accessdate=21 May 2015 |deadurl=yes |archiveurl=https://web.archive.org/web/20150522063444/http://comicsalliance.com/punisher-villains/ |archivedate=22 May 2015 |df= }}</ref>
+'''The Russian''' is a [[fictional character]], a [[supervillain]] appearing in [[American comic book]]s published by [[Marvel Comics]]. He is an enemy of the [[Punisher]].<ref>{{cite web|url=http://comicsalliance.com/punisher-villains/ |title=The Punisher's Strangest Villains Ever |last=Sims |first=Chris |publisher=Comics Alliance |date=8 March 2010 |website=comicsallianc.com |accessdate=21 May 2015 |url-status=dead |archiveurl=https://web.archive.org/web/20150522063444/http://comicsalliance.com/punisher-villains/ |archivedate=22 May 2015 }}</ref>
 
 ==Publication history==
 Created by [[Garth Ennis]] and [[Steve Dillon]], the character made his first appearance in ''[[The Punisher (2000 series)|The Punisher]]'' Vol. 5, #8 (November 2000).
@@ -83,7 +83,6 @@ The Russian appears in ''[[The Punisher (2005 video game)|The Punisher]]'' video
 {{Punisher}}
 
 [[Category:Fictional cyborgs]]
-[[Category:LGBT supervillains]]
 [[Category:Fictional assassins]]
 [[Category:Fictional cannibals]]
 [[Category:Punisher characters]]
@@ -93,5 +92,7 @@ The Russian appears in ''[[The Punisher (2005 video game)|The Punisher]]'' video
 [[Category:LGBT characters in comics]]
 [[Category:Characters created by Garth Ennis]]
 [[Category:Comics characters introduced in 2000]]
-[[Category:Fictional transgender and transsexual characters]]
+[[Category:Fictional transgender and transsexual women]]
+[[Category:Marvel Comics male supervillains]]
+[[Category:Marvel Comics LGBT supervillains]]
 [[Category:Marvel Comics characters with superhuman strength]]

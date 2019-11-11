@@ -1,11 +1,12 @@
 {{For|Nomura|Nomura (disambiguation)}}
-{{refimprove|date=January 2018}}
+{{more citations needed|date=January 2018}}
 {{Superherobox| <!--Part of Wikipedia:WikiProject Comics-->
-image=[[File:AOATLAS004 COV.jpg|250px]]
-|caption=Cover art for ''Agents of Atlas'' #4.<br>Art by [[Tomm Coker]] 
+image=[[File:Marvel_Mystery_Comics_82.jpg|250px]]
+|caption=Cover art for ''[[Marvel Mystery Comics]]'' #82.
+ 
 |character_name=Namora
 |publisher=[[Marvel Comics]]
-|debut=''[[Marvel Mystery Comics]]'' #82 (May 1947)<br>First modern appearance: ''Sub-Mariner #33'' (January 1971)
+|debut=''[[Marvel Mystery Comics]]'' #82 (May 1947)
 |creators=[[Ken Bald]] (penciller)<br>[[Bob Powell]] (cover artist)
 |real_name=Aquaria Nautica Neptunia; later changed to Namora
 |species=[[Homo mermanus|Atlantean]]/[[Mutant (Marvel Comics)|Human Mutant]] Hybrid
@@ -19,9 +20,9 @@ image=[[File:AOATLAS004 COV.jpg|250px]]
 '''Namora''' ({{IPAc-en|n|eɪ|ˈ|m|ɔr|ə}}) is a [[fictional character]] appearing in [[American comic book]]s published by [[Marvel Comics]]. She is from [[Atlantis (Marvel Comics)|Atlantis]] and is the daughter of an Atlantean father and a human mother. She is the cousin of [[Namor|Namor the Sub-Mariner]].
 
 ==Publication history==
-Namora first appeared in the 12-pages comics "The Coming of Namora!" published in ''[[Marvel Mystery Comics]]'' #82 (May 1947), pencilled by [[Ken Bald]] and inked by [[Syd Shores]]<ref>[https://www.comics.org/issue/5896/ GCD]</ref>. Namora also featured on the cover drawn by [[Bob Powell]]. She had her own comic book series, ''Namora'', which ran from August–December 1948. While this title lasted only three issues, she regularly appeared with Namor in ''[[Marvel Mystery Comics]]'' and also in ''[[Namor|Sub-Mariner]]'' until that series ended in the mid-1950s.
+Namora first appeared in the 12-pages comics "The Coming of Namora!" published in ''[[Marvel Mystery Comics]]'' #82 (May 1947), pencilled by [[Ken Bald]] and inked by [[Syd Shores]].<ref>[https://www.comics.org/issue/5896/ GCD]</ref> Namora also featured on the cover drawn by [[Bob Powell]]. She had her own comic book series, ''Namora'', which ran from August–December 1948. While this title lasted only three issues, she regularly appeared with Namor in ''[[Marvel Mystery Comics]]'' and also in ''[[Namor|Sub-Mariner]]'' until that series ended in 1955.
 
-The character was not seen again for some time until her first modern appearance in the [[Silver Age of Comic Books|Silver Age]] ''Sub-Mariner'' series, in ''Sub-Mariner'' #33 (January 1971). She made an appearance in ''Marvel Feature'' #2 (March 1972), but was killed off in flashback in ''Sub-Mariner'' #50 (June 1972).
+The character was not seen again for 16 years until she made a brief flashback appearance in the [[Silver Age of Comic Books|Silver Age]] ''Sub-Mariner'' series, in ''Sub-Mariner'' #33 (January 1971). Her death was established in ''Sub-Mariner'' #50 (June 1972), where her frozen body appears.
 
 Over the next 30 years, Namora appeared in a number of flashbacks and alternate reality stories, including ''What If?'' #9 (June 1978), ''The New Warriors Annual'' #1 (1991), ''What If?'' #47 (March 1993), ''The New Warriors'' #44 (February 1994), ''Avengers: Forever'' #4-5 (March–April 1999), and ''Marvel: The Lost Generation'' #3-2 (December 2000-January 2001).
 
@@ -38,6 +39,7 @@ Namora was ultimately shown to have been fatally poisoned by the Lemurian terror
 
 ===Agents of Atlas===
 {{main|Agents of Atlas}}
+[[File:AOATLAS004 COV.jpg|thumb|left|Cover art for ''Agents of Atlas'' #4.<br>Art by [[Tomm Coker]].]]
 Some time later, the [[Agents of Atlas]] find a damaged coffin, which appears to contain the mummified corpse of Namora.<ref>''[[Agents of Atlas]]'' #3</ref> Upon closer inspection, [[Marvel Boy (Robert Grayson)|Marvel Boy]] disables a holographic display creating the corpse image, revealing a well-preserved, alive Namora inside the coffin. When awakened, Namora joins in a fight against underwater sea creatures and displays just how powerful she is, shown to be equal in power to her cousin [[Namor]].<ref>''[[Agents of Atlas]]'' #4</ref>
  
 [[Jimmy Woo]] offers her a spot, and Namora joins the [[Agents of Atlas]], where she leads [[Venus (Marvel Comics)|Venus]] to recover all memories of her past life as a [[Siren (mythology)|siren]], almost driving her mad in the process. It is then revealed by the enhanced bliss inducing powers of the naiad that Namora's innermost desire is to sleep with her cousin Namor.<ref>''[[Agents of Atlas]]'' #5</ref>
@@ -48,7 +50,7 @@ At some point in her career as an Agent of Atlas she takes an extended leave, or
 
 ===World War Hulk===
 {{main|World War Hulk}}
-Angry over the death and subsequent vilification of her daughter at the onset of the superhero [[Civil War (comics)|Civil War]] over government registration, Namora joins [[Amadeus Cho]], [[Hercules (Marvel Comics)|Hercules]] and [[Angel (Thomas Halloway)|Angel]] to aid the [[Hulk (comics)|Hulk]].<ref name="ih107"/> During the crisis, Hercules ends up holding the entire locality of Manhattan on his shoulders.{{issue|date=December 2010}}
+Angry over the death and subsequent vilification of her daughter at the onset of the superhero [[Civil War (comics)|Civil War]] over government registration, Namora joins [[Amadeus Cho]], [[Hercules (Marvel Comics)|Hercules]] and [[Angel (Thomas Halloway)|Angel]] to aid the [[Hulk]].<ref name="ih107"/> During the crisis, Hercules ends up holding the entire locality of Manhattan on his shoulders.{{issue|date=December 2010}}
 
 ===Amazon-Atlantean War===
 In the course of her membership in Cho's group, she shares a genuinely romantic kiss with Hercules.<ref>''Incredible Hulk #111</ref>  Some time later, following the [[Secret Invasion]], Hercules and Amadeus Cho vacation near an Atlantean city, and she and Hercules have a romantic fling.  This is interrupted by an [[Amazons|Amazon]] attack.<ref>''Incredible Hercules'' #121</ref> Namora aids Hercules in repelling the Amazons and rescuing Cho from their amorous and ultimately fatal attentions.<ref>''Incredible Hercules'' #124</ref>
@@ -69,7 +71,7 @@ The second Namora  first appeared in ''[[Exiles (comic book)|Exiles]]'' #46, and
 In Namora's universe, she became an early ally of [[Charles Xavier]] who convinced her to not attack the surface world. She would later do so, after anti-mutant hysteria led to the imprisonment of most mutants. Namora killed all of her Earth's superheroes, having the most difficulty with the [[Fantastic Four]], and she conquered the world and ruled it for decades, before becoming 'unhinged' in time and forced to join the Exiles, much to her chagrin.  Having a haughty attitude, she acted like she was superior to the other members. Still, she has shown that she did care for them, as evidenced when she thought that [[Hyperion (comics)|Hyperion]] had killed [[Kevin Sydney|Morph]]. She lashed out at Hyperion, breaking his neck. However, it was for naught. Hyperion recovered quickly and blasted Namora with his "flash vision", killing her. The Exiles later sent her body back to her home reality ([[Marvel Multiverse#Known alternate universes|Earth-2189]]) for burial.
 
 ===Marvel Mangaverse===
-Namora appeared in the [[Marvel Mangaverse]] series. In the  story, "Eternity Twilight", Namora rescued Bruce Banner, who suffered temporary amnesia and have fallen for him not before Banner regained his memory involving the [[Hulk (comics)|Hulk]] (a [[Godzilla]]-like beast accidentally summoned by Banner). Afterwards, Banner and Namora went back to the surface and helps Earth's heroes battle not only the Hulk, but also the demon-god [[Dormammu]].
+Namora appeared in the [[Marvel Mangaverse]] series. In the  story, "Eternity Twilight", Namora rescued Bruce Banner, who suffered temporary amnesia and have fallen for him not before Banner regained his memory involving the [[Hulk]] (a [[Godzilla]]-like beast accidentally summoned by Banner). Afterwards, Banner and Namora went back to the surface and helps Earth's heroes battle not only the Hulk, but also the demon-god [[Dormammu]].
 
 ===Marvel Her-oes===
 A teenaged version of Namora appears as one of the main protagonists in the all-ages ''Marvel Her-oes'' series, which was written by [[Grace Randolph]]. She attends the same high school as [[She-Hulk|Jennifer Walters]] and [[Wasp (comics)|Janet van Dyne]], and hides her Atlantean heritage by claiming to be an exchange student from Greece under the name of "Namora Aquarius".<ref>{{cite web|author= |url=http://marvel.com/news/comicstories.12082.marvel_hotline~colon~_grace_randolph |title=Marvel Hotline: Grace Randolph &#124; Marvel Heroes &#124; Comic News &#124; News |publisher=Marvel.com |date=2010-04-16 |accessdate=2010-12-26}}</ref>
@@ -98,6 +100,7 @@ During the ''[[Ultimatum (Ultimate Marvel)|Ultimatum]]'' storyline, Thing, Invis
 [[Category:Golden Age superheroes]]
 [[Category:Marvel Comics Atlanteans (Homo mermanus)]]
 [[Category:Marvel Comics characters with superhuman strength]]
+[[Category:Marvel Comics female superheroes]]
 [[Category:Marvel Comics limited series]]
 [[Category:Marvel Comics mutants]]
 [[Category:Marvel Comics superheroes]]

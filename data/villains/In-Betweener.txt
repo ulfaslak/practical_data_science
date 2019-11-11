@@ -1,7 +1,7 @@
 {{About|the Marvel Comics character|other uses|Inbetweener (disambiguation){{!}}Inbetweener}}
 {{Infobox comics character<!--Wikipedia:WikiProject Comics-->
 |image=Galanvsinbetween-silver-surfer 400.jpg
-|caption=The In-Betweener battles [[Galactus]] in ''Silver Surfer'' vol. 3, #18 (Dec. 1988). Art by [[Ron Lim]].
+|caption=The In-Betweener battles [[Galactus]] in ''[[Silver Surfer (comic book)|Silver Surfer]]'' vol. 3, #18 (Dec. 1988). Art by [[Ron Lim]].
 |character_name=In-Betweener
 |real_name=
 |publisher=[[Marvel Comics]]
@@ -47,6 +47,7 @@ Alternatively, if he cannot personally synthesize the "opposite energy" necessar
 
 ==External links==
 * [http://marvel.com/universe/In-Betweener In-Betweener] at Marvel.com
+* {{Marveldatabase}}
 
 {{Marvel Cosmic Entities}}
 {{Jim Starlin}}

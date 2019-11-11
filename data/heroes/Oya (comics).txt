@@ -3,7 +3,7 @@
 {{Infobox comics character  <!--Part of Wikipedia:WikiProject Comics-->
 |character_name=Oya
 |image=[[File:XMEN Oya.jpg]]
-|caption= Generation Hope #2 variant cover<br>Art by [[Greg Land]]
+|caption= Generation Hope #2 variant cover<br />Art by [[Greg Land]]
 |real_name=Idie Okonkwo
 |species=[[Mutant (Marvel Comics)|Human Mutant]]
 |publisher=[[Marvel Comics]]
@@ -44,7 +44,7 @@ Idie has the mutant power of temperature manipulation.  This power allows her to
 
 ==References==
 {{Reflist}}
-{{Portal bar|2010s|Fictional characters|Superhero fiction|Comics}}
+{{Portal bar|Speculative fiction|Comics}}
 
 [[Category:Comics characters introduced in 2010]]
 [[Category:Female characters in comics]]
@@ -53,3 +53,4 @@ Idie has the mutant power of temperature manipulation.  This power allows her to
 [[Category:Fictional characters with fire or heat abilities]]
 [[Category:Fictional characters with ice or cold abilities]]
 [[Category:Marvel Comics mutants]]
+[[Category:Marvel Comics female superheroes]]

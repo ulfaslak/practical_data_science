@@ -1,15 +1,16 @@
+{{short description|Fictional character}}
 {{original research|date=November 2009}}
 {{Infobox comics character <!--Wikipedia:WikiProject Comics-->
 | image = 
 | caption = 
 | character_name = Forbush Man
 | publisher = [[Marvel Comics]]
-| debut = '''Irving Forbush:'''<br>''[[Snafu (magazine)|Snafu]]'' #1 (Nov. 1955)<br /><br>'''Forbush Man:'''<br>''[[Not Brand Echh]]'' #1 (August 1967)
+| debut = '''As Irving Forbush:'''<br>''[[Snafu (magazine)|Snafu]]'' #1 (November 1955)<br>'''As Forbush Man:'''<br>''[[Not Brand Echh]]'' #1 (August 1967)
 | creators = [[Stan Lee]] <br>[[Jack Kirby]]
 | alter_ego = Irving Forbush
 | full_name =
 | species =
-| homeworld = [[Earth-665]]<!--?-->
+| homeworld = [[Earth-665]]
 | alliances = The New Paramounts
 | aliases =
 | supports=
@@ -57,7 +58,7 @@ During the DC/Marvel [[Amalgam Universe]] [[intercompany crossover|crossover]], 
 {{further|List of Marvel Cinematic Universe television series}}
 
 * [[Stan Lee]]'s photographic cameo appearances in ''[[Daredevil (TV series)|Daredevil]]'', ''[[Jessica Jones (TV series)|Jessica Jones]]'', ''[[Luke Cage (TV series)|Luke Cage]]'', ''[[Iron Fist (TV series)|Iron Fist]]'', ''[[The Defenders (miniseries)|The Defenders]]'', and ''[[The Punisher (TV series)|The Punisher]]'' is identified as [[NYPD]] Captain Irving Forbush.<ref>[https://www.reddit.com/r/marvelstudios/comments/64awt1/stan_lees_character_from_his_netflix_cameos_has_a/ Stan Lee's character from his Netflix cameos has a name and it's a Marvel comics reference dating back to 1955]</ref>
-** In [[Jessica Jones (season 2)|season 2]] of ''Jessica Jones'', Irving Forbush has become an attorney at "Forbush and Associates".<ref>{{cite web|url=https://screenrant.com/jessica-jones-season-2-stan-lee-cameo/|title=Did You Catch Jessica Jones Season 2’s Stan Lee Cameo?|last=Shaw-Williams|first=Hannah|website=Screen Rant|date=March 9, 2018|accessdate=March 9, 2018|archiveurl=https://www.webcitation.org/6xnWMxiGS|archivedate=March 9, 2018|deadurl=no}}</ref>
+** In [[Jessica Jones (season 2)|season 2]] of ''Jessica Jones'', Irving Forbush has become an attorney at "Forbush and Associates".<ref>{{cite web|url=https://screenrant.com/jessica-jones-season-2-stan-lee-cameo/|title=Did You Catch Jessica Jones Season 2’s Stan Lee Cameo?|last=Shaw-Williams|first=Hannah|website=Screen Rant|date=March 9, 2018|accessdate=March 9, 2018|archiveurl=https://www.webcitation.org/6xnWMxiGS|archivedate=March 9, 2018|url-status=live}}</ref>
 ** In season 2 episode 12 of ''Luke Cage'', at 24:50, Luke passes a billboard with Stan Lee’ image, depicting a legal advertisement for Forbush. “Call Forbush....get what you deserve.”
 
 ===Video games===

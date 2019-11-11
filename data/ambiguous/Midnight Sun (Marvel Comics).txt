@@ -15,11 +15,15 @@ image=[[Image:MidnightSun02.JPG|250px]]
 |powers=Expert in martial arts and stealth<br>Superhuman strength, durability, agility, and reflexes<br>Ability to travel and survive vacuum of space
 |}}
 
-'''Midnight Sun''' ('''M'Nai''') is a [[fictional character]], a former [[supervillain]] in the [[Marvel Comics]] [[Marvel Universe|universe]]. He first appeared in ''Marvel Special Edition'' #16 (February 1974), and was created by [[Steve Englehart]], [[Jim Starlin]], and [[Al Milgrom]].
+'''Midnight Sun''' ('''M'Nai''') is a [[fictional character]] and [[supervillain]] in the [[Marvel Comics]] [[Marvel Universe|universe]].
+
+==Publication history==
+{{expand-section|date=July 2019}}
+He first appeared in ''Marvel Special Edition'' #16 (February 1974), and was created by [[Steve Englehart]], [[Jim Starlin]], and [[Al Milgrom]].
 
 ==Fictional character biography==
 ===Midnight===
-Midnight Sun began life as M'Nai, a child in a small African village which [[Fu Manchu#Comic books|Fu Manchu]] was using as his headquarters. When [[Sir Denis Nayland Smith]] attacked the village, M'Nai's entire family was killed and M'Nai suffered permanent facial scars. Noticing that M'Nai did not cry despite his injury, Fu Manchu decided to raise the child in China as his own, alongside his son [[Shang-Chi]]. Taking the identity of "Midnight," M'Nai wore a mask at all times to hide his facial scar. Although he and Shang-Chi sometimes came to blows, they grew up as friends, a relationship which would end when Shang-Chi rebelled against his father and left.
+Midnight Sun began life as M'Nai, a child in a small African village which [[Fu Manchu (comics)|Fu Manchu]] was using as his headquarters. When the [[British Armed Forces]] attacked the village, M'Nai's entire family was killed and M'Nai suffered permanent facial scars. Noticing that M'Nai did not cry despite his injury, Fu Manchu decided to raise the child in China as his own, alongside his son [[Shang-Chi]]. Taking the identity of "Midnight," M'Nai wore a mask at all times to hide his facial scar. Although he and Shang-Chi sometimes came to blows, they grew up as friends, a relationship which would end when Shang-Chi rebelled against his father and left.
 
 Midnight continued to work as Fu Manchu's agent until he was ordered to assassinate Shang-Chi. Their friendship unraveled during the mission, as Midnight mocked Shang-Chi's attempts to convince him to renounce their father's villainy. Midnight proclaimed that his heart was filled with unspeakable hatred for humanity due to the way that his family was killed and his face irreversibly disfigured and renounced his friendship with Shang-Chi. While fighting Midnight at the top of a winch, Shang-Chi dodged a powerful kick. The kick was so forceful that Midnight lost his balance and fell to his apparent death.<ref>''Marvel Special Edition'' #16</ref>
 
@@ -39,7 +43,9 @@ Requiring no sustenance, Midnight Sun meditated on the [[moon]], trying to remem
 
 A mute Midnight Sun later returned to fight Shang-Chi once more, but they too parted as friends with Shang-Chi even referring to themselves as "brothers".<ref>''Shang-Chi Master of Kung Fu'' (2009 Black & White one-shot) #1</ref>
 
-In 2014's ''Deadly Hands of Kung Fu'' miniseries, Midnight Sun returned having masterminded a plot to murder the heads of the triads and by powerful black magic, finally realize his father's dreams. As the plot resulted in the death of Leiko Wu, her former lover Shang-Chi came to investigate with MI:6, the [[Daughters of the Dragon]], and the [[Sons of the Tiger]]. Midnight Sun's plan is ultimately foiled and he is pulled into a dimensional portal by the very forces he sought to collude with.{{issue|date=November 2017}}
+Midnight Sun eventually resumed his criminal activities, masterminding a plot to murder the heads of the [[Triad (organized crime)|triads]] and by powerful black magic, the Mao Shan Pai, gain power and influence over the triads, finally fulfilling [[Fu Manchu (comics)|Zheng Zu]]'s dream of world conquest. As the plot resulted in the death of [[Leiko Wu]], her former lover Shang-Chi came to [[London]] to investigate with MI:6, the [[Daughters of the Dragon]], and the [[Sons of the Tiger]]. Midnight Sun's plan is ultimately foiled when the ritual resurrects Leiko instead of granting him power he desired.  While he is pulled into a dimensional portal by the enraged spirits of the triad leaders he had killed, Midnight Sun begs his brother to help him, as all he wanted to do was to honor their father.<ref>''The Deadly Hands of Kung'' Vol 2 #4</ref>
+
+Midnight Sun is eventually able to escape his imprisonment by unknown means.  He leads a group of Shang-Chi's enemies including [[Razor Fist]], [[Shen Kuei]], Death-Hand, Shadow Stalker, Tiger-Claw and [[Shockwave (comics)|Shockwave]] to ambush Shang-Chi and [[Domino (comics)|Domino]] while the two are on a date in [[Hong Kong]].<ref>''Domino'' #4. Marvel Comics.</ref>  Shang-Chi defeats his former brother with a single kick during the fight.  M'Nai is further injured when Domino "accidentally" stabs him in the hand while fixing a drink for Shang-Chi.  After the fight, Shang-Chi warns Midnight Sun and the others to retreat and forget the ambush ever took place or to face further attacks from Domino.<ref>''Domino'' #5. Marvel Comics.</ref>
 
 ==Powers and abilities==
 As an agent of Fu Manchu, Midnight was a highly trained martial artist and espionage agent. He was a master of unarmed combat and many martial arts weapons, particularly [[dagger]]s, [[nunchaku]], and [[shuriken]]. His specialty was vanishing into shadows and ambushing his opponents. He has had years of experienced in the disciplines of Kung Fu, and is an accomplished Kung Fu practitioner.
@@ -67,3 +73,4 @@ When Kar-Sagg transformed him into a Kree agent, he transferred Midnight's brain
 [[Category:Marvel Comics supervillains]]
 [[Category:Science fiction comics characters]]
 [[Category:Science fiction comics]]
+[[Category:Shang-Chi characters]]

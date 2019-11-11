@@ -1,9 +1,7 @@
 {{Notability|date=August 2018}}
 {{In-universe|date=August 2018}}
 {{Infobox comics character <!--Wikipedia:WikiProject Comics-->
-| image = [[Image:Omega gang full.jpg|250px|]]
-| caption = The Omega Gang in New X-Men #135: Redneck, Radian, Kid Omega, Glob Herman, and Tattoo. <br />Art by [[Frank Quitely]]
-| alt = 
+| image = 
 | character_name = Glob Herman
 | real_name = Robert Herman
 | species = [[Mutant (Marvel Comics)|Human Mutant]]
@@ -14,14 +12,16 @@
 | powers =Superhuman strength, speed and resilience<br>Bio-paraffin body 
 |}}
 
-'''Glob Herman''' ('''Robert Herman''') is a fictional [[Mutant (Marvel Comics)|mutant]] character, a [[supervillain]] and later superhero appearing in [[American comic book]]s published by [[Marvel Comics]]. His first appearance was in ''New X-Men'' #117. Glob was created by [[Grant Morrison]] and [[Ethan Van Sciver]].
+'''Glob Herman''' ('''Robert Herman''') is a fictional [[Mutant (Marvel Comics)|mutant]] character, a [[supervillain]] and later superhero appearing in [[American comic book]]s published by [[Marvel Comics]]. His first appearance was in ''New X-Men'' #117. Glob was created by [[Grant Morrison]] and [[Ethan Van Sciver]].{{cn|date=December 2018}}
+
+Clayton Dean Watmough portrayed the role in ''[[X-Men: The Last Stand]].{{cn|date=December 2018}}''
 
 ==Fictional character biography==
 ===Early life===
 The young mutant called Glob Herman has skin that is completely transparent and made up of bio-paraffin, or "living wax". Though he lives among other mutants, Glob Herman easily stands out. Herman is friends with [[Quentin Quire|Kid Omega]], one of Professor X’s top students.{{Issue|date=August 2011}}
 
 ===Omega Gang===
-Glob Herman enrolled into the [[X-Mansion|Xavier Institute]] for Higher Learning after [[Professor X]] was publicly revealed to be a mutant.{{issue|date=November 2011}} Herman joins the unsanctioned, teenage [[Omega Gang]], led by Kid Omega, as they secretly take a hard line stance for mutant rights.{{issue|date=November 2011}} With the Omega Gang, Herman attacks the humans who they thought had murdered [[Jumbo Carnation]].{{issue|date=November 2011}} He later participates in the slaughter of a group of [[U-Men (comics)|U-Men]].{{issue|date=November 2011}} When the Omega Gang instigate a riot at the Xavier Institute, Herman has [[Redneck (comics)|Redneck]] light him on fire. He then pursues a bus full of human civilians, chasing it at full speed down the highway. [[Cyclops (Marvel Comics)|Cyclops]], [[Xorn]] and [[Beast (comics)|Beast]] pursue. Beast saves the lives of two men in a sports car who cross Herman's way, which he turns into scrap metal without slowing down. When the chase nears a gas station with a cement mixer, the X-Men manage to surround Herman. They use the mixer to cover him with cement and the Beast uses water bottles from the station himself to put out Herman's fire. At that point, much of Herman's covering of bio-paraffin has burned away, and he is reduced to a skeleton with only a relative thin layer of wax.{{issue|date=November 2011}} Later, Herman is seen, still covered in cement, being ferried back to the X-Mansion on a specialized truck.<ref>''New X-Men'' Vol.2, #138: "The Prime of Miss Emma Frost" (May 2003)</ref> For his crimes, the X-Men send him to help the needy in Africa.
+Glob Herman enrolled into the [[X-Mansion|Xavier Institute]] for Higher Learning after [[Professor X]] was publicly revealed to be a mutant. Herman joins the unsanctioned, teenage [[Omega Gang]], led by Kid Omega, as they secretly take a hard line stance for mutant rights. With the Omega Gang, Herman attacks the humans who they thought had murdered [[Jumbo Carnation]].<ref>''New X-Men'' Vol.2, #135: "Riot's at Xavier, Part 1: Teaching Children About Fractals" (February 2003)</ref> He later participates in the slaughter of a group of [[U-Men (comics)|U-Men]].<ref>''New X-Men'' Vol.2, #136: "Riot's at Xavier, Part 2: When X Is Not X" (March 2003)</ref> When the Omega Gang instigate a riot at the Xavier Institute, Herman has [[Redneck (comics)|Redneck]] light him on fire. He then pursues a bus full of human civilians, chasing it at full speed down the highway. [[Cyclops (Marvel Comics)|Cyclops]], [[Xorn]] and [[Beast (comics)|Beast]] pursue. Beast saves the lives of two men in a sports car who cross Herman's way, which he turns into scrap metal without slowing down. When the chase nears a gas station with a cement mixer, the X-Men manage to surround Herman. They use the mixer to cover him with cement and the Beast uses water bottles from the station himself to put out Herman's fire. At that point, much of Herman's covering of bio-paraffin has burned away, and he is reduced to a skeleton with only a relative thin layer of wax. Later, Herman is seen, still covered in cement, being ferried back to the X-Mansion on a specialized truck.<ref>''New X-Men'' Vol.2, #138: "The Prime of Miss Emma Frost" (May 2003)</ref> For his crimes, the X-Men send him to help the needy in Africa.
 
 ===Post M-Day and after===
 After Herman served his time in Africa, he found  out that he is one of the few mutants who retained their superhuman powers after [[Decimation (comics)|M-Day]].{{Issue|date=August 2011}} Glob Herman returns to the X-Mansion, relocated in San Francisco.{{issue|date=August 2013}} After, he moves to Utopia Island, the new X-Men base with some other mutants.{{issue|date=August 2013}}

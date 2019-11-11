@@ -78,6 +78,7 @@ The names ''Korvus'' and ''Rook'shir'' appear to be taken from the [[bird|avian]
 ==External links==
 *[http://www.marvunapp.com/Appendix4/korvusshiar.htm Korvus] at the Appendix to the Handbook of the Marvel Universe
 *{{comicbookdb|type=character|id=14816|title=Korvus}}
+* {{Marveldatabase}}
 
 {{Marvel Cosmic}}
 

@@ -7,7 +7,7 @@
 |real_name=Kenji Oyama
 |publisher=[[Marvel Comics]]
 |debut=''Daredevil'' (1st series), #196 (July 1983)
-|creators=[[Denny O'Neil]]<br>[[Larry Hama]]<br>Klaus Jensen
+|creators=[[Denny O'Neil]]<br>[[Larry Hama]]<br>Klaus Janson
 |alliances=
 |powers=
 }}
@@ -39,8 +39,10 @@ Lord Dark Wind is mentioned by Yuriko in the game ''[[X2: Wolverine's Revenge]]'
 
 ==External links==
 * {{Marvunapp|http://www.marvunapp.com/Appendix4/lord_darkwind_oyama.htm|Lord Darkwind}}
+* {{Marveldatabase}}
 
 {{Wolverine}}
+
 [[Category:Characters created by Dennis O'Neil]]
 [[Category:Characters created by Larry Hama]]
 [[Category:Comics characters introduced in 1983]]

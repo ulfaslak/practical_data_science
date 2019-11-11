@@ -1,7 +1,4 @@
 {{distinguish|James Braddock (disambiguation)}}
-
-{{more citations needed|date=August 2016}}
-
 {{Infobox comics character| <!--Wikipedia:WikiProject Comics-->
 image=[[Image:Jamie Braddock.jpg|200px]]
 |caption=Promotional artwork of Jamie Braddock
@@ -52,7 +49,7 @@ He got himself so tangled, he'll never twist free.|[[Psylocke]]|''Uncanny X-Men'
 An alternate version of him appeared in Excalibur #18, where he killed his brother.<ref>''Excalibur'' #18</ref>  And another one where he was on the side of Brian, facing the Chaos Commanders and the Ayranites.<ref>''Excalibur Annual'' #2</ref>
 
 ===House of M===
-In the ''[[House of M]]'' reality, the Mutant-Human war broke out and he helped preserve the peace, Jamie apparently had manifested mutant powers, and he was proud of his brother having no ill will against mutants, after the Mutant-Human war had calmed, Jamie disappeared without a trace, and [[Magneto (comics)|Magneto]] had asked that the oldest should take control of the United Kingdom, Psylocke was appointed but refused, Brian accepted.<ref>''Uncanny X-Men'' #464</ref>
+In the ''[[House of M]]'' reality, the Mutant-Human war broke out and he helped preserve the peace, Jamie apparently had manifested mutant powers, and he was proud of his brother having no ill will against mutants, after the Mutant-Human war had calmed, Jamie disappeared without a trace, and [[Magneto (Marvel Comics)|Magneto]] had asked that the oldest should take control of the United Kingdom, Psylocke was appointed but refused, Brian accepted.<ref>''Uncanny X-Men'' #464</ref>
 
 ===Ultimate Marvel===
 In [[Ultimate Marvel]]'s [[Ultimate Fallout]], Nick Fury is told that the [[European Union]] has reconstituted the Excalibur class [[Super Soldier]] Program which will be led by Brian's brother, Jamie as the new Captain Britain.<ref>''Ultimate Fallout'' #5</ref> He subsequently joined the [[Ultimates]] after the deaths of Captains France and Italy. These deaths are part of the world's long-running confrontation with 'The City', an adversarial army that Jaime works closely with Thor in battling.<ref>''Ultimate comics: Ultimates'' #2-8 (2011-2012)</ref>
@@ -63,6 +60,7 @@ In [[Ultimate Marvel]]'s [[Ultimate Fallout]], Nick Fury is told that the [[Euro
 ==External links==
 * [http://www.marvunapp.com/Appendix/braddockj.htm Jamie Braddock's profile] in the Unofficial Handbook of the Marvel Universe
 * {{comicbookdb|type=character|id=5314|title=Jamie Braddock}}
+* {{Marveldatabase}}
 
 {{Captain Britain}}
 

@@ -8,7 +8,7 @@
 |caption=Cover to ''The Buzz'' #1<br>Art by [[Jordan Hawkes]].
 |real_name=Jack Benjamin Jameson
 |publisher=[[Marvel Comics]]
-|debut=''Spider-Girl'' #18, March 2000
+|debut=''Spider-Girl Annual'' #1999 (Sept. 1999)
 |creators=[[Tom DeFalco]]<br>[[Ron Frenz]]
 |partners=[[Spider-Girl]]
 |alliances=[[New Warriors]] 
@@ -40,6 +40,12 @@ The Buzz soon met [[Spider-Girl]], but she was leery of him since she read in th
 Jack Jameson has no superhuman abilities of his own, but his armor gives him superhuman strength and flight. His [[Gauntlet (gloves)|gauntlet]]s can fire blasts of [[electricity]] (his "Bug Zapper") or ribbons of [[adhesive]] [[polymer]] (his "Fly Paper"). His goggles give him 360-degree vision.  
 
 The neural interface of the armor is bonded specifically to Jameson and will not work for anyone else.
+
+== References ==
+{{reflist}}
+
+== External links ==
+* {{Marveldatabase|Buzz}}
 
 {{MC2}}
 

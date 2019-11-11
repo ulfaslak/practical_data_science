@@ -8,20 +8,19 @@
 |publisher=[[Marvel Comics]]
 |debut=''X-Men'' vol. 2, #173 (September, 2005)
 |creators=[[Peter Milligan]] (Writer)<br>[[Salvador Larroca]] (Artist) 
-|alliances=[[X-Men]]<br/>[[The 198]] 
-|aliases="Gus", "Pulsey"
-|powers=Ability to disable superpowers, electronic systems, and telepathic intrusions
-}}
-'''Pulse''' is a fictional character appearing in [[American comic book]]s published by [[Marvel Comics]]. Pulse is a [[Mutant (Marvel Comics)|mutant]] who retained his powers post-[[Decimation (comics)|M-Day]]. Pulse appeared in the first season of the TV series ''[[The Gifted (season 1)|The Gifted]]'' played by [[Zach Roerig]].
+|alliances=[[X-Men]]<br>[[X-Men: The 198|The 198]] 
+|aliases=Gus<br>Pulsey
+|powers=Ability to disable superpowers, electronic systems, and telepathic intrusions}}
+'''Pulse''' ('''Augustus''') is a fictional character appearing in [[American comic book]]s published by [[Marvel Comics]]. Pulse is a [[Mutant (Marvel Comics)|mutant]] who retained his powers post-[[Decimation (comics)|M-Day]]. Pulse appeared in the first season of the TV series ''[[The Gifted (season 1)|The Gifted]]'' played by [[Zach Roerig]].
 
 ==Publication history==
-{{expand-section|date=December 2017}}
+{{expand section|date=December 2017}}
 Pulse first appeared in ''X-Men vol. 2,'' #173 (September, 2005).
 
 ==Fictional character biography==
 Sometime after having [[Gambit (comics)|Gambit]] was not right for her.  Mystique's plan to rid Rogue of Gambit involved sowing discord in the couple's romance and, once the pair was soon to be no more, introduce Rogue to Augustus.  Given the dialogue between Mystique and him,<ref>''X-Men'' vol. 2 #174</ref> in which Mystique says she "wanted to see for [herself] that [Augustus] is the man she hopes he is," it can be assumed that the associates did not yet know each other well.
 
-Augustus and Mystique were next seen,<ref>''X-Men'' vol. 2 #179</ref> stealing paintings from a house.  Mystique asks what he does with all of the money he gets from selling stolen goods on the [[black market]], he replies that he invests the money into [[stocks]] he knows will soon crash, as he gets some kind of sick pleasure out of losing other peoples' money.  Mystique replies, "Time you were safely married, Augustus."  Augustus is worried about Gambit's reaction, and comically remarks upon the authenticity of how Cajun he really is.  Mystique then reveals she is certain that of all the men she checked out to be Rogue's new romance, Augustus is the one who can "make my daughter happy."{{issue|date=January 2013}}
+Augustus and Mystique were next seen,<ref>''X-Men'' vol. 2 #179</ref> stealing paintings from a house.  Mystique asks what he does with all of the money he gets from selling stolen goods on the [[black market]], he replies that he invests the money into [[stock]]s he knows will soon crash, as he gets some kind of sick pleasure out of losing other peoples' money.  Mystique replies, "Time you were safely married, Augustus."  Augustus is worried about Gambit's reaction, and comically remarks upon the authenticity of how Cajun he really is.  Mystique then reveals she is certain that of all the men she checked out to be Rogue's new romance, Augustus is the one who can "make my daughter happy."{{issue|date=January 2013}}
 
 Mystique and Augustus make their way back to the [[X-Mansion|Xavier Institute]] and Mystique announces she is joining the X-Men<ref>''X-Men'' vol. 2 #181</ref> after what happened last time—before making it very clear that she is going to set Augustus up with Rogue.
 
@@ -41,6 +40,7 @@ Augustus produces a disruptive pulse from his eyes which can disable systems and
 
 ==Footnotes==
 {{reflist}}
+
 [[Category:Characters created by Salvador Larroca]]
 [[Category:Characters created by Peter Milligan]]
 [[Category:Comics characters introduced in 2005]]

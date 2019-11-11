@@ -1,0 +1,49 @@
+{{Notability|date=August 2018}}
+{{Infobox comics character  <!--Wikipedia:WikiProject Comics--> 
+|character_name=Freak III
+|image=
+|caption=Freak
+|real_name=Unknown
+|species=Human
+|publisher=[[Marvel Comics]]
+|debut=''[[The Amazing Spider-Man]]'' #552 (March 2008)
+|creators=[[Bob Gale]]<br />[[Phil Jimenez]]
+|alliances=
+|aliases=Armadillo Man
+|powers=Superhuman strength and durability<br>Acidic saliva<br>Ability to adapt to conditions through metamorphosis and shoot toxic spores from his body at will
+|cat=super
+|subcat=Marvel Comics
+|villain=y
+|sortkey=
+}}
+
+The '''Freak''' is a fictional character appearing in ''[[The Amazing Spider-Man]]'' comics published by [[Marvel Comics]].
+
+==Publication history==
+The Freak is a villain who first appears in the [[Spider-Man: Brand New Day|"Brand New Day"]] storyline from ''[[The Amazing Spider-Man]]'' #552 and was created by [[Bob Gale]] and [[Phil Jimenez]].
+
+==Fictional character biography==
+A drug addict nicknamed Freak is chased down by [[Spider-Man]] after attempting to steal from the poor at the [[soup kitchen]] where Spider-Man's [[Aunt May]] works.<ref>''[[The Amazing Spider-Man]]'' #546</ref> Freak stumbles into a laboratory owned by [[Lizard (comics)|Curt Connors]] and injects himself with animal gene fluids, thinking that they are [[crystal meth]]. A chrysalis forms around Freak's body, and he later emerges as a skinless monster.<ref name=AS552>''The Amazing Spider-Man'' #552</ref> After being shot at by police, he falls into the sewer and forms another chrysalis. Emerging as an animal hybrid and completely bulletproof, Freak tracks Spider-Man by his scent.<ref name=AS553>''The Amazing Spider-Man'' #553</ref> After a violent confrontation, Freak gives in to his addictions and finds a [[clandestine chemistry|meth lab]]. Spider-Man follows him. During the ensuing fight, the building is set ablaze. Freak is caught under the flaming debris, but survives and creates a new chrysalis, which has made him fireproof and even stronger.<ref name=AS554>''The Amazing Spider-Man'' #554</ref> Freak emerges as an [[armadillo]]-like creature and again tries to kill Spider-Man. When Connors arrives with the [[quicklime]] necessary to incapacitate Freak, Spider-Man tricks him into thinking Connors has drugs. Freak tears open the bags and is covered in the quicklime. He again forms a chrysalis, with Spider-Man pouring quicklime over it, to permanently incapacitate him. The chrysalis is taken by a [[Dangerous goods|hazmat]] crew — which is later revealed to be an [[Oscorp]] research group.<ref name=AS558>''The Amazing Spider-Man'' #558</ref>
+
+Freak is next seen cut open and hooked up to machines in an [[Oscorp]] lab where scientists are using his unique abilities to cure various diseases.<ref>''Amazing Spider-Man'' #572</ref> [[Norman Osborn]] injects him with a sample of the anti-venom antibodies to create "super-venom", a virus capable of killing millions with a single drop. He then uses the super-venom to re-power [[Mac Gargan]] who was "cured" of his symbiote by Anti-Venom. Osborn also mentions that Freak is incapable of becoming intoxicated because his body has adapted to his drug addiction by removing the pleasure center of his brain.<ref name=AS552 /> In the confrontation between Spider-Man and Osborn, Osborn activates the building's self-destruction with Freak still inside. A search afterwards by Oscorp reveals "no signs of life", which made the team reason that Freak was killed, with Osborn immediately retorting "Idiot. Think about it for a second."<ref>''Amazing Spider-Man'' #573</ref>
+
+During the ''Origin of the Species'' storyline, Freak is invited by supervillain [[Doctor Octopus]] to join his team in exchange for securing some specific items for him. Freak goes after Spider-Man for [[Menace (Marvel Comics)|Menace]]'s infant. He collides with [[Vulture (Marvel Comics)|Vulture]] (Jimmy Natale) before [[Rhino (comics)|Rhino]] arrives.<ref>''Amazing Spider-Man'' #644</ref> Spider-Man goes on a rampage against the villains after the infant is kidnapped from him by the [[Chameleon (comics)|Chameleon]], and Spider-Man defeats Freak.<ref>''Amazing Spider-Man'' #645</ref>
+
+==Powers and abilities==
+The Freak can adapt to any situation by forming a chrysalis around himself after being wounded or killed, then returning to life in a different appearance. He also has [[Hulk]]-like bulletproof durability and strength and acidic saliva, can shoot toxic spores from his body at will, and can adapt to certain harsh environments.
+
+==References==
+{{reflist}}
+
+==External links==
+*{{comicbookdb|type=character|id=19320|title=Freak (Spider-Man villain)}}
+
+{{Spider-Man characters}}
+
+[[Category:Comics characters introduced in 2008]]
+[[Category:Spider-Man characters]]
+[[Category:Fictional drug addicts]]
+[[Category:Marvel Comics characters with superhuman strength]]
+[[Category:Marvel Comics mutates]]
+[[Category:Marvel Comics characters with accelerated healing]]
+[[Category:Marvel Comics supervillains]]

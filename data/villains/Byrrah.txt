@@ -3,8 +3,8 @@
 | caption =  
 | character_name =Byrrah
 | publisher =[[Marvel Comics]]
-| debut = ''Marvel Mystery Comics'' #82 (May 1947)<br>first modern appearance in ''Tales to Astonish'' #90
-| creators = [[Bill Everett]]<br>Jimmy Thompson
+| debut = ''Sub-Mariner'' #35 (Aug. 1954)
+| creators = [[Bill Everett]] (writer/artist)
 | real_name =
 | species = ''[[Homo mermanus]]''
 | homeworld = [[Atlantis (Marvel Comics)|Atlantis]]
@@ -17,7 +17,7 @@
 
 ==Publication history==
 {{expand section|date=August 2015}}
-Byrrah first appeared in ''Marvel: Mystery Comics'' #82 and was created by [[Bill Everett]] and Jimmy Thompson.
+Byrrah first appeared in ''Sub-Mariner'' #35 and was created by [[Bill Everett]].
 
 ==Fictional character biography==
 Byrrah was a member of the Atlantean royalty, and a citizen of [[Atlantis (Marvel Comics)|Atlantis]]. Byrrah and [[Namor]] were close friends at childhood though they became rivals.<ref>''Saga of the Sub-Mariner'' #2</ref> Byrrah considered Namor a "half-breed" and unfit to rule Atlantis. Byrrah vied with Namor for the Atlantean throne when Emperor [[Thakorr]] was injured.<ref>''Saga of the Sub-Mariner'' #5</ref>
@@ -52,8 +52,8 @@ Byrrah is a master planner and strategist, and an experienced politician.
 
 {{Namor}}
 
-[[Category:Comics characters introduced in 1947]]
+[[Category:Comics characters introduced in 1954]]
 [[Category:Fictional kings]]
 [[Category:Marvel Comics Atlanteans (Homo mermanus)]]
 [[Category:Marvel Comics supervillains]]
-[[Category:Timely Comics characters]]
+[[Category:Atlas Comics characters]]

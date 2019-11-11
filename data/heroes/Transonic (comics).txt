@@ -1,7 +1,7 @@
 {{Infobox comics character  <!--Part of Wikipedia:WikiProject Comics-->
 |character_name=Transonic
 |image=[[File:XMEN-Transonic.jpg]]
-|caption= Variant cover for ''Generation Hope'' #1<br>Art by [[Greg Land]]
+|caption= Variant cover for ''Generation Hope'' #1<br />Art by [[Greg Land]]
 |real_name=Laurie Tromette
 |species=[[Mutant (Marvel Comics)|Human Mutant]]
 |publisher=[[Marvel Comics]]
@@ -9,7 +9,7 @@
 |creators=[[Matt Fraction]]<br/>[[Kieron Gillen]]
 |aliases=The First Light
 |alliances=[[Hope Summers (comics)#Generation Hope|The Lights]]<br/>[[X-Men (comics)|X-Men]]
-|powers=Supersonic flight<br>General physiological enhancement
+|powers=Supersonic flight<br />General physiological enhancement
 |cat=super
 |subcat=Marvel Comics
 |hero=y
@@ -54,10 +54,11 @@ Laurie also possesses "generalized physiological enhancement".<ref name =GH4/> B
 
 ==External links==
 *[http://www.uncannyxmen.net/glossary/showentry.asp?fldAuto=2392 UncannyXmen.net Character Bio on Transonic]
-{{Portal bar|2010s|Fictional characters|Superhero fiction|Comics}}
+{{Portal bar|Speculative fiction|Comics}}
 
 {{DEFAULTSORT:Transonic}}
 [[Category:Comics characters introduced in 2010]]
 [[Category:Female characters in comics]]
 [[Category:Fictional characters from British Columbia]]
+[[Category:Marvel Comics female superheroes]]
 [[Category:Marvel Comics mutants]]

@@ -5,19 +5,19 @@ image=[[Image:Loa skottieyoung.jpg|150px]]
 |real_name=Alani Ryan
 |species=[[Mutant (Marvel Comics)|Human Mutant]]
 |publisher=[[Marvel Comics]]
-|debut=''New X-Men: Academy X'' #5
+|debut=''New Mutants'' vol. 2 #11 (June, 2004)
 |creators=[[Michael Ryan (artist)|Michael Ryan]]
 |alliances=[[Alpha Squadron (comics)|Alpha Squadron training squad]]<br/>[[Defenders (comics)|Defenders]]<br/>[[X-Mansion|Xavier Institute]]<br/>[[List of X-Men members#X-Men-In-Training (2006–present)|X-Men-In-Training]]<br/>[[Avengers Academy]]
 |aliases=
 |powers=Ability to "phase" through solid matter causing it to crumble afterwards<br>Underwater adaptation via Atlantean pendant
-|}} 
+|}}
 
-'''Loa''' ('''Alani Ryan''') is a [[fictional character]] appearing in [[American comic book]]s published by [[Marvel Comics]]. A [[Mutant (Marvel Comics)|mutant]], Loa is a student at the [[X-Mansion|Xavier Institute]]. She made her debut in ''New X-Men: Academy X #5''.
+'''Loa''' ('''Alani Ryan''') is a [[fictional character]] appearing in [[American comic book]]s published by [[Marvel Comics]]. A [[Mutant (Marvel Comics)|mutant]], Loa is a student at the [[X-Mansion|Xavier Institute]]. She made her debut in ''New Mutants'' vol. 2 #11.
 
 ==Fictional character biography==
 
 ===Before Xavier's===
-Born in [[Maui]], Hawaii of mixed Native Hawaiian and Haole ancestry, '''Alani Ryan''' quickly developed a talent for surfing. One day whilst surfing, she and her father wind up in the middle of an ambush by the villain Great White and a pack of trained [[shark]]s as he lays claim to the area. Alani's mutant ability is activated in this heated situation and she uses her ability to kill some of the sharks and save her father. In the nick of time, [[Namor]] arrives and saves the day by defeating Great White. Following the battle, Alani's grandmother Alice Ryan is revealed to be a former acquaintance of Namor's from the 1940s and a close friend of Namor's former lover Betty Dean.<ref name="Namor5">''Namor: The First Mutant'' #5</ref>
+Born in [[Maui]], Hawaii of mixed Native Hawaiian and Caucasian ancestry, '''Alani Ryan''' quickly developed a talent for surfing. One day whilst surfing, she and her father wind up in the middle of an ambush by the villain Great White and a pack of trained [[shark]]s as he lays claim to the area. Alani's mutant ability is activated in this heated situation and she uses her ability to kill some of the sharks and save her father. In the nick of time, [[Namor]] arrives and saves the day by defeating Great White. Following the battle, Alani's grandmother Alice Ryan is revealed to be a former acquaintance of Namor's from the 1940s and a close friend of Namor's former lover Betty Dean.<ref name="Namor5">''Namor: The First Mutant'' #5</ref>
 
 ===Alpha Squadron===
 After arriving at the [[X-Mansion|Xavier Institute]] as a student, she adopts the codename Loa (named for a type of worm that moves the same way she does when she uses her powers), and along with fellow students [[Anole (comics)|Anole]], [[Rubbermaid (comics)|Rubbermaid]], [[Kidogo]], [[Network (comics)|Network]], and [[Indra (comics)|Indra]], is assigned to [[Alpha Squadron (comics)|Alpha Squadron]], the training squad advised by former [[Alpha Flight]] member [[Northstar (Marvel Comics)|Northstar]].   When Northstar is apparently killed by Wolverine, advising duties for Alpha Squadron are taken over by [[Karma (comics)|Karma]].{{Issue|date=April 2010}} Of her classes at the Institute, she dislikes chemistry the most and is voted "Most Laid Back" in the ''New X-Men: Academy X Yearbook Special'' (2005).
@@ -76,7 +76,7 @@ She wears an Atlantean pendant that keeps her alive underwater.
 {{Reflist}}
 
 ==External links==
-{{Portal|2000s|Fictional characters|Superhero fiction|Comics}}
+{{Portal|Speculative fiction|Comics}}
 *[https://web.archive.org/web/20120716193912/http://uncannyxmen.net/db/article/showquestion.asp?faq=4&fldAuto=229&page=3 Yearbook Entry on Alpha Squadron] at uncannyxmen.net
 
 {{DEFAULTSORT:Loa (Comics)}}
@@ -87,3 +87,4 @@ She wears an Atlantean pendant that keeps her alive underwater.
 [[Category:Fictional characters who can turn intangible]]
 [[Category:Marvel Comics mutants]]
 [[Category:Marvel Comics superheroes]]
+[[Category:Marvel Comics female superheroes]]

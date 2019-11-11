@@ -7,7 +7,7 @@
 | debut = ''What If? Planet Hulk'' #1 (Dec. 2007)
 | creators = [[Greg Pak]] (writer)<br>[[John Romita Jr.]] (artist)
 | alter_ego = Skaar Banner
-| species = Gamma Mutant
+| species = Grey Sakaaran–[[Mutate (comics)|Human Mutate]] hybrid
 | homeworld = Sakaar
 | alliances = [[Dark Avengers]]
 | partners = Hulk
@@ -15,7 +15,7 @@
 | supports =
 | powers = Skilled swordsman<br>Superhuman strength, speed, stamina and durability<br>Regenerative healing factor<br>Immunity to fire and high temperatures<br>Ability to draw power from the planet
 |}}
-'''Skaar''' is a fictional superhero appearing in [[American comic book]]s published by [[Marvel Comics]]. The character is usually depicted as a supporting character to [[Hulk (comics)|Hulk]]. He is the son of the Hulk and the extraterrestrial [[Caiera]], who conceived him during the "[[Planet Hulk]]" storyline. Created by writer [[Greg Pak]] and artist [[John Romita Jr.]], he first appeared in ''What If? Planet Hulk'' #1 ([[cover-date]]d Dec. 2007).
+'''Skaar''' is a fictional superhero appearing in [[American comic book]]s published by [[Marvel Comics]]. The character is usually depicted as a supporting character to [[Hulk]]. He is the son of the Hulk and the extraterrestrial [[Caiera]], who conceived him during the "[[Planet Hulk]]" storyline. Created by writer [[Greg Pak]] and artist [[John Romita Jr.]], he first appeared in ''What If? Planet Hulk'' #1 ([[cover-date]]d Dec. 2007).
 
 ==Publication history==
 Skaar first appeared in ''What If? Planet Hulk'' #1 (Dec. 2007). Skaar then appeared canonically in ''[[World War Hulk]]'' #5 (Jan. 2008) a miniseries written by Greg Pak, and illustrated by John Romita, Jr. He subsequently starred in his own ongoing series by Pak, ''Skaar: Son of Hulk'', which ran for 12 issues from 2008<ref>{{cite web |first=Vaneta |last=Rogers |url=http://www.newsarama.com/comics/080610-GarneySkaar.html |title=Ron Garney's Skaar - Inside the Son of Hulk's Art |publisher=[[Newsarama]] |date=June 10, 2008 |accessdate= }}</ref> to 2009.<ref>{{cite web |first=Vaneta |last=Rogers |url=http://forum.newsarama.com/showthread.php?t=150516 |title=Greg Pak on Skaar: Son of Hulk |publisher=Newsarama |date=March 18, 2008 |accessdate= }}{{dead link|date=January 2018 |bot=InternetArchiveBot |fix-attempted=yes }}</ref><ref>{{cite web |first=Dave |last=Richards |url=http://www.comicbookresources.com/?page=article&id=16751 |title=Hulk Slash! Pak talks "Skaar: Son of Hulk" |publisher=[[Comic Book Resources]] |date=June 10, 2008 |accessdate= }}</ref><ref>{{cite web |first=Vaneta |last=Rogers |url=http://forum.newsarama.com/showthread.php?t=150619 |title=Ron Garney: Drawing Son of Hulk |publisher=Newsarama |date=March 19, 2008 |accessdate= }}{{dead link|date=May 2018 |bot=InternetArchiveBot |fix-attempted=yes }}</ref>
@@ -107,11 +107,12 @@ The series the character has appeared in have been collected into [[trade paperb
 {{Reflist|2}}
 
 ==External links==
-{{Portal|Fictional characters|Superhero fiction|2000s}}
+{{Portal|Speculative fiction}}
 * {{Marvelwiki|Skaar|Skaar}}
 * {{gcdb|type=character|search=Skaar|title=Skaar}}
 * {{comicbookdb|type=character|id=16526|title=Skaar}}
 * [http://www.newsarama.com/comics/080610-BSESkaar01.html Best Shots Extra: ''Skaar: Son of Hulk'' #1]. [[Newsarama]]. June 10, 2008.
+* {{Marveldatabase|Skaar}}
 
 {{Hulk}}
 {{John Romita Jr.}}

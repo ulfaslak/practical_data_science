@@ -1,9 +1,11 @@
+{{multiple issues|
 {{Notability|date=August 2018}}
 {{In-universe|date=August 2018}}
+}}
 {{Infobox comics character
 <!--Wikipedia:WikiProject Comics-->
 | character_name = Bloodstone
-| image          = [[File:Cullen Bloodstone Avengers Arena 6.jpg|250px]]<!-- filename format only -->
+| image          = Cullen Bloodstone Avengers Arena 6.jpg <!-- filename format only -->
 | imagesize      = 
 | caption        = 
 | publisher      = [[Marvel Comics]]
@@ -22,7 +24,7 @@
 | partners       = <!-- optional -->
 | supports       = <!-- optional -->
 | aliases        = <!-- optional -->
-| powers         = Superhuman strength<br>Healing factor<br>Glaratrox transformation
+| powers         = Superhuman strength<br />Healing factor<br />Glaratrox transformation
 | cat            = 
 | subcat         = 
 | hero           = 
@@ -59,7 +61,7 @@ Cullen has shown a high degree of marksmanship with firearms.
 {{Reflist|30em}}
 
 ==External links==
-{{Portal|2010s|Fictional characters|Superhero fiction|LGBT}}
+{{Portal|Speculative fiction|LGBT}}
 *[http://www.comicvine.com/bloodstone/4005-86740/ Cullen Bloodstone] at Comic Vine
 
 {{DEFAULTSORT:Bloodstone, Cullen}}

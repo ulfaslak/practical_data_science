@@ -1,5 +1,6 @@
-{{Superherobox| <!--Wikipedia:WikiProject Comics-->
-image=[[Image:Kaspercole.png|250px]]
+{{short description|Marvel comic book character}}
+{{Superherobox<!--Wikipedia:WikiProject Comics-->
+|image=[[Image:Kaspercole.png|250px]]
 |caption=Kasper Cole as [[White Tiger (comics)|White Tiger]]. Art by [[Joe Bennett (penciller)|Joe Bennett]].
 |character_name=White Tiger
 |publisher=[[Marvel Comics]]
@@ -29,7 +30,7 @@ During the course of the investigation, Kasper also comes into contact with the 
 
 {{quote box|width=33%|quote=[[Tom DeFalco]] once taught me that [[Spider-Man]]'s motivation for being Spider-Man was to patrol the city looking for crimes so he could photograph himself in the act of stopping the crimes and sell the photos to Jameson to raise money to pay his rent which was always late. Kasper's  motive is to wear the costume so he won't be recognized by the good guys or the bad guys as he goes about cleaning up his precinct so he can get a promotion to Detective so he can make enough money to marry his pregnant girlfriend and move them all out of Harlem.|source= —Creator Christopher Priest, 2003<ref name="Black&White" />}}
 
-Before the story arc concludes, it is revealed to the reader that 66 Bridges is in fact led by Kasper's father as Kibuka (a plotline that has been left unresolved) and that Triage is his half-brother.<ref name="BP55">{{Cite comic | writer=[[Christopher Priest (comics)|Priest, Christopher]] | penciller=[[Jim Calafiore|Calafiore, Jim]] | inker= [[Mark McKenna|McKenna, Mark]]| colorist=[[Jennifer Schellinger|Schellinger, Jennifer]] | letterer=[[Paul Tutrone|Tutrone, Paul]] | editor=[[Mike Marts|Marts, Mike]]| story=Black and White Chapter 1 "The Last Temptation of Joe Pushead" | title=[[Black Panther (comics)|Black Panther]] | volume=3 | issue=51 | date=January 2003 | publisher=[[Marvel Comics]] | location=[[New York, NY]] | page= | panel= }}</ref> Kasper does not succeed in taking down the gang, although he manages to expose a number of crooked cops. He has also struck a deal with his corrupt boss, who will help him take down 66 Bridges if Kasper locates his kidnapped son. This search is key to the final ''Black Panther'' story arc, "Ascension" (#59-62).
+Before the story arc concludes, it is revealed to the reader that 66 Bridges is in fact led by Kasper's father as Kibuka (a plotline that has been left unresolved) and that Triage is his half-brother.<ref name="BP55">{{Cite comic | writer=[[Christopher Priest (comics)|Priest, Christopher]] | penciller=[[Jim Calafiore|Calafiore, Jim]] | inker= [[Mark McKenna (comics)|McKenna, Mark]]| colorist=[[Jennifer Schellinger|Schellinger, Jennifer]] | letterer=[[Paul Tutrone|Tutrone, Paul]] | editor=[[Mike Marts|Marts, Mike]]| story=Black and White Chapter 1 "The Last Temptation of Joe Pushead" | title=[[Black Panther (comics)|Black Panther]] | volume=3 | issue=51 | date=January 2003 | publisher=[[Marvel Comics]] | location=[[New York, NY]] | page= | panel= }}</ref> Kasper does not succeed in taking down the gang, although he manages to expose a number of crooked cops. He has also struck a deal with his corrupt boss, who will help him take down 66 Bridges if Kasper locates his kidnapped son. This search is key to the final ''Black Panther'' story arc, "Ascension" (#59-62).
 
 In order to find the child, Kasper makes a deal with T'Challa's nemesis Erik Killmonger, the then rightful holder of the Black Panther mantle. Given a synthetic version of the herbs that grant the Black Panther his powers, Kasper gains the enhanced skills necessary to locate the child. The arc and the series concludes with Kasper becoming a White Tiger, a sort of acolyte to the Black Panther cult, although he remains in Harlem.
 
@@ -43,7 +44,7 @@ Kasper is later shown retired from the world of superheroics, now focusing on hi
 [[File:KasperCole.jpg|thumb|right|Kevin Cole (left) is a character of mixed heritage, African and Jewish. His appearance is light-skinned (especially in contrast to his father) and therefore he is nicknamed "Kasper". Panel from ''The Crew'' #2, art by [[Joe Bennett (artist)|Joe Bennett]].]]
 Kevin "Kasper" Cole is depicted as biracial, the child of an African man and a Jewish woman. As a result of the sharp contrast between his light skin and the dark skin of his father, he has been nicknamed Kasper, after [[Casper the Friendly Ghost]]. Aspects of his heritage and the colour of his skin are frequently referenced in ''Black Panther'' and ''The Crew''.
 
-Initially, Kasper Cole was to be modelled after actor [[Vin Diesel]], an idea suggested by artist [[Oscar Jimenez (comics)|Oscar Jimenez]].<ref name="Black&White" /> Language and culture barriers, as Priest describes it, precluded this suggestion from being properly translated to [[Jorge Lucas]], who ended up as the penciller of the ''Black Panther'' title.<ref name="Black&White" />
+Initially, Kasper Cole was to be modelled after actor [[Vin Diesel]], an idea suggested by artist [[Oscar Jimenez (comics)|Oscar Jimenez]].<ref name="Black&White" /> Language and culture barriers, as Priest describes it, precluded this suggestion from being properly translated to [[Jorge Lucas]], who ended up as the [[penciller]] of the ''Black Panther'' title.<ref name="Black&White" />
 
 ==Power and abilities==
 Kasper Cole was initially non-powered, wearing only the Black Panther's outfit for protection and carrying a pair of [[9×19mm]] pistols<ref name="Prologue">As can be read in the script for ''Black Panther'' #50. {{cite web |url= http://phonogram.us/comics/panther/bw/50.htm|title= digital-priest.com: The Black Panther: Black & White|author= Priest, Christopher|date= |work= |publisher= |accessdate=28 September 2010 |authorlink= Christopher Priest (comics)}}</ref> (later loaded with non-lethal gel bullets<ref name="Crew2">{{Cite comic| writer = [[Christopher Priest (comics)|Priest, Christopher]]| penciller = [[Joe Bennett (artist)|Bennett, Joe]]| inker = [[Crime Lab Studios]]| letterer = [[Ken Lopez|Lopez, Ken]]| colorist = [[Avalon Studios (comics company)|Avalon Studios]]| editor = [[Tom Brevoort|Brevoort, Tom]], (assistant editors) [[Marc Sumerak|Sumerak, Marc]] and [[Andy Schmidt|Schmidt, Andy]]| story = Big Trouble in Little Mogadishu Chapter Two: Kasper| title = The Crew| volume = 1| issue = 2| date = August 2003| publisher = [[Marvel Comics]]| location = [[New York, NY]]| page = | panel = | id =}}</ref>). Later on, after ingesting a synthetic version of the herbs that give the original Black Panther his powers, he possesses peak human physical strength, speed, reflexes and reactions, agility and durability, superhuman eyesight, and night vision.<ref name="Crew2" />
@@ -54,7 +55,7 @@ The suit Kasper wears as the Black Panther and later as the White Tiger is a [[v
 {{reflist}}
 
 ==External links==
-{{Portal|2000s|Fictional characters|Superhero fiction|Comics}}
+{{Portal|Speculative fiction|Comics}}
 * {{Marvelwiki|Cole,_Kasper|Kasper Cole}}
 * [http://worldofblackheroes.com/2011/06/02/kasper-cole-the-white-tiger/ World of Black Heroes: Kasper Cole Biography]
 * [http://phonogram.us/comics/crew/kasper.htm Digital Priest: White Tiger]
@@ -63,7 +64,6 @@ The suit Kasper wears as the Black Panther and later as the White Tiger is a [[v
 
 {{DEFAULTSORT:Cole, Kasper}}
 [[Category:African-American superheroes]]
-[[Category:African superheroes]]
 [[Category:Black Panther characters]]
 [[Category:Characters created by Christopher Priest]]
 [[Category:Comics characters introduced in 2002]]

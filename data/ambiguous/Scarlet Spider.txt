@@ -25,7 +25,7 @@ The first Scarlet Spider, Ben Reilly, is a clone of [[Spider-Man]] created by th
 
 ==Peter Parker==
 {{main|Spider-Man}}
-Peter Parker used the Scarlet Spider alias while Ben Reilly pretended to be the former in prison.{{Issue|date=August 2018}}
+Due to all of his Spider-Man costumes being ruined, Peter Parker was forced to used the Scarlet Spider identity to continue his superheroic activities, while Ben Reilly pretended to be the former in prison. Parker resumed being Spider-Man after [[Mary Jane Watson]] recreated the costume for him.{{Issue|date=August 2018}}
 
 ==Joe Wade==
 {{confusing|section|date=August 2018}}
@@ -41,7 +41,7 @@ The Scarlet Spiders, secretly all clones of a man named Michael Van Patrick, wor
 
 ==Kaine Parker==
 {{Main|Kaine Parker}}
-Kaine Parker, a clone of Spider-Man and created by the Jackal, adopts the Scarlet Spider alias. After Ben Reilly's resurrection, he now shares the name with him.
+Kaine Parker, a clone of Spider-Man created by the Jackal, adopts the Scarlet Spider alias. After Ben Reilly's resurrection, he now shares the name with him.
 
 ==Other versions==
 ===MC2===
@@ -55,7 +55,7 @@ The ''[[Spider-Gwen]]'' universe's [[Alternative versions of Mary Jane Watson#Sp
 
 ===Television===
 * The Ben Reilly version of Scarlet Spider appeared in the 1990s ''[[Spider-Man (1994 TV series)|Spider-Man]]'' TV series, voiced by [[Christopher Daniel Barnes]].
-* The Scarlet Spider alias appears in the ''[[Ultimate Spider-Man (TV series)|Ultimate Spider-Man]]'' cartoon series. The alias is used as [[Flash Thompson]]'s wannabe superhero identity in the third season ''Ultimate Spider-Man: Web-Warriors''. A hybrid of Ben Reilly and Kaine Parker appears in the fourth season ''Ultimate Spider-Man Vs The Sinister Six''.
+* The Scarlet Spider alias appears in the ''[[Ultimate Spider-Man (TV series)|Ultimate Spider-Man]]'' animated series. The alias is used as [[Flash Thompson]]'s wannabe superhero identity in the third season ''Ultimate Spider-Man: Web-Warriors''. A hybrid of Ben Reilly and Kaine Parker appears in the fourth season ''Ultimate Spider-Man Vs The Sinister Six''.
 
 ===Video games===
 * The Ben Reilly version of Scarlet Spider is an alternate costume design for Spider-Man (Peter Parker) in the 2000 ''[[Spider-Man (2000 video game)|Spider-Man]]'' video game and ''[[Spider-Man 2: Enter Electro]]'', ''[[Marvel: Ultimate Alliance]]'', ''[[Spider-Man: Shattered Dimensions]]'', ''[[Ultimate Marvel vs. Capcom 3]]'' and ''[[Spider-Man: Edge of Time]]''.
@@ -73,11 +73,13 @@ The ''[[Spider-Gwen]]'' universe's [[Alternative versions of Mary Jane Watson#Sp
 
 ==References==
 {{Reflist|2}}
+
 {{Spider-Man characters}}
 {{Spider-Man}}
 {{Goblin (Marvel Comics)}}
+
+[[Category:Articles about multiple fictional characters]]
 [[Category:Fictional secret agents and spies]]
 [[Category:Marvel Comics superheroes]]
 [[Category:Fictional clones]]
 [[Category:Spider-Man characters code names]]
-[[Category:Comics about spiders]]

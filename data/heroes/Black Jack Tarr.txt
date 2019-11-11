@@ -22,7 +22,7 @@ image=
 ==Fictional character biography==
 Tarr served with distinction in the British army, and accepted a position with the [[British Foreign Service]] after his discharge from the military. Sometime later, he became an agent for the British intelligence agency, [[MI6|MI-6]]. Eventually, he was assigned to the command of Sir Denis Nayland Smith of [[Scotland Yard]].
 
-While serving with Smith, Tarr came into contact with [[Shang-Chi]] and the small band of adventurers fighting a covert war against the criminal mastermind Dr. [[Fu Manchu]].{{Issue|date=September 2009}} This group includes Leiko Wu and Clive Reston <ref>''[[Master of Kung Fu (comics)|Giant-Size Master of Kung Fu]]'' #3 (1974)</ref> who would become two of his closest friends. Tarr joins them in their fight, confronting Fu Manchu's forces multiple times in many spots around the world.{{Issue|date=September 2009}} Manchu's forces were legion, including many different cults that sometimes worked together. In one such incident, Tarr and Shang-Chi, cornered by multiple cults, worked together to stun an alligator and throw it at their enemies, gaining them a moment needed to escape.{{Issue|date=September 2009}}
+While serving with Smith, Tarr came into contact with [[Shang-Chi]] and the small band of adventurers fighting a covert war against the criminal mastermind Dr. [[Fu Manchu (comics)|Fu Manchu]].{{Issue|date=September 2009}} This group includes Leiko Wu and [[Clive Reston]] <ref>''[[Master of Kung Fu (comics)|Giant-Size Master of Kung Fu]]'' #3 (1974)</ref> who would become two of his closest friends. Tarr joins them in their fight, confronting Fu Manchu's forces multiple times in many spots around the world.{{Issue|date=September 2009}} Manchu's forces were legion, including many different cults that sometimes worked together. In one such incident, Tarr and Shang-Chi, cornered by multiple cults, worked together to stun an alligator and throw it at their enemies, gaining them a moment needed to escape.{{Issue|date=September 2009}}
 
 Tarr is personally targeted by [[Brynocki]], an insane android ruler of a small island. This is part of a plan to gain access to Wu, whom Brynocki had fallen in love with.<ref>''Masters of Kung Fu'' #72-75</ref>
 
@@ -41,13 +41,16 @@ Tarr's group comes under attack by [[Count of St Germain|Comte de Saint Germain]
 ===Back at MI6===
 Sometime later, he rejoins MI6 as an agent and close confidant of Sir Clive Reston.{{Issue|date=September 2009}} Together, they lead MI6 in attempting to prevent an otherdimensional Martian invasion of Britain while trying to keep the situation hidden from rival organisation [[MI-13 (Marvel Comics)|MI-13]] - both Tarr and Reston believe that the organisation, lacking history, would simply collapse and fail like previous "weird happenings organisations". However, keeping MI-13 in the dark ''led'' to the Martian invasion and Tarr & Reston have to help [[Pete Wisdom]] to stop it.{{Issue|date=September 2009}}
 
+===''Marvel NOW!''===
+Tarr has been promoted as the director of MI-6.  After Leiko is murdered in London's [[Chinatown, London|Chinatown]] while on an undercover mission to infiltrate the [[Triad (organized crime)|triads]], Tarr reunites with his old ally Shang-Chi, who has come to London to investigate his former lover's death.  Although Tarr tells Shang of Leiko's darker change in demeanor, he lets him continue with his investigation.  It is later revealed that Tarr and MI-6 are discretely monitoring Shang-Chi's activities.  Tarr tips off Lin Sun to Shang-Chi's location when he and the [[Sons of the Tiger]] arrive in London to help their friend and the [[Daughters of the Dragon]].  After [[Midnight Sun (Marvel Comics)|Midnight Sun]]'s ritual with the Mao Shan Pai causes a citywide electrical interference, MI-6 tracks the energy source to [[White_Dragon_(comics)#White_Dragon_II|White Dragon]]'s estate outside London, where Tarr deduces Shang-Chi is.  Tarr and his men storm the estate; the recently resurrected Leiko escapes while White Dragon's men are arrested.  After explaining the situation to him, Shang-Chi takes up Tarr's offer for a drink.<ref>''The Deadly Hands of Kung Fu'' Vol 2 #1-4</ref>
+
 ==Other versions==
 
 ===Ultimate Marvel===
 In the [[Ultimate Marvel]] setting, Jack Tarr appears in ''Ultimate Human'' #3, written by Warren Ellis, as the head of MI6's Special Section, a group of four covert agents reporting directly to the Director of Operations, [[Pete Wisdom#Ultimate Peter Wisdom|Peter Wisdom]]. Tarr refuses to kill the Deputy Head of MI6 on Wisdom's orders, and convinces his superior that no-one else will do it either. One of Tarr's men is James Larner, who in the [[Marvel Universe]] is similarly an MI6 agent associated with [[Shang-Chi]].<ref>"Ultimate Human" #3</ref>
 
 ==References==
-<references/>
+{{reflist}}
 
 {{Shang-Chi}}
 {{Jim Starlin}}
@@ -56,3 +59,4 @@ In the [[Ultimate Marvel]] setting, Jack Tarr appears in ''Ultimate Human'' #3, 
 [[Category:Characters created by Steve Englehart]]
 [[Category:Comics characters introduced in 1973]]
 [[Category:Marvel Comics superheroes]]
+[[Category:Shang-Chi characters]]

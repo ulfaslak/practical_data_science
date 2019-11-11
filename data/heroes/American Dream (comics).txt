@@ -6,6 +6,7 @@ image=American Dream (Shannon Carter).png
 |real_name=Shannon Carter
 |publisher=[[Marvel Comics]]
 |debut=''[[A-Next]]'' #4 (January [[1999 in comics|1999]])
+|homeworld=[[Marvel Comics 2]] (Earth-982)
 |creators=[[Tom DeFalco]]<br>[[Brent Anderson]]
 |alliances=[[A-Next]]<br>[[Dream Team (comics)|Dream Team]]
 |aliases=
@@ -31,7 +32,7 @@ Although a non-powered human, American Dream is in peak physical condition and i
 
 ===Video games===
 * American Dream is a playable character in ''[[Marvel Super Hero Squad Online]]'', voiced by [[Tara Strong]].
-* American Dream is a female variant enhanced costume for Captain America (Steve Rogers) in ''[[Marvel Heroes (video game)|Marvel Heroes]]'', voiced by [[Melissa Disney]].{{citation needed|date=June 2018}}
+* American Dream is a female variant enhanced costume for Captain America (Steve Rogers) in ''[[Marvel Heroes (video game)|Marvel Heroes]]'', voiced by [[Melissa Disney]].<ref>{{cite web |title=Press Release: Playable Ultron, Captain America's Newest Comics Costume and More in ‘Marvel Heroes 2016’ |url=https://www.gamasutra.com/view/pressreleases/276188/Playable_Ultron_Captain_Americas_Newest_Comics_Costume_andMore_in_lsquoMarvel_Heroes_2016rsquo.php |accessdate=1 July 2016 |date=30 June 2016}}</ref>
 
 ==Reception==
 {{section-stub|date=June 2018}}
@@ -65,3 +66,4 @@ The first issue of the mini-series sold out.<ref>[http://www.comicsbulletin.com/
 [[Category:Characters created by Tom DeFalco]]
 [[Category:Comics characters introduced in 1999]]
 [[Category:United States-themed superheroes]]
+[[Category:Marvel Comics female superheroes]]

@@ -17,7 +17,7 @@
 |aliases=El Hombre que Desaparece
 |powers={{bulleted list|[[Teleportation]]|Use of guns that fire gas or energy beams}}
 }}
-The '''Vanisher''' ({{a.k.a.}} '''Telford Porter''') is a [[fictional character]] and [[Mutant (Marvel Comics)|mutant]] [[supervillain]] appearing in [[American comic book]]s published by [[Marvel Comics]]. The Vanisher's primary ability is teleportation. He is usually depicted as an opponent of the [[X-Men]]. The character was created by [[Stan Lee]] and [[Jack Kirby]], and first appeared in ''[[Uncanny X-Men|The X-Men]]'' #2 (November 1963).
+The '''Vanisher''' ('''Telford Porter''') is a [[fictional character]] and [[Mutant (Marvel Comics)|mutant]] [[supervillain]] appearing in [[American comic book]]s published by [[Marvel Comics]]. The Vanisher's primary ability is teleportation. He is usually depicted as an opponent of the [[X-Men]]. The character was created by [[Stan Lee]] and [[Jack Kirby]], and first appeared in ''[[Uncanny X-Men|The X-Men]]'' #2 (November 1963).
 
 The character was portrayed by [[Brad Pitt]] in ''[[Deadpool 2]]''.<ref>{{Cite news|url=https://www.hollywoodreporter.com/heat-vision/deadpool-2-brad-pitt-cameo-as-vanisher-explained-1112660|title=How 'Deadpool 2' Landed a Cameo From the "Hardest Get in Hollywood"|work=The Hollywood Reporter|access-date=2018-10-20|language=en}}</ref><ref>{{Cite news|url=https://www.imdb.com/title/tt5463162/fullcredits?ref_=tt_cl_sm#cast|title=IMDB Cast List for Deadpool 2|work=IMDB|access-date=2018-12-05|language=en}}</ref>
 
@@ -73,7 +73,7 @@ The Vanisher has used guns which shoot gas or energy beams. He also once reprogr
 In the dark reality known as [[Age of Apocalypse]], the Vanisher was part of Apocalypse's supremacist rulership. He was ordered to retrieve Magneto's child while Apocalypse kept the X-Men's leader busy. The Vanisher was able to locate Charles Lensherr in the Morlock Tunnels, but he was in the possession of the robotic French maid Nanny who killed the Vanisher to protect the baby Charles.<ref>''Amazing X-Men'' #3 (May 1995)</ref>
 
 ===House of M===
-In the "[[House of M]]" reality, the Vanisher works with [[Pyro (Marvel Comics)|Pyro]] under the authority of [[Exodus (comics)|Exodus]] as part of the mutant supremacist rulership of Australia. They are opposed by the [[Hulk (comics)|Hulk]] who is mad that his native friends have been harassed.<ref>''Incredible Hulk'' vol. 3, #83-85</ref>
+In the "[[House of M]]" reality, the Vanisher works with [[Pyro (Marvel Comics)|Pyro]] under the authority of [[Exodus (comics)|Exodus]] as part of the mutant supremacist rulership of Australia. They are opposed by the [[Hulk]] who is mad that his native friends have been harassed.<ref>''Incredible Hulk'' vol. 3, #83-85</ref>
 
 ===Exiles===
 An alternate reality Vanisher appeared in [[Exiles (Marvel Comics)|Exiles]] and demonstrated the ability to teleport from the Earth to a station in space.<ref>''Exiles'' vol. 1 #39–40</ref>
@@ -83,13 +83,13 @@ In the [[Ultimate Marvel]] universe, the Vanisher is a member of the Brotherhood
 
 ==In other media==
 ===Television===
-* The Vanisher appears in ''[[Wolverine and the X-Men (TV series)|Wolverine and the X-Men]]'', voiced by [[Steven Blum]]. He is a member of Professor Xavier's future X-Men team. In his first appearance, he assists {{proper name|Berzerker}} in springing the Professor and other mutants from a Mutant Response Division camp. Later, he aids in the retrieval of [[Master Mold]]'s data core from a Sentinel holding facility. In the present, the Vanisher is shown to be an inmate in a Genoshan holding cell. The Vanisher speaks to [[Gambit (comics)|Gambit]] about how long he was going to be in the holding cells on Genosha.
+* The Vanisher appears in ''[[Wolverine and the X-Men (TV series)|Wolverine and the X-Men]]'', voiced by [[Steve Blum]].{{cn|date=March 2019}} He is a member of Professor Xavier's future X-Men team. In his first appearance, he assists {{proper name|Berzerker}} in springing the Professor and other mutants from a Mutant Response Division camp. Later, he aids in the retrieval of [[Master Mold]]'s data core from a Sentinel holding facility. In the present, the Vanisher is shown to be an inmate in a Genoshan holding cell. The Vanisher speaks to [[Gambit (comics)|Gambit]] about how long he was going to be in the holding cells on Genosha.
 
 ===Film===
 * The Vanisher appears in ''[[Deadpool 2]]'', portrayed by [[Brad Pitt]] in a cameo role.<ref name="rt">{{cite web|url=http://www.radiotimes.com/news/film/2018-05-17/how-deadpool-2-pulled-off-that-massive-hollywood-cameo/|title=How Deadpool 2 pulled off THAT massive Hollywood cameo|last=Fullerton|first=Huw|date=17 May 2018|website=[[Radio Times]]|accessdate=17 May 2018}}</ref> An X-Force member, he has the power of invisibility, rather than teleportation, and is invisible for nearly the entirety of his role in the film, save for at the moment of his death by electrocution when he parachutes into electrical wires.<ref>{{cite web|title=Yes, [SPOILER] Was Actually in Deadpool 2|url=http://in.ign.com/deadpool-2/122953/feature/yes-spoiler-was-actually-in-deadpool-2|website=[[IGN]]|accessdate=29 May 2018|date=18 May 2018}}</ref>
 
 ===Video games===
-* The Vanisher appears in ''[[Spider-Man: Web of Fire]]''.{{citation needed|date=May 2016}} He can be seen along with the New Enforcers.
+* The Vanisher appears in ''[[The Amazing Spider-Man: Web of Fire]]''.{{citation needed|date=May 2016}} He can be seen along with the New Enforcers.
 
 ==References==
 {{reflist}}
@@ -101,6 +101,7 @@ In the [[Ultimate Marvel]] universe, the Vanisher is a member of the Brotherhood
 {{X-Men}}
 {{Jack Kirby}}
 {{Stan Lee}}
+
 [[Category:Characters created by Jack Kirby]]
 [[Category:Characters created by Stan Lee]]
 [[Category:Comics characters introduced in 1963]]

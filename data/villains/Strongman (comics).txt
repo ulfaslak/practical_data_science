@@ -1,7 +1,8 @@
+{{short description|Fictional comic book characters}}
 The '''Strongman''' is the name of three different fictional characters appearing in [[American comic book]]s published by [[Marvel Comics]].
 
 ==Publication history==
-The Bruce Olafson version of Strongman first appeared in ''[[Hulk (comics)|Incredible Hulk]]'' #3 (September 1962), and was created by [[Stan Lee]] and [[Steve Ditko]]. The character subsequently appears in ''The Amazing Spider-Man'' #16 (September 1964), ''The Avengers'' #22 (November 1965), ''Thor'' #145 (October 1967), ''Ghost Rider'' #72-73 (September–October 1982), ''The Sensational She-Hulk'' #1 (May 1989), and ''X-Men and Power Pack'' #3 (February 2006). The Strongman appeared as part of the "Circus of Crime" entry in the ''[[Official Handbook of the Marvel Universe|Official Handbook of the Marvel Universe Deluxe Edition]]'' #2.
+The Bruce Olafson version of Strongman first appeared in ''[[The Incredible Hulk (comic book)|Incredible Hulk]]'' #3 (September 1962), and was created by [[Stan Lee]] and [[Steve Ditko]]. The character subsequently appears in ''The Amazing Spider-Man'' #16 (September 1964), ''The Avengers'' #22 (November 1965), ''Thor'' #145 (October 1967), ''Ghost Rider'' #72-73 (September–October 1982), ''The Sensational She-Hulk'' #1 (May 1989), and ''X-Men and Power Pack'' #3 (February 2006). The Strongman appeared as part of the "Circus of Crime" entry in the ''[[Official Handbook of the Marvel Universe|Official Handbook of the Marvel Universe Deluxe Edition]]'' #2.
 
 ==Fictional character biography==
 ===Bruce Olafsen===
@@ -12,18 +13,18 @@ image=
 |real_name=Bruce Olafsen
 |species=
 |publisher=[[Marvel Comics]]
-|debut=''[[Hulk (comics)|Incredible Hulk]]'' #3 (Sep 1962)
+|debut=''[[The Incredible Hulk (comic book)|Incredible Hulk]]'' #3 (Sep 1962)
 |creators=[[Stan Lee]]<br>[[Steve Ditko]]
 |alliances=[[Circus of Crime]]
 |aliases=Bruto
 |powers=Skilled wrestler
 }}
 
-Bruce Olafsen was born in [[Stockholm, Sweden]], but later came to the [[United States]] and became a naturalized American citizen. As a longtime member of the criminal organization [[Circus of Crime]], Bruto the Strongman works as a circus strongman and weight-lifter. He has particularly strong biceps and teeth. Bruto the Strongman first assisted the Circus of Crime to rob the people that attended the circus and were hypnotized by [[Ringmaster (comics)|Ringmaster]] with one of the attendees being [[Rick Jones (comics)|Rick Jones]]. When [[Hulk (comics)|Hulk]] came bursting through the tent, Strongman and the rest of the Circus of Crime attacked Hulk where Ringmaster manages to hypnotize Hulk in order to be part of his next circus act. The next day, Hulk manages to break free from Ringmaster's control and defeat the Circus of Crime before leaving with Rick upon the arrival of [[Thunderbolt Ross]]' army.<ref>''Incredible Hulk'' #3</ref>
+Bruce Olafsen was born in [[Stockholm, Sweden]], but later came to the [[United States]] and became a naturalized American citizen. As a longtime member of the criminal organization [[Circus of Crime]], Bruto the Strongman works as a circus strongman and weight-lifter. He has particularly strong biceps and teeth. Bruto the Strongman first assisted the Circus of Crime to rob the people that attended the circus and were hypnotized by [[Ringmaster (comics)|Ringmaster]] with one of the attendees being [[Rick Jones (comics)|Rick Jones]]. When [[Hulk]] came bursting through the tent, Strongman and the rest of the Circus of Crime attacked Hulk where Ringmaster manages to hypnotize Hulk in order to be part of his next circus act. The next day, Hulk manages to break free from Ringmaster's control and defeat the Circus of Crime before leaving with Rick upon the arrival of [[Thunderbolt Ross]]' army.<ref>''Incredible Hulk'' #3</ref>
 
 Strongman was later seen with Ringmaster when he has hypnotized [[Daredevil (Marvel Comics character)|Daredevil]] into serving him. Spider-Man manages to break Daredevil free of the hypnosis as they both defeat the Circus of Crime.<ref>''Amazing Spider-Man'' #16</ref>
 
-Strongman was seen at the Circus of Crime when [[Hawkeye (comics)|Hawkeye]], [[Quicksilver (comics)|Quicksilver]], and [[Scarlet Witch]] wanted to join the circus where they were unaware that it was a cover for the Circus of Crime. Strongman joins the Circus of Crime into fleeing when they claimed that the three superheroes were trying to rob their circus.<ref>''Avengers'' #22</ref>
+Strongman was seen at the Circus of Crime when [[Hawkeye (Clint Barton)|Hawkeye]], [[Quicksilver (comics)|Quicksilver]], and [[Scarlet Witch]] wanted to join the circus where they were unaware that it was a cover for the Circus of Crime. Strongman joins the Circus of Crime into fleeing when they claimed that the three superheroes were trying to rob their circus.<ref>''Avengers'' #22</ref>
 
 When Strongman is laid out upon straining himself upon trying to lift an [[elephant]], Ringmaster had to hold auditions for a temporary strongman to cover for Strongman.<ref>''Thor'' #145</ref>
 
@@ -63,6 +64,7 @@ The drug that Percy van Norton took gave him superhuman strength, dexterity, sta
 * [http://marvel.com/universe/Strong_Man_%28Bruce_Olafsen%29 Strongman] at Marvel.com
 * [http://marvel.wikia.com/Bruce_Olafsen_%28Earth-616%29 Strongman] at Marvel Wiki
 {{Stan Lee}}
+
 [[Category:Characters created by Stan Lee]]
 [[Category:Characters created by Steve Ditko]]
 [[Category:Comics characters introduced in 1962]]

@@ -1,5 +1,4 @@
 {{distinguish|Star Fox}}
-{{lead too short|date=January 2016}}
 {{Infobox comics character| <!--Wikipedia:WikiProject Comics-->
 image=Starfox Thanos Vol 2 7.png
 |caption=Starfox in ''Thanos'' vol. 2, #7 (July 2017)<br>Art by Mike Deodato Jr. and Frank Martin
@@ -8,16 +7,18 @@ image=Starfox Thanos Vol 2 7.png
 |publisher=[[Marvel Comics]]
 |debut=''[[Iron Man (comic book)|Iron Man]]'' #55 (February 1973)
 |creators=[[Jim Starlin]] (writer / artist)
-|alliances=[[Eternals (comics)|Eternals]]<br/>[[Avengers (comics)|Avengers]]
+|species=[[Eternals (comics)|Titanian]]
+|homeworld=[[Titan (Marvel Comics location)|Titan]]
+|alliances=[[Eternals (comics)|Eternals]]<br/>[[Avengers (comics)|Avengers]]<br>Dark Guardians
 |powers=*Superhuman strength, agility, durability, and longevity
 *Flight
 *Psychic control over the emotions of others
 }}
-'''Starfox''' ('''Eros of Titan''') is a fictional [[superhero]] appearing in [[American comic book]]s published by [[Marvel Comics]]. He has operated as a member of the [[Avengers (comics)|Avengers]] and is one of the Eternals of Titan where he is the son of [[Mentor (A'lars)|Mentor]]. Where Eros serves as the superhero Starfox, he is opposed by his mad brother [[Thanos]], much like the rest of the universe.
+'''Starfox''' ('''Eros of Titan''') is a fictional [[superhero]] appearing in [[American comic book]]s published by [[Marvel Comics]]. He first appeared in ''[[Iron Man (comic book)|Iron Man]]'' #55 (February 1973), created by [[Mike Friedrich]] and [[Jim Starlin]]. He is depicted as a member of a human offshoot race known as the [[Eternals (comics)|Eternals]]. He was born on [[Titan (Marvel Comics location)|Titan]] where he is the son of [[Mentor (A'lars)|Mentor]]. Where Eros serves as the superhero Starfox, he is opposed by his mad brother [[Thanos]], much like the rest of the universe. He has the power to psychically control other people's emotions. He was a member of the [[Avengers (comics)|Avengers]] and Dark Guardians.
 
 ==Publication history==
 {{Expand section|date=April 2010}}
-Starfox first appeared in ''[[Iron Man (comic book)|Iron Man]]'' #55 (February 1973), scripted by [[Mike Friedrich]] with story and illustration by [[Jim Starlin]].
+Starfox first appeared in ''[[Iron Man (comic book)|Iron Man]]'' #55 (February 1973), which was scripted by [[Mike Friedrich]] with story and illustration by [[Jim Starlin]].
 
 ==Fictional character biography==
 Eros is a member of the [[Eternals (comics)|Eternals]], a genetic offshoot of humanity, that left for deep space from Earth thousands of years ago and settled on [[Saturn]]'s moon of [[Titan (Marvel Comics location)|Titan]]. Eros is the youngest son of [[Mentor (A'lars)|A'lars]] (also known as Mentor) and [[Sui-San]], and he grew up on Titan to be a fun-loving, carefree womanizer and adventurer in contrast to his brother [[Thanos]], a power-hungry, nihilistic conqueror. Only when Thanos launched his first major attack on Titan did Eros begin to take life a bit more seriously.
@@ -45,14 +46,17 @@ Thanos now appeared at the trial, and testified that his brother Starfox inspire
 ===Return===
 Starfox is later seen living on Titan again, with his abilities restored. He is shown flirting with a number of women, but states that he will not use his powers to woo them. [[Ultron]] soon attacks Titan and assimilates the entire population (including Mentor) via a robotic virus, transforming the moon into Planet Ultron. Starfox flees to Earth and meets with the current team of Avengers (now led by the new [[Falcon (comics)|Captain America]]), and teams up with them to liberate his world. He plays a key role in the Avengers' victory, using his powers on the half-organic Ultron to force the villain to have an emotional breakdown.<ref>''Avengers: Rage of Ultron''</ref>
 
+===Forming the Dark Guardians===
+In the aftermath of the "[[Infinity Wars]]" storyline, Starfox was present at Thanos' funeral. He shows all the guests a recording of Thanos stating that he uploaded his consciousness in a new body before his death. The funeral is attacked by the [[Black Order (comics)|Black Order]], who steals Thanos's body and rip open a hole in space, sending everyone into the rip.<ref>''Guardians of the Galaxy'' Vol. 5 #1. Marvel Comics.</ref> Everyone is saved by the arrival of [[Gladiator (Kallark)|Gladiator]] and the [[Shi'ar]] Empire. Starfox begins to recruit warriors to find Gamora, the most likely candidate to be Thanos's new body, as they form the Dark Guardians, which causes [[Cosmic Ghost Rider]] to side with them. Wraith brings up the issue of the Black Order, but Starfox assures they are searching for them, and Nebula states that the team should track down Nova to find Gamora's location.<ref>''Guardians of the Galaxy'' Vol. 5 #2. Marvel Comics.</ref> The Dark Guardians find Nova and ambush him, wounding him enough to crash land onto a planet. Wraith demands Nova to tell Gamora's location, stating the fact he doesn't want to harm him if doesn't have to. When Gladiator and Cosmic Ghost Rider order him to back off, Nova takes the chance to fly off, but the team plans to track him down again.<ref>''Guardians of the Galaxy'' Vol. 5 #3. Marvel Comics.</ref>
+
 ==Powers and abilities==
-Starfox is a member of the long-lived offshoot of humanity known as the [[Eternals (comics)|Eternals]].  His body has been enhanced by cosmic energy to the point that it ages far more slowly than most humanoids and is superhumanly strong and resistant to harm and immune to terrestrial diseases. He can withstand impacts, such as falling from several stories or being repeatedly struck with superhuman force, that would severely injure or kill an ordinary human being with little to no injury to himself. However, he is far from invulnerable and can be injured by weapons, such as bullets or knives, composed of conventional materials. His overall resistance to injury is somewhat lower than that of the average Eternal but, like any Eternal, he possesses exceptional healing capabilities. He can harness his cosmic powers to enable himself to fly at subsonic speed. Through the gravimetric potential of his body, which is related to his ability to fly, a tiny shell of air constantly clings to his body.  While he needs to breathe like an ordinary human being, he has a reduced need for oxygen allowing him to survive travel through both open space and underwater unaided.<ref name="Avengers #232"/>
+Starfox is a member of the long-lived offshoot of humanity known as the [[Eternals (comics)|Eternals]].  His body has been enhanced by cosmic energy to the point that it ages far more slowly than most humanoids and is superhumanly strong and resistant to harm and immune to terrestrial diseases. He can withstand impacts, such as falling from several stories or being repeatedly struck with superhuman force, that would severely injure or kill an ordinary human being with little to no injury to himself. However, he is far from invulnerable and can be injured by weapons, such as bullets or knives, composed of conventional materials. His overall resistance to injury is somewhat lower than that of the average Eternal but, like any Eternal, he possesses exceptional healing capabilities. He can harness his cosmic powers to enable himself to fly at supersonic speed. Through the gravimetric potential of his body, which is related to his ability to fly, a tiny shell of air constantly clings to his body.  While he needs to breathe like an ordinary human being, he has a reduced need for oxygen allowing him to survive travel through both open space and underwater unaided.<ref name="Avengers #232"/>
 
 Starfox can psionically stimulate the pleasure centers in nearby people's brains, making them calm and open to suggestion using his persuasion skill. It has been suggested that when in physical contact, and there is direct line of sight between the subject and the target, Starfox can use this euphoria effect to cause a person or persons to become infatuated with him, objects, or people of his choosing or simply to make others feel good while in his presence. Notably, the euphoria power does not work on his brother Thanos. His psionic powers are possessed to some degree by all Eternals, but he developed them in his own unique manner. Starfox's mental powers do not work on beings whose brains do not have pleasure centers. These powers were later shut off at Eros' request to prevent them from being abused.
 
 In the series ''Captain Marvel'', Starfox also showed the ability to manipulate gravity, simulating [[psychokinesis]].  Starfox has limited mastery of 500 extraterrestrial languages.
 
-Though an Eternal, Starfox isn't as powerful as his Earthborn cousins because the original Titanian Eternals separated from their Earth brethren before [[Kronos (comics)|Kronos]]' experiments augmented the Eternals' energies.  Starfox, at least, can join an existing [[Uni-Mind]] with the other Eternals,<ref>''Avengers'' #247</ref> even though Titanian Eternals have thus far proven unable to form their own.
+Though an Eternal, Starfox isn't as powerful as his Earthborn cousins because the original Titanian Eternals separated from their Earth brethren before [[Kronos (comics)|Kronos]]' experiments augmented the Eternals' energies.  Starfox, at least, can join an existing [[Uni-Mind]] with the other Eternals,<ref>''Avengers'' #247</ref> even though Titanian Eternals have thus far proven to be unable to form their own.{{issue|date=June 2019}}
 
 ==Other versions==
 ===Marvel Zombies===
@@ -71,7 +75,7 @@ A zombified Starfox appears in ''Marvel Zombies vs. The Army Of Darkness'', alon
 
 {{Jim Starlin}}
 {{Eternals}}
-{{Captain Marvel}}
+{{Captain Marvel (Marvel Comics)}}
 {{Thanos}}
 
 {{DEFAULTSORT:Starfox (Comics)}}

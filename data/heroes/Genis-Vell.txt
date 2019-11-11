@@ -10,6 +10,7 @@
 |debut          = '''as Legacy:'''<br />''[[Silver Surfer]]'' Annual #6 (October 1993)<br>'''as Captain Marvel:'''<br />''[[Captain Marvel (Marvel Comics)|Captain Marvel]]'' Vol.3 #1 (December 1995)<br>'''as Photon:'''<br />''[[New Thunderbolts]]'' #6 (May 2005)
 |creators       = [[Ron Marz]]<br>[[Ron Lim]]
 |alliances      = [[Kree|Kree Space Navy]]<br/>[[Thunderbolts (comics)|Thunderbolts]]
+|species= [[Kree]]–[[Eternals (comics)|Titanian]] hybrid
 |aliases        = Legacy, [[Captain Marvel (Marvel Comics)|Captain Marvel]], [[Photon (comics)|Photon]] 
 |powers         = Flight,
 Super strength, speed, stamina, durability,
@@ -30,9 +31,9 @@ Genis-Vell first appeared in ''[[Silver Surfer]] Annual'' #6 (1993) using the co
 
 Legacy appeared in ''[[Avengers Unplugged]]'' #5 (June 1996). After a single appearance in ''Silver Surfer'' later that year Genis-Vell wouldn't appear for another two years, when he was included in a new [[Warlock (comics)|Warlock]] title for four issues. An appearance in the ''[[Avengers Forever]]'' miniseries led to a second ''Captain Marvel'' series featuring Genis-Vell debuting in late 1999. The series would last for 35 issues, until October 2002.
 
-In 2002 Marvel launched the [[U-Decide]] campaign in an attempt to bolster sales on several comics. ''Captain Marvel'' was canceled, with a new series relaunched with a new debut issue, with [[Peter David]], continuing as writer, taking the book's storyline in a new direction. ''Captain Marvel'' vol. 5 was canceled with issue #25 in 2004 due to low sales. 
+In 2002 Marvel launched the [[U-Decide]] campaign in an attempt to bolster sales on several comics. ''Captain Marvel'' was canceled, with a new series relaunched with a new debut issue, with [[Peter David]], continuing as writer, taking the book's storyline in a new direction. ''Captain Marvel'' vol. 5 was canceled with issue #25 in 2004 due to low sales.<ref>{{cite web|url=https://www.cbr.com/one-week-until-marvels-u-decide-challenge-quesada-on-the-ideas-behind-the-stunt/|title=One Week Until Marvel's 'U-Decide' Challenge: Quesada on the Ideas Behind the Stunt|last=Yarbrough|first=Beau|website=[[Comic Book Resources]]|date=September 12, 2002|accessdate=June 6, 2019|archiveurl=https://web.archive.org/web/20170724180935/http://www.cbr.com/one-week-until-marvels-u-decide-challenge-quesada-on-the-ideas-behind-the-stunt/|archivedate=July 24, 2017}}</ref><ref>{{cite web|url=https://www.avclub.com/with-great-power-comes-a-bizarre-lack-of-responsibility-1798284127|title=With great power comes a bizarre lack of responsibility case file #44: Marville|last=Rabin|first=Nathan|website=[[The A.V. Club]]|date=September 10, 2015|accessdate=June 6, 2019|archiveurl=https://web.archive.org/web/20190223185936/https://www.avclub.com/with-great-power-comes-a-bizarre-lack-of-responsibility-1798284127|archivedate=February 23, 2019}}</ref>
 
-Genis-Vell joined the [[Thunderbolts (comics)|Thunderbolts]] in issue #82 and was killed by Baron Helmut Zemo in issue #100 (vol 1) (May 2006).
+Genis-Vell joined the [[Thunderbolts (comics)|Thunderbolts]] in issue #82 and was killed by Baron Helmut Zemo in issue #100 (vol 1) (May 2006).<ref>{{cite web|url=https://www.newsarama.com/28975-marvel-promises-a-long-awaited-return.html|title=Marvel Promises 'A Long Awaited Return...'|last=Marston|first=George|publisher=[[Newsarama]]|date=April 22, 2016|accessdate=June 6, 2019|archiveurl=https://web.archive.org/web/20160925091407/http://www.newsarama.com/28975-marvel-promises-a-long-awaited-return.html|archivedate=September 25, 2016}}</ref>
 
 ==Fictional character biography==
 
@@ -56,7 +57,7 @@ Whereas Mar-Vell and Rick formed a strong friendship during their time together,
 ===Insanity===
 Genis' inability to control his [[omniscience|Cosmic Awareness]] results in insanity. After a string of irrational adventures, Genis destroys the multiverse at the behest of Entropy and Epiphany. The multiverse is recreated with a [[Last Thursdayism]] effect on the universe's population, although with several alterations. No one remembers Genis' insanity, and he has an adult sister named [[Phyla-Vell]]. Although he swears to do good throughout the universe, a hallucination of Epiphany tells him that he is still insane.<ref>''Captain Marvel'' vol 4 #1-19</ref>
 
-Genis sets up an office for his superhero activities on [[Hyperion (moon)|Hyperion]]. Phyla arrives to mock his efforts, but they are interrupted when a future version of Marlo attacks them. Genis travels through time to find out why Marlo became a villain, and hopefully prevent it. Genis learns that his son (who has not yet been born in Genis' timeline) is evil and plans to use both Marlo and Genis to trigger a near-universal extinction event.  Unable to overcome his son in battle, Genis defeats him by choosing to kill his son as an infant (an event still in his future), but faced with his infant son, he instead resolves to simply not have any children. By making the decision, his adult son fades away. Genis returns to the present, suffering great anguish from his choice.<ref>''Captain Marvel'' vol 5 #20-24</ref>
+Genis sets up an office for his superhero activities on [[Hyperion (moon)|Hyperion]]. Phyla arrives to mock his efforts, but they are interrupted when a future version of Marlo attacks them. Genis travels through time to find out why Marlo became a villain, and hopefully prevent it. Genis learns that his son '''Ely-Vell''' (who has not yet been born in Genis' timeline) is evil and plans to use both Marlo and Genis to trigger a near-universal extinction event.  Unable to overcome his son in battle, Genis defeats Ely by choosing to kill him as an infant (an event still in his future), but faced with his infant son, he instead resolves to simply not have any children. By making the decision, his adult son fades away. Genis returns to the present, suffering great anguish from his choice.<ref>''Captain Marvel'' vol 5 #20-24</ref>
  
 Genis was separated from Rick by the cosmic entity Expediency.<ref>''Captain Marvel'' vol 5 #25</ref>
 
@@ -66,7 +67,7 @@ Genis travels to Earth and joins the [[Thunderbolts (comics)|Thunderbolts]].<ref
 
 Genis' subsequent adoption of the name "Photon" causes him to quarrel with [[Monica Rambeau]], who had also called herself "Photon" and "Captain Marvel." In the end, Genis is allowed to use the name "Photon" and Monica decides to use the codename "Pulsar".<ref>''Thunderbolts'' #90</ref>
 
-However, Zemo realises that his mistake of siphoning energy from the beginning and end of time created a link between Genis and the universe that threatens to end existence. Zemo explores all future timelines with the moonstones, but fails to find a way to save both Genis and the universe: In every possible future timeline, Genis destroys the universe. Genis is aware of this, but keeps trying to tune his cosmic awareness in order to find a way to prevent this from happening. Finally, in a fight with Zemo, Genis is defeated. Zemo traps Genis in a moment in time. He then uses a combination of Blackout's Darkforce powers and the moonstones to separate Genis into individual pieces, trapping them in separate, far-off parts of the Darkforce Dimension so that they cannot be reunited.<ref>''Thunderbolts'' #99-100</ref>
+However, Zemo realises that his mistake of siphoning energy from the beginning and end of time created a link between Genis and the universe that threatens to end existence. Zemo explores all future timelines with the moonstones, but fails to find a way to save both Genis and the universe: In every possible future timeline, Genis destroys the universe. Genis is aware of this, but keeps trying to tune his cosmic awareness in order to find a way to prevent this from happening. Finally, in a fight with Zemo, Genis is defeated. Zemo traps Genis in a moment in time. He then uses a combination of Blackout's [[Darkforce]] powers and the moonstones to separate Genis into individual pieces, trapping them in separate, far-off parts of the Darkforce Dimension so that they cannot be reunited.<ref>''Thunderbolts'' #99-100</ref>
 
 == Powers and abilities ==
 Due to his [[Eternals (comics)|Titanian Eternal]] mother, Genis is far more powerful than his father, although he still needs the Nega-Bands to make full use of his abilities. He was able to  defeat with one shot one of the two original Storm Giants, few blows of which would have destroyed the entirety of Asgard, in a fight that would have taken the lives of many, if not all Asgardians, including King Thor, a more powerful incarnation of Thor with Odin's powers. His powers were also increased further when he merged with his future self, granting him the capability to kill all the troops of the Shi'ar/Kree/Skrull coalition present in the galaxy with a mere thought, by manipulating the electric energy in their minds.
@@ -81,7 +82,7 @@ He's also shown to be able to manipulate space and time at will, as well as crea
 After Zemo accidentally links him to other areas of time, Genis absorbs the Nega-Bands.
 
 During the time of the events of House of M, his cosmic awareness could see through the fictitious reality created by Scarlet Witch, revealing the distorted nature of that universe, and as a result Genis inadvertently collapsed and expanded all of reality for a second.
-Later, it is also revealed that Genis could bisect space, dividing everybody and everything in a range of 500 km into what is, was and could be.
+Later, it is also revealed that Genis could bisect space, dividing everybody and everything in a range of 500&nbsp;km into what is, was and could be.
 By his conversation with Atlas we learn that he would have been able to undo the events of House of M, but was unwilling to due to his insecurities and his fear of making the wrong choice.
 
 Photon's fellow Thunderbolt, [[Radioactive Man (comics)|Dr. Chen Lu]], the Radioactive Man, theorises that Genis could control the photons of which everything is composed, implying large scale reality altering powers.
@@ -89,7 +90,7 @@ Photon's fellow Thunderbolt, [[Radioactive Man (comics)|Dr. Chen Lu]], the Radio
 ==In other media==
 
 ===Video games===
-* Genis-Vell appears as a [[PlayStation Portable|PSP]] exclusive character in ''[[Marvel: Ultimate Alliance]]'' voiced by [[Roger Rose]]. [[Captain Marvel (Mar-Vell)|Mar-Vell]] serves as an alternate costume.
+* Genis-Vell appears as a [[PlayStation Portable|PSP]] exclusive character in ''[[Marvel: Ultimate Alliance]]'' voiced by [[Roger Rose]].<ref name="btva">{{cite web|url=https://www.behindthevoiceactors.com/characters/Marvel-Universe/Captain-Marvel/|title=Voice Of Genis-Vell – Captain Marvel|website=Behind The Voice Actors|date=|accessdate=June 6, 2019|archiveurl=https://web.archive.org/web/20190606231308/https://www.behindthevoiceactors.com/characters/Marvel-Universe/Captain-Marvel/|archivedate=June 6, 2019|postscript=. Check marks indicates role has been confirmed using screenshots of closing credits and other reliable sources}}</ref> [[Captain Marvel (Mar-Vell)|Mar-Vell]] serves as an alternate costume.
 
 ===Toys===
 * [[Toy Biz]] produced two Genis-Vell variants of the [[Marvel Select]] [[Captain Marvel (Mar-Vell)|Captain Marvel]] [[action figure]], one depicting him in Kree Armor and the other in his Captain Marvel costume.
@@ -114,9 +115,11 @@ A number of the series featuring Captain Marvel have been collected into [[trade
 * [http://www.marveldirectory.com/individuals/c/captainmarveli.htm MarvelDirectory.com's article on his father, and Genis' unnatural conception]
 * [http://www.captainmarvelculture.com Captain Marvel Culture]
 * [https://www.webcitation.org/query?url=http://www.geocities.com/mailittomarvell/genis.htm&date=2009-10-26+02:07:21 Legacy/Captain Marvel/Photon (Genis-Vell) Appearances in Publication Order]
+* {{Marveldatabase}}
 
-{{Captain Marvel}}
+{{Captain Marvel (Marvel Comics)}}
 {{Thunderbolts}}
+[[Category:Captain Marvel (Marvel Comics)]]
 
 [[Category:Comics characters introduced in 1993]]
 [[Category:Extraterrestrial superheroes]]

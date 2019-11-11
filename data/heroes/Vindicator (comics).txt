@@ -51,7 +51,7 @@ Heather is a master combat strategist, and received combat training in hand-to-h
 
 ==Other versions==
 ===Exiles===
-A [[black Canadian]] version of Heather Hudson, who served as her Alpha Flight's version of [[Sasquatch (comics)|Sasquatch]], was a member of the [[Exiles (Marvel Comics)|Exiles]], recruited against her will to replace a brain-damaged Thunderbird by the Timebroker.<ref>''Exiles'' #10</ref> Little was revealed about her background or how she gained her powers.
+A [[black Canadian]] version of Heather Hudson, who served as her Alpha Flight's version of [[Sasquatch (comics)|Sasquatch]], was a member of the [[Exiles (Marvel Comics)|Exiles]], recruited against her will to replace a brain-damaged Thunderbird by the Timebroker.<ref>''Exiles'' #10</ref> A brilliant scientist and physician, she became Sasquatch after being accidentally exposed to gamma rays. She was recruited to Alpha Flight as the team’s muscle and medic, and shortly afterwards met Wolverine when he was found wandering the wilderness after escaping from the Weapon X facility. Heather successfully restored Wolverine to sanity, and the two fell in love and married. Two years later, Weapon X activated a hidden trigger in Wolverine’s mind, forcing Heather to kill him when he went on a rampage. After years of mourning, she remarried Alpha Flight commander James Hudson, who had comforted her in her grief.<ref>''Exiles'' #33</ref>
 
 ===Ultimate Marvel===
 Heather Hudson also appears as the non-powered wife of James Hudson, who she was introduced to by Wolverine, and is adoptive mother of Wolverine's son [[Jimmy Hudson|James Hudson Jr.]]<ref>''Ultimate Comics X'' #1</ref>
@@ -61,7 +61,7 @@ Heather Hudson also appears as the non-powered wife of James Hudson, who she was
 * Heather Hudson appears in the ''[[X-Men (TV series)|X-Men]]'' episode "Repo Man", voiced by [[Rebecca Jenkins]].<ref>https://www.imdb.com/name/nm0420953/</ref>
 
 ===Video games===
-* Heather appears in her Vindicator persona in ''[[X-Men Legends II: Rise of Apocalypse|X-Men Legends II]]'',<ref>{{Cite web |url=http://pc.ign.com/articles/611/611370p1.html |title=Archived copy |access-date=2009-05-02 |archive-url=https://web.archive.org/web/20080302071721/http://pc.ign.com/articles/611/611370p1.html |archive-date=2008-03-02 |dead-url=yes |df= }}</ref> voiced by [[Marsha Clark]].
+* Heather appears in her Vindicator persona in ''[[X-Men Legends II: Rise of Apocalypse|X-Men Legends II]]'',<ref>{{Cite web |url=http://pc.ign.com/articles/611/611370p1.html |title=Archived copy |access-date=2009-05-02 |archive-url=https://web.archive.org/web/20080302071721/http://pc.ign.com/articles/611/611370p1.html |archive-date=2008-03-02 |url-status=dead }}</ref> voiced by [[Marsha Clark]].
 
 ==References==
 {{reflist|30em}}
@@ -71,6 +71,7 @@ Heather Hudson also appears as the non-powered wife of James Hudson, who she was
 *[https://web.archive.org/web/20110723013149/http://alphaflight.net/alphanex/index.php?title=Vindicator_II  Vindicator] at AlphaFlight.Net
 {{Flight Program}}
 
+[[Category:Canadian superheroes]]
 [[Category:Canadian-themed superheroes]]
 [[Category:Characters created by Chris Claremont]]
 [[Category:Characters created by John Byrne]]
@@ -80,3 +81,4 @@ Heather Hudson also appears as the non-powered wife of James Hudson, who she was
 [[Category:Fictional secretaries]]
 [[Category:Marvel Comics martial artists]]
 [[Category:Marvel Comics superheroes]]
+[[Category:Marvel Comics female superheroes]]

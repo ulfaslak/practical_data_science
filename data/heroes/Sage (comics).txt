@@ -1,6 +1,5 @@
-
-{{Infobox comics character|
-image=[[Image:Sage-xxm19.jpg|300px]]  
+{{Infobox comics character
+|image=Sage-xxm19.jpg
 |caption=Sage by [[Salvador Larroca]]
 |character_name=Sage
 |real_name=Tessa
@@ -36,7 +35,7 @@ Sometime during Tessa's time with the Hellfire Club, Sebastian Shaw and Emma Fro
 
 During the X-Men's initial conflicts with the Hellfire Club, Tessa primarily maintains a background role and is seen as only Shaw's unusually intelligent assistant. Hints of her more complex role are indicated when she and Xavier are kidnapped by [[Donald Pierce]], a renegade member of the club, with grudges against both organizations. Based on the interactions between Xavier and Tessa, it is unclear whether he is helping to maintain her cover or whether he feels as if he has lost his agent, since the interaction between the two is kept impersonal.<ref name="MarvGaphNvl-4">''Marvel Graphic Novel'' #4 (1982)</ref> The two are rescued by the nascent team of [[New Mutants]], and Tessa takes Pierce into custody on behalf of the Hellfire Club.<ref name="MarvGaphNvl-4"></ref>
 
-Tessa's next notable interaction with Xavier's students happens months later when the X-Men and Hellfire Club are hunting down [[Rachel Summers]] after her attempted murder of [[Selene (comics)|Selene]], the newly installed Black Queen. In the middle of their fight, both teams are taken by surprise by [[Nimrod (comics)|Nimrod]], a mutant-hunting robot from the future.<ref name=UncannyXMen-209>''Uncanny X-Men'' #209 (1986)</ref> Recognizing the more immediate threat, the two groups join forces and are able to severely damage Nimrod. The X-Men and Hellfire Club each sustain heavy losses and are forced to flee the scene quickly. Tessa offers [[Storm (Marvel Comics)|Storm]] and the X-Men temporary sanctuary with the Club, which later results in [[Magneto (comics)|Magneto]] and Storm jointly accepting the role of White King in the Inner Circle.<ref name=UncannyXMen-209 /><ref>''New Mutants'' #51 (1987)</ref>
+Tessa's next notable interaction with Xavier's students happens months later when the X-Men and Hellfire Club are hunting down [[Rachel Summers]] after her attempted murder of [[Selene (comics)|Selene]], the newly installed Black Queen. In the middle of their fight, both teams are taken by surprise by [[Nimrod (comics)|Nimrod]], a mutant-hunting robot from the future.<ref name=UncannyXMen-209>''Uncanny X-Men'' #209 (1986)</ref> Recognizing the more immediate threat, the two groups join forces and are able to severely damage Nimrod. The X-Men and Hellfire Club each sustain heavy losses and are forced to flee the scene quickly. Tessa offers [[Storm (Marvel Comics)|Storm]] and the X-Men temporary sanctuary with the Club, which later results in [[Magneto (Marvel Comics)|Magneto]] and Storm jointly accepting the role of White King in the Inner Circle.<ref name=UncannyXMen-209 /><ref>''New Mutants'' #51 (1987)</ref>
 
 ===After the Hellfire Club===
 Magneto becomes more actively involved with the Hellfire Club after the X-Men's supposed death in Dallas at the climax of the [[Fall of the Mutants]]. Tensions between Magneto and Sebastian Shaw grow until, finally, Magneto ousts Shaw from the group. Although Tessa remains with the Hellfire Club after his departure, her role diminishes. Shortly thereafter, the [[Upstarts (comics)|Upstarts]] begin to hunt down mutant leaders, starting with former and current leaders of the [[Hellfire Club (comics)#Inner Circle|Inner Circle]]. [[Shinobi Shaw]] seemingly murders his father, Sebastian; Emma Frost is put into a coma. Tessa continues to serve as Shinobi's assistant, much as she had his father, and she also begins to use her telepathic skills more openly. After Tessa prevents Shinobi from solidifying his hold on the Hellfire Club, however, the younger Shaw ceases to work with her.{{issue|date=December 2012}}
@@ -62,7 +61,7 @@ In order to learn more about a mysterious new foe, Albion, and thwart his attemp
 Wisdom's fears are realized after this when the Diana Fox persona takes complete control and Sage becomes fully committed to Albion's side. During this time, she slays two of New Excalibur's former allies in [[Shadow-X]], Dark Cyclops and Dark Beast. A direct confrontation with her teammates in New Excalibur helps reassert Sage's original personality. Together with New Excalibur, Shadow-X, and now Lionheart, Sage defeats Albion and his Shadow Captains.<ref>''New Excalibur'' #21–24</ref>
 
 ===X-Men: Die by the Sword'' and ''New Exiles===
-Immediately after the defeat of the Shadow Captains, a party is held in honor of Excalibur.  While the team enjoys the party, Sage feels guilt for her actions.  The party is suddenly crashed by members of the [[Exiles (Marvel Comics)|Exiles]]; [[Psylocke]] and a [[Thunderbird (comics)#Exiles|Thunderbird]] from an alternate universe.  They are then attacked by Rouge-Mort and drawn into a battle for the safety of the Multiverse from a psychotic Merlin and [[Fury (Marvel Comics)|The Fury]].  They join forces with the rest of the Exiles, [[Roma (comics)|Roma]] and the [[Captain Britain Corps]].   The team defeats Merlin, but not before he manages to kill Roma.  
+Immediately after the defeat of the Shadow Captains, a party is held in honor of Excalibur.  While the team enjoys the party, Sage feels guilt for her actions.  The party is suddenly crashed by members of the [[Exiles (Marvel Comics)|Exiles]]; [[Psylocke]] and a [[Thunderbird (John Proudstar)|Thunderbird]] from an alternate universe.  They are then attacked by Rouge-Mort and drawn into a battle for the safety of the Multiverse from a psychotic Merlin and [[Fury (Marvel Comics)|The Fury]].  They join forces with the rest of the Exiles, [[Roma (comics)|Roma]] and the [[Captain Britain Corps]].   The team defeats Merlin, but not before he manages to kill Roma.  
 
 Prior to her death, Roma manages to transfer all of her knowledge about the Multiverse into Sage's mind, causing her to become overwhelmed; she fears for her sanity.  Fearful of what would happen if someone on Earth ever gained the knowledge in her mind, Sage joins the Exiles.  She suffers from hallucinations mixing her own memories with the information passed to her by Roma; furthermore, the Diana Fox persona re-emerges and attempts to take control once again.{{issue|date=December 2012}}
 
@@ -116,7 +115,7 @@ In the alternate future presented in the ''[[X-Men: The End]]'' series of books.
 In the novelization for the film ''[[X-Men: The Last Stand]]'', Sage is a new student at the mansion being trained by [[Wolverine (character)|Wolverine]], along with [[Cannonball (comics)|Cannonball]], [[Danielle Moonstar]], and [[Gambit (comics)|Gambit]].
 
 ===Television===
-Sage appears in the [[live-action]] TV-series ''[[The Gifted (U.S. TV series)|The Gifted]]'' where she is played by [[Hayley Lovitt]].
+Sage appears in the [[live-action]] TV-series ''[[The Gifted (U.S. TV series)|The Gifted]]'' where she is played by [[Hayley Lovitt]]. In the series, she has a supercomputer mind, and is used as a computer analyst. She is killed off by Reeva in the second season.
 
 ==References==
 {{Reflist|2}}
@@ -139,3 +138,4 @@ Sage appears in the [[live-action]] TV-series ''[[The Gifted (U.S. TV series)|Th
 [[Category:Marvel Comics mutants]]
 [[Category:Marvel Comics superheroes]]
 [[Category:Marvel Comics telepaths]]
+[[Category:Marvel Comics female superheroes]]

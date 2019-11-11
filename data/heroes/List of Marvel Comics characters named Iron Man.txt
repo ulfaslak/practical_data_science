@@ -16,7 +16,7 @@
 |debutyr7   = 
 |debutyr8   = 
 |creators   = [[Stan Lee]]<br />[[Larry Lieber]]<br />[[Don Heck]]<br />[[Jack Kirby]]
-|characters = [[Iron Man|Tony Stark]]<br />[[Weasel Wills]]<br />[[Happy Hogan (comics)|Happy Hogan]]<br />[[Life Model Decoy|Tony Stark LMD]]<br />[[Eddie March]]<br />[[War Machine|James Rhodes]]<br />[[Iron Man#Late 1980s and 1990s|Teen Tony Stark]]
+|characters = [[Iron Man|Tony Stark]]<br />[[Weasel Wills]]<br />[[Riri Williams (comics)|Happy Hogan]]<br />[[Life Model Decoy|Tony Stark LMD]]<br />[[Eddie March]]<br />[[War Machine|James Rhodes]]<br />[[Iron Man#Late 1980s and 1990s|Teen Tony Stark]]
 |seealso    = [[Alternative versions of Iron Man]]
 |cat        = super
 |subcat     = Marvel Comics

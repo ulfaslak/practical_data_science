@@ -18,7 +18,7 @@
 James Sanders first appears as the '''Whizzer''' in the final panel of ''[[The Avengers (comic book)|The Avengers]]'' #69 (Oct. 1969), the first chapter of a three-issue storyline by writer [[Roy Thomas]] and penciller [[Sal Buscema]]. The story arc introduced the [[supervillain]] team the [[Squadron Sinister]], whose four members were loosely based on heroes in [[DC Comics]]' [[Justice League|Justice League of America]], with the Whizzer based on the [[Flash (Barry Allen)|Flash]].<ref>Interview with Roy Thomas and Jerry Bails in ''The Justice League Companion'' (2003) pp. 72 – 73</ref>
 
 ==Fictional character biography==
-The Squadron Sinister are created by the cosmic entity the [[Grandmaster (Marvel Comics)|Grandmaster]] to battle the champions of the time-traveling [[Kang the Conqueror|Kang]] – the superhero team the [[Avengers (comics)|Avengers]]. The Whizzer battles Avenger [[Hawkeye (comics)|Goliath]], but the fight is interrupted by the [[Black Knight (Dane Whitman)|Black Knight]]. The Avengers eventually defeat the Squadron and they in turn are abandoned by the Grandmaster.<ref>''Avengers'' #69–71 (Oct. – Dec. 1969)</ref> The Squadron reappear in the title ''[[Defenders (comics)|Defenders]]'', reunited by the [[extraterrestrial life|alien]] [[Nebulon (comics)|Nebulon]]. The villains receive greater power in exchange for the planet Earth, and create a giant laser cannon in the [[Arctic]] to melt the [[polar ice cap]]s, thereby covering the entirety of the Earth's surface in water. The superhero team the [[Defenders (comics)|Defenders]] prevent the scheme and defeat the villains (and Nebulon), with [[Namor the Sub-Mariner]] humiliating the Whizzer.<ref>''Defenders'' #13–14 (May – June 1974)</ref>
+The Squadron Sinister are created by the cosmic entity the [[Grandmaster (Marvel Comics)|Grandmaster]] to battle the champions of the time-traveling [[Kang the Conqueror|Kang]] – the superhero team the [[Avengers (comics)|Avengers]]. The Whizzer battles Avenger [[Hawkeye (Clint Barton)|Goliath]], but the fight is interrupted by the [[Black Knight (Dane Whitman)|Black Knight]]. The Avengers eventually defeat the Squadron and they in turn are abandoned by the Grandmaster.<ref>''Avengers'' #69–71 (Oct. – Dec. 1969)</ref> The Squadron reappear in the title ''[[Defenders (comics)|Defenders]]'', reunited by the [[extraterrestrial life|alien]] [[Nebulon (comics)|Nebulon]]. The villains receive greater power in exchange for the planet Earth, and create a giant laser cannon in the [[Arctic]] to melt the [[polar ice cap]]s, thereby covering the entirety of the Earth's surface in water. The superhero team the [[Defenders (comics)|Defenders]] prevent the scheme and defeat the villains (and Nebulon), with [[Namor the Sub-Mariner]] humiliating the Whizzer.<ref>''Defenders'' #13–14 (May – June 1974)</ref>
 
 After this defeat the Whizzer and his teammates are teleported offworld by Nebulon, returning with an energy-draining weapon. The Squadron Sinister plan to threaten the Earth again but are defeated once more by the Defenders and the Avenger [[Henry Pym|Yellowjacket]].<ref>''Giant-Size Defenders'' #4 (1974)</ref> The character has another brief encounter with several members of the Avengers, who seek a way to separate the power prism of [[Doctor Spectrum]] from fellow Avenger the [[Wasp (comics)|Wasp]].<ref>''Avengers'' Annual #8 (1978)</ref> The Whizzer disassociates himself from the Squadron Sinister and adopts a new costume and alias, '''Speed Demon'''.
 
@@ -43,10 +43,6 @@ As a result of mutagenic chemicals concocted under the Grandmaster's mental guid
 James Sanders possesses a master's degree in chemistry.
 
 ==Other versions==
-
-===DC Comics===
-The first comic book character named Speed Demon appeared in the title ''[[Superman's Pal Jimmy Olsen]]''. A super-speed serum briefly turns ''[[Daily Planet]]'' reporter [[Jimmy Olsen]] into the hero ''Speed Demon''.<ref>''Superman's Pal Jimmy Olsen'' #15 (Sept 1956)</ref> The second was '''Jerry McGee''', [[Tina McGee]]'s husband who went by the name "Speed McGee" and "Speed Demon." A scientist for Genetech where he took the drug Steroid B-19 which gave him superhuman strength, speed, and endurance, he wanted revenge on his wife for leaving him which brought him into conflict with the [[Wally West|Flash]].<ref>''The Flash'' #2</ref> The hero managed to help him off the drug and Jerry eventually returned to his estranged wife.<ref>''The Flash'' #15</ref>
-
 ===House of M===
 In the [[House of M]] reality, Jim Sanders, along with [[Abner Jenkins]], works as a biochemist for [[Atlas (Marvel Comics)|Major Josten]] and [[Dum Dum Dugan|General Dugan]]. He was given a Kree blood sample in hopes of creating a bio-weapon to use against the [[Kree]] to stop their alliance with the mutants.<ref>''New Thunderbolts'' #11</ref>
 
@@ -61,11 +57,17 @@ The character is infected; he becomes an agent for the zombiefied [[Kingpin (com
 * [http://www.toonopedia.com/squadsup.htm The Squadron Supreme] at [[Don Markstein's Toonopedia]]
 * {{Marvunapp|http://www.marvunapp.com/Appendix4/squadronsinister.htm|Squadron Sinister}}
 * [http://www.spiderfan.org/characters/speed_demon.html Speed Demon] at Spiderfan.org
+* [https://dc.fandom.com/wiki/Jerry_McGee_(New_Earth)] at DC Database
 
 {{Spider-Man characters}}
 {{Sinister Six}}
 {{Thunderbolts}}
-
+{{Flash}}
+[[Category:DC Comics supervillains]]
+[[Category:Comics characters introduced in 1987]]
+[[Category:Fictional scientists]]
+[[Category:Fictional drug addicts]]
+[[Category:DC Comics characters who can move at superhuman speeds]]
 [[Category:Characters created by Roy Thomas]]
 [[Category:Characters created by Sal Buscema]]
 [[Category:Comics characters introduced in 1969]]

@@ -1,18 +1,19 @@
 {{Infobox comics character| <!--Wikipedia:WikiProject Comics-->
 image= Thorvs.Fafnir.jpg
-|caption='''Fafnir''' (right) on the cover of ''Thor'' #341 (March 1984).<br>Art by [[Walter Simonson]].
+|caption='''Fafnir''' (right) on the cover of ''Thor'' #341 (March 1984).<br/>Art by [[Walter Simonson]].
 |character_name=Fafnir
 |alter_ego=
 |publisher=[[Marvel Comics]]
-|debut=''[[Thor (Marvel Comics)|Thor]]'' #134<br>(Nov. 1966)
-|creators=[[Stan Lee]]<br>[[Jack Kirby]]
+|debut=''[[Thor (Marvel Comics)|Thor]]'' #134<br/>(Nov. 1966)
+|creators=[[Stan Lee]]<br/>[[Jack Kirby]]
 |species=Norse [[Dragon]]
 |alliances=
 |previous_alliances=
 |aliases=
 |relatives=
-|powers= Superhuman strength and durability<br>Fire breath<br>Illusion casting
+|powers= Superhuman strength and durability<br/>Fire breath<br/>Illusion casting
 }}
+
 '''Fafnir''' is a [[fictional character]] appearing in [[American comic book]]s published by [[Marvel Comics]].
 
 ==Publication history==
@@ -34,7 +35,7 @@ Fafnir was originally a normal man until transformed by the properties of a magi
 
 ==Other versions==
 ===Fafnir of Jotunheim===
-Another Fafnir appeared in the Marvel Universe. He is a [[Giants (Marvel Comics)|Frost Giant]].<ref>http://www.immortalthor.net/bio-giantsofjotunheim.html#Fafnir</ref> Brother to [[Fasolt]] and enemy of Thor, he first appeared in 1980 in ''Thor'' #294.
+Another Fafnir appeared in the Marvel Universe. He is a [[Giants (Marvel Comics)|Frost Giant]].<ref>{{Cite web |url=http://www.immortalthor.net/bio-giantsofjotunheim.html#Fafnir |title=Archived copy |access-date=2011-03-17 |archive-url=https://web.archive.org/web/20110221215543/http://www.immortalthor.net/bio-giantsofjotunheim.html#Fafnir |archive-date=2011-02-21 |url-status=dead }}</ref> Brother to [[Fasolt]] and enemy of Thor, he first appeared in 1980 in ''Thor'' #294.
 
 ===Ultimate Marvel===
 In ''[[The Ultimates (comic book)|The Ultimates]] # 13'', Thor briefly mentions Fafnir, when he teleports a [[Chitauri]] bomb to the wastes of Nastrond, which is home to only Fafnir the Dragon.<ref>''The Ultimates'' #13</ref>
@@ -56,6 +57,7 @@ In ''[[The Ultimates (comic book)|The Ultimates]] # 13'', Thor briefly mentions 
 {{Thor}}
 {{Stan Lee}}
 {{Jack Kirby}}
+
 [[Category:Comics characters introduced in 1966]]
 [[Category:Characters created by Jack Kirby]]
 [[Category:Characters created by Stan Lee]]

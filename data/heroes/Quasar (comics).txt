@@ -13,7 +13,7 @@
 
 <!--Series section-->
 |title = Quasar
-|cvr_image = Quasar 1.jpg
+|cvr_image = Quasar No. 1.jpg
 |cvr_caption = ''Quasar'' #1 (Oct, 1989).<br>Featuring the Wendell Vaughn version of the character.<br>Art by Paul Ryan.
 |schedule = Monthly
 |ongoing = Y
@@ -56,21 +56,23 @@ Neutron is a member of an [[Extraterrestrial life in popular culture|alien]] rac
 Although he was called Quasar at one point, this character has never worn the Quantum Bands.
 
 ===Wendell Vaughn===
-{{main article|Quasar (Wendell Vaughn)}}
+{{main|Quasar (Wendell Vaughn)}}
 Vaughn is the longest-running Quasar character, and the first to use the name.
 
 ===Phyla-Vell===
-{{main article|Phyla-Vell}}
+{{main|Phyla-Vell}}
 Phyla-Vell becomes Quasar for a time after taking the Quantum Bands from Annihilus.
 
 ===Richard Rider===
-{{main article|Nova (Richard Rider)}}
+{{main|Nova (Richard Rider)}}
 To keep him from dying while deprived of the Nova Force, Rider temporarily takes the Quantum Bands from Vaughn, thus becoming Quasar.
 
 ===Avril Kincaid===
-Avril Kincaid is a [[S.H.I.E.L.D.]] agent who debuted during the ''[[Avengers: Standoff!]]'' storyline. While working at Pleasant Hill, a gated community holding super villains brainwashed by Kobik, Avril runs a daycare center as her cover. When [[Baron Zemo|Baron Helmut Zemo]] and [[Fixer (comics)|Fixer]] regain their memories and start a riot, Kincaid is attacked by the [[Blood Brothers (comics)|Blood Brothers]], but is saved by [[Falcon (comics)|Captain America]] and [[Bucky Barnes|Winter Soldier]]. After Captain America shuts down the security system at the Pleasant Hill Museum, Kincaid enters it and encounters the curator, a retired Wendell Vaughn.<ref>''Captain America: Sam Wilson'' #7</ref> As part of a contingency plan for if S.H.I.E.L.D. ever lost control of Kobik, Vaughn gives the Quantum Bands to Kincaid. In the aftermath of the events that transpired at Pleasant Hill, Kincaid becomes the new Quasar with Vaughn acting as her mentor. <ref>''Avengers Standoff: Assault on Pleasant Hill Omega'' #1</ref> She is later revealed to be gay.
+Avril Kincaid is a [[S.H.I.E.L.D.]] agent who debuted during the ''[[Avengers: Standoff!]]'' storyline. While working at Pleasant Hill, a gated community holding super villains brainwashed by Kobik, Avril runs a daycare center as her cover. When [[Baron Zemo|Baron Helmut Zemo]] and [[Fixer (comics)|Fixer]] regain their memories and start a riot, Kincaid is attacked by the [[Blood Brothers (comics)|Blood Brothers]], but is saved by [[Falcon (comics)|Captain America]] and [[Bucky Barnes|Winter Soldier]]. After Captain America shuts down the security system at the Pleasant Hill Museum, Kincaid enters it and encounters the curator, a retired Wendell Vaughn.<ref>''Captain America: Sam Wilson'' #7</ref> As part of a contingency plan for if S.H.I.E.L.D. ever lost control of Kobik, Vaughn gives the Quantum Bands to Kincaid. In the aftermath of the events that transpired at Pleasant Hill, Kincaid becomes the new Quasar with Vaughn acting as her mentor.<ref>''Avengers Standoff: Assault on Pleasant Hill Omega'' #1</ref> She is later revealed to be gay.
 
-She is later seen trying to prevent an attack by the [[Chitauri]], but is apparently killed in action. Her apparent death leads the United States government to give Captain America control of the military and law enforcement, as [[Captain America|Steve Rogers]] also assumes control of Hydra.<ref>''Secret Empire'' #0</ref> It is later revealed that Kincaid is in a comatose state.<ref>''Secret Empire'' #3</ref> When she awakens, she destroys the planetary shield that the Hydra Steve Rogers has been using to keep some of Earth's most powerful heroes off-planet, demonstrating her power level as being far beyond the likes of [[Blue Marvel]], Captain Marvel, and Spectrum.<ref>''Secret Empire'' #8</ref>
+She is later seen trying to prevent an attack by the [[Chitauri]], but is apparently killed in action. Her apparent death leads the United States government to give Captain America control of the military and law enforcement, as [[Captain America|Steve Rogers]] also assumes control of [[Hydra (comics)|Hydra]].<ref>''Secret Empire'' #0</ref> It is later revealed that Kincaid is in a comatose state.<ref>''Secret Empire'' #3</ref> When she awakens, she destroys the planetary shield that the Hydra Steve Rogers has been using to keep some of Earth's most powerful heroes off-planet.<ref>''Secret Empire'' #8</ref> However, this act seemingly costs Avril her life, with [[Carol Danvers|Captain Marvel]] stating that Avril died after bringing down the shield.<ref>''The Mighty Captain Marvel'' #8</ref>
+
+After Avril's apparent demise, Wendell Vaughn reassumes the Quasar mantle. However, after becoming trapped in a black hole, Vaughn catches a glimpse of Avril, who is still alive, but lost somewhere in space.<ref>''Guardians of the Galaxy Annual'' #1</ref>
 
 ==Powers and abilities==
 
@@ -80,7 +82,7 @@ The Quasars' powers are derived from the pair of Quantum Bands fused to the bear
 
 Foremost among the bands' powers is the ability to tap into a limitless energy source called the "Quantum Zone". Quasars can project [[quantum]] energy in the form of devastating beams of force or heat. Vaughn more commonly employs them to fashion incredibly durable constructs of solid energy, such as containment spheres or pincers. He protects himself with a personal force field of quantum energy.{{issue|date=June 2018}}
 
-The Quantum Bands can also exert control over many other types of energy that are part of the [[electromagnetic spectrum]]. For example, Vaughn once caused a star to emit an enormous solar flare.{{issue|date=June 2018}} It is also possible to absorb and redirect the cosmic energy wielded by such powerful beings as the [[Silver Surfer]], [[Jack of Hearts]], [[Adam Warlock]], [[Thanos]], [[Phoenix Force (comics)|Jean Grey]] and the [[Watcher (comics)|Watchers]], siphoning their power and using it to augment the quantum energy.{{issue|date=June 2018}} Forms of energy the Quantum Bands cannot control include magic and the [[Darkforce]].{{issue|date=June 2018}}
+The Quantum Bands can also exert control over many other types of energy that are part of the [[electromagnetic spectrum]]. For example, Vaughn once caused a star to emit an enormous solar flare.{{issue|date=June 2018}} It is also possible to absorb and redirect the cosmic energy wielded by such powerful beings as the [[Silver Surfer]], [[Jack of Hearts (Marvel Comics)|Jack of Hearts]], [[Adam Warlock]], [[Thanos]], [[Phoenix Force (comics)|Jean Grey]] and the [[Watcher (comics)|Watchers]], siphoning their power and using it to augment the quantum energy.{{issue|date=June 2018}} Forms of energy the Quantum Bands cannot control include magic and the [[Darkforce]].{{issue|date=June 2018}}
 
 Although the bands apparently cannot overtly affect [[psionic]] energy, Vaughn has programmed them to render him impervious to psionic mental control. Even such powerful psychics as [[Moondragon]] and the [[Overmind (comics)|Overmind]] have proven unable to overcome this defense. This does not protect the bearer from magical forms of compulsion.<ref>Thor #437</ref>
 
@@ -127,4 +129,5 @@ Neutron possesses superhuman strength, can lift seventy tons, and is extremely d
 [[Category:Fictional characters with density control abilities]]
 [[Category:Marvel Comics characters who can teleport]]
 [[Category:S.H.I.E.L.D. agents]]
-[[Category:LGBT superheroes]]
+[[Category:Marvel Comics LGBT superheroes]]
+[[Category:Articles about multiple fictional characters]]

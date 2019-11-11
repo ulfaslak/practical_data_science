@@ -3,12 +3,12 @@
 | character_name = Phyla-Vell
 | image          = PhylaMartyr.png
 | converted      = y
-| caption        = Phyla-Vell as Martyr.<br>Art by Paul Renard.
+| caption        = Phyla-Vell as Martyr.<br>Art by Paul Renaud.
 | full_name      = Phyla-Vell
 | publisher      = [[Marvel Comics]]
 | debut          = ''Captain Marvel'' (vol. 5) #16 (December 2003)
 | creators       = [[Peter David]] (writer)<br>[[Paul Azaceta]] (artist)
-| species        = Titanian/[[Kree]] Hybrid
+| species        = [[Eternals (comics)|Titanian]]–[[Kree]] Hybrid
 | alliances      = [[Guardians of the Galaxy (2008 team)|Guardians of the Galaxy]]<br/>[[Annihilation (comics)|United Front]]
 | aliases        = [[Quasar (comics)|Quasar]], [[Captain Marvel (Marvel Comics)|Captain Marvel]], Martyr
 | powers         = Superhuman strength, flight, energy projection and absorption, cosmic awareness
@@ -22,8 +22,11 @@
 Her name is derived from the [[scientific classification]] [[phylum]], one of the levels of organization ([[taxon]]s) for classifying [[life]]. This is a reference to the fact that her brother [[Genis-Vell]]'s name comes from [[genus]], one of the other classifications for life forms.
 
 ==Publication history==
-{{Expand section|date=March 2010}}
-The character appeared in ''[[Annihilation: Conquest]]'', featuring in her own, self-titled mini-series written by [[Christos Gage]].<ref>[http://www.comicbookresources.com/?page=article&id=9986 Hero's Journey: Gage Talks "Annihilation: Conquest - Quasar"], [[Comic Book Resources]], April 18, 2007</ref> Leading on from this appearance she is part of the line-up for a new [[Guardians of the Galaxy (2008 team)|Guardians of the Galaxy]].<ref>{{cite web|title=Greeting the Guardians: Quasar|url=http://forum.newsarama.com/showthread.php?t=156699|website=[[Newsarama]]|archiveurl=https://web.archive.org/web/20090906035639/http://forum.newsarama.com/showthread.php?t=156699|archivedate=September 6, 2009|date=May 12, 2008}}</ref>
+Phyla-Vell first appeared in ''Captain Marvel'' (vol. 5) #16 and was created by writer [[Peter David]] and artist Paul Azaceta.<ref>{{cite web|url=https://comicbook.com/marvel/2019/04/26/captain-marvels-endgame-costume-spoiler-homage-phyla-vell/|title=Captain Marvel's New Endgame Costume Is An Homage To A Classic Marvel Character|last=Aguilar|first=Matthew|website=Comicbook.com|date=April 27, 2019|accessdate=June 4, 2019|archiveurl=https://web.archive.org/web/20190428161015/https://comicbook.com/marvel/2019/04/26/captain-marvels-endgame-costume-spoiler-homage-phyla-vell/|archivedate=April 28, 2019}}</ref> She is introduced as Phyla-Vell and is the daughter of Elysius, the genetically engineered woman beloved by the late [[Mar-Vell]]. When [[Genis-Vell]] went mad and destroyed and recreated the world, he created a new universe where everything was mostly the same but for some subtle differences. She was the second child created by Elysius, who also created Gen-Vell, from Mar-Vell's DNA and for a time, Phyla wore the name Captain Marvel.<ref name="Gageinterview" /><ref name="whatculture" /><ref name="Looper" />
+
+The character appeared as [[Quasar (comics)|Quasar]] after the previous [[Quasar (Wendell Vaughn)|Quasar]] died, in ''[[Annihilation: Conquest]]'', featuring in her own, self-titled mini-series written by [[Christos Gage]].<ref name="Gageinterview">{{cite web|url=https://www.cbr.com/heros-journey-gage-talks-annihilation-conquest-quasar/|title=Hero's Journey: Gage Talks "Annihilation: Conquest - Quasar"|last=Richards|first=Dave|publisher=[[Comic Book Resources]]|date=April 18, 2007|accessdate=June 4, 2019|archiveurl=https://web.archive.org/web/20190604130127/https://www.cbr.com/heros-journey-gage-talks-annihilation-conquest-quasar/|archivedate=June 4, 2019}}</ref> Leading on from this appearance she was part of the line-up for the 2008 [[Guardians of the Galaxy (2008 team)|Guardians of the Galaxy]] team.<ref>{{cite web|title=Greeting the Guardians: Quasar|url=http://forum.newsarama.com/showthread.php?t=156699|last=Rogers|first=Vaneta|website=[[Newsarama]]|date=May 12, 2008|archiveurl=https://web.archive.org/web/20090906035639/http://forum.newsarama.com/showthread.php?t=156699|archivedate=September 6, 2009}}</ref>
+
+She made a deal to save the life of her partner [[Moondragon]], in exchange she became the Avatar of [[Oblivion (comics)|Oblivion]], she started calling herself Martyr. She remained part of the Guardians of the Galaxy team until her death.<ref name="whatculture">{{cite web|url=https://whatculture.com/comics/captain-marvel-12-major-characters-from-the-comics-you-need-to-know?page=9|title=Captain Marvel: 12 Major Characters From The Comics You Need To Know - 4. Phyla-Vell|last=Dapul|first=Motzie|website=WhatCulture|date=October 31, 2018|accessdate=June 4, 2019|archiveurl=https://web.archive.org/web/20190604133031/https://whatculture.com/comics/captain-marvel-12-major-characters-from-the-comics-you-need-to-know?page=9|archivedate=June 4, 2019}}</ref><ref name="Looper">{{cite web|url=https://www.looper.com/64291/guardians-galaxy-characters-well-sadly-never-see-big-screen/|title=Guardians of the Galaxy characters we'll sadly never see on the big screen|last=Collins|first=Elle|website=Looper|date=|accessdate=June 4, 2019|archiveurl=https://web.archive.org/web/20180202113736/http://www.looper.com/64291/guardians-galaxy-characters-well-sadly-never-see-big-screen/|archivedate=February 2, 2018}}</ref>
 
 ==Fictional character biography==
 [[File:Phyla-Vell.png|thumb|upright|Phyla-Vell as Captain Marvel. ''[[Captain Marvel (Marvel Comics)|Captain Marvel]]'' #17 (February 2004). Art by [[Paul Azaceta]].]]
@@ -31,7 +34,7 @@ After [[Genis-Vell]], then known as Captain Marvel, previously destroyed and rec
 
 She fights her brother Genis-Vell, who was insane at the time,<ref>''Captain Marvel'' vol. 4 #17-18 (January–February 2004)</ref> in the process helping to restore his sanity. She then tries to lay claim to the "Captain Marvel" title, though her brother refuses to give it up.<ref>''Captain Marvel'' vol. 4 #19 (March 2004)</ref> Phyla is next seen at the trial of [[Starfox (comics)|Starfox]].<ref>''She-Hulk'' #12-13, 2006</ref>
 
-The ''Captain Marvel'' (vol. 4) series heavily hinted that Phyla-Vell is a [[lesbian]], and in #25 (September 2004) the character admits that she is attracted to [[Moondragon]] and invites her on a tour of the "[[spiral nebula]] near Renault VII". Before Moondragon can accept the two wander through a portal.<ref>''Captain Marvel'' vol. 5 #25</ref>
+The ''Captain Marvel'' (vol. 5) series heavily hinted that Phyla-Vell is a [[lesbian]], and in #25 (September 2004) the character admits that she is attracted to [[Moondragon]] and invites her on a tour of the "[[spiral nebula]] near Renault VII". Before Moondragon can accept the two wander through a portal.<ref>''Captain Marvel'' vol. 5 #25</ref>
 
 ===Annihilation===
 {{Main|Annihilation (comics)}}
@@ -54,7 +57,7 @@ When [[Adam Warlock]] stopped the Fault's growth by using a redundant timeline, 
 
 However, Phyla was revealed to still be alive, along with Mantis, Gamora, Cosmo and Major Victory, but trapped in suspended animation and prisoners of the Magus.<ref>''Guardians of the Galaxy'' vol. 2 #22 (January 2010)</ref> She then breaks free and frees the other Guardians, but after a fierce fight she is misled by Maelstrom into freeing [[Thanos]], who was concealed inside a cocoon. When the two teams of Guardians reunite, Phyla-Vell is reported as the first victim of Thanos' rampage, her remains seen by [[Mantis (Marvel Comics)|Mantis]] but never shown on panel. She is later mourned by the Guardians on Knowhere.<ref>''Guardians of the Galaxy'' vol. 2 #25, 19 (June 2010)</ref>
 
-Phyla is later shown in [[Hell]] when Thanos and [[Deadpool]] venture there in search of the missing [[Death (Marvel Comics)|Death]].<ref> {{Cite comic|writer = Tim Seeley|penciller = Elmo Bondoc|inker = Elmo Bondoc|colorist = Ruth Redmond|letterer = VC's Joe Sabino|editor = Jordan D. White|story = Part Three|title = Deadpool vs. Thanos|volume = 1|issue = #3|date = 14 October 2015|publisher = Marvel Comics|location = United States}} </ref>
+Phyla is later shown in [[Hell]] when Thanos and [[Deadpool]] venture there in search of the missing [[Death (Marvel Comics)|Death]].<ref>{{Cite comic|writer = Tim Seeley|penciller = Elmo Bondoc|inker = Elmo Bondoc|colorist = Ruth Redmond|letterer = VC's Joe Sabino|editor = Jordan D. White|story = Part Three|title = Deadpool vs. Thanos|volume = 1|issue = #3|date = 14 October 2015|publisher = Marvel Comics|location = United States}}</ref>
 
 Gamora later discovers Phyla trapped inside the [[Soul Gem]] alongside Adam Warlock.<ref>''All-New Guardians of the Galaxy'' #3</ref> When [[Kang the Conqueror]] later shows Warlock a vision of the future, Phyla is seen as one of the heroes who has been defeated by the mysterious villain that has collected all six Infinity Gems.<ref>''Infinity Countdown'' #1</ref>
 
@@ -65,9 +68,17 @@ She then came into possession of the [[Quasar (comics)#Quantum Bands|Quantum Ban
 
 While searching for Heather Douglas, Phyla lost the Quantum Bands to the villain Maelstrom. She has gained unknown new powers by becoming the new avatar of Oblivion. However, Wendell has stated that her Quantum Sword will still draw power from the Quantum Bands and that they will always be a part of her.<ref>''Guardians of the Galaxy'' vol. 2 #12, 19 (May 2009)</ref>
 
+== Other versions ==
+=== Infinity Countdown ===
+During ''[[Infinity Countdown]]'', when Gamora was collecting the Infinity Stones, an alternate version of Phyla-Vell and Moondragon from Earth-TRN707 arrived on the Prime Earth to get their universe's Reality Stone. After acquiring their Reality Stone, Moondragon deleted her memories of the event.<ref>''Infinity Countdown'' #4. Marvel Comics.</ref>
+
 ==In other media==
-* Phyla-Vell appears in ''[[The Avengers: Earth's Mightiest Heroes]]''<ref>{{cite web|last=Hunsaker |first=Andy |url=http://www.craveonline.com/comics/reviews/167143-dvd-review-avengers-earths-mightiest-heroes-vol-1-a-2 |title=DVD Review: Avengers: Earth's Mightiest Heroes Vol. 1 & 2 |publisher=CraveOnline |date=April 8, 2011 |accessdate=July 23, 2011}}</ref> episode "Michael Korvac", voiced by [[Moira Quirk]]. She appears as a member of the Guardians of the Galaxy at the time they are pursuing Michael Korvac.
-* Phyla-Vell appears in the 2018 ''[[Guardians of the Galaxy (TV series)|Guardians of the Galaxy]]'' episode "Happy Together," voiced by [[Ming-Na Wen]].<ref>[https://www.disneyabcpress.com/disneyxd/shows/marvels-guardians-of-the-galaxy/episodes/happy-together/ "Happy Together"]. "MARVEL'S GUARDIANS OF THE GALAXY", Disney ABC Press. [[Disney XD]]. Retrieved September 21, 2018.</ref> She later appears in episodes such as "Gotta Get Outta This Place," "Long Distance Runaround," and "You Don't Owe Me."
+===Television===
+* Phyla-Vell appears in ''[[The Avengers: Earth's Mightiest Heroes]]'',<ref>{{cite web|url=http://www.craveonline.com/comics/reviews/167143-dvd-review-avengers-earths-mightiest-heroes-vol-1-a-2 |title=DVD Review: Avengers: Earth's Mightiest Heroes Vol. 1 & 2|last=Hunsaker|first=Andy|publisher=CraveOnline|date=April 8, 2011|accessdate=July 23, 2011|archiveurl=https://web.archive.org/web/20180617142237/http://www.mandatory.com/fun/167143-dvd-review-avengers-earths-mightiest-heroes-vol-1-a-2|archivedate=June 17, 2018}}</ref> voiced by [[Moira Quirk]]. In the episode "Michael Korvac", she appears as a member of the Guardians of the Galaxy at the time they are pursuing Michael Korvac.
+* Phyla-Vell appears in the ''[[Guardians of the Galaxy (TV series)|Guardians of the Galaxy]]'' animated series, voiced by [[Ming-Na Wen]].<ref>{{cite web|url=https://www.ign.com/articles/2018/04/19/agents-of-shields-ming-na-wen-to-cameo-on-guardians-of-the-galaxy-animated-series|title=Watch Marvel's Agents of SHIELD Star Ming-Na Wen Cameo in Guardians of the Galaxy Animated Series|last=Prudom|first=Laura|publisher=[[IGN]]|date=April 19, 2018|accessdate=June 6, 2019|archiveurl=https://web.archive.org/web/20181004130656/https://www.ign.com/articles/2018/04/19/agents-of-shields-ming-na-wen-to-cameo-on-guardians-of-the-galaxy-animated-series|archivedate=October 4, 2018}}</ref><ref name="btva">{{cite web|url=https://www.behindthevoiceactors.com/tv-shows/Guardians-of-the-Galaxy/Phyla-Vell/|title=Voice Of Phyla-Vell - Behind The Voice Actors|work=Behind The Voice Actors|accessdate=June 6, 2019|postscript=. Check mark indicates role has been confirmed using screenshots of closing credits and other reliable sources}}</ref> She appears in the episodes "Happy Together", "Gotta Get Outta This Place", "Long Distance Runaround", and "You Don't Own Me".
+===Video games===
+* Phyla-Vell is a playable character in ''[[Marvel Avengers Alliance]]'', she was added in Season 32 as an Adamantium League reward hero.<ref>{{cite web|url=https://www.player.one/marvel-avengers-alliance-pvp-season-32-brings-ronan-and-phyla-vell-game-549440|title=‘Marvel Avengers Alliance’ PVP Season 32 Brings Ronan And Phyla-Vell To The Game|last=Martinez|first=Phillip|website=Player.one|date=June 8, 2016|accessdate=June 4, 2019|archiveurl=https://web.archive.org/web/20190423205427/https://www.player.one/marvel-avengers-alliance-pvp-season-32-brings-ronan-and-phyla-vell-game-549440|archivedate=April 23, 2019}}</ref>
+*Phyla-Vell (as Quasar) appears as a Toy box townsperson in ''[[Disney Infinity 2.0]]'' and ''[[Disney Infinity 3.0]]''.
 
 ==Collected editions==
 
@@ -86,9 +97,10 @@ Annihilation: Conquest - Quasar has been collected into [[trade paperback (comic
 *[http://www.afterellen.com/best-lesbian-week-ever-april-27-2007/04/2007/4/ ''Annihilation: Conquest''] preview on [[AfterEllen.com]]
 *[http://www.captainmarvelculture.com/phyla.html Phyla-Vell] at Captain Marvel Culture
 
-{{Captain Marvel}}
+{{Captain Marvel (Marvel Comics)}}
 {{Guardians of the Galaxy}}
 {{Marvel Cosmic}}
+[[Category:Captain Marvel (Marvel Comics)]]
 
 [[Category:Comics characters introduced in 2003]]
 [[Category:Characters created by Peter David]]
@@ -100,3 +112,4 @@ Annihilation: Conquest - Quasar has been collected into [[trade paperback (comic
 [[Category:LGBT superheroes]]
 [[Category:Marvel Comics aliens]]
 [[Category:Marvel Comics characters with superhuman strength]]
+[[Category:Marvel Comics female superheroes]]

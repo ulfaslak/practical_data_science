@@ -21,6 +21,8 @@
 |}}
 '''Blackout''' is the name of a fictional [[supervillain]] appearing in [[American comic book]]s published by [[Marvel Comics]]. Depicted as a half-demon and is the second character to use the name within the fictional universe.
 
+A character named after Blackout is portrayed by [[Johnny Whitworth]] in the 2011 film ''[[Ghost Rider: Spirit of Vengeance]]''.
+
 ==Publication history==
 {{expand-section|date=June 2016}}
 Blackout first appeared in ''[[Ghost Rider (Danny Ketch)|Ghost Rider]]'' #2 and was created by [[Howard Mackie]] and Javier Saltares.
@@ -66,7 +68,11 @@ He reappears as one of the villains summoned by Sin to battle Earth's heroes.<re
 In an attempt to rebuild his reputation, Blackout goes after [[Superior Spider-Man]]. He kidnaps Peter Parker's [[Aunt May]], and holds her hostage, demanding that Parker, as Spider-Man's "tech designer", hand himself over in exchange. Superior Spider-Man tracks him down and they fight. Blackout gains the advantage and tries to bite out Spider-Man's neck. Unfortunately for Blackout, Spider-Man was wearing a metal neck cover under his costume, which electrocuted him. Spider-Man then tortured Blackout, ripping out his claws and teeth. In agony, Blackout begs for mercy, promising never to go after anyone Spider-Man knows again. Spider-Man tells him to spread the word to all the other criminals that "Peter Parker is off limits", then exposes Blackout to artificial sunlight, burning him.<ref>''Superor Spider-Man Annual'' #1 (2013)</ref>
 
 ==Powers and abilities==
-Blackout is a half demon, giving him several superhuman abilities. His strength, speed, stamina, durability, and reflexes are superhuman. He can see in near darkness, and he has the mystical ability to extinguish both natural and artificial light sources in his immediate vicinity. However, his skin is highly sensitive to light. He has enhanced teeth, jaws, and claws, which he usually employs to tear out the throats of his victims and enemies. He is a highly experienced hand-to-hand combatant, a superior acrobat, and wrestler.
+Blackout's demonic heritage endows him with supernatural powers of enhanced strength, resilience to injuries, and heightened reflexes which enable him to challenge both Ghost Rider and other superhumans. His eyesight is particularly sensitive even in total darkness which gives him superior night vision but can be exploited to temporarily blind him. His core ability allows him to immediately extinguish any source of light - be it natural or artificial - in his immediate vicinity; cloaking the affected area in an unnatural veil of darkness which acts as a sensory-deprivation field to anyone other than Blackout himself who gets caught within it.
+
+As a possible drawback due to the shadow-rooted nature of his abilities, Blackout's skin is extremely photosensitive. Exposure to harsh artificial sources can cause irritation, while exposure to direct sunlight or ultraviolet light results in severe burns and blisters. Prolonged exposure can prove potentially fatal. He also makes an effort to avoid large bodies of fire for the same reasons and lives an almost entirely nocturnal lifestyle. In addition to his demonic attributes, Blackout has had his canine teeth and fingernails replaced with razor-sharp mechanical prosthetics capable of easily rending through flesh and bone similar to a vampire.
+
+Beyond his gifts and augmentations, Blackout is highly experienced as a hand-to-hand combatant; able to take on opponents easily equal to him in strength and potentially win. As he has no formal martial training, Blackout's fighting techniques are more akin to a street wrestler than a soldier or professional fighter. Only a super-humanly strong fighter with superior martial skills and experience could potentially defeat him. Blackout's physical gifts also lend well to acrobatics; allowing him to traverse most environments and evade slow enemy attacks with superhuman agility and speed, though he can still be caught off-guard.
 
 ==In other media==
 ===Film===
@@ -78,12 +84,18 @@ Blackout is a half demon, giving him several superhuman abilities. His strength,
 ==References==
 {{Reflist|2}}
 
+== External links ==
+* {{Marveldatabase}}
+
 {{Ghost Rider}}
 {{Midnight Sons}}
+
 [[Category:Characters created by Howard Mackie]]
 [[Category:Comics characters introduced in 1990]]
 [[Category:Fictional murderers]]
 [[Category:Fictional characters with albinism]]
+[[Category:Fictional characters with disfigurements]]
+[[Category:Fictional half-demons]]
 [[Category:Marvel Comics demons]]
 [[Category:Marvel Comics supervillains]]
 [[Category:Superhero film characters]]

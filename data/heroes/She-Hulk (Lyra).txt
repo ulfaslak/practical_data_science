@@ -25,7 +25,7 @@
 |sortkey = She-Hulk (Jennifer)
 |}}
 
-'''She-Hulk''' ('''Lyra''') is a [[fictional character|fictional]] [[antihero]] appearing in [[American comic book]]s published by [[Marvel Comics]]. She is from an [[alternate future]] of [[Marvel 616|Marvel's main timeline]], and is the daughter of that reality's [[Thundra#Hulk: Raging Thunder|Thundra]] and the 616 [[Hulk (comics)|Hulk]].
+'''She-Hulk''' ('''Lyra''') is a [[fictional character|fictional]] [[antihero]] appearing in [[American comic book]]s published by [[Marvel Comics]]. She is from an [[alternate future]] of [[Marvel 616|Marvel's main timeline]], and is the daughter of that reality's [[Thundra#Hulk: Raging Thunder|Thundra]] and the 616 [[Hulk]].
 
 ==Publication history==
 Created by writer [[Jeff Parker (comics)|Jeff Parker]] and artist Mitch Breitweiser, Lyra first appeared in a one-shot story entitled ''Hulk: Raging Thunder'' #1 (August 2008), and then in ''Hulk Family: Green Genes'' #1 (February 2009). The character "received enough of a positive fan response to earn her a try-out in a brand-new mini-series."<ref name=newsarama>[http://www.newsarama.com/comics/030917-Savage-She-Hulk.html The New Green: Fred Van Lente on Savage She-Hulk]. [[Newsarama]], March 17, 2009</ref> So in 2009 ''All New Savage She-Hulk'', a four-issue [[Limited series (comics)|limited series]], began, written by [[Fred Van Lente]] with pencils by [[Robert Q. Atkins]] and Peter Vale.<ref name=newsarama /><ref>[http://www.comicbookresources.com/?page=article&id=20582 War of the Sexes: Van Lente Talks All-New Savage She-Hulk], [[Comic Book Resources]], March 27, 2009</ref>
@@ -52,9 +52,9 @@ Lyra is later shown to have indeed left the 616 and reunited with mother in [[We
 ==Powers and abilities==
 In a calm state, Lyra possesses vast superhuman strength, which she is able to enhance further through a meditative fighting-trance (that also greatly enhances her sensory perception of her surroundings), as well as superhuman stamina, durability, agility, and speed.<ref name="Profile page">''Fall of the Hulks: Gamma'' #1</ref>
 
-Although comparable to [[Colossus (comics)|Colossus]] for example, even when at her peak, Lyra possesses less raw power than the base/calm level of the original She-Hulk. Unlike her father, Hulk, Lyra actually becomes weaker rather than stronger when she gets angry.<ref name="Profile page"/> She still maintains super-human strength, with her lowest strength being equivalent to that of [[Spider-Man]]. This was done by her Femizon creators, as a fail-safe way to keep her from turning on them.<ref>''The All-New Savage She-Hulk'' #2</ref>  Her father had  injected  her with power-inhibiting or modifying [[S.P.I.N._Technology|S.P.I.N. technology]] that negated the weakness, allowing her to transform into a nonpowered human state at will and turn into her Hulk form when angry like the rest of her family.<ref>''She-Hulks'' #1 (Nov. 2010)</ref> However, this alternation was only temporary and her powers had returned to the way they were when she joined The Defenders.<ref>"Fear Itself: The Deep" #3"</ref> 
+Although comparable to [[Colossus (comics)|Colossus]] for example, even when at her peak, Lyra possesses less raw power than the base/calm level of the original She-Hulk. Unlike her father, Hulk, Lyra actually becomes weaker rather than stronger when she gets angry.<ref name="Profile page"/> She still maintains super-human strength, with her lowest strength being equivalent to that of [[Spider-Man]]. This was done by her Femizon creators, as a fail-safe way to keep her from turning on them.<ref>''The All-New Savage She-Hulk'' #2</ref>  Her father had  injected  her with power-inhibiting or modifying [[S.P.I.N. Technology|S.P.I.N. technology]] that negated the weakness, allowing her to transform into a nonpowered human state at will and turn into her Hulk form when angry like the rest of her family.<ref>''She-Hulks'' #1 (Nov. 2010)</ref> However, this alternation was only temporary and her powers had returned to the way they were when she joined The Defenders.<ref>"Fear Itself: The Deep" #3"</ref>
 
-Lyra developed a technique that enables her to fight in a trance-like [[meditation|meditative]] state when she is completely calm and at peace. Through her practice, Lyra can feel minute traces of gamma rays in every human being and use them to heighten her perception and reflexes, and in this state apparently possesses higher fighting skill than any of her other family members, being able to single-handedly summarily defeat the entire team of [[Norman Osborn]]'s "[[Dark Avengers]]", with the exception of the [[Sentry (Robert Reynolds)|Sentry]].<ref name="Profile page"/><ref>''The All-New Savage She-Hulk'' #4</ref>  
+Lyra developed a technique that enables her to fight in a trance-like [[meditation|meditative]] state when she is completely calm and at peace. Through her practice, Lyra can feel minute traces of gamma rays in every human being and use them to heighten her perception and reflexes, and in this state apparently possesses higher fighting skill than any of her other family members, being able to single-handedly summarily defeat the entire team of [[Norman Osborn]]'s "[[Dark Avengers]]", with the exception of the [[Sentry (Robert Reynolds)|Sentry]].<ref name="Profile page"/><ref>''The All-New Savage She-Hulk'' #4</ref>
 
 Lyra can leap over 600 feet upwards, and 1000 feet across.<ref name="Profile page"/> She also possesses an immunity to the [[Venom (Marvel Comics character)|Venom symbiote]]—which she calls the "black bloom"—due to a vaccination injected when she was a child.<ref name="All-New Savage She-Hulk' 2009"/>
 
@@ -69,6 +69,7 @@ Thanks to her upbringing she is an expert fighter and killer with experience fig
 * ''All-New Savage She-Hulk'' vol. 2 #1–4
 
 ==See also==
+{{Portal|Speculative fiction}}
 * [[She-Hulk]]
 * [[Skaar (character)|Skaar]]
 * [[Hiro-Kala]]
@@ -79,7 +80,6 @@ Thanks to her upbringing she is an expert fighter and killer with experience fig
 {{reflist|2}}
 
 ==External links==
-{{Portal|Fictional characters|Superhero fiction|2000s}}
 * {{Marvelwiki|Lyra|Lyra}}
 * [http://marvel.wikia.com/Lyra_%28Earth-8009%29 Lyra] at the Marvel Comics Database
 * {{comicbookdb|type=character|id=28200|title=Lyra}}
@@ -87,9 +87,11 @@ Thanks to her upbringing she is an expert fighter and killer with experience fig
 {{Hulk}}
 {{She-Hulk}}
 
-[[Category:Comics characters introduced in 2008]]
-[[Category:Fictional genetically engineered characters]]
 [[Category:Characters created by Jeff Parker]]
+[[Category:Comics characters introduced in 2008]]
 [[Category:Female characters in comics]]
+[[Category:Fictional genetically engineered characters]]
+[[Category:Marvel Comics female superheroes]]
+[[Category:Marvel Comics superheroes]]
 
 [[it:Lyra (personaggio)]]

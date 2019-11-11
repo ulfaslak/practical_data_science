@@ -1,15 +1,15 @@
 {{Infobox comics character<!--Wikipedia:WikiProject Comics-->
 |image= Hummingbird Aracely Penalba New Warriors 02 2014.png
 |imagesize =
-|caption=''New Warriors'' #2 (March 2014). Art by [[Marcus To]].<br>Colors by [[David Curiel]].
+|caption=''New Warriors'' #2 (March 2014). Art by [[Marcus To]].<br />Colors by [[David Curiel]].
 |character_name=Hummingbird
 |real_name=Aracely Penalba
 |publisher=[[Marvel Comics]]
-|debut=''Scarlet Spider'' vol. 2 #1<br>(January 2012)
-|creators= [[Ryan Stegman]] (artist)<br>[[Christopher Yost]] (writer)<br>[[Carlo Barberi]] (costume designer)
+|debut=''Scarlet Spider'' vol. 2 #1<br />(January 2012)
+|creators= [[Ryan Stegman]] (artist)<br />[[Christopher Yost]] (writer)<br />[[Carlo Barberi]] (costume designer)
 |alliances=[[New Warriors]]<ref name="NW v5 #6">''New Warriors'' vol. 5 #6</ref>
 |aliases=
-|powers=Manipulation of emotions<br>Telepathy<br>Self-powered levitation<br>Invoking and hurtling sacred fire
+|powers=Manipulation of emotions<br />Telepathy<br />Self-powered levitation<br />Invoking and hurtling sacred fire
 }}
 
 '''Hummingbird''' is a [[fictional character]], a [[superhero]] from [[Mexico]] appearing in [[American comic book]]s published by [[Marvel Comics]]. She made her debut in the 2012 ''[[Scarlet Spider]]'' comic book series written by [[Christopher Yost]].
@@ -44,7 +44,7 @@ As Aracely recovered and gained strength, she began to form bonds of friendship 
 
 During an assault at the hotel by a gang dressed all as Santa Clauses, Aracely used a newfound power to induce panic in one of the robbers.
 
-Shortly after that, she began to have recurrent and strange dreams filled with mythological imagery. During the first of these dreams, Aracely saw herself in [[Aztlan]], the semi-mythical paradisaical place where the [[Aztec|Aztecs]] (or Mexica) first stopped after abandoning the legendary [[Chicomoztoc|Seven Caves]] in their pilgrimage to the region of Mexico where they would end up founding [[Tenochtitlan]] (today beneath [[Mexico City]]), almost a thousand years ago. There she meet a coyote animal who told her that the [[Five Suns|Fifth Era of the world]] was ending and a new Sixth Creation was coming. She enigmatically responded that [[Mictlan]] (the Aztec Underworld) was rising while the background started to devolve into a terrifying death-filled landscape. The coyote metamorphosed back and forth between itself, an old man clad in a black suit with a cane and an oddly-shaped masculine figure who resembled an unidentified Aztec deity. Aracely was told by this being that the [[Huitzilopochtli|Left-Handed Hummingbird]] would be consumed - and that she was the aforementioned Hummingbird.
+Shortly after that, she began to have recurrent and strange dreams filled with mythological imagery. During the first of these dreams, Aracely saw herself in [[Aztlan]], the semi-mythical paradisaical place where the [[Aztec]]s (or Mexica) first stopped after abandoning the legendary [[Chicomoztoc|Seven Caves]] in their pilgrimage to the region of Mexico where they would end up founding [[Tenochtitlan]] (today beneath [[Mexico City]]), almost a thousand years ago. There she meet a coyote animal who told her that the [[Five Suns|Fifth Era of the world]] was ending and a new Sixth Creation was coming. She enigmatically responded that [[Mictlan]] (the Aztec Underworld) was rising while the background started to devolve into a terrifying death-filled landscape. The coyote metamorphosed back and forth between itself, an old man clad in a black suit with a cane and an oddly-shaped masculine figure who resembled an unidentified Aztec deity. Aracely was told by this being that the [[Huitzilopochtli|Left-Handed Hummingbird]] would be consumed - and that she was the aforementioned Hummingbird.
 
 Seeking to run, she tripped over two people who she recognized as her parents. Being devoured by a snake, her father warned her that she could not continue alone - that a "champion" was required. Her mother, laying in the ground and pierced by arrows, told her that she was in Mictlan and that Aracely would soon join her. The cryptic scene ends with the Salamander appearing and taking her by the throat. As his flames engulf everything, Aracely wakes up with Annabelle crying at her side (as an unintended effect of her psychic powers acting while she was asleep).
 
@@ -60,7 +60,7 @@ As their lives returned to normality, Aracely continued to have other dreams and
 
 She created a costume and adopted the codename "Hummingbird" when helping Kaine in his mission to kill [[Wolverine (character)|Wolverine]], in order to pay a coerced debt to the Assassins Guild. Using her powers to enter the Jean Grey School for mutants, she got mind-scanned by [[Rachel Summers|Rachel Grey]] which triggered a strange reaction: a voice came from Hummingbird stating "I am Huitzilopochtli. I bring Fire to destroy the Dark. And I require blood!". As she said those words, all the telepaths in the school were temporarily brought down with pain - Rachel Grey being the most affected, declaring that Hummingbird's mind was "on fire". Unable to stop this effect herself, it only ended when [[Iceman (character)|Iceman]] slowed down Hummingbird's brain activity with his freezing powers.
 
-After Kaine momentarily killed Wolverine and the fight with the X-men ended, Aracely submitted herself to a series of analysis by Beast (comics)|Dr. Beast and [[Cecilia_Reyes|Dr. Cecilia Reyes]] while Wolverine and Kaine went out to deal with the Assassins Guild. These tests discarded the possibility of Aracely being a mutant, but established the possibility that she was "not the only person" inhabiting her brain.
+After Kaine momentarily killed Wolverine and the fight with the X-men ended, Aracely submitted herself to a series of analysis by Beast (comics)|Dr. Beast and [[Cecilia Reyes|Dr. Cecilia Reyes]] while Wolverine and Kaine went out to deal with the Assassins Guild. These tests discarded the possibility of Aracely being a mutant, but established the possibility that she was "not the only person" inhabiting her brain.
 
 When Kaine decided to abandon both Houston and his Scarlet Spider identity, he and Aracely moved to Mexico in order to discover more about Aracely's origin and find her parents. There, on a stop in the city of [[Monterrey]], she helped him bring down drug dealers in order to steal the criminals' money and finance their search.
 
@@ -85,10 +85,11 @@ The full extent of and number of her abilities and powers is unknown at the mome
 {{reflist|30em}}
 
 ==External links==
-{{Portal|2010s|Fictional characters|Superhero fiction|Comics|Mexico}}
+{{Portal|Speculative fiction|Comics|Mexico}}
 *[http://marvel.wikia.com/Mar%C3%ADa_Aracely_Penalba_%28Earth-616%29 María Aracely Penalba (Earth-616)] at Marvel Wiki
 
 {{New Warriors}}
+{{Marvel Comics deities}}
 
 [[Category:2012 comics debuts]]
 [[Category:Comics characters introduced in 2012]]
@@ -97,3 +98,5 @@ The full extent of and number of her abilities and powers is unknown at the mome
 [[Category:Marvel Comics superheroes]]
 [[Category:Fictional Mexican people]]
 [[Category:Fictional characters with fire or heat abilities]]
+[[Category:Marvel Comics female superheroes]]
+[[Category:Fictional goddesses]]

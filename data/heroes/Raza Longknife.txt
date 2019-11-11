@@ -9,7 +9,7 @@
 |debut=''[[Uncanny X-Men|X-Men]]'' #107 (Oct 1977)
 |creators=[[Dave Cockrum]]<ref name="Wizard_Aug93"/>
 |alliances= [[Starjammers]]
-|aliases= 
+|aliases= [[ZZZXX]]
 |powers=Superhuman strength, enhanced agility, speed, reflexes <br>Skilled hand-to-hand combatant.  
 }}
 
@@ -42,6 +42,10 @@ Raza appears as a member of the [[Starjammers]], this time captained by [[Deathb
 
 ==References==
 {{reflist}}
+
+== External links ==
+* {{Marveldatabase}}
+
 {{Marvel Cosmic}}
 
 {{DEFAULTSORT:Longknife, Raza}}

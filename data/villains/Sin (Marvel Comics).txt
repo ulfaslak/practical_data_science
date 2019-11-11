@@ -1,4 +1,5 @@
 {{For|[[DC Comics]] character of the same name|Sin (DC Comics)}}
+{{short description|Character from Marvel Comics}}
 {{Infobox comics character
 <!--Wikipedia:WikiProject Comics-->
 | image = Serpent Squad.jpg
@@ -10,7 +11,7 @@
 | debut = ''[[Captain America (comic book)|Captain America]]'' #290 (February 1984; as Mother Superior)<br>''Captain America'' #612 (January 2011; as Red Skull)
 | creators = [[J.M. DeMatteis]] (writer)<br>[[Paul Neary]] (artist)
 | partners = [[Crossbones (comics)|Crossbones]]
-| alliances = Sisters of Sin<br>[[Serpent Squad]]<br>[[Fear Itself (comics)|The Worthy]]
+| alliances = Sisters of Sin<br>[[Serpent Squad]]<br>[[Fear Itself (comics)|The Worthy]]<br>[[Hydra (comics)|Hydra]]
 | aliases = Mother Superior, [[Red Skull]], Sister Sin, Erica Holstein, Skadi: Herald of the "Serpent" 
 | powers = Expert hand to hand combatant and martial artist<br>Highly skilled markswoman<br>High-level intellect<br>'''(As Mother Superior)''':<br>Telepathy<br>Telekinesis<br>Teleportation<br>Intangibility
 | cat            = super
@@ -48,6 +49,8 @@ When Jane Foster is forced to step down from her role on the Congress of the Nin
 
 During the ''[[Secret Empire (comics)|Secret Empire]]'' storyline, Sin and Crossbones are shown to be in charge of a super-prison that was established by HYDRA. Their super-prison was raided by the Underground in their mission to free their captive friends.<ref>''Secret Empire'' #8</ref>
 
+Learning of an alternate future where her father took over the world, Sin allies with Miss Sinister and Mysterio, along with the forces of 'Neo-Hydra', with the goal of repeating the feat that led to that victory, in the form of Mysterio manipulating someone- [[Old Man Logan]] in the original version of events- into attacking other heroes. However, when Mysterio learns that the other villains plan to kill him once their efforts have succeeded, he turns on the other villains and betrays their location to a group of Avengers, which forces Neo-Hydra to flee.<ref>''Dead Man Logan'' #1-#5</ref>
+
 ==Powers and abilities==
 Sin appears to have no superhuman abilities but being trained by her father, the Red Skull, through which she is an expert hand-to-hand combatant and martial artist. She is also highly proficient in firearms and explosives, and has a high-level intellect.
 
@@ -65,18 +68,23 @@ As wielder of the Hammer of Skadi, Sin as "Skadi" could fly or propel herself th
 * Sin appears as a villain in ''[[Marvel: Future Fight]]''.
 
 ==References==
-{{Portal|Fictional characters|Superhero fiction|1980s}}
+{{Portal|Speculative fiction|1980s}}
 {{Reflist}}
+
+== External links ==
+* {{Marveldatabase|Sin}}
+
 {{Captain America}}
 
+[[Category:Captain America]]
 [[Category:Characters created by J. M. DeMatteis]]
 [[Category:Characters created by Paul Neary]]
 [[Category:Comics characters introduced in 1984]]
-[[Category:Captain America]]
 [[Category:Fictional characters who can turn intangible]]
 [[Category:Fictional characters with disfigurements]]
+[[Category:Hydra agents]]
 [[Category:Marvel Comics characters who can teleport]]
+[[Category:Marvel Comics female supervillains]]
 [[Category:Marvel Comics mutates]]
 [[Category:Marvel Comics telepaths]]
 [[Category:Nazis in comic book fiction]]
-[[Category:Female supervillains]]

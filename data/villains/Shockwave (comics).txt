@@ -1,5 +1,6 @@
-{{Infobox comics character| <!--Wikipedia:WikiProject Comics-->
-image=<!-- Deleted image removed: [[File:shockwave-marvel.jpg]] -->
+{{about|the Marvel Comics character|other comic book characters|Shockwave (disambiguation)}}
+{{Infobox comics character <!--Wikipedia:WikiProject Comics-->
+|image=
 |caption=
 |character_name=Shockwave
 |real_name=Lancaster Sneed
@@ -24,7 +25,7 @@ He apparently returned later, and Shang Chi thought he was fighting the real Sho
 
 Alongside [[Zaran]] and [[Razor Fist]], Shockwave later attacked the [[West Coast Avengers]] on behalf of the [[S.H.I.E.L.D.]] Deltoids, but was defeated by [[Iron Man]] and escaped.<ref>''West Coast Avengers'' Vol. 2 #11. Marvel Comics.</ref> Shockwave attended the [[Advanced Idea Mechanics|A.I.M.]] Weapons Exposition, and battled [[Captain America]] alongside the other costumed criminals there.<ref>''Captain America'' #411-413. Marvel Comics.</ref>
 
-As Shockwave he has been a member of the Oriental Expediters and the Golden Dagger Sect. He has been the ally of many masterminds and criminals including [[Fah Lo Suee]], Tarrant/Griswold, and [[Fu Manchu]].
+As Shockwave he has been a member of the Oriental Expediters and the Golden Dagger Sect. He has been the ally of many masterminds and criminals including [[Master of Kung Fu (comics)#Supporting characters|Fah Lo Suee]], Tarrant/Griswold, and [[Fu Manchu (comics)|Fu Manchu]].
 
 The second [[Crimson Cowl (Justine Hammer)|Crimson Cowl]] recruited Shockwave to join her incarnation of the [[Masters of Evil]].<ref>''Thunderbolts'' #24-25. Marvel Comics.</ref>
 
@@ -44,7 +45,9 @@ He was seen during the [[Siege (comics)|Siege]] of [[Asgard (comics)|Asgard]] as
 
 During the "[[Avengers: Standoff!]]" storyline, Shockwave was an inmate of Pleasant Hill, a gated community established by S.H.I.E.L.D.<ref>''Avengers Standoff: Assault on Pleasant Hill Alpha'' #1. Marvel Comics.</ref>
 
-During the "Search for Tony Stark" arc, Rampage is seen as a member of Hood's gang as they attack Castle Doom.<ref>''Invincible Iron Man'' #597. Marvel Comics.</ref> He and [[Rampage (Marvel Comics)|Rampage]] held Doctor Doom's arms as [[Wrecker (comics)|Wrecker]] works to break open his Iron Man armor.<ref>''Invincible Iron Man'' #598. Marvel Comics.</ref>
+During the "Search for Tony Stark" arc, Shockwave is seen as a member of Hood's gang as they attack [[Castle Doom]].<ref>''Invincible Iron Man'' #597. Marvel Comics.</ref> He and [[Rampage (Marvel Comics)|Rampage]] held Doctor Doom's arms as [[Wrecker (comics)|Wrecker]] works to break open his Iron Man armor.<ref>''Invincible Iron Man'' #598. Marvel Comics.</ref>
+
+Shockwave is part of a group of Shang-Chi's enemies that includes [[Razor Fist]], [[Shen Kuei]], Death-Hand, Shadow Stalker, Tiger-Claw and led by Shang-Chi's adoptive brother [[Midnight Sun (Marvel Comics)|Midnight Sun]] that ambushes the Master of Kung Fu and [[Domino (comics)|Domino]] while the two are on a date in [[Hong Kong]].<ref>''Domino'' #4. Marvel Comics.</ref>  Shockwave is defeated after one of his shocks aimed for Domino misses and hits Shadow-Stalker, whose [[Flail (weapon)|flail]] is deflected off of a serving tray thrown by Domino and hits Shockwave in the face, knocking him out.  After the fight, Shang-Chi warns the group to retreat and forget the ambush ever took place or to face further attacks from Domino.<ref>''Domino'' #5. Marvel Comics.</ref>
 
 ==Powers and abilities==
 Lancaster Sneed is a master of various martial arts, especially karate. He was trained in armed and unarmed combat by British military intelligence. He is an expert on electrical devices, and skilled in demolitions work. His body was surgically rebuilt using metal plates, enhancing his strength, speed, agility, stamina, durability and reflexes, but not to superhuman levels. He wears a stolen exoskeleton body armor suit which is equipped with an apparatus that generates electrical shocks on contact.
@@ -58,9 +61,6 @@ Shockwave appears in the ''[[Iron Man: Armored Adventures]]'' episode "Armor War
 ===Video games===
 * In ''[[Marvel: Avengers Alliance]]'', Shockwave was found killed by the Circle of Eight.{{cn|date=July 2016}}
 * Shockwave appears in ''Captain America: The Winter Soldier - The Official Game''. He appears as part of terrorist organization R.A.I.D.{{cn|date=July 2016}} While R.A.I.D. invades a Project Pegasus facility, Shockwave was sent to cause havoc in order to distract S.H.I.E.L.D. He was defeated by Captain America and brought him to S.H.I.E.L.D. where he was interrogated by Black Widow. All Black Widow could get out of Shockwave is that he was paid to cause chaos where he would be paid through dummy accounts.
-
-==DC Comics==
-A frequent agent of the [[100 (DC Comics)|100]], Arnold Pruett wears a suit of sophisticated armor that endows abilities such as super-strength and generating vibrations capable of leveling buildings. Initially facing [[Blue Devil (DC Comics)|Blue Devil]], Shockwave would go on to battle [[Booster Gold]] and [[Superman]]. An action figure for Shockwave was in development for the [[Super Powers Collection]] before the line was cancelled.<ref>{{cite web |url=http://www.actionfigureinsider.com/archives/sp/spfind/index.html |title=Holy Cow! Super Powers Extravaganza |author=Geyer, Jason |date=14 January 2007 |work= |publisher=Action Figure Insider |accessdate=3 November 2011}}</ref> Shockwave first appeared in ''Blue Devil'' #2 (July 1984).
 
 ==References==
 {{reflist}}
@@ -80,3 +80,4 @@ A frequent agent of the [[100 (DC Comics)|100]], Arnold Pruett wears a suit of s
 [[Category:Fictional mercenaries]]
 [[Category:Fictional people from Newcastle upon Tyne]]
 [[Category:Marvel Comics supervillains]]
+[[Category:Shang-Chi characters]]

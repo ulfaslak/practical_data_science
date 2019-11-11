@@ -1,3 +1,4 @@
+{{short description|Comic book supervillain}}
 {{primary sources|date=February 2010}}
 {{Infobox comics character<!--Wikipedia:WikiProject Comics-->
 |image=[[Image:RomulusWolverine.PNG|250px]]
@@ -11,7 +12,7 @@
 |alliances=[[Weapon X]]
 |powers=Adamantium laced skeleton & claws <br>Regenerative healing factor<br>Superhuman senses, strength, stamina, speed, agility, reflexes, endurance & longevity <br>Animalistic traits <br>Telepathy <br>Skilled combatant & strategist
 }}
-'''Romulus''' is a fictional comic book supervillain appearing in books published by [[Marvel Comics]], in particular those featuring [[Wolverine (character)|Wolverine]]. He is the leader of the Lupines, a species resembling humans that he claims evolved from [[Canidae|canines]] instead of [[primate]]s through [[convergent evolution]]. He is a shadowy character whose origin and motives remain a mystery. He is shown to have orchestrated most major events in the life of Wolverine, manipulating and controlling him for most of his life.
+'''Romulus''' is a fictional comic book supervillain appearing in books published by [[Marvel Comics]], in particular those featuring [[Wolverine (character)|Wolverine]]. He is the leader of the Lupines, a species resembling humans that he claims evolved from [[Canidae|canines]] instead of [[primate]]s through [[convergent evolution]]. A shadowy character whose origin and motives remain a mystery, he is shown to have orchestrated most major events in the life of Wolverine, manipulating and controlling him for most of his life.
 
 ==Publication history==
 Created by writer [[Jeph Loeb]] and artist [[Simone Bianchi (artist)|Simone Bianchi]], the character first appeared obscured by shadow in ''Wolverine'' vol. 3 #50 (March 2007), and made his first full appearance in ''[[Wolverine: Origins]]'' #39 (August 2009).
@@ -61,3 +62,4 @@ Romulus is extremely intelligent with detailed knowledge of genetics and other a
 [[Category:Marvel Comics supervillains]]
 [[Category:Characters created by Jeph Loeb]]
 [[Category:Wolverine characters]]
+[[Category:Cultural depictions of Romulus and Remus]]

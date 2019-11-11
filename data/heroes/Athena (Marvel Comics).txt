@@ -1,22 +1,23 @@
-{{Infobox comics character| <!--Wikipedia:WikiProject Comics-->
+{{Infobox comics character <!--Wikipedia:WikiProject Comics-->
 |image= Athena in Hercules.jpg
-|imagesize=
+|imagesize=150
 |converted=y
 |caption= Athena on the cover of ''Incredible Hercules #127''.  Art by Dave Williams.
 |character_name=Athena
 |real_name=Pallas Athena
 |species=
 |publisher=[[Marvel Comics]]
-|debut=''[[Thor (Marvel Comics)|Thor]]'' #164 (May 1969)
-|creators=[[Stan Lee]] and [[Jack Kirby]]
+|debut=''[[Thor (comic book)|The Mighty Thor]]'' #164 (May 1969)
+|creators=[[Stan Lee]]<br>[[Jack Kirby]]
 |alliances=[[Olympians (Marvel Comics)|Olympian Gods]]<br>[[Council of God-Heads]]
 |aliases=Minerva, Agent Sexton, Miranda Minerva
-|powers=Super-genius Intellect, enhanced by Cosmic Awareness<br>Superhuman strength, speed, stamina, and agility.<br>Immortality<br>Mastery over multiple forms of combat<br>Limited transmutation<br>Flight<br>Ability to cast permanent curses upon mortals and their descendants<br>Lightning projection inherited from Zeus}}
+|powers=Super-genius Intellect, enhanced by Cosmic Awareness<br>Superhuman strength, speed, stamina, and agility.<br>Immortality<br>Mastery over multiple forms of combat<br>Limited transmutation<br>Flight<br>Ability to cast permanent curses upon mortals and their descendants<br>Lightning projection inherited from Zeus
+}}
 
-'''Athena''' is a [[fiction]]al [[deity]] appearing in [[American comic book]]s published by [[Marvel Comics]]. She is based on the [[Athena|Greek Goddess of the same name]]. Athena first appeared in the pages of ''[[Thor (Marvel Comics)|Thor]]'' #164, written by [[Stan Lee]] and drawn by [[Jack Kirby]].
+'''Athena''' is a [[fiction]]al [[deity]] appearing in [[American comic book]]s published by [[Marvel Comics]]. She is based on the [[Athena|Greek Goddess of the same name]].
 
 ==Publication history==
-Athena first appeared in ''[[Thor (Marvel Comics)|Thor]]'' #164 (May 1969), and was adapted from Greek mythology by [[Stan Lee]] and [[Jack Kirby]].
+Athena first appeared in ''[[Thor (comic book)|The Mighty Thor]]'' #164 (May 1969), and was adapted from Greek mythology by writer [[Stan Lee]] and artist [[Jack Kirby]].
 
 ==Fictional character biography==
 Athena is the daughter of [[Zeus (Marvel Comics)|Zeus]] and [[Metis (mythology)|Metis]], having emerged fully formed from her father's brow after Zeus consumed Metis in hopes of avoiding a male child who would succeed him, as he had his father.  She took the place of the goddess of wisdom, war, and heroic endeavor in the [[Olympians (comics)|Olympian pantheon]]. Her grey owl companion is named Pallas, a reference to her own name.
@@ -74,6 +75,8 @@ Following the death of both Zeus and Hera, Athena has inherited Zeus's divine th
 [[Category:Characters created by Jack Kirby]]
 [[Category:Characters created by Stan Lee]]
 [[Category:Comics characters introduced in 1969]]
+[[Category:Female characters in comics]]
+[[Category:Fictional goddesses]]
 [[Category:Fictional shapeshifters]]
 [[Category:Greco-Roman mythology in Marvel Comics]]
 [[Category:Greek and Roman gods in fiction]]

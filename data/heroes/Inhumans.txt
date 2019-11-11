@@ -1,0 +1,488 @@
+{{short description|Superpowered human tribe}}
+{{Use mdy dates|date=March 2019}}
+{{other uses|Inhuman (disambiguation)}}
+{{Infobox comics species and title <!--Wikipedia:WikiProject Comics-->
+|group = y
+<!-- Species section -->
+<!-- |species             = Inhumans -->
+|image               = Inhumans.jpg
+|imagesize           = <!-- default 250 -->
+|caption             = {{Descript-cvr-art|Inhumans|2|#1|November 1998|art=[[Jae Lee]]|type=comics}}
+|publisher           = [[Marvel Comics]]
+|debut               = ''[[Fantastic Four (comic book)|Fantastic Four]]'' #45
+|debutmo             = December
+|debutyr             = 1965
+|deities             =
+|creators            = [[Stan Lee]] (writer)<br>[[Jack Kirby]] (artist)
+|homeworld           = [[Earth]]
+|members             = [[List of Inhumans]]<br />'''Inhuman Royal Family:'''<br />[[Black Bolt]]<br />[[Medusa (comics)|Medusa]]<br />[[Karnak (comics)|Karnak the Shatterer]]<br />[[Gorgon (Inhuman)|Gorgon]]<br />[[Triton (comics)|Triton]]<br />[[Crystal (comics)|Crystal]]<br />[[Lockjaw (comics)|Lockjaw]]<br />[[Maximus (comics)|Maximus the Mad]]<br />[[The Unspoken]]<br />'''New generation:'''<br />[[Tonaja]]<br />[[Alaris (comics)|Alaris]]<br />[[San (comics)|San]]<br />[[Nahrees]]<br />[[Jolen (comics)|Jolen]]<br />[[Dewoz]]<br />'''Post-Infinity:'''<br />[[Inferno (Dante Pertuz)|Inferno]]<br />[[Lash (comics)|Lash]]<br />[[Ms. Marvel (Kamala Khan)|Ms. Marvel]]<br />[[Daisy Johnson|Quake]]<br />[[Reader (comics)|Reader]]<br>[[Synapse (comics)|Synapse]] II
+|powers              = Varies
+
+<!-- Series section -->
+|title               = The Inhumans'' or ''Inhumans
+|cvr_image           = Inhumans vol.1-1 (October 1975).jpg
+|cvr_caption         = {{Descript-cvr|Inhumans|1|#1|October 1975|pub=Marvel|art=[[Gil Kane]]}}
+|schedule            = '''(vol. 1)'''<br />Bi-monthly<br />'''(vols. 2–4)'''<br />Monthly
+|format              = '''(vols. 1 and 4)'''<br />[[Ongoing series]]<br />'''(vols. 2 and 3)'''<br />[[Limited series (comics)|Limited series]]
+|limited             = Y
+|ongoing             = Y
+|Superhero           = y
+|pub_series          = Marvel Comics
+|date                =
+|1stishhead          = vol. 1
+|1stishyr            = 1975
+|1stishmo            = October
+|endishyr            = 1977
+|endishmo            = August
+|1stishhead1         = vol. 2
+|1stishyr1           = 1998
+|1stishmo1           = November
+|endishyr1           = 1999
+|endishmo1           = October
+|1stishhead2         = vol. 3
+|1stishyr2           = 2000
+|1stishmo2           = June
+|endishyr2           = 2000
+|endishmo2           = October
+|1stishhead3         = vol. 4
+|1stishyr3           = 2003
+|1stishmo3           = June
+|endishyr3           = 2004
+|endishmo3           = June
+|issues              = '''(vols. 1, 2, and 4)'''<br />12<br />'''(vol. 3)'''<br>4
+|main_char_team      =
+|writers             =
+|artists             =
+|pencillers          =
+|inkers              =
+|letterers           =
+|colorists           =
+|editors             =
+|creative_team_month =
+|creative_team_year  =
+|creators_series     =
+|TPB                 = Inhumans
+|ISBN                = 0-7851-0753-3
+|TPB2                = Young Inhumans
+|ISBN2               = 0-7851-3382-8
+
+<!-- Category section -->
+|subcat              = Marvel Comics
+|altcat              = Inhumans
+|alttop              = y
+|sortkey             = Inhumans
+}}
+The '''Inhumans''' are a fictional group of [[superheroes]] appearing in [[American comic book]]s published by [[Marvel Comics]].
+
+The comic book series has usually focused more specifically on the adventures of the '''Inhuman Royal Family''', and many people associate the name "Inhumans" with this particular team of super-powered characters.
+
+The Inhumans first appeared in ''[[Fantastic Four (comic book)|Fantastic Four]]'' #45 (December 1965), though members [[Medusa (comics)|Medusa]] and [[Gorgon (Inhuman)|Gorgon]] appeared in earlier issues of that series (#36 and #44, respectively). Their home, the city of [[Attilan]], was first mentioned years earlier, in a ''Tuk the Caveboy'' story written and drawn by Jack Kirby that appeared in ''Captain America Comics'' #1 (March 1941). The city was described as the home of a race that was evolutionarily advanced when human beings were still in the Stone Age.
+
+The Inhuman Royal Family have been adapted to numerous Marvel animated series and video games over the years. Inhuman characters were introduced in live-action in the [[Agents of S.H.I.E.L.D. (season 2)|second season]] of ''[[Agents of S.H.I.E.L.D.]]'', while the Inhuman Royal Family are featured in the TV series ''[[Inhumans (TV series)|Inhumans]]'', which premiered in 2017. The latter show was critically panned and lasted only one season. A proposed film adaptation of the Inhumans was announced in 2014 by [[Marvel Studios]] but has yet to be produced as of 2019.
+
+{{TOC limit|limit=3}}
+
+==Publication history==
+The Inhumans first appeared in ''[[Fantastic Four (comic book)|Fantastic Four]]'' #45 (December 1965).<ref>{{cite book|last = DeFalco|first = Tom|authorlink = Tom DeFalco|last2= Gilbert|first2= Laura, ed.|chapter= 1960s|title = Marvel Chronicle A Year by Year History|publisher = [[Dorling Kindersley]]|year = 2008|location= London, United Kingdom|page = 111|isbn =978-0756641238|quote= The Inhumans, a lost race that diverged from humankind 25,000 years ago and became genetically enhanced.}}</ref><ref>{{cite web | first= Brian|last= Cronin|url= http://goodcomics.comicbookresources.com/2010/09/18/a-year-of-cool-comics-day-261/|title= A Year of Cool Comics – Day 261|publisher= [[Comic Book Resources]]|date= September 18, 2010|accessdate= September 29, 2010 |archiveurl= https://web.archive.org/web/20101123190418/http://goodcomics.comicbookresources.com/2010/09/18/a-year-of-cool-comics-day-261/|archivedate=November 23, 2010 |url-status= live}}</ref> The Inhumans appeared as a back-up feature in ''[[Thor (Marvel Comics)|Thor]]'' #146 (Nov. 1967) to #152 (May 1968) which contained their first extensive origin story.<ref name="Boney">{{cite journal|last = Boney|first = Alex|title = Inhuman Nature: Genetics, Social Science, and Superhero Evolution|journal = [[Back Issue!]]|issue = 65|pages = 61–68|publisher = [[TwoMorrows Publishing]]|date = July 2013|location= Raleigh, North Carolina}}</ref> They fight the [[Silver Surfer]] in ''Silver Surfer'' #18 (September 1970). The Inhumans' first ongoing feature, the first six issues of which were written and pencilled by their co-creator [[Jack Kirby]], appeared in ''[[Amazing Adventures]]'' #1 (Aug. 1970) to #10 (Jan. 1972).<ref>[[Peter Sanderson|Sanderson, Peter]] "1970s" in Gilbert (2008), p. 146: "As Marvel was expanding its line of comics, the company decided to introduce two new 'split' books...''Amazing Adventures'' and ''Astonishing Tales''. ''Amazing Adventures'' contained a series about the genetically enhanced Inhumans and a series about intelligence agent the Black Widow."</ref> The characters received their own self-titled series in October 1975, which ran for 12 issues and ended in August 1977.<ref>{{gcdb series|id= 2250|title= ''The Inhumans''}}</ref> All but issue #9 were written by [[Doug Moench]], who has said he was fascinated with the [[shaggy God story]] aspect of the Inhumans.<ref name="Boney"/> A follow-up to the series's ending appeared in ''[[Captain Marvel (Mar-Vell)|Captain Marvel]]'' #53 (November 1977).<ref name="Boney"/>
+
+The Inhumans were largely absent from publications for much of the 1980s, only to appear in their own [[graphic novel]] in 1988, written by [[Ann Nocenti]] and illustrated by [[Bret Blevins]].<ref name="Boney"/> Nocenti followed up by making the Inhumans Karnak and Gorgon supporting cast members in ''[[Daredevil (Marvel Comics series)|Daredevil]]'' from issue #272 (November 1989) through #283 (August 1990)
+
+An ''Inhumans'' limited series by [[Paul Jenkins (writer)|Paul Jenkins]] and [[Jae Lee]] ran for 12 issues from November 1998-October 1999.<ref>Manning, Matthew K. "1990s" in Gilbert (2008), p. 290: "In this twelve-issue Marvel Knights limited series, writer Paul Jenkins and artist Jae Lee put a realistic face on the denizens of the mystical city of Attilan."</ref><ref>{{gcdb series|id= 6032|title= ''Inhumans'' vol. 2}}</ref> The series, which used the Inhumans as a social allegory for the U.S., won an [[Eisner Award]] for Best New Series and established the Inhumans as viable comics-selling characters.<ref name="Boney"/> A four-issue limited series by writers [[Carlos Pacheco]] and [[Rafael Marín]] and artist [[José Ladrönn]] was published in 2000.<ref>{{gcdb series|id= 7294|title= ''Inhumans'' vol. 3}}</ref> The fourth volume (2003-2004, 12 issues) concentrated largely on new characters within the Inhumans' society.<ref name="Boney" /><ref>{{gcdb series|id= 14991|title= ''Inhumans'' vol. 4}}</ref>
+
+In 2007, the Inhumans featured in the ''[[Silent War]]'' [[Limited series (comics)|limited series]] by writer [[David Hine]],<ref>{{cite web |url= http://forum.newsarama.com/showthread.php?t=91391|title= David Hine: Talking ''Silent War''|first= Vaneta|last= Rogers|date= November 17, 2006|publisher= [[Newsarama]]|archiveurl= https://web.archive.org/web/20070929124832/http://forum.newsarama.com/showthread.php?t=91391|archivedate=September 29, 2007 |url-status= dead}}</ref><ref>{{cite web |url= http://www.comicsbulletin.com/features/117193920030280.htm|title= David Hine, Part II: Talking ''Silent War''|first= Chris|last= Murman|date= February 19, 2007|publisher= [[Comics Bulletin]]|archiveurl= https://web.archive.org/web/20110523005409/http://www.comicsbulletin.com/features/117193920030280.htm|archivedate=May 23, 2011 |url-status= dead}}</ref><ref>{{cite web|url= http://www.comicon.com/ubb/ubbthreads.php?ubb=showflat&Number=367668#Post367668|title= David Hine's ''Silent War'' with Marvel|first= Jennifer M.|last= Contino|date= April 6, 2007|publisher= Comicon.com|archiveurl= https://web.archive.org/web/20110605165131/http://www.comicon.com/ubb/ubbthreads.php?ubb=showflat&Number=367668#Post367668|archivedate= June 5, 2011|url-status= dead}}</ref> and artist [[Frazer Irving]].<ref>{{cite web|url= http://www.comicon.com/ubb/ubbthreads.php?ubb=showflat&Number=365389#Post365389|title= Frazer Irving's ''Silent War'' With Marvel Comics|first= Jennifer M.|last= Contino|date= November 27, 2006|publisher= Comicon.com|archiveurl= https://web.archive.org/web/20110605165001/http://www.comicon.com/ubb/ubbthreads.php?ubb=showflat&Number=365389#Post365389|archivedate= June 5, 2011|url-status= dead}}</ref>
+
+Following events in the ''[[Secret Invasion]]'', the Inhumans appeared on one side of the ''[[War of Kings]]'' storyline, with [[Black Bolt]] being made king of the [[Kree]], facing off against [[Vulcan (Marvel Comics)|Vulcan]], who is leading the [[Shi'ar]].
+
+The 2013 event, ''[[Infinity (comic book)|Infinity]]'', led to major changes in status quo for the group, with many new Inhumans, or "NuHumans", appearing as a result of the detonation of the Terrigen Bomb. Writer [[Charles Soule]] became the lead writer of the Inhuman franchise, starting with the ''[[Inhuman (comics)|Inhuman]]'' series, which ran for 14 issues from April 2014&ndash;June 2015. The NuHuman [[Kamala Khan]] also becomes the lead of her own title, ''[[Ms. Marvel]]'' vol. 3. Following the ''[[Secret Wars (2015 comic book)|Secret Wars]]'' event, the franchise expanded to two ongoing titles, ''Uncanny Inhumans'',<ref name=LATimes>{{cite web|url=http://io9.com/marvel-just-revealed-its-entire-all-new-all-different-1714899675|title= Marvel Just Revealed Its Entire 'All-New, All-Different' Comic Universe|publisher=[[io9]]|first= James|last=Whitbrook|date=June 30, 2015|archiveurl= https://web.archive.org/web/20150701135707/http://io9.com/marvel-just-revealed-its-entire-all-new-all-different-1714899675|archivedate= July 1, 2015|url-status= live}}</ref> which ran for 20 issues from 2015-2017,<ref name="bleedingcool.com">{{cite web|url=https://www.bleedingcool.com/2018/02/22/iron-fist-black-bolt-cancelled-thanos/ |title=Iron Fist and Black Bolt Missing Presumed Cancelled - What About Thanos?|first= Rich|last= Johnston|work=[[Bleeding Cool]]|date=February 22, 2018|archiveurl= https://web.archive.org/web/20180707231135/https://www.bleedingcool.com/2018/02/22/iron-fist-black-bolt-cancelled-thanos/|archivedate= July 7, 2018|url-status= live|df= mdy-all}}</ref> and ''All-New Inhumans'',<ref>{{gcdb series|id= 94622|title= ''All-New Inhumans''}}</ref><ref>{{cite web|url=http://marvel.com/news/comics/24827/download_the_this_week_in_marvel_all-new_all-different_special |title=Download the This Week in Marvel All-New All-Different Special |publisher=Marvel Comics |date=July 6, 2015 |archiveurl=https://web.archive.org/web/20151125083339/http://marvel.com/news/comics/24827/download_the_this_week_in_marvel_all-new_all-different_special |archivedate=November 25, 2015 |url-status=live }}</ref> which ran for 11 issues.<ref>{{cite web|url=https://www.bleedingcool.com/2017/06/02/comic-store-future-turn-face-strange/ |title=Comic Store In Your Future: Turn And Face The Strange|first= Rich|last= Johnston |work= Bleeding Cool|date=June 27, 2017|archiveurl= https://web.archive.org/web/20190416103342/https://www.bleedingcool.com/2017/06/02/comic-store-future-turn-face-strange/|archivedate= April 16, 2019|url-status= live|df= mdy-all}}</ref> There have been two spin-off titles with ''[[Karnak (comics)|Karnak]]''<ref name=LATimes /> running in 2015 for six issues penned by [[Warren Ellis]] and drawn by [[Gerardo Zaffino]] and [[Roland Boschi]]<ref>{{cite web|url=https://www.bleedingcool.com/2017/01/13/karnak-to-end-with-issue-6-in-february/ |title=Karnak To End With Issue 6 In February|first= Rich|last= Johnston |work=Bleeding Cool |date=January 30, 2017|archiveurl= https://web.archive.org/web/20180707231009/https://www.bleedingcool.com/2017/01/13/karnak-to-end-with-issue-6-in-february/|archivedate= July 7, 2018|url-status= live|df= mdy-all}}</ref> and ''[[Black Bolt]]'' running for 12 issues from 2017-2018 penned by [[Saladin Ahmed]] and drawn by Christian Ward.<ref name="bleedingcool.com"/> In 2017, Marvel has announced two series involving the Inhuman royal family, ''Royals'' written by [[Al Ewing]] drawn by [[Kevin Libranda]], but was cancelled after 10 issues,<ref>{{cite web|first= Taimur |last=Dar |url=http://www.comicsbeat.com/marvel-comics-cancellation-bloodbath/ |title=Marvel Comics Cancellation Bloodbath |work=Comicsbeat.com |date=December 20, 2017|archiveurl= https://web.archive.org/web/20190128083800/http://www.comicsbeat.com/marvel-comics-cancellation-bloodbath/|archivedate= August 11, 2019|url-status= live|df= mdy-all}}</ref> and a five issue miniseries titled ''Inhumans: Once & Future Kings'' written by [[Christopher Priest (comics)|Christopher Priest]] and drawn [[Phil Noto]] that explored the royal family's origins.<ref>{{cite web|url= https://www.avclub.com/family-comes-first-in-this-inhumans-once-and-future-ki-1820881401|title= Family comes first in this ''Inhumans: Once And Future Kings'' exclusive|first= Oliver|last= Sava|date=November 30, 2017|website= [[The A.V. Club]]|archiveurl= https://web.archive.org/web/20171130191711/https://www.avclub.com/family-comes-first-in-this-inhumans-once-and-future-ki-1820881401|archivedate= November 30, 2017|url-status= live|df= mdy-all}}</ref>
+
+In July 2018, Marvel launched a new five-issue miniseries titled ''[[Death of the Inhumans]]'' written by Donny Cates and drawn by [[Ariel Olivetti]].<ref>{{cite web|url= https://www.cbr.com/the-death-of-the-inhumans-explained/|title= The Death of the Inhumans: How Marvel Killed Off the Cosmic Heroes|first= Renaldo|last= Matadeen|date= June 30, 2019|website= Comic Book Resources|archiveurl= https://web.archive.org/web/20190711180508/https://www.cbr.com/the-death-of-the-inhumans-explained/|archivedate= July 11, 2019|url-status= live|df= mdy-all|quote=  }}</ref>
+
+==Fictional species biography==
+At the beginning of the [[Kree-Skrull War]], millions of years ago in [[Earth]] time, the [[Extraterrestrial life|alien]] [[Kree]] established a station on the planet [[Uranus in fiction|Uranus]], a strategic position between the Kree and [[Skrull]] empires. Through their work at this station, they discovered that sentient life on nearby [[Earth]] had genetic potential invested in it by the alien [[Celestial (comics)|Celestials]]. Intrigued, the Kree began to experiment on Earth's then-primitive race ''Homo sapiens'' to produce the genetically advanced Inhuman race. Their goal was apparently twofold—to investigate possible ways of circumventing their own evolutionary stagnation, and to create a powerful mutant race of soldiers for use against the Skrulls.<ref name=i14>{{cite book|last = Pacheco|first = Carlos|authorlink = Carlos Pacheco|author2 = [[Rafael Marín|Marín, Rafael]]; [[José Ladrönn|Ladrönn, José]]|title = Fantastic Four/Inhumans|publisher = Marvel Comics|year = 2007|page = 192|isbn = 978-0785127031|quote= Collects ''Inhumans'' vol. 3 #1–4}}</ref> Although their experiments were successful in creating a strain of humanity with extraordinary abilities, the Kree abandoned their experiment because a genetic prophecy had predicted that the experiments would eventually lead to an anomaly who would destroy the Kree Supreme Intelligence.<ref>{{cite comic| writer= [[Jonathan Hickman|Hickman, Jonathan]]|penciller= [[Greg Tocchini|Tocchini, Greg]]|inker= Tocchini, Greg|story= Two Kings|title= [[Future Foundation|FF]]|issue= #6|date= September 2011}}</ref>
+
+Their test subjects, the Inhumans, went on to form a society of their own, which thrived in seclusion from the rest of humanity and developed advanced technology. Experiments with the [[mutagen]]ic [[Terrigen Mist]] (a process known as Terrigenesis) gave them various powers, but caused lasting genetic damage and deformities. This led to a long-term [[selective breeding]] program in an attempt to mitigate the effects of these mutations.
+
+Attilan's society and culture are predicated on a conformist belief system that permits individuality as it applies to genetic development and physical and mental ability, but demands rigid conformity in that each member of society is assigned a place within that society according to those abilities following exposure to the Terrigen Mist. Once assigned, no Inhuman, no matter how great or powerful, can change his or her place within this rigid [[caste]] system.<ref>{{cite comic| writer= [[Roberto Aguirre-Sacasa|Aguirre-Sacasa, Roberto]]|penciller= DeLandro, Valentine|inker= Fridolfs, Derek; Banning, Matt|story= Inhumane Part 1 Runaways|title= [[Marvel Knights 4]]|issue= #19|date= August 2005}}</ref><ref>{{cite comic| writer= Aguirre-Sacasa, Roberto|penciller= DeLandro, Valentine|inker= Banning, Matt|story= Inhumane Part 2|title= Marvel Knights 4|issue= #20|date= September 2005}}</ref> However, as an exception, a member of the Royal Family, [[Crystal (comics)|Crystal]], married outside the Inhuman race to the mutant [[Quicksilver (comics)|Quicksilver]].<ref name="FF150">{{cite comic| writer= [[Gerry Conway|Conway, Gerry]]|penciller= [[Rich Buckler|Buckler, Rich]]|inker= [[Joe Sinnott|Sinnott, Joe]]|story= Ultron-7: He'll Rule the World!|title= [[Fantastic Four]]|issue= #150|date= September 1974}}</ref>
+
+The Inhumans are led by their king, [[Black Bolt]], and his Royal Family, consisting of [[Medusa (comics)|Medusa]], [[Karnak (comics)|Karnak the Shatterer]], [[Gorgon (Inhuman)|Gorgon]], [[Triton (comics)|Triton]], [[Crystal (comics)|Crystal]], [[Maximus (comics)|Maximus the Mad]], and the canine [[Lockjaw (comics)|Lockjaw]]. Both Crystal and Medusa have been members of the [[Fantastic Four]]; Crystal has been a member of the [[Avengers (comics)|Avengers]] as well.
+
+Black Bolt has guided the Inhumans through some of the most turbulent times in their history, including several attempts by Maximus to usurp the throne, revolts by the worker class (with their eventual emancipation), attacks by human renegades, the kidnapping of Medusa, the destruction and rebuilding of Attilan, and the revelation of the Inhumans' existence to humanity.
+
+His role as king of the Inhumans has been tumultuous. The first major crisis occurred when he and Medusa conceived a [[Ahura (comics)|child]]. Medusa bore the child in defiance of the Genetic Council, who felt that Black Bolt's bloodline was too dangerous to pass on. The Council nonetheless took the child to examine and forbade parental contact. Medusa escaped to Earth with members of the royal family only to be harassed by Maximus. Black Bolt was torn between his love of family and his duty to respect the Genetic Council, and it was only when the Council was revealed to be using his son in a plot against him that he finally turned against the Council. With that, he gave up the crown as king of the Inhumans. For a while, they lived away from Attilan, but returned in times of need.<ref>{{cite comic|writer= [[Ann Nocenti|Nocenti, Ann]]|penciller= [[Bret Blevins|Blevins, Bret]]|inker= [[Al Williamson|Williamson, Al]]|story= By Right of Birth|title= The Inhumans -- A Marvel Graphic Novel|issue= #1|date= 1988}}</ref>
+
+The once-secret existence of the race has come to light among the general public as the Inhumans interact more often with many of Earth's [[superhero]]es—including the [[Fantastic Four]], the [[Avengers (comics)|Avengers]], and the [[X-Men]]—whom they have aided against threats such as [[Doctor Doom]],<ref>{{cite comic| writer= [[Tom DeFalco|DeFalco, Tom]]|penciller= [[Paul Ryan (comics)|Ryan, Paul]]|inker= Bulanadi, Danny|story= It's Always Darkest Before the...DOOM!|title= Fantastic Four|issue= #375|date= April 1993}}</ref> [[Ultron|Ultron 7]],<ref name="FF150" /><ref>{{cite comic| writer= [[Steve Englehart|Englehart, Steve]]|penciller= [[Sal Buscema|Buscema, Sal]]|inker= [[Joe Staton|Staton, Joe]]|story= Bride and Doom!|title= The [[Avengers (comics)|Avengers]]|issue= #127|date= September 1974}}</ref> [[Magneto (Marvel Comics)|Magneto]], and [[Apocalypse (comics)|Apocalypse]].<ref>{{cite comic| writer= [[Jim Lee|Lee, Jim]]; [[Whilce Portacio|Portacio, Whilce]]; [[Chris Claremont|Claremont, Chris]]|penciller= Portacio, Whilce|inker= [[Art Thibert|Thibert, Art]]|story= Endgame Part 3: Lunar Opposition|title= [[X-Factor (comics)|X-Factor]]|issue= #67|date= June 1991}}</ref><ref>{{cite comic| writer= Lee, Jim; Portacio, Whilce; Claremont, Chris|penciller= Portacio, Whilce|inker= Thibert, Art|story= Finale|title= X-Factor|issue= #68|date= July 1991}}</ref> However, no one came to the Inhumans' aid when an army of Portuguese mercenaries attacked Attilan, which was now located on risen Atlantean ruins.<ref>{{cite comic|writer= Jenkins, Paul|penciller= Lee, Jae|inker=Lee, Jae |story= Sonic Youth|title= Inhumans|volume= 2|issue= 1|date= November 1998}}</ref> This was actually a [[coup-d'etat]] orchestrated by Black Bolt's brother Maximus the Mad.
+
+Inhuman society changed radically when [[Ronan the Accuser]] sought to use the Inhumans as an army to disrupt the [[Shi'ar]] control of the Kree after their defeat in the [[Operation: Galactic Storm|Kree-Shi'ar War]]. Appearing over the city of Attilan, Ronan seized control in a surprise attack and forced the Inhumans and their king, Black Bolt, to obey, or he would destroy their only home and everyone in it. He also exiled Maximus and the Alpha Primitives to the Negative Zone. During their time in forced servitude, Ronan revealed that the Inhumans had always been intended as weapons in service to the Kree. To this end, much of the genetic attributes that were encoded in them during the original experiments were meant to give them the abilities and appearances of various alien races, the idea being that these Inhuman slaves could be used to infiltrate alien worlds and races to conduct espionage or assassinations to weaken potential conquests. Ronan used the Inhumans to launch attacks on ships and bases, disrupt a treaty between the Shi'ar and Spartax, and manipulate Black Bolt to assassinate Empress [[Lilandra Neramani|Lilandra]].<ref name="i14" />
+
+Eventually, Black Bolt sought to free his people by challenging Ronan to a personal battle. If Ronan won, the Inhumans would continue to serve him. If the king won, the Inhumans would go free. After a terrible battle, Black Bolt won and Ronan, demonstrating that the Kree still had honor, kept his word and left the Inhumans. All was not over, as the Inhumans were not willing to just follow Black Bolt back to Earth. Pressure had been building in the closed society of Attilan since open contact with the outside world had been made. During their enslavement by Ronan, the Inhumans had wished for their freedom, but had developed a sense of pride in their power and a belief in their own destiny. They no longer believed that Black Bolt or the Royal Family was fit to lead them in the new life they wanted, and they exiled the Royal Family from Attilan.<ref name="i14" /> The Royal Family returned to Earth to find their destiny. After suffering bigotry while living in the Baxter Building with the Fantastic Four and turning down political asylum from Latveria by Dr. Doom, the royal family returned to Attilan, which was located on the Blue Area of the Moon.<ref>{{cite comic|writer= [[Carlos Pacheco|Pacheco, Carlos]]; [[Rafael Marín|Marín, Rafael]]; [[Karl Kesel|Kesel, Karl]]|penciller= [[Mark Bagley|Bagley, Mark]]|inker= Kesel, Karl; Vey, Al|story= Eye of the Beholder|title= [[Fantastic Four (comic book)|Fantastic Four]]|volume= 3|issue= 51|date= March 2002}}<br>{{cite comic|writer= Pacheco, Carlos; Marín, Rafae; Kesel, Karl|penciller= Bagley, Mark|inker= Vey, Al|story= Shadows of Doom|title= Fantastic Four|volume= 3|issue= 52|date= April 2002}}<br>{{cite comic|writer= Pacheco, Carlos; Marín, Rafae; Kesel, Karl|penciller= Bagley, Mark|inker= Vey, Al|story= The Fire This Time!|title= Fantastic Four|volume= 3|issue= 53|date= May 2002}}<br>{{cite comic|writer= Pacheco, Carlos; Marín, Rafae; Kesel, Karl|penciller= Bagley, Mark|inker= Vey, Al|story= A Choice of Dooms!|title= Fantastic Four|volume= 3|issue= 54|date= June 2002}}</ref> The Inhumans attempted to foster better relations with Earth by [[Student exchange program|sending students]] to the [[University of Wisconsin]].<ref>{{cite book|last = McKeever|first = Sean|authorlink = Sean McKeever|author2=Clark, Matthew|title = Young Inhumans ''collecting'' Inhumans ''Vol. 4 issues 1-12''|publisher = Marvel Comics|year = 2008|page = 272|isbn = 978-0785133827}}</ref>
+
+===''Son of M''===
+{{Main|Son of M}}
+In the events of ''[[Son of M]]'', [[Quicksilver (comics)|Quicksilver]] stole the Terrigen Crystals in an attempt to regain his powers and cure the de-powered mutants from [[Decimation (comics)|M-Day]]. The theft led to a conflict on [[Genosha]] between the re-powered mutants (whose powers came back as too powerful for their own good causing their eventual surrender), the Inhumans, and the U.S. [[Office of National Emergency]]. The conflict ended with the O.N.E. confiscating the Terrigen Crystals, an act that incited Black Bolt to verbally declare war on the [[United States]].<ref>{{cite comic| writer= [[David Hine|Hine, David]]|penciller= Martinez, Roy Allan|inker= Martinez, Roy Allan|story= The Purple Testament|title= [[Son of M]]|issue= #6|date= July 2006}}</ref>
+
+===''Silent War''===
+{{Main|Silent War}}
+In January 2007, the miniseries ''[[Silent War]]'' began, with Gorgon launching a first strike on New York. Although the Inhumans do manage to recover the crystals, the episode ends with Maximus again taking control of Attilan.<ref>{{cite book|last = Hine|first = David|author2=Irving, Frazier |authorlink2=Frazer Irving |title = [[Silent War]]|publisher = Marvel Comics|year = 2007|page = 144|isbn = 978-0785124252 }}</ref>
+
+===''New Avengers: Illuminati''===
+{{See also|List of New Avengers story arcs#New Avengers: Illuminati|l1=New Avengers: Illuminati}}
+It has been revealed that Black Bolt has been replaced by a [[Skrull]] impostor, in a time frame after ''Silent War'', but before ''[[World War Hulk]]''.<ref>{{cite comic| writer= [[Brian Michael Bendis|Bendis, Brian Michael]]; Reed, Brian|penciller= [[Jim Cheung|Cheung, Jim]]|inker= Morales, Mark|story= Whose body is that?|title= [[Illuminati (comics)|New Avengers: Illuminati]]|issue= #5|date= January 2008}}</ref><ref name="Pokaski">{{cite book|last = Pokaski|first = Joe|authorlink = Joe Pokaski|author2=Raney, Tom |authorlink2=Tom Raney |title = Secret Invasion: Inhumans|publisher = Marvel Comics|year = 2009|page = 112|isbn = 978-0785132486}}</ref> The impostor revealed himself to the [[Illuminati (comics)|Illuminati]] and was killed. Both the sudden rift between Medusa and Black Bolt apparent in ''Silent War'' and Black Bolt's later defeat at the hands of the [[Hulk]] in ''World War Hulk'' could be attributed to this development, for it is uncertain just when Black Bolt might have been replaced by his Skrull duplicate.
+
+===''Secret Invasion: Inhumans''===
+{{Main|Secret Invasion}}
+Written by ''[[Heroes (U.S. TV series)|Heroes]]'' writer [[Joe Pokaski]], this story digs into how the Inhuman Royal Family deals with the news that the Black Bolt had been replaced by a Skrull impostor.<ref name="Pokaski" /> The Skrulls attack Attilan while Black Bolt is revealed to be a prisoner of the Skrulls, who intend to use his voice as a weapon of mass destruction. The Inhuman Royal Family defeated several Skrull soldiers and took a Skrull ship with the point of taking the war to the Skrulls and save Black Bolt. With some help from the Kree, they rescue Black Bolt and return to Attilan.<ref name="Pokaski" />
+
+===''Dark Reign''===
+{{Main|Dark Reign (comics)}}
+The Inhuman Royal Family confronts the [[Unspoken (comics)|Unspoken]], a cousin of Black Bolt.<ref>{{cite comic| writer= [[Christos Gage|Gage, Christos]]; [[Dan Slott|Slott, Dan]]|penciller= Pham, Khoi|inker= Martinez, Allen|story= The Unspoken Part I|title= [[The Mighty Avengers]]|issue= #27|date= September 2009}}</ref>
+
+===''War of Kings''===
+{{Main|War of Kings}}
+Finally deciding that they will no longer be used and abused by other races, the Inhumans take drastic action to ensure their survival as a race. To that end, they activate a series of long dormant machines beneath the city of Attilan, transforming it into a gigantic starship, powered by Black Bolt's voice. Breaking free from its resting place on the Moon, Attilan enters hyperspace and tracks down the remnants of the Skrull Armada, completely eradicating it. As Attilan enters Shi'ar space, it attracts the attention of three Shi'ar warships, who order them to depart or they will open fire. They too are destroyed without mercy.
+
+Attilan reaches the planet Hala, destroying the protective shield that guards their weakened empire and enter the planet itself. The Royal Family confronts [[Ronan the Accuser]], who is serving as king. He admitted he felt that he was just holding the spot of ruler for their true king, Black Bolt, but Black Bolt declined the seat of king.<ref name="Secret Invasion: War of Kings">{{cite comic| writer= [[Dan Abnett|Abnett, Dan]]; [[Andy Lanning|Lanning, Andy]]|penciller= [[Paul Pelletier|Pelletier, Paul]]; Dazo, Bong|inker= Magyar, Rick; Pimentel, Joe|title= Secret Invasion: [[War of Kings]]|issue= #1|date= March 2009}}</ref>
+
+===''Realm of Kings''===
+{{Main|Realm of Kings}}
+The T-Bomb has killed Black Bolt, leaving leadership to Queen Medusa. The Inhuman Royal Family struggles to maintain their grip on the Kree Empire. The Alpha Primitives revolt, Maximus tries to take the throne, and the Kree aristocracy revolts, which erodes the Inhumans' rule.
+
+===Universal Inhumans===
+Back on Earth, the [[Fantastic Four]] encounter an interstellar group of Inhumans formed from the Centaurians, the [[Dire Wraith]]s, the [[Kymellian]]s, and the [[Badoon]]. These new Inhumans reveal that the Kree experimented on other interstellar races, aside from humans, and used methods other than the Terrigen Mists. The resulting Universal Inhumans have banded together and traveled to Earth in search of Black Bolt, who they believe will lead their collective people in an eventual takeover of Earth.<ref>{{cite comic| writer= Hickman, Jonathan|penciller= [[Dale Eaglesham|Eaglesham, Dale]]|story= Prime Elements 3: Universal Inhumans|title= Fantastic Four|issue= #577|date= May 2010}}</ref> When Black Bolt returned, the Universal Inhumans arrive on Earth's moon where a prophecy revolving around a Midnight King rising from the Inhuman Program and bringing an end to the Kree is revealed.<ref>{{cite comic| writer= Hickman, Jonathan|penciller= Tocchini, Greg|inker= Tocchini, Greg|story= The Supremor Seed|title= FF|issue= #7|date= September 2011}}</ref> It is this prophecy which was foresaw by the organic super-computer the Supreme Intelligence during the initial stages of the program that lead to its cancellation. The Intelligence ordered Accuser Huran to murder science officer Von-Warr and weaponized biologist Ry-Noor, the scientists responsible for the program, and summon the Accuser Corps to cleanse the experiments on every world that they had seeded. In its haste, however, the Supreme Intelligence failed to download the full data packet from the scientists, and five races of future "Inhumans" escaped the slaughter: the Badoon, the Centaurians, the Dire Wraiths, the Kymellians and early humans. Together they go to Earth to defeat the four Reeds from the Interdimensional Council.<ref>{{cite comic| writer= Hickman, Jonathan|penciller= [[Steve Epting|Epting, Steve]]|story= Ascension|title= FF|issue= #8|date= October 2011}}</ref><ref>{{cite comic| writer= Hickman, Jonathan|penciller= Epting, Steve|inker= Magyar, Rick|story= Burn It Down|title= FF|issue= #9|date= November 2011}}</ref><ref>{{cite comic| writer= Hickman, Jonathan|penciller= [[Barry Kitson|Kitson, Barry]]|inker= Kitson, Barry|story= What I Need|title= FF|issue= #10|date= December 2011}}</ref>
+
+Meanwhile, the resurrected Supreme Intelligence orders the Kree to launch an attack to destroy the Earth and the Inhumans in a bid to prevent the genetic prophecy from occurring. They are repelled, with the Inhumans in pursuit.<ref>{{cite comic| writer= Hickman, Jonathan|penciller= Kitson, Barry|inker= Kitson, Barry|story= Intelligence|title= FF|issue= #11|date= December 2011}}</ref><ref>{{cite comic| writer= Hickman, Jonathan|penciller= Epting, Steve|inker= Magyar, Rick; Epting, Steve|story= Forever|title= Fantastic Four|issue= #600|date= January 2012}}</ref><ref>{{cite comic| writer= Hickman, Jonathan|penciller= Epting, Steve|inker= Magyar, Rick; Epting, Steve|story= Forever, Part 2|title= Fantastic Four|issue= #601|date= February 2012}}</ref><ref>{{cite comic| writer= Hickman, Jonathan|penciller= Kitson, Barry|inker= Kitson, Barry|story= Forever, Part 3|title= Fantastic Four|issue= #602|date= March 2012}}</ref><ref>{{cite comic| writer= Hickman, Jonathan|penciller= Kitson, Barry|inker= Kitson, Barry|story= Forever, Part 4|title= Fantastic Four|issue= #603|date= April 2012}}</ref>
+
+===''Infinity''===
+{{Main|Infinity (comic book)}}
+During the events of ''[[Infinity (comic book)|Infinity]]'', [[Thanos]] and his forces attack Attilan and offer to spare the city in exchange for a tribute: the deaths of all Inhumans between the ages of 16 and 22. Black Bolt surmises that the offering is a ruse to hide the fact that Thanos actually desires the death of [[Thane (comics)|Thane]], a half-Inhuman youth he had fathered years earlier.<ref>{{cite comic| writer= Hickman, Jonathan|penciller= [[Jerome Opeña|Opeña, Jerome]]; Weaver, Dustin|inker= Opeña, Jerome; Weaver, Dustin|story= Fall|title= [[Infinity (comic book)|Infinity]]|issue= #2|date= November 2013}}</ref> Maximus had [[Eldrac]] transport the remaining Inhumans to different locations to keep them from being killed by Thanos. The search for Thane eventually reveals that secret Inhuman tribes have existed on Earth for years and mated with its population, producing a number of seemingly-normal humans who possess dormant Inhuman genes.<ref>{{cite comic| writer= Hickman, Jonathan|penciller= [[Mike Deodato|Deodato, Mike]]|inker= Deodato, Mike|story= The Thanos Seed|title= [[The New Avengers (comics)|The New Avengers]]|volume= 3|issue= #10|date= November 2013}}</ref> In response to Thanos' threat, Black Bolt and Maximus evacuate Attilan before destroying it as a show of defiance.<ref>{{cite comic| writer= Hickman, Jonathan|penciller= Opeña, Jerome; Weaver, Dustin|inker= Opeña, Jerome; Weaver, Dustin|story= Kingdoms Fall |title= Infinity |issue= #3|date= November 2013}}</ref> The destruction of the city activates the Terrigenisis Bomb, a creation of Maximus, which spreads the Terrigen Mist across the globe and activates special abilities within numerous unsuspecting humans who were Inhuman descendants.<ref>{{cite comic| writer= Hickman, Jonathan|penciller= Opeña, Jerome; Weaver, Dustin|inker= Opeña, Jerome; Weaver, Dustin|story= Thane|title= Infinity|issue= #4|date= December 2013}}</ref>
+
+===''Inhumanity''===
+{{Main|Inhumanity (comics)}}
+During the ''[[Inhumanity (comics)|Inhumanity]]'' storyline, Karnak was left mentally scarred by said events and begun destroying the upper west side of Manhattan, babbling and sobbing uncontrollably. He was taken into custody by the [[Avengers (comics)|Avengers]]. In [[Stark Tower]], Karnak explained to the Avengers what happened during their fight with [[Thanos]] and what it meant for the Inhumans. When he was questioning himself for the reason for [[Black Bolt]] to spread the Terrigen Mists and what would happen next, Karnak had an epiphany in which he finally saw "the fault in all things". He told [[Medusa (comics)|Medusa]] who was present during his interrogation that she needed to forget everything she thought she knew, ignore the instincts, and forget the past. Otherwise, all would be lost. Following this revelation in which he stated it was too late for him to unlearn a lifetime of error, Karnak shattered the window from his containment cell and jumped out of Stark Tower, killing himself.<ref>{{cite comic| writer= [[Matt Fraction|Fraction, Matt]]|penciller= [[Olivier Coipel|Coipel, Olivier]]|inker= Coipel, Olivier|title= [[Inhumanity (comics)|Inhumanity]]|issue= #1|date= February 2014}}</ref>
+
+It was later revealed that there is another Inhuman city called Orollan which is located somewhere in Greenland. The Inhuman [[Lash (comics)|Lash]] is from Orollan as he plans to recruit the Inhuman descendants to work for him.<ref name="Inhuman1">{{cite comic| writer= [[Charles Soule|Soule, Charles]]|penciller= [[Joe Madureira|Madureira, Joe]]|inker= Madureira, Joe|story= Part 1: Genesis|title= Inhuman|issue= #1|date= June 2014}}</ref> As the months pass, Medusa also begins gathering the Inhuman descendants (called NuHumans by many), and reveals the existence of the Inhumans to the world. Attilan is rebuilt from its remains on the Hudson River, in a city called New Attilan, serving as an independent nation welcoming all Inhumans and open to any who wish to visit.<ref name="Inhuman1" />
+
+Crystal takes a team of Inhumans on the transport vessel called the R.I.V., or Royal Inhumans Vehicle, to follow the Terrigen Cloud and protect any NuHumans. In Australia she finds a skinhead Inhuman with skin-changing powers and a healer named Panacea.<ref>{{cite comic|writer= [[James Asmus|Asmus, James]]; [[Charles Soule|Soule, Charles]]|penciller= [[Stefano Caselli|Caselli, Stefano]]|inker= Caselli, Stefano|title= All-New Inhumans|issue= 1|date= February 2016}}</ref> Her team the visits the [[hermit kingdom]] of Sin-Cong to explore why there have been no NuHumans in that country.<ref>{{cite comic|writer= Asmus, James; Soule, Charles|penciller= Caselli, Stefano|inker= Caselli, Stefano|title= All-New Inhumans|issue= 2|date= February 2016}}<br>{{cite comic|writer= Asmus, James; Soule, Charles|penciller= Caselli, Stefano|inker= Caselli, Stefano|title= All-New Inhumans|issue= 3|date= March 2016}}<br>{{cite comic|writer= Asmus, James; Soule, Charles|penciller= Caselli, Stefano|inker= Caselli, Stefano|title= All-New Inhumans|issue= 4|date=April 2016}}</ref> Her team then investigates mysterious "skypears" that landed around the globe. They investigate a skyspear in [[China]], but are met with suspicion by the [[Collective Man]] and the [[People's Defense Force]]. The skyspear attacks the Inhumans and the People's Defense Force, temporarily de-powering the Collective Man. Flint, unaware he is de-powered, nearly kills him with a rock attack, which traumatizes Flint.<ref>{{cite comic|writer= Asmus, James|penciller= [[André Lima Araújo|Lima Araújo, André]]|inker= Lima Araújo, André|title= All-New Inhumans|issue= 5|date= May 2016}}<br>{{cite comic|writer= Asmus, James|penciller= Lima Araújo, André|inker= Lima Araújo, André|title= All-New Inhumans|issue= 5|date= May 2016}}</ref> Crsytal decides to leave China and travel to Africa with [[Kraven the Hunter (Ana Kravinoff)|Ana Kravinoff]] as their guide to find Flint's family in the [[Chimanimani District|Chimanimani Mountains]] of [[Mozambique]], Africa in the hidden Inhuman city of Utolan. Upon their return to Attilan, Panacea empathizes with Gorgon's suffering and heals his paralysis as practice before she tries her abilities on his comatose son.<ref>{{cite comic|writer= Asmus, James|penciller= Caselli, Stefano|inker= Caselli, Stefano|story= Homecoming|title= All-New Inhumans|issue= #7–11|date= July–November 2016}}</ref>
+
+===''Civil War II''===
+{{Main|Civil War II}}
+The Terrigen Cloud sweeps over Ohio where it transforms two [[Ohio State University]] students named Ulysses Cain and Michelle into Inhumans. While Michelle emerged as a red-skinned beast with wings and a tail, Ulysses emerged unchanged but with the ability of precognition.<ref>{{cite comic|writer= Bendis, Brian Michael|penciller= Coipel, Olivier|inker= Coipel, Olivier|title= [[Civil War II]]|issue= #0|date= July 2016}}</ref> Iron Man later infiltrated New Attilan to claim Ulysses after fighting off Medusa, Crystal, and Karnak. This leads the Inhumans to head to Stark Tower to reclaim Ulysses which leads to the Avengers, the [[Ultimates (2015 team)|Ultimates]], and S.H.I.E.L.D. to get involved. When Ulysses projects his latest vision that shows a rampaging Hulk standing over the corpses of the superheroes, this causes the younger Inhumans present to cry.<ref>{{cite comic|writer= Bendis, Brian Michael|penciller= [[David Marquez (comics)|Marquez, David]]|inker= Marquez, David|title= Civil War II|issue= #2|date= August 2016}}</ref>
+
+===''Inhumans vs. X-Men''===
+{{Main|Inhumans vs. X-Men}}
+The Beast works with Iso to find a way to counter the Terrigen Cloud as Medusa tells the Inhuman Royal Family to be prepared just in case the X-Men take action against them as the Terrigen Cloud becomes saturated.<ref>{{cite comic|writer= Soule, Charles|penciller= [[Kenneth Rocafort|Rocafort, Kenneth]]|inker= Rocafort, Kenneth|title=IVX|issue= 0|date= January 2017}}</ref> When the shrinking of the Terrigen Cloud threatens to render Earth inhospitable for mutants, Emma Frost, Magneto, and Storm make plans to destroy the Terrigen Cloud. The Beast heads back to Attilan to speak to the Royal Family, only for Emma Frost to go ahead with the attack.<ref>{{cite comic|writer=Soule, Charles; [[Jeff Lemire|Lemire, Jeff]]|penciller= [[Leinil Francis Yu|Yu, Leinil Francis]]|inker= [[Gerry Alanguilan|Alanguilan, Gerry]]|title= IVX|issue= 1|date= February 2017}}</ref> The X-Men take out most of the Inhuman Royal Family and trap them in Limbo.<ref>{{cite comic|writer= Soule, Charles; Lemire, Jeff|penciller= Yu, Leinil Francis|inker= Alanguilan, Gerry|title= IVX|issue= 2|date= March 2017}}</ref> After hearing from Iso about why the X-Men want to destroy the Terrigen Cloud, Medusa is the one who destroys the Terrigen Cloud. Medusa abdicates the throne and gives all leadership duties to Iso, knowing that her people will not understand why she destroyed the remaining Terrigen Cloud. Now free of the burdens of being a queen, Medusa happily reunites with Black Bolt in the Quiet Room.<ref>{{cite comic|writer= Soule, Charles; Lemire, Jeff|penciller= Yu, Leinil Francis|inker= Alanguilan, Gerry|title= IVX|issue= 6|date= May 2017}}</ref>
+
+===Encounter with the Progenitors===
+Medusa banishes Maximus into an inter-dimensional prison, then with Crystal, Black Bolt, Flint, Gorgon, and Captain Swain are guided by Noh-Varr to the former Kree throne-world of Hala to discover the origins of Terrigen and offer a future to their doomed people. During the trip they learn Maximus and Black Bolt had switched bodies, so Black Bolt was actually banished.<ref>{{cite comic|writer= [[Saladin Ahmed|Ahmed, Saladin]]|penciller=[[Christian Ward|Ward, Christian]]|inker=Ward, Christian|title= Black Bolt|issue= 1|date= July 2017}}</ref> To further complicate matters, Medusa runs her hand through her powerful hair only to pull a large clump out with it, forcing her to announce to her crew that she is dying.<ref>{{cite comic|writer=[[Al Ewing|Ewing, Al]]|penciller=[[Jonboy Meyers|Meyers, Jonboy]]|inker= Meyers, Jonboy|story= Another Future Song|title= Royals|issue= 1|date= June 2017}}</ref> It is soon apparent that Medusa's decision to destroy the Terrigen Cloud is afflicting her. She did what she had to in order to save the mutant race, but in doing so she had doomed the future of her people. Because Medusa had pressed the button, that act had the consequence of gradually draining the life energies from her. Akin to dying of a broken heart, Medusa had acted to end a cultural heritage that had lasted millennia and her body has essentially chosen to end with it. Her only hope now is to find the secrets of the Terrigen and bring a new source of it back to their people, so she too can be revitalized.<ref>{{cite comic|writer= Ewing, Al|penciller= Meyers, Jonboy; [[Thony Silas|Silas, Thony]]|inker= Meyers, Jonboy; Silas, Thony|story= We Are the Dead|title= Royals|issue= 2|date= July 2017}}</ref>
+
+The Inhumans and Noh-Var discover info on the Primagen which was used by the Progenitors to create the Kree and what the Terrigen derives from.<ref>{{cite comic|writer= Ewing, Al|penciller= Silas, Thony|inker= Silas, Thony|story= The Center of Things|title= Royals|issue= 5|date= September 2017}}</ref> When the Inhumans obtain the Primagen from the Progenitors' World Farm and Gorgon buys his fellow Inhumans time to get away, Maximus takes a sample of the Primagen and has a vision where the Progenitors attack Earth in retaliation for the theft of the Primagen.<ref>{{cite comic|writer= Ewing, Al|penciller= [[Kevin Libranda|Libranda, Kevin]]; [[Javier Rodríguez (artist)|Rodriguez, Javier]]|inker= Libranda, Kevin; Lopez, Alvaro|story= From Kether to Malkuth|title= Royals|issue= 12|date= February 2018}}</ref> While on the Astral Plane with Black Bolt, Medusa and Black Bolt agreed to continue as partners and not lovers. When Medusa takes the Primagen, it restores her hair and health while also causing a backlash in the attacking Progenitor to destroy the approaching Progenitors causing the Ordinator-Class Progenitors that saw the attack from the World Farm to spare Earth from their invasion.<ref name="Inhumans: Judgement Day #1">{{cite comic|writer= Ewing, Al|penciller= Del Mundo, Mike; Libranda, Kevin|inker= Del Mundo, Mike; Libranda, Kevin; Deering, Marc|story= Judgement Day|title= Inhumans: Judgement Day|issue= 1|date= March 2018 }}</ref>
+
+===Establishing New Arctilan===
+Following their return from the Progenitors' World Farm, members of the former Inhuman Royal Family and their allies settled on the Moon, where Marvel Boy created by using Kree technology from his native universe, a pocket atmosphere that surrounds the Leibnitz crater which was dubbed the Gray Area of the Moon. Inside the crater, Flint used both Moon rock and his own body crystal to built New Arctilan the Inhumans' new base.<ref name="Inhumans: Judgement Day #1"/>
+
+===''Death of the Inhumans''===
+{{Main|Death of the Inhumans}}
+The Kree have initiated a murdering campaign in order to force Black Bolt to join the Kree Empire. This ultimatum causes the deaths of thousands of Inhumans with the word "Join or Die" carved into their bodies which forced Black Bolt to call together the four Queens of the Universal Inhuman tribes to respond to this threat. However, the meeting goes far from as planned, as an Inhuman executioner named Vox, a Super-Inhuman created by the Kree, begins his bloody rampage across the place. When Black Bolt and his Royal Family reached the meeting place, they discover the bodies of Oola Udonta, Aladi Ko Eke, Onomi Whitemane and Goddess Ovoe, with the same three words written in their blood on a banner hanging about their corpses and eventually realized that they fell in to a trap as one of the dead Inhumans was wired with an explosive. While most of Black Bolt's group made it out alive, thanks to Lockjaw, Triton was not so lucky and was killed in the explosion. Black Bolt then sent Lockjaw to New Arctilan to retrieve his brother Maximus. Unbeknownst to them, Vox and his men had already arrived on New Arctilan and began murdering every Inhuman they come across, old or new. Armed with all of the Inhumans’ abilities and no humanity, Vox easily cuts his prey down with his powers or his energy scythe. Even Maximus cannot defeat Vox, as he quickly loses an arm for even making the attempt. Pretty soon, Lockjaw arrived and stood up with Maximus to attempted to stop Vox on their own but things did not go so well and Vox fired an enormous blast, ripping a hole in both of them.<ref name="DeathofInhumans1">{{cite comic|writer= [[Donny Cates|Cates, Donny]]|penciller= [[Ariel Olivetti|Olivetti, Ariel]]|inker= Olivetti, Ariel|story= Chapter One: Vox|title=[[Death of the Inhumans]]|issue= 1|date= September 2018}}</ref>
+
+When Karnak is sent to the Kree to relay a message from Black Bolt to them, the Kree Commander explains how they dispatched Ronan the Accuser as leader of the Kree after Hala was placed in ruin by [[J'son (comics)|Mister Knife]] and have begun to forge a new life. When asked to kneel, Karnak does not. Instead, he does his best to fend off Vox only for the Super-Inhuman to subdue Karnak. As Black Bolt arrives, he walks through the halls of the Kree base speaking every name of the fallen Inhumans, making it a song about death. Eventually, it comes down to just Black Bolt vs. Vox who is holding Karnak as a shield. Black Bolt signs to Karnak to have Vox take him instead. Vox apparently accepts the change as he teleports himself behind Black Bolt. Before Karnak’s very eyes, Vox slits Black Bolt’s throat.<ref>{{cite comic|writer= Cates, Donny|penciller= Olivetti, Ariel|inker= Olivetti, Ariel|story= Chapter Two: Speak and Destroy|title=Death of the Inhumans|issue= 2|date= October 2018}}</ref> 
+
+The Kree take Black Bolt prisoner and repair the damage done to his throat without using any sedatives or anesthesia to dull the pain which prompted them to think that Black Bolt's great power is gone when he does not scream and therefore the prophecy about the Midnight King is no longer a threat to the Kree. However while being transported, it turns out that he still has his voice, but it is faint. After killing several Kree, Black Bolt secures a firearm and finds Ronan the Accuser alive. However, he is a prisoner of Vox and having been experimented on alongside the Kree soldiers that are loyal to Ronan. Black Bolt learns of this when he sees that Ronan has been converted to a cyborg. At Ronan’s request, Black Bolt enables him a mercy killing by whispering "You are forgiven." Elsewhere, Medusa and the surviving Inhuman Royal Family members try to recruit Beta Ray Bill in their fight against Vox and the Kree.<ref>{{cite comic|writer= Cates, Donny|penciller= Olivetti, Ariel|inker= Olivetti, Ariel|story= Chapter Three: Silent Kingdom|title=Death of the Inhumans|issue= 3|date=November 2018}}</ref> 
+
+The Inhuman Royal Family are finally taking the battle to the Kree and arrive just in time to save Black Bolt from Vox. Thanks to the interference of Beta Ray Bill, the Inhuman Royal Family are able to overpower and kill Vox, but not before he is apparently able to kill Crystal. They soon realize to their surprise that Vox was actually Maximus in disguise concluding that the Super-Inhuman is not a person. Instead, it is a program and it is also revealed that the voice power that everyone assumes is vaporizing his targets was actually just teleporting them instead as it was seen after Crystal's apparent death, she has been transported to an unknown place where Kree scientists are experimenting on the Inhuman victims who were supposedly killed. While Lockjaw is not seen, Triton appears to be in some kind of stasis tank alongside Naja, Sterilon, and other unnamed Inhumans. Crystal is now doomed to be the next Vox.<ref name="Death of the Inhumans #4">{{cite comic|writer= Cates, Donny|penciller= Olivetti, Ariel|inker= Olivetti, Ariel|story= Chapter Four: Roar|title=Death of the Inhumans|issue= 4|date=Decmber 2018}}</ref> 
+
+Meeting up with the Inhuman Royal Family and Beta Ray Bill, Black Bolt is told by Karnak of Vox being a program that transported his "victims" to the Kree. With the Kree planning to turn any captive Inhumans into Vox, Karnak states that not all of them will be rescued. As Black Bolt has one more scream left, Karnak tells him to make it count. Using his sign language, Black Bolt addresses the others on how he has made mistakes in the past and apologizes to them. After holding a moment of silence, Black Bolt orders Gorgon to turn around. The Inhuman ship strikes the Kree's base. Vox then pushes a button to unleash the Vox-controlled Inhumans. As Gorgon and Beta Ray Bill engage the Kree soldiers, Black Bolt, Medusa and Karnak arrive at the laboratory where they find Vox-controlled Inhumans like Crystal and Lockjaw. Using a laser, Black Bolt clears the Vox-controlled Crystal and Lockjaw just because they were in his way. Entering one door, Black Bolt signs "I love you. I'm sorry" before whispering for them to run. As Medusa and Karnak fight the Vox-controlled Crystal and Lockjaw, Black Bolt confronts other Vox-controlled Inhumans like Triton. With what little remained of his power, Black Bolt destroyed the engines responsible for transmitting the Vox program, killing all the Inhumans there and robbing the Kree of their plans. Gorgon and Beta Ray Bill arrive stating that the Kree have fled and see Crystal and Lockjaw still alive, having been freed from the Vox-control when the engines were destroyed. Black Bolt emerges from the room as Medusa orders Lockjaw to take them away from the Kree base. When Crystal asks where they should go, Black Bolt uses his sign language to say "Home." Lockjaw then teleports them away.<ref>{{cite comic|writer= Cates, Donny|penciller= Olivetti, Ariel|inker= Olivetti, Ariel|story= Chapter Five: Rome|title=Death of the Inhumans|issue= 5|date=January 2019}}</ref> Beta Ray Bill would later confirm that the Royals were the last of the Inhumans, though there are still a few Nuhumans active on Earth.
+
+==Powers and abilities==
+Even without using the Terrigen Mist, the Kree modifications, combined with centuries of selective breeding, have given all Inhumans certain advantages. Their average lifespan is 150 years and an Inhuman in good physical condition possesses strength, reaction time, speed, and endurance greater than the finest of human athletes. [[Karnak (comics)|Karnak]] and other normal Inhumans who are in excellent physical shape can lift one ton and are physically slightly superior to the peak of normal human physical achievement. Exposure to the Terrigen Mist can both enhance and in some cases reduce these physical capabilities. Most Inhumans are used to living in a pollution-free, germ-free environment and have difficulty tolerating Earth's current level of air and water pollution for any length of time.
+
+==Known Inhumans==
+{{Main|List of Inhumans}}
+
+===Alpha Primitives===
+The '''Alpha Primitives''' are a [[Slavery|slave]] race created by the Inhumans, first appearing in ''[[Fantastic Four]]'' #47 (February 1966). Because of the Inhumans' low population, they created a labor force of [[hominid]]s bred to be strong, but of limited intelligence. They were also rendered unable to breed, being produced only by [[cloning]]. They were used by [[Maximus (comics)|Maximus the Mad]] in several schemes, resulting in their being freed from servitude by [[Black Bolt]]; they would no longer be cloned and those already made would be allowed to live out their lives in a preserve under the city proper. After some time though it was understood that the Alpha Primitives could not live on their own, and the previous arrangement was reversed.
+
+The former king of the Inhumans called the [[Unspoken (comics)|Unspoken]] revealed that the Alpha Primitives are actually humans who have been exposed to gas created from Xerogen Crystals, a substance created by the [[Kree]] as a weapon for the Inhumans to use against their human enemies.<ref>{{cite comic| writer= Gage, Christos; Slott, Dan|penciller= Pham, Khoi|inker= Martinez, Allen|story= The Unspoken Part 3|title= [[The Mighty Avengers]]|issue= #29|date= November 2009}}</ref>
+
+===Bird People===
+The '''Bird-People''' are a genetic offshoot of the Inhumans with bird wings, and in some cases, bat wings.<ref>{{cite comic|writer= [[Joe Simon|Simon, Joe]]|penciller= Cazeneuve, Louis|inker= Cazeneuve, Louis|story= The Origin of the Red Raven|title=Red Raven Comics|issue= 1|date= August 1940}}</ref>
+
+===Super-Inhumans===
+The Kree eventually designed a new race of Inhumans that differs greatly from the original called '''Super-Inhumans'''. They are believed to be engineered from birth with almost of all of their fellows' Inhuman abilities and none of their problematic humanity. They cannot be swayed or tricked or bought for as they want nothing but their enemies' hearts to stop beating.<ref name="DeathofInhumans1" /> The only known member of this new race is Vox, but it was eventually revealed that the Super-Inhuman race were actually a ruse perpetuated by the Kree and Vox is not actually a person; instead, it is a program designed by the Kree which is then imprinted on selected Inhumans that transforms them genetically into a killing machine.<ref name="Death of the Inhumans #4"/>
+
+==Other versions==
+
+===Heroes Reborn===
+{{Main|Heroes Reborn (comics)}}
+In this alternate reality created by [[Franklin Richards (Fantastic Four)|Franklin Richards]], the Inhumans are mostly the same. They live on Earth, in Attilan. The biggest difference is the reverence they hold, shown in statues, for [[Galactus#Heroes Reborn|Galactus]] and the multitude of heralds who operate for him simultaneously. The Terrigen Mists are not completely under their control, coming from a crack in the ground. Their ultimate origins are unknown, but Maximus the Mad escapes in the caverns deep beneath the city to locate it. Here, it is discovered their city holds connections to other areas of the world, such as [[Mole Man#Heroes Reborn|Mole Man]]'s Monster Isle.
+
+===House of M===
+{{Main|House of M}}
+Black Bolt appears as an ally of [[Black Panther (comics)|Black Panther]].<ref>{{cite book|last1= Bendis|first1= Brian Michael|last2= Coipel|first2= Olivier|title= [[House of M]]|publisher = Marvel Comics|year = 2006|page = 224|isbn = 978-0785117216}}</ref> The other Inhumans were present at the meeting between Black Bolt, [[Alternative versions of Professor X#House of M|Professor X]], and Magneto.
+
+===Squadron Supreme===
+In the original [[Squadron Supreme]] universe, [[Power Princess]]' people the Utopians are the equivalent of the Inhumans.<ref>{{cite comic|writer= [[Mark Gruenwald|Gruenwald, Mark]]|penciller= [[Bob Hall (comics)|Hall, Bob]]|inker= [[John Beatty (illustrator)|Beatty, John]]|story= The Utopia Principle|title= Squadron Supreme|issue= 1|date= September 1985}}</ref>
+
+===Ultimate Marvel===
+The Inhumans made their debut in the [[Ultimate Marvel]] Universe in ''[[Ultimate Fantastic Four]] Annual'' #1 (2005). It begins with two mountain climbers reached the walls of their city, Atillan, in the [[Himalayas]] when they are turned back with their memories erased. The Inhumans made themselves known to the Fantastic Four when a member of their royalty, [[Crystal (comics)#Ultimate Marvel|Crystal]], fled to New York after being ordered to marry [[Black Bolt#Ultimate Marvel|Black Bolt]]'s brother Maximus. [[Alternative versions of the Human Torch#Ultimate Marvel|Johnny]] came across Crystal and attempted to save her from two royal guards from Atillan who were trying to capture her. Beaten, Crystal took him back to the Baxter Building, and revealed herself to the Fantastic Four. She left behind her dog [[Lockjaw (comics)#Ultimate Marvel|Lockjaw]], who had the ability to teleport the Fantastic Four to Atillan. Once their presence was discovered, the city was stripped of its advanced technology and destroyed by Black Bolt, and the Inhumans, including Crystal, relocated. They are hinted to have relocated to the Moon.<ref name="UFFA">{{cite comic| writer= [[Mark Millar|Millar, Mark]]|penciller= Lee, Jae|inker= Lee, Jae|story= The Himalayas|title= [[Ultimate Fantastic Four]] Annual|issue= #1|date= October 2005}}</ref>
+
+The Ultimate Marvel version of Attilan is quite different in appearance from the Marvel Universe version, like a giant [[wasp]]'s nest crossed with a [[Gothic architecture|Gothic]] [[cathedral]]. Ultimate Crystal, Lockjaw, and Black Bolt are similar to their counterparts; Medusa is depicted as having actual snakes for hair, like her mythical namesake. Gorgon is female, Karnak projects energy blasts (though he can still sense weaknesses and pressure points), Triton has a more squid-like appearance, and Maximus is a somewhat effete courtier, whom Crystal describes as "preening" and a "peacock". Other Inhumans shown include Tri-clops, with [[clairvoyance|clairvoyant]] vision (including the power to see the invisible), Densitor (Maximus' flunky, who can presumably increase his strength, durability and mass, enough to become fireproof) and an unnamed Inhuman who can produce a swarm of [[insect]]-like flying creatures from his body. They claimed that their city had remained secret for 10,000 years, which makes their ancestors contemporaries with Ultimate Marvel's Atlantis.<ref name="UFFA" />
+
+===Amalgam Comics===
+The [[X-Patrol|Un-People]] are a superhero group in the [[Amalgam Comics]] universe. They are a combination of [[DC Comics]]' [[Forever People]] and Marvel Comics' Inhumans.<ref>{{cite comic| writer= [[Karl Kesel|Kesel, Karl]]|penciller= [[Tom Grummett|Grummett, Tom]]|inker= Vey, Al|story= Challengers of the Fantastic|title= [[List of Amalgam Comics characters|Challengers of the Fantastic]]|issue= #1|date= June 1997}}</ref>
+
+===''Inhumans 2099''===
+In the 2004 [[Marvel Knights]] ''Inhumans 2099'' one-shot written by [[Robert Kirkman]], which took place in the future on an alternate world (Earth-2992) that was not identical to the alternate Marvel Universe on Earth-928 featured in the 1990s [[Marvel 2099]] books, the Inhumans leave Earth's moon and are forced to live aboard a spaceship after the Mutant Registration Act is passed. After leaving, Black Bolt places himself and his closest confidants ([[Triton (comics)|Triton]], [[Gorgon (Inhuman)|Gorgon]], [[Karnak (comics)|Karnak]], [[Crystal (comics)|Crystal]], and [[Medusa (comics)|Medusa]]) in cryogenic stasis and, in his absence, his brother [[Maximus (comics)#Marvel Knights 2099|Maximus]] takes over as leader of the Inhumans living aboard the spacecraft. While in control, Maximus kills Black Bolt's confidants in their sleep. Fifty years later, Black Bolt is released from cryogenic stasis to find that Maximus has killed those closest to him. In retaliation, he breaks his vow of silence and destroys the Inhumans' spacecraft, killing all aboard, including himself.<ref>{{cite comic| writer= [[Robert Kirkman|Kirkman, Robert]]|penciller= Rathburn, Cliff|inker= Rathburn, Cliff|title= Inhumans 2099|issue= #1|date= November 2004}}</ref>
+
+===Inhumans ([[Earth X|Earth-9997]])===
+In this reality Attilan was returned to the Himalayan mountains at some point until the population grew tired of living in seclusion and decided to leave the Great Refuge to forge new destinies among humanity. This happened at a time when Maximus was once more vying for power and had built a bomb that - once detonated - would release the Terrigen Mists into the Earth's atmosphere. The Inhuman Royal Family managed to stop him from doing so with Medusa killing him in the process. With no kingdom to rule over, the Inhuman Royal Family decided to travel to the stars and find their fate elsewhere in the universe. However, Black Bolt felt that his people would be persecuted and demonized by humanity, much like they treat mutants on the outside world, so he decided to unleash the Terrigen Mist bomb filling Earth's atmosphere with the gas. This was unknown to all, including the Watcher, whom Black Bolt had blinded to prevent him from seeing. It has been suggested that Black Bolt had some intimate knowledge about the Celestials' plans for the Earth, and releasing the Terrigen Mists on the Earth was a way to set plans in motion to stop the Celestial birth in Earth's core.<ref>{{cite book|last1= Ross|first1= Alex|authorlink1= Alex Ross|last2= Krueger|first2= Jim|authorlink2= Jim Krueger|title= Earth X|publisher= Marvel Comics|date= 2001|location= New York City|pages= 575|isbn= 978-0936211671|quote= Collects ''Earth X'' #0–12 and #X}}</ref>
+
+==Collected editions==
+
+===Trade paperbacks===
+{| class="wikitable"
+|-
+! Title !! Material collected !! Publication date !! ISBN
+|-
+|''The Origin of the Inhumans''
+| ''Fantastic Four'' (1961) #36, 38, 41–47, 62-65 and material from #48, 50, 51, 52, 54-61, ''Fantastic Four Annual'' (1963) #5, ''Thor'' (1966) #146-152 and ''Not Brand Echh'' (1967) #6
+| October 2013
+| {{ISBNT|0-7851-8497-X}}
+|-|-
+| ''Inhumans: Beware the Inhumans''
+| ''Marvel Super-Heroes'' (1967) #15; ''Incredible Hulk Annual'' (1968) #1; ''Fantastic Four'' (1961) #81-83, 99; ''Amazing Adventures'' (1970) #1-10; ''Avengers'' (1963) #95 and material from ''Fantastic Four'' (1961) #95, 105; ''Not Brand Echh'' (1967) #12
+| January 2018
+| {{ISBNT| 978-1302910815}} 
+|-
+| ''Inhumans''
+| ''Inhumans'' vol. 2 #1–12
+| August 2000
+| {{ISBNT|0-7851-0753-3}}
+|-
+| ''Fantastic Four/Inhumans''
+| ''Inhumans'' vol. 3 #1–4; ''Fantastic Four'' vol. 3 #51–54
+| July 2007
+| {{ISBNT|0-7851-2703-8}}
+|-
+| ''Inhumans: Culture Shock''
+| ''Inhumans'' vol. 4 #1–6 (digest size)
+| March 2005
+| {{ISBNT|0-7851-1755-5}}
+|-
+| ''Young Inhumans''
+| ''Inhumans'' vol. 4 #1–12
+| September 2008
+| {{ISBNT|0-7851-3382-8}}
+|-
+| ''Decimation: Son of M''
+| ''Son of M'' #1–6
+| September 2006
+| {{ISBNT|0-7851-1970-1}}
+|-
+| ''Silent War''
+| ''Silent War'' #1–6
+| October 2007
+| {{ISBNT|0-7851-2425-X}}
+|-
+| ''Secret Invasion: Inhumans''
+| ''Secret Invasion: Inhumans'' #1–4; ''Thor'' #146–147
+| March 2009
+| {{ISBNT|0-7851-3248-1}}
+|-
+| ''War of Kings: Road to War of Kings''
+| ''Secret Invasion: War of Kings''; ''War of Kings Saga''; ''X-Men: Divided We Stand'' #2; ''X-Men: Kingbreaker'' #1–4
+| May 2009
+| {{ISBNT|0-7851-3967-2}}
+|-
+| ''War of Kings''
+| ''War of Kings'' #1–6
+| November 2009
+| {{ISBNT|0-7851-3542-1}}
+|-
+| ''Realm of Kings''
+| ''Realm of Kings'' one-shot, ''Realm of Kings: Inhumans'' #1-5, ''Realm of Kings: Son of Hulk'' #1-4, and ''Realm of Kings: Imperial Guard'' #1-5
+| August 2010
+| {{ISBNT|0-7851-4809-4}}
+|-
+| ''Inhumans: By Right of Birth'' 
+|''Marvel Graphic Novel: The Inhumans''; ''Inhumans: The Untold Saga''
+| November 2013
+| {{ISBNT|0-7851-8504-6}}
+|- 
+| ''Fantastic Four/Inhumans: Atlantis Rising''
+| ''Namor the Sub-Mariner'' #60-62, ''Fantastic Four: Atlantis Rising'' #1-2, ''Fantastic Force'' (1994) #8-9, ''Fantastic Four'' (1961) #401-402, ''Fantastic Four Unlimited'' #11 
+| January 2014
+| {{ISBNT|978-0-7851-8548-2}}
+|-
+| ''Inhuman Vol. 1: Genesis''
+| ''Inhuman'' #1-6
+| December 2014
+| {{ISBNT|978-0785185772}}
+|-
+| ''Inhuman Vol. 2: Axis''
+| ''Inhuman'' #7-11
+| May 2015
+| {{ISBNT| 978-0785187806}}
+|-
+|''Inhuman Vol. 3: Lineage''
+| ''Inhuman'' #12-14, ''Inhuman Annual'' #1
+| August 2015
+| {{ISBNT| 978-0785198048}}
+|-
+| ''Battleworld - Inhumans: Attilan Rising''
+| ''Inhumans: Attilan Rising'' #1-5
+| February 2016
+| {{ISBNT|978-0785198758}}
+|-
+| ''Uncanny Inhumans Volume 1: Time Crush''
+| ''Uncanny Inhumans'' #0–4; ''FCBD 2015: Inhumans Story''
+| April 2016
+| {{ISBNT|978-0785197065}}
+|-
+| ''Uncanny Inhumans Volume 2: The Quiet Room''
+| ''Uncanny Inhumans'' #5-9
+| August 2016
+| {{ISBNT|978-0785197072}}
+|-
+| ''Uncanny Inhumans Volume 3: Civil War II''
+| ''Uncanny Inhumans'' #11-13
+| November 2016
+| {{ISBNT|978-0785199915}}
+|-
+| ''Uncanny Inhumans Vol. 4: IvX''
+| ''Uncanny Inhumans'' #15-20
+| June 2017
+| {{ISBNT|978-1302903121}}
+|-
+| ''All-New Inhumans Volume 1: Global Outreach''
+| ''All-New Inhumans'' #1-4, ''All-New, All-Different Point One'' #1 (Inhumans story)
+| May 2016
+| {{ISBNT|978-0785196389}}
+|-
+| ''All-New Inhumans Volume 2: Skyspears''
+| ''All-New Inhumans'' #5-9
+| November 2016
+| {{ISBNT|978-0785196396}}
+|-
+| ''Royals Vol. 1: Beyond Inhuman''
+| ''Royals'' #1-5, ''Inhumans Prime'' #1
+| October 2017
+| {{ISBNT|978-1302906948}}
+|-
+| ''Royals Vol. 2: Judgment Day''
+| ''Royals'' #6-12
+| February 2018
+| {{ISBNT|978-1302906955}}
+|-
+| ''Inhumans: Once and Future Kings''
+| ''Inhumans: Once and Future Kings'' #1-5
+| February 2018
+| {{ISBNT|978-1302909406}} 
+|-
+| ''Death of the Inhumans''
+| ''Death of the Inhumans'' #1-5
+| January 2019
+| {{ISBNT|978-1302913007}}
+|}
+
+===Hardcovers===
+{| class="wikitable"
+|-
+! Title !! Material collected !! Publication date !! ISBN
+|-
+| ''Marvel Masterworks: Inhumans Vol. 1''
+| ''Thor'' #146–152; ''Amazing Adventures'' #1–10; ''Avengers'' #95; ''Marvel Super-Heroes'' #15
+| October 2009
+|style=white-space:nowrap| {{ISBNT|978-0-7851-4141-9}}
+|-
+| ''Marvel Masterworks: Inhumans Vol. 2''
+| ''Inhumans'' vol. 1 #1–12; ''Captain Marvel'' #52–53; ''Fantastic Four Annual'' #12; ''Marvel Fanfare'' #14; ''What If?'' #29–30; ''Thor Annual'' #12
+| April 2010
+| {{ISBNT|978-0-7851-4151-8}}
+|-
+| ''Inhumans by Paul Jenkins & Jae Lee''
+| ''Inhumans'' vol. 2 #1-12
+| September 2013
+| {{ISBNT|978-0785184744}} 
+|-
+| ''Inhumanity''
+| ''Avengers Assemble'' #21-25; ''Inhumanity'' #1-2; ''Uncanny X-Men'' #15; ''Indestructible Hulk'' #17-20; ''New Avengers'' #13; ''Iron Man'' #20.INH; ''Inhumanity: The Awakening'' #1-2; ''Avengers A.I.'' #7; ''Mighty Avengers'' #4-5; ''Inhumanity: Superior Spider-Man'' #1
+| June 2014
+| {{ISBNT|978-0785184744}} 
+|}
+
+==Awards==
+In 1999, ''Inhumans'' vol. 2 won the [[Eisner Award]] for "Best New Series".<ref>{{cite web |url= http://www.hahnlibrary.net/comics/awards/eisner99.php|title= 1999 Will Eisner Comic Industry Awards|publisher= Comic Book Awards Almanac|archiveurl= https://web.archive.org/web/20120725160018/http://www.hahnlibrary.net/comics/awards/eisner99.php|archivedate=July 25, 2012 |url-status= live}}</ref>
+
+==In other media==
+
+===Television===
+
+====Live-action====
+[[File:Inhumans TV show cast.jpg|thumb|right|The Inhuman Royal Family from the TV show ''[[Inhumans (TV series)|Inhumans]]''.]]
+* The Inhumans are introduced into the [[Marvel Cinematic Universe]] in the second season of ''[[Agents of S.H.I.E.L.D.]]'' with further introduction in the third season. This was the first live-action adaption of the Inhumans, but has not yet featured any member of the Inhuman Royal Family. The Kree's experiments with the Inhumans date back to the days of the [[Maya civilization]] when a Maya hunter was turned into [[Hive (comics)|Hive]].
+** The Alpha Primitives have also been featured in the show's third season, but have been referred to as "Primitives". They are the result of failed experiments to turn humans into Inhumans through a pathogen combination of Terrigen Crystals, the blood of [[Daisy Johnson]] and a Kree Reaper, and Hive's own parasitic organism. This started with [[Holden Radcliffe]] using the pathogen on the five captive members of the [[Watchdogs (Marvel Comics)|Watchdogs]]. While the Primitives have enhanced strength and infrared sensory, they also can retain the skills they had before their transformation.
+* An eight-episode live-action television series, titled ''[[Inhumans (TV series)|Marvel's Inhumans]]'', premiered on [[American Broadcasting Company|ABC]], after the first two episodes were screened in [[IMAX]] theaters beginning September 1, 2017 for two weeks.<ref name="InhumansAnnouncement" /><ref>{{cite web|url=http://www.hollywoodreporter.com/live-feed/why-abcs-deal-bring-marvels-inhumans-imax-is-a-quadrupal-win-949027 |title=Why ABC's Deal to Bring Marvel's 'The Inhumans' to Imax Is a "Quadruple Win" |last=Goldberg |first=Lesley |work=[[The Hollywood Reporter]] |date=November 21, 2016 |accessdate=November 22, 2016 |archiveurl=https://web.archive.org/web/20161122013616/http://www.hollywoodreporter.com/live-feed/why-abcs-deal-bring-marvels-inhumans-imax-is-a-quadrupal-win-949027 |archivedate=November 22, 2016 |url-status=live }}</ref><ref>{{cite tweet|author=IMAX Corporation|author-link=IMAX Corporation|user=IMAX|number=837762369107419136|title=The full cast is set for @Marvel's #Inhumans, premiering exclusively in IMAX theatres September 1!|date=March 3, 2017|accessdate=March 4, 2017|archiveurl=https://www.webcitation.org/6oiVpTCmA?url=https://twitter.com/IMAX/status/837762369107419136|archivedate=March 4, 2017|url-status=live}}</ref> IMAX is also a financial partner for ''Inhumans'', and this was the first time a television series premiered in IMAX. The series centered on Black Bolt and other members of the Royal Family (Medusa, Maximus, Karnak, Gorgon, Crystal, Triton, and Auran),<ref name="InhumansAnnouncement" /><ref>{{cite web|url=http://deadline.com/2017/03/marvels-inhumans-eme-ikwuakor-isabelle-cornish-mike-moh-sonya-balmores-ellen-woglom-cast-1202035831/ |title='Marvel's Inhumans': Eme Ikwuakor, Isabelle Cornish, Mike Moh, More Round Out Cast |last=Petski |first=Denise |website=[[Deadline Hollywood]] |date=March 3, 2017 |accessdate=March 3, 2017 |archiveurl=https://web.archive.org/web/20170303224411/http://deadline.com/2017/03/marvels-inhumans-eme-ikwuakor-isabelle-cornish-mike-moh-sonya-balmores-ellen-woglom-cast-1202035831/ |archivedate=March 3, 2017 |url-status=live }}</ref> and was not intended to be a reworking of the planned film from Marvel Studios, nor a spin-off of ''Agents of S.H.I.E.L.D.''<ref name="InhumansAnnouncement">{{cite web|url=http://www.hollywoodreporter.com/live-feed/marvel-abc-set-inhumans-tv-series-947296 |title=Marvel, ABC Set 'The Inhumans' TV Series |last=Goldberg |first=Lesley |work=[[The Hollywood Reporter]] |date=November 14, 2016 |accessdate=November 14, 2016 |archiveurl=https://web.archive.org/web/20161115013829/http://www.hollywoodreporter.com/live-feed/marvel-abc-set-inhumans-tv-series-947296 |archivedate=November 15, 2016 |url-status=live }}</ref> [[Scott Buck]] served as [[showrunner]] and executive producer on the series.<ref>{{cite web|url=https://news.marvel.com/tv/56289/marvels-inhumans-finds-showrunner/ |title='Marvel's The Inhumans' Finds Its Showrunner |last=Strom |first=Marc |publisher=[[Marvel Comics|Marvel.com]] |date=December 6, 2016 |accessdate=December 6, 2016 |archiveurl=https://web.archive.org/web/20161208002230/https://news.marvel.com/tv/56289/marvels-inhumans-finds-showrunner/ |archivedate=December 8, 2016 |url-status=live }}</ref> The series was critically panned from both fans and critics alike and was canceled after only one season.<ref>{{cite web|url=http://deadline.com/2018/05/marvels-inhumans-canceled-abc-one-season-1202379716/|title='Marvel's Inhumans' Canceled By ABC After One Season|last=Petski|first=Denise|work=[[Deadline Hollywood]]|date=May 11, 2018|accessdate=May 12, 2018|archiveurl=https://web.archive.org/web/20180512022319/http://deadline.com/2018/05/marvels-inhumans-canceled-abc-one-season-1202379716/|url-status=live|archivedate=May 12, 2018}}</ref>
+
+====Animation====
+* The Inhumans were featured in the 1978 ''[[Fantastic Four (1978 TV series)|Fantastic Four]]'' animated series episode "Medusa and the Inhumans". In this continuity, Medusa is the leader instead of Black Bolt. Black Bolt does make a brief appearance as an unnamed Inhuman. Medusa is evil and wants to take over the human race from her Himalayan base. She brainwashes [[Thing (comics)|The Thing]] into attacking HERBIE and the Fantastic Four, until HERBIE causes him to trip and regain his memories. As they escape, Gorgon creates an earthquake, but [[Reed Richards]] puts him on a hanger where he can't use his seismic powers. [[Karnak (comics)|Karnak]] attacks their ship, but Sue Storm turns his arm invisible and he runs off in panic. They are eventually confronted by Medusa and they show a projection showing the banality of human life. The Inhumans decide it's not worth conquering the humans and let the Fantastic Four free.<ref>{{cite web | url= http://marvel.toonzone.net/ff1978/episode/medusainhumans/ | title= Medusa and the Inhumans | publisher= Marvel Animmation Age|date= October 7, 1978|archiveurl= https://web.archive.org/web/20130618135347/http://marvel.toonzone.net/ff1978/episode/medusainhumans/|archivedate=June 18, 2013 |url-status= live|accessdate= October 19, 2010}}</ref>
+* The Inhumans were featured in the 1994 ''[[Fantastic Four (1994 TV series)|Fantastic Four]]'' animated series. The Inhumans appeared in a three part "Inhumans Saga" episodes before becoming a sub-plot for the rest of the season. Their creation at the hands of the Kree is intact in this series.<ref>{{cite web |url= http://marvel.toonzone.net/fanfourtas/guide/|title= Fantastic Four Episode Guide|publisher= Marvel Animation Age|archiveurl= https://web.archive.org/web/20130618125929/http://marvel.toonzone.net/fanfourtas/guide/|archivedate=June 18, 2013 |url-status= live}}</ref> Medusa initially teams up with [[Wizard (Marvel Comics)|Wizard]] and [[Trapster (Peter Petruski)|Trapster]], who brainwash [[Thing (comics)|The Thing]] into killing the Fantastic Four. Medusa only joined them due to amnesia caused by Maximus, who over threw the royal family. Gorgon then attacks the Fantastic Four in order to rescue Medusa. Johnny Storm then finds Crystal, Karnac, and Lockjaw in an underground base. He brings the team to face off with the Inhumans. Initially, Black Bolt overpowers The Thing, but due to the impurities in Earth's atmosphere he loses his power. The Seeker kidnaps Triton and lures the Inhumans in order to vow to kill Triton unless Medusa marries him. Reed Richards was able to track the Attilan and help the royal family regain the throne. In a mad last ditch effort, Maximus creates an impenetrable force field around Attilan. Johnny Storm and Crystal are separated and cry for each other, as they have developed feeling for each other.
+* The Inhumans appear in the ''[[Hulk and the Agents of S.M.A.S.H.]]'' episode "Inhuman Nature". A-Bomb falls in love with Crystal at the beach, but both are teleported away by Lockjaw and Triton. The Smash team follows them to a secret Himalayan base. Maximus has been manipulating the royal family into believing humans are evil, but Hulk convinces them that humans and Inhumans have a lot to learn from each other. Black Bolt decides to open the shield hiding the base, but Maximus causes it to stay up permanently. Black Bolt shatters the shield with a single word and Crystal and A-Bomb are reunited. In the episode "Planet Monster" Pt. 2, Black Bolt, Gorgon, and Lockjaw are among the superheroes that help the Agents of S.M.A.S.H. and the Avengers fight the forces of the Supreme Intelligence.
+* The Inhumans appear in the ''[[Ultimate Spider-Man (TV series)|Ultimate Spider-Man]]'' episode "Inhumanity". Spider-Man and Triton had to work together when Maximus causes a war between S.H.I.E.L.D. and the Inhumans where Maximus has mind-controlled the Inhuman Royal Family. This even led Nick Fury to think the exchange student Triton is a spy. After Maximus was defeated and Black Bolt prevented Attilan from crashing into Manhattan, Nick Fury makes Triton the Ambassador to S.H.I.E.L.D. as an apology to Triton upon his earlier accusation. The episode "Agent Web" revealed that there was an abandoned Inhuman city of Atarog which Spider-Man and Triton had to go to in order to rescue Nick Fury who is being held captive by Crossbones and the HYDRA Agents with him in order to obtain Madame Web. After Crossbones were defeated and Nick Fury takes Madame Web to another location, the Inhuman Royal Family arrives. As Spider-Man apologizes for trespassing at Atarog while explaining why they did it, Medusa interprets for Black Bolt stating that they are here to give Spider-Man and Triton a ride back to the Triskelion while thanking them for protecting Atarog.
+* The Inhumans appear in the ''[[Guardians of the Galaxy (TV series)|Guardians of the Galaxy]]'' episode "Crystal Blue Persuasion". Besides the fact that the Kree had created the Inhumans and Attilan being launched into space, the Inhumans are also shown to have the Alpha Primitives working for them. The Guardians of the Galaxy ended up on Attilan after being brought there by Lockjaw during the time when the Inhumans have come down with a Terrigen Plague that causes Terrigen Crystals to start growing from their body. The Alpha Primitives were also shown to be fully crystallized yet still alive. During this time, Maximus had apparently made a cure for the Terrigen Plague while also putting Black Bolt under his mind-control. When Ronan the Accuser arrived, Maximus swore the Inhumans allegiance to the Kree. Ronan the Accuser went back on their deal and decided to destroy Attilan. Upon confiscating the mind-control helmet, Ronan then had Black Bolt order Lockjaw to teleport him and Star-Lord to the Terrigen Crystal caverns underneath to destroy Attilan from below. Upon Star-Lord using the CryptoCube to undo the Terrigen Plague on the Inhumans and the Alpha Primitives, Black Bolt flew into space and used his voice to cripple Ronan the Accuser's ship. Afterwards, Medusa thanks the Guardians of the Galaxy on Black Bolt's behalf.
+* The Inhumans appear in the ''[[Avengers Assemble (TV series)|Avengers: Ultron Revolution]]'' episode "Inhumans Among Us". When an Inhuman ship carrying Seeker and the Alpha Primitives crashes into the mountains near Maple Falls, the Avengers respond to a distress call where they have a brief fight with Black Bolt, Medusa, Gorgon, and Karnak until a Terrigen cocoon in a nearby building hatches Inferno. The Avengers and the Inhumans had to work together to fight Inferno. After Hulk and Lockjaw obtain the crystal need for a device that will disperse the Terrigen Cloud, the Alpha Primitives and Inferno start acting like themselves again. What the Avengers and the Inhumans don't know yet is that Seeker had staged this incident in collaboration with Ultron. In the episode "The Inhuman Condition", Ultron has invaded Attilan and captures every Inhuman except for Black Bolt, Lockjaw, and Seeker. The Avengers come to their aid where it was discovered that Seeker invented a device that would dispense the Terrigen Mist on Earth that would transform other Inhuman descendants like Inferno. After Ultron reworked the device to phase-shift Seeker, he began to use a larger version of it in order to eliminate mankind. Thanks to Black Widow throwing a Terrigen Crystal in it following the Inhumans being rescued, Ultron's plans are thwarted as the Terrigen Mists transform those who are Inhuman descendants into Inhumans. In the four part "Civil War" episodes, Truman Marsh moves ahead with the Inhumans Registration Act where the Inhumans will have Registration Disks placed on them. The Registration Disks were part of a plot by Marsh (later revealed to be Ultron in disguise) to control them into furthering his goals. The Avengers were able to free the Inhumans from the Registration Disks.
+
+===Film===
+* A trade report in March 2011 said [[Marvel Entertainment]] was developing an ''Inhumans'' film.<ref>{{cite web|last=Frankel |first=Daniel |url=http://www.thewrap.com/deal-central/column-post/report-marvel-developing-inhumans-25343 |title=Report: Marvel Developing ''The Inhumans'' |publisher=[[Sharon Waxman|The Wrap.com]] |date=March 8, 2011 |archiveurl=https://web.archive.org/web/20110310165433/http://www.thewrap.com/deal-central/column-post/report-marvel-developing-inhumans-25343 |archivedate=March 10, 2011 |url-status=dead }}</ref><ref>{{cite web | url=http://www.badassdigest.com/2011/03/07/marvel-is-bringing-the-inhumans-to-the-big-screen|title= Marvel is Bringing ''The Inhumans'' to the Big Screen|first= Devin|last= Faraci|publisher= BadassDigest.com|date=March 7, 2011 |archiveurl= https://web.archive.org/web/20130413050951/http://badassdigest.com/2011/03/07/marvel-is-bringing-the-inhumans-to-the-big-screen|archivedate=April 13, 2013 |url-status= |accessdate= March 7, 2011}}</ref> In November 2012, [[Stan Lee]] reported that the film is in development.<ref>{{cite web |last=Vossler |first=Jeffrey |date=November 2, 2012 |title= Audiences marvel at Stan Lee's extensive career |url= http://scaddistrict.com/audiences-marvel-at-stan-lees-extensive-career/|publisher=[[Savannah College of Art and Design|District: The Student Voice of SCAD]] |accessdate=September 19, 2013 |archiveurl= https://web.archive.org/web/20141025003023/http://scaddistrict.com/audiences-marvel-at-stan-lees-extensive-career/|archivedate= October 25, 2014|url-status=live}}</ref> In August 2014, it was reported that Marvel was moving forward with the development of an Inhumans film, with a screenplay written by [[Joe Robert Cole]].<ref name="Screenplay">{{cite web|url=http://collider.com/the-inhumans-movie-joe-robert-cole-script/ |title=Exclusive: Marvel Moving Forward on ''The Inhumans'' Movie; Screenplay by Joe Robert Cole |first=Matt |last=Goldbery |publisher=Collider |date=August 12, 2014 |accessdate=August 12, 2014 |archiveurl=https://web.archive.org/web/20140812225026/http://collider.com/the-inhumans-movie-joe-robert-cole-script/ |archivedate=August 12, 2014 |url-status=live }}</ref> In October 2014, [[Marvel Studios]] confirmed ''Inhumans'', with a release date of November 2, 2018.<ref name="Oct2014Event">{{cite web|url=http://www.newsarama.com/22573-marvel-announces-black-panther-captain-marvel-inhumans-avengers-infinity-war-films-cap-thor-3-subtitles.html |title=Marvel Announces ''Black Panther'', ''Captain Marvel'', ''Inhumans'', ''Avengers: Infinity War'' Films, ''Cap'' & ''Thor 3'' Subtitles |last=Siegel |first=Lucas |publisher=[[Newsarama]] |date=October 28, 2014 |accessdate=October 28, 2014 |archiveurl=https://web.archive.org/web/20141028211803/http://www.newsarama.com/22573-marvel-announces-black-panther-captain-marvel-inhumans-avengers-infinity-war-films-cap-thor-3-subtitles.html |archivedate=October 28, 2014 |url-status=live }}</ref> [[Vin Diesel]] was attached to the role of Black Bolt shortly after the film was announced. The date was later pushed back to July 12, 2019.<ref name="Feb2015Dates">{{cite web|last=Strom |first=Marc |date=February 10, 2015 |title=Marvel Studios Schedules New Release Dates for 4 Films |url=http://marvel.com/news/movies/24065/marvel_studios_schedules_new_release_dates_for_4_films |publisher=[[Marvel Comics|Marvel.com]] |accessdate=February 9, 2015 |archiveurl=https://web.archive.org/web/20150213010327/http://marvel.com/news/movies/24065/marvel_studios_schedules_new_release_dates_for_4_films |archivedate=February 13, 2015 |url-status=live }}</ref> By October 2015, Cole was no longer involved with the film and any potential drafts that he may have written would not be used.<ref>{{cite web|url=http://www.thewrap.com/joe-robert-cole-nearing-deal-to-write-black-panther-for-marvel-exclusive/ |title=Joe Robert Cole Nearing Deal to Write 'Black Panther' for Marvel (Exclusive) |last=Sneider |first=Jeff |work=[[TheWrap]] |date=October 6, 2015 |accessdate=October 6, 2015 |archiveurl=https://web.archive.org/web/20151008012003/http://www.thewrap.com/joe-robert-cole-nearing-deal-to-write-black-panther-for-marvel-exclusive/ |archivedate=October 8, 2015 |url-status=live }}</ref> In April 2016, the film was taken off of Marvel's 2019 release schedule for unknown reasons, though it is not considered canceled.<ref>{{cite web|url=http://collider.com/inhumans-movie-release-date-marvel/ |title='Inhumans' Movie Officially Pulled from Marvel Schedule |last=Foutch |first=Haleigh |publisher=[[Collider (website)|Collider]] |date=April 22, 2016 |accessdate=April 22, 2016 |archiveurl=https://web.archive.org/web/20160424121744/http://collider.com/inhumans-movie-release-date-marvel/ |archivedate=April 24, 2016 |url-status=live }}</ref> In July 2016, producer [[ Kevin Feige]] said ''Inhumans'' would "certainly" be a part of the discussion regarding the film ideas for 2020 and 2021, adding the following November that he was still optimistic the film could be released in Phase Four, but has since to comment about the reason for the film’s removal from the release schedule.<ref>{{cite web|url=http://www.slashfilm.com/inhumans-movie |title='Inhumans' Movie 'Will Happen For Sure', Could Happen in Phase 4 Says Kevin Feige |last=Sciretta |first=Peter |publisher=[[/Film]] |date=November 4, 2016 |accessdate=November 4, 2016 |archiveurl=https://web.archive.org/web/20161105094430/http://www.slashfilm.com/inhumans-movie |archivedate=November 5, 2016 |url-status=live }}"</ref> As of 2019 there have been no further updates regarding the film’s development.
+* A [[Marvel Animation]] motion comic DVD was released on April 23, 2013 based on Paul Jenkins and Jae Lee's ''Inhumans'' vol. 2 #1–12<ref>{{cite web|title=Shout! Factory - Inhumans|url=https://www.shoutfactory.com/film/action-adventure/inhumans|publisher= [[Shout! Factory]]|archiveurl= https://web.archive.org/web/20150905194059/https://www.shoutfactory.com/film/action-adventure/inhumans|archivedate= September 5, 2015|url-status= live|accessdate=May 6, 2015}}</ref>
+
+===Video games===
+* The Inhumans appear in ''[[Marvel: Ultimate Alliance]]''. They offer the heroes Atillan (the version that is located in the Blue Area of the Moon) as a temporary headquarters after [[Doctor Doom]] acquires the power of [[Odin (comics)|Odin]] and uses it to reshape Earth. After Medusa is corrupted by Doctor Doom, Triton, Crystal, and Gorgon go to Earth to fight Doctor Doom and are not heard from for the rest of the game. [[Vision (Marvel Comics)|Vision]] later mentions that they may have been "inducted into Doom's army" consisting of various other corrupted heroes that the players must fight before facing Doctor Doom himself. There is also a book on Attilan that mentions about Apocalypse's previous invasion on Attilan and the formation of the Dark Raiders.
+* Black Bolt, Medusa, Gorgon, Karnak, Crystal, and Thane are unlockable as playable characters in ''[[Marvel: Avengers Alliance]]''.
+* Black Bolt, Medusa, Crystal, Karnak, Gorgon, Maximus, Daisy Johnson, Kamala Khan, Lash, Moon Girl, Kid Kaiju, Inferno and Lincoln Campbell (MCU Inhuman) are unlockable as playable characters in ''[[Marvel: Future Fight]]''.
+* Black Bolt, Medusa, Daisy Johnson, Kamala Khan, and Lockjaw are playable characters in ''[[Marvel Puzzle Quest]]''.
+* The Inhumans are also playable on ''[[Marvel Heroes (video game)|Marvel Heroes]]''.
+* The Inhuman Royal Family are playable in ''[[Lego Marvel Super Heroes 2]]''. When Attilan was used to make up Chronopolis, Black Bolt, Medusa, Crystal, and Lockjaw had to fight Maximus when he allies with the Kree to target Kang the Conqueror after seeing that Black Bolt failed to prevent Attilan from being taken to Chronopolis. Gorgon and Karnak also appear in Attilan giving side missions to the players.
+* Black Bolt, Crystal, and Lockjaw are all playable characters in ''Marvel Powers United VR'' (alongside [[Carol Danvers|Captain Marvel]], [[Hulk]], [[Rocket Raccoon]], [[Deadpool]], and [[Thor (Marvel Comics)|Thor]]).
+* Crystal and Ms. Marvel (Kamala Khan) appears as playable characters in ''[[Marvel Ultimate Alliance 3: The Black Order]]'' while Black Bolt, Medusa, Gorgon, and Lockjaw appear as non-playable helper characters respectively.
+
+==See also==
+* [[Eternals (comics)|Eternals]]
+* [[Deviant (comics)|Deviant]]
+* [[Dark Riders (comics)|Dark Riders]]
+* [[X-Men]]
+* [[List of Marvel Comics superhero debuts]]
+
+==References==
+{{Reflist|30em}}
+
+==External links==
+*[http://toonopedia.com/inhumans.htm The Inhumans] at [[Don Markstein's Toonopedia]]. [https://archive.today/20161120112516/http://toonopedia.com/inhumans.htm Archived] from the original on September 17, 2016.
+* {{Marvelwiki|Inhumans|Inhumans}}
+* {{comicbookdb|type=team|id=51|title=Inhumans}}
+
+{{Inhumans}}
+{{Navboxes
+|title=Related topics
+|list1=</span>
+{{Fantastic Four}}
+{{Ms. Marvel}}
+{{Skrull}}
+{{Silver Surfer}}
+{{Thanos}}
+{{Galactus}}
+{{Jack Kirby}}
+{{Stan Lee}}
+{{Marvel Cosmic}}
+}}
+
+[[Category:1977 comics endings]]
+[[Category:1999 comics endings]]
+[[Category:2000 comics endings]]
+[[Category:2004 comics endings]]
+[[Category:Characters created by Jack Kirby]]
+[[Category:Characters created by Stan Lee]]
+[[Category:Comics adapted into television series]]
+[[Category:Marvel Comics superheroes]]
+[[Category:Comics characters introduced in 1965]]
+[[Category:Eisner Award winners for Best New Series]]
+[[Category:Comics about genetic engineering]]
+[[Category:Transhumanism in comics]]

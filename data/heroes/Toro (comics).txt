@@ -1,7 +1,9 @@
 '''Toro''' is the name of two fictional characters appearing in [[American comic book]]s published by [[Marvel Comics]]. The first Toro was originally featured in [[Timely Comics]] and later as a Marvel Comics superhero who appeared as the partner of the original [[Human Torch (android)|Human Torch]].
 
 ==Publication history==
-The first Toro made his debut in [[Timely Comics]]' ''Human Torch Comics'' #2 (premiering fall 1940 with no [[cover date]] and as issue #2, having taken over the numbering from the single-issue ''[[Red Raven Comics|Red Raven]]''). Toro appeared in numerous comics titles in the 1940s, both during [[World War II]] and the post-war era. He starred with [[Bucky (Marvel Comics)|Bucky]] in ''[[Young Allies Comics]]'', and made appearances in various issues of ''[[Kid Comics]]'', ''[[Amazing Comics]]'', ''[[Complete Comics]]'', ''[[Mystic Comics]]'', ''[[All-Winners Comics]]'', and ''[[Sub-Mariner Comics]]''. Toro and the Torch later appeared in [[Atlas Comics|Atlas]]' ''[[Young Men (comics)|Young Men]]'' #24 (December 1953). Toro also made several appearances in [[Marvel Comics]] titles, beginning in ''Marvel Super-Heroes'' #13–14 (March, May 1968). He was a regular character in the 1970s ''Invaders'' series. After years of only appearing in flashback stories, he returned to current publication with the 2008 ''Avengers/Invaders'' maxiseries and the 2009 miniseries ''The Torch''.
+The first Toro made his debut in [[Timely Comics]]' ''Human Torch Comics'' #2 (premiering fall 1940 with no [[cover date]] and as issue #2, having taken over the numbering from the single-issue ''[[Red Raven Comics|Red Raven]]''). Toro appeared in numerous comics titles in the 1940s, both during [[World War II]] and the post-war era. He starred with [[Bucky (Marvel Comics)|Bucky]] in ''[[Young Allies Comics]]'', and made appearances in various issues of ''[[Kid Comics]]'', ''[[Amazing Comics]]'', ''[[Complete Comics]]'', ''[[Mystic Comics]]'', ''[[All-Winners Comics]]'', and ''[[Sub-Mariner Comics]]''. Toro and the Torch later appeared in [[Atlas Comics|Atlas]]' ''[[Young Men (comics)|Young Men]]'' #24 (December 1953). Toro also made several appearances in [[Marvel Comics]] titles, beginning with reprints of Human Torch stories in ''Marvel Super-Heroes'' #12–14 (Dec. 1967-May 1968), followed by a previously unpublished Atlas-era Human Torch story in #16 (Sep. 1968).
+
+Toro appeared in a new story in ''Prince Namor, The Sub-Mariner'' #14 (June 1969) where he was seemingly killed off. He subsequently appeared in flashbacks and historical stories, being a regular character in the 1970s ''Invaders'' series. After years of only appearing in flashback stories, he returned to current publication with the 2008 ''Avengers/Invaders'' maxiseries and the 2009 miniseries ''The Torch''.
 
 In 2014, as part of [[Marvel Now!]] the ''[[All-New Invaders]]'' were relaunched and a flashback story was told about Toro during WWII in issues #6–7 and it is revealed Toro is an Inhuman in issue #10.
 
@@ -14,7 +16,7 @@ In 2014, as part of [[Marvel Now!]] the ''[[All-New Invaders]]'' were relaunched
 |real_name=Thomas Raymond
 |species=[[Inhumans]]
 |publisher=[[Timely Comics]], [[Atlas Comics]], [[Marvel Comics]]
-|debut=''Human Torch Comics'' #2 (Fall 1940)<br>'''(First modern appearance)''':<br>''[[Prince Namor, The Sub-Mariner]]'' #14 (June 1969)
+|debut=''Human Torch Comics'' #2 (Fall 1940)
 |creators=[[Carl Burgos]] (writer / artist)
 |alliances=[[Invaders (comics)|The Invaders]]<br/>[[Kid Commandos]]<br/>[[Young Allies]]<br/>[[All-Winners Squad]]<br/>[[Legion of the Unliving]]
 |partners=[[Human Torch (android)|Human Torch]]
@@ -36,7 +38,7 @@ Thomas "Toro" Raymond is the protagonist of the 2009 miniseries ''The Torch''. S
 
 When the Torch is being forced to destroy a small European village, Toro attempts to escape. While he was still unable to completely activate his powers, he does manage to break the device they had been using to control the Torch. The Torch returns to kill and maim everyone who tried to control him, and Tom's powers are completely activated in the resulting fire.<ref>''The Torch'' #3</ref> Tom loses sight of the Torch in the melee, and flies to New York City in the hopes of finding him. There he contacts the [[Fantastic Four]]. [[Mister Fantastic|Reed Richards]] confirms that the Mad Thinker was telling the truth about his powers.<ref name="The Torch #4">''The Torch'' #4</ref>
 
-Following the ''[[Infinity (comic book)|Infinity]]'' story, when [[Terrigen Mist]]s were [[Inhumanity (comics)|scattered around the world]], Toro was subjected to Terrigenesis and engulfed in a coccoon. Being unknowingly an [[Inhumans|Inhuman]] descendant, Toro was now theorized that his powers had been the consequence of his recessive Inhuman genes.<ref>''All-New Invaders" #8 (2014)</ref>
+Following the ''[[Infinity (comic book)|Infinity]]'' story, when [[Terrigen Mist]]s were [[Inhumanity (comics)|scattered around the world]], Toro was subjected to Terrigenesis and engulfed in a coccoon. Being unknowingly an [[Inhumans|Inhuman]] descendant, it was now theorized that Toro's powers found their origin in his recessive Inhuman genes.<ref>''All-New Invaders" #8 (2014)</ref>
 
 After America is conquered by Hydra during the ''[[Secret Empire (comics)|Secret Empire]]'' storyline, Toro and Jim Hammond seek help and sanctuary in Namor's realm. However, Namor had been promised Atlantis would be left alone if they cooperated and thus imprisons Toro and Hammond in order to turn them over to Hydra.<ref>''Secret Empire: Brave New World'' #1 (2017)</ref>
 
@@ -68,6 +70,8 @@ Before an Earth-616 counterpart appeared in the second ''Young Allies'' series, 
 * [http://www.marveldirectory.com/individuals/t/toro.htm Toro in the Marvel Directory]
 * [http://www.marvel.com/universe/Toro_(Thomas_Raymond) Toro in the Marvel Universe]
 * [http://www.comicbookdb.com/character.php?ID=287 Toro in the Comic Book Database]
+* {{Marveldatabase|Toro}}
+
 {{Human Torch (android)}}
 {{Invaders}}
 {{Inhumans}}

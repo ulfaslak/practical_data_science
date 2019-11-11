@@ -1,10 +1,13 @@
+{{Multiple issues|
 {{lead too short|date=January 2016}}
 {{in-universe|date=July 2018}}
-{{notability|date=June 2018}}
+{{more citations needed|date=March 2019}}
+}}
+{{short description|Villain in the Marvel Comics universe}}
 {{Infobox comics character 
 |character_name = Overmind
 |image          = [[File:Overmind.gif|Overmind|250px]]
-|caption        = 
+|caption        = Overmind
 |real_name      = Grom
 |publisher      = [[Marvel Comics]]
 |debut          = ''[[Fantastic Four (comic book)|Fantastic Four]]''  #113 (August 1971)
@@ -24,9 +27,9 @@ The Overmind is an alien belonging to the [[Eternals (comics)|Eternals]] of Eyun
 
 In recent years he awoke and piloted his ship to the nearest inhabited planet, Earth. There he came into contact with the [[Fantastic Four]], who had been warned by [[Uatu the Watcher]]. The Overmind took over the mind of [[Mister Fantastic]], and battled the Fantastic Four and [[Doctor Doom]], who proved unable to stop him until the [[Stranger (comics)|Stranger]] intervened and shrank the Overmind into a subatomic [[microverse]] on a dust mote, where he was left completely isolated with no available conquests, and went mad from the strain.<ref>''Fantastic Four'' #113–116</ref>
 
-He was later discovered by another collective consciousness known as [[Null (comics)|Null the Living Darkness]]. In his current broken state Null took control of him and sent him on a campaign against a [[Parallel universe (fiction)|parallel universe]], [[Earth-712|Earth]], inhabited by the [[Squadron Supreme]]. The Overmind mentally enslaved both the Squadron and that Earth's leaders while posing as the U.S. president [[Nighthawk (Marvel Comics)|Kyle Richmond]], and began construction of an interstellar armada to invade other worlds. When [[Hyperion (Marvel Comics)|Hyperion]] brought the [[Defenders (comics)|Defenders]] to assist him, they freed the Squadron. Meanwhile, Null had leeched away the Overmind's mental energies, but yet another psychic composite entity of seven human telepaths empowered by the assembled heroes, defeated it and inhabited the weakened Grom.<ref>''Defenders'' #112–115</ref>
+He was later discovered by another collective consciousness known as [[Null (comics)|Null the Living Darkness]]. In his current broken state Null took control of him and sent him on a campaign against a [[Parallel universe (fiction)|parallel universe]], [[Earth-712|Earth]], inhabited by the [[Squadron Supreme]]. The Overmind mentally enslaved both the Squadron and that Earth's leaders while posing as the U.S. president [[Nighthawk (Marvel Comics)|Kyle Richmond]], and began construction of an interstellar armada to invade other worlds. When [[Hyperion (Marvel Comics)|Hyperion]] brought the [[Defenders (comics)|Defenders]] to assist him, they freed the Squadron. Meanwhile, Null had leeched away the Overmind's mental energies, but yet another psychic composite entity of seven human telepaths empowered by the assembled heroes, defeated him and inhabited the weakened Grom.<ref>''Defenders'' #112–115</ref>
 
-The Overmind returned with the Defenders to their Earth.<ref>''Defenders'' #115</ref> For a while this entity was welcomed into the Defenders' ranks, and the loose ends of the seven psychics' old lives were tied up.<ref>''Defenders'' #117</ref> He assisted the Defenders in the rescue of [[Daimon Hellstrom]] from the [[Miracle Man]].<ref>''Defenders'' #120–121</ref> The Overmind grew uncomfortable and eventually left the Defenders, and made them forget it was ever one of them. It tried to find a purpose by attempting to help Millwood, New Hampshire, a town of 800 people dying of chemical poisoning, by controlling their minds to foster the illusion that they were well. The Overmind was convinced to cancel the illusion and allow them to live in reality.<ref>''Marvel Comics Presents'' #40</ref>
+The Overmind returned with the Defenders to their Earth.<ref>''Defenders'' #115</ref> For a while this entity was welcomed into the Defenders' ranks, and the loose ends of the seven psychics' old lives were tied up.<ref>''Defenders'' #117</ref> He assisted the Defenders in the rescue of [[Daimon Hellstrom]] from the [[Miracle Man]].<ref>''Defenders'' #120–121</ref> The Overmind grew uncomfortable and eventually left the Defenders, and made them forget he was ever one of them. He tried to find a purpose by attempting to help Millwood, New Hampshire, a town of 800 people dying of chemical poisoning, by controlling their minds to foster the illusion that they were well. The Overmind was convinced to cancel the illusion and allow them to live in reality.<ref>''Marvel Comics Presents'' #40</ref>
 
 When the Squadron transferred to this Earth, the Overmind's original psyche was stirred into awareness and absorbed the telepaths into his own billion-wide whole. His psychic powers were replenished and his true mind reasserted itself. He once more mind-controlled and kidnapped the Squadron to take revenge against the Stranger by organizing a raid against the latter's laboratory world.<ref>''Quasar'' #13</ref> He freed many of the Stranger's superhuman captives to fuel his enslaved ranks. He locked the Stranger in a stalemated mental battle. When several [[Watcher (comics)|Watchers]] arrived on an unrelated business the Overmind was wrought by paranoia, believing the Stranger to have summoned them for assistance, inducing psychosis, and enabling the Stranger to capture him as a subject of study.<ref>''Quasar'' #16</ref>
 
@@ -63,7 +66,8 @@ As a result of his alien physiognomy and metabolism, he possesses great superhum
 {{Fantastic Four}}
 {{Stan Lee}}
 
-[[Category:Comics characters introduced in 1971]]
+[[Category:Characters created by John Buscema]]
 [[Category:Characters created by Stan Lee]]
+[[Category:Comics characters introduced in 1971]]
 [[Category:Marvel Comics characters with superhuman strength]]
 [[Category:Marvel Comics telepaths]]

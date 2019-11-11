@@ -1,7 +1,7 @@
 {{For|Johnny Storm, member of the Fantastic Four|Human Torch}}
 {{Infobox comics character <!--Wikipedia:WikiProject Comics-->
 |image=Human Torch (Marvels 1 1994).jpg
-|caption= The original Human Torch<br>Artwork for the cover of ''[[Marvels]]'' #1 (Jan., 1994 Marvel Comics) by [[Alex Ross]]. It also homages one of the interior artworks from ''[[Marvel Mystery Comics|Marvel Comics]]'' #1 (Oct., 1939 Timely Comics) by [[Carl Burgos]] where the character made his debut.
+|caption= The original Human Torch<br>Artwork for the cover of ''[[Marvels]]'' #1 (Jan., 1994 Marvel Comics) by [[Alex Ross]]. It also pays homage to one of the interior artworks from ''[[Marvel Mystery Comics|Marvel Comics]]'' #1 (Oct., 1939 Timely Comics) by [[Carl Burgos]] where the character made his debut.
 |character_name=Human Torch
 |real_name=Jim Hammond
 |publisher=[[Timely Comics]]<br>[[Atlas Comics (1950s)|Atlas Comics]]<br>[[Marvel Comics]]
@@ -16,7 +16,7 @@ The '''Human Torch''', also known as '''Jim Hammond''' (originally, '''Hamond'''
 
 The "Human" Torch was actually an [[Android (robot)|android]] created by scientist [[Phineas Horton]]. He possessed the ability to surround himself with fire and control flames. In his earliest appearances, he was portrayed as a [[science fiction]] monstrosity, but quickly became a hero and adopted a secret identity as a police officer for the [[New York City Police Department]].
 
-The Human Torch was one of Timely Comics' three signature characters, along with [[Captain America]] and [[Namor]] the Sub-Mariner. Like many superheroes, the Human Torch fell into obscurity by the 1950s. In 1961, [[Stan Lee]] and [[Jack Kirby]] renovated his name and powers into a new character, [[Human Torch|Johnny Storm]], a member of the [[Fantastic Four]] (who was actually human-[[Mutate (comics)|mutate]]). Unlike [[Captain America]] and the [[Namor|Sub-Mariner]], the original Human Torch has had only a small presence in the post-1950s Marvel [[comic book]]s and is closely associated with the [[Golden Age of Comic Books|Golden Age]]. In 2012, Hammond was ranked 28th in [[IGN]]'s list of "The Top 50 Avengers".<ref>{{cite web |last= |first= |date=April 30, 2012 |title=The Top 50 Avengers |url=http://www.ign.com/top/avengers/28 |publisher=[[IGN]] |accessdate=July 28, 2015}}</ref>
+The Human Torch was one of Timely Comics' three signature characters, along with [[Captain America]] and [[Namor]] the Sub-Mariner. Like many superheroes, the Human Torch fell into obscurity by the 1950s. In 1961, [[Stan Lee]] and [[Jack Kirby]] repurposed his name and powers for a new character, [[Human Torch|Johnny Storm]], a member of the [[Fantastic Four]] (who was actually human-[[Mutate (comics)|mutate]]). Unlike [[Captain America]] and the [[Namor|Sub-Mariner]], the original Human Torch has had only a small presence in the post-1950s Marvel [[comic book]]s and is closely associated with the [[Golden Age of Comic Books|Golden Age]]. In 2012, Hammond was ranked 28th in [[IGN]]'s list of "The Top 50 Avengers".<ref>{{cite web |last= |first= |date=April 30, 2012 |title=The Top 50 Avengers |url=http://www.ign.com/top/avengers/28 |publisher=[[IGN]] |accessdate=July 28, 2015}}</ref>
 
 ==Publication history==
 Following his debut in the hit ''Marvel Comics'' #1,<ref>Per researcher Keif Fromm in ''Alter Ego'' #49, p. 4 (caption), that initial comic, cover-dated October 1939, quickly sold out 80,000 copies. Goodman immediately produced a second printing, cover-dated November 1939 and identical except for a black bar in the inside-front-cover indicia over the October date, and the November date added at the end. That sold approximately 800,000 copies.</ref> the Human Torch proved popular enough that he soon became one of the first superheroes to headline a solo title. Through the 1940s, the Torch starred or was featured in ''Marvel Mystery Comics'' (the book's title beginning with issue #2), ''The Human Torch'' (premiering with issue #2, Fall 1940, having taken over the numbering of the defunct ''[[Red Raven Comics]]''), and ''[[Captain America|Captain America Comics]]'' #19, 21–67, 69, 76–77, as well as appearing in several issues of ''[[All Select Comics]]'', ''[[All Winners Comics]]'', ''[[Daring Comics]]'', ''[[Mystic Comics]]'', and ''[[Young Allies (Marvel Comics)|Young Allies Comics]]''.
@@ -140,6 +140,7 @@ The Torch can live without oxygen, entering a stasis mode.
 
 ===Video games===
 * The Jim Hammond persona Human Torch appears in ''[[Lego Marvel's Avengers]]'', voiced by [[Sam Riegel]].{{citation needed|date=February 2016}}
+* Jim Hammond appears as a playable character in ''[[Marvel Puzzle Quest]]''.<ref>{{cite web |title=Piecing Together Marvel Puzzle Quest: Human Torch (Jim Hammond) |url=https://marvel.com/articles/games/piecing-together-marvel-puzzle-quest-human-torch-jim-hammond |website=Marvel.com |accessdate=30 August 2019 |date=29 August 2019}}</ref>
 
 ==References==
 {{Reflist|30em}}

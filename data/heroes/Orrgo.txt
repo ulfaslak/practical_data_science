@@ -1,5 +1,5 @@
-{{short lead|date=December 2017}}
-{{refimprove|date=December 2017}}
+{{lead too short|date=December 2017}}
+{{more citations needed|date=December 2017}}
 {{Infobox comics character
 |image=orrgo.jpg
 |image_size=200
@@ -26,7 +26,7 @@ Orrgo is a 25–30&nbsp;ft. [[Extraterrestrial life in popular culture|extraterr
 
 The [[Headmen]] later stole the God from Beyond from the museum and used it to summon Orrgo.<ref>''Defenders'' Vol. 2 #5</ref>
 
-The [[Headmen]] and [[MODOK]] summoned Orrgo using the God from Beyond statue. [[Patsy Walker|Hellcat]], [[Nighthawk (Marvel Comics)|Nighthawk]], and [[Valkyrie (Marvel Comics)|Valkyrie]] of the [[Defenders (comics)|Defenders]] fought Orrgo only to be defeated by him. Orrgo then went on to attack the city. After making volcanoes erupt, cities levitate, and populated areas burst into flames, Orrgo took control of the minds of Earth's population. The Headmen, MODOK, and the Defenders were not affected because they came in contact with the God from Beyond.<ref>''Defenders'' Vol. 2 #9</ref> When the Defenders attacked the Headmen's base, they ordered Orrgo to summon a supervillain army to fight them. While [[Doctor Strange]], [[Hulk (comics)|Hulk]], [[Namor]], and [[Silver Surfer]] were busy fighting the villains, Hellcat, Nighthawk, and Valkyrie enter the base of the Headmen as Nighthawk seized the God from Beyond. With the God from Beyond in their possession, the Defenders ordered Orrgo to undo the damage that it caused. With the damage undone and the supervillains teleported back to where they came from, Doctor Strange stated that they could banish all evil from Earth. Hellcat broke the God from Beyond stating that it would be a violation of the free will to do such a thing. Upon being freed, Orrgo thought for itself again and threatened to devastate the planet. Hellcat reminded Orrgo that his race has always been defeated by the humans and asked if he really wanted to fight them. Orrgo decides to leave Earth and return when the humans are extinct.<ref>''Defenders'' Vol. 2 #10</ref>
+The [[Headmen]] and [[MODOK]] summoned Orrgo using the God from Beyond statue. [[Patsy Walker|Hellcat]], [[Nighthawk (Marvel Comics)|Nighthawk]], and [[Valkyrie (Marvel Comics)|Valkyrie]] of the [[Defenders (comics)|Defenders]] fought Orrgo only to be defeated by him. Orrgo then went on to attack the city. After making volcanoes erupt, cities levitate, and populated areas burst into flames, Orrgo took control of the minds of Earth's population. The Headmen, MODOK, and the Defenders were not affected because they came in contact with the God from Beyond.<ref>''Defenders'' Vol. 2 #9</ref> When the Defenders attacked the Headmen's base, they ordered Orrgo to summon a supervillain army to fight them. While [[Doctor Strange]], [[Hulk]], [[Namor]], and [[Silver Surfer]] were busy fighting the villains, Hellcat, Nighthawk, and Valkyrie enter the base of the Headmen as Nighthawk seized the God from Beyond. With the God from Beyond in their possession, the Defenders ordered Orrgo to undo the damage that it caused. With the damage undone and the supervillains teleported back to where they came from, Doctor Strange stated that they could banish all evil from Earth. Hellcat broke the God from Beyond stating that it would be a violation of the free will to do such a thing. Upon being freed, Orrgo thought for itself again and threatened to devastate the planet. Hellcat reminded Orrgo that his race has always been defeated by the humans and asked if he really wanted to fight them. Orrgo decides to leave Earth and return when the humans are extinct.<ref>''Defenders'' Vol. 2 #10</ref>
 
 Through unknown means, Orrgo was captured by [[S.H.I.E.L.D.]] and placed in the [[Nick Fury's Howling Commandos|Howling Commandos]] Monster Force.<ref>''Nick Fury's Howling Commandos'' #6</ref>
 
@@ -51,7 +51,7 @@ In the ''[[Marvel Adventures]]'' continuity, Orrgo is shown to be roughly the si
 == In other media ==
 
 === Video games ===
-Orrgo appears as a boss and recruitable character in the mobile game ''[[Marvel Avengers Academy]]'' during the limited ''Monsters Unleashed!'' event, voiced by Scott Montiel.<ref>{{Cite news|url=https://www.voices.com/people/scottm#feedbacks|title=Scott Montiel|last=Voices.com|work=Voices.com|access-date=2017-03-15|language=en}}</ref> Writer Allen Warner praised his "goofy, crazy, over-the-top attitude and power set that make[s] him a great fit for the game, and perfect for an event that features a [[Devil Dinosaur|red dinosaur]] fighting a [[Fin Fang Foom|dragon from outer space]]".<ref>{{cite web|url=https://news.marvel.com/games/60727/monsters-unleashed-upon-marvel-avengers-academy/|title=Monsters Unleashed Upon 'Marvel Avengers Academy'|last=Snyder|first=Justin|date=2017-03-02|website=Marvel.com|publisher=|language=en-US|archive-url=|archive-date=|dead-url=|access-date=2017-03-15}}</ref>
+Orrgo appears as a boss and recruitable character in the mobile game ''[[Marvel Avengers Academy]]'' during the limited ''Monsters Unleashed!'' event, voiced by Scott Montiel.<ref>{{Cite news|url=https://www.voices.com/people/scottm#feedbacks|title=Scott Montiel|last=Voices.com|work=Voices.com|access-date=2017-03-15|language=en}}</ref> Writer Allen Warner praised his "goofy, crazy, over-the-top attitude and power set that make[s] him a great fit for the game, and perfect for an event that features a [[Devil Dinosaur|red dinosaur]] fighting a [[Fin Fang Foom|dragon from outer space]]".<ref>{{cite web|url=https://news.marvel.com/games/60727/monsters-unleashed-upon-marvel-avengers-academy/|title=Monsters Unleashed Upon 'Marvel Avengers Academy'|last=Snyder|first=Justin|date=2017-03-02|website=Marvel.com|language=en-US|access-date=2017-03-15}}</ref>
 
 ==Notes==
 * [[Adam Able]]'s home planet was called '''Orrgo''' in ''Journey into Mystery'' vol. 1 #82.
@@ -65,6 +65,7 @@ Orrgo appears as a boss and recruitable character in the mobile game ''[[Marvel 
 *{{Marvunapp|http://www.marvunapp.com/Appendix/orrgopre.htm}}
 {{Howling Commandos}}
 {{Jack Kirby}}
+
 [[Category:Characters created by Jack Kirby]]
 [[Category:Comics characters introduced in 1961]]
 [[Category:Fictional extraterrestrial characters]]

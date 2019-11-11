@@ -1,5 +1,5 @@
 {{Distinguish|Cypher (Marvel Comics)|Cipher (newuniversal)|Cypher (DC Comics)}}
-{{refimprove|date=July 2016}}
+{{more citations needed|date=July 2016}}
 
 {{Infobox comics character <!--Wikipedia:WikiProject Comics-->
 |character_name= Cipher (Marvel Comics)
@@ -15,7 +15,7 @@
 |powers= Invisibility, phasing/intangibility, complete stealth
 }}
 
-'''Cipher''' ('''Alisa Tager''') is a fictional [[Mutant (Marvel Comics)|mutant]] character, a [[superhero]] appearing in [[American comic book]]s published by [[Marvel Comics]]. She is a young African-American female who first appeared in ''Young X-Men'' #8 (Nov. 2008) and was created by [[Marc Guggenheim]] and Rafa Sandoval.
+'''Cipher''' ('''Alisa Tager''') is a fictional [[Mutant (Marvel Comics)|mutant]] character, a [[superhero]] appearing in [[American comic book]]s published by [[Marvel Comics]]. She is a young African-American woman who first appeared in ''Young X-Men'' #8 (Nov. 2008) and was created by [[Marc Guggenheim]] and Rafa Sandoval.
 
 ==Publication history==
 Cipher's first appearance was in ''Young X-Men'' #8 by writer Marc Guggenheim and artist Rafa Sandoval.  However, references to her character began in ''Young X-Men'' #3 and were initially written to deceptively reference long-deceased [[New Mutants]] character [[Cypher (comics)|Cypher]].  Through [[retcon]]s, Cipher is depicted as having been present during events prior to her character's creation, including [[Grant Morrison]]'s 2001 run on ''[[X-Men: Legacy#New X-Men|New X-Men]]'' and [[Joss Whedon]]'s 2004 tenure on ''[[Astonishing X-Men]].''  She became a featured character in the series ''[[Young X-Men]]'', and after that series ended, she appeared in ''[[Uncanny X-Men]]'' and ''[[Wolverine and the X-Men (comics)|Wolverine and the X-Men]]'' as part of the student cast.
@@ -39,7 +39,7 @@ She is also able to pilot the X-Men's jets.
 
 ==External links==
 * {{Comicbookdb|type=character|id=27849|title=Cipher}}
-{{Portal bar|2000s|Fictional characters|Superhero fiction|Comics}}
+{{Portal bar|Speculative fiction|Comics}}
 {{X-Men}}
 
 {{DEFAULTSORT:Cipher (Comics)}}
@@ -53,3 +53,4 @@ She is also able to pilot the X-Men's jets.
 [[Category:Marvel Comics superheroes]]
 [[Category:Comics characters introduced in 2008]]
 [[Category:Characters created by Marc Guggenheim]]
+[[Category:Marvel Comics female superheroes]]

@@ -2,7 +2,6 @@
 {{Notability|date=October 2018}}
 {{Infobox comics character| <!--Wikipedia:WikiProject Comics-->
 image=[[Image:Adriennefrost.jpg]]
-|image extracted from=''hyperion2000.free.fr/Bios/AdrienneFrost.htm''
 |caption=Adrienne Frost as the White Queen of the Hellfire Club
 |species=[[Mutant (Marvel Comics)|Human Mutant]]
 |publisher=[[Marvel Comics]]
@@ -12,7 +11,7 @@ image=[[Image:Adriennefrost.jpg]]
 |aliases= White Queen 
 |powers= [[Psychometry (paranormal)|Psychometry]]
 }}
-'''Adrienne Frost''' is a fictional [[supervillain]] appearing in [[American comic book]]s published by [[Marvel Comics]]. The character appears in stories set in the [[Marvel Universe]], commonly in association with the [[X-Men]]. She is the older sister of [[Emma Frost]] and [[Cordelia Frost]], but not much is known about her past.
+'''Adrienne Frost''' is a fictional [[supervillain]] appearing in [[American comic book]]s published by [[Marvel Comics]]. The character appears in stories set in the [[Marvel Universe]], commonly in association with the [[X-Men]]. She is the older sister of [[Emma Frost]] and [[Cordelia Frost]].
 
 ==Publication history==
 {{expand-section|date=March 2016}}
@@ -68,3 +67,4 @@ She was also an exceptionally skilled and intelligent business woman and expert 
 [[Category:Marvel Comics mutants]]
 [[Category:Marvel Comics supervillains]]
 [[Category:Female supervillains]]
+[[Category:Female characters in comics]]

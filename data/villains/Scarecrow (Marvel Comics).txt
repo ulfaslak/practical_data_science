@@ -22,9 +22,9 @@ The '''Scarecrow''' ('''Ebenezer Laughton''') is a [[fictional character|fiction
 Scarecrow's first appearance was in ''[[Tales of Suspense]]'' #51, in a story created by [[Stan Lee]] and [[Don Heck]].
 
 ==Fictional character biography==
-'''Ebenezer Laughton''' was born in [[Rhinebeck, New York]]. Raised by an abusive mother, Laughton became a circus escape artist and [[contortionist]], and while working as a carnival performer once helped [[Iron Man]] apprehend a fleeing culprit. However, he decided to make his profit in crime and became an accomplished burglar and professional thief while dressed as a [[scarecrow]]. He mostly worked alone—except for a flock of trained [[Corvus (genus)|crows]] which served as carriers and killers. In his first appearance as the Scarecrow, he was defeated by Iron Man.<ref>''Tales of Suspense'' #51</ref> 
+'''Ebenezer Laughton''' was born in [[Rhinebeck, New York]], as the son of a farmer, along with his brother Ralph.<ref name="Cap279">''Captain America'' #279-280</ref> Raised by an abusive mother, Laughton became a circus escape artist and [[contortionist]], and while working as a carnival performer once helped [[Iron Man]] apprehend a fleeing culprit. However, he decided to make his profit in crime and became an accomplished burglar and professional thief while dressed as a [[scarecrow]]. He mostly worked alone—except for a flock of trained [[Corvus (genus)|crows]] which served as carriers and killers. In his first appearance as the Scarecrow, he was defeated by Iron Man.<ref>''Tales of Suspense'' #51</ref> 
 
-He joined [[Count Nefaria]]'s short-lived team of super-mercenaries (which included [[Plantman]], the original [[Eel (comics)|Eel]], the original [[Porcupine (comics)|Porcupine]], the original [[Unicorn (comics)|Unicorn]] and himself), and participated in Count Nefaria's attempt to hold [[Washington, D.C.]] for ransom before being defeated by the [[X-Men]].<ref>''X-Men'' Vol. 1 #22-23</ref> He later worked for the [[Cowled Commander]], but was defeated by [[Captain America]] and the [[Falcon (comics)|Falcon]].<ref>''Captain America'' #158-159</ref> He then clashed with Captain America once more.<ref>''Captain America Annual'' #6</ref> Eventually, Laughton went insane, and he began murdering supporters of the Coalition for an Upstanding America, but was defeated by Captain America.<ref>''Captain America'' #279-280</ref>
+He joined [[Count Nefaria]]'s short-lived team of super-mercenaries (which included [[Plantman]], the original [[Eel (comics)|Eel]], the original [[Porcupine (comics)|Porcupine]], the original [[Unicorn (comics)|Unicorn]] and himself), and participated in Count Nefaria's attempt to hold [[Washington, D.C.]] for ransom before being defeated by the [[X-Men]].<ref>''X-Men'' Vol. 1 #22-23</ref> He later worked for the [[Cowled Commander]], but was defeated by [[Captain America]] and the [[Falcon (comics)|Falcon]].<ref>''Captain America'' #158-159</ref> He then clashed with Captain America once more.<ref>''Captain America Annual'' #6</ref> Eventually, Laughton went insane, and he began murdering supporters of the Coalition for an Upstanding America, but was defeated by Captain America.<ref name="Cap279" />
 
 It was revealed in ''[[Iron Man: Enter the Mandarin]]'' that Laughton was motivated in part to become a supervillain by agents of the [[Mandarin (comics)|Mandarin]] who supplied him with his first costume and trained crows. He was allured by the idea of standing out in the growing field of industrial espionage.
 
@@ -64,10 +64,10 @@ In ''[[Marvel vs. DC]]'', Scarecrow briefly teamed up with DC's [[Scarecrow (DC 
 
 ==In other media==
 ===Video games===
-* Scarecrow appears in the ''[[Ghost Rider (video game)|Ghost Rider]]'' video game (based on the [[Ghost Rider (2007 film)|feature film]]), voiced by [[Dave Wittenberg]]. In the game, Ghost Rider enters a church and fights Scarecrow and his crows. Scarecrow attacks Ghost Rider but retreats to a pillar. After Ghost Rider knocks the pillar over, Scarecrow falls from a great height, and the battle continues. This cycle repeats until the Scarecrow is defeated. Scarecrow also appears as a boss in the Game Boy Advance version.
+* Scarecrow appears in the ''[[Ghost Rider (video game)|Ghost Rider]]'' video game based on the [[Ghost Rider (2007 film)|feature film]], voiced by [[Dave Wittenberg]].{{cn|date=May 2019}} In the game, Ghost Rider enters a church and fights Scarecrow and his crows. Scarecrow attacks Ghost Rider but retreats to a pillar. After Ghost Rider knocks the pillar over, Scarecrow falls from a great height, and the battle continues. This cycle repeats until the Scarecrow is defeated. Scarecrow also appears as a boss in the Game Boy Advance version.
 
 ===Toys===
-* Scarecrow appears as an action figure for the [[Ghost Rider (2007 film)|''Ghost Rider'' movie]] line by Hasbro. A "comic-styled," five-inch (127&nbsp;mm) figure including crows and a pitchfork was included as part of a Toys"R"Us exclusive figure-set, "The Spider & The Scarecrow".
+* Scarecrow appears as an action figure for the ''Ghost Rider'' film line by Hasbro.{{cn|date=May 2019}} A "comic-styled," five-inch (127&nbsp;mm) figure including crows and a pitchfork was included as part of a Toys"R"Us exclusive figure-set, "The Spider & The Scarecrow".
 
 ==References==
 {{reflist}}
@@ -77,9 +77,13 @@ In ''[[Marvel vs. DC]]'', Scarecrow briefly teamed up with DC's [[Scarecrow (DC 
 * {{Marvunapp|http://www.marvunapp.com/Appendix5/scarecrow_laughton.htm|Scarecrow}}
 
 {{Captain America}}
+{{Doctor Strange}}
 {{Ghost Rider}}
+{{Iron Man}}
+{{Moon Knight}}
 {{Spider-Man characters}}
 {{Stan Lee}}
+
 [[Category:Animated series villains]]
 [[Category:Characters created by Don Heck]]
 [[Category:Characters created by Stan Lee]]

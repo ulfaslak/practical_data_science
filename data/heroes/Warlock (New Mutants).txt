@@ -1,4 +1,4 @@
-{{distinguish|Adam Warlock}}
+{{short description|Fictional character, a cybernetic alien superhero published by Marvel Comics}}
 {{lead too short|date=June 2018}}
 {{Infobox comics character| <!--Wikipedia:WikiProject Comics-->
 image=[[Image:Technarchy.jpg|250px]]
@@ -20,7 +20,7 @@ image=[[Image:Technarchy.jpg|250px]]
 '''Warlock''' is a [[fictional character]] appearing in [[American comic book]]s published by [[Marvel Comics]].
 
 ==Publication history==
-Warlock was introduced as part of a subplot in ''[[New Mutants]]'' #18 and was created by [[Chris Claremont]] and [[Bill Sienkiewicz]]. He joined the titular superteam in issue #21, and remained a part of the cast until he was killed off in issue #95. A young [[extraterrestrials in fiction|alien]] with a body that can assume any shape, he was commonly used for visual gags and fish-out-of-water humor. Warlock and his father, The [[Magus (Technarchy)|Magus]], were intended as an homage to [[Jim Starlin]]'s characters{{Citation needed|date=February 2007}}: [[Adam Warlock]] and the original [[Magus (comics)|Magus]].
+Warlock was introduced as part of a subplot in ''[[New Mutants]]'' #18 and was created by [[Chris Claremont]] and [[Bill Sienkiewicz]]. He joined the titular superteam in issue #21, and remained a part of the cast until he was killed off in issue #95.
 
 Warlock briefly starred in his own self-titled series for nine issues from 1999 to 2000, written by [[Louise Simonson]] (who had previously been responsible for killing off the original [[Technarchy]] Warlock) and drawn by [[Pasqual Ferry|Paschalis Ferry]].
 
@@ -78,9 +78,11 @@ The reality-hopping [[Exiles (Marvel Comics)|Exiles]] once visited a world where
 ===Ultimate Marvel===
 In the ''[[Ultimate X-Men]]'' "Magnetic North" storyline, Doug Ramsey appears. Whether or not this will lead into the Technarchy storyline is to be determined. In this continuity, Doug Ramsey is not a [[mutant (Marvel Comics)|mutant]]; he is simply a staggeringly intelligent human being. Warlock makes a [[cameo appearance]] in one issue, where he is seen fighting the [[X-Men]] in a gigantic form. However, this serves primarily as an [[in-joke]].
 
-==Other media==
+==In other media==
 ===Television===
-* Warlock (in his original incarnation) appeared in the ''[[X-Men (TV series)|X-Men]]'' animated series, voiced by David Corbain. This version's story was altered so that he actually came to Earth in an effort to escape his destiny of merging with the Phalanx. He and his Life-Mate crashed on Earth; he escaped the wreckage, his life-mate did not and gets captured by the villainous [[Cameron Hodge]] to recreate the Phalanx on Earth. A central character during the two-part "Phalanx Covenant" episode, he assists [[Beast (comics)|Beast]] and others to stop this techno-organic threat. After he volunteered himself to be assimilated with the cure and defeat the Phalanx infestation, Warlock's Life-Mate returns to normal and they both left Earth to return to their home world to influence the Phalanx for the better.
+* Warlock (in his original incarnation) appeared in the ''[[X-Men (TV series)|X-Men]]'' animated series, voiced by David Corbain. This version's story was altered so that he actually came to Earth in an effort to escape his destiny of merging with the Phalanx. He and his Life-Mate (voiced by [[Susan Roman]]) crashed on Earth; he escaped the wreckage, his Life-Mate did not and gets captured by the villainous [[Cameron Hodge]] to recreate the Phalanx on Earth. A central character during the two-part "Phalanx Covenant" episode, he assists [[Beast (comics)|Beast]] and others to stop this techno-organic threat. After he volunteered himself to be assimilated with the cure and defeat the Phalanx infestation, Warlock's Life-Mate returns to normal and they both left Earth to return to their home world to influence the Phalanx for the better.
+===Video Games===
+Warlock will be a playable character in [[Marvel: Contest of Champions]] on 22th August 2019.
 
 ===Toys===
 Warlock was featured as the Build-a-Figure in the spring 2017 X-Men wave of Marvel Legends action figures.<ref>http://marveltoynews.com/2017-marvel-legends-x-men-figures-official-packaged-photos/</ref>
@@ -90,6 +92,8 @@ Warlock was featured as the Build-a-Figure in the spring 2017 X-Men wave of Marv
 
 ==External links==
 * [http://uncannyxmen.net/characters/warlock-iii UncannyXmen.net Spotlight on Warlock]
+* [https://marvel.fandom.com/wiki/Warlock_(Technarch)_(Earth-616) Warlock] at Marvel Wiki
+
 {{X-Men}}
 {{New Mutants}}
 

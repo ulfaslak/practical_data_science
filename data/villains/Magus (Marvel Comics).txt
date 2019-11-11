@@ -1,6 +1,7 @@
+{{Distinguish|Magus (comics)}}
 {{Infobox comics character| <!--Wikipedia:WikiProject Comics-->
 |image=Magus (Technarchy).jpg
-|caption=''Magus (of the Technarchy)''
+|caption=Magus (of the Technarchy)
 |character_name=Magus
 |real_name=Magus
 |publisher=[[Marvel Comics]]
@@ -14,7 +15,7 @@
 The '''Magus''' ({{IPAc-en|ˈ|m|eɪ|g|ə|s}}) is a fictional character appearing in [[American comic book]]s published by [[Marvel Comics]]. He is a techno-organic patriarch of an alien civilization.
 
 ==Publication history==
-The Magus first appeared in the ''[[New Mutants]]'' (vol. 1) #18-19 (August-September 1984). He was created by writer [[Chris Claremont]] and artist [[Bill Sienkiewicz]]. The character and his son, the [[New Mutants|New Mutant]], [[Warlock (New Mutants)|Warlock]], were intended as an homage to [[Jim Starlin]]'s characters{{Citation needed|date=February 2007}}: the original [[Magus (comics)|Magus]] and [[Adam Warlock]].
+The Magus first appeared in the ''[[New Mutants]]'' (vol. 1) #18-19 (August-September 1984). He was created by writer [[Chris Claremont]] and artist [[Bill Sienkiewicz]]. The character and his son, the [[New Mutants|New Mutant]], [[Warlock (New Mutants)|Warlock]], were intended as an homage to [[Jim Starlin]]'s characters: the original [[Magus (comics)|Magus]] and [[Adam Warlock]].<ref>{{Cite web|url=https://www.looper.com/63979/untold-truth-adam-warlock/|title=The untold truth of Adam Warlock|date=|website=Looper|last=Spindler|first=Colin|accessdate=2019-09-18}}</ref>
 
 The character subsequently appeared in ''The Uncanny X-Men'' #192 (April 1985), and ''The New Mutants'' #46-47 (December 1986-January 1987), and #50 (April 1987).  The character did not appear again for many years, until ''Warlock'' #7-9 (April-June 2000), and ''X-Force'' #2 (May 2008).
 
@@ -48,6 +49,7 @@ A version of the Magus has lasted into the alternate future of Marvel 2099. Ther
 
 ==External links==
 * [https://web.archive.org/web/20070927002119/http://www.mutanthigh.com/magus.html Cerebra's Magus File]
+* {{Marveldatabase|Magus (Technarch)}}
 
 {{New Mutants}}
 

@@ -1,5 +1,5 @@
 {{Multiple issues|
-{{Refimprove|date=November 2006}}
+{{More citations needed|date=November 2006}}
 {{Notability|date=October 2016}}
 }}
 {{Infobox comic book title| <!--Wikipedia:WikiProject Comics-->
@@ -37,19 +37,17 @@ Bates immediately restructured the series, eliminating the Troubleshooters, taki
 
 An eight-page Spitfire solo story was printed in February 2006 as a backup story in ''Amazing Fantasy'' #19 as part of the ''Untold Tales of the New Universe'' event, which was created to commemorate the twentieth anniversary of the New Universe. The story is set a few weeks before ''Spitfire and the Troubleshooters'' #1.
 
-==Creators==
-
-===Writers===
-* [[Eliot R. Brown]] – ''Spitfire and the Troubleshooters'' #1 (October 1986)
+==Writers==
+* [[Eliot R. Brown]] – ''Spitfire and the Troubleshooters'' #1 (plot) (October 1986)
 * [[Gerry Conway]] – ''Spitfire and the Troubleshooters'' #1–6 (October 1986 – March 1987)
-* [[Jack Morelli]] – ''Spitfire and the Troubleshooters'' #1 (October 1986)
+* [[Jack Morelli]] – ''Spitfire and the Troubleshooters'' #1 (plot) (October 1986)
 * [[Roy Thomas]] – ''Spitfire and the Troubleshooters'' #5 (February 1987)
 * [[Cary Bates]] – ''Spitfire and the Troubleshooters'' #6–10 (March 1987 – July 1987)
 * [[Fabian Nicieza]] – ''Codename: Spitfire'' #11 (August 1987); "The Sublet" in ''Psi-Force'' #20 (June 1988) [back-up story]; "The Travest Termination" in ''Justice'' #28 (February 1989) [back-up story]
 * [[Len Kaminski]] – ''Codename: Spitfire'' #12 (September 1987)
 * [[Sandy Plunkett]] – ''Codename: Spitfire'' #13 (October 1987)
 
-===Art===
+==Art==
 * [[Herb Trimpe]] – ''Spitfire and the Troubleshooters'' #1–2, 5 (October and November 1986, February 1987)
 * [[Ron Wagner]] – ''Spitfire and the Troubleshooters'' #3 (December 1986)
 * [[Todd McFarlane]] – ''Spitfire and the Troubleshooters'' #4 (January 1987)
@@ -66,17 +64,19 @@ An eight-page Spitfire solo story was printed in February 2006 as a backup story
 ==Other versions==
 
 ===''newuniversal'' – Dr. Jennifer Swann===
-{{main article|Cipher (newuniversal)}}
+{{main|Cipher (newuniversal)}}
 
-An alternate version of Jenny Swensen is introduced as Dr. Jennifer Swan in [[Warren Ellis]]' re-imagining of New Universe, ''[[newuniversal]]''. Dr. Jennifer Swann works for [[Project Spitfire]], continuing her father's work on the H.E.X. (Human Enhancement eXperimental) Initiative, working to create a robotic battle suit. In the wake of the [[White Event]] and police reports regarding [[Star Brand (newuniversal)|Kenneth Connell]], Jennifer's supervisor [[Philip Nolan Voigt#Alternate versions|Philip L. Voight]] informs her that H.E.X funding has been increased by a factor of twenty and that the true mandate of Project Spitfire is to monitor and/or kill all superhumans. It is revealed in ''newuniversal'' #3 that she was granted the Cipher glyph, becoming the very thing she was tasked to hunt down and kill.
+An alternate version of Jenny Swensen is introduced as Dr. Jennifer Swan in [[Warren Ellis]]' re-imagining of New Universe, ''[[newuniversal]]''. Dr. Jennifer Swann works for [[Project Spitfire]], continuing her father's work on the H.E.X. (Human Enhancement eXperimental) Initiative, working to create a robotic battle suit. In the wake of the [[White Event]] and police reports regarding [[Star Brand (newuniversal)|Kenneth Connell]], Jennifer's supervisor [[Philip Nolan Voigt#Alternate versions|Philip L. Voight]] informs her that H.E.X funding has been increased by a factor of twenty and that the true mandate of Project Spitfire is to monitor and/or kill all superhumans. It is revealed in ''newuniversal'' #3 that she was granted the Cipher glyph, becoming one of the superhumans she was tasked to hunt down and kill.
 
 ===''Exiles''===
-An alternate version of Spitfire was rescued (and later recruited) by Quentin Quire; as part of Quire's version of the ''Exiles'', in which the team helped the surviving heroes battled the [[Annihilation Wave]] that was led by a banished [[Hulk (comics)|Hulk]].<ref>''Exiles:Days of Then and Now'' #1</ref>
+An alternate version of Spitfire was rescued (and later recruited) by Quentin Quire; as part of Quire's version of the ''Exiles'', in which the team helped the surviving heroes battled the [[Annihilation Wave]] that was led by a banished [[Hulk]].<ref>''Exiles:Days of Then and Now'' #1</ref>
 
 ==References==
 {{Reflist}}
 
 [[Category:1986 comics debuts]]
+[[Category:Comics by Gerry Conway]]
+[[Category:Defunct American comics]]
 [[Category:Marvel Comics superheroes]]
 [[Category:Marvel Comics titles]]
 [[Category:New Universe characters]]

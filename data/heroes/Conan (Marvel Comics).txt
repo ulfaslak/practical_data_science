@@ -10,9 +10,9 @@
 | creators       = [[Roy Thomas]] <br> [[Barry Windsor-Smith|Barry Smith]]
 | alter_ego      = 
 | full_name      =
-| species        = <!-- optional -->
+| species        = [[Human]]
 | homeworld      = <!-- optional -->
-| alliances      = <!-- optional -->
+| alliances      = [[Savage Avengers]]
 | partners       = <!-- optional -->
 | supports       = <!-- optional -->
 | aliases        = <!-- optional -->
@@ -29,11 +29,14 @@
 
 The highly successful ''Conan the Barbarian'' series spawned the more adult, black-and-white ''[[Savage Sword of Conan]]'' in 1974 (published as part of [[List of magazines released by Marvel Comics in the 1970s|Marvel's line of black-and-white magazines]]). Written by Thomas with most art by [[John Buscema]] or [[Alfredo Alcala]], ''Savage Sword of Conan'' soon became one of the most popular comic series of the 1970s and is now considered a cult classic.
 
-The Marvel Conan stories were also adapted as a newspaper [[comic strip]] which appeared daily and Sunday from September 4, 1978, to April 12, 1981. Originally written by Thomas and illustrated by Buscema, the strip was continued by several different Marvel artists and writers.
+The Marvel Conan stories were also adapted as a newspaper [[comic strip]] which appeared daily and Sunday from September 4, 1978, to April 12, 1981. Originally written by Thomas and illustrated by Buscema, the [[Conan Comic strip]] was continued by several different Marvel artists and writers.
 
 Marvel ceased publishing all Conan titles in 2000. In 2003, [[Dark Horse Comics]] acquired the license to publish the character. In 2018, Marvel reacquired the rights<ref>{{cite web|url=https://www.hollywoodreporter.com/heat-vision/conan-barbarian-comics-moving-back-marvel-1074351|title='Conan the Barbarian' Comics Moving Back to Marvel|last=McMillan|first=Graeme|work=The Hollywood Reporter|date=January 12, 2018|accessdate=January 13, 2018}}</ref> and started new runs of both ''Conan the Barbarian'' and ''Savage Sword of Conan'' in January/February 2019.
 
-== Core appearances==
+==Fictional character biography==
+{{expand section|date=April 2019}}
+
+==Core appearances==
 Marvel Comics' Conan's core appearances include:
 
 {| class="wikitable"
@@ -101,7 +104,7 @@ Marvel Comics' Conan's core appearances include:
 |A "reboot" of ''Savage Sword of Conan''
 |}
 
-=== Comic strip stories===
+===Comic strip stories===
 # ''The Coming of Conan'', [[Roy Thomas]] & [[John Buscema]]<br/>''(September 4–9, 1978)''
 # ''The Wizard's Daughter'', Roy Thomas & John Buscema<br/>''(September 10 – October 21, 1978)''
 # ''Red Sonja'', Roy Thomas, John Buscema & [[Ernie Chan]]<br/>''(October 22 – December 24, 1978)''
@@ -119,7 +122,7 @@ Marvel Comics' Conan's core appearances include:
 # ''The Tower of the Elephant'', Roy Thomas, [[Rudy Nebres]], [[Pablo Marcos]]. & [[Alan Kupperberg]]<br/>''(October 20, 1980  – January 3, 1981)''
 # ''Revenge of the Son of Yara the Wizard Priest'', Roy Thomas, [[Doug Moench]], Alan Kupperberg, Pablo Marcos, & [[Tom Yeates]]<br/>''(January 4 – Apr 12, 1981)''
 
-=== Marvel graphic novels ===
+===Marvel graphic novels===
 * ''The Witch Queen of Acheron'' (Marvel Graphic Novel [MGN] #19, 1985)
 * ''Conan the Reaver'' (MGN #28, 1987)
 * ''Conan of the Isles'' (MGN #42, 1988)
@@ -128,18 +131,17 @@ Marvel Comics' Conan's core appearances include:
 * ''Conan the Rogue'' (MGN #69, 1991)
 * ''The Ravagers Out of Time'' (MGN #73, 1992)
 
-=== Marvel Conan the Barbarian mini-series ===
+===Marvel Conan the Barbarian mini-series===
+* ''Stalker of the Woods'' 3 issues 1997
+* ''The Usurper'' 3 issues 1997
+* ''Lord of the Spiders'' 3 issues 1997
+* ''River of Blood'' 3 issues 1998
+* ''Return of Styrm'' 3 issues 1998
+* ''Scarlet Sword'' 3 issues 1998-1999
+* ''Death Covered in Gold'' 3 issues 1999
+* ''Flame and the Fiend'' 3 issues 2000
 
-*''Stalker of the Woods'' 3 issues 1997
-*''The Usurper'' 3 issues 1997
-*''Lord of the Spiders'' 3 issues 1997
-*''River of Blood'' 3 issues 1998
-*''Return of Styrm'' 3 issues 1998
-*''Scarlet Sword'' 3 issues 1998-1999
-*''Death Covered in Gold'' 3 issues 1999
-*''Flame and the Fiend'' 3 issues 2000
-
-=== Marvel Universe appearances in the modern day ===
+===Marvel Universe appearances in the modern day===
 * ''[[What If (comics)|What If (Volume 1)]]'' #13 Conan appears in the modern-day Marvel Comics universe and in short order adapts to it before returning to his own world.
 * ''What If (Volume 1)'' #39 What If Thor battled Conan The Barbarian?
 * ''What If (Volume 1)'' #43 In the sequel (and an alternative ending) to ''What If?'' #13, Conan leads a gang of thieves and fights [[Captain America]], who offers him a possible membership with the [[Avengers (comics)|Avengers]].
@@ -151,6 +153,7 @@ Marvel Comics' Conan's core appearances include:
 * ''[[Green Goblin]]'' #10 What appears to be a robot of Conan fights Green Goblin in [[Arcade (Marvel Comics)|Arcade]]'s Murderworld.
 * ''Earth X #0 (one panel)
 * ''[[Earth X|Paradise X: Heralds]]'' #1 What may be a reincarnated Conan (and [[Red Sonja]]) by [[Kulan Gath]] appears and is apparently killed by Hyperion before issue 2 begins.
+* ''[[Savage Avengers]]'' series where Conan will team-up with [[Wolverine (character)|Wolverine]], the [[Punisher]], [[Venom (Marvel Comics character)|Venom]], [[Elektra (comics)|Elektra]], and [[Brother Voodoo]].<ref>{{cite web|url=https://ew.com/books/2019/02/14/conan-savage-avengers-comic/|title=Exclusive: Conan the Barbarian will star in a new Avengers comic series|author=Christian Holub|publisher=Entertainment Weekly|date=2019-02-14|accessdate=2019-02-14}}</ref>
 
 The following occur in the Hyborean age:
 * ''[[Doctor Strange|Dr. Strange]]'' #11 (volume 3, 1989) versus [[Varnae]]
@@ -160,14 +163,14 @@ The following occur in the Hyborean age:
 
 Note: At least some of these appearances (e.g. ''What If?'', ''Avengers Forever'', and ''Excalibur''), if not all, were not of Conan from [[Earth-616]].
 
-==== Miscellaneous appearances ====
+====Miscellaneous appearances====
 * ''[[Conan the Barbarian (1982 film)|Conan the Barbarian Movie Special]]'' (1982), 2 issues
 * ''[[Conan the Destroyer|Conan the Destroyer Movie Special]]'' (1985), 2 issues
 * ''Marvel Age'', issues 1, 2, 8 and 13
 * ''What The'' issues 5 and 23
 * Conan vs. Rune (1995)
 
-=== Reprints ===
+===Reprints===
 * ''Conan the Barbarian'' (1978 to 1979), six [[paperback]]-sized books published by Ace Books/Tempo Star. Reprints issues 1–3 (vol. 1); 4–6 (vol. 2); 7–9 (vol. 3); 10–11 (vol. 4); 12 (first story), 13 and 16 (vol. 5); 12 (second story), 14–17 and 87 (second story) (vol. 6).
 * ''Conan the Barbarian – Special Edition'' (1983), ''Red Nails''
 * ''Conan Saga'' (1987–1995), 97 issues
@@ -177,22 +180,24 @@ Note: At least some of these appearances (e.g. ''What If?'', ''Avengers Forever'
 * ''Essential Conan'' (2000), vol. 1 (reprints issues 1–25)
 
 ===Collections later published by Dark Horse===
-* ''The Chronicles of Conan'' Vol. 1–34
-* ''The Savage Sword of Conan'' Vol. 1–22
-* ''The Chronicles of King Conan'' Vol. 1–11
+* ''[[Conan (Dark Horse Comics)#The Chronicles of Conan|The Chronicles of Conan]]'' Vol. 1–34
+* ''[[Conan (Dark Horse Comics)#The Savage Sword of Conan|The Savage Sword of Conan]]'' Vol. 1–22
+* ''[[Conan (Dark Horse Comics)#The Chronicles of King Conan|The Chronicles of King Conan]]'' Vol. 1–11
 
-== See also ==
+==See also==
 * [[Conan (comics)]]
 * [[Conan (Dark Horse Comics)]]
 * [[Starr the Slayer]]
 
-== References ==
+==References==
 {{reflist}}
+
+== External links ==
+* {{Marveldatabase|Conan the Barbarian}}
 
 {{Conan}}
 {{Marvel Multiverse}}
 
-[[Category:American comic strips]]
 [[Category:Characters in pulp fiction]]
 [[Category:Characters in fantasy literature]]
 [[Category:Comics characters introduced in 1970]]
@@ -206,5 +211,7 @@ Note: At least some of these appearances (e.g. ''What If?'', ''Avengers Forever'
 [[Category:Fictional pirates]]
 [[Category:Marvel Comics characters with superhuman strength]]
 [[Category:Marvel Comics titles]]
+[[Category:Characters created by Roy Thomas]]
+[[Category:Characters created by Barry Windsor-Smith]]
 
 [[fr:Conan le barbare (comics)]]

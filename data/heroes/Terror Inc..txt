@@ -1,5 +1,9 @@
-{{sources|date=September 2014}}
+{{Multiple issues|
+{{more citations needed|date=September 2014}}
 {{lead too short|date=September 2016}}
+}}
+{{short description|Comic book series}}
+
 {{Infobox comics character| <!--Wikipedia:WikiProject Comics-->
 image=[[Image:Terror Inc 01 cover.jpg|250px]]
 |caption= Cover of the first issue
@@ -19,7 +23,7 @@ image=[[Image:Terror Inc 01 cover.jpg|250px]]
 {{expand section|date=September 2016}}
 Terror was created for Marvel's [[Epic Comics]] line as part of writer [[D.G. Chichester|Dan Chichester]]'s ''[[Shadowline (Epic Comics)|Shadowline Saga]]'' of three interconnected titles. There were no superheroes in this world, but rather powerful, ageless beings known as "Shadows". In ''St. George'' #2 (Aug. 1988), Chichester and co-writer Margaret Clark introduced a green-skinned killer who acted as the enforcer for the Ravenscore crime family, one of the books' recurring villains.
 
-According to Chichester,<ref>[http://www.manwithoutfear.com/interviews/ddINTERVIEW.shtml?id=Chichester ManWithoutFear.com:  Dan Chichester interview]</ref> Marvel contacted him about bringing Shreck from the Shadowline books into the mainstream [[Marvel Universe]] to serve as a platform for reinventing and reintroducing the company's 1970s [[horror fiction|horror]] [[fictional character|characters]], such as [[Werewolf by Night]] and [[Morbius, the Living Vampire]], but subsequent publishing plans changed directions.
+According to Chichester,<ref>[http://www.manwithoutfear.com/interviews/ddINTERVIEW.shtml?id=Chichester ManWithoutFear.com: Dan Chichester interview]</ref> Marvel contacted him about bringing Shreck from the Shadowline books into the mainstream [[Marvel Universe]] to serve as a platform for reinventing and reintroducing the company's 1970s [[horror fiction|horror]] [[fictional character|characters]], such as [[Werewolf by Night]] and [[Morbius, the Living Vampire]], but subsequent publishing plans changed directions.
 
 The series ''Terror, Inc.'' was set for 15 issues but only ran for 13 issues, cover-dated July 1992 to July 1993. Terror next appeared in 2006's "League of Losers" storyline in ''[[Marvel Team-Up]]''.{{citation needed|date=September 2016}}
 
@@ -28,8 +32,8 @@ The series ''Terror, Inc.'' was set for 15 issues but only ran for 13 issues, co
 The comic books themselves gave no confirmation either way. Eventually, the [[Canon (fiction)|canonical]] ''[[Official Handbook of the Marvel Universe]] Horror 2005'' confirmed that the two were in fact the same being.{{citation needed|date=September 2016}}
 
 == Fictional character biography ==
-{{Refimprove section|date=May 2009}}
-<!--  Commented out because image was deleted: [[Image:Terror Issue01 Final.jpg|thumb|left|200px|Cover art for ''Terror Inc. #1''.<br>Art by [[Jelena Djurdjevic]]. {{deletable image-caption|1=Saturday, 21 July 2007}}]] -->
+{{More citations needed section|date=May 2009}}
+<!-- Commented out because image was deleted: [[Image:Terror Issue01 Final.jpg|thumb|left|200px|Cover art for ''Terror Inc. #1''.<br>Art by [[Jelena Djurdjevic]]. {{deletable image-caption|1=Saturday, 21 July 2007}}]] -->
 At some point in the distant past, a tribe of early humans hunted and fought a [[demons (Marvel Comics)|demon]] that had been preying upon them. The demon resembled a green [[bear]], with a series of long, thin spikes protruding from its face and along its spine. The man who killed the bear was cursed by victory to assume the demon's form - his skin took on its green, decaying form, and the spikes from its face appeared on his. He gained the beast's ability to merge the limbs of others with his own body, but was shunned by the tribe he had helped to protect. Over the years, he adopted names that reflected people's reaction to him, and by the [[Dark Ages (historiography)|Dark Ages]] he had adapted the Germanic "Schreck" (scare, fright) as his name.{{citation needed|date=September 2016}}
 
 At that point looking mostly human, Shreck was the [[squire]] to a powerful Shadow who was then calling himself Draghignazzo. Gravely injured in battle, Draghignazzo had Shreck bury him to create the illusion that he was actually dead, so he could heal in peace - a process that would take centuries. In the meantime, Shreck became a full [[knight]], fighting side-by-side with a woman he loved and who, remarkably, loved him back. She soon died, however, and Shreck had her left hand encased in metal and hermetically sealed so that he might remember her touch forever, the one part of his amalgamated body that would never decay.{{citation needed|date=September 2016}}
@@ -82,7 +86,13 @@ Without the benefit of a head though, Terror runs on instinct and will attack th
 Terror co-stars in an arc of writer [[Robert Kirkman]]'s ''[[Marvel Team-Up#Marvel Team-Up|Marvel Team-Up]]'' vol. 3, featuring a group of heroes dubbed "The League of Losers".{{citation needed|date=September 2016}} A villain named [[Chronok]] comes to the present and kills almost all of Marvel's heroes, and the survivors (including Terror) work to change the timeline and prevent him from doing so.{{citation needed|date=September 2016}}
 
 ===''Ultimate Marvel''===
-A police detective named Terry Schreck appears in the ''All-New Ultimates'' comic who gains a gangrenous, wasted appearance.<ref>''All-New Ultimates'' #2</ref>
+* In the ''[[Ultimate Marvel]]'' version exists as a police detective named Terry Schreck appears in the ''[[Ultimates|All-New Ultimates]]''.
+
+Terry Schreck worked for the [[New York Police Department|NYPD]] who was following the trail of a criminal named [[Styx and Stone|Stone]] along with his partners [[Mayhem (comics)|Brigid O'Reilly]] and Vernon Brooks. When they raided Stone's house, which Stone had shortly before abandoned, they discovered it was one of the numerous ex-[[Roxxon]] labs in the city.<ref>''All-New Ultimates'' #2</ref>
+
+After pinning down Stone in an alleyway, the detectives discovered him and Styx fighting the [[Young Avengers|Young Ultimates]]. Terry was disfigured and fatally injured when Styx touched him, and O'Reilly, Vernon, and the Ultimates were soon surrounded by the [[Serpent Society|Serpent Skulls]]. 
+
+The NYPD detectives and the [[Ultimates]] confronted the Skulls until the arrival of a SWAT team caused both the group of heroes and the group of villains to flee while Terry was taken to [[Roosevelt Hospital]] where he died hours later. While his body was being prepared for autopsy, it disappeared, leaving a trace of footprints behind. Terry had survived developing telepathic powers, and was roaming through West Side Highway until a truck hit him and made him fall through an open manhole to the sewer.<ref>''All-New Ultimates'' #4</ref>
 
 ===Marvel MAX===
 In the five-issue miniseries, Terror was once a warlord of Attain who took part in the Sack of Rome. As retaliation the Pope sent a [[mara (folklore)|mare]] against the warlord village, prompting him to slay the demon and eat her heart. Unbeknownst to him, this heinous act cursed him and he was turned into a rotting corpse, a thing he discovered when the decaying was so gruesome that his tribesmen exiled him. He discovered he could purloin parts from corpses and add them to his body. After a brief turn on animal parts, becoming the half-satyr known as ''Shreck'', he eventually settled on human corpses to avoid losing his self. Another help came from Draghignazzo, the Shadow Knight, who helped Shreck into better controlling his powers in exchange for servitude as his undying [[aide de camp]]. As his first lieutenant, Shreck was there to bury Draghignazzo's corpse, ensuring the magiks meant to cement his future resurrection would be intact, and then led Draghignazzo's army in battle with Talita, Draghignazzo's former bride and Shreck's current lover. They conquered several territories that Talita ruled with wisdom until the former Warlords ambushed them, killing Talita and forcing Shreck to take her arm and leg to escape. He had since replaced the leg, but had the arm encased in mystical armor, which transferred his "centre," enabling him to rebuild his body while the arm is in his proximity, if not an active part of his body.{{citation needed|date=September 2016}}

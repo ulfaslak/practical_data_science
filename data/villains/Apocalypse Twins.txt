@@ -5,6 +5,7 @@ image           = [[File:Apocalypse Twins.jpg|225px]]
 |comic_color    =
 |character_name = Apocalypse Twins
 |real_name      = Uriel and Eimin Worthington
+|homeworld      = Akkaba City, [[North Pole]]
 |species        = [[Mutant (Marvel Comics)|Human Mutant]]
 |publisher      = [[Marvel Comics]]
 |debut          = ''[[Uncanny Avengers]]'' #5 (May 2013)

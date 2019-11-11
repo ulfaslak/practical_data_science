@@ -7,6 +7,7 @@
 | debut          = ''The Punisher 2099'' #1 (February [[1993 in comics|1993]])
 | creators       = [[Pat Mills]]<br>[[Tony Skinner]]<br>[[Tom Morgan (comics)|Tom Morgan]]<br>(based upon the [[Punisher|original character]] by [[Gerry Conway]], [[Ross Andru]], and [[John Romita, Sr.]])
 | alter_ego      = Jake Gallows
+| homeworld      = [[Marvel 2099]] (Earth-928)
 | alliances      = Church of Thor<br>S.H.I.E.L.D. 2099<br>Public Eye Police Force
 | partners       = [[Doom 2099 (comics)|Doom 2099]]
 | aliases        = Minister of Punishment
@@ -47,7 +48,7 @@ Jake Gallows, a member of the Public Eye Police Force (a private police protecti
 
 Jake fought against the unique crimes of the dystopian 2099 future. He kills rogue organ-thieves, those who track down and steal organs from unwilling victims. He tries to protect those who cannot afford their police subscriptions and thus are ignored. Conversely, he also goes after those who use their money to get away with crimes. Jake also deals with a technologically minded partner named Matt Axel, and struggles with the uncaring attitudes of his bosses and colleagues towards the poor and the attentions of a police psychiatrist who believes Jake is up to something. Jake battled such foes as the Street Surgeons,<ref>''The Punisher War Journal'' #50 (January 1993)</ref> Saucers (who he executed after the death of one of his victims),<ref>''The Punisher 2099'' #3 (April 1993)</ref> the Cyber-Nostra,<ref>''The Punisher 2099'' #4 (May 1993)</ref> and Multi-Fractor.<ref>''The Punisher 2099'' #5-6 (June–July 1993)</ref> Over the course of the series, he would deal with a recurring villain who causes grotesque physical transformations with his hand, named the [[Fearmaster]].<ref>First in ''The Punisher 2099'' #8 (September 1993)</ref>
 
-For a time, Jake establishes a prison underneath his house (regular prisons have been abolished) and instead years are subtracted from people's lives by injection. Occasionally, he would sentence one to death in a molecular destabilizer if he felt their crimes truly horrific. Jake himself ponders the merits of such a facility. After a carefully planned breakout, most of the prisoners died.{{issue|date=January 2013}} The prison was rarely seen again.
+For a time, Jake establishes a prison underneath his house (regular prisons have been abolished and instead years are subtracted from people's lives by injection). Occasionally, he would sentence one to death in a molecular destabilizer if he felt their crimes truly horrific. Jake himself ponders the merits of such a facility. After a carefully planned breakout, most of the prisoners died.{{issue|date=January 2013}} The prison was rarely seen again.
 
 Jake encounters several "versions" of classic heroes where he arrives to protect a poor neighborhood from a Cyber Nostra land grab. The people, celebrating the old heroes by dressing up like them, reject Jake's violent ways, even when the Nostra kill the "Barrio Man", their leader. When all the Nostra are dead, the new Barrio Man, who seems to be someone else with an identical costume, approaches Jake. He expresses gratitude for Jake's help, but asks that he leave.<ref>''Punisher 2099" Vol. 1 #4 (May 1993)</ref>
 
@@ -98,6 +99,7 @@ In the '[[Timestorm 2009–2099|Timestorm]]' version of the 2099 universe, Gallo
 <!--Categories-->
 [[Category:Comics characters introduced in 1993]]
 [[Category:Comics by Pat Mills]]
+[[Category:Defunct American comics]]
 [[Category:Fictional characters from New York (state)]]
 [[Category:Fictional mass murderers]]
 [[Category:Fictional police officers]]

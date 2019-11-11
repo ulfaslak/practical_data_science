@@ -4,7 +4,7 @@
 |code_name  = Ronin
 |image      = Ronin Marvel Comics.jpg
 |imagesize  = <!-- default 250 -->
-|caption    = Ronin.<br>Art from the cover of ''New Avengers'' #11. Art by David Finch.
+|caption    = [[Echo (Marvel Comics)|Maya Lopez]] as Ronin as seen in ''New Avengers'' #11 (November 2005). Art by [[David Finch (comics)|David Finch]].
 |alt        = 
 |publisher  = [[Marvel Comics]]
 |debut      = ''[[The New Avengers (comics)|New Avengers]]'' #11
@@ -13,7 +13,7 @@
 |debutyr1   = <!-- the 2005 is resonable since that's when the concept/name first appeared -->
 |writer1   = [[Brian Michael Bendis]]
 |writer2   = [[Joe Quesada]]
-|characters = [[Echo (Marvel Comics)|Maya Lopez]]<br />[[Hawkeye (comics)|Clint Barton]]<br/>[[Red Guardian#Alexei Shostakov|Alexei Shostakov]]<br/>[[Blade (comics)|Eric Brooks]] 
+|characters = [[Echo (Marvel Comics)|Maya Lopez]]<br />[[Hawkeye (Clint Barton)|Clint Barton]]<br/>[[Red Guardian#Alexei Shostakov|Alexei Shostakov (LMD)]]<br/>[[Blade (character)|Eric Brooks]] 
 |seealso    = 
 |cat        = super
 |subcat     = Marvel Comics
@@ -21,54 +21,52 @@
 |villain    = 
 |sortkey    = Ronin
 }}
-'''Ronin''' is an [[wikt:alias|alias]] used by multiple characters in the {{Marvel Universe}}. The Ronin identity was created by [[Brian Michael Bendis]] and [[Joe Quesada]], though the characters who have adopted the identity were pre-existing characters created by other writers.
+'''Ronin''' is an [[wikt:alias|alias]] used by multiple characters in the {{Marvel Universe}}. 
 
 The name "[[Rōnin|Ronin]]" refers to the [[Japanese language|Japanese]] term for a masterless [[samurai]], a lone warrior.
 
 ==Publication history==
+The persona of Ronin was created by [[Brian Michael Bendis]] and [[Joe Quesada]]. Bendis stated that the original intention was [[Daredevil (Marvel Comics character)|Matt Murdock]] as the true identity of Ronin but could not do so due to a conflict with plans in the ''Daredevil'' comic book title.<ref>[http://goodcomics.comicbookresources.com/2008/06/12/comic-book-urban-legends-revealed-159/ Comic Book Urban Legends Revealed #159], [[Comic Book Resources]], June 12, 2008</ref>
+
+==Fictional character biography==
 
 ===Maya Lopez===
 {{main|Echo (Marvel Comics)}}
-Maya Lopez was the first person to do the Ronin identity. A [[deaf]] woman with photographic reflexes, Maya became Ronin to investigate the [[Silver Samurai]] in Wakanda. She first appeared as Ronin in ''New Avengers'' #11 (November 2005), though the character appeared on the covers of several earlier issues.
-
-''[[The New Avengers (comics)|New Avengers]]'' writer [[Brian Michael Bendis]] stated that his original intention was to make [[Daredevil (Marvel Comics character)|Matt Murdock]] as the true identity of Ronin, but could not do so due to a conflict with the plans for the character in the ''Daredevil'' comic book title.<ref>[http://goodcomics.comicbookresources.com/2008/06/12/comic-book-urban-legends-revealed-159/ Comic Book Urban Legends Revealed #159], [[Comic Book Resources]], June 12, 2008</ref>
+The original iteration of Ronin first appeared in ''[[The New Avengers (comics)|New Avengers]]'' #11 (November 2005) (although the character appeared on the covers of several earlier issues). [[Echo (Marvel Comics)|Maya Lopez]] was the first person to take on the Ronin identity.<ref>''New Avengers'' #11 (November 2005)</ref> 
 
 ===Clint Barton===
-{{main|Hawkeye (comics)}}
-Clint Barton is the second person to have the Ronin identity, becoming Ronin when he rejoined the New Avengers in the aftermath of ''[[Civil War (comics)|Civil War]]''.<ref>''New Avengers'' #27 (April 2007)</ref> He attempted to hand the costume back to Lopez after the latter was rescued from the Hand, but Lopez might have declined and allowed him to keep it. Barton later resumed his Hawkeye identity during the [[Heroic Age (comics)|Heroic Age]].
+{{main|Hawkeye (Clint Barton)}}
+The second iteration of Ronin first appeared in ''New Avengers'' #27 (April 2007). [[Hawkeye (Clint Barton)|Clint Barton]] is the second person to have used the Ronin identity.<ref>''New Avengers'' #27 (April 2007)</ref>
 
 ===Alexei Shostakov===
-{{main|Red Guardian (Alexei Shostakov)}}
-A third individual who dons the Ronin identity was introduced in the "[[Widowmaker (Marvel Comics)|Widow Maker]]" crossover between the ''[[Hawkeye & Mockingbird]]'' and ''Black Widow'' titles. This iteration initially starts assassinating spies and eventually targets [[Mockingbird (Marvel Comics)|Mockingbird]] and [[Black Widow (Natasha Romanova)|Black Widow]]. He is later revealed as Alexei Shostakov, Black Widow's ex-husband.
-
-Writer [[Jim McCann (writer)|Jim McCann]] revealed "We're going to learn that there is far more to the Ronin identity than anyone knew, pre-dating Hawkeye and Echo before him. Why does Ronin exist? That's a central mystery we will tackle.".<ref>{{cite web|url=http://www.comicbookresources.com/?page=article&id=27204 |title=McCann & Swierczynski Are "Widow Makers" |publisher=Comic Book Resources |date= |accessdate=2010-09-13}}</ref><ref>{{cite web|author= |url=http://comics.ign.com/articles/110/1106327p1.html |title=SDCC10: Killing Hawkeye & Widow - Comics News at IGN |publisher=Comics.ign.com |date=2010-07-15 |accessdate=2010-09-13}}</ref>
+{{main|Red Guardian}}
+Writer [[Jim McCann (writer)|Jim McCann]] revealed "We're going to learn that there is far more to the Ronin identity than anyone knew, pre-dating [the first two versions] before [the third iteration]. Why does Ronin exist? That's a central mystery we will tackle."<ref>{{cite web|url=http://www.comicbookresources.com/?page=article&id=27204 |title=McCann & Swierczynski Are "Widow Makers" |publisher=Comic Book Resources |date= |accessdate=2010-09-13}}</ref><ref>{{cite web|author= |url=http://comics.ign.com/articles/110/1106327p1.html |title=SDCC10: Killing Hawkeye & Widow - Comics News at IGN |publisher=Comics.ign.com |date=2010-07-15 |accessdate=2010-09-13}}</ref> A [[Life Model Decoy]] of [[Red Guardian|Alexei Shostakov]] is the third individual who dons the Ronin identity.<ref>''Widowmaker'' #1 (February 2011)</ref> 
 
 ===Eric Brooks===
-{{main|Blade (comics)}}
-A character whose identity is kept from the reader is introduced in the ''[[The Mighty Avengers|Mighty Avengers]]'' and dons a Halloween-type costume, "Spider Hero", during the ''[[Infinity (comic book)|Infinity]]'' storyline.<ref>''Mighty Avengers'' vol. 2 #1</ref> During the ''[[Inhumanity (comics)|Inhumanity]]'' storyline, this character is supplied with the Ronin costume from a "big box of Clint Barton's old stuff".<ref>''Mighty Avengers'' #4.INH</ref> Before the character's true identity was revealed in [[Canon (fiction)|canon]], a leaked script for the first appearance revealed that this iteration is Eric Brooks, that is, the vampire hunter also known as Blade.<ref>{{cite web|url=http://www.comicbookresources.com/?page=article&id=48773|title=Marvel Inadvertently Leaks Mighty Avengers Mystery Member ID|last=Sunu|first=Steve|date=28 October 2013|website=Comic Book Resources|accessdate=28 October 2013}}</ref><ref>''Mighty Avengers'' #9 (June 2014)</ref>
+{{main|Blade (character)}}
+A character (whose identity is initially kept from the reader) is introduced in the ''[[The Mighty Avengers|Mighty Avengers]]'' and dons the Halloween-type Spider Hero costume during the ''[[Infinity (comic book)|Infinity]]'' storyline,<ref>''Mighty Avengers'' Vol. 2 #1</ref> and is supplied with the Ronin costume from a "big box of Clint Barton's old stuff" during the ''[[Inhumanity (comics)|Inhumanity]]'' storyline.<ref>''Mighty Avengers'' #4.INH (February 2014)</ref> Before being revealed in [[Canon (fiction)|canon]], a leaked script revealed the fourth iteration's true identity to be [[Blade (character)|Eric Brooks]].<ref>{{cite web|url=http://www.comicbookresources.com/?page=article&id=48773|title=Marvel Inadvertently Leaks Mighty Avengers Mystery Member ID|last=Sunu|first=Steve|date=28 October 2013|website=Comic Book Resources|accessdate=28 October 2013}}</ref><ref>''Mighty Avengers'' #9</ref> 
 
 ==Other versions==
 
 ===Ultimate Marvel===
-[[File:Ultimate Ronin.png|thumb|right|[[Marc Spector]] as Ronin from a preview image from ''Ultimate Spider-Man'' #108.]]The [[Ultimate Marvel]] version of Ronin is one of the [[Dissociative identity disorder|multiple personalities]] of '''[[Moon Knight#Ultimate_Marvel|Marc Spector]]''' created to infiltrate service of the [[Kingpin (comics)|Kingpin]] (Wilson Fisk). The Kingpin tells Ronin to prove himself by retrieving [[Spider-Man (Ultimate Marvel character)|Spider-Man]].<ref>''Ultimate Spider-Man'' #108</ref> Ronin drives a school bus into Midtown High School and starts firing a gun to get Spider-Man to fight. [[Kitty Pryde]] confronts him, but is knocked unconscious shortly before Spider-Man arrives. The two engage in a brutal battle that is mirrored in a fight between Moon Knight and Ronin in his mind (as they are two different personalities within the same person); Ronin knocks Spider-Man unconscious in the end (as the Moon Knight personality is also apparently "killed"). Ronin uses Spider-Man's own web-shooters to leave the high school, and takes the youth to the Kingpin to interrogate the hero at the Kingpin's hideout.<ref>''Ultimate Spider-Man'' #108</ref> The Kingpin then attacks Ronin, revealing that the Kingpin already knew his identity. Ronin is then taken to a river by two of the Kingpin's henchmen and shot in the head. He somehow survives this and goes to the police to provide evidence about Kingpin's attempt to murder him. He has to reveal his secret identity to do this, but it does lead to the Kingpin's arrest and the media referring to him as a hero.<ref>''Ultimate Spider-Man'' #111</ref>
+[[File:Ultimate Ronin.png|thumb|right|The [[Ultimate Marvel]] version of Ronin (left).]]The [[Ultimate Marvel]] equivalent of Ronin is an [[Dissociative identity disorder|alternate personality]]  of [[Moon Knight|Marc Spector]].<ref name="ultimatespiderman108">''Ultimate Spider-Man'' #108 (June 2007)</ref> In order to infiltrate the services of the [[Kingpin (comics)|Kingpin]], Ronin proves himself by retrieving [[Spider-Man (Ultimate Marvel character)|Spider-Man]]. Ronin drives a school bus into Midtown High School and starts firing a gun to get Spider-Man to fight. [[Kitty Pryde]] confronts Ronin, but is knocked unconscious shortly before Spider-Man arrives. The two engage in a brutal battle that is mirrored in a fight between Moon Knight and Ronin in his mind (as the two different personalities within the same person); Ronin knocks Spider-Man unconscious in the end (as Moon Knight's personality is also apparently "killed"). Ronin uses Spider-Man's own web-shooters to leave the high school, and takes the youth to the Kingpin to interrogate at the Kingpin's hideout.<ref name="ultimatespiderman108"/> But the Kingpin then attacks Ronin, revealing that the Kingpin already knew of Ronin's true identity.<ref>''Ultimate Spider-Man'' #109</ref> Ronin is then taken to a river by the Kingpin's two henchmen and shot in the head. However, he somehow survives this and goes to the police to provide evidence about the Kingpin's attempt to murder him, revealing his secret identity to do this but leads to the Kingpin's arrest and the media referring to him as a hero.<ref>''Ultimate Spider-Man'' #110</ref>
+{{-}}
 
 ==In other media==
+===Television===
+An exclusive version of Ronin appears in ''[[Marvel Disk Wars: The Avengers]]'': '''Nozomu Akatsuki''' (voiced by [[Hideyuki Hori]] in the Japanese version and by [[Keith Silverstein]] in the English dub).<ref>https://www.behindthevoiceactors.com/tv-shows/Marvel-Disk-Wars-The-Avengers/Nozomu-Akatsuki/</ref> This iteration is an entirely original character (rather than an existing hero) under the Ronin mask. The father of Akira Akatsuki and Hikaru Akatsuki, he is the co-developer of the DISKS (Digital Identity Securement Kit) before acting as Ronin. 
 
 ===Film===
-* [[Hawkeye (comics)|Clint Barton]] will assume the identity of Ronin in ''[[Avengers: Endgame]]'' portrayed by [[Jeremy Renner]].<ref>https://www.express.co.uk/entertainment/films/870921/Avengers-Infinity-War-Jeremy-Renner-Hawkeye-Avengers-4-set-photo-Ronin</ref>
-
-===Television===
-* Ronin appears in ''[[Marvel Disk Wars: The Avengers]]'', voiced by [[Hori Hideyuki]]. This version is an entirely new character (rather than an existing hero) under the mask: '''Nozomu Akatsuki''', the father of Akira Akatsuki and Hikaru Akatsuki. 
+* The concept of Ronin is used in ''[[The Wolverine (film)|The Wolverine]]'' as a description for [[Wolverine (character)|Logan / Wolverine]] (portrayed by [[Hugh Jackman]]) by [[Ichiro Yashida]].<ref>https://screenrant.com/the-wolverine-logan-featurettes-hbo-first-look/</ref>
+* The Clint Barton incarnation of Ronin appears in ''[[Avengers: Endgame]]'', portrayed by [[Jeremy Renner]].<ref>{{cite web|url=https://comicbook.com/marvel/2019/04/07/avengers-endgame-clint-barton-is-officially-ronin-jeremy-renner/|title=Marvel Studios Is Officially Calling Clint Barton Ronin in 'Avengers: Endgame'|work=Comic Book.com|last=Barnhardt|first=Adam|date=April 6, 2019|access-date=April 7, 2019|archiveurl=https://web.archive.org/web/20190407025611/https://comicbook.com/marvel/2019/04/07/avengers-endgame-clint-barton-is-officially-ronin-jeremy-renner/|archivedate=April 7, 2019|url-status=live}}</ref> 
 
 ===Video games===
-* Maya Lopez appears using the Ronin identity as a [[PlayStation Portable|PSP]] exclusive playable character in ''[[Marvel: Ultimate Alliance]]'', voiced by [[Marabina Jaimes]]. She appears masked by default, but has an unmasked alternate costume. A [[Mod (computer gaming)|mod]] available for the game's [[Wii]] version unlocks her as a playable character.
-* The Ronin suit appears as an alternate costume for Hawkeye (Clint Barton) in ''[[Ultimate Marvel vs. Capcom 3]]''.
-* The Ronin costume was featured as a chase costume in ''[[Marvel Heroes (video game)|Marvel Heroes]]''.
-* Echo (Maya Lopez) as Ronin can also be found in ''[[Lego Marvel's Avengers]]''. 
-* Ronin is an unlockable costume for Hawkeye (Clint Barton) in ''[[Avengers Academy]]''.
+* The Maya Lopez version of Ronin appears as a exclusive playable character in the [[PlayStation Portable|PSP]] version of ''[[Marvel: Ultimate Alliance]]'', voiced by [[Marabina Jaimes]]. 
+* The Clint Barton version of Ronin appears as an alternate design in ''[[Ultimate Marvel vs. Capcom 3]]'', ''[[Marvel Heroes (video game)|Marvel Heroes]]'' and ''[[Avengers Academy]]'', and as a playable character in ''[[Marvel Future Fight]]'' and ''[[Marvel Contest of Champions]]''.
+* The Eric Brooks version of Ronin can be seen as a playable character in ''[[Lego Marvel's Avengers]]''.
 
 ===Toys===
-* A [[Minimate]] of the character was released in the 12th series of Marvel Minimates, in a 2-pack with new battle damaged "Riot-Attack" variant of Spider-Man.
+* A [[Minimate]] of the character was released in the 12th series of Marvel Minimates, in a 2-pack with new battle damaged "Riot-Attack" variant of [[Spider-Man]].
 * Marvel Legends released a 2-pack with a Ronin figure and [[Elektra (comics)|Elektra]]. This figure has an alternate unmasked Clint Barton (Hawkeye) head.<ref>{{cite web|url=http://www.oafe.net/artemis/mlhfo1_er.php |title=ML: Elektra & Ronin review |publisher=OAFE |date= |accessdate=2010-09-13}}</ref>
 * Marvel Universe released a Ronin figure.
 

@@ -1,5 +1,8 @@
-#redirect[[System Crash (comics)]]
+#REDIRECT [[System Crash (comics)#Members]]
 
+{{Redirect category shell|
 {{R from fictional character|Marvel Comics}}
+{{R to section}}
+}}
 
 [[Category:Marvel Comics supervillains]]

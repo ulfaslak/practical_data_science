@@ -1,11 +1,11 @@
 {{distinguish|Piecemeal (Gilbert Benson)}}
 {{multiple issues|
 {{one source|date=October 2012}}
-{{Refimprove|date=February 2008}}
+{{More citations needed|date=February 2008}}
 {{In-universe|date=March 2009}}
 }}
 
-'''Piecemeal''' is a fictional character appearing in [[American comic book]]s published by [[Marvel Comics]]. Piecemeal was a [[cyborg]] villain, a foe of the [[Hulk (comics)|Hulk]].
+'''Piecemeal''' is a fictional character appearing in [[American comic book]]s published by [[Marvel Comics]]. Piecemeal was a [[cyborg]] villain, a foe of the [[Hulk]].
 
 ==Fictional character biography==
 
@@ -16,15 +16,15 @@ A short time later, a retired member of the [[Pantheon (Marvel Comics)|Pantheon]
 The Hulk faced Piecemeal in battle, and was victorious, although Piecemeal's body was never found, suggesting it may still be living in the Loch.<ref>''Incredible Hulk'' (Vol. 2) #403</ref>
 
 ==Powers and abilities==
-
 As a cyborg, Piecemeal possessed mechanically-augmented strength. It had claws that could shred steel, and a tail that could crush a concrete bunker. It could generate bursts of bioelectricity strong enough to shatter a tank.  It also had the ability to absorb the memories and emotions of its victims, and copy the powers and appearance of superpowered opponents.
 
-== In other Media ==
-===Video Games===
-* Piecemeal appears as a boss in ''[[The Incredible Hulk: The Pantheon Saga]]''.
+==In other media==
+Piecemeal appears as a boss in ''[[The Incredible Hulk: The Pantheon Saga]]''.
 
 ==References==
 {{Reflist}}
+
+{{Hulk}}
 
 [[Category:Marvel Comics supervillains]]
 [[Category:Characters created by Fabian Nicieza]]

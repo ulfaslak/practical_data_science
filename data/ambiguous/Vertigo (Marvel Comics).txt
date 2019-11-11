@@ -1,5 +1,5 @@
-{{for|the member of Salem's Seven|Vertigo (Salem's Seven)}}
-{{Notability|date=August 2018}}
+{{for|the member of [[Salem's Seven]]|Salem's Seven#Members}}
+{{refimprove|date=April 2019}}
 {{Infobox comics character <!--Wikipedia:WikiProject Comics-->
 | character_name=Vertigo
 | image=vertigo236.jpg
@@ -25,7 +25,7 @@
 Vertigo first appeared in ''[[Marvel Fanfare]]'' #1 (March [[1982 in comics|1982]]), created by writer [[Chris Claremont]] and artist [[Michael Golden (comics)|Michael Golden]].
 
 ==Fictional character biography==
-She was initially a member of the [[Savage Land Mutates]], empowered by [[Magneto (comics)|Magneto]], with whom she first battled the [[X-Men]] and [[Spider-Man]].<ref>''Marvel Fanfare'' #1</ref>
+She was initially a member of the [[Savage Land Mutates]], empowered by [[Magneto (Marvel Comics)|Magneto]], with whom she first battled the [[X-Men]] and [[Spider-Man]].<ref>''Marvel Fanfare'' #1</ref>
 
 ===Marauders===
 Later, although not a mutant, she joined the [[Marauders (comics)|Marauders]], a group of mutants working as assassins for the enigmatic [[geneticist]] known as [[Mister Sinister]].<ref>revealed in ''Uncanny X-Men'' #211</ref> Sinister wanted his assassins to destroy a large community of mutants, known as the [[Morlocks (comics)|Morlocks]], who lived under [[New York City]], as he had deemed them genetically useless. The Marauders did succeed in annihilating a large number of the underground mutants. While the Marauders were accomplishing this, they also clashed with the X-Men,<ref>''Uncanny X-Men'' #210–213 (Oct. 1986–Jan. 1987)</ref> [[X-Factor (comics)|X-Factor]],<ref>''X-Factor'' #10 (Nov. 1986)</ref> [[Thor (Marvel Comics)|Thor]],<ref>''Thor'' #374 (Dec. 1986)</ref> and [[Power Pack]].<ref>''Power Pack'' #27 (Dec. 1986)</ref> With the Marauders, she also attempted to kill [[Madelyne Pryor]].<ref>''Uncanny X-Men'' #221 (Sept. 1987)</ref>
@@ -78,8 +78,7 @@ In the ''[[Age of X]]'' reality Vertigo appeared as an X-Man.<ref>''X-Men Legacy
 [[Category:Characters created by Michael Golden]]
 [[Category:Comics characters introduced in 1982]]
 [[Category:Female characters in comics]]
-[[Category:Female supervillains]]
 [[Category:Fictional clones]]
 [[Category:Fictional mercenaries]]
+[[Category:Marvel Comics female supervillains]]
 [[Category:Marvel Comics mutates]]
-[[Category:Marvel Comics supervillains]]

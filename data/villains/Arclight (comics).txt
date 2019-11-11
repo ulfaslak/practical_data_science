@@ -1,3 +1,4 @@
+{{short description|Mutant super-villain character from Marvel Comics}}
 {{For|the DC Comics villain|Arclight (DC Comics)}}
 {{Infobox comics character| <!--Wikipedia:WikiProject Comics--> 
 image=[[Image:Arclight.jpg|250px]]
@@ -12,7 +13,9 @@ image=[[Image:Arclight.jpg|250px]]
 |aliases=
 |powers=Superhuman strength, stamina, durability and resiliency<br>Ability to generate seismic energies with her hands that cause shock waves and geo tremors 
 }}
-'''Arclight''' ('''Philippa Sontag''') is a [[Mutant (Marvel Comics)|mutant]] [[supervillain]]ess appearing in [[American comic book]]s published by [[Marvel Comics]].
+'''Arclight''' ('''Philippa Sontag''') is a fictional character, a [[Mutant (Marvel Comics)|mutant]] [[supervillain]]ess appearing in [[American comic book]]s published by [[Marvel Comics]].
+
+Omahyra Mota portrayed the role in ''[[X-Men: The Last Stand]].''
 
 ==Publication history==
 Arclight first appeared in ''[[Uncanny X-Men]]'' #210-211 (October–November 1986), and was created by [[Chris Claremont]] and [[John Romita Jr.]]
@@ -43,11 +46,11 @@ In the ''[[House of M]]'' reality, Arclight (alongside [[Mentallo]] and Wild Chi
 ==In other media==
 
 ===Television===
-* Arclight appeared in the two-part ''[[X-Men (TV series)|X-Men]]'' episode "Sanctuary." She is among the mutants that join [[Magneto (comics)|Magneto]]'s [[Asteroid M|mutant haven]]. In the episode "Secrets Not Long Buried", she is one of the many residents of the mutant-dominated community of Skull Mesa.<ref>''X-Men'' episode "Sanctuary"</ref>
+* Arclight appeared in the two-part ''[[X-Men (TV series)|X-Men]]'' episode "Sanctuary." She is among the mutants that join [[Magneto (Marvel Comics)|Magneto]]'s [[Asteroid M|mutant haven]]. In the episode "Secrets Not Long Buried", she is one of the many residents of the mutant-dominated community of Skull Mesa.<ref>''X-Men'' episode "Sanctuary"</ref>
 * Arclight first appears in the ''[[Wolverine and the X-Men (TV series)|Wolverine and the X-Men]]'' episode "eXcessive Force". This Arclight is male, and he is supposedly the field leader of the Marauders taking direct orders from Mister Sinister. He utilizes the same shock wave powers as his mainstream and movie counterparts. When Vertigo arrives to warn him about Cyclops coming, he is attacked while Vertigo flees. Mister Sinister gets contacted by him and is given orders to give Cyclops information that would lead him into a trap.<ref>''Wolverine & The X-Men'' episode "eXcessive Force"</ref>
 
 ===Film===
-* Arclight appeared in the 2006 motion picture ''[[X-Men: The Last Stand]]'' played by [[Dominican Republic|Dominican]] fashion [[Model (person)|model]] and [[actress]] [[Omahyra Mota]]. Arclight had no lines in the film. In the movie, her shock wave-based superpowers are more refined than in the comic book: her shock waves project in an outward fashion and she can target specific materials. She is a member of the Omegas. During the raid on Alcatraz, Arclight used her shockwaves to disable the cure weapons and later joined [[Quill (comics)|Quill]] and [[Psylocke]] in targeting Warren Worthington II. She, Quill, and Psylocke are later killed by Jean Grey's disintegration wave when her Dark Phoenix side activates.
+* Arclight appeared in the 2006 motion picture ''[[X-Men: The Last Stand]]'' played by [[Dominican Republic|Dominican]] fashion [[Model (person)|model]] and [[actress]] [[Omahyra Mota]].{{cn|date=June 2019}} Arclight is first shown with Callisto and Psylocke as Magneto attempts to recruit them in his team. This is the one scene she appears to not be wearing her leather jacket as she does so for the remaining of the movie. She is then seen at Jean's house being knocked out by Storm as she attempts to stop her by Magneto's orders. At Alcatraz, after she and her team are nearly shot at, she's saved and as she comes up to find out she's okay, Magneto yells at her to come up and use her as the first big move in his plan, which is to use her power against their enemies. Arclight had no lines in the film. The closest thing she had to a line was a forceful grunt as she attempts to attack the soldiers and disarm them. In the movie, her shock wave-based superpowers are more refined than in the comic book: her shock waves project in an outward fashion and she can target specific materials. During the raid on Alcatraz, Arclight used her shockwaves to disable the cure weapons and later joined [[Quill (comics)|Quill]] and [[Psylocke]] in targeting Warren Worthington II. She, Quill, and Psylocke are later killed by Jean Grey's disintegration wave when her Dark Phoenix side activates.
 
 ===Video games===
 * Arclight appears in ''[[Deadpool (video game)|Deadpool]]'', voiced by Chani Krich.<ref>"[http://www.comingsoon.net/news/gamenews.php?id=103948 The Marauders Confirmed for Deadpool Video Game]," ComingSoon.net</ref><ref name="btva">{{cite web | title=Voice Of Arclight - Deadpool <nowiki>|</nowiki> Behind The Voice Actors | url=http://www.behindthevoiceactors.com/video-games/Deadpool/Arclight/ | work=Behind The Voice Actors | accessdate=December 9, 2017| postscript=. Check mark indicates role has been confirmed using screenshots of closing credits and other reliable sources}}</ref> She serves as the game's first boss. The encounter ends with Arclight dying on a piece of rebar.
@@ -64,11 +67,11 @@ In the ''[[House of M]]'' reality, Arclight (alongside [[Mentallo]] and Wild Chi
 [[Category:Characters created by John Romita Jr.]]
 [[Category:Comics characters introduced in 1986]]
 [[Category:Female characters in comics]]
+[[Category:Female film villains]]
 [[Category:Female supervillains]]
 [[Category:Fictional mercenaries]]
 [[Category:Fictional murderers]]
 [[Category:Fictional Vietnam War veterans]]
-[[Category:Film characters]]
 [[Category:Marvel Comics characters with superhuman strength]]
 [[Category:Marvel Comics mutants]]
 [[Category:Marvel Comics supervillains]]

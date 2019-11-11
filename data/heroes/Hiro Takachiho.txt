@@ -14,7 +14,7 @@
 
 '''Hiro Takachiho''' is a [[fictional character]] appearing in [[American comic book]]s published by [[Marvel Comics]]. His first appearance was in ''Sunfire & Big Hero 6'' #1 and was created by [[Steven T. Seagle]] and [[Duncan Rouleau]].
 
-The character was known as '''Hiro Hamada''' in the ''[[Big Hero 6 (film)|Big Hero 6]]'' film and related media.
+The character is known as '''[[Hiro Hamada]]'''  voiced by [[Ryan Potter]] in the ''[[Big Hero 6 (film)|Big Hero 6]]'' film and [[Big Hero 6 (TV series)|television series]] and related media. He is a young robotics prodigy who helps form the superhero group Big Hero 6 to protect the city. The character is also changed to half Japanese and half Caucasian. Hamada also wears a suit for protection when he is flying on Baymax.
 
 ==Publication history==
 Created by [[Steven T. Seagle]] and [[Duncan Rouleau]] in their spare time while working on another project, Hiro was first intended to appear with the rest of [[Big Hero 6 (comics)|Big Hero 6]] in ''[[Alpha Flight]]'' #17 (December 1998). However, the team first appeared in their own self-titled three-issue miniseries by writer [[Scott Lobdell]] and artist Gus Vasquez, which due to scheduling issues, was published before ''Alpha Flight'' #17.<ref>{{cite web|url=http://www.laughingplace.com/w/blogs/fanboy/2014/03/25/movie-week-a-look-ahead-to-big-hero-6/|title=LaughingPlace.com » Movie Week: A Look Ahead To Big Hero 6|publisher=|accessdate=23 October 2014}}</ref><ref>[https://vancouversun.com/entertainment/movie-guide/Hero+banks+huggable+robot+draw+audiences/10350057/story.html Big Hero 6 banks on a huggable robot to draw in audiences]</ref> The character appeared with the team in a subsequent five-issue miniseries which was launched by Marvel Comics in September 2008.
@@ -35,23 +35,26 @@ Hiro has constructed several robots, his first and most advanced creation being 
 
 ===Film===
 {{Infobox character
-|series = [[Big Hero 6 (film)|Big Hero 6]]
-|name = Hiro Hamada
-|image = Hiro Hamada from Disney's Big Hero 6.png
-|image_size = 170
-|caption = [[Walt Disney Animation Studios]] re-imagining of Hiro
-|first = ''[[Big Hero 6 (film)|Big Hero 6]]'' (2014)
-|last =
-|voice = [[Ryan Potter]]
-|gender = Male
-|nickname = Captain Cutie <small>(by Karmi)</small><ref>{{cite episode|title=Fan Friction|series=Big Hero 6: The Series|credits=Juwono, Ben (director); Jenny Jaffe (writer)|network=[[Disney XD]]|airdate=August 18, 2018|season=1|number=15}}</ref>
-|lbl1 = Age
-|data1 = 14
+| series             = [[Big Hero 6 (film)|Big Hero 6]]
+| name               = Hiro Hamada
+| image              = Hiro Hamada from Disney's Big Hero 6.png
+| image_size         = 170
+| caption            = [[Walt Disney Animation Studios]] re-imagining of Hiro
+| first              = ''[[Big Hero 6 (film)|Big Hero 6]]'' (2014)
+| last               = 
+| voice              = [[Ryan Potter]]
+| gender             = Male
+| nickname           = Captain Cutie <small>(by Karmi)</small><ref>{{cite episode|title=Fan Friction|series=Big Hero 6: The Series|credits=Juwono, Ben (director); Jenny Jaffe (writer)|network=[[Disney XD]]|airdate=August 18, 2018|season=1|number=15}}</ref>
+| lbl1               = Age
+| data1              = 14
+| color              = 
+| family             = [[Tadashi Hamada]] (older brother; deceased)
+| relatives          = [[Big Hero 6 (film)|Cass Hamada]] (aunt)
 }}
 
 In the film adaptation, Hiro, with his last name changed to '''Hamada'''<ref>{{cite news|title=Disney Gives Marvel Fans First Look at Big Hero 6 Animated Film|url=http://www.ign.com/articles/2013/08/10/disney-gives-marvel-fans-first-look-at-big-hero-6-animated-film|accessdate=9 August 2013|newspaper=IGN|date=9 August 2013}}</ref> and his ethnicity changed to being [[Hāfu|half white, half Japanese]],<ref>{{cite web|url=http://caamedia.org/blog/2014/11/05/ryan-potter-big-hero-6s-hiro/|title=RYAN POTTER – BIG HERO 6'S "HIRO"|author=Momo|website=[[Center for Asian American Media]]|date=November 4, 2014|accessdate=August 10, 2017}}</ref> appears in the 2014 [[Walt Disney Animation Studios|Disney]] animated feature ''[[Big Hero 6 (film)|Big Hero 6]]'', voiced by [[Ryan Potter]].<ref>{{Citation|last=Hall|first=Don|title=Big Hero 6|date=2014-11-07|url=https://www.imdb.com/title/tt2245084/|last2=Williams|first2=Chris|accessdate=2016-07-15}}</ref> Speaking of the character, co-director Don Hall said "Hiro is transitioning from boy to man, it's a tough time for a kid and some teenagers develop that inevitable snarkiness and jaded attitude. Luckily Ryan is a very likeable kid. So no matter what he did, he was able to take edge off the character in a way that made him authentic, but appealing."<ref name="USATodayTruitt">{{cite web|last=Truitt|first=Brian|title=Meet the saviors of San Fransokyo in 'Big Hero 6'|url=https://www.usatoday.com/story/life/movies/2014/07/13/big-hero-6-character-reveal-exclusive/12535005/|work=USA Today|accessdate=July 13, 2014|date=July 13, 2014}}</ref><ref name="DeadlineMayaJames">{{cite web|last1=Yamato|first1=Jen|title=Maya Rudolph, James Cromwell, More Join Disney's Marvel Animation 'Big Hero 6′|url=http://deadline.com/2014/07/disney-big-hero-6-voice-cast-804122/|publisher=Deadline|accessdate=September 5, 2014|date=July 14, 2014}}</ref><ref name="Hiro">{{cite web|title=Hiro|url=https://thismoment-a.akamaihd.net/other/1410708503-2030.pdf|publisher=xprizechallenge.org|accessdate=September 24, 2014}}</ref>
 
-Hiro is a 14-year-old robotics prodigy whose battle robot dominates the underground bot fights of San Fransokyo. His older brother [[Tadashi Hamada|Tadashi]], a student at the San Fransokyo Institute of Technology, inspires him to redirect his efforts toward gaining acceptance to its research program. After Tadashi is killed in a fire and explosion on the campus, Hiro becomes withdrawn and depressed. He later forms the Big Hero 6 team with Tadashi's fellow researchers and [[Baymax]], an inflatable healthcare robot built by Tadashi, to stop Yokai, the villain who killed Tadashi by causing the fire.
+Hiro is a 14-year-old robotics prodigy whose battle robot dominates the underground bot fights of San Fransokyo. His older brother [[Tadashi Hamada|Tadashi]], a student at the San Fransokyo Institute of Technology, inspires him to redirect his efforts toward gaining acceptance to its research program. After Tadashi is killed in a fire and explosion on the campus, Hiro becomes withdrawn and depressed. He later forms the Big Hero 6 team with Tadashi's fellow researchers and [[Baymax#Film|Baymax]], an inflatable healthcare robot built by Tadashi, to stop Yokai, the villain who killed Tadashi by causing the fire.
 
 Hiro initially lacks a social life and appears to suffer from intellectual boredom. After Tadashi's urging and meeting with his friends, he becomes more open and accepting to those around him and tries to be friendly. He also decides to be a hero out of necessity as opposed to being unwillingly forced into the occupation. He also wears bluish–purple armor that, by itself, serves absolutely no function besides protection. However, when paired with Baymax, the suit magnetizes to his back and allows Hiro to control him while flying.
 
@@ -64,10 +67,12 @@ In the episode "Muirahara Woods", Hiro is shown to be slightly [[Agoraphobia|ago
 
 Hiro is also shown to have updated his costume. His gloves now have the ability to magnetize and propel objects making him much more useful in a fight.<ref name="FoodFight" /> In the episode "Kentucky Kaiju", he briefly invented a suit that granted him super strength called Nano-Dex, but he got rid of it when it became a hassle to use. In the same episode, Hiro is shown to possibly suffer from a variation of [[Napoleon complex|little man's syndrome]] as he hates constantly having to be saved by his older and more capable teammates.<ref>{{cite episode|title=Kentucky Kaiju|series=Big Hero 6: The Series|credits=Juwono, Ben (director); Sharon Flynn (writer)|network=[[Disney XD]]|airdate=August 4, 2018|season=1|number=13}}</ref>
 
+In season two, it is revealed that Hiro somewhat envies other kids who grew up with normal childhoods. He befriends a girl named Megan Cruz who begins to treat him to common teenage outings; opening his eyes to new experiences.<ref>{{cite episode|title=Something's Fishy|series=Big Hero 6: The Series|credits=Heneveld, Stephen (director); Sharon Flynn (writer)|network=[[Disney Channel]]|airdate=May 9, 2019|season=2|number=4}}</ref>
+
 ===Video games===
 Hiro appears in ''[[Disney Infinity: Marvel Super Heroes]]'' and ''[[Disney Infinity 3.0]]'', based on his 2014 film appearance.
 
-Hiro will also appear in ''[[Kingdom Hearts III]]'' with the rest of Big Hero 6.<ref name="KHIII Big Hero 6">{{cite web | url = http://www.disneyinteractive.com/news/games-apps-news/kingdom-hearts-iii-to-include-big-hero-6/ | title = Kingdom Hearts III to Include Big Hero 6| work = Disney Interactive | date=August 16, 2015 }}</ref>
+Hiro appeared in ''[[Kingdom Hearts III]]'' with the rest of Big Hero 6.<ref name="KHIII Big Hero 6">{{cite web | url = http://www.disneyinteractive.com/news/games-apps-news/kingdom-hearts-iii-to-include-big-hero-6/ | title = Kingdom Hearts III to Include Big Hero 6| work = Disney Interactive | date=August 16, 2015 }}</ref>
 
 ==References==
 {{reflist|30em}}
@@ -89,8 +94,8 @@ Hiro will also appear in ''[[Kingdom Hearts III]]'' with the rest of Big Hero 6.
 [[Category:Fictional roboticists]]
 [[Category:Fictional secret agents and spies]]
 [[Category:Japanese superheroes]]
+[[Category:Kingdom Hearts characters]]
 [[Category:Male characters in anime and manga]]
-[[Category:Male characters in video games]]
 [[Category:Marvel Comics superheroes]]
 [[Category:Superhero film characters]]
 [[Category:Teenage characters in comics]]

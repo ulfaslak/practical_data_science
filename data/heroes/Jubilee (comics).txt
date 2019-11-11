@@ -1,17 +1,26 @@
+{{short description|Comic book character}}
 {{Use mdy dates|date=March 2017}}
-{{Infobox comics character <!--Wikipedia:WikiProject Comics-->
-|character_name = Jubilee
-|image = Jubilee (Marvel Comics).png
-|converted = y
-|caption = Cover art of ''Jubilee'' #1 (September 2004). Art by Casey Jones
-|publisher = [[Marvel Comics]]
-|debut = ''[[The Uncanny X-Men]]'' #244 (May 1989)
-|creators = [[Chris Claremont]]<br>[[Marc Silvestri]]
-|real_name = Jubilation Lee
-|species = {{nowrap|[[Mutant (Marvel Comics)|Human Mutant]] (formerly [[Vampire (Marvel Comics)|Vampire]])}}
-|alliances = Forgiven<br/>[[X-Men]]<br/>[[Generation X (comics)|Generation X]]<br/>[[X-Corps]]<br/>[[New Warriors]]<br>Patsy Walker Temp Agency 
-|aliases = Wondra
-|powers = * Pyrotechnic energy blasts
+{{Infobox comics character
+| character_name = Jubilee
+| image =Jubilation 'Jubilee' Lee.png
+| converted = y
+| caption = Textless cover of ''Jubilee'' #1 (September 2004).<br>Art by Casey Jones.
+| publisher = [[Marvel Comics]]
+| debut = ''[[The Uncanny X-Men]]'' #244 (May 1989)
+| creators = [[Chris Claremont]] <br />[[Marc Silvestri]]
+| real_name = Jubilation Lee
+| species = {{nowrap|[[Mutant (Marvel Comics)|Human Mutant]] (formerly [[Vampire (Marvel Comics)|Vampire]])}}
+| alliances = {{Plainlist|
+* Forgiven
+* [[X-Men]]
+* [[Generation X (comics)|Generation X]]
+* [[X-Corps]]
+* [[New Warriors]]
+* Patsy Walker Temp Agency 
+}}
+| aliases = Wondra
+| powers = 
+* Pyrotechnic energy blasts
 * Explosively charge objects
 * Evade telepathic detection
 '''Formerly vampiric powers:'''
@@ -20,21 +29,21 @@
 * Fangs and claws
 * Mist Mimicry
 * Retrocognition
-|cat = super
-|subcat = Marvel Comics
-|hero = y
-|sortkey = Jubilee (comics)
+| cat = super
+| subcat = Marvel Comics
+| hero = y
+| sortkey = Jubilee (comics)
 }}
 
-'''Jubilation "Jubilee" Lee''' is a fictional [[superhero]] appearing in [[American comic book]]s published by [[Marvel Comics]], most commonly in association with the [[X-Men]]. Created by writer [[Chris Claremont]] and artist [[Marc Silvestri]], the character first appeared in ''[[The Uncanny X-Men]]'' #244 (May 1989).
+'''Jubilation "Jubilee" Lee''' is a fictional [[superhero]] appearing in [[American comic book]]s published by [[Marvel Comics]], most commonly in association with the [[X-Men]]. Created by writer [[Chris Claremont]] and artist [[Marc Silvestri]], the character first appeared in ''[[Uncanny X-Men]]'' #244 (May 1989).
 
 Jubilee is a member of the human subspecies known as [[Mutant (Marvel Comics)|mutants]], born with superhuman abilities. She can generate pyrotechnic energy blasts from her hands. Introduced as an orphaned "mall rat" from Beverly Hills, Jubilee joined the X-Men in the early 1990s, becoming the team's youngest member and often playing a [[sidekick]] role to her father-figure, [[Wolverine (character)|Wolverine]].
 
 Jubilee eventually joined the junior team [[Generation X (comics)|Generation X]], and was a prominent character in the 1990s-era [[X-Men (TV series)|''X-Men'' animated series]]. In late 2004, Marvel launched a self-titled six-part limited series for Jubilee set in Los Angeles, written by [[Robert Kirkman]]. In early 2011, she appeared in the four-part limited series ''Wolverine and Jubilee'', written by [[Kathryn Immonen]].
 
-The character is one of the [[Decimation (comics)|depowered]] mutants who later reappeared using technology-based powers in the [[New Warriors]] comic book series. In 2010, she was turned into a vampire during the "[[Curse of the Mutants]]" storyline.
+The character is one of the [[Decimation (comics)|depowered]] mutants who later reappeared using technology-based powers in the [[New Warriors]] comic book series. In 2010, she was turned into a vampire during the "[[Curse of the Mutants]]" storyline. She was recently cured of her vampirism and had her mutant powers restored by a shard of the Phoenix Force.
 
-Jubilee has cameo appearances in the first three [[X-Men (film series)|''X-Men'' films]], portrayed by Katrina Florece in the first film, and by Kea Wong in its two sequels. In the 2016 film ''[[X-Men: Apocalypse]]'', she is portrayed by [[Lana Condor]].
+Jubilee has cameo appearances in the first three [[X-Men (film series)|''X-Men'' films]], portrayed by Katrina Florece in the first film, and by Kea Wong in its two sequels. In the 2016 film ''[[X-Men: Apocalypse]]'', she was portrayed by [[Lana Condor]].
 
 ==Publication history==
 Jubilee was created by writer [[Chris Claremont]] and artist [[Marc Silvestri]] and first appeared in ''[[The Uncanny X-Men]]'' #244 (May 1989). Claremont had earlier introduced a "Jubilee" of sorts in ''New Mutants Annual'' #2 (1986). In that story, Darla of the Fat Boys, after being mentally and biologically warped, uses identical powers to those of the later Jubilation Lee and introduces herself as "Jubilee! Whose every move is a celebration!" In her first appearance Jubilation Lee gives a similar self-introduction: "Actually, my name is Jubilee! 'Cause with me, every day's a celebration!" Darla is returned to normal by the end of ''New Mutants Annual'' #2, and no in-story connection between the characters is ever established.
@@ -190,20 +199,22 @@ During the Secret Wars storyline, Jubilee appeared as a member of the [[Runaways
 * Jubilee has [[cameo appearance]]s in three X-Men films, portrayed by Katrina Florece in ''[[X-Men (film)|X-Men]]'' and by Kea Wong in ''[[X2 (film)|X2]]'' and ''[[X-Men: The Last Stand]]''. In the first film, Jubilee appears only as an [[Extra (acting)|extra]] in [[Professor X|Charles Xavier]]'s and [[Storm (Marvel Comics)|Storm]]'s classrooms. However, she is identified by name in a deleted scene, in which she talks to [[Kitty Pryde]] and [[Rogue (comics)|Marie D'Ancanto]]. In ''X2'', Jubilee appears in a deleted version of the museum scene which gives a brief introduction to her powers as blue electricity crackles around her fingers. Jubilee is among the six kidnapped young mutants that Storm and [[Nightcrawler (comics)|Nightcrawler]] rescue. She can be heard calling Storm's name and is shown running to safety with the X-Men and can be seen in the X-Jet. She also appears in the final classroom scene and briefly talks to Professor Xavier. She appears within the first ten minutes of ''X-Men: The Last Stand'', and can be seen sitting in the classroom.
 * In the [[novelization]] of ''X2'', Jubilee has a more substantial role than in the film. During the raid on the mansion by General [[William Stryker]] and his troops, Jubilee absorbs the electricity from a [[taser]] and blasts an enemy troop through a wall before being shot with [[tranquilizer dart]]s. She is also a mentor to the other captured mutant kids, rallying their morale and telling them that the X-Men will come to their rescue.
 * Concept art of ''[[X-Men: Days of Future Past]]'' reveals Jubilee was considered to be featured in the film. The concept art was based on actress [[Jamie Chung]]'s likeness.<ref>{{cite web|url=http://screenrant.com/x-men-days-future-past-concept-art-jubilee|title=X-Men: Days of Future Past Concept Art Reveals Future Jubilee & Juggernaut|last=Shaw-Williams|first=Hannah|date=June 18, 2014|accessdate=June 22, 2014}}</ref>
-* [[Lana Condor]] portrayed Jubilee in ''[[X-Men: Apocalypse]]''. Although much of Condor's scenes were cut due to time constraints, she still appears as Jubilee in a more noticeable role than previous X-Men films. In the theatrical version, Jubilee first appears in one of Xavier's classes, and is the first student to raise their hand when asked a question. Later, Jubilee is shown walking with Kurt Wagner, guiding him through the mansion after he arrives from Berlin. She introduces him to [[Cyclops (Marvel Comics)|Scott Summers]] and [[Jean Grey]], before Scott suggests that they show Kurt some fun by going to a mall. After watching ''[[Return of the Jedi]]'' at the mall, Jubilee says that ''[[The Empire Strikes Back]]'' is still her favorite ''[[Star Wars]]'' film, as it is the most dynamic and complex. As the four friends return to the mansion, they arrive to find it destroyed by an explosion brought on by the arrival of [[Apocalypse (comics)|Apocalypse]] and his [[Horsemen of Apocalypse|Horsemen]]. While Scott, Jean, and Kurt run off to find [[Havok (comics)|Alex Summers]], Jubilee joins [[Moira MacTaggert]], [[Beast (comics)|Hank McCoy]], [[Quicksilver (comics)|Peter Maximoff]], [[Mystique (comics)|Raven Darkholme]], and the surviving students. She and the others are then knocked unconscious by Stryker, so that he can apprehend the adult mutants and Moira. As Jubilee wakes, she sees Stryker's helicopter fly away with her friends on board. After the X-Men defeat Apocalypse, Jubilee stands with Kurt and some of the other students, watching as Jean and [[Magneto (comics)|Erik Lehnsherr]] use their powers to rebuild the mansion.
+* [[Lana Condor]] portrayed Jubilee in ''[[X-Men: Apocalypse]]''. Although much of Condor's scenes were cut due to time constraints, she still appears as Jubilee in a more noticeable role than previous X-Men films. In the theatrical version, Jubilee first appears in one of Xavier's classes, and is the first student to raise their hand when asked a question. Later, Jubilee is shown walking with Kurt Wagner, guiding him through the mansion after he arrives from Berlin. She introduces him to [[Cyclops (Marvel Comics)|Scott Summers]] and [[Jean Grey]], before Scott suggests that they show Kurt some fun by going to a mall. After watching ''[[Return of the Jedi]]'' at the mall, Jubilee says that ''[[The Empire Strikes Back]]'' is still her favorite ''[[Star Wars]]'' film, as it is the most dynamic and complex. As the four friends return to the mansion, they arrive to find it destroyed by an explosion brought on by the arrival of [[Apocalypse (comics)|Apocalypse]] and his [[Horsemen of Apocalypse|Horsemen]]. While Scott, Jean, and Kurt run off to find [[Havok (comics)|Alex Summers]], Jubilee joins [[Moira MacTaggert]], [[Beast (comics)|Hank McCoy]], [[Quicksilver (comics)|Peter Maximoff]], [[Mystique (comics)|Raven Darkholme]], and the surviving students. She and the others are then knocked unconscious by Stryker, so that he can apprehend the adult mutants and Moira. As Jubilee wakes, she sees Stryker's helicopter fly away with her friends on board. After the X-Men defeat Apocalypse, Jubilee stands with Kurt and some of the other students, watching as Jean and [[Magneto (Marvel Comics)|Erik Lehnsherr]] use their powers to rebuild the mansion.
 ** Several of Jubilee's scenes were cut from the theatrical release of the film, and are shown on the DVD release. Included is an extended version of Jubilee, Scott, Jean, and Kurt's trip to the mall, where Jubilee uses her powers.<ref>{{cite web|url=http://collider.com/x-men-apocalypse-deleted-scenes-jubilee/|title='X-Men: Apocalypse' Goes Rogue and Relegates Jubilee to the Deleted Scenes|last=Trumbore|first=Dave|date=May 25, 2016|accessdate=June 1, 2016}}</ref> Condor also appears as her character in a fake TV commercial for the Xavier school.<ref>{{cite web|url=http://nerdist.com/x-men-apocalypse-jubilee-retro-80s-commercial-xavier-school/|title=Jubilee Stars in a Hilariously '80s Commercial for Xavier's School|website=[[Nerdist Industries]]. [[20th Century Fox]]|last=Marnell|first=Blair|date=May 20, 2016|accessdate=June 5, 2016}}</ref>
 
 ===Video games===
-* Jubilee appears in ''[[Marvel vs. Capcom: Clash of Super Heroes]]'', with Alyson Court reprising her role from the ''X-Men'' cartoon series. She is a selectable helper character who throws fireworks at her enemies. Her appearance goes mostly unchanged from her iconic comic book look with the exception of her pink shirt being changed to a darker red. However, if both players choose Jubilee as a helper, player 2's Jubilee sports a black undershirt while her boots, shorts, bubble gum and sunglasses all become a shade of teal.
-* She is also a cameo helper character in ''[[Wolverine (video game)|Wolverine]]'', giving Wolverine a device to breathe underwater for longer.
-* Jubilee appears as a [[player character|playable character]] in ''[[X-Men Legends]]'', voiced by [[Danica McKellar]]. She is unlocked early on in the game by talking to her at the [[X-Mansion]].
-* Jubilee appears as team-up character in ''[[Marvel Heroes (video game)|Marvel Heroes]]'', voiced by Aly Casas.
+* Jubilee appears in ''[[Marvel vs. Capcom: Clash of Super Heroes]]'', with Alyson Court reprising her role from the ''X-Men'' cartoon series.{{citation needed|date=June 2019}} She is a selectable helper character who throws fireworks at her enemies. Her appearance goes mostly unchanged from her iconic comic book look with the exception of her pink shirt being changed to a darker red. However, if both players choose Jubilee as a helper, player 2's Jubilee sports a black undershirt while her boots, shorts, bubble gum and sunglasses all become a shade of teal.
+* She is also a cameo helper character in ''[[Wolverine (video game)|Wolverine]]'',{{citation needed|date=June 2019}} giving Wolverine a device to breathe underwater for longer.
+* Jubilee appears as a [[player character|playable character]] in ''[[X-Men Legends]]'', voiced by [[Danica McKellar]].{{citation needed|date=June 2019}} She is unlocked early on in the game by talking to her at the [[X-Mansion]].
+* Jubilee appears as team-up character in ''[[Marvel Heroes (video game)|Marvel Heroes]]'', voiced by Aly Casas.{{citation needed|date=June 2019}}
+* Jubilee appears as a [[player character|playable character]] in ''[[Marvel Future Fight]]''.<ref>{{cite web|url=http://forum.netmarble.com/futurefight_en/view/2196/1522388|title=MARVEL Future Fight|website=forum.netmarble.com|accessdate=29 May 2019}}</ref>
+* Jubilee appears as a [[player character|playable character]] in ''[[Marvel Super War]]''.{{citation needed|date=June 2019}}
 
 ==See also==
 * [[List of Marvel Comics characters]]
 
 ==References==
-{{Reflist|30em}}
+{{Reflist}}
 
 ==External links==
 * [http://www.comicbookdb.com/character.php?ID=17 Jubilee] at the Comic Book Database
@@ -211,7 +222,7 @@ During the Secret Wars storyline, Jubilee appeared as a member of the [[Runaways
 * [http://marvel.com/universe/Jubilee Jubilee] at Marvel Universe
 {{X-Men}}
 {{Wolverine}}
-{{Portal bar|Fictional characters|Superhero fiction|Asian Americans|China|1980s}}
+{{Portal bar|Speculative fiction|China|1980s}}
 
 {{DEFAULTSORT:Jubilee (comics)}}
 [[Category:American superheroes]]
@@ -230,3 +241,4 @@ During the Secret Wars storyline, Jubilee appeared as a member of the [[Runaways
 [[Category:Marvel Comics mutants]]
 [[Category:Marvel Comics vampires]]
 [[Category:Wolverine characters]]
+[[Category:Marvel Comics female superheroes]]

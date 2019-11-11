@@ -1,10 +1,13 @@
+{{short description|Comics character}}
 {{Refimprove|date=February 2007}}
 '''Caretaker''' is a fictional character appearing in [[American comic book]]s published by [[Marvel Comics]]. There have been two incarnations of the character.
 
-==Publication history==
-The first Caregiver debuted in ''[[Ghost Rider (Daniel Ketch)|Ghost Rider]]'' vol. 2 #28 and was created by [[Howard Mackie]] and [[Andy Kubert]].
+He was played by [[Sam Elliott]] in ''[[Ghost Rider (2007 film)|Ghost Rider]]'', as an amalgamation of Carter Slade and Caretaker. The Caretaker will also appear in the [[Marvel Cinematic Universe]] [[Hulu]] television series ''[[Helstrom (TV series)|Helstrom]]'' and will be played by [[Robert Wisdom]].
 
-The second Caregiver debuted in ''[[Ghost Rider (Johnny Blaze)|Ghost Rider]]'' vol. 3 #26 and was created by [[Jason Aaron]] and [[Tan Eng Huat]].
+==Publication history==
+The first Caretaker debuted in ''[[Ghost Rider (Daniel Ketch)|Ghost Rider]]'' vol. 3 #28 and was created by [[Howard Mackie]] and [[Andy Kubert]].
+
+The second Caretaker debuted in ''[[Ghost Rider (Johnny Blaze)|Ghost Rider]]'' vol. 6 #26 and was created by [[Jason Aaron]] and [[Tan Eng Huat]].
 
 ==Fictional character biography==
 ===Caretaker (Original)===
@@ -56,8 +59,11 @@ Caretaker also rides an "ancient motorcycle," which possibly refers to its being
 ===Film===
 * [[Sam Elliott]] portrayed the Caretaker in [[Ghost Rider (2007 film)|the 2007 film based on Ghost Rider]].{{cn|date=December 2016}} This version of the character, however, was not a member of the Blood, of which there is no mention in the movie, but in fact was [[Ghost Rider (Johnny Blaze)|Johnny Blaze]]'s predecessor to the Ghost Rider title, having been subjected to the same curse 150 years before. In the film, the Caretaker turns out to be [[Phantom Rider|Carter Slade]] (another character owned by [[Marvel Comics]] that was originally named Ghost Rider, but later changed to [[Phantom Rider]] to make way for the new version). Sam Elliott's depiction of this character is more along the lines of the Caretaker, in terms of emotion, or lack thereof. At one point, he even transforms into a Ghost Rider-style version of Carter Slade, complete with a flaming skull, nearly-charred clothes and a mystical horse on fire, as the Phantom Rider.
 
+===Television===
+* [[Robert Wisdom]] will portray the Caretaker in ''[[Helstrom (TV series)|Helstrom]]'' on [[Hulu]], making the character African American.<ref>{{cite web|url=https://www.bleedingcool.com/2019/10/08/marvels-helstrom-the-royals-tom-austen-ftwd-sydney-lemon-5-more-join-hulu-series/|title=“Marvel’s Helstrom”: “The Royals” Tom Austen, “FTWD” Sydney Lemon, 5 More Join Hulu Series|website=Bleeding Cool|last=Flook|first=Ray|date=October 8, 2019|accessdate=October 8, 2019}}</ref>
+
 ===Video games===
-* Caretaker appears in the ''[[Ghost Rider (video game)|Ghost Rider]]'' video game voiced by [[Fred Tatasciore]].
+* Caretaker appears in the ''[[Ghost Rider (video game)|Ghost Rider]]'' video game voiced by [[Fred Tatasciore]].{{cn|date=October 2019}}
 
 ==References==
 {{reflist}}
@@ -74,7 +80,8 @@ Caretaker also rides an "ancient motorcycle," which possibly refers to its being
 [[Category:Comic book sidekicks]]
 [[Category:Comics characters introduced in 1992]]
 [[Category:Comics characters introduced in 2008]]
-[[Category:Film characters]]
+[[Category:Superhero film characters]]
 [[Category:Ghost Rider]]
 [[Category:Mythology in Marvel Comics]]
 [[Category:Marvel Comics superheroes]]
+[[Category:Fictional characters with slowed aging]]

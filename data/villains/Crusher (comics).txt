@@ -21,7 +21,7 @@ image=
 |alliances=
 |aliases=
 |relatives=
-|powers=Super-Strength
+|powers=Superhuman strength<br>Immunity to diseases 
 |}}
 In an effort to free [[Hercules (Marvel Comics)|Hercules]] from [[Pluto (Marvel Comics)|Pluto]]'s thrawl, [[Thor (Marvel Comics)|Thor]] fought his way through the forces of Pluto. Pluto sent Crusher to fight against Thor. As no opponent had broken free from Crusher's grasp before, Thor was the first to do so and sent Crusher flying. Pluto released Hercules from his thrall to prevent Thor from shattering the Greek Underworld.<ref>''Thor'' #130. Marvel Comics.</ref>
 {{Clear}}
@@ -39,7 +39,7 @@ image=
 |alliances=
 |aliases="El Professor"
 |relatives=
-|powers=Super-Strength<br>Durable Skin<br>Heavyweight
+|powers=Superhuman strength<br>Durable skin<br>Enhanced weight
 |}}
 Caldwell Rozza is a Cuban [[scientist]] in South America who has created a formula that would make the President of his country the "master of the world." The President didn't trust him and had him test it on himself by injecting it (which is what the scientist anticipated). The formula caused the scientist to grow in size and strength in front of the President's eyes. Thus, the scientist became Crusher, a giant, rock-hard, immensely heavy menace. None of the President's weapons could pierce the Crusher. The President knew he would make a great asset to his army and told Crusher to kill [[Iron Man]] as a way of becoming a general in his army. Crusher went to America and attacked Stark Industries. This attracted Iron Man and both of them fought in battle. Iron Man used the Centrifugal Ray on Crusher causing him to fall through the floor and fell underground somewhere.<ref>''Tales of Suspense'' #91. Marvel Comics.</ref>
 
@@ -58,7 +58,7 @@ image=
 |alliances=
 |aliases=
 |relatives=
-|powers=Super-Strength, Durable Skin, Heavyweight
+|powers=Superhuman strength<br>Durable skin<br>Enhanced weight
 |}}
 A [[coroner]] named Dr. Jakkelburr received the Crusher's body and studied it in hopes to recreate the formula. Dr. Jakkelburr's formula recreation was a success when he gave it to a bantamweight [[Boxing|boxer]] named Juan Aponte (who wanted to become a heavyweight boxer). Juan began to take the formula, but it had a side-effect that gave him mood swings and violent fits of temper. Former boxer Father Gawaine and Coach Pop Fenton both wanted to help Juan and enlisted the help of Matt Murdock. However, Dr. Jakkelburr sent men to rough up the three of them. Murdock managed to slip away to become [[Daredevil (Marvel Comics character)|Daredevil]]. The effects of the formula finally overwhelmed Juan causing him to transform into a mindless version of the Crusher. Crusher fought Daredevil and tore up Fogwell's gym in the fight. When he accidentally caused a wall to topple toward Father Gawaine and Pop Fenton, Crusher dove to their rescue and was crushed by the falling wall. Juan reverted to normal and died in his coach's arms.<ref>''Daredevil'' #119. Marvel Comics.</ref>
 
@@ -67,9 +67,6 @@ Crusher I has superhuman strength and is immune to diseases.
 
 Crusher II and Crusher III have superhuman strength, durable skin, and enhanced weight.
 
-==In other media==
-Crusher is featured in a trivia question in ''[[Marvel: Ultimate Alliance]]''. He is the answer to the question on which villain Iron Man used the Centrifugal Ray on.{{cn|date=April 2018}}
-
 ==References==
 {{reflist}}
 
@@ -77,9 +74,10 @@ Crusher is featured in a trivia question in ''[[Marvel: Ultimate Alliance]]''. H
 * {{Marvunapp|http://www.marvunapp.com/Appendix/crusherh.htm|Crusher I}}
 * {{Marvunapp|http://www.marvunapp.com/Appendix3/crusherim.htm|Crusher II}}
 * {{Marvunapp|http://www.marvunapp.com/Appendix3/crusherdd.htm|Crusher III}}
+
 {{Daredevil}}
-{{Iron Man}}
 {{Thor}}
+
 {{DEFAULTSORT:Crusher (Comics)}}
 [[Category:Comics characters introduced in 1967]]
 [[Category:Fictional boxers]]

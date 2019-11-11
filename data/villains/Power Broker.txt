@@ -1,3 +1,4 @@
+{{short description|Fictional comic book characters}}
 {{Other uses|Power broker (disambiguation){{!}}Power broker}}
 '''Power Broker''' is the name of two fictional characters appearing in [[American comic book]]s published by [[Marvel Comics]].
 
@@ -26,7 +27,7 @@ The second Power Broker first appeared in ''[[Avengers: The Initiative|Avengers:
 | aliases =
 | powers =
 }}
-Curtiss Jackson was born in [[Charlotte, North Carolina|Charlotte]], [[North Carolina]]. He became a professional criminal and an executive with the criminal organization known as the [[Corporation (comics)|Corporation]]. As a member of the Corporation, Jackson attempts to take control of [[Machine Man]].<ref>''Machine Man'' #6. Marvel Comics.</ref> With Eugene Stivak, [[Moonstone (comics)|Moonstone]], and the [[Vamp (comics)|Vamp]], he later battles [[Captain America]], [[Quasar (Wendell Vaughn)|Marvel Man]], the [[Falcon (comics)|Falcon]], and the [[Hulk (comics)|Hulk]].<ref>''Captain America'' #230; ''Incredible Hulk'' Vol. 2 #232–233. Marvel Comics.</ref> Jackson kidnaps Trish Starr, and battles the Hulk and Machine Man again.<ref>''Incredible Hulk'' Vol. 2 #234–237. Marvel Comics.</ref>
+Curtiss Jackson was born in [[Charlotte, North Carolina|Charlotte]], [[North Carolina]]. He became a professional criminal and an executive with the criminal organization known as the [[Corporation (comics)|Corporation]]. As a member of the Corporation, Jackson attempts to take control of [[Machine Man]].<ref>''Machine Man'' #6. Marvel Comics.</ref> With Eugene Stivak, [[Moonstone (comics)|Moonstone]], and the [[Vamp (comics)|Vamp]], he later battles [[Captain America]], [[Quasar (Wendell Vaughn)|Marvel Man]], the [[Falcon (comics)|Falcon]], and the [[Hulk]].<ref>''Captain America'' #230; ''Incredible Hulk'' Vol. 2 #232–233. Marvel Comics.</ref> Jackson kidnaps Trish Starr, and battles the Hulk and Machine Man again.<ref>''Incredible Hulk'' Vol. 2 #234–237. Marvel Comics.</ref>
 
 Jackson founds the Power Broker Corporation. He hires Dr. [[Karl Malus]], a [[mad scientist]] who has experimented on various superhuman individuals, to technologically augment the strength of paying customers to superhuman levels. The strength augmenting process is tremendously risky, with half the subjects dying or becoming severely deformed, but this information is kept a closely guarded secret. Power Broker and Malus use highly addictive drugs on their subjects, telling them that the chemical is necessary to stabilize their powers, but in fact it only serves to keep the subjects working for—and paying—the Power Broker. Many wrestlers of the [[Unlimited Class Wrestling Federation]], which is only open to those with super-strength, use the Power Broker's services, and wind up indebted to them.{{issue|date=January 2013}}
 
@@ -81,7 +82,7 @@ The following characters have been clients of Power Broker Inc. and have gone th
 ** [[Battleaxe (comics)|Battleaxe]]
 ** Cowgirl
 ** [[Gladiatrix (comics)|Gladiatrix]]
-** [[Letha]]
+** [[Letha (comics)|Letha]]
 ** [[Magilla (comics)|Magilla]]
 ** [[Poundcakes]]
 ** [[Songbird (comics)|Screaming Mimi]]

@@ -16,7 +16,7 @@
 |villain        = y
 |sortkey        = Overdrive
 |}}
-'''Overdrive''' is a [[Fictional character|fictional]] [[supervillain]], appearing in [[American comic book]]s published by [[Marvel Comics]], usually as an enemy of [[Spider-Man]]
+'''Overdrive''' is a [[Fictional character|fictional]] [[villain]], appearing in [[American comic book]]s published by [[Marvel Comics]], usually as an enemy of [[Spider-Man]]
 
 ==Publication history==
 Created by [[Dan Slott]] and [[Phil Jimenez]], Overdrive first appeared in ''Amazing Spider-Man: Swing Shift'' (May 2007), a [[Free Comic Book Day]] issue set after the events of the ''[[Spider-Man: One More Day]]'' storyline.
@@ -42,18 +42,16 @@ The new [[Hijacker (comics)|Hijacker]] that fought [[Ant-Man (Scott Lang)|Ant-Ma
 Overdrive scatters nanites by touch which can transform a vehicle to his will such as improving a car's speed or design. These changes will revert if Overdrive is away from the vehicle for too long.
 
 ==In other media==
-===Television===
 Overdrive appears in the ''[[Spider-Man (2017 TV series)|Spider-Man]]'' episode "Bring on the Bad Guys" Pt. 1, voiced by [[Ryan Blaney]].<ref>{{cite episode|title=Bring On the Bad Guys Pt. 1|series=Spider-Man|network=Disney XD|season=2|number=33|airdate=July 30, 2018}}</ref> He is among the villains that take part in a mysterious person's bounty on Spider-Man. Overdrive lured him out by using his nanites on a bus which led to Spider-Man evacuating the bus. After being buried in Overdrive's trap where Overdrive took his glove, Spider-Man found a nanite sample which he used to work for him by powering up his Uncle Ben's motorcycle. When Overdrive returned due to needing Spider-Man's body, Spider-Man raced him in a motorcycle race which ends with Spider-Man using a virus in Overdrive's nanites to stop him. As Spider-Man webs up Overdrive, the police arrive as one of the police officers gives Spider-Man a ticket for speeding. Overdrive quotes "You'll get used to them" as he is taken away.
 
-===Video games===
 A female [[Marvel 2099]] version of Overdrive appears in the [[Nintendo DS]] version of ''[[Spider-Man: Edge of Time]]'', voiced by [[Kari Wahlgren]]. Her costume appears to be made up of nanites as her long white hair sticks out. She is also much more competent than her mainstream counterpart and claims she does crime simply because of the speed.
 
 ==References==
 {{Reflist}}
 
 ==External links==
-* [http://marvel.wikia.com/wiki/Overdrive_%28Earth-616%29 Overdrive] at Marvel Wikia
-* [http://www.comicvine.com/overdrive/29-55823/ Overdrive] at Comic Vine
+* [https://marvel.fandom.com/wiki/Overdrive_%28Earth-616%29 Overdrive] at Marvel Wikia
+* [https://comicvine.gamespot.com/overdrive/29-55823/ Overdrive] at Comic Vine
 * {{Marvunapp|http://www.marvunapp.com/Appendix6/overdrivespdrmn.htm|Overdrive}}
 
 {{Spider-Man characters}}

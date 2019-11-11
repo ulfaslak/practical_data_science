@@ -9,6 +9,7 @@
 | debut = ''[[Fantastic Four (comic book)|Fantastic Four]]'' #129 (Dec 1972)
 | creators = [[Roy Thomas]] (Writer)<br>[[John Buscema]] (Artist)
 | real_name = Thundra
+| homeworld = Femizonia
 | alliances = [[Lady Liberators (comics)|Lady Liberators]]<br>Code Red<ref>''Hulk'' Vol. 2 #14</ref><br>[[Frightful Four]]<br/>[[Grapplers (comics)|The Grapplers]]<br/>[[Roxxon Energy Corporation|Roxxon Oil]]<br>[[Squadron Supreme]]
 | aliases = 
 | powers = Vast superhuman strength and resistance to injury<br>Peak level speed, agility, stamina, and reflexes<br>Superior hand to hand combatant<br>Carries a sword and a three-foot linked chain as weapons
@@ -60,7 +61,7 @@ Trained as a warrior, with extensive training in the hand-to-hand and military c
 Thundra also appears in the Marvel Comics Maxi-Series ''Avengers Forever''. In the storyline, she is a member of a rag-tag remnant of Avengers in an [[alternate future]] where [[Earth]] has been devastated by evil [[robot]]ic alien invaders from [[Mars]]. She still wields a chain as her personal weapon. Unlike the other remaining Avengers (most notably the [[Black Panther (comics)|Black Panther]]), it appears that Thundra has not [[ageing|aged]]. Perhaps this is due to the Femizonian [[genetic engineering]] that she was subjected to, the source of her [[metahuman|superhuman]] abilities.<ref>''Avengers Forever'' #4 (1999)</ref>
 
 ===Hulk: Raging Thunder===
-A future version of Thundra took cell scrapings from the [[Hulk]] which were used by scientists in the future to impregnate her.<ref>''[[Hulk]]: Raging Thunder'' (2008) #1 (Aug. 2008)</ref> This Thundra later gives birth to a green skinned daughter who is the child of herself and the Hulk.{{issue|date=June 2015}} This child, Lyra, is later nicknamed "[[She-Hulk (Lyra)|She-Hulk]]".{{issue|date=June 2015}} She later returns to the future to insert Lyra's birth.<ref>''Fall of the Hulks: Red Hulk'' #2</ref>
+A future version of Thundra took cell scrapings from the [[Hulk]] which were used by scientists in the future to impregnate her.<ref>''[[Hulk]]: Raging Thunder'' (2008) #1 (Aug. 2008)</ref> This Thundra later gives birth to a green skinned daughter who is the child of herself and the Hulk.{{issue|date=June 2015}} This girl, Lyra, is later nicknamed "[[She-Hulk (Lyra)|She-Hulk]]".{{issue|date=June 2015}} She later returns to the future to insert Lyra's birth.<ref>''Fall of the Hulks: Red Hulk'' #2</ref>
 
 ===''JLA/Avengers''===
 Thundra appeared in ''[[JLA/Avengers]]'' in the prologue where she is seen on Polemachus in bed with [[Arkon]]. He offers to take her hunting, but [[Krona (comics)|Krona]] appears and destroys Polemachus, Thundra and her entire universe.<ref>''JLA/Avengers'' #1 (September 2003)</ref> At the end of the series everything is restored to normal.<ref>''JLA/Avengers'' #4 (May 2004)</ref>
@@ -88,9 +89,12 @@ Thundra appears in ''[[Ultimate Spider-Man (TV series)|Ultimate Spider-Man]]'', 
 
 ==External links==
 * [http://www.marvel.com/universe/Thundra Thundra] at Marvel.com
-{{Fantastic Four}}
+* {{Marveldatabase}}
 
-{{Portal bar|Fictional characters|Superhero fiction|1970s}}
+{{Fantastic Four}}
+{{Hulk}}
+
+{{Portal bar|Speculative fiction}}
 
 [[Category:Animated series villains]]
 [[Category:Characters created by John Buscema]]
@@ -100,4 +104,5 @@ Thundra appears in ''[[Ultimate Spider-Man (TV series)|Ultimate Spider-Man]]'', 
 [[Category:Fictional genetically engineered characters]]
 [[Category:Fictional women soldiers and warriors]]
 [[Category:Marvel Comics characters with superhuman strength]]
+[[Category:Marvel Comics female superheroes]]
 [[Category:Marvel Comics superheroes]]

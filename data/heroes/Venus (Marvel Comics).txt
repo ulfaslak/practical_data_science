@@ -7,8 +7,8 @@
 |character_name=Venus
 |real_name=
 |publisher=[[Marvel Comics]]
-|debut=''[[Venus (comic book)|Venus]]'' #1 (August, 1948) <small>(Golden Age)</small><br>''Sub-Mariner'' #57 (January 1973) <small>(modern age)
-|creators=
+|debut=''[[Venus (comic book)|Venus]]'' #1 (August, 1948)
+|creators= [[Stan Lee]] (writer)<br/>[[Ken Bald]] (artist)
 |species= [[Siren (mythology)|Siren]]
 |homeworld=
 |status=
@@ -21,12 +21,12 @@
 *Aquatic Adaption
 |}}
 
-'''Venus''' is a [[fictional character]] in the [[Marvel Comics]] [[Marvel Universe|universe]], originally based on the goddess [[Venus (mythology)|Venus]] ([[Aphrodite]]) from [[Greek mythology|Greek]] and [[Roman mythology]]; however, it is later revealed that she is a [[Siren (mythology)|Siren]] and not the true goddess. The Marvel version of the character first appeared in ''[[Venus (comic book)|Venus]]'' #1 (Aug. 1948), and made her first [[Silver Age of Comic Books|Silver Age]] appearance in ''[[Sub-Mariner]]''  #57 (Jan. 1973).
+'''Venus''' is a [[fictional character]] in the [[Marvel Comics]] [[Marvel Universe|universe]], originally based on the goddess [[Venus (mythology)|Venus]] ([[Aphrodite]]) from [[Greek mythology|Greek]] and [[Roman mythology]]; however, it is later revealed that she is a [[Siren (mythology)|Siren]] and not the true goddess. The Marvel version of the character first appeared in ''[[Venus (comic book)|Venus]]'' #1 (Aug. 1948).
 
 ===Publication history===
 In the original 1940s ''Venus'' series, Venus dwelled on the planet [[Venus]] with her [[handmaiden|female companions]]. She traveled to Earth and took on the human identity of Victoria "Vicki" Nutley Starr, a journalist and editor for ''Beauty'' magazine. She developed a romantic relationship with ''Beauty'' editor Whitney Hammond; he and Venus' rival, Della Mason, were among the few people to meet Venus who did not believe her when she claimed that she was a goddess. The series began as a light-hearted humor/fantasy series, but as the series continued, its focus shifted towards darker fantasy and horror themes. Through the course of the series, the Marvel Comics interpretations of several mythological figures appeared, including [[Hercules (Marvel Comics)|Hercules]], [[Zeus (Marvel Comics)|Zeus]], various other Olympians, [[Satan (Marvel Comics)|Satan]], and, in their first Marvel appearance, the Norse gods [[Thor (Marvel Comics)|Thor]] and [[Loki (comics)|Loki]]. ''Venus'' was canceled with issue #19.
 
-The character drifted into obscurity after her series ended, and Venus did not reappear for 25 years, when she resurfaced in an issue of the [[Sub-Mariner]]'s comic book. Venus manipulated Namor into defeating [[Ares (Marvel Comics)|Ares]], who was attempting to [[rape|force her to love him]].<ref name="Sub-Mariner #57">''Sub-Mariner'' #57</ref> Venus was now a guide for young [[activist]]s such as [[Namorita]], searching for ways to promote peace, and [[anti-war|to end modern warfare]]. At this time, she wore only a [[swimsuit]] or a [[toga|revealing white gown]].
+The character drifted into obscurity after her series ended, and Venus did not reappear for 20 years, when she resurfaced in ''[[Sub-Mariner]]'' #57 (Jan. 1973). Venus manipulated Namor into defeating [[Ares (Marvel Comics)|Ares]], who was attempting to [[rape|force her to love him]].<ref name="Sub-Mariner #57">''Sub-Mariner'' #57</ref> Venus was now a guide for young [[activist]]s such as [[Namorita]], searching for ways to promote peace, and [[anti-war|to end modern warfare]]. At this time, she wore only a [[swimsuit]] or a [[toga|revealing white gown]].
 
 ===Fictional character biography===
 Venus is the [[Olympians (Marvel Comics)|Olympian]] goddess of love and beauty who is [[Zeus (Marvel Comics)|Zeus]]' daughter by the minor oak tree goddess Dione. Venus wears an enchanted girdle called the Cestus which enables her to arouse love and passion in others at will and to transform weapons into objects that can be used for peaceful purposes.
@@ -108,7 +108,6 @@ Aphrodite possesses the typical powers of an [[Olympians (Marvel Comics)|Olympia
 {{Stan Lee}}
 [[Category:1948 comics debuts]]
 [[Category:Comics characters introduced in 1948]]
-[[Category:Comics characters introduced in 1973]]
 [[Category:Comics characters introduced in 2009]]
 [[Category:Female characters in comics]]
 [[Category:Fictional activists]]
@@ -117,6 +116,7 @@ Aphrodite possesses the typical powers of an [[Olympians (Marvel Comics)|Olympia
 [[Category:Golden Age superheroes]]
 [[Category:Greco-Roman mythology in Marvel Comics]]
 [[Category:Greek and Roman gods in fiction]]
+[[Category:Marvel Comics female superheroes]]
 [[Category:Marvel Comics superheroes]]
 [[Category:Marvel Comics titles]]
 [[Category:Timely Comics characters]]

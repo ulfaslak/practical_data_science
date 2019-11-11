@@ -2,7 +2,6 @@
 {{cleanup-tense|date=March 2007}}
 {{In-universe|date=January 2016}}
 }}
-
 {{Infobox comics character <!--Part of Wikipedia:WikiProject Comics-->
 |character_name=Foreigner
 |image=SpideyForeigner209.jpg
@@ -23,7 +22,7 @@
 |villain=y
 |sortkey=Foreigner
 }}
-The '''Foreigner''' is a fictional [[supervillain]] appearing in [[American comic book]]s published by [[Marvel Comics]]. He was created by writer [[Peter David]], and first appeared in ''Web of Spider-Man'' #15 (June 1986)
+The '''Foreigner''' is a fictional [[supervillain]] appearing in [[American comic book]]s published by [[Marvel Comics]]. He was created by writer [[Peter David]], and first appeared in ''Web of Spider-Man'' #15 (June 1986).
 
 The Foreigner is a mercenary and assassin. Although he has no superhuman abilities, he has trained his body to be in absolute peak physical condition, is among the greatest martial arts practitioners in the Marvel Universe, and as a professional assassin, who has evaded detection by various international law enforcement agencies, is highly intelligent. He is often depicted as being exceedingly competent.
 
@@ -52,6 +51,8 @@ He has been hired by many different characters carry out various assassinations.
 
 At one point, machinations by [[Justin Hammer]] turned the 1400 Club against him and the organization was destroyed; the Foreigner did not seem to intend to rebuild it, as he realized the whole thing was too unwieldy and bloated for his tastes.
 
+It was discovered that Foreigner is the one responsible for murdering [[Thunderbolt Ross]], and framing Captain America for the crime.<ref>''Captain America'' Vol. 9 #9. Marvel Comics.</ref> A somehow revived and rejuvenated [[Peggy Carter]], operating as Dryad, takes down Foreigner's New York-based safe houses.<ref>''Captain America'' Vol. 9 #10. Marvel Comics.</ref> Peggy confronts Foreigner and fights him until [[Crossbones (comics)|Crossbones]] and [[Sin (Marvel Comics)|Sin]] shoot a missile at them. Peggy survives the attack, while Foreigner presumably perishes.<ref>''Captain America'' Vol. 9 #11. Marvel Comics.</ref>
+
 ==Powers and abilities==
 The Foreigner has no superhuman abilities. However, he has trained his body to be in absolute peak physical condition. He is stronger, faster, more agile, and has better reaction time than any Olympic athlete. He is adept in all known forms of martial arts, and most forms of conventional hand weaponry. He is among the greatest pugilists in the Marvel Universe, similar in ability to [[Captain America]] and [[Wolverine (character)|Wolverine]]. His skills are such that even without superhuman abilities, he is able to pull off seemingly inhuman feats of strength through intense concentration, and has even battled Spider-Man to a stand still.
 
@@ -64,7 +65,9 @@ He is a master of disguise and has assumed various identities all over the world
 
 ==External links==
 *{{comicbookdb|type=character|id=7372|title=Foreigner}}
+
 {{Spider-Man characters}}
+{{Black Cat}}
 
 [[Category:Characters created by Peter David]]
 [[Category:Comics characters introduced in 1986]]

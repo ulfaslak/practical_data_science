@@ -2,7 +2,7 @@
 |character_name=Detroit Steel
 |image=DetroitSteel.jpg
 |converted=y
-|caption=Detroit Steel (Doug Johnson III) in his first appearance in ''[[Iron Man (comic book)|Iron Man]]'' #25 (June 2010). Art by [[Salvador Larocca]].
+|caption=Detroit Steel (Doug Johnson III) in his first appearance in ''[[Iron Man (comic book)|Iron Man]]'' #25 (June 2010).<br>Art by [[Salvador Larocca]].
 |publisher=[[Marvel Comics]]
 |debut= ''[[Iron Man (comic book)|Iron Man]]'' (vol 5) #25 (June 2010)
 |creators=[[Matt Fraction]]<br/>[[Salvador Larocca]]
@@ -57,7 +57,7 @@ Alex Evans, reviewing ''Invincible Iron Man'' #33 for [[Weekly Comic Book Review
 {{reflist}}
 
 ==External links==
-{{Portal|2000s|Superhero fiction|Fictional characters|Comics}}
+{{Portal|Speculative fiction|Comics}}
 * {{comicbookdb|type=character|id=43246|title=Detroit Steel}}
 * [http://marvel.wikia.com/wiki/Detroit_Steel_Armor Detroit Steel Armor] at Marvel Wiki
 * [http://marvel.wikia.com/wiki/Doug_Johnson_III_%28Earth-616%29 Detroit Steel (Doug Johnson III)] at Marvel Wiki

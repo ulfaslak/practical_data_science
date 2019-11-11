@@ -1,5 +1,8 @@
+{{Multiple issues|
 {{notability|date=June 2018}}
 {{in-universe|date=June 2018}}
+}}
+
 {{Infobox comics character <!--Wikipedia:WikiProject Comics-->
 <!-- |character_name=Thor Girl -->
 |image=Thor Girl.jpg
@@ -35,7 +38,7 @@ Thor Girl is one of the heroes who registers with the Superhuman Registration Ac
 
 Thor Girl is one of the first recruits for the [[Camp Hammond (comics)|Camp Hammond]] training facility. Other fellow trainees include [[Bengal (comics)|Bengal]], [[Cloud 9 (comics)|Cloud 9]], [[Slapstick (comics)|Slapstick]], [[Trauma (comics)|Trauma]], [[Armory (comics)|Armory]], [[Rage (comics)|Rage]], and [[Komodo (comics)|Komodo]].<ref>''Avengers: The Initiative'' #1. Marvel Comics.</ref>
 
-The Initiative recruits are sent as crowd control in Manhattan with Thor Girl aiding mass evacuation when the city is attacked by the [[Hulk (comics)|Hulk]], who is seeking revenge upon the [[Illuminati (Marvel Comics)|Illuminati]]. However, Rage breaks ranks to try to help the [[Avengers (comics)|Avengers]] in battle against the Hulk and his [[Warbound]], and Thor Girl is among the trainees who sides with Rage. Easily defeated, Thor Girl and the others are imprisoned at Manhattan Square Gardens and controlled by obedience disks. The Initiative's black ops team, including the empathic metamorph Trauma, are sent in to free Thor Girl and her compatriots, with Trauma assuming the form and powers of Thor as he battles the Warbound, leaving Thor Girl awestruck by the encounter.<ref>''Avengers: The Initiative'' #5. Marvel Comics.</ref>
+The Initiative recruits are sent as crowd control in Manhattan with Thor Girl aiding mass evacuation when the city is attacked by the [[Hulk]], who is seeking revenge upon the [[Illuminati (Marvel Comics)|Illuminati]]. However, Rage breaks ranks to try to help the [[Avengers (comics)|Avengers]] in battle against the Hulk and his [[Warbound]], and Thor Girl is among the trainees who sides with Rage. Easily defeated, Thor Girl and the others are imprisoned at Manhattan Square Gardens and controlled by obedience disks. The Initiative's black ops team, including the empathic metamorph Trauma, are sent in to free Thor Girl and her compatriots, with Trauma assuming the form and powers of Thor as he battles the Warbound, leaving Thor Girl awestruck by the encounter.<ref>''Avengers: The Initiative'' #5. Marvel Comics.</ref>
 
 Subsequent to Trauma's assumption of Thor's form, Thor Girl has expressed a kind of hero worship of and becomes enamored with Trauma.{{Issue|date=November 2009}} However, both Tarene and Trauma are brutally attacked by the [[Michael Van Patrick|MVP]] clone, calling himself KIA (Killed In Action). Tarene is badly burned while protecting Trauma, who is then stabbed in the chest by KIA.<ref>''Avengers: The Initiative'' #9. Marvel Comics.</ref>
 
@@ -67,7 +70,7 @@ In one alternate future world, Thor Girl tried to reach back in time to empower 
 {{Reflist}}
 
 ==External links==
-{{Portal|2000s|Fictional characters|Superhero fiction|Comics}}
+{{Portal|Speculative fiction|Comics}}
 *[http://Marvel.wikia.com/Tarene_%28Earth-616%29 Thor Girl] at Marvel Wikia
 
 {{Thor}}
@@ -79,3 +82,4 @@ In one alternate future world, Thor Girl tried to reach back in time to empower 
 [[Category:Marvel Comics Asgardians]]
 [[Category:Marvel Comics characters with superhuman strength]]
 [[Category:Characters created by Dan Jurgens]]
+[[Category:Marvel Comics female superheroes]]

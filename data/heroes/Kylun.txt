@@ -1,6 +1,9 @@
+{{Multiple issues|
 {{primary sources|date=June 2011}}
 {{Notability|date=October 2018}}
 {{Fanpov|date=October 2018}}
+}}
+
 {{Infobox comics character| <!--Wikipedia:WikiProject Comics-->
 image=[[File:Kylun_and_Princess_from_Excalibur_44.jpg|200px]]
 |caption=Kylun and Princess Sa'tneen battling the forces of Necrom ''Excalibur v.1'' #44<br>Art by [[Alan Davis]] and Mark Farmer
@@ -34,7 +37,7 @@ Necrom emerges into [[Earth-616]]. His slave creature is neutralized by an agent
 ===Part of the team===
 Kylun joins forces with Excalibur. He befriends the team's long-term ally [[Alistaire Stuart]]. Kylun's old friend Widget returned, in a new form. Excalibur's headquarters was becoming infected with windows into alternate realities, the same way Kylun himself came to Earth. At the same time, Necrom attacked. Kylun helped in the fight, though Necrom's destruction was brought about by [[Rachel Summers|Phoenix]].
 
-Kylun helps investigate the disappearance of twenty-seven older citizens from a small village. He was caught up in an "Alice in Wonderland" fantasy-land, created by Joyboy of [[Technet (comics)|Technet]] and the Red Queen of the [[Crazy Gang (Marvel Comics)|Crazy Gang]]. He personally ends up being mentally influenced into fishing with the Grypon and Mock Turtle. In the end, Captain Britain talks him out of the influence of the pleasant land, his friends are recovered and the older people are allowed to stay.
+Kylun helps investigate the disappearance of twenty-seven older citizens from a small village. He was caught up in an "Alice in Wonderland" fantasy-land, created by Joyboy of [[Technet (comics)|Technet]] and the Red Queen of the Crazy Gang. He personally ends up being mentally influenced into fishing with the Grypon and Mock Turtle. In the end, Captain Britain talks him out of the influence of the pleasant land, his friends are recovered and the older people are allowed to stay.
 
 The fight with Necrom had resulted in Excalibur's old lighthouse headquarters being demolished. The team moves into Brian's old manor house. Brian allows Kylun to bury Sa'Tneen under a group of trees near the west wing. Kylun informs [[Cerise (comics)|Cerise]] that he will be leaving to make contact with his parents, who at this time, had been missing their young son for a full year.
 
@@ -46,7 +49,7 @@ Excalibur's side faces certain defeat, even with their newfound allies because s
 
 Kylun later attends the wedding of Captain Britain and Meggan.
 
-After [[Decimation (comics)|M-Day]], he is one of the few mutants to retain his powers.
+After the events of the 2005 storyline "[[Decimation (comics)|Decimation]]", he is one of the few mutants to retain his powers.
 
 ==Powers and abilities==
 Kylun is a [[Mutant (Marvel Comics)|mutant]] who possesses some animalistic physical characteristics, such as fur, sharpened teeth, and a lion like nose and eyes. He also has the ability to use his vocal cords to replicate any sound he has heard.

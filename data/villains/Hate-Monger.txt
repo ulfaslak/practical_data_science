@@ -1,6 +1,6 @@
 {{Infobox comics character <!--Wikipedia:WikiProject Comics-->
 |image=Hatemonger1.jpg
-|caption=Cover to ''[[Fantastic Four]]'' #21 (December 1963). Art by [[Jack Kirby]].
+|caption=Cover to ''[[Fantastic Four (comic book)|Fantastic Four]]'' #21 (December 1963). Art by [[Jack Kirby]].
 |character_name=Hate-Monger
 |real_name=Clone of [[Adolf Hitler]]
 |publisher=[[Marvel Comics]]
@@ -14,7 +14,7 @@
 
 ==Publication history==
 {{expand section|date=January 2016}}
-The original character first appeared in ''[[Fantastic Four]]'' #21 (December, 1963) and was created by [[Stan Lee]] and [[Jack Kirby]].
+The original character first appeared in ''[[Fantastic Four (comic book)|Fantastic Four]]'' #21 (December, 1963) and was created by [[Stan Lee]] and [[Jack Kirby]].
 
 ==Fictional character biography==
 
@@ -70,9 +70,12 @@ As Hitler, the Hate-Monger was also a cunning strategist and a charismatic leade
 * {{Marvunapp|http://www.marvunapp.com/Appendix4/hatemongerungerff.htm|Hate-Monger (Psycho-Man's android)}}
 
 {{Captain America}}
+{{Fantastic Four}}
 {{Nick Fury}}
 {{Stan Lee}}
 {{Jack Kirby}}
+
+[[Category:Articles about multiple fictional characters]]
 [[Category:Cultural depictions of Adolf Hitler]]
 [[Category:Characters created by Jack Kirby]]
 [[Category:Characters created by Stan Lee]]

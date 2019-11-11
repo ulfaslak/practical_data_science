@@ -7,7 +7,7 @@
 | imagesize      = <!-- default 250 -->
 | caption        = 
 | publisher      = [[Marvel Comics]]
-| debut          = ''[[Avengers (comics)|Avengers]]'' vol 1 #301, (March, [[1989 in comics|1989]]
+| debut          = ''[[Avengers (comics)|Avengers]]'' vol. 1 #301 (March [[1989 in comics|1989]])
 | creators       = [[Tom DeFalco]] (writer - artist)
 | alter_ego      = 
 | full_name      = Garthan Saal
@@ -27,7 +27,7 @@
 }}
 '''Supernova''', also known as '''Nova Omega''' and '''Garthan Saal''', is a [[fictional character]] appearing in [[American comic book]]s published by [[Marvel Comics]]. He first appeared as an antagonist in ''[[The Avengers (comic book)|Avengers]]'' vol 1 #301 in [[1988 in comics|1988]].
 
-As a Nova Corps officer, he is played by [[Peter Serafinowicz]] in the film in ''[[Guardians of the Galaxy (film)|Guardians of the Galaxy]].''
+As a Nova Corps officer, he was played by [[Peter Serafinowicz]] in the film in ''[[Guardians of the Galaxy (film)|Guardians of the Galaxy]].''
 
 ==Publication history==
 Supernova first appeared as the primary antagonist in ''[[The Avengers (comic book)|Avengers]]'' vol 1 #301-303. He later returned in ''[[New Warriors]]'' vol 1 and ''[[Nova (Richard Rider)|Nova]]'' vol 4.
@@ -50,7 +50,7 @@ During the ''[[Original Sin (comics)|Original Sin]]'' storyline, [[Nova (Sam Ale
 
 ===Membership===
 * '''Adomox''' - Leader of the Supernovas.<ref name="Nova #18"/>
-* '''Jesse Alexander''' - Member of the Supernovas and the father of Sam Alexander. He was previously a prisoner of the [[Chitauri]].<ref name="Nova #1"/> He escaped with a gang of fellow prisoners and eventually met up with his son. 
+* '''Jesse Alexander''' - Member of the Supernovas and the father of Sam Alexander. He is currently a prisoner of the [[Chitauri]].<ref name="Nova #1"/> His whereabouts are unknown, but clones of him have appeared.
 * '''Mister Z'zz''' - Member of the Supernovas.<ref name="Nova #1"/> He was killed by the Chitauri.<ref name="Nova #4">''Nova'' Vol. 5 #4</ref>
 * '''Phlish''' - Member of the Supernovas.<ref name="Nova #1"/> He was killed by the Chitauri.<ref name="Nova #4"/>
 * '''[[Nova (Sam Alexander)|Sam Alexander]]''' - He was a part of the Supernovas until he learned their true intentions.<ref name="Nova #1"/>
@@ -59,7 +59,7 @@ During the ''[[Original Sin (comics)|Original Sin]]'' storyline, [[Nova (Sam Ale
 ==In other media==
 
 ===Film===
-* Saal appears in the 2014 film ''[[Guardians of the Galaxy (film)|Guardians of the Galaxy]],'' portrayed by British actor [[Peter Serafinowicz]].<ref name="Serafinowicz">{{cite web| date=July 23, 2013 |first=Peter |last=Serafinowicz |authorlink=Peter Serafinowicz |title=Re Guardians, I'm a Nova Corps Officer with John C Reilly. |publisher=[[Twitter]] |url=https://twitter.com/serafinowicz/status/359740653015543810 |accessdate=July 23, 2013 |archivedate=June 25, 2014 |archiveurl=https://www.webcitation.org/6QbfftJto|deadurl=no}}</ref><ref name="ComingSoonReview">{{cite web|url=http://www.comingsoon.net/news/reviewsnews.php?id=120857|title=Guardians of the Galaxy|last=Douglas|first=Edward|publisher=[[ComingSoon.net]]|date=July 24, 2014|accessdate=July 24, 2014|archiveurl=https://www.webcitation.org/6RJZgX833|archivedate=July 24, 2014|deadurl=no}}</ref> In the film, he holds the rank of Denarian and reports to [[Irani Rael|Nova Prime Rael]] of [[Gamora]]'s capture. Saal is not corrupt with power like his comic book counterpart, but is stern and righteous with his position. He acts as commander of [[Nova Corps]]' fighter fleet, coordinating with [[Rocket Raccoon|Rocket]] and the Ravagers to protect the evacuation of Xandar and stall [[Ronan the Accuser|Ronan]]'s ship, the Dark Aster, while the remaining Guardians board. He is killed after Ronan uses the [[Infinity Stone]] to break Dark Aster through the shield Nova Corps had created.
+* Saal appears in the 2014 film ''[[Guardians of the Galaxy (film)|Guardians of the Galaxy]],'' portrayed by British actor [[Peter Serafinowicz]].<ref name="Serafinowicz">{{cite web| date=July 23, 2013 |first=Peter |last=Serafinowicz |authorlink=Peter Serafinowicz |title=Re Guardians, I'm a Nova Corps Officer with John C Reilly. |publisher=[[Twitter]] |url=https://twitter.com/serafinowicz/status/359740653015543810 |accessdate=July 23, 2013 |archivedate=June 25, 2014 |archiveurl=https://www.webcitation.org/6QbfftJto|url-status=live}}</ref><ref name="ComingSoonReview">{{cite web|url=http://www.comingsoon.net/news/reviewsnews.php?id=120857|title=Guardians of the Galaxy|last=Douglas|first=Edward|publisher=[[ComingSoon.net]]|date=July 24, 2014|accessdate=July 24, 2014|archiveurl=https://www.webcitation.org/6RJZgX833|archivedate=July 24, 2014|url-status=live}}</ref> In the film, he holds the rank of Denarian and reports to [[Irani Rael|Nova Prime Rael]] of [[Gamora]]'s capture. Saal is not corrupt with power like his comic book counterpart, but is stern and righteous with his position. He acts as commander of [[Nova Corps]]' fighter fleet, coordinating with [[Rocket Raccoon|Rocket]] and the Ravagers to protect the evacuation of Xandar and stall [[Ronan the Accuser|Ronan]]'s ship, the Dark Aster, while the remaining Guardians board. He is killed after Ronan uses the [[Infinity Stone]] to break Dark Aster through the shield Nova Corps had created.
 
 ==References==
 {{reflist}}
@@ -69,6 +69,7 @@ During the ''[[Original Sin (comics)|Original Sin]]'' storyline, [[Nova (Sam Ale
 * [http://marvel.wikia.com/Supernovas_%28Earth-616%29 Supernovas] at Marvel Wiki
 * {{Marvunapp|http://www.marvunapp.com/Appendix3/novasaal.htm|Supernova}}
 
+{{Nova}}
 {{Marvel Cosmic}}
 
 [[Category:Characters created by Tom DeFalco]]

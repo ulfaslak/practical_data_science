@@ -1,8 +1,7 @@
 {{Other uses|Topaz (disambiguation)}}
 {{more citations needed|date=August 2016}}
-
-{{Infobox comics character| <!--Wikipedia:WikiProject Comics-->
-image=[[Image:DeodatoTopaz.jpg|250px]]
+{{Infobox comics character<!--Wikipedia:WikiProject Comics-->
+|image=[[Image:DeodatoTopaz.jpg|250px]]
 |caption=More [[India]]n version of Topaz as drawn by [[Mike Deodato]] for the ''[[Witches (Marvel Comics)|Witches]]'' series.
 |character_name=Topaz
 |alter_ego=
@@ -60,9 +59,11 @@ She has taken two separate forms, one blonde European and one brunette Indian.
 [[Category:Characters created by Mike Ploog]]
 [[Category:Comics characters introduced in 1974]]
 [[Category:Female characters in comics]]
+[[Category:Fictional characters who use magic]]
 [[Category:Fictional empaths]]
 [[Category:Fictional telekinetics]]
 [[Category:Fictional witches]]
 [[Category:Marvel Comics characters who use magic]]
+[[Category:Marvel Comics female superheroes]]
 [[Category:Marvel Comics superheroes]]
 [[Category:Marvel Comics telepaths]]

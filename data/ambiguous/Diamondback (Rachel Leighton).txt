@@ -1,3 +1,4 @@
+{{short description|Comic book character from Marvel Comics}}
 {{For|the first Diamondback, Willis Stryker|Diamondback (Willis Stryker)}}
 {{Infobox comics character
 |image=Diamondbackwiki.jpg
@@ -67,7 +68,7 @@ The [[Ultimate Marvel]] version of Rachael Leighton appears as a teenage street 
 
 ==In other media==
 ===Television===
-The Rachel Leighton version of Diamondback appears in ''[[Marvel Disk Wars: The Avengers]]'', voiced by [[Naomi Shindō]].{{cn|date=October 2016}} She is seen as the partner of Rosetta Riley.
+The Rachel Leighton version of Diamondback appears in ''[[Marvel Disk Wars: The Avengers]]'', voiced by [[Naomi Shindō]] and by Rachel Robinson in the English dub.{{cn|date=October 2016}} She is seen as the partner of Rosetta Riley.
 
 ===Video games===
 * The Rachel Leighton version of Diamondback appears as a boss character in ''[[Marvel: Ultimate Alliance 2]]'', voiced by [[Jameela McMillan]].<ref>{{cite web|author=Sep 8, 2009 12:00 am |url=http://marvel.com/news/vgstories.9423.MUA2_NPC_Spotlight~colon~_Equinox~and~Diamondback |title=Marvel: Ultimate Alliance 2 NPC Spotlight: Equinox and Diamondback &#124; Marvel Heroes Games &#124; Games News &#124; News |publisher=Marvel.com |date=2009-09-08 |accessdate=2011-01-10}}</ref> She partakes in [[Lucia von Bardas]]'s attack upon New York. She later is taken over by the mind-control nanites and attacks the heroes alongside Whirlwind and Moonstone at the portal that leads out of the Negative Zone prison.
@@ -78,6 +79,7 @@ The Rachel Leighton version of Diamondback appears in ''[[Marvel Disk Wars: The 
 
 ==External links==
 * [http://www.marvel.com/universe/Diamondback_(Rachel_Leighton) Diamondback] at Marvel.com
+* {{Marveldatabase|Diamondback}}
 
 {{Captain America}}
 
@@ -94,3 +96,4 @@ The Rachel Leighton version of Diamondback appears in ''[[Marvel Disk Wars: The 
 [[Category:Marvel Comics superheroes]]
 [[Category:Marvel Comics supervillains]]
 [[Category:Marvel Comics television characters]]
+[[Category:Marvel Comics female superheroes]]

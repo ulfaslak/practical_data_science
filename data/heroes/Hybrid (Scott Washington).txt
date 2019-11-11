@@ -1,8 +1,7 @@
-{{for|other uses of Hybrid in comics|Hybrid (disambiguation)#Literature}}
-{{cleanup|reason=Needs image|date=May 2014}}
 {{Infobox comics character <!--Wikipedia:WikiProject Comics-->
 |image=
-|caption= 
+|imagesize= 200
+|caption= Interior artwork of ''Official Handbook of the Marvel Universe A-Z'' #5.
 |character_name=Hybrid
 |real_name=Scott Washington
 |publisher=[[Marvel Comics]]
@@ -10,7 +9,11 @@
 |creators='''Scott Washington'''<br>[[Fabian Nicieza]] (writer)<br>[[Mark Bagley]] (penciller)<br>'''Hybrid'''<br>[[Evan Skolnick]] (writer)<br>[[Patrick Zircher]] (penciller)
 |alliances= [[New Warriors]]<br>[[Guardsman (comics)|Guardsmen]]<br>[[NYPD]]
 |aliases=
-|powers=[[Symbiote (comics)|Alien symbiote]]
+|powers=[[Symbiote (comics)#Powers and abilities|Alien symbiote]] grants:
+*All powers of [[Venom (Marvel Comics character)|the predecessor]]'s first human host, [[Spider-Man]]
+*Limited shapeshifting and [[camouflage]]
+*Symbiote's autonomous defense capabilities
+*Undetectable by Spider-Man's "Spider-sense
 }}
 
 '''Hybrid''' ('''Scott Washington''') is a [[fictional]] [[anti-hero]] appearing in [[American comic book]]s published by [[Marvel Comics]]. Scott Washington first appeared in ''The New Warriors'' #21 (March 1992) by writer [[Fabian Nicieza]] and penciller [[Mark Bagley]]. The Hybrid symbiote first appeared in ''Venom: Along Came A Spider'' #1 (January 1996) by writer [[Evan Skolnick]] and penciller [[Patrick Zircher]].
@@ -49,12 +52,16 @@ Like the Venom and [[Carnage (comics)|Carnage]] symbiotes, the Hybrid symbiote h
 {{reflist}}
 
 ==External links==
-* {{Marvelwiki|Hybrid_(Scott_Washington)|Hybrid (Scott Washington)}}
 * {{comicbookdb|type=character|id=5781|title=Hybrid (Scott Washington)}}
+* {{Marveldatabase|Hybrid (Klyntar) (Earth-616)|Hybrid}}<br>{{Marveldatabase|Scott Washington (Earth-616)|Scott Washington}}
+** [https://marvel.fandom.com/wiki/Phage_(Klyntar)_(Earth-616) Phage] at Marvel Database 
+** [https://marvel.fandom.com/wiki/Lasher_(Klyntar)_(Earth-616) Lasher] at Marvel Database 
+** [https://marvel.fandom.com/wiki/Riot_(Klyntar)_(Earth-616) Riot] at Marvel Database 
+** [https://marvel.fandom.com/wiki/Agony_(Klyntar)_(Earth-616) Agony] at Marvel Database
 
 {{Symbiote Family and Hosts}}
 {{New Warriors}}
-{{Portal bar|Superhero fiction|Fictional characters|1990s}}
+{{Portal bar|Speculative fiction|1990s}}
 
 [[Category:African-American superheroes]]
 [[Category:Characters created by Fabian Nicieza]]
@@ -69,3 +76,4 @@ Like the Venom and [[Carnage (comics)|Carnage]] symbiotes, the Hybrid symbiote h
 [[Category:Marvel Comics aliens]]
 [[Category:Marvel Comics characters with superhuman strength]]
 [[Category:Marvel Comics superheroes]]
+[[Category:Merged fictional characters]]

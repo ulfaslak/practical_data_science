@@ -14,15 +14,13 @@
 | hero           = y
 | sortkey        = Moondragon
 }}
-'''Moondragon''' ('''Heather Douglas''') is a [[fictional character]] appearing in [[American comic book]]s published by [[Marvel Comics]]. A powerful [[telepathy|telepath]], master [[martial arts|martial artist]], minor [[psychokinesis|telekinetic]], and highly skilled [[geneticist]], Moondragon's most notable characteristics are her [[shaved head]], and achieving excellence in virtually every area of human accomplishment.
+'''Moondragon''' ('''Heather Douglas''') is a [[fictional character]] appearing in [[American comic book]]s published by [[Marvel Comics]]. A powerful [[telepathy|telepath]], master [[martial arts|martial artist]], minor [[psychokinesis|telekinetic]] and highly skilled [[geneticist]], Moondragon's most notable characteristics are her [[shaved head]] and achieving excellence in virtually every area of human accomplishment.
 
-Unlike most Marvel characters, who have gained their paranormal abilities through birth or accident, Moondragon has strictly achieved her extraordinary talents through extreme degrees of personal regimen. She is openly [[bisexual]], and has been romantically attracted to [[Daredevil (Marvel Comics character)|Daredevil]], [[Thor (Marvel Comics)|Thor]], [[Cloud (comics)|Cloud]], [[Quasar (Wendell Vaughn)|Quasar]], [[Marlo Chandler]], and [[Phyla-Vell]].
+Unlike most Marvel characters, who have gained their paranormal abilities through birth or accident, Moondragon has strictly achieved her extraordinary talents through extreme degrees of personal regimen.
 
 ==Publication history==
 {{Expand section|date=March 2015}}
 Moondragon first appeared in ''[[Iron Man (comic book)|Iron Man]]'' (vol. 1) #54 (January 1973). The issue was scripted by [[Bill Everett]] (creator of the [[Sub-Mariner]]) and [[Mike Friedrich]] and drawn by Everett and [[George Tuska]].
-
-She is somewhat infamous for mentally enslaving Thor to be her lover, along with unwillingly committing [[patricide]], in a storyline scripted by [[Jim Shooter]].<ref name="Ba-Banis">''Avengers'' #219-220 (May–June 1982)</ref>
 
 ==Fictional character biography==
 
@@ -37,6 +35,7 @@ Heather's choice of the name Moondragon causes an uproar amongst the monks of Sh
 Sometime later, [[Thanos]] attacks Titan, destroying the monastery and the Shao-Lom monks. Moondragon escapes in her spaceship and flees to Earth.<ref name=DD_105 />
 
 ===Alliances against Thanos and Korvac===
+[[Image:Warlock and the Infinity Watch 8.jpg|200px|thumb|Moondragon (lower right) on the cover of ''[[Warlock and the Infinity Watch]]'' #8 (September 1992), with [[Thanos]] and [[Gamora]]. Art by [[Tom Raney]] and [[Terry Austin (comics)|Terry Austin]].]]
 She first returns to Earth under the guise of "Madame MacEvil" for developing means to combat Thanos. This leads to the creation of villains like [[Angar the Screamer]], [[Ramrod (Marvel Comics)|Ramrod]], and the [[Dark Messiah (comics)|Dark Messiah]].<ref>[http://www.marvunapp.com/Appendix/darkmess.htm Dark Messiah] at the Appendix to the Handbook of the Marvel Universe</ref> In her first appearance, she forces [[Iron Man]] to battle [[Namor]] in order to study them.<ref>''Iron Man'' #54</ref> She then reveals her true identity and helps the [[Avengers (comics)|Avengers]] in their first confrontation with Thanos. She meets the heroine [[Patsy Walker|Hellcat]] and takes her to Titan to train her.{{issue|date=February 2013}}
 
 She battles [[Daredevil (Marvel Comics character)|Daredevil]] but is nearly killed by her ex-ally Kerwin J. Broderick.<ref name=DD_105 /> She restores Daredevil's sight briefly with her alien pressure point skills and then first meets [[Mar-Vell|Captain Mar-Vell]]. She aids them against Angar, the Dark Messiah, and Terrex.<ref>''Daredevil'' #106-107</ref> She falls in love with Daredevil but then returns to outer space. She aids Captain Mar-Vell, [[Drax the Destroyer|Drax]], and the Avengers against Thanos.<ref>''Captain Marvel'' #31-33</ref>
@@ -85,7 +84,7 @@ With Phyla's death at the hands of Adam Magus, Moondragon takes it upon herself 
 ==Powers and abilities==
 Heather Douglas is a human who has accessed her full psionic potential through extreme training under the [[Titan (Marvel Comics location)|Titanian]] monks of Shao-Lom. She is also highly educated in Titanian science and is a master martial artist.
 
-Moondragon primarily possesses tremendous [[telepathy|telepathic]] abilities which have enabled her to control the population of an entire planet to stop an ongoing war, while enslaving the thunder god [[Thor (Marvel Comics)|Thor]] as her personal lover.<ref name="Ba-Banis" /> She has demonstrated willpower and spiritual strength rivaling that of [[Thanos]],<ref>''Captain Marvel'' vol. 1, #31 (March 1974)</ref> and the [[Sorcerer Supreme]] [[Doctor Strange]],<ref>''Infinity Abyss'' #3 (Sep, 2002)</ref> pierced the psionic shields of the [[Cosmic entities (Marvel Comics)|cosmic entity]] [[Galactus]] to enable communication, and when borrowing her abilities, Thanos almost manages to overwhelm the Devourer.<ref>''Thanos'' #3 (Dec. 2003)</ref>
+Moondragon primarily possesses tremendous [[telepathy|telepathic]] abilities which have enabled her to control the population of an entire planet to stop an ongoing war, while enslaving the thunder god [[Thor (Marvel Comics)|Thor]] as her personal lover.<ref name="Ba-Banis">''Avengers'' #219-220 (May–June 1982)</ref> She has demonstrated willpower and spiritual strength rivaling that of [[Thanos]],<ref>''Captain Marvel'' vol. 1, #31 (March 1974)</ref> and the Sorcerer Supreme [[Doctor Strange]],<ref>''Infinity Abyss'' #3 (Sep, 2002)</ref> pierced the psionic shields of the [[Cosmic entities (Marvel Comics)|cosmic entity]] [[Galactus]] to enable communication, and when borrowing her abilities, Thanos almost manages to overwhelm the Devourer.<ref>''Thanos'' #3 (Dec. 2003)</ref>
 
 Beyond communication and control of other minds, she can induce mental illusions, cause personality changes, and erase specific memories. She can also fire bolts of psionic energy as concussive blasts that can either stun an opponent or render an opponent brain dead.
 
@@ -161,3 +160,4 @@ Moondragon runs a "Hall of Magic Mirrors" in a carnival. She aids the [[Fantasti
 [[Category:Marvel Comics martial artists]]
 [[Category:Marvel Comics superheroes]]
 [[Category:Marvel Comics telepaths]]
+[[Category:Marvel Comics female superheroes]]

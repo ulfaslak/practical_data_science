@@ -12,7 +12,6 @@
 |aliases=Lord Ghaur
 |powers=[[Mind control]] of other deviants<br>[[Shapeshifting]] 
 }}
-
 '''Ghaur''' ({{IPAc-en|ɡ|ɔr}}) is a fictional [[supervillain]] appearing in [[American comic book]]s published by [[Marvel Comics]]. Created by [[Peter B. Gillis]] and [[Sal Buscema]], he first appeared in ''[[Eternals (comics)|Eternals]]'' vol. 2, <!--W:MOS Volumes, not "series" --> #2 (November, 1985).
 
 In the [[Marvel Universe]], he is the head of the [[Deviant (comics)|Deviant race]]'s [[priesthood]].
@@ -37,12 +36,13 @@ Ghaur briefly possessed the body and attributes of a [[Celestial (comics)|Celest
 {{reflist}}
 
 ==External links==
-*[https://www.webcitation.org/query?url=http://www.geocities.com/brenni_au/G.html&date=2009-10-26+22:16:10  "G" in the Encyclopaedia Olympianna]
-*[http://www.marveldirectory.com/individuals/g/ghaur.htm Marvel Directory entry on Ghaur]
-*[http://www.maelmill-insi.de/UHBMCC/ The Unofficial Handbook of Marvel Comics Creators]
-*http://www.marvel.com/universe/Ghaur
+* [http://www.marvel.com/universe/Ghaur Ghaur] at Marvel.com
+* [https://www.webcitation.org/query?url=http://www.geocities.com/brenni_au/G.html&date=2009-10-26+22:16:10  "G" in the Encyclopaedia Olympianna]
+* [http://www.marveldirectory.com/individuals/g/ghaur.htm Marvel Directory entry on Ghaur]
+* [http://www.maelmill-insi.de/UHBMCC/ The Unofficial Handbook of Marvel Comics Creators]
 
 {{Eternals}}
+{{Black Panther}}
 
 [[Category:Characters created by Sal Buscema]]
 [[Category:Comics characters introduced in 1985]]

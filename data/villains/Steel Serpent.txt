@@ -5,17 +5,17 @@
 | imagesize      = 176
 | real_name      = Davos
 | publisher      = [[Marvel Comics]]
-| debut          = '''Unnamed''':<br>''[[The Deadly Hands of Kung Fu]]'' #10 (March 1975)<br>'''Davos''':<br>''[[Iron Fist (comics)|Iron Fist]]'' #1 (November 1975)
-| creators       = '''Unnamed''':<br>[[Tony Isabella]]<br>[[Frank McLaughlin (artist)|Frank McLaughlin]]<br>'''Davos''':<br>[[Chris Claremont]]<br>[[John Byrne (comics)|John Byrne]]
+| debut          = '''Unnamed''':<br/>''[[The Deadly Hands of Kung Fu]]'' #10 (March 1975)<br/>'''Davos''':<br/>''[[Iron Fist (comics)|Iron Fist]]'' #1 (November 1975)
+| creators       = '''Unnamed''':<br/>[[Tony Isabella]]<br/>[[Frank McLaughlin (artist)|Frank McLaughlin]]<br/>'''Davos''':<br/>[[Chris Claremont]]<br/>[[John Byrne (comics)|John Byrne]]
 | status         =
-| alliances      = [[Hydra (Marvel Comics)|HYDRA]]<br>[[Immortal Weapons]]
+| alliances      = [[Hydra (Marvel Comics)|HYDRA]]<br/>[[Immortal Weapons]]
 | species        = <!-- optional -->
 | homeworld      = <!-- optional -->
 | partners       = <!-- optional -->
 | supports       = <!-- optional -->
 | aliases        = Steel Phoenix
 | relatives      = [[Lei Kung (comics)|Lei Kung]] (father)
-| powers         = Master martial artist<br>The power of the Serpent's Sting<br>The ability to drain the power of the Iron Fist from its wielder
+| powers         = Master martial artist<br/>The power of the Serpent's Sting<br/>The ability to drain the power of the Iron Fist from its wielder
 | cat            = super
 | subcat         = Marvel Comics
 | hero           = 
@@ -26,7 +26,7 @@
 
 '''Steel Serpent''' ('''Davos''') is a fictional character, a [[supervillain]] appearing in [[American comic book]]s published by [[Marvel Comics]]. The character is usually depicted as an enemy of [[Iron Fist (comics)|Iron Fist]].
 
-Davos is portrayed by [[Sacha Dhawan]] in the [[Netflix]] television series ''[[Iron Fist (TV series)|Iron Fist]]'', set in the [[Marvel Cinematic Universe]].
+Davos was portrayed by [[Sacha Dhawan]] in the [[Netflix]] television series ''[[Iron Fist (TV series)|Iron Fist]]'', set in the [[Marvel Cinematic Universe]].
 
 ==Publication history==
 The first, otherwise unnamed, Steel Serpent appeared in ''[[The Deadly Hands of Kung Fu]]'' #10 (1974), his only appearance, and was created by [[Tony Isabella]] and [[Frank McLaughlin (artist)|Frank McLaughlin]].<ref>{{Marvunapp|http://www.marvunapp.com/Appendix/steelsp1.htm|Steel Serpent (unnamed)}}</ref>
@@ -34,7 +34,7 @@ The first, otherwise unnamed, Steel Serpent appeared in ''[[The Deadly Hands of 
 The second Steel Serpent, Davos, debuted in ''[[Iron Fist (comics)|Iron Fist]]'' #1 (1975) and was created by [[Chris Claremont]] and [[John Byrne (comics)|John Byrne]].<ref>{{Marvunapp|http://www.marvunapp.com/Appendix3/steelserpentdavos.htm|Steel Serpent (Davos)}}</ref>
 
 ==Fictional character biography==
-The Steel Serpent is a native of [[K'un-L'un]] named Davos, the son of [[Lei Kung (comics)|Lei Kung the Thunderer]]. A gifted student of the martial arts, Davos was one of the final two candidates for the right to challenge for the power of the Iron Fist but was defeated in single combat by Wendell Rand, adopted son of K'un-L'un's ruler, Lord Tuan. Davos accused Tuan of unfairly favoring his son and left the city without permission to confront the dragon Shou-Lao. Failing to defeat the dragon, he returned to K'un L'un in disgrace and was exiled to Earth. Wendell Rand left K'un-L'un the same day without having confronted the dragon. 20 years later, Wendell's son Daniel Rand succeeded in winning the Iron Fist power and soon afterwards also returned to Earth. Davos tracked Iron Fist to New York and stole his power, possessing it until it consumed him and Iron Fist absorbed it back into himself.<ref>''Marvel Team-Up'' #64</ref>
+The Steel Serpent is a native of [[K'un-L'un]] named Davos, the son of [[Lei Kung (comics)|Lei Kung the Thunderer]]. A gifted student of the martial arts, Davos was one of the final two candidates for the right to challenge for the power of the Iron Fist but was defeated in single combat by Danny Rand, adopted son of K'un-L'un's ruler, Lord Tuan. Davos accused Tuan of unfairly favoring his son and left the city without permission to confront the dragon Shou-Lao. Failing to defeat the dragon, he returned to K'un L'un in disgrace and was exiled to Earth. Wendell Rand left K'un-L'un the same day without having confronted the dragon. 20 years later, Wendell's son Daniel Rand succeeded in winning the Iron Fist power and soon afterwards also returned to Earth. Davos tracked Iron Fist to New York and stole his power, possessing it until it consumed him and Iron Fist absorbed it back into himself.<ref>''Marvel Team-Up'' #64</ref>
 
 Davos' spirit was cast into a realm accessible from the Anomaly Gem, and through that Davos used the [[Contemplator (Marvel Comics)|Contemplator]] to gather the fragments of the Anomaly Gem and release himself.  Then, he again battled Iron Fist and stole his power; Davos then returned to K'un-L'un and took over the city. Lei Kung allied with Iron Fist, who defeated Davos and restored Yu-Ti's rule.{{Issue|date=May 2011}}
 
@@ -58,12 +58,14 @@ Davos also utilized the fiery energies of the Serpent's Sting, though that may b
 Since taking on the [[Pseudonym#Noms de guerre|nom de guerre]] of the Steel Phoenix, Davos has been able to perform the Steel Phoenix Blow. The first time he executed this move, it allowed him to create a replacement hand (for the one just cut off by Tiger's Beautiful Daughter) out of pure ''chi''.
 
 ==In other media==
-* Davos makes his onscreen debut in season 1 of ''[[Iron Fist (TV series)|Iron Fist]]'', where he is portrayed by [[Sacha Dhawan]]<ref name="Dhawan">{{cite web|url=http://www.digitalspy.com/tv/iron-fist/news/a823764/iron-fist-secret-marvel-villain-davos-sacha-dhawan/|title=There's a secret Marvel villain in Netflix's new Iron Fist series|publisher=[[Digital Spy]]|last=Lee|first=Ben|date=March 17, 2017|accessdate=March 19, 2017|deadurl=no}}</ref> while his younger self is portrayed by Shiv Pai. While he initially was sent to retrieve Danny after he left K'un-Lun,<ref>{{cite episode|title=Black Tiger Steals Heart|series=Marvel's Iron Fist|credits=Hoar, Peter (director); Quinton Peeples (writer)|network=[[Netflix]]|airdate=March 17, 2017|season=1|number=10}}</ref> Davos has a major falling out with Danny due to his envy over him becoming the Iron Fist and straying from his destined purpose.<ref>{{cite episode|title=Bar the Big Boss|series=Marvel's Iron Fist|credits=Goddard, Andy (director); Scott Reynolds (writer)|network=[[Netflix]]|airdate=March 17, 2017|season=1|number=12}}</ref> In the season finale, Davos allies himself with [[Joy Meachum]].<ref>{{cite episode|title=Dragon Plays with Fire|series=Marvel's Iron Fist|credits=Surjik, Stephen (director); Scott Buck, Tamara Becher-Wilkinson and Pat Charles (writer)|network=[[Netflix]]|airdate=March 17, 2017|season=1|number=13}}</ref> In season two, Davos works with [[Typhoid Mary (comics)|Mary Walker]] to abduct Danny and steal the Iron Fist chi from him with help from the Crane Sisters.<ref>{{cite episode|title=Target: Iron Fist|series=Marvel's Iron Fist|credits=Bassett, MJ (director); Jenny Lynn (writer)|network=[[Netflix]]|airdate=September 7, 2018|season=2|number=17}}</ref> After getting the chi, Davos starts attacking the Triad members.<ref>{{cite episode|title=Heart of the Dragon|series=Marvel's Iron Fist|credits=Bassett, MJ (director); Jenny Lynn (writer)|network=[[Netflix]]|airdate=September 7, 2018|season=2|number=18}}</ref> After the ritual is reversed, Davos is nearly killed by Walker until Danny and Misty intervene. Upon Colleen channeling her own Iron Fist chi, Davos is defeated and arrested by Misty Knight. As he is taken away, Davos vows revenge on Danny.<ref>{{cite episode|title=A Duel of Iron|series=Marvel's Iron Fist|credits=[[Jonas Pate|Pate, Jonas]] (director); M. Raven Metzner (writer)|network=[[Netflix]]|airdate=September 7, 2018|season=2|number=23}}</ref>
+===Television===
+* Davos makes his onscreen debut in season 1 of ''[[Iron Fist (TV series)|Iron Fist]]'', where he is portrayed by [[Sacha Dhawan]]<ref name="Dhawan">{{cite web|url=http://www.digitalspy.com/tv/iron-fist/news/a823764/iron-fist-secret-marvel-villain-davos-sacha-dhawan/|title=There's a secret Marvel villain in Netflix's new Iron Fist series|publisher=[[Digital Spy]]|last=Lee|first=Ben|date=March 17, 2017|access-date=March 19, 2017|url-status=live}}</ref> while his younger self is portrayed by Shiv Pai. While he initially was sent to retrieve Danny after he left K'un-Lun,<ref>{{cite episode|title=Black Tiger Steals Heart|series=Marvel's Iron Fist|credits=Hoar, Peter (director); Quinton Peeples (writer)|network=[[Netflix]]|airdate=March 17, 2017|season=1|number=10}}</ref> Davos has a major falling out with Danny due to his envy over him becoming the Iron Fist and straying from his destined purpose.<ref>{{cite episode|title=Bar the Big Boss|series=Marvel's Iron Fist|credits=Goddard, Andy (director); Scott Reynolds (writer)|network=[[Netflix]]|airdate=March 17, 2017|season=1|number=12}}</ref> In the season finale, Davos allies himself with [[Joy Meachum]].<ref>{{cite episode|title=Dragon Plays with Fire|series=Marvel's Iron Fist|credits=Surjik, Stephen (director); Scott Buck, Tamara Becher-Wilkinson and Pat Charles (writer)|network=[[Netflix]]|airdate=March 17, 2017|season=1|number=13}}</ref> In season two, Davos works with [[Typhoid Mary (comics)|Mary Walker]] to abduct Danny and steal the Iron Fist chi from him with help from the Crane Sisters.<ref>{{cite episode|title=Target: Iron Fist|series=Marvel's Iron Fist|credits=Bassett, MJ (director); Jenny Lynn (writer)|network=[[Netflix]]|airdate=September 7, 2018|season=2|number=17}}</ref> After getting the chi, Davos starts attacking the Triad members.<ref>{{cite episode|title=Heart of the Dragon|series=Marvel's Iron Fist|credits=Bassett, MJ (director); Jenny Lynn (writer)|network=[[Netflix]]|airdate=September 7, 2018|season=2|number=18}}</ref> After the ritual is reversed, Davos is nearly killed by Walker until Danny and Misty intervene. Upon Colleen channeling her own Iron Fist chi, Davos is defeated and arrested by Misty Knight. As he is taken away, Davos vows revenge on Danny.<ref>{{cite episode|title=A Duel of Iron|series=Marvel's Iron Fist|credits=[[Jonas Pate|Pate, Jonas]] (director); M. Raven Metzner (writer)|network=[[Netflix]]|airdate=September 7, 2018|season=2|number=23}}</ref>
 
+===Video games===
 * Steel Serpent appears as a playable character in ''[[Lego Marvel Super Heroes 2]]'',<ref>{{cite web|title=Characters|url=http://m.ign.com/wikis/lego-marvel-super-heroes-2/Characters|website=IGN Database|accessdate=28 January 2018}}</ref> with [[Sacha Dhawan]] reprising the role.<ref>[https://www.ign.com/articles/2018/07/24/steel-serpent-explained-who-is-the-iron-fist-season-2-villain]</ref> When Iron Fist, Spider-Man, and Ms. Marvel enter the Cave of the Dragon in K'un-L'un, they find Steel Serpent next to the Dragon's Heart where a fragment of the Nexus of All Realities is which causes Steel Serpent to control Shou-Lao. After Steel Serpent is defeated, Iron Fist claims the Nexus fragment which frees Shou-Lou from its control.
 
 ==References==
-{{reflist}}
+{{Reflist}}
 
 ==External links==
 *[http://www.marvel.com/universe/Steel_Serpent_%28Davos%29 Steel Serpent (Davos)] at the Marvel Universe
@@ -79,6 +81,5 @@ Since taking on the [[Pseudonym#Noms de guerre|nom de guerre]] of the Steel Phoe
 [[Category:Characters created by Tony Isabella]]
 [[Category:Comics characters introduced in 1974]]
 [[Category:Comics characters introduced in 1975]]
-
 [[Category:Marvel Comics martial artists]]
 [[Category:Marvel Comics television characters]]

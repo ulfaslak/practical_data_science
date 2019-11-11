@@ -57,7 +57,6 @@ This is a list of [[Captain America]]'s enemies:
 * [[Cobra (Marvel Comics)|King Cobra]]: Costumed supervillain, known for a phenomenal (mutated) mastery of his musculature in combat situations, and member of the original [[Serpent Squad]]. Also worked commonly alongside Mister Hyde against Captain America and other heroes.
 * '''Kligger''': Former leader of The Corporation, the criminal guise of Senator Eugene Stivak. Often accompanied by his aide Veda (who he personally killed when she eventually gave up her allegiance to the organization).
 * [[Kingpin (comics)|Kingpin]]: A crimelord whom Cap has fought many times.
-* [[Kester Moorhouse]]
 
 ==M==
 * [[Machinesmith]]: A master robot-maker (once a villain known as Starr Saxon) who became a living, cybernetic-system program (artificial consciousness), equipped to transmit itself into virtually any electronics system at will.
@@ -75,7 +74,8 @@ This is a list of [[Captain America]]'s enemies:
 
 ==P==
 * [[Porcupine (comics)|Porcupine]]: A weapons designer clad in "porcupine-like" battle armor.
-* [[Protocide]]: A murderer used as the first test subject of the Super Soldier Serum.
+{{Anchor|Protocide}}
+* Protocide: Clinton McIntyre, a brute savage soldier who murdered his CO, used as the first test subject of the Super Soldier Serum, and revived by [[Advanced Idea Mechanics|A.I.M.]], uses a chevron-shaped shield.
 
 ==R==
 * [[Red Skull]]: Captain America's [[archenemy]], a Nazi super-soldier and Hitler's successor.

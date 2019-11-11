@@ -1,6 +1,7 @@
+
 {{Infobox comics character<!--Wikipedia:WikiProject Comics--> 
 |image=
-|caption=
+|caption=Interior panel of ''[[Fear Itself (comics)|Fear Itself]]: Fellowship of Fear'' #1.
 |character_name=Null
 |real_name=
 |species=[[Demons (Marvel Comics)|Demon]]
@@ -17,7 +18,7 @@
 '''Null''', also called '''Null the Living Darkness''', is a fictional character appearing in [[American comic book]]s published by [[Marvel Comics]]. Null is a [[List of Marvel Comics demons|demon]] and enemy of the [[Defenders (comics)|Defenders]] and the [[Squadron Supreme]].
 
 ==Publication history==
-{{expand-section|date=January 2016}}
+{{expand section|date=January 2016}}
 Null first appeared in ''[[The Defenders (comic book)|Defenders]]'' #103 (January 1982) and was created by [[J. M. DeMatteis|J.M. DeMatteis]] and [[Don Perlin]].
 
 ==Fictional character biography==
@@ -35,13 +36,14 @@ Null is a mystic life-form created over the ages from the collective unconscious
 Null is vulnerable to the mystic energies controlled by certain beings, such as the [[Gargoyle (comics)#Gargoyle (Isaac Christians)|Gargoyle]] and [[Ghost Rider (Johnny Blaze)|Ghost Rider]].{{issue|date=January 2013}}
 
 ==In other media==
-Null appears in the ''[[Hulk and the Agents of S.M.A.S.H.]]'' episode "Fear Itself", voiced by [[John DiMaggio]].{{cn|date=March 2017}} In the series, Null is an entity that thrives on fear and uses his victim's phobias to manifest a physical form before attacking the nearest planet. While on the path back to Earth, the Agents of S.M.A.S.H. find [[Silver Surfer]] fighting Null until he is knocked out. Null uses its powers to bring the fears of the Agents of S.M.A.S.H. to life: using [[Hulk (comics)|Hulk]]'s fear of losing control in the form of Dark Hulk, [[Rick Jones (comics)|A-Bomb]]'s fear of clowns in the form of [[Obnoxio the Clown]], [[She-Hulk]]'s fear of the cold by slowly encasing her in ice, [[Thunderbolt Ross|Red Hulk]]'s fear of losing his strength by rendering him weak and extremely scrawny and Skaar's fear of robots by manifesting robots. Null also brought [[Leader (comics)|Leader]]'s fear of losing his intelligence to life by shrinking his large head until he is reduced to a babbling idiot. When Silver Surfer regains consciousness, he helps the Agents of S.M.A.S.H. fight Null after gaining physical form with plans to invade Earth through a wormhold and feed on the fear of its inhabitants. After the Agents of S.M.A.S.H. defeat Null, forcing the entity to become non-corporeal and powerless, Silver Surfer closes the wormhole from the other side as he vows to the Agents of S.M.A.S.H. that he will tell Earth about their heroic actions in their fight against Null.
+Null appears in the ''[[Hulk and the Agents of S.M.A.S.H.]]'' episode "Fear Itself", voiced by [[John DiMaggio]].{{citation needed|date=March 2017}} In the series, Null is an entity that thrives on fear and uses his victim's phobias to manifest a physical form before attacking the nearest planet. While on the path back to Earth, the Agents of S.M.A.S.H. find [[Silver Surfer]] fighting Null until he is knocked out. Null uses its powers to bring the fears of the Agents of S.M.A.S.H. to life: using [[Hulk]]'s fear of losing control in the form of Dark Hulk, [[Rick Jones (comics)|A-Bomb]]'s fear of clowns in the form of [[Obnoxio the Clown]], [[She-Hulk]]'s fear of the cold by slowly encasing her in ice, [[Thunderbolt Ross|Red Hulk]]'s fear of losing his strength by rendering him weak and extremely scrawny and Skaar's fear of robots by manifesting robots. Null also brought [[Leader (comics)|Leader]]'s fear of losing his intelligence to life by shrinking his large head until he is reduced to a babbling idiot. When Silver Surfer regains consciousness, he helps the Agents of S.M.A.S.H. fight Null after gaining physical form with plans to invade Earth through a wormhold and feed on the fear of its inhabitants. After the Agents of S.M.A.S.H. defeat Null, forcing the entity to become non-corporeal and powerless, Silver Surfer closes the wormhole from the other side as he vows to the Agents of S.M.A.S.H. that he will tell Earth about their heroic actions in their fight against Null.
 
 ==References==
 {{reflist}}
 
 ==External links==
 * {{Marvunapp|http://www.marvunapp.com/Appendix3/nullthelivingdarkness.htm|Null}}
+* {{Marveldatabase|Null the Living Darkness (Earth-616)|Null the Living Darkness}}
 
 {{Defenders}}
 

@@ -7,6 +7,7 @@
 |creators = [[Stan Lee]] (Writer)<br>[[Steve Ditko]] (Artist)
 |full_name =
 |alliances =[[Sinister Six]]<br>[[Parker Industries]]
+|supports=[[Spider-Man]]<br />[[Doctor Octopus]]
 |aliases =
 |powers = Superhuman strength and speed<br>Flight<br>Clawed hands<br>Limbs that can rotate at nearly 360 degrees<br>Ability to analyze any situation and determine how best to achieve its goals, process and collate large amounts of information and find any weaknesses in a being or structure<br>'''Originally''':<br>External controls on its thorax
 }}
@@ -100,7 +101,8 @@ In the ''[[Marvel Age]]'' Universe, the Living Brain (radically redesigned, with
 The Living Brain appears among the villains defeated by Spider-Man in ''What If?: J. Jonah Jameson Adopted Spider-Man?''<ref>{{Cite comic|writer = William Messner-Loebs|penciller = Anthony Williams|inker = Andy Lanning|colorist = Maria Parwulski|letterer = Gaspar Saladino|editor = Marc McLaurin|story = What If... J. Jonah Jameson Adopted Spider-Man?|title = What If?|volume = 2|issue = #82|date = 10 February 1996|publisher = Marvel Comics|location = United States}}</ref>
 
 ==In other media==
-The Living Brain appears in the ''[[Spider-Man (2017 TV series)|Spider-Man]]'' episodes "Brain Drain" and "The Living Brain", voiced by [[Scott Menville]].<ref>{{cite episode|title=Living Brain|series=Spider-Man|network=Disney XD|season=2|number=38|airdate=August 13, 2018}}</ref> This version is entirely different from the comics, by having legs instead of wheels among other things, and was created by Horizon High from the same technology as the Neuro-Cortex. However, Doctor Octopus' mind was inside it and he played along as being a servant until he tricked Spider-Man into getting an energy-focal device, having orchestrated events and using Living Brain as part of a master plan. When in the Supervillain Holding Facility, the objective of Doctor Octopus' plan is revealed when he switches bodies with Spider-Man, allowing Doctor Octopus to be Spider-Man and Peter Parker's mind to be trapped in Living Brain's defeated body.
+===Television===
+* The Living Brain appears in the ''[[Spider-Man (2017 TV series)|Spider-Man]]'', voiced by [[Scott Menville]].<ref>{{cite episode|title=Living Brain|series=Spider-Man|network=Disney XD|season=2|number=38|airdate=August 13, 2018}}</ref> This version is completely different from the comics, by having legs instead of wheels and being created by Horizon High from the same technology as the Neuro Cortex. In the episode "Brain Drain", Doctor Octopus' consciousness was inside it and he played along as being a servant until he tricked Spider-Man into getting an energy-focal device, having orchestrated the events of the "Bring on the Bad Guys" arc. In his-self titled episode, the Living Brain's objective in Octavius' plan is revealed when he switches bodies with Spider-Man. In the episode "Critical Update", the Living Brain's remains are recovered by [[Max Modell]], enabling Peter's consciousness to escape it using the Neruo Cortex.
 
 ==References==
 {{reflist}}

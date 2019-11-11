@@ -7,7 +7,8 @@ image           = [[Image:Spiral (Marvel character).PNG]]
 |debut          = ''[[Longshot (Marvel Comics)|Longshot]]'' #1 (September, 1985)
 |creators       = [[Ann Nocenti]] (writer)<br>[[Art Adams]] (artist)
 |alliances      = [[Brotherhood of Mutants|Sisterhood of Mutants]]<br/>[[Freedom Force (comics)|Freedom Force]]<br/>[[X-Force]]<ref>''Uncanny X-Force Vol. 2''</ref>
-|aliases        = "Ricochet" Rita, The Apocalypse
+|species        = [[Mutate (comics)|Human mutate]]
+|aliases        = "Ricochet" Rita, The Apocalypse 
 |partners       = [[Mojo (comics)|Mojo]]
 |powers         = *Multiple arms
 *Enhanced strength
@@ -17,7 +18,7 @@ image           = [[Image:Spiral (Marvel character).PNG]]
 *Skilled in cybernetics and genetics
 *Metamorphosis
 }}
-'''Spiral''' ('''Rita Wayword''') is a fictional [[supervillain]] turned [[superhero]] appearing in [[American comic book]]s published by [[Marvel Comics]], commonly in association with [[Longshot (Marvel Comics)|Longshot]] or the [[X-Men]]. Created by writer [[Ann Nocenti]] and artist [[Art Adams]], the character first appeared in ''[[Longshot (Marvel Comics)|Longshot]]'' #1 (September, 1985), in which she was established as a lieutenant for that titular character's archenemy, [[Mojo (comics)|Mojo]]. Prior to Longshot joining the X-Men, Spiral also became a recurring adversary of that team and each of the various X-Men subgroups, as well as serving as the [[archenemy]] turned ally of X-Men member, [[Psylocke]].
+'''Spiral''' ('''Rita Wayword''') is a fictional [[supervillain]] turned [[superhero]] appearing in [[American comic book]]s published by [[Marvel Comics]], commonly in association with [[Longshot (Marvel Comics)|Longshot]] or the [[X-Men]]. Created by writer [[Ann Nocenti]] and artist [[Art Adams]], the character first appeared in ''[[Longshot (Marvel Comics)|Longshot]]'' #1 (September, 1985), in which she was established as a lieutenant for that titular character's archenemy, [[Mojo (comics)|Mojo]]. Prior to Longshot joining the X-Men, Spiral also became a recurring adversary of that team and each of the various X-Men subgroups, as well as serving as the [[archenemy]] turned ally of X-Men member, [[Psylocke]]. She then joined a team of [[X-Force]] led by [[X-Men]] member [[Storm (Marvel Comics)|Storm]].
 
 ==Publication history==
 Spiral first appeared in issue #1 of the 1985 ''[[Longshot (Marvel Comics)|Longshot]]'' [[Limited series (comics)|miniseries]] by [[Ann Nocenti]] and [[Art Adams]] (though her alter ego Ricochet Rita did not debut until the second issue of the series), and subsequently appeared 2 months later as a member of [[Mystique (comics)|Mystique's]] [[Freedom Force (comics)|Freedom Force]] team in ''[[Uncanny X-Men]]'' #199.<ref>''Uncanny X-Men'' #199</ref> Spiral began as one of 20 minor characters that Adams designed on a character sheet as the pursuers of the character Longshot.<ref name=ComicsInterview>[[Kraft, David Anthony]] (1987). ''[[Comics Interview]]'' #46 (1987). [[Fictioneer Books]]. pp. 16 - 27.</ref><ref>{{cite journal|last=Ash|first=Roger |title=Ann Nocenti and Arthur Adams Bet on a Longshot|journal=[[Back Issue!]]|issue=29 |pages=26-31|publisher=[[TwoMorrows Publishing]]|date=August 2008|location=Raleigh, North Carolina}}</ref> Her six arms were inspired by deities in [[Hindu mythology]].<ref name=MarvelAge>"Art Adams interview". "The Mutant Report". Volume 3. ''[[Marvel Age]]'' #71 (February 1989). Marvel Comics. pp. 12 - 15.</ref> Although Adams gave little thought to Spiral, as he had developed ideas for the other characters he had drawn on the sheet, Nocenti decided to make her a major character, and gave her the name Spiral.<ref name=ComicsInterview/> The character sheet is reproduced in the back of the ''X-Men: Longshot'' hardcover collection.<ref>[[Nocenti, Ann]] (w), [[Adams, Art]] (p), [[Portacio, Whilce]]; Anderson, Brent Eric (i). ''X-Men: Longshot''. 1989. Marvel Comics.</ref>
@@ -83,7 +84,7 @@ Spiral has powerful mystical abilities. When Spiral was first introduced, she wa
 
 Spiral's mind is apparently immune to possession. When [[Rogue (comics)|Rogue]] attempted to use her power-and-psyche-stealing ability to steal Spiral's mind and powers, Spiral stole Rogue's instead, laughing that she had danced in many people's souls. [[Nocturne (Talia Wagner)|Nocturne]] was fooled by Spiral into thinking Spiral had been possessed while Spiral remained in control.{{issue|date=January 2014}}
 
-It was also established that Spiral is aware, through unknown mystical means, whenever a person speaks her name.<ref>''[[Wolverine (comic book)|Wolverine]] Vol. #2. Issue #51. Marvel Comics.</ref> As a result of being cybernetically enhanced on Mojo-world, she has some limited level of superhuman physical attributes.{{issue|date=January 2014}}
+It was also established that Spiral is aware, through unknown mystical means, whenever a person speaks her name, even filtering out mundane uses of the word "spiral".<ref>''[[Wolverine (comic book)|Wolverine]] Vol. #2. Issue #51. Marvel Comics.</ref> As a result of being cybernetically enhanced on Mojo-world, she has some limited level of superhuman physical attributes.{{issue|date=January 2014}}
 
 Spiral is a highly skilled hand-to-hand combatant, acrobat, and sword fighter. Her six arms are fully coordinated, giving her great dexterity and athletic ability.{{issue|date=January 2014}} Spiral demonstrated highly developed skills in cybernetics and genetic manipulation which she has used to turn humans into powerful cyborgs at her Body Shoppe. The most notable include [[Lady Deathstrike]] and the cybernetic [[Reavers (comics)|Reavers]], who have since been "upgraded" by Donald Pierce.<ref>''Uncanny X-Men #205''</ref>
 
@@ -115,6 +116,7 @@ In the pages of ''[[Old Man Logan]]'', the elderly Logan had awoken on Earth-616
 
 ==External links==
 * [http://uncannyxmen.net/characters/spiral-swords-spells-slavery-the-saga-of-spiral Swords, Spells, & Slavery: The Saga of Spiral] at UncannyXmen.net
+* {{Marveldatabase|Spiral}}
 
 {{X-Men}}
 
@@ -124,7 +126,7 @@ In the pages of ''[[Old Man Logan]]'', the elderly Logan had awoken on Earth-616
 [[Category:Comics characters introduced in 1985]]
 [[Category:Female characters in comics]]
 [[Category:Female supervillains]]
-[[Category:Fictional assassins]]
+[[Category:Fictional female assassins]]
 [[Category:Fictional geneticists]]
 [[Category:Fictional roboticists]]
 [[Category:Fictional engineers]]
@@ -141,3 +143,4 @@ In the pages of ''[[Old Man Logan]]'', the elderly Logan had awoken on Earth-616
 [[Category:Marvel Comics superheroes]]
 [[Category:Marvel Comics supervillains]]
 [[Category:Marvel vs. Capcom fighters]]
+[[Category:Marvel Comics female superheroes]]

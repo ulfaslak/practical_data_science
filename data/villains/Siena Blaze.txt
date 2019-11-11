@@ -1,5 +1,8 @@
+{{Multiple issues|
 {{Notability|date=August 2018}}
 {{In-universe|date=August 2018}}
+}}
+
 {{Infobox comics character| image= Siena Blaze.jpg
 |caption=
 |character_name=Siena Blaze
@@ -19,7 +22,7 @@
 Siena Blaze starts out as a member of the thrill-seeking [[Upstarts (comics)|Upstarts]], a group of mutants who hunt other mutants for sport. She participates in several confrontations with members of the [[X-Men]], first battling [[Cyclops (Marvel Comics)|Cyclops]], [[Professor X]]avier and [[Storm (Marvel Comics)|Storm]] in [[Antarctica]] after nearly killing the trio with an explosion.<ref>''X-Men Unlimited'' #1</ref> There is a later incident in which she confronts [[Nightcrawler (comics)|Nightcrawler]], [[Kitty Pryde|Shadowcat]], and [[Rachel Summers]].<ref>''Excalibur'' #73</ref> Siena proves formidable in both encounters, fighting to a draw each time before parting ways.
 
 ===Exiles===
-Later she attempts to kill the villain [[Reaper (Marvel Comics)|Reaper]] for the relatively small amount of points it would bring her in the 'Upstarts' mutant-slaying competition. This fails when the fight is broken up by [[Amber Hunt (comics)|Amber Hunt]], a being from another dimension. Her problems suck in Reaper and Blaze to her homeworld, where she discovers her powers have somehow been diminished to half of their normal strength. The two join up with the [[Exiles (Malibu Comics)|Exiles]]. Other members include the Juggernaut and Warstrike, a man who dreams of the future.<ref>''The All New Exiles'' Infinity (September 1995)</ref> Surprisingly, Siena adapts to the role of hero. For example, she helps rescue two strangers from the grip of an energy entity.<ref>''Exiles'' #9 (1996)</ref> She feels a strong attraction to team leader Warstrike. Eventually she, Juggernaut, and Reaper are returned to the Marvel Universe where she regains her full power.<ref>Ultraforce (vol. 2) #13</ref>
+Later she attempts to kill the villain [[Reaper (Marvel Comics)|Reaper]] for the relatively small number of points it would bring her in the 'Upstarts' mutant-slaying competition. This fails when the fight is broken up by [[Amber Hunt (comics)|Amber Hunt]], a being from another dimension. Her problems suck in Reaper and Blaze to her homeworld, where she discovers her powers have somehow been diminished to half of their normal strength. The two join up with the [[Exiles (Malibu Comics)|Exiles]]. Other members include the Juggernaut and Warstrike, a man who dreams of the future.<ref>''The All New Exiles'' Infinity (September 1995)</ref> Surprisingly, Siena adapts to the role of hero. For example, she helps rescue two strangers from the grip of an energy entity.<ref>''Exiles'' #9 (1996)</ref> She feels a strong attraction to team leader Warstrike. Eventually she, Juggernaut, and Reaper are returned to the Marvel Universe where she regains her full power.<ref>Ultraforce (vol. 2) #13</ref>
 
 ===Death and return===
 {{Update|section|date=August 2017}}
@@ -36,6 +39,9 @@ In the [[video game]] ''[[X-Men 2: Game Master's Legacy|X-Men 2: Gamesmaster's L
 
 ==References==
 {{Reflist}}
+
+== External links ==
+* {{Marveldatabase}}
 
 {{DEFAULTSORT:Blaze, Siena}}
 [[Category:Characters created by Scott Lobdell]]

@@ -1,3 +1,7 @@
+<!-- Please do not remove or change this AfD message until the discussion has been closed. -->
+{{Article for deletion/dated|page=Cutthroat (comics)|timestamp=20191107133734|year=2019|month=November|day=7|substed=yes|help=off}}
+<!-- Once discussion is closed, please place on talk page: {{Old AfD multi|page=Cutthroat (comics)|date=7 November 2019|result='''keep'''}} -->
+<!-- End of AfD message, feel free to edit beyond this point -->
 {{Notability|date=August 2018}}
 {{In-universe|date=August 2018}}
 {{Superherobox <!--Wikipedia:WikiProject Comics-->
@@ -40,6 +44,9 @@ Cutthroat is a master at various forms of unarmed combat, having received specia
 
 ==References==
 {{reflist}}
+
+== External links ==
+* {{Marveldatabase|Cutthroat}}
 
 {{Captain America}}
 

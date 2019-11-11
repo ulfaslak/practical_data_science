@@ -20,7 +20,7 @@
 Murderworld first appeared in ''[[Marvel Team-Up]]'' #66 (February, 1978).
 
 ==Fictional history==
-Rather than being a single location, '''Murderworld''' is the name given to the fairground/amusement park style deathtrap used by the assassin-for-hire [[Arcade (Marvel Comics)|Arcade]]. Utilizing sophisticated robotic and holographic systems, Arcade has frequently pitted various superheroes against Murderworld, sometimes for money and sometimes merely for the challenge. Arcade has build Murderworlds under [[Manhattan]],<ref>''Marvel Team-Up'' #66</ref> on a [[Caribbean Sea|Caribbean]] island,<ref>''Claws'' #3</ref> in [[Antarctica]],<ref>''Avengers Arena'' #7</ref> in [[England]],<ref>''Excalibur'' #5</ref> and numerous other locations around the world.
+Rather than being a single location, '''Murderworld''' is the name given to the fairground/amusement park style deathtrap used by the assassin-for-hire [[Arcade (Marvel Comics)|Arcade]]. Utilizing sophisticated robotic and holographic systems, Arcade has frequently pitted various superheroes against Murderworld, sometimes for money and sometimes merely for the challenge. Arcade has built Murderworlds under [[Manhattan]],<ref name="MTU66" /> on a [[Caribbean Sea|Caribbean]] island,<ref>''Claws'' #3</ref> in [[Antarctica]],<ref>''Avengers Arena'' #7</ref> in [[England]],<ref>''Excalibur'' #5</ref> and numerous other locations around the world.
 
 ===First Murderworld===
 The first known Murderworld was built underground beneath an amusement park in [[Manhattan]]. A large portion of this Murderworld was a large scale pinball machine used as a prelude to shake up his victims, but it also contained trapdoors, mazes, booby traps, and a variety of killer robotics.<ref name="MTU66">''Marvel Team-Up'' #66</ref><ref name="UXM123-4">''X-Men'' #123-#124</ref><ref name="UXM204">''Uncanny X-Men'' #204</ref>
@@ -35,7 +35,7 @@ When Arcade was captured by [[Doctor Doom]], the reserve X-Men [[Iceman (Marvel 
 After leaving [[Camp Verde]], [[Cable (comics)|Cable]] and [[Domino (comics)|Domino]] decided to use Arcade's abandoned Murderworld as the new base of operations for [[X-Force]]. Murderworld provided a secure base and training area underground, but still offered access to Manhattan making an ideal headquarters.<ref>''X-Force'' #40</ref> Not long after X-Force took up residency in Murderworld, Arcade remotely detonated explosives hidden within it, destroying most of the structure.<ref>''Cable'' #21</ref>
 
 ====New Warriors====
-When [[Night Thrasher]] reformed the [[New Warriors]] with [[Mutants|depowered mutants]], he used the abandoned Murderworld as their base of operation. Together Night Thrasher, Kaz and Grace rebuild and converted the Murderworld mechanics into a new [[Danger Room]] for the new New Warriors to train.<ref>''New Warriors'' Vol 4 #3-#16</ref>
+When [[Night Thrasher]] reformed the [[New Warriors]] with [[mutant (Marvel Comics)||depowered mutants]], he used the abandoned Murderworld as their base of operation. Together Night Thrasher, Kaz and Grace rebuild and converted the Murderworld mechanics into a new [[Danger Room]] for the new New Warriors to train.<ref>''New Warriors'' Vol 4 #3-#16</ref>
 
 ====Sentience====
 Years later, [[Kitty Pryde]] and [[Vision (Marvel Comics)|Vision]] were trapped in the remains of this original Murderworld. They were brought there by the Murderworld mainframe, which had gained sentience and wanted to commit suicide.<ref>''A + X'' #18</ref>
@@ -43,7 +43,7 @@ Years later, [[Kitty Pryde]] and [[Vision (Marvel Comics)|Vision]] were trapped 
 ===Doorway to Destiny===
 When working with the [[Crazy Gang (Earth-616)|Crazy Gang]], Arcade kidnapped [[Courtney Ross (Earth-616)|Courtney Ross]] because she escaped from his previous Murderworld. Arcade created a theatre and Wonderland inspired Murderworld called ''The Doorway to Destiny''. However, Courtney Ross was rescued by [[Excalibur (Earth-616)|Excalibur]].<ref>''Excalibur'' #4-#5</ref> Captain Britain and Shadowcat continued to have multiple run-ins with Arcade and his Murderworld.<ref>''Marvel Comics Presents'' #32-#33</ref><ref>''Marvel Comics Presents'' #36-#38</ref>
 
-===[[Mutant Town]]===
+===Mutant Town===
 To kill [[Rictor (comics)|Rictor]] and destroy [[X-Factor Investigations]], the former [[Purifiers (comics)|Purifiers]]  Mr. Taylor hired Arcade to build a Murderworld in inside the closed [[Power Plant|Power Plant bar]] in the heart of [[Mutant Town]]. Although the members of X-Factor escaped, this Murderworld led to the complete destruction of Mutant Town.<ref>''X-Factor'' Vol 3 #29-#30</ref>
 
 ===Murder Island===
@@ -90,13 +90,13 @@ Realizing that mercenaries have less to fight for than heroes who always escape 
 ** [[Warpath (comics)|Warpath (Jimmy Proudstar)]]
 ** [[Siryn|Siryn (Terry Rourke)]]
 * [[New Warriors]]
-** [[Jubilee (comics)|Wondra (Jubilation Lee)]]
+**[[Jubilee (comics)|Wondra (Jubilation Lee)]]
 ** [[Skybolt (comics)|Skybolt (Vincent Stewart)]]
 ** [[Blackwing|Blackwing (Barnell Bohusk)]]
 ** Ripcord (Miranda Leevald)
 ** [[Night Thrasher]]
 ** [[Tempest (comics)|Tempest]]
-** [[Decibel]]
+**[[Chamber (comics)|Decibel]]
 ** [[Longstrike|Longstrike (Christine Cord)]]
 ** [[Phaser (comics)|Phaser (Christian Cord)]]
 ** [[Grace (comics)|Grace]]

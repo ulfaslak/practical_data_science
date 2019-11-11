@@ -1,3 +1,4 @@
+{{short description|Character from Marvel Comics}}
 {{In-universe|date=August 2018}}
 {{Notability|date=August 2018}}
 {{Superherobox| <!--Wikipedia:WikiProject Comics-->
@@ -19,6 +20,8 @@
 
 '''Andromeda Attumasen''' is a [[fictional character]] appearing in [[American comic book]]s published by [[Marvel Comics]]. The character is an [[Atlantis (Marvel Comics)|Atlantean]] of Marvel's [[shared universe]], known as the [[Marvel Universe]]. She is the illegitimate daughter of [[Attuma]]
 
+== Publication history ==
+{{expand-section|date=July 2019}}
 Andromeda was introduced in ''[[Defenders (comics)|The Defenders]]'' #143 (March 1985) and added to the titular supergroup's lineup just a few issues later. Writer [[Peter B. Gillis]] later revealed, "My long-term plan was to populate the Defenders with my own crew of characters, characters who nonetheless had ties to interesting parts of the Marvel Universe. Andromeda, while not [[Namor|the Sub-Mariner]], gave me a connection to Atlantis." However, Andromeda would be the last character Gillis added to the Defenders, since shortly after her debut he was told that the series was being cancelled.<ref>{{cite journal |last=DeAngelo|first=Daniel|date=July 2013|title=The Not-Ready-For-Super-Team Players: A History of the Defenders |journal=[[Back Issue!]]|issue=65|page=15 |publisher=[[TwoMorrows Publishing]]}}</ref>
 
 ==Fictional character biography==
@@ -53,6 +56,7 @@ Andromeda also has extensive knowledge of biochemistry.
 
 ==External links==
 * {{Marvunapp|http://www.marvunapp.com/Appendix3/andromedadef.htm|Andromeda}}
+* {{Marveldatabase|Andromeda}}
 
 {{Namor}}
 {{Defenders}}
@@ -62,3 +66,4 @@ Andromeda also has extensive knowledge of biochemistry.
 [[Category:Marvel Comics Atlanteans (Homo mermanus)]]
 [[Category:Marvel Comics characters with superhuman strength]]
 [[Category:Marvel Comics superheroes]]
+[[Category:Marvel Comics female superheroes]]

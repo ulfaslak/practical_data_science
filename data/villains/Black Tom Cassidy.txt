@@ -11,7 +11,7 @@
 |alliances=[[Brotherhood of Mutants]] 
 |partners=[[Juggernaut (comics)|Juggernaut]]<br>[[Siryn (comics)|Siryn]]<ref name="SW"/> 
 |aliases=
-|powers=Concussive blasts conducted through wooden media<br>''Formerly:''<br>Plant manipulation<br>Immunity to powers of [[Banshee (comics)|Banshee]]
+|powers=Bio-kinetic energy channeling<br>Wood manipulation<br>Force-field creation<br>Energy-enhanced strike<br>''Formerly:''<br>Immunity to powers of [[Banshee (comics)|Banshee]]<br>Chlorokinetic mimicry<br>Plant manipulation<br>Plant consciousness<br>Life-force absorption
 }}
 '''Black Tom Cassidy''' ('''Thomas Samuel Eamon Cassidy''') is a fictional [[supervillain]] appearing in [[American comic book]]s published by [[Marvel Comics]]. The character is usually depicted as an enemy of the [[X-Men]], and of his cousin, [[Banshee (comics)|Banshee]]. In addition to fighting the X-Men, he has clashed with [[Deadpool]] a number of times.
 
@@ -20,8 +20,15 @@ Black Tom is a [[Mutant (Marvel Comics)|mutant]] who can manipulate, bond with, 
 Black Tom Cassidy makes his film debut in ''[[Deadpool 2]]'', played by [[Jack Kesy]].
 
 ==Publication history==
-{{expand section|date=July 2016}}
-Created by writer [[Chris Claremont]] and artist [[Dave Cockrum]], Black Tom Cassidy first appeared as a shadowy figure in ''[[Uncanny X-Men]]'' #99 (June 1976). He Later made his first full appearance in ''[[Uncanny X-Men]]'' #101 (October 1976).
+Created by writer [[Chris Claremont]] and artist [[Dave Cockrum]], Black Tom Cassidy first appeared as a shadowy figure in ''[[Uncanny X-Men]]'' #99 (June 1976). He Later made his first full appearance in ''[[Uncanny X-Men]]'' #101 (October 1976), followed by editions #102 (September 1976), and #103 (November 1976). He later appeared in editions #122 (March 1979), #218 (March 1987), #361 (September 1998), #369 (April 1999), #411 (August 2002), #412 (September 2002), #464 (September 2005). Black Tom Cassidy also made an appearance in the Uncanny X-Men (2016) series, showing up in editions #11 through #14 (August 2016 - October 2016). 
+
+Black Tom Cassidy also appeared in other core comics like Spider-Woman editions #37 and #38 (February 1981 and April 1981); Amazing Spider-Man #229 and #230 (April 1982 and May 1982); Marvel Team-Up #150 (November 1984); Venom: The Madness #1 and #2 (September 1993 and October 1993); Generation X #18, #23, #24, #25, #60, and #61 (June 1996, November 1996, December 1996, January 1996, December 1999, January 2000); and New Excalibur #6, #7, and #13 (April 2006, May 2006, November 2006). He also appeared in two flashback comics: Classic X-Men #11 [A Story] (April 1987) and Classic X-Men #16 [B Story] (September 1987). There were also appearances of him in X-Men Forever #3 (January 2001), and Cyclops #1 (August 2001)
+
+Some other appearances were in several of the Deadpool series including: The Circle Chase #1 and #2 (June 1993 and July 1993), Deadpool #1, #2, #3, #4 (June 1994- September 1994) and Deadpool (2008) #58, #59, #60 (July 2012 - September 2012).
+
+Finally, Black Tom was in X-Force (1991) editions #1, #2, #3, #4, and #5 (June 1991 - October 1991), while also making appearances in Generation X (1994) #18 (June 1996), #23 (November 1996) #24 (December 1996) and #25 (January 1997). He also appeared in X-Men (1991) #88 (March 1999), #158 (June 2004), #160 - #164 (August 2004 - November 2004).
+
+To date, he has appeared a total of 59 times<ref>{{Cite web|url=https://cmro.travis-starnes.com/character_details.php?page=2&character=916&list_type=2&limit=40&order_listing=1|title=Complete Marvel Reading Order|access-date=17 August 2019}}</ref>.
 
 ==Fictional character biography==
 ===Family===
@@ -72,9 +79,13 @@ Black Tom is a good hand-to-hand combatant, and skilled with bladed weapons:  he
 
 Black Tom very briefly possessed the powers of the Juggernaut at half their full might.<ref name="MTU150"/>
 
-Later, his [[physiology]] and [[morphology (biology)|morphology]] were radically changed, and he became a humanoid plant form capable of living in several different bodies and infecting foliage and trees to make them a part of his body.<ref>''Uncanny X-Men'' #410</ref> This made him difficult to restrain or destroy because it was nearly impossible to destroy every part of his body, as much of it could be kept underground, and because he could invade other plants with his life force to add them to his own body. While in this form, he was also able to [[siphon]] off the life energy of living beings by sending specialized tendrils into their [[body cavity|body cavities]]. However, the process seemed to have affected his mind, and he was not in full control of himself.{{issue|date=March 2016}}
+Later, his [[physiology]] and [[morphology (biology)|morphology]] were radically changed, and he became a humanoid plant form capable of living in several different bodies and infecting foliage and trees to make them a part of his body.<ref>''Uncanny X-Men'' #410</ref> This made him difficult to restrain or destroy because it was nearly impossible to destroy every part of his body, as much of it could be kept underground.<ref>''Generation X'' Vol. 1 #25 (March, 1997)</ref> Because he could invade other plants with his life force he could assimilate them into himself adding the excess plant mass to his own body.<ref>''X-Men'' Vol. 2 #164 (Jan, 2005)</ref>
 
-After M-Day, in which most mutants lost their powers, he lost his [[secondary mutation|alterations]] and his human form was restored,<ref>''New Excalibur'' #7</ref> though he has since demonstrated both his bio-blast and plant control powers.<ref>''Deadpool'' vol 2 #59</ref>
+Through this Secondary Mutation, Thomas also had the ability to generate plantlike clones of himself and/or others. Even recreating their powers like he done through a clone of Mondo he'd been controlling for months.<ref>''Generation X'' Vol. #1 (Nov, 1994)</ref> 
+
+While in his plant form, he was also able to directly supplant a person's physical motor skills by latching vines/coils directly into their nervous system to hotwire their motor skills.<ref>''Generation X'' Vol. 1 #25 (March, 1997)</ref> These specialized tendrils could also be used to [[siphon]] off the life energy of living beings by sending them into living [[body cavity|body cavities]].<ref>''Uncanny X-Men'' Vol. 1 #411 (Oct, 2002)</ref> However, the process seemed to have affected his mind, and he was not in full control of himself.<ref>''Uncanny X-Men'' Vol. 1 #412 (Nov, 2002)</ref>
+
+After M-Day, in which most mutants lost their powers, he lost his [[secondary mutation|alterations]] and his human form was restored,<ref>''New Excalibur'' #7</ref> though he has since demonstrated both his bio-blast and tree control powers.<ref>''Deadpool'' vol 2 #59</ref> Thomas also leaned to channel energy through his walking stick in different ways, either creating an energy barrier or increasing its bludgeoning power if need be.<ref>''X-Men: Blue'' Vol. 2 #1</ref>
 
 ==Other versions==
 ===X-Men Noir===
@@ -90,7 +101,7 @@ Black Tom is mentioned in thought by [[Rachel Summers]] as having been alive [[D
 Black Tom appears in the ''[[X-Men (TV series)|X-Men]]'' episodes "Phoenix Saga (Part 3): The Cry of the Banshee" and "Phoenix Saga (Part 4): The Starjammers". He is hired by [[Erik the Red (comics)|Erik the Red]] and teams up with Juggernaut to kidnap [[Lilandra Neramani]]. In the series continuity, Tom and Banshee are referred to as siblings, with Banshee being the elder. After a battle with the X-Men and his brother, [[Gladiator (Kallark)|Gladiator]] comes to Earth and fight against Juggernaut, throwing him far into the sea. Black Tom quickly leaves.
 
 ===Film===
-[[Jack Kesy]] portrays Black Tom Cassidy in ''[[Deadpool 2]]''.<ref name="CutMutants">{{cite web|url=https://screenrant.com/deadpool-2-mutants-black-tom-sluggo-mr-x/|title=Deadpool 2 Almost Had More Mutants Using A Lot More Mutant Powers|last=Faierman|first=Leo|website=Screen Rant|date=May 17, 2018|accessdate=May 19, 2018|archiveurl=https://www.webcitation.org/6zVcFmyae|archivedate=May 19, 2018|deadurl=no}}</ref> He is seen as an inmate at the Icebox, a prison for mutants. His powers are never shown as he wears a collar preventing him from using them. [[Deadpool]] and [[Rusty Collins|Russell (Firefist)]] encounter him and he and his goons beat them up. Later when the prisoners are being transported, Deadpool and [[Cable (comics)|Cable]] show up and begin fighting. During the fight, Cable's gun goes off and he accidentally shoots Cassidy, killing him instantly. For most of the movie, there is a running gag about Cassidy's name as he is sometimes mistakenly called African-American due to the fact the word "black" is in his name.
+[[Jack Kesy]] portrays Black Tom Cassidy in ''[[Deadpool 2]]''.<ref name="CutMutants">{{cite web|url=https://screenrant.com/deadpool-2-mutants-black-tom-sluggo-mr-x/|title=Deadpool 2 Almost Had More Mutants Using A Lot More Mutant Powers|last=Faierman|first=Leo|website=Screen Rant|date=May 17, 2018|accessdate=May 19, 2018|archiveurl=https://www.webcitation.org/6zVcFmyae|archivedate=May 19, 2018|url-status=live}}</ref> He is seen as an inmate at the Icebox, a prison for mutants. His powers are never shown as he wears a collar preventing him from using them. [[Deadpool]] and [[Rusty Collins|Russell (Firefist)]] encounter him and he and his goons beat them up. Later when the prisoners are being transported, Deadpool and [[Cable (comics)|Cable]] show up and begin fighting. During the fight, Cable's gun goes off and he accidentally shoots Cassidy, killing him instantly. For most of the movie, there is a running gag about Cassidy's name as Deadpool mistakenly believes he is African-American due to the fact the word "black" is in his name and as a result believes Cable to be a racist.
 
 ==References==
 {{Reflist}}
@@ -100,6 +111,7 @@ Black Tom appears in the ''[[X-Men (TV series)|X-Men]]'' episodes "Phoenix Saga 
 
 {{X-Men}}
 {{Deadpool}}
+{{Spider-Man characters}}
 
 [[Category:Characters created by Chris Claremont]]
 [[Category:Characters created by Dave Cockrum]]

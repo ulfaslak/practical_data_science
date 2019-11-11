@@ -1,3 +1,7 @@
+<!-- Please do not remove or change this AfD message until the discussion has been closed. -->
+{{Article for deletion/dated|page=Big Man (comics)|timestamp=20191105153742|year=2019|month=November|day=5|substed=yes|help=off}}
+<!-- Once discussion is closed, please place on talk page: {{Old AfD multi|page=Big Man (comics)|date=5 November 2019|result='''keep'''}} -->
+<!-- End of AfD message, feel free to edit beyond this point -->
 '''Big Man''' is the name of different fictional characters appearing in [[American comic book]]s published by [[Marvel Comics]].
 
 ==Fictional character biography==
@@ -24,7 +28,7 @@ image=
 She and her Enforcers were defeated by [[Spider-Man]], the [[Human Torch]] and the [[Sons of the Tiger]]. Over a dispute about eliminating Spider-Man and the Sons, Janice was killed by the Crime Master who turned out to be her fiancé and son of the original Crime-Master, Nick Lewis Jr. (both had separately pursued vengeance against Spider-Man without knowledge of each other's identity).<ref>''Marvel Team-Up'' #40</ref>
 
 === Frederick Foswell Jr ===
-'''Frederick Foswell Jr''' is the son of the original Big Man, and brother of the second Big Man. He took over the role to gain revenge for the death of his father, a death that he blamed on Spider-Man. Piloting a giant robot version of the Big Man he attacked Spider-Man and [[J. Jonah Jameson]], assuming Jameson would help kill Spider-Man. Spider-Man quickly defeated Foswell Jr.<ref>''Amazing Spider-Man #13'' (2019)</ref>
+'''Frederick Foswell Jr''' is the son of the original Big Man, and brother of the second Big Man. He took over the role to gain revenge for the death of his father and sister, which, owing to [[J. Jonah Jameson]]'s then-hostile attitude towards Spider-Man, he blamed on the webslinger. Piloting a giant robot version of the Big Man, he attacked Spider-Man and Jameson, assuming Jameson would help kill Spider-Man. Spider-Man and the remorseful Jameson quickly defeated Foswell Jr.<ref>''Amazing Spider-Man #13'' (2019)</ref>
 {{Superherobox|publisher=[[Marvel Comics]]|character_name=Frederick Foswell Jr.|creators=Nick Spencer and Ryan Ottley|debut=[[Amazing Spider-Man]] #13 (Jan 2019)}}{{Clear}}
 
 ==Other versions==
@@ -33,7 +37,7 @@ She and her Enforcers were defeated by [[Spider-Man]], the [[Human Torch]] and t
 '''Henry Pym Jr.''' is the son of [[Hank Pym]] and [[Wasp (comics)|Janet van Dyne]] in the [[Marvel Comics 2|MC2]] universe. He inherits his father's size changing powers and takes the Big Man name. He is briefly a member of the [[Revengers]], before going straight and joining a government-sponsored team.<ref>''A-Next'' #12</ref>
 
 ===Ultimate Marvel===
-The [[Ultimate Marvel]] equivalent is named '''Mr. Big''', a mobster and the Enforcers' leader.<ref>''Ultimate Spider-Man'' #9</ref> Mr. Big was scheming to overthrow [[Kingpin (comics)|Wilson Fisk]], using [[Spider-Man (Ultimate Marvel character)|Spider-Man]] as a secret weapon. The plan backfired and when Fisk learned that Foswell was the one responsible for Spidey's assault on Fisk's office, Fisk crushed the mobster's head bare handed.<ref>''Ultimate Spider-Man'' #10</ref>
+The [[Ultimate Marvel]] equivalent is named '''Mr. Big''', a mobster and the Enforcers' leader.<ref>''Ultimate Spider-Man'' #9</ref> Mr. Big was scheming to overthrow [[Kingpin (comics)|Wilson Fisk]], using [[Spider-Man (Ultimate Marvel character)|Spider-Man]] as a secret weapon. The plan backfired, and when Fisk learned that Foswell was the one responsible for Spidey's assault on Fisk's office, Fisk crushed the mobster's head bare-handed.<ref>''Ultimate Spider-Man'' #10</ref>
 
 ==In other media==
 ===Television===
@@ -52,6 +56,7 @@ Janice Foswell is alluded in ''[[Spider-Man: Shattered Dimensions]]''. In the [[
 * [http://www.marvunapp.com/Appendix/bigman.htm Janice Foswell at Marvunapp.com]
 
 {{Spider-Man characters}}
+{{Black Cat}}
 {{Hank Pym}}
 {{Stan Lee}}
 {{Set index article|comics}}

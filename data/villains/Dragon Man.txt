@@ -1,5 +1,5 @@
 {{other uses|Dragon man (disambiguation)}}
-{{refimprove|date=November 2017}}
+{{more citations needed|date=November 2017}}
 {{Infobox comics character <!--Wikipedia:WikiProject Comics-->
 | image = 
 | caption = 
@@ -40,7 +40,7 @@ Dragon Man was later studied by [[Hank Pym]] at his laboratory. He was restored 
 
 Dragon Man was once found by the original [[X-Men]] and was considered an unofficial mascot of sorts. After a period of time on the team where he developed a deep affection for [[Jean Grey]], Dragon Man had to be released to the creature filled island known in the Marvel Universe as [[Monster Island (comics)|Monster Island]].
 
-Dragon Man was reclaimed by Professor Gregson Gilbert and sent by [[Lemuel Dorcas]] to attack [[Namor]].<ref>''Sub-Mariner'' #15</ref> It was next used by [[Gregory Gideon]] to attack the Fantastic Four.<ref>''Fantastic Four'' #134-135</ref> Dragon Man was then sent by [[Machinesmith]] to attack [[Captain America]].<ref>''Captain America'' #248-249</ref> He became the mount for the extra-dimensional dragon rider [[Dragon Lord (comics)#Ral Dorn|Ral Dorn]].<ref>''Fantastic Four Annual'' #16</ref> Dragon Man then fought [[Hulk (comics)|Hulk]] and [[Kate Waynesboro]] when it was under the control of [[Ringmaster (comics)|Ringmaster]] and the [[Circus of Crime]].<ref>''Incredible Hulk'' #292</ref>
+Dragon Man was reclaimed by Professor Gregson Gilbert and sent by [[Lemuel Dorcas]] to attack [[Namor]].<ref>''Sub-Mariner'' #15</ref> It was next used by [[Gregory Gideon]] to attack the Fantastic Four.<ref>''Fantastic Four'' #134-135</ref> Dragon Man was then sent by [[Machinesmith]] to attack [[Captain America]].<ref>''Captain America'' #248-249</ref> He became the mount for the extra-dimensional dragon rider [[Dragon Lord (comics)#Ral Dorn|Ral Dorn]].<ref>''Fantastic Four Annual'' #16</ref> Dragon Man then fought [[Hulk]] and [[Kate Waynesboro]] when it was under the control of [[Ringmaster (comics)|Ringmaster]] and the [[Circus of Crime]].<ref>''Incredible Hulk'' #292</ref>
 
 Dragon Man encountered the child superheroes called [[Power Pack]]. Gregson Gilbert later attempted to replicate the creation of the Dragon Man without the addition of alchemical interruptions, and this time succeeded. He created a number of androids based on other [[legendary creature]]s. These androids were defeated by Power Pack, and Gilbert and Dragon Man go to work at Disneyland.<ref>''Power Pack'' vol. 1 #7</ref>
 
@@ -69,7 +69,7 @@ He has since been upgraded by [[Valeria Richards]] and joined Reed Richards' [[F
 As part of the ''[[Marvel NOW!]]'' event, Dragon Man created the Thing Rings for Darla Deering to wear which enables her to become Miss Thing upon some particles enabling her to transform into her Thing Exoskeleton (which was also modified by Dragon Man).<ref>''Marvel NOW! Point One'' #1</ref>
 
 ==Powers and abilities==
-Dragon Man gains its powers from its robotic materials, design, and construction, as well as unknown alchemical potions used by [[Diablo (Marvel Comics)|Diablo]]. Dragon Man is superhumanly strong and durable. He is able to stand toe to toe with the likes of [[Hercules (Marvel Comics)|Hercules]] and the [[Hulk (comics)|Hulk]] in combat situations. He can use the wings on his back to fly. He can also exhale methane gas (produced by his digestive system) which can be ignited by striking together his specialized teeth, producing flame hot enough to melt [[iron]].
+Dragon Man gains its powers from its robotic materials, design, and construction, as well as unknown alchemical potions used by [[Diablo (Marvel Comics)|Diablo]]. Dragon Man is superhumanly strong and durable. He is able to stand toe to toe with the likes of [[Hercules (Marvel Comics)|Hercules]] and the [[Hulk]] in combat situations. He can use the wings on his back to fly. He can also exhale methane gas (produced by his digestive system) which can be ignited by striking together his specialized teeth, producing flame hot enough to melt [[iron]].
 
 The Dragon Man originally could military press sixty tons. Since it was a machine imbued with magic the artificial creature never grows tired. It can recharge itself by eating organic materials, and its wings did not allow it to fly. It uses two anti gravity generators located in its body to propel itself. Its large wings give it great mobility in the air and theoretically(ms) in water also.
 
@@ -114,6 +114,7 @@ Dragon Man appears as a villain in the series, appearing in the last battle rest
 {{Fantastic Four}}
 {{Stan Lee}}
 {{Jack Kirby}}
+
 [[Category:Comics characters introduced in 1965]]
 [[Category:Characters created by Jack Kirby]]
 [[Category:Characters created by Stan Lee]]

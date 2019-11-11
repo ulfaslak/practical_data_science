@@ -1,19 +1,20 @@
+{{short description|Comic book character}}
 {{Infobox comics character <!--Wikipedia:WikiProject Comics-->
 | image          = Mitchell_Carson.jpg
 | caption        =  
 | alter_ego      = Mitch Carson
 | publisher      = [[Marvel Comics]]
 | debut          = ''[[Marvel Team-Up]]'' Vol. 3 #21
-| creators       = [[Robert Kirkman]] (writer)<br>[[Andy Kuhn]] (artist)
+| creators       = [[Robert Kirkman]]<br> (writer)<br>Andy Kuhn <br>(artist)
 | alliances     = [[S.H.I.E.L.D.]]
 | powers         = S.H.I.E.L.D. training 
 | cat            = super
 | subcat         = Marvel Comics
 | hero           = N
 }}
-'''Agent Mitchell "Mitch" Carson''' is a fictional character appearing in [[American comic book]]s published by [[Marvel Comics]].
+'''Agent Mitchell Carson''' is a fictional character appearing in [[American comic book]]s published by [[Marvel Comics]].
 
-The character is portrayed by [[Martin Donovan]] in the 2015 [[Marvel Cinematic Universe]] film ''[[Ant-Man (film)|Ant-Man]]''.
+The character was portrayed by [[Martin Donovan]] in the 2015 [[Marvel Cinematic Universe]] film ''[[Ant-Man (film)|Ant-Man]]''.
 
 ==Publication history==
 Created by writers Robert Kirkman and Andy Kuhn, he first appeared in ''Marvel Team-Up'' Vol. 3 #21. He was the primary antagonist in the 2006 ''[[Eric O'Grady|Irredeemable Ant-Man]]'' series.
@@ -36,7 +37,7 @@ He gained access to an old Ant-Man suit and used it to shrink and take out Eric 
 
 ==In other media==
 [[File:Martin Donovan as Mitchell Carson.png|right|thumb|[[Martin Donovan]] as Mitchell Carson in the 2015 film ''[[Ant-Man (film)|Ant-Man]]''.]]
-[[Martin Donovan]] portrays Mitchell Carson in the 2015 film ''[[Ant-Man (film)|Ant-Man]]''. In the film, he is the head of defense at S.H.I.E.L.D. but is also secretly a member of [[Hydra (comics)|Hydra]]. When [[Hank Pym]] finds out that S.H.I.E.L.D. has been trying to replicate the Pym particles from the Ant-Man suit, Pym, [[Peggy Carter]] and [[Howard Stark]] confront Carson. Decades later, Carson is allied with Pym's former protege-turned-adversary, [[Darren Cross]], who has managed to replicate the Pym particles. During a confrontation among these parties in the film's final Act, Carson absconds with the particles.
+[[Martin Donovan]] portrays Mitchell Carson in the 2015 film ''[[Ant-Man (film)|Ant-Man]]''. In the film, he is the head of defense at S.H.I.E.L.D. but is also secretly a member of [[Hydra (comics)|Hydra]]. When [[Hank Pym]] finds out that S.H.I.E.L.D. has been trying to replicate the Pym particles from the Ant-Man suit, Pym, [[Peggy Carter]] and [[Howard Stark]] confront Carson. Decades later, Carson is allied with Pym's former protege-turned-adversary, [[Darren Cross]], who has managed to replicate the Pym particles. During a confrontation among these parties in the film's final act, Carson absconds with the particles. In an alternate ending, Carson is apprehended by Scott Lang after he retrieves the Pym particles.
 
 ==References==
 {{Reflist}}

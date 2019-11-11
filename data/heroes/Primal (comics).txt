@@ -1,7 +1,7 @@
 {{Infobox comics character  <!--Part of Wikipedia:WikiProject Comics-->
 |character_name=Primal
 |image=[[File:XMEN-Primal.jpg]]
-|caption=Primal. ''Generation Hope'' #8<br> Art by [[Salva Espin]] & [[Jim Charalampidis]]
+|caption=Primal. ''Generation Hope'' #8<br /> Art by [[Salva Espin]] & [[Jim Charalampidis]]
 |real_name=Teon Macik
 |species=[[Mutant (Marvel Comics)|Human Mutant]]
 |publisher=[[Marvel Comics]]
@@ -9,7 +9,7 @@
 |creators=[[Matt Fraction]]<br/>[[Kieron Gillen]]
 |alliances=[[Hope Summers (comics)#Generation Hope|The Lights]]<br/>[[X-Men (comics)|X-Men]]<br/>[[List of Xavier Institute students and staff#Students|Jean Grey School Students]]
 |aliases=The Fourth Light, The Modern Primitive, Instinct
-|powers=Superhuman physical ability<br>Hyperinstinct
+|powers=Superhuman physical ability<br />Hyperinstinct
 
 |cat=super
 |subcat=Marvel Comics
@@ -19,14 +19,14 @@
 '''Primal''' ('''Teon Macik''') is a [[fictional]] [[comic book]] superhero appearing in books published by [[Marvel Comics]]. The character first appeared in ''[[Uncanny X-Men]]'' #529, in the fourth chapter of the "Five Lights" storyline, and was created by [[Matt Fraction]] and [[Kieron Gillen]].<ref>http://www.newsarama.com/comics/kieron-gillen-introduces-generation-hope-101103.html</ref> He is one of the "Five Lights"—a group of mutants who manifested their abilities after the events of "[[X-Men: Second Coming|Second Coming]]".
 
 ==Publication history==
-Primal first appeared in ''Uncanny X-Men''. Following his introduction, he, along with [[Hope Summers (comics)|Hope Summers]], [[Transonic (comics)|Transonic]], [[Oya (comics)|Oya]], [[Kenji Uedo|Zero]], and [[Velocidad (comics)|Velocidad]], began to feature in the series [[Hope_Summers_(comics)#Generation_Hope|Generation Hope]].<ref name=GH1>''Generation Hope'' #1 (2011)</ref>  He continues to make appearances in ''Uncanny X-Men'' as well.
+Primal first appeared in ''Uncanny X-Men''. Following his introduction, he, along with [[Hope Summers (comics)|Hope Summers]], [[Transonic (comics)|Transonic]], [[Oya (comics)|Oya]], [[Kenji Uedo|Zero]], and [[Velocidad (comics)|Velocidad]], began to feature in the series [[Hope Summers (comics)#Generation Hope|Generation Hope]].<ref name=GH1>''Generation Hope'' #1 (2011)</ref>  He continues to make appearances in ''Uncanny X-Men'' as well.
 
 ==Fictional character biography==
 
 ===The Fourth Light===
 After rescuing Transonic, Velocidad, and Oya, Hope brought the group to the Ukraine to find the next Light.  However, by the time they arrived he had already moved on.  The group tracked Teon through Europe and eventually found him in Miami Beach.<ref name=GH8/> Like the others, Hope's touch stabilized his powers.<ref name=UXMEN529>''Uncanny X-Men'' #529</ref>  After his activation, he imprinted on Hope, following her commands.<ref name=UXMEN529/>  He typically communicates in single words that convey his desires - notably "fight," "flight," and "mate."
 
-Teon accompanied the Lights to Tokyo to subdue Zero, whose powers had gone crazy.<ref name=GH1></ref> Soon thereafter, Teon and the other Lights followed Hope in moving to [[Asteroid_M#Fifth_version.2FUtopia|Utopia]]<ref name=GH4>''Generation Hope'' #4</ref> Upon arrival, he immediately began sparring [[Wolverine (character)|Wolverine]], by whom he was eventually bested; Teon conceded that Wolverine was the "alpha."  Wolverine continues to spar with Teon.<ref name=GH6>''Generation Hope'' #6</ref>
+Teon accompanied the Lights to Tokyo to subdue Zero, whose powers had gone crazy.<ref name=GH1 /> Soon thereafter, Teon and the other Lights followed Hope in moving to [[Asteroid M#Fifth version.2FUtopia|Utopia]]<ref name=GH4>''Generation Hope'' #4</ref> Upon arrival, he immediately began sparring [[Wolverine (character)|Wolverine]], by whom he was eventually bested; Teon conceded that Wolverine was the "alpha."  Wolverine continues to spar with Teon.<ref name=GH6>''Generation Hope'' #6</ref>
 
 Like the rest of the student-aged population, Teon takes classes taught by more experienced X-Men.<ref name=GH5>''Generation Hope'' #5 (2011)</ref>  However, he is more concerned with following Hope, and follows her after she abruptly walks out of an ethics class being taught by [[Emma Frost]]. He also trains with Hope and the rest of his new team in weapons and tactics.  [[Kavita Rao]] conducts intelligence tests on Teon and comes to believe that he is of low intelligence.<ref name=GH8>''Generation Hope'' #8</ref> Hope, however, demonstrates that he has normal if not high intelligence if given the correct incentive, but simply lacks the desire to complete his tests.
 
@@ -45,7 +45,8 @@ Teon has a primal mutation that enhances all of his physical abilities.<ref name
 
 ==External links==
 *[http://www.uncannyxmen.net/glossary/showentry.asp?fldAuto=2394 UncannyXmen.net Character Bio on Primal]
-{{Portal bar|2010s|Fictional characters|Superhero fiction|Comics}}
+{{Portal bar|Speculative fiction|Comics}}
+
 {{DEFAULTSORT:Primal}}
 [[Category:Comics characters introduced in 2010]]
 [[Category:Marvel Comics mutants]]

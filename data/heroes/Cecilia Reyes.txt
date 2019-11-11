@@ -9,9 +9,9 @@
 | creators = [[Scott Lobdell]] <br />[[Carlos Pacheco]]
 | alliances = [[X-Men]]<br>[[Weapon X]]<br>[[New Mutants]]
 | aliases =
-| powers = [[Force field (science fiction)|Force field]] generation
+| powers = Capable medical doctor and surgeon<br>[[Force field (science fiction)|Force field]] generation
 }}
-'''Cecilia Reyes''' is a [[fictional character]] appearing in [[American comic book]]s published by [[Marvel Comics]]. The character was briefly a member of the [[X-Men]] and often works to assist them.
+'''Dr. Cecilia Reyes''' is a [[fictional character]] appearing in [[American comic book]]s published by [[Marvel Comics]]. The character was briefly a member of the [[X-Men]] and often works to assist them.
 
 Raised in the [[Bronx]], she is [[Latin American]] (originating from [[Puerto Rico]]) medical doctor specializing in trauma surgery. She has the [[Mutant (Marvel Comics)|mutant]] ability to project a [[Force field (science fiction)|force field]] around her body. Unlike most X-Men, she has no interest in superheroics, and desires only to live an ordinary life, having been forced into the team by circumstance. [[Alice Braga]] will portray Dr. Cecilia Reyes in the upcoming film ''[[The New Mutants (film)|The New Mutants]]''.
 
@@ -34,7 +34,7 @@ Reyes last appearance with the X-Men was at the time when Beast discovered the c
 
 ===Neverland===
 Later, she was seen as a prisoner at a mutant [[concentration camp]] run by the [[Weapon X]] program, called Neverland. There she attempted to use her medical expertise to help out the other prisoners.<ref>''Weapon X: Days of Future Now'' #3</ref> She was apparently killed off panel when a brainwashed [[David North (comics)|Agent Zero]] destroyed the camp, and her death was later confirmed in the [[Comic book letter column|letter column]] of ''[[Excalibur (comics)|New Excalibur]]'' #1.  
-[[Mike Marts]] contradicted this in an interview on uncannyxmen.net, stating that if Cecilia would be dead they would show it on panel, and therefore Cecilia was not yet considered deceased at that time.<ref>[http://www.uncannyxmen.net/db/article/showquestion.asp?faq=10&fldAuto=268 Interview with Mike Marts at uncannyxmen.net; November 29, 2005]</ref>
+[[Mike Marts]] contradicted this in an interview on uncannyxmen.net, stating that if Cecilia would be dead they would show it on panel, and therefore Cecilia was not yet considered deceased at that time.<ref>{{Cite web |url=http://www.uncannyxmen.net/db/article/showquestion.asp?faq=10&fldAuto=268 |title=Interview with Mike Marts at uncannyxmen.net; November 29, 2005 |access-date=April 28, 2007 |archive-url=https://web.archive.org/web/20130522173224/http://www.uncannyxmen.net/db/article/showquestion.asp?faq=10&fldAuto=268 |archive-date=May 22, 2013 |url-status=dead }}</ref>
 
 In ''[[X-Men: The 198 Files]]'', it has been revealed that Cecilia's older non-mutant brother, Colonel Miguel Reyes, had been assigned to head [[Sentinels (comics)#Sentinel Squad O*N*E*|O*N*E]] security on the Xavier School grounds, with the purpose of finding out the fate of his sister.{{issue|date=October 2017}}
 
@@ -61,6 +61,8 @@ Cecilia can generate a force field, described in her first appearance as a "psio
 Cecilia is also a capable medical doctor and surgeon.
 
 ==Other versions==
+In the ''[[Age of X-Man]]'' reality, Dr. Cecilia Reyes is the Medical Instructor of the 10th Year class within the Summers Institute Of Higher Learning, located in Winchester, NY.<ref>''Age of X-Man - NextGen'' #1 (February 2019)</ref>
+
 In ''Days of Future Now'', Cecilia survived the death camp Neverland and tried to help [[Wolverine (character)|Wolverine]] to change the past to prevent "Days of Future Now" from ever happening.{{issue|date=October 2017}} While watching over him, she was shot in the back by a [[Fantomex]] who was under the control of Sublime.{{issue|date=October 2017}}
 
 In ''[[X-Men: The End]]'', she also had survived Neverland and has married [[Beast (comics)|Beast]] and they have three children (two boys and one girl), Ciaran, Francesca & Miguel McCoy.{{issue|date=October 2017}}
@@ -69,7 +71,7 @@ In ''[[X-Men: The End]]'', she also had survived Neverland and has married [[Bea
 ===Film===
 {{main|The New Mutants (film)}}
 
-[[Alice Braga]] will portray Cecilia Reyes in ''[[The New Mutants (film)|The New Mutants]]'', written and directed by [[Josh Boone (director)|Josh Boone]]. She appears as a mentor to the group, and "a medical doctor who has the ability to generate a protective bio-field around herself".<ref name="Braga">{{cite news|url=http://www.hollywoodreporter.com/heat-vision/alice-braga-joins-new-mutants-as-rosario-dawson-exits-1017960|title=Alice Braga Joins 'New Mutants' as Rosario Dawson Exits (Exclusive)|last=Kit|first=Borys|work=[[The Hollywood Reporter]]|date=June 29, 2017|accessdate=June 30, 2017|archiveurl=https://www.webcitation.org/6ralsEWZI?url=http://www.hollywoodreporter.com/heat-vision/alice-braga-joins-new-mutants-as-rosario-dawson-exits-1017960|archivedate=June 29, 2017|deadurl=no|df=}}</ref>
+[[Alice Braga]] will portray Cecilia Reyes in ''[[The New Mutants (film)|The New Mutants]]'', written and directed by [[Josh Boone (director)|Josh Boone]]. She appears as a mentor to the group, and "a medical doctor who has the ability to generate a protective bio-field around herself".<ref name="Braga">{{cite news|url=http://www.hollywoodreporter.com/heat-vision/alice-braga-joins-new-mutants-as-rosario-dawson-exits-1017960|title=Alice Braga Joins 'New Mutants' as Rosario Dawson Exits (Exclusive)|last=Kit|first=Borys|work=[[The Hollywood Reporter]]|date=June 29, 2017|accessdate=June 30, 2017|archiveurl=https://web.archive.org/web/20170629213441/http://www.hollywoodreporter.com/heat-vision/alice-braga-joins-new-mutants-as-rosario-dawson-exits-1017960|archivedate=June 29, 2017|url-status=live}}</ref>
 
 ==References==
 {{Reflist}}
@@ -78,13 +80,16 @@ In ''[[X-Men: The End]]'', she also had survived Neverland and has married [[Bea
 * {{Marvelwiki|Reyes,_Cecilia|Cecilia Reyes}}
 * {{comicbookdb|type=character|id=5793|title=Cecilia Reyes}}
 * [http://worldofblackheroes.com/2010/08/18/cecilia-reyes/ World of Black Heroes: Cecilia Reyes Biography]
-* {{cite web|url=http://www.uncannyxmen.net/db/spotlight/showquestion.asp?faq=10&fldAuto=119 UncannyXmen.net|archive-date=February 11, 2007|archiveurl=https://web.archive.org/web/20070211081812/http://www.uncannyxmen.net/db/spotlight/showquestion.asp?faq=10&fldAuto=119 UncannyXmen.net |dead-url=no|title=Spotlight On Cecelia Reyes}}
+* {{cite web|url=http://www.uncannyxmen.net/db/spotlight/showquestion.asp?faq=10&fldAuto=119|via=UncannyXmen.net|archive-date=February 11, 2007|archiveurl=https://web.archive.org/web/20070211081812/http://www.uncannyxmen.net/db/spotlight/showquestion.asp?faq=10&fldAuto=119|url-status=dead|title=Spotlight On Cecelia Reyes|access-date=April 15, 2006}}
 
 {{X-Men}}
 
 {{DEFAULTSORT:Reyes, Cecilia}}
 [[Category:Comics characters introduced in 1997]]
+[[Category:Female characters in comics]]
+[[Category:Fictional Hispanic and Latino American people]]
 [[Category:Fictional murderers]]
 [[Category:Fictional surgeons]]
+[[Category:Marvel Comics female superheroes]]
 [[Category:Marvel Comics mutants]]
 [[Category:Marvel Comics superheroes]]

@@ -33,7 +33,7 @@ The Jester later kidnaps an inventor of computer-generated video and uses his in
 
 After escaping prison, the Jester kidnaps an actor portraying Cyrano de Bergerac on live television and takes his place. His performance is a success with the audience. When he afterwards learns that Daredevil was diverting the police's attention so that he could finish his performance, he voluntarily surrenders.<ref>''Daredevil'' #218 (May 1985)</ref> Later Powers allows himself to be host to a demon, gaining great strength in the process. When the demon leaves him, Powers is apparently left comatose.<ref>''Daredevil'' (vol. 2) #71-75</ref>
 
-Jester later collaborated with [[Screwball (comics)|Screwball]] when they started a web show called "Jested." Their first episode had them doing a prank on Mayor [[J. Jonah Jameson]]. After that happened, both of them are tracked down by [[The Superior Spider-Man|Superior Spider-Man]] ([[Doctor Octopus]]' mind in [[Spider-Man]]'s body) and are brutally defeated by him.<ref>''Superior Spider-Man'' #6. Marvel Comics.</ref>
+Jester later collaborated with [[Screwball (comics)|Screwball]] when they started a web show called "Jested." Their first episode had them doing a prank on Mayor [[J. Jonah Jameson]]. After that happened, both of them are tracked down by [[The Superior Spider-Man|Superior Spider-Man]] ([[Doctor Octopus]]' mind in [[Spider-Man]]'s body) and (after performing a series of pranks on Superior Spiderman himself) are brutally defeated by him.<ref>''Superior Spider-Man'' #6. Marvel Comics.</ref>
 
 During the ''[[Civil War II]]'' storyline, Powers apparently retires from his former role until he is arrested as part of an entrapment operation set up by undercover police officers and an informant despite the fact that all he was doing was talking about his old days rather than actually planning a crime. Despite [[She-Hulk]] making a passionate argument about the need to believe in redemption and not condemn someone for their thoughts, Powers is sentenced to prison where he is shot by a prison guard during a riot a couple of days later.<ref>Bendis, Brian Michael (w), Coipel, Olivier (a), Ponsor, Justin (col), Cowles, Clayton (let), Brevoort, Tom; Moss, Wil (ed). ''Civil War II'' 0 (May 2016), Marvel Comics</ref>
 
@@ -60,7 +60,7 @@ Jester appeared during the super-hero [[Civil War (comic book)|''Civil War'']] a
 
 Jester and [[Jack O'Lantern (Marvel Comics)|Jack O'Lantern]] are sent to bring in [[Spider-Man]]. They pursue the hero through the sewers. Spider-Man ends up badly injured and subdued as the two move in for the kill. Both Jack and Jester are then shot dead by the [[Punisher]].<ref>''Civil War'' #5</ref> This fight and these deaths are also detailed in the ''Punisher: War Journal'' title.<ref>''[[The Punisher War Journal#Volume Two|Punisher War Journal]]'' #2-3 (Feb.-March 2007)</ref> 
 
-[[Mister Hyde (comics)|Mister Hyde]] later exhumed the body to find a way around the nanotechnlogy.<ref>''Thunderbolts - Reason in Madness'' one-shot</ref>
+[[Mister Hyde (comics)|Mister Hyde]] later exhumed the body to find a way around the nanotechnology.<ref>''Thunderbolts - Reason in Madness'' one-shot</ref>
 
 ===Crazy Gang Jester===
 {{Infobox comics character|
@@ -72,7 +72,7 @@ image=
 |publisher=[[Marvel Comics]]
 |debut='''(Earth-238)''':<br>''Marvel Superheroes'' #377 (September. 1981)<br>'''([[Earth-616]])''':<br>''[[The Mighty World of Marvel]]'' #10  (March, 1984) 
 |creators='''(Earth-238)''':<br>[[Dave Thorpe|David Thorpe]]<br>[[Paul Neary]]<br>[[Alan Davis]]<br>'''(Earth-616)''':<br>[[Alan Moore]]<br>[[Alan Davis]] 
-|alliances=[[Crazy Gang (Marvel Comics)|Crazy Gang]]
+|alliances=Crazy Gang
 |aliases=Clown
 |powers=Highly skilled acrobat, fencer and kickboxer<br>Carries a fencing foil
 |}}
@@ -112,6 +112,7 @@ The Crazy Gang's Jester has no superhuman powers. However, he is a highly skille
 [[Category:Comics characters introduced in 1968]]
 [[Category:Comics characters introduced in 1984]]
 [[Category:Comics characters introduced in 1989]]
+[[Category:Daredevil (Marvel Comics) characters]]
 [[Category:Fictional characters from New Jersey]]
 [[Category:Fictional jesters]]
 [[Category:Marvel Comics supervillains]]

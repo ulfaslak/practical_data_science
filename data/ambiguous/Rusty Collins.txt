@@ -1,6 +1,6 @@
 {{Infobox comics character| <!--Wikipedia:WikiProject Comics-->
  image =
-| character_name = Rusty Collins
+| character_name = Russell Collins
 | real_name = Russell "Rusty" Collins
 | species= [[Mutant (Marvel Comics)|Human mutant]]
 | publisher = [[Marvel Comics]]
@@ -13,7 +13,7 @@
 
 '''Russell''' "'''Rusty'''" '''Collins''', formerly known as '''Firefist''', is a fictional [[superhero]] appearing in [[American comic book]]s published by [[Marvel Comics]].
 
-Firefist was portrayed in the 2018 film ''[[Deadpool 2]]'', by actor [[Julian Dennison]].
+Firefist was portrayed in the 2018 film ''[[Deadpool 2]]'', by actor [[Julian Dennison]] and [[Sala Baker]].
 
 ==Publication history==
 Created by [[Bob Layton]] and [[Jackson Guice]], Rusty Collins first appeared in ''[[X-Factor (comics)|X-Factor]]'' <!-- only denote volume number after first --> #1 (February 1986).
@@ -39,7 +39,7 @@ Due to the brainwashing, Rusty had no qualms about attacking former teammate [[C
 
 Shortly after, Rusty and Skids were kidnapped by the [[Friends of Humanity]]. While being transported, [[X-Force]] (the team created by the former members of the New Mutants), rescued them.<ref>''X-Force'' #24 (July 1993)</ref> Arriving back to their base, X-Force was soon confronted by [[Exodus (comics)|Exodus]]. He was inviting original New Mutants Cannonball and [[Sunspot (comics)|Sunspot]] to [[Providence (comics)|Avalon]], a "safe haven" for selected mutants. Cannonball refused to go unless all former New Mutants present (Boom Boom, Rictor, Rusty and Skids) were invited also. While Exodus complained that Rusty and Skids were "damaged" due to their brainwashing, he finally acquiesced.<ref name="XF25">''X-Force'' #25 (August 1993)</ref>
 
-Upon arriving at Avalon, the mutants were taken to "the Savior" (in reality [[Magneto (comics)|Magneto]]), who used his powers to undo the brainwashing done to Rusty and Skids. When X-Force arrived to save their friends, Rusty and Skids decided they would stay with Magneto, feeling that they owed him. With this being done, they joined the [[Acolytes (comics)|Acolytes]].<ref name="XF25"/>
+Upon arriving at Avalon, the mutants were taken to "the Savior" (in reality [[Magneto (Marvel Comics)|Magneto]]), who used his powers to undo the brainwashing done to Rusty and Skids. When X-Force arrived to save their friends, Rusty and Skids decided they would stay with Magneto, feeling that they owed him. With this being done, they joined the [[Acolytes (comics)|Acolytes]].<ref name="XF25"/>
 
 When a mutant body belonging to [[Holocaust (Marvel Comics)|Holocaust]], a "survivor" from the [[Age of Apocalypse]], was discovered floating in space near Avalon, it was brought on board. While on guard duty watching over the thought-to-be frozen body, Rusty's life force was drained by Holocaust, killing him.<ref>''[[X-Men]]'' vol. 2 #42 (July 1995)</ref>
 
@@ -51,11 +51,10 @@ Rusty Collins is a mutant with the psionic ability of pyrokinesis.  He can contr
 
 ==In other media==
 ===Film===
-{{main|X-Men (film series)}}
-Russell Collins / Firefist appears in ''[[Deadpool 2]]'', portrayed by [[Julian Dennison]]. In this adaptation he is a New Zealand child who possesses fire controlling abilities and was tortured at "[[Mister Sinister|Essex]] School" along with other mutant children. In killing the school's headmaster who was his primary tormentor, he becomes fascinated with killing and in the future he kills Nathan Summers / Cable's family. The events of the film portray how the timeline is altered after Wade Wilson / Deadpool convinces him to let go of his desire to kill the headmaster of the school and killing in general. [[Sala Baker]] portrays an older version of the character during Cable's flashback sequences, set in a post-apocalyptic future.
+Russell Collins / Firefist appears in ''[[Deadpool 2]]'', portrayed by [[Julian Dennison]]. This adaptation is a New Zealand child who possesses fire controlling abilities and was tortured at "[[Mister Sinister|Essex]] School" along with other mutant children. In killing the school's headmaster who was his primary tormentor, he becomes fascinated with killing and he kills [[Cable (comics)|Nathan Summers / Cable]]'s family in the future. The events of the film portray how the timeline is altered after [[Deadpool|Wade Wilson / Deadpool]] convinces him to let go of his desire to kill the school's headmaster and killing in general. [[Sala Baker]] portrays an older version of the character in a post-apocalyptic future.
 
 ===Television===
-A much younger version of Rusty appears in the ''[[X-Men (TV series)|X-Men]]'' episode "No Mutant is an Island". An orphan who [[Cyclops (Marvel Comics)|Cyclops]] met while visiting his old orphanage in Nebraska, Rusty finds it hard to control his pyrokenetic powers. A man known as [[Purple Man|Killgrave]] offers to help and adopts Rusty, seemingly out of charity. In reality, Killgrave, a mutant himself with telepathic abilities, wants to use the powers of Rusty, [[Skids (comics)|Skids]], [[Tabitha Smith|Boom Boom]], [[Rictor]], and [[Taki Matsuya|Whiz Kid]] to take over as governor. Cyclops is able to snap Rusty and the others out of Killgrave's hypnotic brainwashing.
+A much younger version of the character appeared in the ''[[X-Men (TV series)|X-Men]]'' animated  series. In the episode "No Mutant is an Island", he is an orphan seen in  [[Cyclops (Marvel Comics)|Scott Summers / Cyclops]]'s old orphanage in Nebraska. Rusty finds it hard to control his pyrokenetic powers. A man known as [[Purple Man|Killgrave]] offers to help and adopts Rusty, seemingly out of charity. In reality, Killgrave is a mutant himself with telepathic abilities and wants to use the powers of Rusty, [[Skids (comics)|Skids]], [[Tabitha Smith|Boom Boom]] and [[Taki Matsuya|Whiz Kid]] to take over as governor. Cyclops is able to snap Rusty and the others out of Killgrave's hypnotic brainwashing.
 
 ==References==
 {{reflist}}
@@ -72,6 +71,7 @@ A much younger version of Rusty appears in the ''[[X-Men (TV series)|X-Men]]'' e
 [[Category:Fictional characters from Tulsa, Oklahoma]]
 [[Category:Fictional sailors]]
 [[Category:Fictional characters with fire or heat abilities]]
+[[Category:Deadpool characters]]
 [[Category:Marvel Comics mutants]]
 [[Category:Marvel Comics superheroes]]
 [[Category:Marvel Comics supervillains]]

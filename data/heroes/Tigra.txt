@@ -1,4 +1,5 @@
 {{about||the DC Comics character|Tigra (DC Comics)|other uses|}}
+{{short description|Comic book character}}
 {{Infobox comics character <!--Wikipedia:WikiProject Comics-->
 | image = [[File:Tigra4.jpg|250px]]
 | caption = Tigra.<br>Art by [[Mike Deodato]]
@@ -6,8 +7,8 @@
 | alter_ego = Greer Grant Nelson
 | species = [[Cat People (comics)|Cat Person]] (magically transformed from human)
 | publisher = [[Marvel Comics]]
-| debut = '''The Cat:''' ''Claws of the Cat'' #1 (November, 1972)<br>'''Tigra:''' ''Giant-Size Creatures'' #1 (July, 1974)
-| creators = '''The Cat:'''<br>[[Roy Thomas]] (writer)<br>[[Wally Wood]] (artist)<br>'''Tigra:'''<br>[[Tony Isabella]] (writer)<br>[[Gil Kane]]<br>[[Don Perlin]] (penciler)<br>[[John Romita Sr.]] (artist)
+| debut = '''As The Cat:'''<br>''Claws of the Cat'' #1 (November [[1972 in comics|1972]])<br><br>'''As Tigra:'''<br>''Giant-Size Creatures'' #1 (July [[1974 in comics|1974]])
+| creators = '''The Cat:'''<br>[[Roy Thomas]]<br>[[Wally Wood]]<br><br>'''Tigra:'''<br>[[Tony Isabella]]<br>[[Don Perlin]] 
 | alliances = {{Plain list | 
 * [[Counter Force (Marvel Comics)|Avengers Resistance]] 
 * The Battalion 
@@ -24,7 +25,7 @@
 | powers = Superhuman strength, speed, senses and agility <br />Retractable claws<br />Limited mystical abilities
 }}
 
-'''Tigra''' ('''Greer Grant Nelson''') is a [[fictional character|fictional]] [[superheroine]] appearing in [[American comic book]]s published by [[Marvel Comics]]. [[First appearance|Introduced]] as the non-superpowered crime fighter '''The Cat''' in ''Claws of the Cat'' #1 (Nov. 1972), she was co-created by writer-editor [[Roy Thomas]] and [[artist]] [[Wally Wood]] ([[Marie Severin]] was then brought in to help layout the art), with her early adventures written by [[Linda Fite]]. She mutated into the super powered tiger-woman Tigra in ''Giant-Size Creatures'' #1 (July 1974), by writer [[Tony Isabella]] and penciller [[Don Perlin]].
+'''Tigra''' ('''Greer Grant Nelson''') is a [[fictional character|fictional]] [[superheroine]] appearing in [[American comic book]]s published by [[Marvel Comics]]. [[First appearance|Introduced]] as the non-superpowered crime fighter '''The Cat''' in ''Claws of the Cat'' #1 (November [[1972 in comics|1972]]), she was created by writer-editor [[Roy Thomas]] and [[artist]] [[Wally Wood]] ([[Marie Severin]] was then brought in to help layout the art), with her early adventures written by [[Linda Fite]]. She mutated into the super powered tiger-woman Tigra in ''Giant-Size Creatures'' #1 (July [[1974 in comics|1974]]), by writer [[Tony Isabella]] and artist [[Don Perlin]].
 
 ==Publication history==
 The Cat was introduced in one of a trio of Marvel Comics aimed at a female audience, alongside ''[[Night Nurse (comics)|Night Nurse]]'' and ''[[Shanna the She-Devil]]''. Marvel writer-editor [[Roy Thomas]] recalled in 2007:
@@ -33,7 +34,7 @@ The Cat was introduced in one of a trio of Marvel Comics aimed at a female audie
 
 The series lasted four issues, each with a different art team. Severin was teamed with acclaimed 1950s [[EC Comics]] artist [[Wally Wood]] as [[inker]] for the premiere, followed by Severin and inker [[Jim Mooney]] in issue #2; newcomer Paty Greer <!--spelled ok--> co-penciling with 1940s [[Golden Age of Comic Books]] legend [[Bill Everett]], who also inked, in issue #3; and [[Jim Starlin]] and [[Alan Weiss (comics)|Alan Weiss]] co-penciling the finale, with [[Frank McLaughlin (artist)|Frank McLaughlin]] inking. A fifth issue of the series was drawn by [[Ramona Fradon]] but the title was canceled due to lack of sales on previous issues.<ref>{{cite journal|last= Cassell|first= Dewey|title= The Lady and the Cat: The Story Behind the Unpublished Fifth Issue of Marvel Comics' ''The Cat''|journal= [[Back Issue!]]|issue= 46|pages= 3–7|publisher= [[TwoMorrows Publishing]]|date= February 2011}}</ref> Severin attributes the character's sensual appearance to Wood: "I remember saying, 'My God, I drew this woman and Wally inked her like she's wrapped in [[Saran Wrap]].' His storytelling always had lovely inking, nice blacks and everything, but I didn't have her that revealing. The boys loved his work, though."<ref name="Back17">{{cite journal|last= Cassell|first= Dewey|date= August 2006|title= Talking About Tigra: From the Cat to Were-Woman|journal= Back Issue!|issue= 17|pages= 26–33|publisher= TwoMorrows Publishing}}</ref>
 
-The Cat appeared alongside [[Spider-Man]] in ''[[Marvel Team-Up]]'' #8 (April 1973) during her series's brief run. After a year's absence, she was revamped as the super powered, part-animal Tigra in a two-part story in ''Giant-Size Creatures'' #1 (July 1974; "Giant-Size" refers to the comic's page-count, not giant creatures) and ''[[Werewolf by Night]]'' #20 (Aug. 1974). Writer [[Tony Isabella]] recounted "My memory may be a bit shaky here, but I recall the Giant-Size books were approved and put on the schedule without a lot of lead time... I think I got the assignment one day, pitched the idea on the next, and one day later was sitting down with Roy [Thomas] and [[Gil Kane]] to work out what Tigra would look like."<ref name="Back17"/> He also names [[Don Perlin]] and [[John Romita, Sr.]] as having a hand in Tigra's appearance, and credits Thomas with coming up with the name.<ref name="Back17"/> Tigra made her solo-feature debut with a 15-page story in the black-and-white [[horror fiction|horror]]-comics magazine ''Monsters Unleashed'' #10 (Feb. 1975), followed by a brief run in the umbrella series ''Marvel Chillers'' #3-7 (Feb.-Oct. 1976), and one more solo story in ''[[Marvel Premiere]]'' #42 (June 1978). Like ''The Cat'', ''Marvel Chillers'' was cancelled due to struggling sales.<ref name="Back17"/>
+The Cat appeared alongside [[Spider-Man]] in ''[[Marvel Team-Up]]'' #8 (April 1973) during her series' brief run. After a year's absence, she was revamped as the super powered, part-animal Tigra in a two-part story in ''Giant-Size Creatures'' #1 (July 1974; "Giant-Size" refers to the comic's page-count, not giant creatures) and ''[[Werewolf by Night]]'' #20 (Aug. 1974). Writer [[Tony Isabella]] recounted "My memory may be a bit shaky here, but I recall the Giant-Size books were approved and put on the schedule without a lot of lead time... I think I got the assignment one day, pitched the idea on the next, and one day later was sitting down with Roy [Thomas] and [[Gil Kane]] to work out what Tigra would look like."<ref name="Back17"/> He also names [[Don Perlin]] and [[John Romita, Sr.]] as having a hand in Tigra's appearance, and credits Thomas with coming up with the name.<ref name="Back17"/> Tigra made her solo-feature debut with a 15-page story in the black-and-white [[horror fiction|horror]]-comics magazine ''Monsters Unleashed'' #10 (Feb. 1975), followed by a brief run in the umbrella series ''Marvel Chillers'' #3-7 (Feb.-Oct. 1976), and one more solo story in ''[[Marvel Premiere]]'' #42 (June 1978). Like ''The Cat'', ''Marvel Chillers'' was cancelled due to struggling sales.<ref name="Back17"/>
 
 Tigra went on to guest star throughout the Marvel line, often appearing in issues of the superhero-team comic ''[[Avengers (comics)|The Avengers]]'' and later in the cast of the spin-off ''[[West Coast Avengers]]''. She starred in the four-issue [[miniseries]] ''Tigra'' (May-Aug. 2002) by writer Christina Z. and artist [[Mike Deodato]], and has since guest starred in ''[[She-Hulk]]'', ''[[Civil War (comic book)|Civil War]]'', various Avengers comics, and elsewhere.
 
@@ -62,7 +63,7 @@ Dr. Tumulo was revealed to be one of these modern Cat People.<ref name="Giant-Si
 
 Greer regained consciousness in a [[Baja California]] cave, surrounded by a gathering of Cat People summoned by Tumolo. Rapidly dying from the radiation's effects, Greer was offered one last hope of survival: a combination of ancient science, sorcery, and mental power that would transform her into Tigra, the Cat People's legendary half-human, half-cat warrior. She readily consented, began wearing only her black [[bikini]] from this time on, and arose from the ceremony as a superhuman-powered human-animal [[Hybrid (biology)|hybrid]]. Striped fur covered her entire body, her hands and feet bore razor-sharp [[claw]]s, her teeth became long and pointed, and her eyes were now cat-eyes. In addition to superhuman strength and senses, she also gained many of the drives and instincts of a cat. Soon after, she encountered the [[Werewolf by Night|Werewolf]].<ref name="Giant-Size Creatures #1"/>
 
-Though initially unable to change back to her human self, the Cat People ultimately gave her a mystical cat-headed amulet that allowed her to first create the illusion of her human form and later to change at will.<ref>''West Coast Avengers'' (Vol. 1) #3 (Dec. 1985)</ref> She seldom made use of it, preferring her feline, super powered form and mostly abandoning her life as Greer Grant-Nelson.
+Though initially unable to change back to her human self, Tigra received from the Cat People a mystical cat-headed amulet that allowed her to first create the illusion of her human form and later to change at will.<ref>''West Coast Avengers'' (Vol. 1) #3 (Dec. 1985)</ref> She seldom made use of it, preferring her feline, super powered form and mostly abandoning her life as Greer Grant-Nelson.
 
 Greer resumed her superhero career, with most of the world unaware that the woman who briefly fought crime as The Cat was now the feline Tigra. She fought alongside most of Marvel's heavy-hitters in wide-ranging adventures. She first battled [[Kraven the Hunter]],<ref>''Marvel Chillers'' #4 (May 1976)</ref> and then teamed with [[Spider-Man]] against Kraven.<ref>''Marvel Team-Up'' #67 (March 1978)</ref> She also became a friend and associate of the [[Fantastic Four]].<ref>''Fantastic Four'' (Vol. 1) #177-184 (Dec. 1976-July 1977)</ref>
 
@@ -106,7 +107,7 @@ Tigra fought along Iron Man's side during the [[Civil War (comic book)|Civil War
 Pretending to switch allegiances, she infiltrated Captain America's Secret Avengers team as a mole. She passed information to Iron Man undetected until the very end of the conflict, when she was discovered and "outed" by [[Hulkling]], Captain America's own spy among the pro-registration forces. Captain America kept quiet, exploiting her presence to feed [[disinformation]] to Iron Man about his team's plan to rescue imprisoned heroes later that day.<ref>''Civil War'' #6 (Dec. 2006)</ref>
 
 ===The Initiative===
-Greer has been identified as one of the 142 registered superheroes who are part of the [[Fifty State Initiative]].<ref>''[[Avengers: The Initiative]]'' #1 (June 2007)</ref><ref>{{cite web |url=http://www.marvel.com/news/comicstories.947 |title=Avengers: The Initiative #1 Character Map |publisher=Marvel.com |date=2010-12-21 |accessdate=2010-12-29 |deadurl=yes |archiveurl=https://archive.is/20120526061017/http://www.marvel.com/news/comicstories.947 |archivedate=2012-05-26 |df= }}</ref> She served as a founding instructor at [[Camp Hammond (comics)|Camp Hammond]], the training compound for The Initiative, and resumed her romantic relationship with fellow superhero [[Henry Pym|Yellowjacket]],<ref>''[[The Mighty Avengers]]'' #3 (May 2007)</ref> unaware that he had been kidnapped and replaced by a Skrull duplicate.
+Greer has been identified as one of the 142 registered superheroes who are part of the [[Fifty State Initiative]].<ref>''[[Avengers: The Initiative]]'' #1 (June 2007)</ref><ref>{{cite web |url=http://www.marvel.com/news/comicstories.947 |title=Avengers: The Initiative #1 Character Map |publisher=Marvel.com |date=2010-12-21 |accessdate=2010-12-29 |url-status=dead |archiveurl=https://archive.is/20120526061017/http://www.marvel.com/news/comicstories.947 |archivedate=2012-05-26 }}</ref> She served as a founding instructor at [[Camp Hammond (comics)|Camp Hammond]], the training compound for The Initiative, and resumed her romantic relationship with fellow superhero [[Henry Pym|Yellowjacket]],<ref>''[[The Mighty Avengers]]'' #3 (May 2007)</ref> unaware that he had been kidnapped and replaced by a [[Skrull]] duplicate.
 
 Tigra was captured by Chilean soldiers controlled by the [[Puppet Master (Marvel Comics)|Puppet Master]], who sculpted a figure in her likeness and thus put her under his mental control. He used her and the other superhuman women he'd enslaved (including [[Cassandra Lang|Stature]], [[Dusk (comics)|Dusk]], [[Anya Corazon|Araña]], and [[Silverclaw]]) as elite guards at his South American base of operations. Tigra and the rest of the heroes were restored to their normal free will when [[Ms. Marvel]] and her S.H.I.E.L.D. strike team liberated the compound and killed the Puppet Master.<ref>''Ms. Marvel'' (Vol. 2) #18-20 (Oct.-Dec. 2007)</ref>
 
@@ -114,7 +115,7 @@ Later she was shot and severely beaten by the [[Hood (comics)|Hood]] in her home
 
 The Hood and his entire crew later appeared at her apartment, demanding to know the location of the [[The New Avengers (comics)|New Avengers]]' secret headquarters. Tigra intentionally gave him information that led them into an ambush. She joined in the battle and personally beat down the Hood, saving the life of [[Iron Fist (comics)|Iron Fist]] in the process. By the time of the Hood's second appearance in her apartment, she had completely recovered from her injuries and had either reacquired her talisman or replaced it with a close facsimile.<ref>''New Avengers Annual'' #2 (Feb. 2008)</ref>
 
-Tigra continued to serve in the Initiative as a senior staff member of the central organization, and was the leader of the Arkansas Initiative team "The Battalion,",<ref>''Avengers: The Initiative'' (Vol. 1) #19 (Jan. 2009)</ref><ref name="Avengers 2009">''Avengers: The Initiative'' (Vol. 1) #20 (Feb. 2009)</ref> until the Initiative was taken over by Norman Osborn and she learned of the Hood's role as his right-hand man.<ref name="Avengers: The Initiative #25">''Avengers: The Initiative'' #25  (Aug. 2009)</ref> She has also appeared as a member of She-Hulk's "[[Lady Liberators]]" team.<ref>''Hulk'' (Vol. 2) #8 (Jan. 2009)</ref>
+Tigra continued to serve in the Initiative as a senior staff member of the central organization, and was the leader of the Arkansas Initiative team "The Battalion,",<ref>''Avengers: The Initiative'' (Vol. 1) #19 (Jan. 2009)</ref><ref name="Avengers 2009">''Avengers: The Initiative'' (Vol. 1) #20 (Feb. 2009)</ref> until the Initiative was taken over by Norman Osborn and she learned of the Hood's role as his right-hand man.<ref name="Avengers: The Initiative #25">''Avengers: The Initiative'' #25 (Aug. 2009)</ref> She has also appeared as a member of She-Hulk's "[[Lady Liberators]]" team.<ref>''Hulk'' (Vol. 2) #8 (Jan. 2009)</ref>
 
 After the [[Secret Invasion|Skrull invasion]], Tigra reveals to Hellcat and [[Trauma (comics)|Trauma]] that she believes herself to be pregnant by Yellowjacket, though she is unsure if the baby is the real Hank's or the Skrull imposter's. She tells Trauma that she has decided to terminate the pregnancy regardless of the father's identity.<ref name="Avengers 2009"/> She later decides to leave the camp for Arkansas, planning to train [[Razorback (comics)|Razorback]], who had been replaced by a Skrull and recently returned, and was eager to take the imposter's place in The Battalion.<ref>''Avengers: The Initiative'' #21 (March 2009)</ref> When she was nearly injured by [[Ragnarok (comics)|Ragnarok]]'s hammer she seemed to show concern for the baby.<ref>''Avengers: The Initiative'' (Vol. 1) #22 (April 2009)</ref>
 
@@ -125,7 +126,7 @@ Tigra is later approached by Ultra Girl asking why she and the Avengers Resistan
 She claimed her final retribution against The Hood not on the battlefield, but after he was rendered powerless and taken into custody. After telling him that she was perfectly comfortable with the idea of taking his life, the sight of his baby in the hallway outside convinced her that dooming him to either a life in prison or on the run would be far worse punishment, as he'd never get to hold his child ever again; and to kill him would jeopardize her future with her own baby. Tigra gave birth to what is apparently a normal Cat Person kitten during the transition between Tony Stark's administration of The Initiative and Norman Osborn's; the gestation period was a mere two months, due to her feline physiology. She hid the infant from Osborn, entrusting its care to the Cat People until the end of hostilities. She named the child William, after her late husband.<ref name="ReferenceA">''Avengers: The Initiative'' (vol. 1) #35 (June 2010)</ref>
 
 ===Heroic Age===
-At the conclusion of The Siege, Tigra stated a new motivation not only to restore the good name of the Avengers, but also to ensure that her child will grow  up in a safer world.<ref name="ReferenceA"/>
+At the conclusion of The Siege, Tigra stated a new motivation not only to restore the good name of the Avengers, but also to ensure that her child will grow up in a safer world.<ref name="ReferenceA"/>
 
 Following the arrest and incarceration of Norman Osborn, the dismantling of his criminal superhero teams, and the repeal of the Superhuman Registration Act, the President names Steve Rogers (the original Captain America) as America's new head of national security. Rogers seeks to assemble a collection of heroes to inspire the nation and the world as a new organization of Avengers. Tigra is among the 25 heroes he personally invites to join him in creating a new Heroic Age.<ref>''Avengers'' (Vol. 4) #1 (July 2010)</ref>
 
@@ -142,6 +143,8 @@ She has slowly grown closer to Henry Pym and the two have resumed their romantic
 Tigra was one of ten female heroes recruited by Misty Knight to aid her and Valkyrie in repelling a group of [[Asgard (comics)|Asgardian]] Doom Maidens. At the end of this adventure, Valkyrie comes to realize that Tigra and three of the other heroines are among those deemed by the All-Mother to be worthy to become shieldmaidens like herself, symbols of honor and valor and courage, to one day be led by Valkyrie into battle and death.<ref>''Fearless Defenders'' (Vol. 1) #6 (July 2013)</ref>
 
 During the ''[[Secret Empire (comics)|Secret Empire]]'' storyline, Tigra appears as a member of the Underground which is a resistance movement against Hydra ever since they took over the United States.<ref>''Secret Empire'' #1</ref>
+
+Tigra appeared in the [[Fresh Start (comics)|Fresh Start]] revival of West Coast Avengers in which she had been changed into a giant with her mind set to a feral state.<ref>''West Coast Avengers'' Vol 3 #2</ref>
 
 ==Powers and abilities==
 Tigra's powers are the result of a combination of science, magic, and mental energy utilized by Dr. Joeanne Marie Tumulo and other [[Cat People (comics)|Cat People]]. Her physical appearance is distinctly cat-like. A thick, sleek coat of orange fur with black stripes covers her entire body. She has pointed ears, sharper-than-normal teeth with pronounced upper and lower canines, eyes with enlarged irises and vertically slitted pupils, and retractable claws on her feet and hands instead of nails. Her claws and teeth are sufficiently strong to puncture sheet steel, such as that found in a car body. Tigra also has a long semi-prehensile tail, and can willfully contact (but not grasp and lift) objects with it. Tigra's feline physiology grants her various superhuman attributes including superhuman strength, speed, stamina, agility, reflexes, and resistance to physical injury. If she is injured, her physiology enables her to heal much faster and more extensively than an ordinary human.
@@ -179,14 +182,13 @@ Tigra's physiology is more feline than human. When she became pregnant via the S
 ==Other versions==
 
 ===Spidey Super Stories===
-
-Greer Nelson appears as the Cat in several issues of this comic which was designed for young readers at a joint project with the [[PBS]] series [[The Electric Company]].{{citation needed|date=October 2016}} The Cat always appears in her costumed identity and is apparently based in New York City. She helps Spidey in several adventures capturing villains like the Owl and [[Thanos]].  The second adventure is notorious among comic fans for its portrayal of Thanos.{{citation needed|date=October 2016}} He and the Cat are both looking for the [[Cosmic Cube]]. When Thanos gets hold of the powerful artifact he attempts to flee in a helicopter with his name written on the side. Spider-man and the Cat bring down the copter and recover the cube. The story ends with the NYPD taking Thanos away in handcuffs.{{issue|date=October 2016}}
+Greer Nelson appears as the Cat in several issues of this comic which was designed for young readers at a joint project with the [[PBS]] series [[The Electric Company]].{{citation needed|date=October 2016}} The Cat always appears in her costumed identity and is apparently based in New York City. She helps Spidey in several adventures capturing villains like the Owl and [[Thanos]]. The second adventure is notorious among comic fans for its portrayal of Thanos.{{citation needed|date=October 2016}} He and the Cat are both looking for the [[Cosmic Cube]]. When Thanos gets hold of the powerful artifact he attempts to flee in a helicopter with his name written on the side. Spider-man and the Cat bring down the copter and recover the cube. The story ends with the NYPD taking Thanos away in handcuffs.{{issue|date=October 2016}}
 
 ===Marvel Adventures===
 Tigra also exists in the alternative "all-ages" version of the Marvel Universe. Though identical in appearance to the main-universe Tigra, she wears a more modest suit which covers more of her torso than her familiar bikini. She is working as an independent private investigator when a masked man, purporting to be a famous author researching a book about the Avengers, hires Tigra to secretly trail and collect information about its members. After two weeks of following individual Avengers and attempting to avoid detection, she observes the team fighting a losing battle against The Griffin. She leaps in to join the fray. The Griffin is subdued with her help and the team reveals to Tigra that her mysterious client was actually Spider-Man; the assignment was merely a ruse designed to evaluate her potential as an Avenger. She is offered a spot on the team and eagerly accepts.<ref>''Marvel Adventures: Avengers'' (Vol. 1) #30 (Jan. 2008)</ref>
 
 ===House Of M===
-In the [[House of M]] reality in which [[Magneto (comics)|Magneto]] rules the world and mutants are the dominant species, Tigra exploits her feline appearance to "pass" as a mutant. She operates unnoticed in mainstream mutant society on behalf of pro-human groups, first as a member of the Sapien Liberation Army and then as a founding member of [[Luke Cage]]'s underground "Avengers" team as well as becoming his lover.<ref>''House Of M: Avengers'' (Vol. 1) #1 (Jan. 2008)</ref> During an FBI ambush set up by [[Misty Knight#House Of M|Misty Knight]], Tigra spots the [[Taskmaster (comics)|Taskmaster]] taking aim at Cage from a distant rooftop and leaps into the line of fire. She takes the bullet, saving Cage's life, and dies at the scene.<ref>''House Of M: Avengers'' (Vol. 1) #2 (Feb. 2008)</ref>
+In the [[House of M]] reality in which [[Magneto (Marvel Comics)|Magneto]] rules the world and mutants are the dominant species, Tigra exploits her feline appearance to "pass" as a mutant. She operates unnoticed in mainstream mutant society on behalf of pro-human groups, first as a member of the Sapien Liberation Army and then as a founding member of [[Luke Cage]]'s underground "Avengers" team as well as becoming his lover.<ref>''House Of M: Avengers'' (Vol. 1) #1 (Jan. 2008)</ref> During an FBI ambush set up by [[Misty Knight#House Of M|Misty Knight]], Tigra spots the [[Taskmaster (comics)|Taskmaster]] taking aim at Cage from a distant rooftop and leaps into the line of fire. She takes the bullet, saving Cage's life, and dies at the scene.<ref>''House Of M: Avengers'' (Vol. 1) #2 (Feb. 2008)</ref>
 
 ===Marvel Mangaverse===
 She also appears in the "[[Marvel Mangaverse]]" alternate reality as Dr. Strange's assistant/familiar, bound by a magical curse that keeps her in were-tiger form until she completes a thousand good deeds.{{Issue|date=May 2009}} She survives the first and second volumes of the Marvel Mangaverse series, but is murdered within the first few pages of the third and final volume; ''New Mangaverse: The Rings of Fate''.{{Issue|date=August 2009}}
@@ -197,13 +199,17 @@ In the ''[[Marvel Zombies]]'' continuity, Tigra as a zombie is seen in ''Ultimat
 ===Ultimate Marvel===
 The [[Ultimate Marvel]] universe version of Tigra appeared as a member of the West Coast [[Ultimates]].<ref>''Ultimate Comics Ultimates'' 22 (March 2013)</ref> She was originally a young [[police officer]] named '''Marie Grant''', who after being convicted of using excessive force, was sentenced to 20 years in prison. [[Ultimate Nick Fury|Nick Fury]] secured Marie's release on the condition that she joined his [[West Coast Avengers|new team]] of [[Ultimates]], which led to [[S.H.I.E.L.D.]] scientists granting her superhuman abilities.<ref>''Ultimate Comics Ultimates'' #23 (April 2013)</ref>
 
+===Infinity Warps===
+In Warp World, a copy of the [[Marvel Universe]] when was folded in half during the ''[[Infinity Wars]]'' storyline, Tigra was fused with [[Wendigo (comics)|Wendigo]] creating Wentigra. Greer Baptise was a detective who was mortaly wounded by a gunshot and was retrieved by a cult known as the Cat People. In order for her to survive, they offered her to eat human meat which cursed her into becoming Wentigra. She was then unwillingly cured by Weapon Hex (fusion of [[X-23]] and [[Scarlet Witch]]).<ref>''Secret Warps: Weapon Hex Annual'' #1. Marvel Comics</ref>
+
 ==Reception==
 Tigra was ranked 61st in ''[[Comics Buyer's Guide]]'s'' "100 Sexiest Women in Comics" list.<ref>{{cite book| last = Frankenhoff| first = Brent| authorlink = Brent Frankenhoff| title = Comics Buyer's Guide Presents: 100 Sexiest Women in Comics| publisher = [[Krause Publications]] | year = 2011| page = 42| url = | isbn = 1-4402-2988-0}}</ref>
 
 ==In other media==
 
 ===Television===
-* Tigra was a member of the Avengers in the animated series and tie-in comic ''[[The Avengers: United They Stand]]'' voiced by [[Lenore Zann]]. In this incarnation, Greer is an athlete who underwent genetic treatments to give her a competitive edge.{{Citation needed|date=February 2010}} These treatments went awry, leaving her with the form and abilities of a tiger.{{Citation needed|date=October 2009}} This series supported both a toy line and a brief tie-in comic. In the show, she had a very close developing relationship with [[Falcon (comics)|Falcon]]. Tigra also had a fear of water as seen in the episode "To Rule Atlantis" despite the fact that tigers can swim.
+* Tigra was a member of the Avengers in the animated series and tie-in comic ''[[The Avengers: United They Stand]]'', voiced by [[Lenore Zann]]. In this incarnation, Greer is an athlete who underwent genetic treatments to give her a competitive edge.{{Citation needed|date=February 2010}} These treatments went awry, leaving her with the form and abilities of a tiger.{{Citation needed|date=October 2009}} This series supported both a toy line and a brief tie-in comic. In the show, she had a very close developing relationship with [[Falcon (comics)|Falcon]]. Tigra also had a fear of water as seen in the episode "To Rule Atlantis" despite the fact that tigers can swim.
+* [[Hulu]] will air a ''[[Tigra & Dazzler (TV series)|Tigra and Dazzler]]'' animated series written and executive produced by Erica Rivinoja and [[Chelsea Handler]]. The two will team up with [[MODOK]], [[Hit-Monkey]], and [[Howard the Duck]] in the animated special ''[[The Offenders (TV series)|The Offenders]]''.<ref>{{cite web|url=https://www.hollywoodreporter.com/live-feed/marvel-hulu-set-four-show-animated-slate-howard-duck-modok-hit-money-tigra-dazzler-1185246|title=Marvel, Hulu Set Four-Show Animated Slate|publisher=The Hollywood Reporter|author=Lesley Goldberg|date=February 11, 2019|accessdate=February 11, 2019}}</ref>
 
 ===Video games===
 * Tigra appears in Hawkeye's ending in ''[[Ultimate Marvel vs. Capcom 3]]'' as a member of his West Coast Avengers.
@@ -215,8 +221,23 @@ Tigra was ranked 61st in ''[[Comics Buyer's Guide]]'s'' "100 Sexiest Women in Co
 ===Toys and collectibles===
 * In 2006, [[Bowen Designs]] released a Tigra mini-bust. It was sculpted by Jim Maddox, based largely on a 2001 sketch by [[Sean Chen (artist)|Sean Chen]].
 * An action figure based on Tigra's animated design was released as part of a line of Toy Biz "Avengers United" tie-in toys in 2000.
-* A Tigra action figure appeared as part of [[Marvel Toys|Toy Biz]]'s Marvel Hall Of Fame: She Force line in 1997. It was a repaint of an existing Toy Biz [[Black Cat (Marvel Comics)|Black Cat]] action figure and as such featured many details that are incorrect, giving Tigra boots and a studded collar, as well as large rings of bushy fur around her calves and forearms where the thick fur trim on the tops of the Black Cat's boots and gloves would be.
-* In 2009, Hasbro released a Tigra action figure as part of their Marvel Legends line, reflecting her appearance in current mainstream Marvel continuity.
+* A Tigra action figure appeared as part of [[Marvel Toys|Toy Biz]]'s Marvel Hall of Fame: She-Force line in 1997. It was a repaint of an existing Toy Biz [[Black Cat (Marvel Comics)|Black Cat]] action figure and as such featured many details that are incorrect, giving Tigra boots and a studded collar, as well as large rings of bushy fur around her calves and forearms where the thick fur trim on the tops of the Black Cat's boots and gloves would be.
+* In 2009, Hasbro released a Tigra action figure as part of their [[Marvel Legends]] line, reflecting her appearance in current mainstream Marvel continuity.
+
+==Collected editions==
+
+{| class="wikitable sortable"
+|-
+! Title
+! Material collected
+! Year
+! ISBN
+|-
+|'''Tigra The Complete Collection'''
+|''The Cat'' 1-4; ''Marvel Team-Up'' Vol. 1 #8, 67, 125; ''Giant-Size Creatures'' #1; ''Marvel Chillers'' #3-7; ''Marvel Two-In-One'' Vol. 1 #19; <br/>''Marvel Premiere'' #42; ''Tigra'' #1-4; Material From ''Monsters Unleashed'' #10
+|2019
+|{{ISBNT|978-1302920692}}
+|}
 
 ==References==
 {{reflist|colwidth=30em}}
@@ -226,6 +247,7 @@ Tigra was ranked 61st in ''[[Comics Buyer's Guide]]'s'' "100 Sexiest Women in Co
 * [https://web.archive.org/web/20061007030657/http://www.cwob.com/tigra/ The Tigra Gallery]
 * [http://www.toonopedia.com/tigra.htm Tigra] at [[Don Markstein's Toonopedia]]
 * [http://www.maelmill-insi.de/UHBMCC/ The Unofficial Handbook of Marvel Comics Creators]
+* {{Marveldatabase}}
 
 {{Avengers}}
 {{Avengers Academy}}
@@ -233,7 +255,7 @@ Tigra was ranked 61st in ''[[Comics Buyer's Guide]]'s'' "100 Sexiest Women in Co
 {{Initiative}}
 {{Moon Knight}}
 
-{{Portal bar|Fictional characters|Superhero fiction|1970s}}
+{{Portal bar|Speculative fiction}}
 
 [[Category:Characters created by Gil Kane]]
 [[Category:Characters created by John Romita Sr.]]
@@ -255,3 +277,4 @@ Tigra was ranked 61st in ''[[Comics Buyer's Guide]]'s'' "100 Sexiest Women in Co
 [[Category:Marvel Comics mutates]]
 [[Category:Marvel Comics superheroes]]
 [[Category:Marvel Comics titles]]
+[[Category:Marvel Comics female superheroes]]

@@ -19,7 +19,7 @@
 | sortkey        = Abigail Brand
 | addcharcat#    = 
 }}
-[[Special agent|Special Agent]] '''Abigail Brand''' is a [[fictional character]] appearing in [[American comic book]]s published by [[Marvel Comics]].
+[[Special agent|Special Agent]] '''Abigail Brand''' is a [[fictional character]] appearing in [[American comic book]]s published by [[Marvel Comics]]. Created by writer [[Joss Whedon]] and artist [[John Cassaday]], she first appeared in ''[[Astonishing X-Men]]''  #3 (September 2004). She is most notable for being the Commander of [[S.W.O.R.D. (comics)|S.W.O.R.D.]]
 
 ==Publication history==
 Abigail Brand's first appearance was a cameo in ''[[Astonishing X-Men]]''  #3 (September [[2004 in comics|2004]]), and she was introduced fully in ''Astonishing X-Men'' #6 (December 2004). She was created by writer [[Joss Whedon]] and artist [[John Cassaday]].
@@ -27,7 +27,7 @@ Abigail Brand's first appearance was a cameo in ''[[Astonishing X-Men]]''  #3 (S
 ==Fictional character biography==
 
 ===Origin===
-Abigail Brand is the commanding officer of [[S.W.O.R.D. (comics)|S.W.O.R.D.]], a [[S.H.I.E.L.D.]] offshoot that deals with defending the Earth from extraterrestrial threats.  Almost no details about her personal life have been revealed, but she is known to be 28 years old as of the [[Skrull]]'s "Secret Invasion".<ref name="WDYT">''Secret Invasion: Who Do You Trust'' one-shot</ref>
+Abigail Brand is the commanding officer of [[S.W.O.R.D. (comics)|S.W.O.R.D.]], a [[S.H.I.E.L.D.]] offshoot that deals with defending the Earth from extraterrestrial threats.  Almost no details about her personal life have been revealed, but she is known to be 28 years old as of the [[Skrulls]]' "Secret Invasion".<ref name="WDYT">''Secret Invasion: Who Do You Trust'' one-shot</ref>
 
 ===Ord and The Breakworld===
 When an alien by the name of [[Ord (comics)|Ord]] came to Earth, convinced that a [[mutant (Marvel Comics)|mutant]] was destined to destroy his planet, Brand intervened in order to avoid an interplanetary war. Brand acquiesced to Ord's plan to avert the destruction of his world by allowing him to create a 'cure' for the mutant 'condition'. It was later revealed that the mutant prophesied to destroy Breakworld was [[Colossus (comics)|Colossus]]. Furthermore, statements made by Ord suggest that neutralizing Earth's mutant population may have been just one step in an as-yet unrevealed plan.
@@ -111,3 +111,4 @@ An alternate version of Abigail Brand appears in the [[Ultimate Marvel]] univers
 [[Category:Marvel Comics aliens]]
 [[Category:Marvel Comics mutants]]
 [[Category:S.H.I.E.L.D. agents]]
+[[Category:Marvel Comics female superheroes]]

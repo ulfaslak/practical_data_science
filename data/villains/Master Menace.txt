@@ -1,5 +1,5 @@
 {{Notability|date=October 2018}}
-Dr. Emil Burbank, also known as '''Master Menace''', is a [[fiction]]al character appearing in [[American comic book]]s published by [[Marvel Comics]]. Two different versions of the character appear in two separate (but related) continuities, [[Squadron Supreme]] and [[Supreme Power]].
+'''Master Menace''' is a [[fiction]]al character appearing in [[American comic book]]s published by [[Marvel Comics]]. Two different versions of the character appear in two separate (but related) continuities, ''[[Squadron Supreme]]'' and ''[[Supreme Power]]''. Both bear the real name of '''Dr. Emil Burbank''', though the former character has the middle name of "Zebediah".
 
 ==Squadron Supreme==
 {{Infobox comics character| <!--Wikipedia:WikiProject Comics-->
@@ -25,7 +25,7 @@ Originally, Hyperion encountered Dr. Emil Burbank (a.k.a. Master Menace) on [[Ea
 
 On this occasion, Burbank works with the evil Hyperion of the mainstream Marvel Universe, and imprisons the visiting [[Thor (Marvel Comics)|Thor]]. Burbank is taken captive but later found himself in an interdimensional vacuum as he attempted to escape confinement.{{issue|date=March 2013}}
 
-When the Squadron are rebuilding America after the devestation caused by the [[Overmind (comics)|Overmind]], Master Menace concentrated his efforts on conquering the Middle East. He gave shelter to three supervillains: [[Remnant (comics)|Remnant]], [[Pinball (comics)|Pinball]], and the [[Mink (comics)|Mink]], sending them to [[Earth-616]]. He later supplied the [[America Redeemers|Redeemers]] with a way to reverse the brainwashing technology of the Squadron.{{issue|date=March 2013}}
+When the Squadron are rebuilding America after the devastation caused by the [[Overmind (comics)|Overmind]], Master Menace concentrated his efforts on conquering the Middle East. He gave shelter to three supervillains: [[Remnant (comics)|Remnant]], [[Pinball (comics)|Pinball]], and the [[Mink (comics)|Mink]], sending them to [[Earth-616]]. He later supplied the [[America Redeemers|Redeemers]] with a way to reverse the brainwashing technology of the Squadron.{{issue|date=March 2013}}
 
 In ''Squadron Supreme: Death of a Universe'', Emil Burbank ages fifteen years after going into the 41st century with Scarlet Centurion to build a device to stop the [[Nth Man]].{{issue|date=March 2013}}
 
@@ -38,15 +38,15 @@ In ''Squadron Supreme: New World Order'', Emil Burbank is a wheelchair-bound old
 |character_name= Emil Burbank
 |real_name=
 |publisher=[[Marvel Comics]] 
-|debut=[[Supreme Power]] #18
-|creators=[[J. Michael Straczynski]]
+|debut=''[[Supreme Power]]'' #18
+|creators=[[J. Michael Straczynski]]<br>[[Gary Frank]]
 |alliances=[[Squadron Supreme (Supreme Power)|Squadron Supreme]]
 |aliases=
 |powers=Superhuman intelligence
 }}
 
 ===Fictional character biography===
-'''Emil Burbank''' is a man with many aliases and possibly the greatest intellect on the planet. He has [[Doctoral]] Degrees in [[Biology]], [[Chemistry]], [[Metallurgy]], [[Psychology]], [[Economics]] and [[literature]] from three different universities. As a child, he sexually abused his older sister by drugging her unconscious with chemical compounds, eventually leaving her in a permanent catatonic state. At 18, his parents died in a car accident, which he arranged and boasts about even while trying to say it was an accident. Emil is noted for malicious and homicidal retribution against those he feels have wronged him. A school bully and a professor who accused him of cheating were both caught in fires started by Emil.{{Issue|date=February 2019}}
+'''Emil Burbank''' is a man with many aliases and possibly the greatest intellect on the planet. He has [[Doctorate|doctoral]] degrees in [[biology]], [[chemistry]], [[metallurgy]], [[psychology]], [[economics]] and [[literature]] from three different universities. As a child, he sexually abused his older sister by drugging her unconscious with chemical compounds, eventually leaving her in a permanent catatonic state. At 18, his parents died in a car accident, which he arranged and boasts about even while trying to say it was an accident. Emil is noted for malicious and homicidal retribution against those he feels have wronged him. A school bully and a professor who accused him of cheating were both caught in fires started by Emil.{{Issue|date=February 2019}}
 
 After Emil agrees to work for the government, General Alexander sends Emil, [[Nuke (Squadron Supreme)|Nuke]], [[Arcanna]], and [[Shape (comics)|Shape]] to apprehend or destroy Hyperion. While fighting Hyperion, Arcanna's quantum powers, Nuke's radioactive blast, and Hyperion's flash vision combine to create an effect that sends them all to an alternate reality, where Hyperion and most of the other heroes wage war against Earth's governments, to "save" humanity. However, the "alternate" reality is actually their reality, only years in the future. Emil and Hyperion are the only two members of the Squadron aware of this information after the five are returned to the correct time stream.<ref>''Supreme Power: Hyperion'' #1 - 5 (2005 - 2006)</ref>
 

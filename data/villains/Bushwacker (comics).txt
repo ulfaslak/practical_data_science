@@ -1,3 +1,4 @@
+{{short description|Fictional comic book character}}
 {{Other uses|Bushwhackers (disambiguation)}}
 {{Primary sources|date=February 2008}}
 {{Infobox comics character <!--Wikipedia:WikiProject Comics-->
@@ -11,7 +12,7 @@
 |creators=[[Ann Nocenti]] (writer)<br>[[Rick Leonardi]] (artist)
 |alliances=
 |aliases=
-|powers=Trained assassin, hand to hand combatant and infiltrator<br>Familiarity with the workings of international intelligence agencies and their methods<br>Ability to reshape cybernetic arms into various ballistic weapons and a flamethrower
+|powers=Trained assassin, hand to hand combatant and infiltrator<br>Familiarity with the workings of international intelligence agencies and their methods<br>Ability to reshape cybernetic arms into various ballistic/melee weapons and a flamethrower<br>Regenerative healing factor<br>Resurrection. 
 |cat=super
 |subcat=Marvel Comics
 |villain=y
@@ -46,10 +47,14 @@ In ''[[X-Force]]: Sex and Violence'' #2, Bushwacker was apparently killed by Wol
 
 During the ''[[Civil War II]]'' storyline, Kingpin encounters Bushwacker in San Francisco.<ref>''Civil War II: Kingpin'' #1</ref>
 
-==Powers and abilities==
-Bushwacker's right arm has been altered bionically so that it can function as a gun. He can fire bullets from his index finger as if his hand were a pistol. Using his left hand, he can alter the configuration of his right arm, allowing it to function in several modes that replicate the effects of a number of weapons, including a machine gun and a shotgun. He employs powerful gadgets and weapons, most notably a flamethrower, all of which can be created by the mechanical prostheses that have replaced his forearms. He manages to load the weapons by swallowing ammo, such as bullets or flamethrower fuel. Bushwacker's skin can liquefy to seal wounds. There are some versions that take this a step further, having Bushwacker be able to use highly concussive energy weaponry (very similar to that of Iron Man or War Machine), and even be able to morph his arm into blades as a last resort.
+Bushwacker appeared to be killed when Hulk literally exploded when bathed in too much Gamma radiation.<ref>''Immortal Hulk'' #17</ref>
 
-In the ''Daredevil vs. Punisher'' miniseries, it was implied that his powers are actually a natural mutation, making the assassin himself one of the mutants he hates so much.{{issue|date=May 2012}} However, this is contradicted by his other appearances which identify the origins of his powers as cybernetics.{{issue|date=May 2012}}
+==Powers and abilities==
+Bushwacker's arms and skin had been modified using malleable plastic that appears human, but has transformable biomolecular structure which affords him a great many unique powers & abilities. On top of this he has been altered bionically so that his hands can function as a gun, sword or other such armament he can think of.<ref>''Official Handbook of the Marvel Universe A-Z'' Vol 1 #2</ref>
+
+Burbank can fire bullets from his index finger as if his hand were a pistol. With a thought, he can alter the configuration of his right or left arm, allowing either to function in several modes that replicate the effects of a number of weapons. Including a machine gun, shotgun or even energy based cannonry. He employs powerful gadgets and weapons, most notably a flamethrower, all of which can be created by the mechanical prostheses that have replaced his forearms. He manages to load the weapons by swallowing ammo, such as bullets or flamethrower fuel. There are some versions that take this a step further, having Bushwacker be able to use highly concussive energy weaponry (very similar to that of Iron Man or War Machine),<ref>''Punisher War Journal'' Vol 2 #5</ref> and even be able to morph his arm into blades as a last resort. Bushwacker's skin can liquefy to seal wounds,<ref>''Nomad'' Vol 2 #5</ref> he even boasts a kind of healing ability that can seemingly revive him even from fatal injury.<ref>''X-Force: Sex and Violence'' #2</ref>
+
+In the ''Daredevil vs. Punisher'' miniseries, it was implied that his powers are actually a natural mutation, making the assassin himself one of the mutants he hates so much.<ref>''Daredevil vs. Punisher'' #3</ref> However, this is contradicted by his other appearances which identify the origins of his powers as cybernetics.
 
 Bushwacker has been trained in CIA hand-to-hand combat techniques, and is trained in infiltration and assassination. He also has familiarity with the workings of international intelligence agencies and their methods.
 
@@ -72,6 +77,7 @@ Bushwacker appeared in the [[House of M]] reality spin-off ''House of M: Masters
 
 {{Daredevil}}
 {{Punisher}}
+{{Spider-Man characters}}
 
 [[Category:Characters created by Ann Nocenti]]
 [[Category:Comics characters introduced in 1987]]

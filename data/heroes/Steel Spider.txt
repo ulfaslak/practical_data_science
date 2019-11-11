@@ -4,7 +4,7 @@
 |character_name=Steel Spider
 |real_name=Oliver "Ollie" Osnick
 |publisher=[[Marvel Comics]]
-|debut='''(As Ollie Osnick)''':<br>''[[The Spectacular Spider-Man]]'' #72 (Nov 1982)<br>'''(As Spider-Kid)''':<br>''[[The Amazing Spider-Man]]'' #263<br>'''(As Steel Spider)''':<br>''[[Spider-Man Unlimited (comic book)]]'' #5
+|debut='''(As Ollie Osnick)''':<br>''[[The Spectacular Spider-Man]]'' #72 (Nov 1982)<br>'''(As Spider-Kid)''':<br>''[[The Amazing Spider-Man]]'' #263 (April 1985)<br>'''(As Steel Spider)''':<br>''[[Spider-Man Unlimited (comic book)]]'' #5
 |creators=[[Bill Mantlo]] (writer)<br>[[Ed Hannigan]] (artist)         
 |alliances=The Misfits
 |aliases=Kid Ock, Spider-Kid
@@ -64,3 +64,4 @@ In the [[Marvel Comics 2|MC2]] continuity, Ollie Osnick never quits being Steel 
 [[Category:Comics characters introduced in 1992]]
 [[Category:Fictional engineers]]
 [[Category:Fictional amputees]]
+[[Category:Spider-Man characters]]

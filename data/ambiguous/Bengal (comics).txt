@@ -1,4 +1,7 @@
+{{Multiple issues|
 {{Notability|date=January 2019}}
+{{Lead missing|date=October 2019}}
+}}
 {{Infobox comics character| <!--Wikipedia:WikiProject Comics-->
 |image=Bengsl.jpg
 |image_size=250
@@ -17,7 +20,7 @@
 '''Bengal''' ('''Duc No Tranh''') is a fictional character appearing in [[American comic book]]s published by [[Marvel Comics]].
 
 ==Publication history==
-{{expand-section|date=January 2016}}
+{{expand section|date=January 2016}}
 The character first appeared in ''[[Daredevil (Marvel Comics series)|Daredevil]]'' #258 and was created by [[Fabian Nicieza]] and artist [[Ron Lim]].
 
 ==Fictional character biography==
@@ -34,7 +37,7 @@ Bengal has been identified as one of the 142 registered superheroes who are bein
 
 As part of his training, he battles the [[Thing (comics)|Thing]] alongside many others of his class, with little success.
 
-Bengal is the leader of the Initiative's black-ops team created by [[Henry Peter Gyrich]].<ref>Avengers: The Initiative #4</ref> Soon after, the [[Hulk (comics)|Hulk]] returns from deep space with an army and battles many of Earth's heroes. Some of the Camp Hammond recruits are captured and kept imprisoned in [[Madison Square Garden]]. Bengal, [[Constrictor (comics)|Constrictor]], Mutant Zero and other operatives free the Hammond prisoners.<ref>''Avengers: The Initiative #4 & #5</ref>
+Bengal is the leader of the Initiative's black-ops team created by [[Henry Peter Gyrich]].<ref>Avengers: The Initiative #4</ref> Soon after, the [[Hulk]] returns from deep space with an army and battles many of Earth's heroes. Some of the Camp Hammond recruits are captured and kept imprisoned in [[Madison Square Garden]]. Bengal, [[Constrictor (comics)|Constrictor]], Mutant Zero and other operatives free the Hammond prisoners.<ref>''Avengers: The Initiative #4 & #5</ref>
 
 When the Shadow Initiative was fighting K.I.A., Constrictor was badly wounded and Bengal ran away with the body, with a last hope to save his friend.<ref>''Avengers: The Initiative'' #10</ref>
 
@@ -49,7 +52,7 @@ Bengal is a martial arts master and an exceptional athlete. He is also an excell
 
 ==In other media==
 ===Video games===
-* Bengal appears in ''[[Lego Marvel's Avengers]]''.{{cn|date=January 2016}}
+* Bengal appears in ''[[Lego Marvel's Avengers]]''.{{citation needed|date=January 2016}}
 
 ==References==
 {{Reflist}}

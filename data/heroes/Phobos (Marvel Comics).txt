@@ -31,7 +31,7 @@
 | villain        = 
 | sortkey        = Phobos (Marvel Comics)
 }}
-'''Phobos''' is the name of two fictional comic book characters appearing in books published by [[Marvel Comics]] characters. The first appeared in ''[[Doctor Strange|Dr. Strange]], Sorcerer Supreme'' #32 (August 1991) in a story written by [[Roy Thomas]] and [[Jean-Marc Lofficier]].
+'''Phobos''' is the name of two fictional comic book characters appearing in books published by [[Marvel Comics]] characters, based on the [[Phobos (mythology)|Greek mythological deity of the same name]]. The first appeared in ''[[Doctor Strange|Dr. Strange]], Sorcerer Supreme'' #32 (August 1991) in a story written by [[Roy Thomas]] and [[Jean-Marc Lofficier]].
 
 The second and current Phobos first appeared in the 2006 ''Ares: God of War'' mini-series (written by [[Michael Avon Oeming]]; art by [[Travel Foreman]]). He is the son of [[Ares (Marvel Comics)|Ares]], step-brother to [[Hippolyta (Marvel Comics)|Hippolyta]], and a member of the [[Secret Warriors (Team White)|Secret Warriors]].
 
@@ -97,3 +97,4 @@ According to the ''Thor & Hercules: Encyclopaedia Mythologica'', the original Ph
 [[Category:Comics characters introduced in 1991]]
 [[Category:Greco-Roman mythology in Marvel Comics]]
 [[Category:Greek and Roman gods in fiction]]
+[[Category:Fictional male deities]]

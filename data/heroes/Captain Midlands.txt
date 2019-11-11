@@ -19,7 +19,7 @@
 '''Captain Midlands''', real name '''"Rambling" Sid Ridley''',<ref name="Wisdom#1">{{Comic book reference | Writer = [[Paul Cornell]] | Penciller = [[Trevor Hairsine]] | Inker = [[Paul Neary]], [[Trevor Hairsine]] | Story = The Rudiments of Wisdom. Part 1: The Day The Fairies Came Out | Title = [[Pete Wisdom|Wisdom]] | Issue = 1 | Date = January 2007 | Publisher = [[Marvel Comics]] | }}</ref> is a [[fictional character|fictional]] character appearing in [[American comic book]]s published by [[Marvel Comics]]. Captain Midlands was created by writer [[Paul Cornell]] and first penciled by [[Trevor Hairsine]] and first appeared in ''[[Pete Wisdom|Wisdom]]'' #1 (January 2007).
 
 ==Characterization==
-Captain Midlands is a [[patriotic]] [[United Kingdom|British]] [[war veteran]] and a right-wing analogue of [[Captain America (set index)|Captain America]]. An eighty-year-old [[Brummie]]<ref name="meet">[http://www.marvel.com/news/comicstories.5115.MI_13~colon~_Meet_Captain_Midlands MI 13: Meet Captain Midlands], [[Marvel.com]], September 24, 2008</ref> superhero, Captain Midlands is often portrayed as a [[Irritable Male Syndrome|grumpy old git]]. His real name, "Rambling" Sid Ridley, is a combination of [[Kenneth Williams]]' ''[[Round the Horne]]'' character ‘Rambling Sid Rumpo’ and [[Arnold Ridley]] who played [[Private Godfrey]] in the [[sitcom]] ''[[Dad's Army]]''.<ref name="W1C">{{cite web |title=Wisdom Issue One Commentary. By Paul Cornell |url=http://fractalmatter.com/main/?p=475 |publisher=fractalmatter.com |date=1 December 2006 |accessdate=2008-06-03 |quote=‘Rambling Sid Rumpo’ was Kenneth Williams’ folk singer character in the radio show ''Round the Horne'', a man very much out of his time, and Arnold Ridley was the very old soldier Private Godfrey in the sitcom ''Dad’s Army''. |deadurl=yes |archiveurl=https://web.archive.org/web/20090731221317/http://fractalmatter.com/main/?p=475 |archivedate=2009-07-31 |df= }}</ref>
+Captain Midlands is a [[patriotic]] [[United Kingdom|British]] [[war veteran]] and a right-wing analogue of [[Captain America (set index)|Captain America]]. An eighty-year-old [[Brummie]]<ref name="meet">[http://www.marvel.com/news/comicstories.5115.MI_13~colon~_Meet_Captain_Midlands MI 13: Meet Captain Midlands], [[Marvel.com]], September 24, 2008</ref> superhero, Captain Midlands is often portrayed as a [[Irritable Male Syndrome|grumpy old git]]. His real name, "Rambling" Sid Ridley, is a combination of [[Kenneth Williams]]' ''[[Round the Horne]]'' character ‘Rambling Sid Rumpo’ and [[Arnold Ridley]] who played [[Private Godfrey]] in the [[sitcom]] ''[[Dad's Army]]''.<ref name="W1C">{{cite web |title=Wisdom Issue One Commentary. By Paul Cornell |url=http://fractalmatter.com/main/?p=475 |publisher=fractalmatter.com |date=1 December 2006 |accessdate=2008-06-03 |quote=‘Rambling Sid Rumpo’ was Kenneth Williams’ folk singer character in the radio show ''Round the Horne'', a man very much out of his time, and Arnold Ridley was the very old soldier Private Godfrey in the sitcom ''Dad’s Army''. |url-status=dead |archiveurl=https://web.archive.org/web/20090731221317/http://fractalmatter.com/main/?p=475 |archivedate=2009-07-31 }}</ref>
 
 Captain Midlands' nuanced role sees him more as a down-to-earth hero, with Paul Cornell describing him as
 
@@ -56,13 +56,10 @@ When the character became popular, creator, Paul Cornell decided to add more dra
 
 ==External links==
 *[http://en.marveldatabase.com/Sid_Ridley_(Earth-616) Sid Ridley (Earth-616) - marveldatabase.com]
-
-[[Category:Marvel Comics martial artists]]
-[[Category:Marvel Comics mutates]]
-[[Category:Marvel Comics superheroes]]
-[[Category:Fictional English people]]
-[[Category:United Kingdom-themed superheroes]]
 [[Category:British superheroes]]
 [[Category:Fictional British Army personnel]]
 [[Category:Fictional World War II veterans]]
-[[Category:Fictional British people]]
+[[Category:Marvel Comics martial artists]]
+[[Category:Marvel Comics mutates]]
+[[Category:Marvel Comics superheroes]]
+[[Category:United Kingdom-themed superheroes]]

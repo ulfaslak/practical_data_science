@@ -44,13 +44,14 @@ Supergiant has telepathic abilities that allow her to mind-control anyone and fe
 
 ==In other media==
 ===Television===
-* Supergiant appears in ''[[Avengers Assemble (TV series)|Avengers Assemble]]'', voiced by [[Hynden Walch]]. She is seen in the episodes "New Frontier" and "Avengers World". 
-* Supergiant appears in ''[[Guardians of the Galaxy (TV series)|Guardians of the Galaxy]]'', voiced again by Hynden Walch. This version has a size-shifting ability and one of Star-Lord's ex-girlfriends. In the episode "Undercover Angle", the [[Nova Corps]] had previously apprehended Supergiant at the time when the [[Guardians of the Galaxy (2008 team)|Guardians of the Galaxy]] were infiltrating the Nova Corps HQ posing as Nova Corpsman. When Supergiant was accidentally released, she fought Star-Lord, [[Drax the Destroyer]], [[Rocket Raccoon]], and [[Groot]] until she was knocked out by [[Gamora]]. In the episode "Come and Gut Your Love", Supergiant works with Star-Lord's other ex-girlfriend Lucy in order to attack Star-Lord after it's discovered that the latter is Emperor [[J'son (comics)|J'son]]'s son.
+* Supergiant appears in ''[[Avengers Assemble (TV series)|Avengers Assemble]]'', voiced by [[Hynden Walch]].<ref name="btva">{{cite web|url=https://www.behindthevoiceactors.com/characters/Marvel-Universe/Supergiant/|title=Supergiant Voice - Marvel Universe franchise <nowiki>|</nowiki> Behind The Voice Actors|website=behindthevoiceactors.com|accessdate=July 19, 2019|postscript=. Check mark indicates role has been confirmed using screenshots of closing credits and other reliable sources.}}</ref> She is seen in the episodes "New Frontier" and "Avengers World". 
+* Supergiant appears in ''[[Guardians of the Galaxy (TV series)|Guardians of the Galaxy]]'', voiced again by Hynden Walch.<ref name="btva"/> In the episode "Undercover Angle", the [[Nova Corps]] had previously apprehended Supergiant at the time when the [[Guardians of the Galaxy (2008 team)|Guardians of the Galaxy]] were infiltrating the Nova Corps HQ posing as Nova Corpsman. When Supergiant was accidentally released, she fought Star-Lord, [[Drax the Destroyer]], [[Rocket Raccoon]], and [[Groot]] until she was knocked out by [[Gamora]]. In the episode "Come and Gut Your Love", Supergiant works with Star-Lord's other ex-girlfriend Lucy in order to attack Star-Lord after it's discovered that the latter is Emperor [[J'son (comics)|J'son]]'s son.
 
 ===Video games===
 * Supergiant appears as a [[mini-boss]] in ''[[Marvel: Avengers Alliance]]''.<ref>{{cite web|url=https://kotaku.com/maybe-avengers-alliance-can-make-sense-of-marvels-infi-1374070201|title=Maybe Avengers Alliance Can Make Sense Of Marvel's Infinity Event|website=Kotaku|last=Fahey|first=Mike|date=August 23, 2013|accessdate=April 29, 2018}}</ref>
 * Supergiant appears as a [[boss (gaming)|boss]] and unlockable playable character in ''[[Marvel Future Fight]]''.
-* Supergiant appears as a playable character in the "''Infinity War''" [[Downloadable content|DLC]] for ''[[Lego Marvel Super Heroes 2]]''.
+* Supergiant appears as a playable character in the ''Infinity War'' [[Downloadable content|DLC]] for ''[[Lego Marvel Super Heroes 2]]''.
+* Supergiant appears as a boss in ''[[Marvel Ultimate Alliance 3: The Black Order]]'', voiced again by Hynden Walch.<ref name="btva"/>
 
 ==References==
 {{reflist}}
@@ -61,6 +62,7 @@ Supergiant has telepathic abilities that allow her to mind-control anyone and fe
 * {{comicbookdb|type=character|id=71802|title=Supergiant}}
 
 {{Thanos}}
+{{Marvel Cosmic}}
 
 [[Category:Characters created by Jonathan Hickman]]
 [[Category:Comics characters introduced in 2013]]

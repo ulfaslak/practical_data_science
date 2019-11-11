@@ -9,7 +9,7 @@
 |debut          = ''[[Wolverine (comic book)|Wolverine]]'' vol. 2 #97 (January 1996)
 |creators       = [[Larry Hama]]<br>[[Adam Kubert]]
 |alliances      = [[Brotherhood of Mutants|Sisterhood of Mutants]]<br/>[[Marauders (comics)|Marauders]]
-|partners       = [[Dirtnap (comics)|Dirtnap]]<br/>[[Emplate]]
+|partners       = Dirtnap<br/>[[Emplate]]
 |aliases        =
 |powers         = Generate telekinetic dragon-shaped flares<br>Telepathy
 |cat            = super
@@ -23,7 +23,7 @@
 Her first appearance was in ''[[Wolverine (comic book)|Wolverine]]'' vol. 2 #97 where she was created by [[Larry Hama]] and [[Adam Kubert]].
 
 ==Fictional character biography==
-Chimera is an interdimensional pirate from an unknown Earth who first encountered [[Wolverine (character)|Wolverine]] whilst she was gaining information on him and his [[feral]] regressive state. She assisted the self-styled heir of [[Apocalypse (comics)|Apocalypse]], [[Genesis (Marvel comics)|Genesis]], with Wolverine's capture when Genesis wanted to [[brainwashing|brainwash]] Wolverine to be his first [[Horsemen of Apocalypse|Horseman]]. They attempted to re-bond the [[adamantium]] to Wolverine's skeleton which had been removed by [[Magneto (comics)|Magneto]] but the process failed. Wolverine's body violently expelled the metal, killing most of Genesis' followers, the [[Dark Riders (comics)|Dark Riders]]. [[Dirtnap (comics)|Dirtnap]]—one of the only Dark Riders to survive—teamed up with Chimera to get revenge on Wolverine.<ref>''Wolverine'' vol 2 #97</ref> Chimera encountered Wolverine once again when he and [[Venom (Marvel Comics character)|Venom]] were lured into a trap set by her and [[Dirtnap (comics)|Dirtnap]]. She and Dirtnap were both seemingly killed in an [[Implosion (mechanical process)|implosion]].
+Chimera is an interdimensional pirate from an unknown Earth who first encountered [[Wolverine (character)|Wolverine]] whilst she was gaining information on him and his [[feral]] regressive state. She assisted the self-styled heir of [[Apocalypse (comics)|Apocalypse]], [[Genesis (Marvel comics)|Genesis]], with Wolverine's capture when Genesis wanted to [[brainwashing|brainwash]] Wolverine to be his first [[Horsemen of Apocalypse|Horseman]]. They attempted to re-bond the [[adamantium]] to Wolverine's skeleton which had been removed by [[Magneto (Marvel Comics)|Magneto]] but the process failed. Wolverine's body violently expelled the metal, killing most of Genesis' followers, the [[Dark Riders (comics)|Dark Riders]]. Dirtnap—one of the only Dark Riders to survive—teamed up with Chimera to get revenge on Wolverine.<ref>''Wolverine'' vol 2 #97</ref> Chimera encountered Wolverine once again when he and [[Venom (Marvel Comics character)|Venom]] were lured into a trap set by her and Dirtnap. She and Dirtnap were both seemingly killed in an [[Implosion (mechanical process)|implosion]].
 
 The villains survived and attacked the [[Generation X (comics)|Generation X]] school in an attempt to kidnap the M twins, but to defend themselves the twins merged back into [[M (Marvel Comics)|M]] and then merged with [[Emplate]], creating the being known as M-Plate. Chimera then captured [[Synch (comics)|Synch]] and fled along with M-Plate. Synch was later rescued by Generation X.<ref>''Generation X'' #33</ref>
 
@@ -55,7 +55,7 @@ The [[Chimera (mythology)|chimera]] of [[Greek mythology]] appeared in Marvel Co
 ==External links==
 * [http://marvel.com/universe/Chimera_%28pirate%29 Chimera] at Marvel.com
 * [http://www.comicvine.com/chimera/4005-7089/ Chimera] at Comic Vine
-* [http://www.uncannyxmen.net/db/characters/showquestion.asp?fldAuto=332 Chimera] at Uncannyxmen.net
+* [https://web.archive.org/web/20050226011438/http://www.uncannyxmen.net/db/characters/showquestion.asp?fldAuto=332 Chimera] at Uncannyxmen.net
 * {{Marvunapp|http://www.marvunapp.com/Appendix4/chimeragaslight.htm|Chimera}}
 * {{Marvunapp|http://www.marvunapp.com/Appendix/femizons.htm#Chimera|Chimera (Femizons version)}}
 * {{Marvunapp|http://www.marvunapp.com/Appendix5/chimeraatlas.htm|Chimera (mythology)}}
@@ -66,5 +66,5 @@ The [[Chimera (mythology)|chimera]] of [[Greek mythology]] appeared in Marvel Co
 [[Category:Characters created by Larry Hama]]
 [[Category:Comics characters introduced in 1996]]
 [[Category:Female characters in comics]]
-[[Category:Female supervillains]]
+[[Category:Marvel Comics female supervillains]]
 [[Category:Marvel Comics mutants]]

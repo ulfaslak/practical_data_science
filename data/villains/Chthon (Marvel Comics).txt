@@ -1,15 +1,19 @@
+{{Multiple issues|
 {{more citations needed|date=October 2015}}
 {{In-universe|date=October 2018}}
+}}
 {{Infobox comics character
 | character_name = Chthon
 | image =
-| caption =
+| imagesize = 225
+| caption =Cover of ''[[Carnage (comics)|Carnage]]'' vol. 2 #15. Art by [[Michael Walsh (comics)|Michael Walsh]]
 | publisher = [[Marvel Comics]]
 | debut = (as The Other): ''[[Marvel Chillers]]'' #1 (October [[1975 in comics|1975]])<br>(as Chthon): ''[[The Avengers (comic book)|Avengers]]'' #186 (July [[1979 in comics|1979]])
 | creators = [[Marv Wolfman]]<br>[[Bill Mantlo]]<br>[[Yong Montano]]
-| species = [[List of Marvel Comics demons|Demon]]/[[Elder Gods (Marvel Comics)|Elder Gods]]
+| species = [[List of Marvel Comics demons|Demon]]–[[Elder Gods (Marvel Comics)|Elder Gods]]
+|homeworld=[[Ginnungagap|Primordial void]]
 | alter_ego =
-| alliances =
+| alliances = [[Old Ones]]/[[Many-Angled Ones]]
 | aliases = The Other, Demon of the Darkhold, He who holds the Darkness, The Wolf, Demon among Demons, The Great Shadow
 | powers = Mastery of black magic and chaos magic<br>Vast mystical powers<br>Reality warping<br>Immense power within his own pocket universe
 | subcat = 
@@ -28,7 +32,7 @@ Before the era in which the first single-celled organism formed on Earth, the [[
 
 The Elder Gods are the forerunners to the modern [[Gods (Marvel Comics)|gods]] and demons of Earth. Other contemporary demons that would become known as the "Elder Gods" as well are [[Set (serpent god)|Set]] and [[Belathauzer]]. [[Gaea (Marvel Comics)|Gaea]] came into being and was the "Protector of the Emerging Life" that began in the Seas. Oshtur, sister to Gaea and the other Elder Gods, left Earth in search of the mysteries of the universe. Chthon began devoting itself to the study and manipulation of mystical energies, becoming Earth's first master of [[black magic]], even experimenting on his fellow Gods.
 
-Set, the "God of the Dead", spawned a number of offspring (e.g., "Sligguth" and "Damballah"). Realizing he could increase his own power by consuming the energy of his fellow Gods, Set became the first being on Earth to murder another. By consuming the life energies of a fellow Elder God, Set started down the path to degeneracy. Other Elder Gods quickly began following Set's example, killing each other for more power. The more they consumed, the more they hungered for power. With more power, the hunger became insatiable. Many became corrupt and began warring to satisfy the thirst for power; the victor feeding off the other. After millions of years, all the Elder Gods, except for Gaea and Oshtur (who had left Earth prior to the Elder God's degeneration into demons), had degenerated to less than their Godhood, becoming evil.{{Issue|date=May 2011}}
+Set, the "God of the Dead", spawned a number of offspring (e.g., "Sligguth" and "Damballah"). Realizing he could increase his own power by consuming the energy of his fellow Gods, Set became the first being on Earth to murder another. By consuming the life energies of a fellow Elder God, Set started down the path to degeneracy. Other Elder Gods quickly began following Set's example, killing each other for more power. The more they consumed, the more they hungered for power. With more power, the hunger became insatiable. Many became corrupt and began warring to satisfy the thirst for power; the victor feeding off the other. After millions of years, all the Elder Gods, except for Gaea and Oshtur (who had left Earth prior to the Elder Gods' degeneration into demons), had degenerated to less than their Godhood, becoming evil.{{Issue|date=May 2011}}
 
 As the Elder Gods degraded into violence, only Gaea remained peaceful. Seeking a way to protect the innocent life that was growing on the planet, Gaea mated with the Demiurge creating [[Atum (comics)|Atum]], the first of a new generation of gods that would protect the world from the "Demonic Elder Gods".{{Issue|date=May 2011}}
 
@@ -49,7 +53,7 @@ In the sixth century AD, the sorceress [[Morgan le Fay (Marvel Comics)|Morgan le
 [[Modred the Mystic]] sought the Darkhold with moral intentions, and Chthon used it to [[Corruption|corrupt]] him.<ref>''Marvel Chillers'' #1</ref>
 
 ===Modern times===
-In the late 1940s, Herbert Wyndham, the man who became the [[High Evolutionary]], made his laboratory base at the foot of Wundagore Mountain with the assistance of Doctor Horace Grayson (the father of the 1950s superhero [[Marvel Boy (Robert Grayson)|Marvel Boy]]).<ref name="A187">''Avengers'' #187</ref>
+In the late 1940s, Herbert Wyndham, the man who became the [[High Evolutionary]], made his laboratory base at the foot of Wundagore Mountain with the assistance of Doctor Horace Grayson (the father of the 1950s superhero [[Marvel Boy (Robert Grayson)|Marvel Boy]]).<ref name="A187" />
 
 In the 1950s, a young Philip Masters (the [[Puppet Master (Marvel Comics)|Puppet Master]]) obtained clay from the mountain that had been granted mystical power by Chthon's presence. He would use this clay in his attempts to conquer the [[Fantastic Four]].{{Issue|date=May 2011}}
 
@@ -57,7 +61,7 @@ A colleague of Herbert Wyndham's named Jonathan Drew with his wife Miriam and da
 
 The High Evolutionary also created a race of artificially evolved humanoid animals called the [[New Men (Marvel Comics)|New Men]].<ref name="A187"/> He was convinced by Magnus (in Jonathan Drew's form) to pattern their codes of action and conduct after medieval knighthood. They named the elite members of the New Men the Knights of Wundagore.{{Issue|date=May 2011}}
 
-During this period, a pregnant [[Romani people|gypsy]] woman named Magda arrived at Wundagore, on the verge of giving birth. Unknown to all, she was the wife of the man who would become [[Magneto (comics)|Magneto]].{{Issue|date=May 2011}}
+During this period, a pregnant [[Romani people|gypsy]] woman named Magda arrived at Wundagore, on the verge of giving birth. Unknown to all, she was the wife of the man who would become [[Magneto (Marvel Comics)|Magneto]].{{Issue|date=May 2011}}
 
 Centuries later, Chthon's evil infected the young [[Spider-Woman (Jessica Drew)|Jessica Drew]], who was raised in a lab on Wundagore.<ref name="SW44">''Spider-Woman'' #44</ref> He was summoned to battle the [[High Evolutionary]] by the werewolf Gregor Russoff, resulting in Russoff's death.<ref>''Doctor Strange'' (vol. 3) #27</ref> Immediately after this defeat, Chthon planted a part of his essence in another child raised beneath Wundagore, [[Scarlet Witch|Wanda Maximoff]].<ref name="A187"/>
 
@@ -84,6 +88,8 @@ Nathan Dolly became Mister Doll, an enemy of [[Iron Man]],{{issue|date=July 2014
 Chthon returned for revenge and possessed [[Quicksilver (comics)|Quicksilver]] to attack the Avengers, but was defeated again.<ref>''Mighty Avengers'' #21-23</ref> He attempted to turn his other Wundagore child Jessica Drew into one of his demons, but was thwarted when his human puppet for the task, [[Viper (Madame Hydra)|Viper]], betrayed him.<ref name="SW44"/>
 
 During the ''[[Fear Itself (comics)|Fear Itself]]'' storyline, Chthon attended the Devil's Advocate to talk about the [[Serpent (comics)|Serpent]]'s actions on Earth.<ref>''Journey Into Mystery'' #627</ref>
+
+During [[Carnage (comics)|Carnage]]'s series, Carnage being part of the Darkhold prophecy, he along with his offspring Raze resurrected Chthon using the Darkhold and Chthon quickly pushed him aside. Then the Symbiote Task Force consisting of [[Eddie Brock]] as [[Toxin (comics)|Toxin]] and [[John Jameson (comics)|John Jameson]] along with other members arrived to stop Chthon. Eddie gave the Toxin symbiote to a girl named Jubil who had part of the Darkhold power and she with the symbiote absorbed the Raze symbiote and then took the form of an Angelic Knight and defeated Chthon.<ref>''Carnage'' Vol. 3: What Dwells Beneath</ref>
 
 During the ''[[Secret Empire (comics)|Secret Empire]]'' storyline, Chthon was revealed to have possessed Scarlet Witch upon her defeat which led to Chthon controlling Scarlet Witch into joining [[Hydra (comics)|Hydra]]'s Avengers at the time when [[Hydra (comics)|Hydra]] took over the United States.<ref>''Secret Empire'' #4</ref> [[Madame Hydra]] later mentioned that Chthon's possession has left Scarlet Witch unhinged.<ref>''Secret Empire'' #5</ref> After the returned Thor helped to knock out Scarlet Witch during the fight against Hydra in Washington DC, Doctor Strange made preparations to break Chthon's control over Scarlet Witch.<ref>''Secret Empire'' #9</ref>
 
@@ -116,6 +122,14 @@ During the ''[[Secret Empire (comics)|Secret Empire]]'' storyline, Chthon was re
 ==Powers and abilities==
 Chthon has mastery of black magic and chaos magic. He possesses vast mystical powers, reality warping abilities, and immense power within his own pocket universe.
 
+==Other versions==
+=== What If?!===
+==== The Punisher killed Wolverine the Lord of the Vampires====
+Chthon appears in ''What If Punisher killed Wolverine the Lord of the Vampires'' storyline.<ref>''What If!? Punisher killed Wolverine the Lord of the Vampires'' #1. Marvel Comics.</ref>
+
+=== Kang Dynasty ===
+During the "Kang Dynasty" storyline, [[Kang the Conqueror]] shows the [[Avengers (comics)|Avengers]] a number of alternative realities, one of which shows Chthon with the N'Garai, who had successfully invaded the entire world.<ref>''Avengers'' Vol 3 #42. Marvel Comics.</ref>
+
 ==In other media==
 ===Television===
 Chthon appears in ''[[The Super Hero Squad Show]]'' episode "Mother of Doom" voiced by [[Mark Hamill]].<ref>[http://www.comicscontinuum.com/stories/0907/28/voices.htm Marvel Super Hero Squad Voice Cast]</ref> [[Doctor Doom]] conquers its dimension in order to harness its magic and free his [[Cynthia Von Doom|mother]]. Chthon comes to the Super Hero Squad and Doctor Strange for help. While [[Wolverine (character)|Wolverine]], Hulk, [[Falcon (comics)|Falcon]], and [[Captain America]] stay behind in case Doctor Doom's minions attack, [[Iron Man]], Thor, [[Silver Surfer]], and Doctor Strange go with Chthon to his dimension. Prior to the transportation, Chthon had noticed that Doctor Strange used Chthon's ''Darkhold'' to hold up the wobbly part of his chair. When it came to the fight against Doctor Doom, Chthon was offered a deal by Doom (which was to take his nagging mother back) and helped him fight the heroes. After Doctor Doom was defeated and the castle everyone was in ends up destroyed, Chthon was locked up. He returned in the episode "Pedicure and Facial of Doom", this time as Coco's minion, and assisted her in her plot for world domination. With Doom's help, Coco and Chthon were defeated by the Super Hero Squad.
@@ -129,6 +143,8 @@ In ''[[Spider-Man: Requiem]]'', the Cabal of Scrier used the Darkhold and Carrio
 ==External links==
 * [http://marvel.com/universe/Chthon Chthon] at Marvel.com
 * {{Marvunapp|http://www.marvunapp.com/Appendix2/chthonother.htm|Chthon}}
+* [https://marvel.fandom.com/wiki/Chthon_(Earth-616) Chthon] at Marvel Wiki
+* [https://comicvine.gamespot.com/chthon/4005-15683 Cthon] at Comic Vine
 
 {{Doctor Strange}}
 {{Marvel Comics deities}}
@@ -137,5 +153,6 @@ In ''[[Spider-Man: Requiem]]'', the Cabal of Scrier used the Darkhold and Carrio
 [[Category:Characters created by Bill Mantlo]]
 [[Category:Characters created by Marv Wolfman]]
 [[Category:Comics characters introduced in 1975]]
+[[Category:Fictional male deities]]
 [[Category:Marvel Comics Elder Gods]]
 [[Category:Marvel Comics supervillains]]

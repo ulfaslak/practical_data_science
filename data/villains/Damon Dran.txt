@@ -1,4 +1,4 @@
-{{Notability|date=August 2018}}
+{{refimprove|date=February 2019}}
 {{In-universe|date=August 2018}}
 {{Long plot|date=August 2018}}
 {{Infobox comics character
@@ -75,11 +75,10 @@ The Project Four device that he funded the creation of gave Dran superhuman stre
 [[Category:Characters created by Gene Colan]]
 [[Category:Characters created by Gerry Conway]]
 [[Category:Comics characters introduced in 1972]]
-[[Category:Fictional American people]]
 [[Category:Fictional assassinated people]]
 [[Category:Fictional businesspeople]]
 [[Category:Fictional characters with disfigurements]]
-[[Category:Fictional characters with energy manipulation powers]]
+[[Category:Fictional characters with energy-manipulation abilities]]
 [[Category:Fictional characters who can change size]]
 [[Category:Fictional cyborgs]]
 [[Category:Fictional kidnappers]]

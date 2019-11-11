@@ -1,3 +1,4 @@
+{{Distinguish|Nightwatch (comics)}}
 {{Infobox comics character <!--Wikipedia:WikiProject Comics--> 
 |image=Deathwatch 002.jpg
 |caption=Deathwatch
@@ -46,6 +47,9 @@ Deathwatch is a skilled [[ninja]], and highly proficient in acrobatic hand-to-ha
 
 ==References==
 {{reflist}}
+
+== External links ==
+* {{Marveldatabase|Deathwatch}}
 
 {{Ghost Rider}}
 

@@ -1,5 +1,5 @@
 {{distinguish|Modem|Modum}}
-{{refimprove|date=December 2018}}
+{{more citations needed|date=December 2018}}
 {{Infobox comics character| <!--Wikipedia:WikiProject Comics--> 
 image=[[Image:Quasar9.jpg|200px]]
 |caption=MODAM battles [[Quasar (comics)|Quasar]]
@@ -17,11 +17,11 @@ image=[[Image:Quasar9.jpg|200px]]
 '''MODAM''' ('''Olinka Barankova''') is a fictional character appearing in [[American comic book]]s published by [[Marvel Comics]].
 
 ==Publication history==
-{{expand-section|date=June 2016}}
+{{expand section|date=June 2016}}
 MODAM first appeared in ''[[West Coast Avengers]]'' #36 and was created by [[Steve Englehart]] and [[Al Milgrom]].
 
 ==Fictional character biography==
-[[Advanced Idea Mechanics|A.I.M.]] mutated one of their female agents into a large-headed creature similar to [[MODOK]]. This agent claimed to be Maria Trovaya, [[Hank Pym]]'s deceased first wife.<ref>''West Coast Avengers'' #36</ref> Pym took her in, believing she was the late wife, but she was secretly a spy and returned to AIM. There, she was further mutated into a being nearly identical in appearance to [[MODOK]] called '''SODAM''' ('''S'''pecialized '''O'''rganism '''D'''esigned for '''A'''ggressive '''M'''aneuvers). In this new form, she opposed [[Hawkeye (comics)|Hawkeye]] and Dr. Pym.<ref>''Solo Avengers'' #14-16</ref> Her code name was later changed to '''MODAM''' ('''M'''ental '''O'''rganism '''D'''esigned for '''A'''ggressive '''M'''aneuvers). Her first assignment as MODAM was acquiring [[Quasar (comics)|Quasar]]'s [[Quasar (comics)#Quantum Bands|quantum bands]].<ref>''Quasar'' #9</ref> MODAM later appeared as one of [[Superia]]'s [[Femizons]].<ref>''Captain America'' #387-392</ref>
+[[Advanced Idea Mechanics|A.I.M.]] mutated one of their female agents into a large-headed creature similar to [[MODOK]]. This agent claimed to be Maria Trovaya, [[Hank Pym]]'s deceased first wife.<ref>''West Coast Avengers'' #36</ref> Pym took her in, believing she was the late wife, but she was secretly a spy and returned to A.I.M.. There, she was further mutated into a being nearly identical in appearance to [[MODOK]] called '''SODAM''' ('''S'''pecialized '''O'''rganism '''D'''esigned for '''A'''ggressive '''M'''aneuvers). In this new form, she opposed [[Hawkeye (Clint Barton)|Hawkeye]] and Dr. Pym.<ref>''Solo Avengers'' #14-16</ref> Her code name was later changed to '''MODAM''' ('''M'''ental '''O'''rganism '''D'''esigned for '''A'''ggressive '''M'''aneuvers). Her first assignment as MODAM was acquiring [[Quasar (comics)|Quasar]]'s [[Quasar (comics)#Quantum Bands|quantum bands]].<ref>''Quasar'' #9</ref> MODAM later appeared as one of [[Superia]]'s [[Femizons]].<ref>''Captain America'' #387-392</ref>
 
 [[Omega Red]] believed that MODAM was not Maria Trovaya, but Olinka Barankova, a woman who had once betrayed the mercenary. However, MODAM herself stated that "A.I.M. personnel files are routinely falsified".<ref>''Iron Man'' #296</ref>
 
@@ -41,7 +41,7 @@ MODAM is permanently encased within an exo-skeletal shell of life-supporting mac
 
 {{Captain America}}
 {{Hank Pym}}
-{{Portal bar|Superhero fiction|Fictional characters|1980s}}
+{{Portal bar|Speculative fiction|1980s}}
 
 [[Category:Characters created by Al Milgrom]]
 [[Category:Characters created by Steve Englehart]]

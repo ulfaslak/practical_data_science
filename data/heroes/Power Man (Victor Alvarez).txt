@@ -7,14 +7,13 @@
 |alter_ego     = Victor Alvarez
 |publisher      = [[Marvel Comics]]
 |debut          = ''[[Shadowland (comics)|Shadowland]]: Power Man'' #1 (October 2010)
-|creators       = [[Fred Van Lente]] <br>[[Mahmud Asrar]]
+|creators       = [[Fred Van Lente]] <br />[[Mahmud Asrar]]
 |species        = [[Human]] (empowered)
 |homeworld      =
-|alliances      = [[Avengers Academy]]<br />[[Heroes for Hire]]<br />[[The Mighty Avengers|Mighty Avengers]]<br />The Chosen<br>[[New Avengers (comic)|Avengers Idea Mechanics]]
+|alliances      = [[Avengers Academy]]<br />[[Heroes for Hire]]<br />[[The Mighty Avengers|Mighty Avengers]]<br />The Chosen<br />[[New Avengers (comic)|Avengers Idea Mechanics]]
 |partners       = [[Iron Fist (comics)|Iron Fist]]
 |aliases        =
-|powers         = Skilled Martial Artist
-Chi Absorption: Superhuman Strength, Enhanced Physicality, Healing, and Invulnerability
+|powers         = Skilled martial artist<br />Via chi absorption:<br />Superhuman strength and fortitude
 |cat            = super
 |subcat         = Marvel Comics
 |hero           = y
@@ -35,7 +34,7 @@ Victor Alvarez was first introduced as a teenager from the neighborhood of [[Hel
 
 Some time later during the ''[[Shadowland (comics)|Shadowland]]'' storyline, Victor took on the name Power Man and began using his abilities to fight crime as a hero for hire, advertising his services on sites like [[Craigslist]]. Victor's activities eventually drew the attention of [[Luke Cage]], a member of the [[Avengers (comics)|Avengers]] who had once used the Power Man name. Cage and his partner [[Iron Fist (comics)|Iron Fist]] eventually learn that Victor is the son of Shades, a Puerto Rican supervillain that Cage had fought years earlier. Though Victor dislikes both Cage and Iron Fist, he eventually teams up with them to help the other heroes fight the crazed [[Daredevil (Marvel Comics character)|Matt Murdock]] and his army of [[The Hand (comics)|Hand]] ninjas.<ref>''Shadowland: Power Man'' #1-4</ref><ref>{{cite web|url=http://www.comicbookresources.com/?page=user_review&id=2587|title=Shadowland: Power Man #1|date=23 August 2010|publisher=}}</ref>
 
-During the ''[[Fear Itself (comics)|Fear Itself]]'' storyline, Power Man ends up teleported onto a station in the middle of the Pacific Ocean with [[Amadeus Cho]], [[Anya Corazon|Spider-Girl]], [[Thunderstrike (Kevin Masterson)|Thunderstrike]], and [[X-23]]. They end up fighting a group of samurai Shark Men.<ref>''Fear Itself: The Home Front'' #5-7</ref> Power Man is part of the new class of students when the [[Avengers Academy]] moves to the former headquarters of the [[West Coast Avengers]].<ref>''Avengers Academy'' #21 (Nov. 2011)</ref>
+During the ''[[Fear Itself (comics)|Fear Itself]]'' storyline, Power Man ends up teleported onto a station in the middle of the Pacific Ocean with [[Amadeus Cho]], [[Anya Corazon|Spider-Girl]], [[Thunderstrike (Kevin Masterson)|Thunderstrike]] and [[X-23]]. They end up fighting a group of samurai Shark Men.<ref>''Fear Itself: The Home Front'' #5-7</ref> Power Man is part of the new class of students when the [[Avengers Academy]] moves to the former headquarters of the [[West Coast Avengers]].<ref>''Avengers Academy'' #21 (Nov. 2011)</ref>
 
 During the ''[[Infinity (comic book)|Infinity]]'' storyline, Power Man was with Heroes for Hire while they stopped [[Plunderer (comics)|Plunderer]]'s men from stealing robot parts. After [[The Superior Spider-Man|Superior Spider-Man]] ([[Doctor Octopus]]' mind in Peter Parker's body) stops Plunderer, he called Heroes for Hire mercenaries in front of Power Man. While at a café with Luke Cage, Power Man expresses a desire to attack Spider-Man, Luke is more concerned with the consequences for his family. Power Man then plans to start his own version of the Avengers.<ref>''Mighty Avengers'' Vol. 2 #1</ref>
 
@@ -46,7 +45,7 @@ As a result of the traumatic explosion during his childhood, Power Man possesses
 {{Reflist}}
 
 ==External links==
-{{Portal|2010s|Superhero fiction|Fictional characters|Comics}}
+{{Portal|Speculative fiction|Comics}}
 * {{comicbookdb|type=character|id=45961|title=Power Man (Victor Alvarez)}}
 * {{gcdb series|id=51933|title=''Shadowland: Power Man''}}
 * {{gcdb series|id=55593|title=''Power Man and Iron Fist'' (2011)}}

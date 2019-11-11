@@ -3,7 +3,7 @@
 ==Publication history==
 The William Carver version of Thunderbolt first appeared in ''[[Daredevil (Marvel Comics series)|Daredevil]]'' #69 and was created by [[Roy Thomas]], [[Gene Colan]], and [[Syd Shores]].
 
-The Luis Barrett version of Thunderbolt first appeared in ''[[Hulk (comics)|Incredible Hulk]] Annual'' #17 and was created by [[Gary Barnum]], [[John Stanisci]], and [[Tim Dzon]].
+The Luis Barrett version of Thunderbolt first appeared in ''[[The Incredible Hulk (comic book)|Incredible Hulk Annual]]'' #17 and was created by [[Gary Barnum]], [[John Stanisci]], and [[Tim Dzon]].
 
 ==Fictional character biography==
 ===William Carver===
@@ -33,7 +33,7 @@ Carver soon discovered that the radiation he was exposed to sped up not only his
 |caption = 
 |real_name = Luis Barrett
 |publisher = [[Marvel Comics]]
-|debut = ''[[Hulk (comics)|Incredible Hulk]] Annual'' #17 (1991)
+|debut = ''[[The Incredible Hulk (comic book)|Incredible Hulk Annual]]'' #17 (1991)
 |creators = [[Gary Barnum]]<br>[[John Stanisci]]<br>[[Tim Dzon]]
 |species = [[Human]]
 |alliances = [[Pantheon (Marvel Comics)|Pantheon]]
@@ -59,6 +59,6 @@ The Luis Barrett version of Thunderbolt has superhuman speed.
 * {{Marvunapp|http://www.marvunapp.com/Appendix2/tbolthulk.htm|Thunderbolt (Luis Barrett)}}
 
 
-[[Category:Marvel Comics superheroes]]
 [[Category:Fictional vigilantes]]
 [[Category:Marvel Comics characters who can move at superhuman speeds]]
+[[Category:Marvel Comics superheroes]]

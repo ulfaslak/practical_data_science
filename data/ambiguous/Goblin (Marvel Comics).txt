@@ -1,4 +1,4 @@
-{{Refimprove|date=June 2015}}
+{{More citations needed|date=June 2015}}
 {{Infobox comics set index <!--Wikipedia:WikiProject Comics-->
 |code_name  = Goblin
 |image      = Superior-Spider-Man-26.jpg
@@ -34,7 +34,7 @@ They all started with the [[Green Goblin]] ([[Norman Osborn]]). They are usually
 ==Known Goblins==
 
 ===Proto-Goblin===
-In a retcon, it was revealed that after Norman Osborn had Mendel Stromm arrested for embezzlement, he had found only a portion of the notes detailing his partner's formula. Norman tests the incomplete version of the formula on Oscorp employee '''Nels van Adder''', driving van Adder insane and causing him to transform into a red, demon-like being known as the "'''Proto-Goblin'''". Killing several people and blaming Norman for his condition, van Adder harasses and later attempts to kill him before being knocked out an Oscorp window by Chief of Security Arthur Stacy and his brother Detective [[George Stacy]]. In order to escape conviction for what he had done to van Adder, Norman convinces the police that van Adder had been experimenting on himself and that he had been trying to help him. Van Adder was last seen fleeing into the wilderness and his current fate is unknown.<ref>''Peter Parker: Spider-Man'' #-1</ref> As well as endowing van Adder with super strength and agility, the prototypical Goblin Formula gave him claws, talons, fangs, glowing green eyes, and near-impenetrable red skin that is capable of withstanding several close range bullet shots.
+In a [[Retroactive continuity|retcon]], it was revealed that after Norman Osborn had Mendel Stromm arrested for embezzlement, he had found only a portion of the notes detailing his partner's formula. Norman tests the incomplete version of the formula on Oscorp employee '''Nels van Adder''', driving van Adder insane and causing him to transform into a red, demon-like being known as the "'''Proto-Goblin'''". Killing several people and blaming Norman for his condition, van Adder harasses and later attempts to kill him before being knocked out an Oscorp window by Chief of Security Arthur Stacy and his brother Detective [[George Stacy]]. In order to escape conviction for what he had done to van Adder, Norman convinces the police that van Adder had been experimenting on himself and that he had been trying to help him. Van Adder was last seen fleeing into the wilderness and his current fate is unknown.<ref>''Peter Parker: Spider-Man'' #-1</ref> As well as endowing van Adder with super strength and agility, the prototypical Goblin Formula gave him claws, talons, fangs, glowing green eyes, and near-impenetrable red skin that is capable of withstanding several close range bullet shots.
 
 ===Green Goblin===
 {{Main|Green Goblin}}
@@ -98,12 +98,12 @@ A race of Goblins are a type of demon that reside in [[Limbo (Marvel Comics)|Lim
 ===Television===
 * The Green Goblin and Hobgoblin appeared in the 1994 ''[[Spider-Man (1994 TV series)|Spider-Man]]'' TV series, voiced by [[Neil Ross]] and [[Mark Hamill]] respectively.
 * Both versions of Green Goblin appear in ''[[Ultimate Spider-Man (TV series)|Ultimate Spider-Man vs. The Sinister Six]]''. In addition to the two different Green Goblins, the two-part episode "HYDRA Attacks" featured the [[Hydra (comics)|HYDRA]] Goblins that were created by Doctor Octopus where he used the Goblin Formula on some HYDRA Agents.
-* The Goblins of Asgard appear in the ''[[Avengers Assemble (TV series)|Avengers: Secret Wars]]''. In the episode "The Most Dangerous Hunt", they make their way to Asgard while evading [[Executioner (comics)|Executioner]], [[Black Panther (comics)|Black Panther]] and the [[Hulk (comics)|Hulk]] had to cross a mountain range where they were attacked by Goblins. Black Panther and Bruce Banner were able to fend them off by collapsing some rock structures with one of [[Ulik]]'s pounders.
+* The Goblins of Asgard appear in the ''[[Avengers Assemble (TV series)|Avengers: Secret Wars]]''. In the episode "The Most Dangerous Hunt", they make their way to Asgard while evading [[Executioner (comics)|Executioner]], [[Black Panther (comics)|Black Panther]] and the [[Hulk]] had to cross a mountain range where they were attacked by Goblins. Black Panther and Bruce Banner were able to fend them off by collapsing some rock structures with one of [[Ulik]]'s pounders.
 
 ===Film===
 * The Norman Osborn incarnation of the Green Goblin appears in [[Sam Raimi|Sam Raimi's]] [[Spider-Man in film|Spider-Man]] trilogy, portrayed by [[Willem Dafoe]]. The third installment also features Harry Osborn as a New Goblin portrayed by [[James Franco]].
 * In the film ''[[The Amazing Spider-Man (2012 film)|The Amazing Spider-Man]]'', Van Adder was originally reported as the character that [[Irrfan Khan]] would play until he was revealed to be portraying Dr. Ratha.<ref name="Dr. Ratha">{{cite web | url=http://www.thewrap.com/movies/article/new-amazing-spider-man-website-crawling-plot-details-33670 | title='Amazing Spider-Man' Website Is Crawling With Plot Details | publisher=TheWrap.com | date= December 15, 2011 | accessdate=June 26, 2015 }}</ref><ref name="parents">{{cite news|last=Kit|first=Borys|url=http://www.hollywoodreporter.com/blogs/heat-vision/spider-man-set-parents-villain-56039|title=EXCLUSIVE: Spider-Man Gets a Set of Parents and Another Villain|work=The Hollywood Reporter|publisher=Nielsen Company|date=June 6, 2015| accessdate=December 6, 2010}}</ref>
-* Dane Dehaan portrays the Harry Osborn version of Green Goblin in ''[[The Amazing Spider-Man 2]]''.
+*[[Dane DeHaan]] portrays the Harry Osborn version of Green Goblin in ''[[The Amazing Spider-Man 2]]''.
 
 ===Video games===
 * The Ultimate Marvel version of Green Goblin and a variation of Proto-Goblin appear as bosses in ''[[Spider-Man: Battle for New York]]''. The video game had Green Goblin using the OZ formula to create an army of Goblins.
@@ -118,5 +118,7 @@ A race of Goblins are a type of demon that reside in [[Limbo (Marvel Comics)|Lim
 {{Symbiote Family and Hosts}}
 {{Stan Lee}}
 
+[[Category:Articles about multiple fictional characters]]
 [[Category:Spider-Man characters]]
 [[Category:Fictional goblins]]
+[[Category:Lists of Marvel Comics characters]]

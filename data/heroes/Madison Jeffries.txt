@@ -1,5 +1,6 @@
+{{short description|Fictional character}}
 {{multiple issues|
-{{refimprove|date=August 2016}}
+{{more citations needed|date=August 2016}}
 {{In-universe|date=August 2018}}
 {{Long plot|date=August 2018}}
 }}
@@ -14,7 +15,7 @@
 |creators=[[John Byrne (comics)|John Byrne]]
 |alliances=[[X-Men]]<ref>''Official Handbook of the Marvel Universe A to Z,'' vol. 13 (2010) Marvel Comics</ref><br/>[[X-Club (comics)|X-Club]]<ref>''Uncanny X-Men #507''</ref><br/>[[Weapon X]]<br/>[[Alpha Flight]]<br/>[[Gamma Flight]]<br/>[[Zodiac (comics)|Zodiac]]
 |aliases=Box, Gemini
-|powers=Technokinetic ability to reshape plastic, metal, and glass to any shape desired<br>Technopathic ability to mentally communicate with A.I., such as machines and robots.
+|powers=Technokinetic ability to reshape plastic, metal, and glass to any shape desired<br>Technopathic ability to mentally communicate with A.I., such as machines, robots and cyberware<br>Technofomric capacity to physically/mentally merge with and augment his BOX warsuit via mechanical assimilation<br>Intuitive Inventing.   
 |}}
 '''Madison Jeffries''' is a [[fictional character]], a [[Mutant (Marvel Comics)|mutant]] [[superhero]] appearing in [[American comic book]]s published by [[Marvel Comics]]. The character is depicted as having the ability to reshape plastic, metal, and glass to any shape desired. He also has the technopathic ability to mentally communicate with A.I., such as machines and robots. Madison Jeffries is the brother of [[Scramble (comics)|Scramble]].
 
@@ -28,7 +29,7 @@ As a young man, Madison Jeffries volunteered to enlist as a soldier in Vietnam, 
 
 Madison met and befriended a man named [[Box (comics)|Roger Bochs]] at a clinic for physically [[disabled]] superheroes. The two became fast friends and Madison used his mutant powers to help Roger complete his ultimate creation: the Box robot. They were discovered by Dr. James MacDonald Hudson, a.k.a. [[Guardian (Marvel Comics)|Weapon Alpha]], and recruited into the up-and-coming Alpha Flight program.
 
-During the Canadian government's first sanctioning of Alpha Flight and its parent organization, [[Department H (comics)|Department H]], Madison remained in the third-tier Gamma Flight program, while Bochs and his cybernetically-controlled robot, Box, reached the Beta Flight level. Madison had a fleeting relationship with fellow Gamma Flight member [[Diamond Lil (comics)|Diamond Lil]], but the two would drift apart for some time. When the Canadian government cut Department H's funding, Madison left the organization completely, and found employment digging ditches.
+During the Canadian government's first sanctioning of Alpha Flight and its parent organization, [[Department H (comics)|Department H]], Madison remained in the third-tier Gamma Flight program, while Bochs and his cybernetically-controlled robot, Box, reached the Beta Flight level. Madison had a fleeting relationship with fellow Gamma Flight member [[Diamond Lil (Marvel Comics)|Diamond Lil]], but the two would drift apart for some time. When the Canadian government cut Department H's funding, Madison left the organization completely, and found employment digging ditches.
 
 ===Roger Bochs and Omega Flight===
 While Madison was continuing with his own life, Box and Diamond Lil were subsequently recruited by [[Jerry Jaxon|Jerome Jaxon]] as members of Omega Flight, with the intention of destroying James Hudson, now known as Guardian, and Alpha Flight. However, Roger Bochs only accepted the offer of Jaxon's android assistant, [[Delphine Courtney]], in order to defeat Omega Flight from within, as he remained loyal to Guardian. Jaxon would, as a result, use the Box robot himself against Guardian in battle, only to be electrocuted by the feedback in Box's control helmet when Guardian used his own suit's energy to disable the robot. Shortly thereafter, Guardian was uncontrollably thrust into the space-time continuum by his overloading battlesuit, appearing to have been disintegrated to his wife [[Vindicator (comics)|Heather]].{{issue|date=April 2013}}
@@ -71,7 +72,7 @@ After a period of downtime, Alpha Flight was again reactivated, with a mysteriou
 
 Even after these events were rectified, more troubles occurred. Lil was once more kidnapped, but this time by the agents of the revamped [[Weapon X]] program and taken to their Neverland [[death camp]]. Madison was also kidnapped and brainwashed by the program as well. Its director, [[Malcolm Colcord]], kept Madison in a small room in a secluded corner of the facility, commissioning him to create the Neverland camps. Madison was frequently brainwashed to keep him submissive to Colcord.{{issue|date=April 2013}}
 
-Due to a series of events within the organization, a schism was formed between Colcord and his second-in-command, [[Brent Jackson]]. Jackson gathered a contingent of loyal followers and attempted to usurp power from Colcord. In the midst of the commotion, Madison who saved Colcord's life, escorting him and [[Aurora (comics)|Aurora]] to safety, despite Colcord's abusive behavior towards him.{{issue|date=April 2013}}
+Due to a series of events within the organization, a schism was formed between Colcord and his second-in-command, [[Brent Jackson]]. Jackson gathered a contingent of loyal followers and attempted to usurp power from Colcord. In the midst of the commotion, Madison saved Colcord's life, escorting him and [[Aurora (comics)|Aurora]] to safety, despite Colcord's abusive behavior towards him.{{issue|date=April 2013}}
 
 Madison Jeffries was one of the few mutants to retain their superhuman powers during the [[Decimation (comics)|M-Day]] event.{{issue|date=April 2013}}
 
@@ -85,16 +86,21 @@ Jeffries suffers a major loss during Necrosha, when Diamond Lil is killed by [[L
 Madison Jeffries later appears as a member of the Utopians alongside [[Elixir (comics)|Elixir]], [[Karma (comics)|Karma]], [[Masque (comics)|Masque]], [[Random (comics)|Random]], and [[Tabitha Smith]].<ref>''All-New X-Men'' #40</ref>
 
 ==Powers and abilities==
-Madison Jeffries is a mutant gifted with the ability to technokinetically restructure glass, plastic, and metal to anything within his imagination, including remote manipulation and control of devices made of such materials, even ones not of his own creation. Recently, his powers seem to have evolved a secondary mutation of full technopathy, being able to communicate with artificial intelligences such as machinery and robotics.
+Madison Jeffries is a mutant gifted with the ability to technokinetically restructure all inorganic materials such as glass, plastic, and metal into anything within his imagination, including remote manipulation and control of devices made of such elements, even ones not of his own creation. Recently, his powers seem to have evolved a secondary mutation of full technopathy, being able to communicate with artificial intelligences such as machinery and robotics.
 
-While wearing the Box armor he has increased strength on a level with the [[Thing (comics)|Thing]], stamina, and resistance to injury as well as an array of technological devices such as boot rockets, various scanners, and assorted weapons. Madison can reconfigure the Box armor to any form he can conceive, including various vehicle modes. Using Madison's powers, the Box armor can also absorb additional materials to increase its size and mass as needed. At maximum size he managed to fight evenly with Tundra, the strongest of the [[Great Beasts]]. However, while merged with Box, Madison can only transmute the armor itself, and must separate from Box to use his powers to affect other materials without absorbing them into the armor.
+As a fringe benefit of his secondary mutation, Madison can technoformically merge with the Box armor. Gaining increased strength on a level with the [[Thing (comics)|Thing]], stamina, and resistance to injury as well as an array of technological devices such as boot rockets, various scanners, and assorted weapons. Madison can reconfigure the Box armor to any form he can conceive, including various vehicle modes. Using Madison's powers, the Box armor can also absorb additional mechanical materials to increase its size and mass as needed. At maximum size he managed to fight evenly with Tundra, the strongest of the [[Great Beasts]]. However, while merged with Box, Madison can only transmute the armor itself, and must separate from Box to use his powers to affect other materials without absorbing them into the armor.
+
+Similar to fellow mutant scientific specialists [[Forge (comics)|Forge]], [[Doctor Nemesis]] or [[Sage (comics)|Sage]]. Mr. Jeffries has the natural intuitive talent for mechanical and cybernetic engineering which enables him to naturally understand, ascertain and implement the potential constructive formation that certain technological pieces can take. A trait which most telepaths remark as his mind working more like a computerized machine than that of a human being.
 
 ==Other versions==
 ===Age of Apocalypse===
 In the ''[[Age of Apocalypse]]'' reality, Madison Jeffries had joined Apocalypse's cause and was a member of the Brotherhood of Chaos, an elite religious group affiliated to the Church of the Madri. Jeffries was sent with the other members to prevent the Great Sentinel Airlift in Maine, however, a small squad of X-Men, the Amazing X-Men, had come assist in the Sentinel Evacuation of Northern America. Box reprogrammed the Sentinels to target the X-Men, though the X-Men were later able to reverse Box's efforts. Box was able to conceal himself and pose as a human during the evacuation along with [[Copycat (comics)|Copycat]]. They were discovered at a checkpoint and provided a distraction for the [[Reavers (comics)|Reavers]] to pass through, but were subsequently hunted down by Weapon X and Jean Grey with the former slaying Box in the process.{{issue|date=April 2013}}
 
+===Age of X-Man===
+In the ''[[Age of X-Man]]'' reality, Madison Jeffries is the History Instructor of the 10th Year class within the Summers Institute Of Higher Learning, located in Winchester, NY.<ref>''Age of X-Man - NextGen'' #1 (February 2019)</ref>
+
 ===House of M===
-In the ''[[House of M]]'' reality, Madison Jeffries had also been forced by Weapon X to create weapons that would be used on his fellow mutants.{{issue|date=April 2013}} His brother, Lionel, had also been a captive of the [[Weapon X]] program and, though the Jeffries brothers were eventually liberated when [[Magneto (comics)|Magneto]] established himself as monarch, they both came out with severe mental issues. Not wanting to be embarrassed by the two nutcases, Magneto couldn’t keep the Jeffries brothers close by yet he also deemed them too valuable and resourceful to not make any use of them. As such, Magneto had them positioned in the Central American country of Santo Rico (after overthrowing the mutant El Toro) where they oversaw the mining of its precious metal ores. They ruled the country with an iron fist and experimented on its residents for years until [[Hood (comics)|Hood]]'s [[Masters of Evil]] invaded Santo Rico. Madison and Lionel both grow significantly in size and power by absorbing dozens of Santo Ricans and the mined minerals into their masses. Regardless, they were outnumbered by the Masters who killed the Jeffries brothers in order to conquer Santo Rico for themselves.<ref>''House of M: Masters of Evil'' #3</ref>
+In the ''[[House of M]]'' reality, Madison Jeffries had also been forced by Weapon X to create weapons that would be used on his fellow mutants.{{issue|date=April 2013}} His brother, Lionel, had also been a captive of the [[Weapon X]] program and, though the Jeffries brothers were eventually liberated when [[Magneto (Marvel Comics)|Magneto]] established himself as monarch, they both came out with severe mental issues. Not wanting to be embarrassed by the two nutcases, Magneto couldn't keep the Jeffries brothers close by yet he also deemed them too valuable and resourceful to not make any use of them. As such, Magneto had them positioned in the Central American country of Santo Rico (after overthrowing the mutant El Toro) where they oversaw the mining of its precious metal ores. They ruled the country with an iron fist and experimented on its residents for years until [[Hood (comics)|Hood]]'s [[Masters of Evil]] invaded Santo Rico. Madison and Lionel both grow significantly in size and power by absorbing dozens of Santo Ricans and the mined minerals into their masses. Regardless, they were outnumbered by the Masters who killed the Jeffries brothers in order to conquer Santo Rico for themselves.<ref>''House of M: Masters of Evil'' #3</ref>
 
 ===Weapon X: Days of Future Now===
 In the alternate future depicted in ''Weapon X: Days of Future Now'', Madison's ever-improving Boxbots have gained a sentience of their own, one of them even calling itself [[Master Mold]].{{issue|date=April 2013}}
@@ -110,13 +116,13 @@ In the alternate future depicted in ''Weapon X: Days of Future Now'', Madison's 
 * [http://alphaflight.net/showwiki/Box_IV '''AlphaFlight.Net''' Alphanex Entry On - Madison Jeffries]
 * [http://www.marveldirectory.com/individuals/b/boxiv.htm '''MarvelDirectory.com''' - Character Bio - Madison Jeffries aka Box IV]
 * [http://uncannyxmen.net/characters/jeffries-madison '''Uncannyxmen.net''' Spotlight on Madison Jeffries]
+* {{Marveldatabase}}
 
 {{Weapon Plus}}
 {{X-Men}}
 {{Flight Program}}
 
 {{DEFAULTSORT:Jeffries}}
-
 [[Category:Characters created by John Byrne]]
 [[Category:Comics characters introduced in 1984]]
 [[Category:Fictional Canadian people]]

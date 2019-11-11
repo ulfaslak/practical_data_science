@@ -2,7 +2,7 @@
 |image=[[Image:Shuma Gorath.jpg|250px]]
 |character_name=Shuma-Gorath
 |real_name=
-|species=[[List of Marvel Comics demons|Demon]]
+|species=[[Old One in fiction|Old Ones]]/[[Many-angled ones]]
 |publisher=[[Marvel Comics]]
 |debut=''[[Marvel Premiere]]'' #5 (November 1972)
 |creators=[[Steve Englehart]]<br /> [[Frank Brunner]]
@@ -11,7 +11,7 @@
 |powers=Energy projection<br>Reality manipulation<br>Shapeshifting<br>Levitation<br>Teleportation<br>Vast mystical powers<br>Immortality
 |}}
 
-'''Shuma-Gorath''' ({{IPAc-en|ˈ|ʃ|uː|m|ə|_|ˈ|g|ɔːr|æ|θ}}) is a [[character (fiction)|fictional character]] appearing in [[American comic book]]s published by [[Marvel Comics]]. 
+'''Shuma-Gorath''' ({{IPAc-en|ˈ|ʃ|uː|m|ə|_|ˈ|g|ɔːr|æ|θ}}) is a [[character (fiction)|fictional character]] appearing in [[American comic book]]s published by [[Marvel Comics]].
 
 ==Publication history==
 Shuma-Gorath first appears as an adversary for [[Doctor Strange]] in ''[[Marvel Premiere]]'' #5 (November 1972), created by [[Steve Englehart]] and [[Frank Brunner]]. The character's name is taken from [[Robert E. Howard]]'s short story "The Curse of the Golden Skull", which features a dying magician named Rotath invoking the "iron-bound books of Shuma-Gorath" in a curse against humanity.
@@ -32,7 +32,10 @@ The ''Last Days of Magic'' storyline describes Shuma-Gorath as responsible for d
 Later, during a battle, [[Dormammu]] states to Doctor Strange that he helped the Empirikul in finding Shuma-Gorath, who was defeated by the Imperator. Doctor Strange later banishes Dormammu to Shuma-Gorath itself, who was visibly wounded and seeking revenge.<ref>''Doctor Strange'' Vol. 4 #16</ref>
 
 ==Powers and abilities==
-Shuma-Gorath is an ancient force of chaos, the immortal, nigh-invincible, and godlike ruler of nearly a hundred alternate universes, capable of energy projection, [[shapeshifting]], [[teleportation]], [[levitation]], altering reality, and [[sympathetic magic]] among many other feats. He is described as being vastly more powerful than other mighty demonic enemies, such as [[Satannish]] and [[Mephisto (comics)|Mephisto]], and is capable of automatically destroying multiple galaxies through aura-pressure alone.<ref>''Strange Tales'' vol. 2 #14 (June 1988)</ref>
+Shuma-Gorath is an ancient force of chaos, the immortal, nigh-invincible, and godlike ruler of nearly a hundred alternate universes, capable of energy projection, [[shapeshifting]], [[teleportation]], [[levitation]], altering reality, and [[sympathetic magic]], among many other feats. He is described as being vastly more powerful than other mighty demonic enemies, such as [[Satannish]] and [[Mephisto (comics)|Mephisto]], and is capable of automatically destroying multiple galaxies through aura-pressure alone.<ref>''Strange Tales'' vol. 2 #14 (June 1988)</ref>
+
+== Other versions ==
+In the "Venomized" event, a Poison Shuma-Gorath was present in the Poison Hive's invasion of the [[Earth-616|Prime Marvel Universe]], fighting [[Vision (Marvel Comics)|Vision]] and [[Falcon (Marvel Comics)|Falcon]], successfully bonding a [[Klyntar|symbiote]] to the latter.<ref>''Venomized'' #1-5. Marvel Comics.</ref>
 
 ==In other media==
 
@@ -40,7 +43,7 @@ Shuma-Gorath is an ancient force of chaos, the immortal, nigh-invincible, and go
 * Shuma-Gorath appears as a playable character in the [[fighting game]] ''[[Marvel Super Heroes (video game)|Marvel Super Heroes]]'', voiced by Frank Perry.<ref>http://www.vgmuseum.com/end/arcade/b/mshshu.htm</ref>
 * Shuma-Gorath appears as a playable character in the fighting game ''[[Marvel Super Heroes vs. Street Fighter]]'', voiced again by Frank Perry.<ref>http://www.vgmuseum.com/end/arcade/a/mshsfshu.htm</ref>
 * Shuma-Gorath appears as a playable character in the fighting game ''[[Marvel vs. Capcom 2: New Age of Heroes]]'', voiced again by Frank Perry.{{cn|date=November 2016}}
-* Shuma-Gorath appears as a playable character via [[downloadable content]] in the fighting games ''[[Marvel vs. Capcom 3: Fate of Two Worlds]]'' and ''[[Ultimate Marvel vs. Capcom 3]]'', voiced by [[Paul Dobson (actor)|Paul Dobson]].<ref>{{cite web |title=Voices of Shuma-Gorath|author= |date= |publisher=Behind the Voice Actors |accessdate=2011-09-28 |url=http://www.behindthevoiceactors.com/characters/Marvel-Universe/Shuma-Gorath/}}</ref><ref>{{cite web |title=Marvel vs. Capcom 3: Fate of Two Worlds Collector's Edition&nbsp;– with Bonus! |author= |date=2010-11-16 |publisher=Gamestop |accessdate=2010-11-16 |url=http://www.gamestop.com/Catalog/ProductDetails.aspx?product_id=88340#bonusFeatures |deadurl=yes |archiveurl=https://www.webcitation.org/6B7n4T5FE?url=http://www.gamestop.com/ps3/games/marvel-vs-capcom-3-fate-of-two-worlds-collectors-edition/88340 |archivedate=2012-10-02 |df= }}</ref><ref>{{cite web |title=Marvel vs. Capcom 3: New Characters, Release Date, and Special Edition |date=2010-11-15 |publisher=Capcom |accessdate=2011-03-02 |url=http://www.capcom-unity.com/jgonzo/blog/2010/11/15/marvel_vs._capcom_3:_new_characters,_release_date,_and_special_edition}}</ref>
+* Shuma-Gorath appears as a playable character via [[downloadable content]] in the fighting games ''[[Marvel vs. Capcom 3: Fate of Two Worlds]]'' and ''[[Ultimate Marvel vs. Capcom 3]]'', voiced by [[Paul Dobson (actor)|Paul Dobson]].<ref>{{cite web |title=Voices of Shuma-Gorath|author= |date= |publisher=Behind the Voice Actors |accessdate=2011-09-28 |url=http://www.behindthevoiceactors.com/characters/Marvel-Universe/Shuma-Gorath/}}</ref><ref>{{cite web |title=Marvel vs. Capcom 3: Fate of Two Worlds Collector's Edition&nbsp;– with Bonus! |date=2010-11-16 |publisher=Gamestop |accessdate=2010-11-16 |url=http://www.gamestop.com/Catalog/ProductDetails.aspx?product_id=88340#bonusFeatures |url-status=dead |archiveurl=https://www.webcitation.org/6B7n4T5FE?url=http://www.gamestop.com/ps3/games/marvel-vs-capcom-3-fate-of-two-worlds-collectors-edition/88340 |archivedate=2012-10-02 }}</ref><ref>{{cite web |title=Marvel vs. Capcom 3: New Characters, Release Date, and Special Edition |date=2010-11-15 |publisher=Capcom |accessdate=2011-03-02 |url=http://www.capcom-unity.com/jgonzo/blog/2010/11/15/marvel_vs._capcom_3:_new_characters,_release_date,_and_special_edition}}</ref>
 * Shuma-Gorath is featured in the Doctor Strange virtual [[pinball game]] for ''[[Pinball FX 2]]''.<ref>{{cite web|url=http://marvel.com/news/video_games/2013/12/20/21672/download_doctor_strange_pinball_now |title=Doctor Strange Pinball |publisher=Marvel.com |date= |accessdate=2014-02-13}}</ref>
 
 ==See also==
@@ -52,6 +55,7 @@ Shuma-Gorath is an ancient force of chaos, the immortal, nigh-invincible, and go
 ==External links==
 * [http://www.marvel.com/universe/Shuma-Gorath Shuma-Gorath] at Marvel.com
 * {{Marvunapp|http://www.marvunapp.com/Appendix2/shumagorath.htm|Shuma Gorath}}
+* {{Marveldatabase}}
 
 {{Doctor Strange}}
 {{Marvel Mystic}}

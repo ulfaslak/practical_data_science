@@ -5,19 +5,20 @@
 |character_name=The Executioner
 |real_name=Skurge
 |publisher=[[Marvel Comics]]
-|debut=''[[Journey into Mystery]]'' #103 (April, 1964)
+|debut=''[[Journey into Mystery]]'' #103 (April 1964)
 |creators=[[Stan Lee]] (writer)<br>[[Jack Kirby]] (artist)
-|alliances=[[Masters of Evil]]<br/>[[Mandarin's Minions]]<br/>[[Legion of the Unliving]]<br/>Einherjar (warriors of Valhalla)
+|alliances=[[Masters of Evil]]<br/>Mandarin's Minions<br/>[[Legion of the Unliving]]<br/>Einherjar (warriors of Valhalla)<br/>[[Lethal Legion]]
 |aliases=Hans Grubervelt, The Evil One
+|partners=[[Loki (comics)|Loki]]<br/>[[Enchantress (Marvel Comics)|Enchantress]]
 |powers=Superhuman strength, stamina, durability, and visual acuity<br>Extended lifespan<br>Use of enchanted axe
 }}
 The '''Executioner''' is the name of different [[fictional character]]s appearing in [[American comic book]]s published by [[Marvel Comics]].
 
 '''Skurge''', an [[Asgard (comics)|Asgardian]], was originally depicted as a [[supervillain]] who wielded a magic double-bladed battle axe. Skurge fell in love with the [[Enchantress (Marvel Comics)|Enchantress]] and was frequently used in schemes by her and the trickster god [[Loki (comics)|Loki]]. He was a long-time antagonist of [[Thor (Marvel Comics)|Thor]] and other heroes of the Marvel universe and was a member of the original [[Masters of Evil]]. Eventually, he joined the heroes of Asgard in a mission to [[Hel (location)|Hel]], where he sacrificed his axe to destroy [[Naglfar]], the ship of the dead, and delayed [[Ragnarök|Ragnarok]], and sacrificed his life to hold the bridge at [[Gjallarbrú]] so the heroes could escape the forces of Hel. After a time trapped in Hel, he joined the honored dead in [[Valhalla]].
 
-The name was later used by two other characters: an axe-wielding android member of the [[Crazy Gang (comics)|Crazy Gang]] and a vigilante named '''Daniel DuBois''', the son of [[Princess Python]].
+The name was later used by two other characters: an axe-wielding android member of the Crazy Gang and a vigilante named '''Daniel DuBois''', the son of [[Princess Python]].
 
-[[Karl Urban]] portrays Skurge in the [[Marvel Cinematic Universe]] film ''[[Thor: Ragnarok]]''.
+[[Karl Urban]] portrayed the character in the [[Marvel Cinematic Universe]] film ''[[Thor: Ragnarok]]'' (2017).
 
 ==Publication history==
 The Executioner first appeared in ''[[Journey into Mystery]]'' #103 (April 1964), and was created by [[Stan Lee]] and [[Jack Kirby]].
@@ -30,7 +31,7 @@ In his first appearance, the Executioner teams with the Enchantress to battle [[
 
 The Executioner menaced Jane Foster, and fought [[Balder (comics)|Balder]] as any ally of Loki.<ref>''Journey Into Mystery'' #116-117</ref> He was later among the legion of villains assembled by [[Doctor Doom]] to destroy the [[Fantastic Four]] using a mind-control machine, but due to Mister Fantastic the villains all had their memory of this event erased.<ref>''Fantastic Four Annual'' #3</ref>
 
-Apart from the Enchantress, Skurge attempted to establish an empire by the conquest of an alternate future 25th Century Earth. He battled the [[Hulk (comics)|Hulk]] after he was accidentally transported there.<ref>''Tales to Astonish'' #76–77</ref>
+Apart from the Enchantress, Skurge attempted to establish an empire by the conquest of an alternate future 25th Century Earth. He battled the [[Hulk]] after he was accidentally transported there.<ref>''Tales to Astonish'' #76–77</ref>
 
 He was reunited with the Enchantress, and joined the [[Mandarin (comics)|Mandarin]]'s attempted world conquest with four other villains after being taken to his base by teleportation technology. He attacked the Asian sub-continent with an army of trolls due to the valuable diamonds that were there, and fought [[Hercules (Marvel Comics)|Hercules]] in another dimension he had transported them to with his axe, but was beaten and thrown at a giant the Enchantress had created to defeat the [[Scarlet Witch]], destroying it.<ref>''Avengers Annual'' #1</ref>
 
@@ -57,7 +58,7 @@ Enchantress attempts to attack [[Yggdrasil]] in order to free Executioner from V
 ===Crazy Gang===
 The Executioner is a silent [[Android (robot)|android]] swathed in a long robe and hood and armed with an axe. It follows the commands of the Red Queen and seems to lack any real intelligence. It was destroyed under unknown circumstances,{{issue|date=November 2013}} but it had been destroyed and repaired before.{{issue|date=November 2013}}
 
-===Young Masters===
+===Daniel DuBois===
 A character named '''The Executioner''' (Daniel DuBois) appears in ''[[Dark Reign (comics)|Dark Reign]]: [[Young Avengers]]''. He is described as "a rich and organized urban vigilante who hunts and kills criminal scum. And likes to hurt pets."<ref>[http://www.comicbookresources.com/?page=article&id=19890 NYCC: Cornell Talks “Dark Reign: Young Avengers”], [[Comic Book Resources]], February 7, 2009</ref><ref>[http://www.newsarama.com/comics/020920-Brooks-Young-Masters.html Mark Brooks: Designing the Young Masters], [[Newsarama]], February 20, 2009</ref> It is later revealed that this Executioner is the son of [[Princess Python]],<ref>''Dark Reign: Young Avengers'' #2</ref> and knows [[Hawkeye (Kate Bishop)|Kate Bishop]] from school, and is aware of her secret identity, knowledge that he uses to try to blackmail his way onto the team.<ref>''Dark Reign: Young Avengers'' #3</ref>
 
 Executioner is not aware of his mother's identity as Princess Python until it is actually pointed out to him. However, it may be that he was simply in denial about this matter, as [[Norman Osborn]] comments that if ''his'' mother was Princess Python, then he would like to think he would know and Kate Bishop immediately realizes who she is upon meeting her.<ref>''Dark Reign: Young Avengers'' #3</ref>
@@ -76,21 +77,21 @@ Executioner is among the villains enthralled by [[Krona (comics)|Krona]] to defe
 
 ==In other media==
 ===Television===
-* Executioner appears in The Mighty Thor portion of ''[[The Marvel Super Heroes]]''.{{cn|date=June 2017}}
+* Executioner appears in The Mighty Thor portion of ''[[The Marvel Super Heroes]]''.{{citation needed|date=June 2017}}
 * Executioner appears in ''[[The Super Hero Squad Show]]'', voiced by [[Travis Willingham]].<ref>{{cite web|url=http://www.comicscontinuum.com/stories/0907/28/voices.htm |title=Comics Continuum |publisher=Comics Continuum |date=2009-07-28 |accessdate=2018-05-01}}</ref> Due to the child-friendly status of the show, he is referred to only as "Skurge". Due to Enchantress' crush on Thor, Executioner attacks Thor only to be defeated.
-* Executioner appears in ''[[The Avengers: Earth's Mightiest Heroes]]'' as a recurring character.{{cn|date=June 2017}} The Executioner never speaks and is the faithful servant of Enchantress.
-* Executioner appears in the ''[[Ultimate Spider-Man (TV series)|Ultimate Spider-Man]]'' episode "Run Pig Run", voiced again by Travis Willingham.{{cn|date=June 2017}} He is the leader of Asgard's hunters who takes part in Asgardsreia where they end up hunting Spider-Man (who has been turned into a [[Spider-Ham]] by Loki's enchanted hot dog). Spider-Man's team and Thor had to protect Spider-Ham from the Asgardian hunters. After Spider-Ham changes back to normal upon the sun setting and punches Loki, Executioner stated that Spider-Man led him on an honorable hunt despite the fact that he was a pig. As Loki escapes on a flying wolf vowing revenge on Spider-Man, Executioner and his hunters board their flying wolves and pursue Loki. In the episode "Contest of Champions" Pt. 1, Executioner alongside [[Abomination (comics)|Abomination]] and [[Beetle (comics)|Beetle]] are sent by [[Grandmaster (Marvel Comics)|Grandmaster]] to capture Spider-Man so that he can be used in his contest against [[Collector (comics)|Collector]] only for Spider-Man to be saved by Collector. In the episode "Contest of Champions" Pt. 4, Executioner alongside [[Doctor Octopus]] and [[Absorbing Man]] fight Spider-Man and Collector.
-* Executioner appears in the two-part ''[[Avengers Assemble (TV series)|Avengers Assemble]]'' episode "Avengers No More," voiced again by Travis Willingham.{{cn|date=June 2017}} He appears as a member of the second incarnation of the Cabal which also consists of [[Leader (comics)|Leader]], [[Arnim Zola]], Enchantress, and [[Kang the Conqueror]] at the time when Leader uses the stolen Arc Reactor prototype and Vibranium from the Wakandan consulate to build his Static Expander as part of his plot to scatter the Avengers across time and space. In addition, Executioner has a pet Asgardian [[dire wolf]].
+* Executioner appears in ''[[The Avengers: Earth's Mightiest Heroes]]'' as a recurring character.{{citation needed|date=June 2017}} The Executioner never speaks and is the faithful servant of Enchantress.
+* Executioner appears in the ''[[Ultimate Spider-Man (TV series)|Ultimate Spider-Man]]'' episode "Run Pig Run", voiced again by Travis Willingham.{{citation needed|date=June 2017}} He is the leader of Asgard's hunters who takes part in Asgardsreia where they end up hunting Spider-Man (who has been turned into a [[Spider-Ham]] by Loki's enchanted hot dog). Spider-Man's team and Thor had to protect Spider-Ham from the Asgardian hunters. After Spider-Ham changes back to normal upon the sun setting and punches Loki, Executioner stated that Spider-Man led him on an honorable hunt despite the fact that he was a pig. As Loki escapes on a flying wolf vowing revenge on Spider-Man, Executioner and his hunters board their flying wolves and pursue Loki. In the episode "Contest of Champions" Pt. 1, Executioner alongside [[Abomination (comics)|Abomination]] and [[Beetle (comics)|Beetle]] are sent by [[Grandmaster (Marvel Comics)|Grandmaster]] to capture Spider-Man so that he can be used in his contest against [[Collector (comics)|Collector]] only for Spider-Man to be saved by Collector. In the episode "Contest of Champions" Pt. 4, Executioner alongside [[Doctor Octopus]] and [[Absorbing Man]] fight Spider-Man and Collector.
+* Executioner appears in the two-part ''[[Avengers Assemble (TV series)|Avengers Assemble]]'' episode "Avengers No More," voiced again by Travis Willingham.{{citation needed|date=June 2017}} He appears as a member of the second incarnation of the Cabal which also consists of [[Leader (comics)|Leader]], [[Arnim Zola]], Enchantress, and [[Kang the Conqueror]] at the time when Leader uses the stolen Arc Reactor prototype and Vibranium from the Wakandan consulate to build his Static Expander as part of his plot to scatter the Avengers across time and space. In addition, Executioner has a pet Asgardian [[dire wolf]].
 
 ===Film===
 [[File:Karl Urban as Skurge.jpg|thumb|[[Karl Urban]] as Skurge in the 2017 film ''[[Thor: Ragnarok]]'']]
 * Executioner makes an appearance in the animated direct-to-video film ''[[Hulk Vs|Hulk vs. Thor]]''.
-* Skurge appears in ''[[Thor: Ragnarok]]'', portrayed by [[Karl Urban]].<ref>{{cite web |url=http://marvel.com/news/movies/26203/marvel_studios_confirms_stellar_new_cast_members_of_the_highly_anticipated_thor_ragnarok |title=Marvel Studios Confirms Stellar New Cast Members of the Highly Anticipated 'Thor: Ragnarok' |last=Strom |first=Marc |publisher=[[Marvel Comics|Marvel.com]] |date=May 20, 2016 |accessdate=May 20, 2016 |archiveurl=https://www.webcitation.org/6heTlxHxA?url=http://marvel.com/news/movies/26203/marvel_studios_confirms_stellar_new_cast_members_of_the_highly_anticipated_thor_ragnarok |archivedate=May 20, 2016 |deadurl=no |df= }}</ref> This version acted as a replacement for [[Heimdall (comics)|Heimdall]] as the Bifrost Bridge guard and owns two [[M16 rifle]]s that he acquired from "[[Texas|Tecks-has]]". He is recruited by [[Hela (comics)|Hela]], who dubs him her Executioner. Skurge later regrets this and flees on board a ship carrying the entire population of Asgard. When Hela pins the ship and her undead army begins to climb aboard, a repentant Skurge opens fire with his M16s to fend them off. Stating "For Asgard", Skurge jumps off the ship and sacrifices himself so that the people may live before he is killed by Hela.
+* Skurge appears in ''[[Thor: Ragnarok]]'', portrayed by [[Karl Urban]].<ref>{{cite web |url=http://marvel.com/news/movies/26203/marvel_studios_confirms_stellar_new_cast_members_of_the_highly_anticipated_thor_ragnarok |title=Marvel Studios Confirms Stellar New Cast Members of the Highly Anticipated 'Thor: Ragnarok' |last=Strom |first=Marc |publisher=[[Marvel Comics|Marvel.com]] |date=May 20, 2016 |accessdate=May 20, 2016 |archiveurl=https://www.webcitation.org/6heTlxHxA?url=http://marvel.com/news/movies/26203/marvel_studios_confirms_stellar_new_cast_members_of_the_highly_anticipated_thor_ragnarok |archivedate=May 20, 2016 |url-status=live }}</ref> This version acted as a replacement for [[Heimdall (comics)|Heimdall]] as the Bifrost Bridge guard and owns two [[M16 rifle]]s that he acquired from "[[Texas|Tex-ass]]". He is recruited by [[Hela (comics)|Hela]], who dubs him her Executioner. Skurge later regrets this and flees on board a ship carrying the entire population of Asgard. When Hela pins the ship and her undead army begins to climb aboard, a repentant Skurge opens fire with his M16s to fend them off. Stating "For Asgard", Skurge jumps off the ship and sacrifices himself so that the people may live before he is killed by Hela.
 
 ===Video games===
 * Executioner appears as a boss in the video game ''[[Marvel: Ultimate Alliance]]'' voiced by [[Peter Lurie]].
 * Executioner is featured as a boss in the [[Facebook]] game ''[[Marvel: Avengers Alliance]]''.
-* Executioner is playable in ''[[Marvel: Future Fight]]''.<ref>https://news.marvel.com/games/79315/thor-ragnarok-takes-marvel-games-storm/</ref>
+* Executioner is playable in ''[[Marvel: Future Fight]]''.<ref>{{Cite web |url=https://news.marvel.com/games/79315/thor-ragnarok-takes-marvel-games-storm/ |title=Archived copy |access-date=2017-10-30 |archive-url=https://web.archive.org/web/20171107004255/https://news.marvel.com/games/79315/thor-ragnarok-takes-marvel-games-storm/ |archive-date=2017-11-07 |url-status=dead }}</ref>
 
 ==References==
 {{Reflist}}
@@ -100,6 +101,7 @@ Executioner is among the villains enthralled by [[Krona (comics)|Krona]] to defe
 {{Thor}}
 {{Stan Lee}}
 {{Jack Kirby}}
+
 {{DEFAULTSORT:Executioner (Comics)}}
 [[Category:Comics characters introduced in 1964]]
 [[Category:Characters created by Jack Kirby]]

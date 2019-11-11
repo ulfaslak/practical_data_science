@@ -1,3 +1,4 @@
+{{short description|Fictional character that appears in Marvel Comics}}
 {{primary sources|date=June 2016}}
 <!-- Don't mess with this line! --><!-- Write your article below this line -->
 {{Infobox comics character <!--Wikipedia:WikiProject Comics-->
@@ -9,7 +10,7 @@
 |real_name = Emrys Killebrew
 |publisher=[[Marvel Comics]]
 |debut = ''Deadpool: Sins of the Past Vol 1 #1'' (August, 1994)
-|creators = [[Mark Waid]] (Writer) & [[Ian Churchill]] (artist)
+|creators = [[Mark Waid]]<br> (writer)<br> [[Ian Churchill]]<br> (artist)
 |alliances = [[Deadpool]]
 |partners  = <!-- optional -->
 |supports  = <!-- optional -->
@@ -22,7 +23,7 @@
 |sortkey = Deadpool
 }}
 
-'''Emrys Killebrew''' is a [[Character (arts)|fictional character]] that appears in comic books published by [[Marvel Comics]] as a supporting character of [[Deadpool]]. The character was created by writer [[Mark Waid]] & artist [[Ian Churchill]].
+'''Emrys Killebrew''' is a [[Character (arts)|fictional character]] that appears in comic books published by [[Marvel Comics]] as a supporting character of [[Deadpool]]. The character was created by writer [[Mark Waid]] and artist [[Ian Churchill]].
 
 == Publication history ==
 Emrys Killebrew was created by writer [[Mark Waid]] and artist [[Ian Churchill]] in Deadpool: Sins of the Past Vol 1 #1 (August, 1994).<ref>Deadpool: Vol 1 #1</ref>
@@ -55,6 +56,7 @@ Dr. Killebrew had no special powers, but he was a brilliant scientist with degre
 {{Deadpool}}
 {{Weapon Plus}}
 
+{{DEFAULTSORT:Killebrew, Emrys}}
 [[Category:1994 comics debuts]]
 [[Category:Characters created by Mark Waid]]
 [[Category:Comics characters introduced in 1994]]

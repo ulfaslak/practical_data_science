@@ -1,3 +1,4 @@
+{{short description|Fictional comic book monsters}}
 {{Infobox comics species
 <!--Wikipedia:WikiProject Comics-->
 <!-- |species   = Mindless Ones -->
@@ -12,7 +13,8 @@
 |deities   = 
 |homeworld = Dread Dimensions
 |members   = 
-|powers    = Superhuman strength and resistance to injury<br>Energy projection
+|powers    = *Superhuman strength, stamina, and durability
+*Energy projection
 |subcat    = Marvel Comics
 |altcat    = Marvel Comics alien species
 |sortkey   = Mindless Ones
@@ -61,7 +63,7 @@ They are also referenced here as Neutron Slaves. They were used to mine Neutron 
 During the "[[Original Sin (comics)|Original Sin]]"' storyline, a Mindless One was wrecking New York and smacking the Thing around. Spider-Man shows up to give Thing a hand. Spider-Man recognizes the Mindless One and realizes that they are not supposed to be telepathic. The Mindless One screams in agony over the things he has seen and the things he has done. Thing realizes he is wielding the [[Ultimate Nullifier]] and tries to talk the Mindless One down. However, it doesn't work and the Mindless shoots himself with it. By this time, Nick Fury and the Avengers arrive. Captain America wants the Ultimate Nullifier left alone until it is contained and Fury declares the battle zone a murder scene. Elsewhere, a group of villains realize the other Mindless Ones are evolving.<ref>''Original Sin'' #1</ref>
 
 ==Powers and abilities==
-Mindless Ones are capable of firing energy from the hole that makes up their faces. They are superhumanly strong and resistant to injury, although their exact power levels vary from appearance to appearance.
+Mindless Ones are capable of firing energy blasts from the hole that makes up their faces. They are superhumanly strong and durable, although their exact power levels vary from appearance to appearance.
 
 ==In other media==
 ===Television===
@@ -79,10 +81,15 @@ The Mindless Ones appear as enemies in the ''[[Marvel: Avengers Alliance]]'' Fac
 ==External links==
 * [http://marvel.com/universe/Mindless_Ones Mindless Ones] at Marvel.com
 * [http://www.marveldirectory.com/individuals/d/dormammu.htm Character Biography of Dormammu including info on Mindless Ones]
-
+{{Defenders}}
 {{Doctor Strange}}
+{{Fantastic Four}}
 {{Marvel Mystic}}
+{{New Mutants}}
+{{Nova}}
+{{Spider-Man characters}}
 {{Stan Lee}}
+{{X-Men}}
 [[Category:Characters created by Stan Lee]]
 [[Category:Characters created by Steve Ditko]]
 [[Category:Comics characters introduced in 1964]]

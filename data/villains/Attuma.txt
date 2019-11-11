@@ -1,3 +1,4 @@
+{{short description|Fictional comic book supervillain}}
 {{Infobox comics character
 |image = Attuma.png
 |imagesize = 
@@ -7,7 +8,7 @@
 |debut=''[[Fantastic Four (comic book)|Fantastic Four]]'' #33, (December 1964)
 |creators=[[Stan Lee]] (writer)<br>[[Jack Kirby]] (artist)
 |real_name=Attuma
-|species = [[Homo mermanus]]
+|species = ''[[Homo mermanus]]''
 |homeworld = [[Atlantis (Marvel Comics)|Atlantis]]
 |alliances=[[Atlantis (Marvel Comics)|Atlantis]]<br/>[[Lethal Legion]]<br/>[[Deep Six (Marvel Comics)|Deep Six]]<br/>[[Fear Itself (comics)|The Worthy]]
 |partners=[[Krang (Marvel Comics)|Warlord Krang]]<br/>[[Ghaur]]<br/>[[Llyra]]<br/>[[Tiger Shark (Marvel Comics)|Tiger Shark]]<br/>[[Tyrak]]<br/>[[Byrrah]]<br/>[[Red Ghost]]<br/>[[Lemuel Dorcas|Dr. Dorcas]]
@@ -43,7 +44,7 @@ During the ''[[Dark Reign (comics)|Dark Reign]]'' storyline, Attuma is restored 
 During the ''[[Fear Itself (comics)|Fear Itself]]'' storyline, one of the seven Hammers of the Worthy lands near Attuma after it was launched to Earth by the [[Serpent (comics)|Serpent]]. He is able to lift it and becomes Nerkodd: Breaker of Oceans.<ref>''Fear Itself'' #2</ref> He fights [[Alpha Flight]] after he tried to attack Vancouver, but he was defeated.<ref>''Alpha Flight'' #1</ref> Then soon after that, he heads to Atlantis to overthrow Namor's rule and become the new king of Atlantis.<ref>''Fear Itself: The Deep'' #1-4</ref>
 
 ===Marvel NOW!===
-Sometime later as part of the ''[[Marvel NOW!]]'' event, Attuma found and unlocked the secrets from the Lost City of Lemuria, using it to attack several places on land. [[S.H.I.E.L.D.]] then sent [[Hulk (comics)|Hulk]] to deal with the threat.<ref>''Indestructible Hulk'' vol 1 #4</ref>
+Sometime later as part of the ''[[Marvel NOW!]]'' event, Attuma found and unlocked the secrets from the Lost City of Lemuria, using it to attack several places on land. [[S.H.I.E.L.D.]] then sent [[Hulk]] to deal with the threat.<ref>''Indestructible Hulk'' vol 1 #4</ref>
 
 In a flashback experienced by [[Nara (comics)|Nara]], her parents were servants of Attuma that were posing as Namor's Royal Guards.<ref>''Avengers Arena'' #15</ref>
 
@@ -86,6 +87,7 @@ A zombie Attuma makes an appearance in ''Dead Days'' on one panel fighting the [
 ==External links==
 * [http://www.marvel.com/universe/Attuma Attuma] at Marvel.com
 * {{Marvunapp|http://www.marvunapp.com/Appendix3/attumanamor.htm|Attuma}}
+* {{Marveldatabase}}
 
 {{Namor}}
 {{Defenders}}
@@ -96,6 +98,7 @@ A zombie Attuma makes an appearance in ''Dead Days'' on one panel fighting the [
 [[Category:Characters created by Jack Kirby]]
 [[Category:Comics characters introduced in 1964]]
 [[Category:Fictional mercenaries]]
+[[Category:Fictional warlords]]
 [[Category:Marvel Comics Atlanteans (Homo mermanus)]]
 [[Category:Marvel Comics characters with superhuman strength]]
 [[Category:Marvel Comics supervillains]]

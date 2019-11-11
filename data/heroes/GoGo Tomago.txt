@@ -15,11 +15,13 @@
 
 '''GoGo Tomago''' ('''Leiko Tanaka''') is a [[fictional character]], a [[superhero]] appearing in [[American comic book]]s published by [[Marvel Comics]]. Her first appearance was in ''Sunfire & Big Hero 6'' #1 and was created by [[Steven T. Seagle]] and [[Duncan Rouleau]].
 
+Go Go appears in the 2014 [[Walt Disney Animation Studios|Disney animated]] film ''[[Big Hero 6 (film)|Big Hero 6]]'' and [[Big Hero 6 (TV series)|television series]], voiced by [[Jamie Chung]] and in the video game ''[[Kingdom Hearts III]]''. She is shown as an athletic adrenaline junkie who does not talk much. She possesses electromagnetic disks that can be used as skates and also has smaller disks within them that can be thrown as projectiles.
+
 ==Publication history==
 Created by [[Steven T. Seagle]] and [[Duncan Rouleau]] in their spare time while working on another project, GoGo Tomago was first intended to appear with the rest of [[Big Hero 6 (comics)|Big Hero 6]] in ''[[Alpha Flight]]'' #17 (December 1998). However, the team first appeared in their own self-titled three-issue miniseries by writer [[Scott Lobdell]] and artist Gus Vasquez, which due to scheduling issues, was published before ''Alpha Flight'' #17.<ref>{{cite web|url=http://www.laughingplace.com/w/blogs/fanboy/2014/03/25/movie-week-a-look-ahead-to-big-hero-6/|title=LaughingPlace.com » Movie Week: A Look Ahead To Big Hero 6|publisher=|accessdate=23 October 2014}}</ref><ref>[https://vancouversun.com/entertainment/movie-guide/Hero+banks+huggable+robot+draw+audiences/10350057/story.html Big Hero 6 banks on a huggable robot to draw in audiences]</ref> The character appeared with the team in a subsequent five-issue miniseries which was launched by Marvel Comics in September 2008.
 
 ==Fictional character biography==
-Raised on the streets of Utsunomiya, Tochigi Prefecture, young street urchin Leiko Tanaka fell in with the Shikei-otaku, one of the many youth-based motorcycle gangs ([[bōsōzoku]]) involved in [[Yakuza]] activities. At age 18, she was arrested during a botched robbery of the Kiyohara Industrial Complex and sentenced to a term of five years in Tochigi Prison. However, before serving her full sentence, engineers from Japan's Ministry of Defense came to her with a deal: secure an early release from prison in exchange for test piloting an experimental exosuit. Tanaka, who was chosen as a test subject based on her good behavior in prison and her high-speed motorcycling skills, accepted the government's terms and soon found herself in the "Go-Go Tomago" exosuit, named for the sphere-like shape the armor takes when propelling through the air at high velocities ("tomago" being a corruption of "tamago", the Japanese word for "egg").<ref name="Hero #1">''Big Hero 6'' #1 (2008)</ref>
+Raised on the streets of [[Utsunomiya]], [[Tochigi Prefecture]], young street urchin Leiko Tanaka fell in with the Shikei-otaku, one of the many youth-based motorcycle gangs ([[bōsōzoku]]) involved in [[Yakuza]] activities. At age 18, she was arrested during a botched robbery of the Kiyohara Industrial Complex and sentenced to a term of five years in Tochigi Prison. However, before serving her full sentence, engineers from Japan's Ministry of Defense came to her with a deal: secure an early release from prison in exchange for test piloting an experimental exosuit. Tanaka, who was chosen as a test subject based on her good behavior in prison and her high-speed motorcycling skills, accepted the government's terms and soon found herself in the "Go-Go Tomago" exosuit, named for the sphere-like shape the armor takes when propelling through the air at high velocities ("tomago" being a corruption of "tamago", the Japanese word for "egg").<ref name="Hero #1">''Big Hero 6'' #1 (2008)</ref>
 
 When the top-secret consortium of Japanese politicians and business entities known as the Giri was formed to recruit and train potential superhuman operatives for Big Hero 6, Go-Go Tomago was chosen to be a founding member of the team due to her proficiency with the exosuit and the belief that her fear of being sent back to prison would make it easy for the Giri to control her. Impulsive and hotheaded, Go-Go initially clashed with virtually every member of her new team. She refused to take orders from the team's initial field leader, [[Silver Samurai]] (Kenuichio Harada), and was insanely jealous of teammate [[Honey Lemon]] (Aiko Miyazaki). However, once becoming acclimated to the team, her grudging respect for her teammates evolved into true kinship.<ref name="Hero #1"/>
 
@@ -61,10 +63,13 @@ Go Go makes an appearance along with the rest of Big Hero 6 in ''[[Kingdom Heart
 * [http://marvel.com/universe/GoGo_Tomago GoGo Tomago] at Marvel.com
 * [http://marvel.wikia.com/Leiko_Tanaka_%28Earth-616%29 GoGo Tomago] at Marvel Wiki
 {{Big Hero 6}}
+
 [[Category:Big Hero 6 characters]]
 [[Category:Fictional college students]]
 [[Category:Fictional female engineers]]
 [[Category:Fictional mechanical engineers]]
 [[Category:Japanese superheroes]]
+[[Category:Kingdom Hearts characters]]
+[[Category:Marvel Comics female superheroes]]
 [[Category:Marvel Comics superheroes]]
 [[Category:Teenage characters in comics]]

@@ -1,5 +1,5 @@
 {{short description|Marvel Comics superhero}}
-{{refimprove|date=August 2016}}
+{{more citations needed|date=August 2016}}
 {{Infobox comics character
 <!--Wikipedia:WikiProject Comics-->
 | character_name = Flatman
@@ -37,7 +37,7 @@ Flatman's real name is actually Matt. After dropping out of community college, h
 
 Flatman became a member and second-in-command of the Great Lakes Avengers, an unauthorized division of the regular [[Avengers (comics)|Avengers]] superhero group. The GLA watches over the [[Wisconsin]] area.  Although no true origin was given at first for his stretching abilities and odd appearance, it was later revealed that he is a [[Mutant (Marvel Comics)|mutant]].<ref name="GLA: Misassembled #4">''GLA: Misassembled'' #4</ref>
 
-He was first seen in public with the team by [[Hawkeye (comics)|Hawkeye]] and [[Mockingbird (Marvel Comics)|Mockingbird]], who later agreed to become their mentors.<ref>''West Coast Avengers'' #46</ref> With the team, he helped Hawkeye and the [[West Coast Avengers]] against "That Which Endures."<ref>''West Coast Avengers'' #48-49</ref> They also assisted Mockingbird in a holding action against [[Terminus (comics)|Terminus]].<ref>''Avengers Annual'' #19</ref> After aiding the [[Thunderbolts (comics)|Thunderbolts]] against the villain [[Graviton (comics)|Graviton]],<ref>''Thunderbolts'' #15–17 (June–August 1998) and #25 (Apr. 1999)</ref> the team clashed with the mercenary [[Deadpool]].<ref>''Deadpool'' #10–11 (November–December 1997) and #61 (2002)</ref>
+He was first seen in public with the team by [[Hawkeye (Clint Barton)|Hawkeye]] and [[Mockingbird (Marvel Comics)|Mockingbird]], who later agreed to become their mentors.<ref>''West Coast Avengers'' #46</ref> With the team, he helped Hawkeye and the [[West Coast Avengers]] against "That Which Endures."<ref>''West Coast Avengers'' #48-49</ref> They also assisted Mockingbird in a holding action against [[Terminus (comics)|Terminus]].<ref>''Avengers Annual'' #19</ref> After aiding the [[Thunderbolts (comics)|Thunderbolts]] against the villain [[Graviton (comics)|Graviton]],<ref>''Thunderbolts'' #15–17 (June–August 1998) and #25 (Apr. 1999)</ref> the team clashed with the mercenary [[Deadpool]].<ref>''Deadpool'' #10–11 (November–December 1997) and #61 (2002)</ref>
 
 Called the "2-D Avenger", his primary roles include long-ranged rescues and helping the team solve crimes with his extensive knowledge of fashion which he was reported to have "studied in college".<ref name="Deadpool vol. 1 #11 1997">''Deadpool'' vol. 1 #11 (1997)</ref> He was able to identify a woman's shoe and describe it in detail, and later rescued [[Weasel (Marvel Comics)|Weasel]] — referring to him as "sailor" — which led his team to question his [[Sexual orientation|sexuality]].<ref name="Deadpool vol. 1 #11 1997"/>
 
@@ -92,7 +92,7 @@ Flatman has the ability to stretch any part of his body to great lengths (althou
 * [http://www.greatlakesavengers.com Great Lakes Avengers]
 * [https://web.archive.org/web/20120813121711/http://www.gayleague.com/wordpress/2009/11/18/flatman/ Gay League Profile]
 
-{{Portal bar|Fictional characters|LGBT|Superhero fiction|Comics}}
+{{Portal bar|LGBT|Speculative fiction|Comics}}
 {{Great Lakes Avengers}}
 
 {{DEFAULTSORT:Flatman (Comics)}}
@@ -100,6 +100,5 @@ Flatman has the ability to stretch any part of his body to great lengths (althou
 [[Category:Comics characters introduced in 1989]]
 [[Category:Fictional characters who can stretch themselves]]
 [[Category:Fictional gay males]]
-[[Category:LGBT superheroes]]
+[[Category:Marvel Comics LGBT superheroes]]
 [[Category:Marvel Comics mutants]]
-[[Category:Marvel Comics superheroes]]

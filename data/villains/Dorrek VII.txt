@@ -1,3 +1,7 @@
+<!-- Please do not remove or change this AfD message until the discussion has been closed. -->
+{{Article for deletion/dated|page=Dorrek VII|timestamp=20191030004113|year=2019|month=October|day=30|substed=yes|help=off}}
+<!-- Once discussion is closed, please place on talk page: {{Old AfD multi|page=Dorrek VII|date=30 October 2019|result='''keep'''}} -->
+<!-- End of AfD message, feel free to edit beyond this point -->
 {{in-universe|date=July 2018}}
 {{Notability|date=February 2019}}
 {{Infobox comics character
@@ -31,7 +35,6 @@
 Dorrek first appeared in ''[[Fantastic Four]]'' #18 (September, 1963) and was created by [[Stan Lee]], [[Jack Kirby]], and [[Dick Ayers]].
 
 ==Fictional character biography==
-{{Section too long|date=July 2018}}
 
 Dorrek VII is an emperor of the [[Skrull]] empire. He came to power by murdering the previous emperor, after which he married the latter's daughter R'Kill and had a daughter named [[Anelle]].<ref name="Fantastic Four #206">''Fantastic Four'' #206</ref>
 
@@ -60,7 +63,7 @@ Like every Skrull, Dorrek VII can shapeshift.
 
 ==In other media==
 * While not referred to by name, Dorekk VII appeared in the 1960s ''[[Fantastic Four (1967 TV series)|Fantastic Four]]'' TV series, voiced by [[Don Messick]].
-* While not referred to by name, Dorekk VII appeared in the 1994 ''[[Fantastic Four (1994 TV series)|Fantastic Four]]'' TV series, voiced by [[Robert Ridgely]]. In "The Incursion of the Skrull," Dorekk VII initiates the Skrull invasion on Earth. In "Super-Skrull," Dorekk VII orchestrates the creation of the Super-Skrull in order to get revenge on the Fantastic Four. In "Behold, a Distant Star," Dorekk VII learned of Morrat's actions and was to have him executed. After Invisible Woman saved Anelle with her forcefield when a laser that was meant for her bounced off and hit Morrat, Dorekk VII granted them their wish by telling them that Morrat was the one who was behind Franklin Storm's death and allowed the Fantastic Four to return to Earth.
+* While not referred to by name, Dorekk VII appeared in the 1994 ''[[Fantastic Four (1994 TV series)|Fantastic Four]]'' TV series, voiced by [[Robert Ridgely]] and [[Beau Weaver]]. In "The Incursion of the Skrull," Dorekk VII initiates the Skrull invasion on Earth. In "Super-Skrull," Dorekk VII orchestrates the creation of the Super-Skrull in order to get revenge on the Fantastic Four. In "Behold, a Distant Star," Dorekk VII learned of Morrat's actions and was to have him executed. After Invisible Woman saved Anelle with her forcefield when a laser that was meant for her bounced off and hit Morrat, Dorekk VII granted them their wish by telling them that Morrat was the one who was behind Franklin Storm's death and allowed the Fantastic Four to return to Earth.
 
 ==References==
 {{reflist}}
@@ -79,7 +82,7 @@ Like every Skrull, Dorrek VII can shapeshift.
 [[Category:Comics characters introduced in 1963]]
 [[Category:Extraterrestrial supervillains]]
 [[Category:Fictional dictators]]
-[[Category:Fictional emperors and empresses]]
 [[Category:Fictional shapeshifters]]
+[[Category:Galactic emperors]]
 [[Category:Marvel Comics supervillains]]
 [[Category:Skrull]]

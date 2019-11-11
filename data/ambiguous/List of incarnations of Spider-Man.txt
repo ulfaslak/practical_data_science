@@ -1,5 +1,5 @@
 {{Infobox comics set index <!--Wikipedia:WikiProject Comics-->
-|code_name  = [[Spider-Man]] / [[Scarlet Spider]] / [[Spider-Woman]] / [[Spider-Girl]] / [[Silk (comics)|Silk]]
+|code_name  = [[Spider-Man]] / [[Miles Morales|Spider-Man]] / [[Scarlet Spider]] / [[Spider-Woman]] / [[Spider-Girl]] / [[Silk (comics)|Silk]]
 |image      = Spider-Men.jpg
 |imagesize  = 275
 |caption    = Depiction of some of the mainstream characters (along with alternate versions) as shown in ''[[Spider-Geddon]]'' storyline.
@@ -23,12 +23,12 @@
 |hero       = y
 |sortkey    = Spider-Man
 }}
-"[[Spider-Man]]" is the name of several [[fictional character]]s in the [[Marvel Universe]]. The first and main character is [[Spider-Man|Peter Parker]], created by [[Stan Lee]] and [[Steve Ditko]]. Other characters have adopted the alias over the years in the [[Earth 616]] universe such as [[Ben Reilly]] and [[Doctor Octopus|Doctor Octavius]]. There also  consists of [[Alternative versions of Spider-Man|alternate universe versions]] of the web-slinger such as [[Spider-Man (Miles Morales)|Miles Morales]] and [[Spider-Man 2099| Miguel O'Hara]]. 
+"[[Spider-Man]]" is the name of several [[fictional character]]s in the [[Marvel Universe]]. The first and main character is [[Spider-Man|Peter Parker]], created by [[Stan Lee]] and [[Steve Ditko]]. Other characters have adopted the alias over the years in the [[Earth 616]] universe such as [[Ben Reilly]] and [[Doctor Octopus|Doctor Octavius]]. There also  consists of [[Alternative versions of Spider-Man|alternate universe versions]] of the web-slinger such as [[Spider-Man (Miles Morales)|Miles Morales]] and [[Spider-Man 2099| Miguel O'Hara]].
 
 ==Characters named Spider-Man==
 ===Peter Parker===
 {{Main|Spider-Man}}
-Peter Parker aka the Amazing Spider-Man, this is the mainstream [[Earth-616]] incarnation of the character and appears in almost every piece of Spider-Man related media.
+Peter Parker, the Amazing Spider-Man, is the mainstream [[Earth-616]] incarnation of the character and appears in almost every piece of Spider-Man related media.
 
 ===Ben Reilly===
 {{Main|Ben Reilly}}
@@ -78,12 +78,16 @@ Brian Kornfield became a demonic Spider-Man after making a deal with the demon [
 {{Main|Spider-Woman (Mattie Franklin)}}
 The niece of [[J. Jonah Jameson]]. After being granted spider powers by [[The Gathering of Five and The Final Chapter|"The Gathering of Five"]],<ref>''The Amazing Spider-Man'' #441 (1998)</ref> she filled in for Peter Parker during one of his temporary retirements<ref>''The Amazing Spider-Man'' vol. 2 #1</ref> and later became [[Spider-Woman]] when he retook the role.<ref>''The Amazing Spider-Man'' vol. 2 #2</ref><ref>''The Amazing Spider-Man'' vol. 2 #5</ref> She was killed by the Kravinoff family during [[The Gauntlet and Grim Hunt|"The Gauntlet" and "Grim Hunt"]] storylines. During the "[[Dead No More: The Clone Conspiracy]]" storyline she was briefly resurrected before she died again at the end of the storyline.<ref>''The Clone Conspiracy'' #1-5</ref>
 
+===Anansi===
+{{Main|Anansi (comics)}}
+A member of the [[Gods (Marvel Comics)|Vodu]] pantheon, he was the very First Spider-Man according to [[Ezekiel Sims]] and the Ashanti tribe in Ghana.<ref>''Amazing Spider-Man'' Vol. 2 #48. Marvel Comics</ref>
+
 ===Ai Apaec===
 {{Infobox comics character <!--Wikipedia:WikiProject Comics-->
 | character_name = Ai Apaec
-| image          = <!-- filename format only -->
-| imagesize      = <!-- default 250 -->
-| caption        = 
+| image          = 
+| imagesize      = 200
+| caption        = Cover of ''Dark Avengers'' #175 by [[Mike Deodato Jr.]]
 | alt            = 
 | publisher      = [[Marvel Comics]]
 | debut          = ''[[Osborn (comic book)|Osborn]]'' #1 (2011)
@@ -95,7 +99,7 @@ The niece of [[J. Jonah Jameson]]. After being granted spider powers by [[The Ga
 | based_on       = 
 | alter_ego      =
 | full_name      =
-| species        = God
+| species        = [[Gods (Marvel Comics)|God]]
 | homeworld      = <!-- optional -->
 | alliances      = [[Dark Avengers]]
 | partners       = <!-- optional -->
@@ -143,7 +147,7 @@ After he was brought into the main universe, he kept fighting as Spider-Man.
 ==Other versions of Spider-Man==
 *'''[[Scarlet Spider]]''' is an alias of four characters that are similar in powers and abilities to Spider-Man.
 * Other clones of Peter Parker such as [[Kaine Parker|Kaine]],<ref>First appeared in ''Web of Spider-Man'' #119 (December 1994)</ref> the degenerated first clone, and [[Spidercide]], the shape-shifting third clone.<ref>First appeared in ''The Spectacular Spider-Man'' #222 (March 1995)</ref>
-*'''[[Blood Spider]]''' is an evil version of Spider-Man hired by the [[Red Skull]] and trained by the [[Taskmaster (comics)|Taskmaster]]. His costume is a combination of the original and black costumes, and he has tanks for his web fluid on his back with hoses leading to the webshooters on his wrists. His partners [[Jagged Bow]] (an evil version of [[Hawkeye (comics)|Hawkeye]]) and [[Death-Shield]] (an evil version of [[Captain America]]) were also trained by the Taskmaster.<ref>''The Amazing Spider-Man'' #367 (August 1992)</ref> The trio was next seen trying to kill [[Flash Thompson#Venom|Venom]] as hired by Lord Ogre.<ref>''Venom'' [[List of Venom titles|vol. 2]] #37 (July 2013)</ref>
+*'''[[Blood Spider]]''' is an evil version of Spider-Man hired by the [[Red Skull]] and trained by the [[Taskmaster (comics)|Taskmaster]]. His costume is a combination of the original and black costumes, and he has tanks for his web fluid on his back with hoses leading to the webshooters on his wrists. His partners [[Jagged Bow]] (an evil version of [[Hawkeye (Clint Barton)|Hawkeye]]) and [[Death-Shield]] (an evil version of [[Captain America]]) were also trained by the Taskmaster.<ref>''The Amazing Spider-Man'' #367 (August 1992)</ref> The trio was next seen trying to kill [[Flash Thompson#Venom|Venom]] as hired by Lord Ogre.<ref>''Venom'' [[List of Venom titles|vol. 2]] #37 (July 2013)</ref>
 * The '''[[Doppelganger (comics)|Spider Doppelganger]]''' is an evil version of Spider-Man created by the [[Magus (comics)|Magus]] during [[the Infinity War]].<ref>First appeared in ''The Infinity War'' #1 (July 1992)</ref>
 * '''[[Ezekiel (comics)|Ezekiel Sims]]''' has powers similar to those of Spider-Man, but mystical in origin. He is a member of [[the Spider Society]] and its front organization, WebCorps.<ref>First appeared in ''The Amazing Spider-Man'' vol. 2 #30 (June 2001)</ref>
 * '''[[Tarantula (Marvel Comics)|Tarantula]]''': Several characters have used this identity. See the main article for details.
@@ -153,12 +157,13 @@ After he was brought into the main universe, he kept fighting as Spider-Man.
 * '''[[Madame Web]]''', a precognitive ally of Spider-Man and the Spider-Women.<ref>First appeared in ''The Amazing Spider-Man'' #210 (November 1980)</ref>
 * '''[[Anya Corazon]]''', a young, [[Latina]] [[Latino-American]] heroine with spider powers, formerly an employee of WebCorps.<ref>First appeared in ''Amazing Fantasy'' vol. 2 #1 (August 2004)</ref>
 *'''[[Silk (comics)|Silk]]''', An Asian [[Korean-American]] girl who got bit by the same spider as Peter Parker.
+*'''[[Symbiote (comics)|Symbiotes]]''', [[Venom (Marvel Comics character)|Venom]] and all of his descendants possess the powers of Spider-Man.
 
 ==Other examples==
 * A Spider-Man robot called the '''Timespinner''' is created by [[Kang the Conqueror]] to defeat the [[Avengers (comics)|Avengers]].<ref>''Avengers'' vol. 1 #11</ref> It is deactivated, but later returns with the ability to drain temporal energy from people. It is destroyed by Ben Reilly and the Avengers.<ref>''[[Marvel Team-Up|Spider-Man Team-Up]]'' #4</ref>
-* [[List of Spider-Man enemies|Spider-Man villains]] such as  '''[[Chameleon (comics)|Chameleon]]''',<ref>''The Amazing Spider-Man'' #1 (1963)</ref> '''[[Mysterio]]''',<ref>''The Amazing Spider-Man'' #13 (1964)</ref> and '''[[Kraven the Hunter]]'''<ref>''Web of Spider-Man'' #31-32, ''The Amazing Spider-Man'' #293-294, and ''The Spectacular Spider-Man'' #131-132 (1987)</ref> have all masqueraded as Spider-Man.
+* [[List of Spider-Man enemies|Spider-Man villains]] such as  '''[[Chameleon (comics)|Chameleon]]''',<ref>''The Amazing Spider-Man'' #1 (1963)</ref> '''[[Mysterio]]''',<ref>''The Amazing Spider-Man'' #13 (1964)</ref> and '''[[Kraven the Hunter]]'''<ref>''Web of Spider-Man'' #31-32. Marvel Comics</ref><ref>''The Amazing Spider-Man'' #293-294. Marvel Comics</ref><ref>''The Spectacular Spider-Man'' #131-132. Marvel Comics</ref> have all masqueraded as Spider-Man.
 * '''[[Deadpool]]''' briefly masqueraded as Spider-Man.<ref>''Deadpool Annual'' #2 (May 2014)</ref>
-* During [[Secret Invasion]], an unnamed [[Skrull]], was disguised as Spider-Man.
+* There have been also some unnamed '''[[Skrull]]s''', who were disguised as Spider-Man,<ref>''Secret Invasion'' #1-2. Marvel Comics</ref><ref>''Spider-Woman'' Vol. 4 #1. Marvel Comics</ref> including '''[[Hulkling]]'''.<ref>''Young Avengers'' Vol. 2 #1. Marvel Comics</ref>
 
 ==Alternative versions==
 {{Main|Alternative versions of Spider-Man}}
@@ -168,9 +173,11 @@ Outside of the [[Earth 616]] universe there exists many versions of Spider-Man.
 {{reflist|30em}}
 
 {{Spider-Man}}
+{{Spider-Woman}}
 {{Spider-Man characters}}
 {{SIA|comics}}
 
+[[Category:Articles about multiple fictional characters]]
 [[Category:Lists of Spider-Man characters]]
 [[Category:Incarnations of Spider-Man]]
 [[Category:Incarnations of comics characters]]

@@ -1,7 +1,7 @@
 {{notability|date=June 2018}}
 {{in-universe|date=June 2018}}
-{{Infobox comics character| <!--Wikipedia:WikiProject Comics--> 
-image= [[File:Original_Savage_Steel_Armor.jpg|Savage Steel armor from Official Handbook of the Marvel Universe|250px]]
+{{Infobox comics character <!--Wikipedia:WikiProject Comics--> 
+|image= Original Savage Steel Armor.jpg
 |caption= 
 |character_name=Savage Steel 
 |real_name= (I) Harry Lennox<br> (II) Arthur Vale<br>(III) James "Jimmy" Zafar<br>(IV) Unknown

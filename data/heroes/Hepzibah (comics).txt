@@ -1,8 +1,9 @@
+{{about||Miz Ma'm'selle Hepzibah|Pogo (comic strip)}}
 {{Infobox comics character <!--Wikipedia:WikiProject Comics-->
 |image=Hepzibah.jpg
 |caption=Hepzibah.<br>Art by [[Salvador Larroca]].
 |character_name=Hepzibah
-|real_name=Hepzibah
+|real_name=Unknown (Unpronounceable)
 |species=[[List of alien races in Marvel Comics#M|Mephitisoid]]
 |publisher=[[Marvel Comics]]
 |debut=''[[Uncanny X-Men|X-Men]]'' #107 (October 1977)
@@ -12,7 +13,7 @@
 |powers=Enhanced agility, speed, reflexes, coordination, balance, retractable claws, hyper-keen senses, mind/mood-altering pheromones, and night vision.
 }}
 
-'''Hepzibah''' is a [[fiction]]al [[character (arts)|character]] appearing in [[American comic book]]s published by [[Marvel Comics]]. She is a member of the intergalactic enforcers known as the [[Starjammers]] and currently a member of the [[Uncanny X-Men]]. The name of her species, Mephitisoid, is derived from the word ''Mephitidae'', the scientific classification for [[skunks]], which her species noticeably resembles.
+'''Hepzibah''' is a [[fiction]]al [[character (arts)|character]] appearing in [[American comic book]]s published by [[Marvel Comics]]. She first appeared in ''[[Uncanny X-Men|X-Men]]'' #107 (October 1977) and was created by [[Dave Cockrum]] and [[Chris Claremont]]. She is a member of the intergalactic enforcers known as the [[Starjammers]] and currently a member of the [[Uncanny X-Men]]. The name of her species, Mephitisoid, is derived from the word ''Mephitidae'', the scientific classification for [[skunks]], which her species noticeably resembles.
 
 ==Publication history==
 [[Dave Cockrum]] created the Starjammers with the intent of having them star in their own series. However, when he submitted the concept for Marvel's two try-out series, ''[[Marvel Spotlight]]'' and ''[[Marvel Premiere]]'', he was repeatedly informed that these series were booked for two years solid. Running out of patience, Cockrum showed the Starjammers to ''[[X-Men]]'' writer [[Chris Claremont]], and convinced him to use the characters for this series.<ref name="Wizard_Aug93">{{cite news | last=Meth | first= Clifford | date=August 1993 | title=How a Typhoon Blew in Success | work=[[Wizard (magazine)|Wizard]]: X-Men Turn Thirty | issue= | pages=50–52 }}</ref> She first appeared in ''[[Uncanny X-Men|X-Men]]'' #107 (October 1977).
@@ -32,7 +33,7 @@ Later, she was captured by [[Skrull|Warskrulls]] and impersonated by one of them
 ===Other encounters===
 During the [[Operation: Galactic Storm|Kree/Shi'ar War]], she battled [[Wonder Man]] and the [[Vision (Marvel Comics)#Silver Age|Vision]] while escorting the Shi'ar nega-bomb to the [[Kree]] Empire.<ref>''Wonder Man'' #8</ref> With Raza, she accepted an assignment from the former Kree admiral to kill the [[Black Knight (Dane Whitman)|Black Knight]]. With the Starjammers, she visited the [[Avengers (comics)|Avengers]] and [[Ms. Marvel#1980's|Binary]] on Earth. She was thwarted in her attempt to poison the Black Knight, and the plan was foiled. She then returned with the Starjammers to the Shi'ar Empire.<ref>''Avengers'' #350-351</ref>
 
-Hepzibah also aided the [[Hulk (comics)|Hulk]] in rescuing some of the Hulk's people from the alien forces of Troyjan.{{issue|date=November 2012}} The [[Silver Surfer]] personally saved her life, an incident which led her to believe she simply intimidated the forces threatening her.{{issue|date=November 2012}}
+Hepzibah also aided the [[Hulk]] in rescuing some of the Hulk's people from the alien forces of Troyjan.{{issue|date=November 2012}} The [[Silver Surfer]] personally saved her life, an incident which led her to believe she simply intimidated the forces threatening her.{{issue|date=November 2012}}
 
 ===The Rise and Fall of The Shi'ar Empire===
 After Corsair reunited with his son [[Havok (comics)|Havok]],{{issue|date=November 2012}} and the Starjammers participated in a conflict between Lilandra's and D'Ken's forces,{{issue|date=November 2012}} Corsair was killed by his own son [[Vulcan (Marvel Comics)|Vulcan]].{{issue|date=November 2012}} Hepzibah raided the X-Men's stolen Shi'ar ship's weapons locker and was ready to take vengeance on Vulcan.{{issue|date=November 2012}} However, she was forced to return with the repowered [[Professor X]], [[Warpath (comics)|Warpath]], [[Darwin (comics)|Darwin]], and [[Nightcrawler (comics)|Nightcrawler]] when Lilandra, hoping to save her beloved Xavier from death and protect some of the X-Men (believing that the battle was not going well) locked the ship into a jump course for Earth.{{issue|date=November 2012}} Consequently, Hepzibah, separated from her fellow Starjammers, is currently residing with the X-Men on Earth, with no foreseeable way to return to Shi'ar space to help the Starjammers and Lilandra continue to fight Vulcan.{{issue|date=November 2012}}
@@ -44,10 +45,10 @@ She is seen in an altered standard X-Uniform and entering the [[Morlocks (comics
 
 Warpath and Hepzibah continue to try to track the Morlocks but the subterranean environment of the Morlock tunnels suddenly triggers Hepzibah's primal instincts, causing her to immediately go into heat as she is now newly single after the death of Corsair, her previous mate. She tells an astonished Warpath that her species "burrows to nest" and then tries to mate with him, but he refuses saying that it was neither the time nor place, as they were in the middle of a mission.  They are then interrupted by a surprise attack of the very Morlocks they were attempting to track.<ref>''Uncanny X-Men'' #390</ref>
 
-Later after the conflict with the Morlocks, she speaks with Cyclops at the X-Manshion, where he accepts her having chosen Warpath as her new mate.<ref>''Uncanny X-Men'' #391</ref>
+Later after the conflict with the Morlocks, she speaks with Cyclops at the X-Mansion, where he accepts her having chosen Warpath as her new mate.<ref>''Uncanny X-Men'' #391</ref>
 
 ===World War Hulk===
-Hepzibah is one of the X-Men who answers the [[Stepford Cuckoos]]' call for help when the [[Hulk (comics)|Hulk]] attacks Professor Xavier.<ref>''World War Hulk: X-Men'' #2</ref>
+Hepzibah is one of the X-Men who answers the [[Stepford Cuckoos]]' call for help when the [[Hulk]] attacks Professor Xavier.<ref>''World War Hulk: X-Men'' #2</ref>
 
 ===Messiah Complex===
 Hepzibah disables one of the giant robot [[Office of National Emergency|O*N*E]] [[Sentinel (comics)|Sentinels]] after they become corrupted and attack the X-Mansion. She then becomes a member of the new incarnation of [[X-Force]].<ref>''Uncanny X-Men'' #493 (2008)</ref> After checking a Cooperstown Hospital for [[Cable (comics)|Cable]], they track him to the Canadian wilderness where the team gets into a fight with the newly re-formed [[Reavers (comics)|Reavers]].<ref>''X-Factor'' Vol.3 #26 (2008)</ref><ref>''New X-Men'' Vol.2 #45 (2008)</ref> When Caliban is killed, Warpath becomes overprotective of Hepzibah telling her this isn't her fight only to be told off by her and later Wolverine.<ref>''Uncanny X-Men'' #484</ref>
@@ -89,8 +90,8 @@ As a member of the Mephitisoid race, Hepzibah's features are supposed to resembl
 
 ==External links==
 * [http://marvel.com/universe/Hepzibah Hepzibah] at Marvel.com
-* [[MarvelDatabase:Hepzibah]]
-* [[MarvelDatabase:Character Gallery Hepzibah]]
+* {{Marveldatabase|Hepzibah}}
+
 {{X-Men}}
 {{Marvel Cosmic}}
 
@@ -101,6 +102,7 @@ As a member of the Mephitisoid race, Hepzibah's features are supposed to resembl
 [[Category:Extraterrestrial superheroes]]
 [[Category:Female characters in comics]]
 [[Category:Marvel Comics aliens]]
+[[Category:Marvel Comics female superheroes]]
 [[Category:Marvel Comics martial artists]]
 [[Category:Marvel Comics superheroes]]
 [[Category:Space pirates]]

@@ -1,6 +1,8 @@
-{{leadtooshort|date=January 2016}}
+{{Multiple issues|
+{{lead too short|date=January 2016}}
 {{Unreferenced|date=July 2018}}
 {{notability|date=July 2018}}
+}}
 
 {{Infobox comics character| <!--Wikipedia:WikiProject Comics-->
 image=[[image:Kro_from_Thor_-_The_Deviants_Saga_05.jpg|200 px]]
@@ -10,7 +12,7 @@ image=[[image:Kro_from_Thor_-_The_Deviants_Saga_05.jpg|200 px]]
 |publisher=[[Marvel Comics]]
 |debut=''[[Eternals (comics)|Eternals]]'' #1 (July, 1976)
 |creators=[[Jack Kirby]] (writer - artist)
-|alliances=[[Deviant (comics)|Deviants]]<br/>[[Eternals (comics)|Eternals]]  
+|alliances=[[Deviant (comics)|Deviants]]<br/>Eternals
 |aliases=Warlord Kro, Mr. Pluto, Prince of Darkness
 |powers=[[Shapeshifter|Shape-shifting]],<br>Accelerated healing factor,<br>Immortal,<br> Superhuman physical attributes
 }}
@@ -20,12 +22,12 @@ image=[[image:Kro_from_Thor_-_The_Deviants_Saga_05.jpg|200 px]]
 ==Publication history==
 Created by [[Jack Kirby]], Kro first appeared in ''[[Eternals (comics)|Eternals]] vol. 1 #1'' (July, 1976).
 
-The character subsequently appeared in ''Eternals'' #3 (September 1976), ''Iron Man Annual'' #6 (1983), ''Eternals'' Vol. 2 #5-6 (February-March 1986), #8 (May 1986), ''Quasar'' #12 (July 1990), ''Eternals: The Herod Factor'' #1 (November 1991), ''The Avengers'' #370-371 (January-February 1994), ''Fantastic Four Unlimited'' #10 (July 1995), ''The Avengers'' Vol. 2 #45 (October 2001), #49 (February 2002), and ''Eternals'' Vol. 3 #2-3 (September-October 2006).
+The character subsequently appeared in ''Eternals'' #3 (September 1976), ''Iron Man Annual'' #6 (1983), ''Eternals'' Vol. 2 #5-6 (February–March 1986), #8 (May 1986), ''Quasar'' #12 (July 1990), ''Eternals: The Herod Factor'' #1 (November 1991), ''The Avengers'' #370-371 (January–February 1994), ''Fantastic Four Unlimited'' #10 (July 1995), ''The Avengers'' Vol. 2 #45 (October 2001), #49 (February 2002), and ''Eternals'' Vol. 3 #2-3 (September–October 2006).
 
 Kro received an entry in the original ''[[Official Handbook of the Marvel Universe]]'' #6 and in the ''Official Handbook of the Marvel Universe Deluxe Edition'' #7, and the ''All-New Official Handbook of the Marvel Universe A to Z: Update'' #3 (2007).
 
 ==Fictional character biography==
-In the [[Marvel Universe]], Kro is the leader of the [[Deviant (comics)|Deviant]] race, an [[evolution|evolutionary]] offshoot of the [[human race]] created by the [[Celestial (comics)|Celestials]].{{issue|date=March 2013}}  He is one of the first Earth Deviants created. Besides being a [[shapeshifting|shapeshifter]], he is immortal. He hides this from his fellow Deviants by pretending to be a long line of fathers/sons.{{issue|date=March 2013}} Also hidden from the Deviants is his long-standing (20,000 years) on-off relationship with [[Thena]], leader of the Eternals and mother of their twin children, [[Donald & Deborah Ritter]].{{issue|date=March 2013}}
+In the [[Marvel Universe]], Kro is the leader of the [[Deviant (comics)|Deviant]] race, an [[evolution]]ary offshoot of the [[human race]] created by the [[Celestial (comics)|Celestials]].{{issue|date=March 2013}} He is one of the first Earth Deviants created. Besides being a [[shapeshifting|shapeshifter]], he is immortal. He hides this from his fellow Deviants by pretending to be a long line of fathers/sons.{{issue|date=March 2013}} Also hidden from the Deviants is his long-standing (20,000 years) on-off relationship with [[Thena]], leader of the Eternals and mother of their twin children, [[Donald & Deborah Ritter]].{{issue|date=March 2013}}
 
 In the past, Kro has disguised himself as the [[Devil]] in order to try to influence or frighten humans. His control over his own molecules renders him immune to the genetic manipulations of [[Ghaur]].{{issue|date=March 2013}}
 
@@ -44,12 +46,13 @@ Kro has about three times the physical endurance of an ordinary human athlete. H
 {{reflist}}
 
 ==Further reading==
-The Eternal #4 - #6 (2004)
+* The Eternal #4 - #6 (2004)
 
 ==External links==
-*[https://www.webcitation.org/query?url=http://www.geocities.com/brenni_au/K.html&date=2009-10-26+22:16:22  "K" in the Encyclopaedia Olympianna]
+*[https://www.webcitation.org/query?url=http://www.geocities.com/brenni_au/K.html&date=2009-10-26+22:16:22 "K" in the Encyclopaedia Olympianna]
 *[http://www.marveldirectory.com/individuals/k/kro.htm Marvel Directory entry on Kro]
 *[https://web.archive.org/web/19960101/http://www.worldfamouscomics.com/tony/back20050510.shtml The Unofficial Handbook of Marvel Comics' Creators]
+* {{Marveldatabase|Kro}}
 
 {{Eternals}}
 {{Jack Kirby}}

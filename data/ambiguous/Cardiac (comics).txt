@@ -9,7 +9,11 @@
 |creators=[[David Michelinie]]<br>[[Erik Larsen]]
 |alliances=[[Parker Industries]]<br>H.E.A.R.T. Clinic
 |aliases=
-|powers=Accomplished physician and surgeon<br>Superhuman strength<br>Enhanced speed, agility, reflexes and endurance<br>Regeneration<br>Wields a pulse staff<br>Rides a beta-propelled stingray hang-glider<br>Ability to channel beta particles via the neural web of his vibranium-mesh skin 
+|powers=* Accomplished physician and surgeon
+*Superhuman strength, speed, stamina, and durability
+*Accelerated healing 
+*Wields a pulse staff, and rides a beta-propelled stingray hang-glider
+*Channels beta particles via the neural web of his vibranium-mesh skin 
 |}}
 '''Cardiac''' ('''Elias Wirtham''') is a [[fictional character]], a vigilante anti-hero appearing in [[American comic book]]s published by [[Marvel Comics]].
 
@@ -65,3 +69,6 @@ Dr. Elias Wirtham's business administrative skills provide him a strong power ba
 [[Category:Marvel Comics superheroes]]
 [[Category:Marvel Comics supervillains]]
 [[Category:Spider-Man characters]]
+[[Category:Marvel Comics characters with accelerated healing]]
+[[Category:Marvel Comics characters with superhuman strength]]
+[[Category:Fictional characters by physics or reality manipulation]]

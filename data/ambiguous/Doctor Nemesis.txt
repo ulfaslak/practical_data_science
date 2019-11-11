@@ -10,9 +10,9 @@ The second version (Michael Shockton) was unidentified in ''Marvel Feature'' #4 
 ===James Bradley===
 {{Infobox comics character  <!--Wikipedia:WikiProject Comics--> 
 | image          =[[File:XMN Nemesis.jpg|250px]]
-| caption        = Doctor Nemesis (James Nicolas Bradley Sayago) in ''Uncanny X-Men'' #511. <br> Art by [[Greg Land]]. 
+| caption        = Doctor Nemesis (James Bradley) in ''Uncanny X-Men'' #511. <br> Art by [[Greg Land]]. 
 | character_name = Doctor Nemesis
-| real_name      = James Nicolas Bradley Sayago
+| real_name      = James Bradley
 | species        = Human [[Mutant (Marvel Comics)|Mutant]]
 | publisher      = [[Ace Magazines (comics)|Ace Magazines]], [[Marvel Comics]]
 | debut          = ''Lightning Comics'' #6 (April 1941; historic)<br> ''[[Invaders (comics)|Invaders]]'' Vol. 2 #1 (May 1993; Marvel Universe)
@@ -53,6 +53,8 @@ During the "Last Days of "[[Secret Wars (2015 comic book)|Secret Wars]]", it was
 
 Doctor Nemesis later appears as a member of the Agents of Wakanda.<ref>''Avengers'' Vol. 8 #12. Marvel Comics.</ref>
 
+During the ''[[War of the Realms]]'' storyline, Doctor Nemesis is seen at the infirmary in Avengers Mountain, treating a wounded [[Gorilla-Man]] and [[Odin (comics)|Odin]].<ref>''Avengers'' Vol. 8 #19</ref> 
+
 ===Michael Stockton===
 {{Infobox comics character  <!--Wikipedia:WikiProject Comics--> 
 | image          = 
@@ -65,7 +67,7 @@ Doctor Nemesis later appears as a member of the Agents of Wakanda.<ref>''Avenger
 | creators       = The early appearance in ''Marvel Feature'' #4 was co-written by [[Roy Thomas]] and [[Mike Friedrich]], and the artwork was by [[Herb Trimpe]]. His reintroduction in ''Marvel Feature'' #9 was written by [[Mike Friedrich]] and drawn by [[P. Craig Russell]]. 
 | alliances      = [[Advanced Idea Mechanics|A.I.M]]
 | aliases        = 
-| powers         = Size-shifting
+| powers         = Size manipulation via device in costume
 | cat            = super
 | subcat         = Marvel Comics
 | hero           = 
@@ -113,6 +115,7 @@ During the ''[[Secret Wars (2015 comic book)|Secret Wars]]'' storyline, a versio
 {{Hank Pym}}
 {{X-Men}}
 {{X-Force}}
+{{GoldenAge}}
 
 [[Category:Characters created by Herb Trimpe]]
 [[Category:Characters created by Mike Friedrich]]

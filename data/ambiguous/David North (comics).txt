@@ -1,3 +1,4 @@
+{{short description|Mutant comic book character}}
 {{Redirect|Agent Zero|the NBA basketball player|Gilbert Arenas}}
 {{For|the other Marvel Comics character named Zero|Zero (disambiguation)#Comics{{!}}Zero}}
 {{Infobox comics character <!--Wikipedia:WikiProject Comics-->
@@ -11,7 +12,7 @@
 |creators=[[Jim Lee]]
 |alliances=Cell Six<br/>[[Central Intelligence Agency|CIA]]<br/>[[Weapon X]]<br/>[[Team X (comics)|Team X]]
 |aliases=David North,<ref>''Maverick'' #2</ref> Maverick,<ref>''X-Men'' vol. 2 #5</ref><br>Agent Zero<ref name="zero">''Weapon X: The Draft: Agent Zero''</ref>
-|powers= Expert marksman<br>Expert hand-to-hand combatant<br><br>Former mutant abilities:<br>Kinetic absorption<br>Kinetic blasts<br>Accelerated healing factor<br>Inodorosity (no discernible scent)<br>Anti-healing factor corrosive
+|powers= Expert marksman<br>Expert hand-to-hand combatant<br><br>Former mutant abilities:<br>Kinetic absorption<br>Kinetic blasts<br>Accelerated healing factor<br>Inodorosity (no discernible scent)<br>Anti-healing factor acid
 }}
 
 '''David North''' (born '''Christoph "Christopher" Nord''') is a fictional [[mutant (Marvel Comics)|mutant]] character appearing in [[American comic book]]s published by [[Marvel Comics]]. He was originally known as '''Maverick''', and more recently as '''Agent Zero'''. The character first appeared in ''X-Men'' (vol. 2) #5 and was created by [[Jim Lee]].
@@ -48,7 +49,7 @@ Time passed and Maverick developed a reputation as one of the best-hired guns av
 
 He worked for private parties and governmental agencies alike, taking several contracts from retired Major Arthur Barrington, the man who had brought North into the CIA. When Omega Red captured Wolverine as well as several of the [[X-Men]] in Berlin in an effort to locate the carbonadium synthesizer, Maverick was sent in by Barrington. Maverick helped free the captive X-Men and tracked Sabretooth to Omega Red. With the X-Men's help, he obtained the device from Wolverine and hid it once again. Maverick aided the X-Men in combat against Sabretooth, Omega Red, [[Fenris (comics)|Fenris]], and [[Matsu'o Tsurayaba]]. During the course of this incident, Maverick murders apparently Dr. [[Abraham Cornelius]] in cold blood.<ref>''X-Men'' Vol. 2 #5-7</ref>
 
-Barrington later sent him to acquire the Xavier Files, profiles of the powers and weaknesses of various mutants, which were compiled by the X-Men's founder. Maverick battled [[Warhawk (Marvel Comics)|Warhawk]] and killed Dr. Alexander Ryking. In the clash, Warhawk exploded, seemingly destroying the files.<ref>''X-Men'' Vol. 2 #10-11</ref> Maverick was later hired by the US government to protect Aldo Ferro, a former Weapon X member. Former Team X alumni sought Ferro out after [[Mastodon (comics)|Mastodon]] died when his age suppression factor reversed. Unbeknownst to Team X, Ferro was the second Psi-Borg and was responsible for the planting of false memories during their time with Weapon X. Betrayed by Ferro, Maverick then sided with his former teammates Wolverine, Sabretooth, [[Silver Fox (comics)|Silver Fox]], and John Wraith, and Ferro was seemingly killed in the subsequent battle.<ref name="wolverine62"/>
+Barrington later sent him to acquire the Xavier Files, profiles of the powers and weaknesses of various mutants, which were compiled by the X-Men's founder. Maverick battled [[Warhawk (Marvel Comics)|Warhawk]] and killed Dr. Alexander Ryking. In the clash, Warhawk exploded, seemingly destroying the files.<ref>''X-Men'' Vol. 2 #10-11</ref> Maverick was later hired by the US government to protect Aldo Ferro, a former Weapon X member. Former Team X alumni sought Ferro out after [[Mastodon (Weapon X)|Mastodon]] died when his age suppression factor reversed. Unbeknownst to Team X, Ferro was the second Psi-Borg and was responsible for the planting of false memories during their time with Weapon X. Betrayed by Ferro, Maverick then sided with his former teammates Wolverine, Sabretooth, [[Silver Fox (comics)|Silver Fox]], and John Wraith, and Ferro was seemingly killed in the subsequent battle.<ref name="wolverine62"/>
 
 Maverick next sought to kill Sabretooth, who was in the midst of a psychotic murderous rampage following the death of Birdy. First seeking Wolverine to aid him in this goal, he reluctantly aids the X-Men in merely capturing Sabretooth, setting in motion what became a failed attempt by Charles Xavier to rehabilitate the serial killer.<ref>''X-Men Unlimited'' #3</ref>
 
@@ -128,7 +129,7 @@ In a possible future timeline (Earth-5700), Agent Zero joined a Wolverine-led ve
 
 ===Film===
 [[Image:Zerorigins.jpg|right|thumb|300px|Daniel Henney as Agent Zero in ''[[X-Men Origins: Wolverine]]''.]]
-* Agent Zero appears in the film ''[[X-Men Origins: Wolverine]]'', played by [[Daniel Henney]].<ref>{{cite news|title=Dominic Monaghan Zaps To "Wolverine" |publisher=Dark Horizons |date=2008-02-22 |url=http://www.darkhorizons.com/news08/080222h.php |archive-url=https://archive.is/20120731092510/http://www.darkhorizons.com/news08/080222h.php |dead-url=yes |archive-date=2012-07-31 |accessdate=2008-02-22 }}</ref> Depicted as Asian in ethnicity, he is a superhumanly accurate sniper/assassin and he is [[William Stryker]]'s second in command of [[Team X (comics)|Team X]]. He and Victor Creed are the only ones from Team X that stayed faithful to Stryker. When Wolverine breaks out from the Weapon X facility, Zero pursues Wolverine to an old barn belonging to an elderly couple who have taken Wolverine in. Zero kills the couple and orders a helicopter strike to kill Wolverine. When Wolverine gets away on a motorcycle, Zero pursues in the helicopter which Wolverine eventually causes to crash. After mocking Wolverine about how "good, innocent people tend to die around [Wolverine]", Wolverine ignites a trail of fuel with his own claws that cause the helicopter to explode, presumably killing Zero who is apparently inside. Zero was also allegedly the one who told [[Blob (comics)|Fred Dukes]] and [[Kestrel (Marvel Comics)|John Wraith]] about Stryker and Victor working together and hunting down mutants. This version of the character is depicted as being exceptionally ruthless, killing several innocent civilians over the course of the film in order to complete his mission. Agent Zero, in fact, refers to himself as a soldier at heart. His powers in the film are enhanced speed, reflexes, agility, and superhuman accuracy with firearms. He is also shown as an expert tracker. Producer [[Lauren Shuler Donner]] says on the DVD commentary that Agent Zero has no scent and that a sequence was planned that he escapes the crash and Logan cuts down the forest to stop him. The character is repeatedly referred to as Zero rather than using his given name.
+* Agent Zero appears in the film ''[[X-Men Origins: Wolverine]]'', played by [[Daniel Henney]].<ref>{{cite news|title=Dominic Monaghan Zaps To "Wolverine" |publisher=Dark Horizons |date=2008-02-22 |url=http://www.darkhorizons.com/news08/080222h.php |archive-url=https://archive.is/20120731092510/http://www.darkhorizons.com/news08/080222h.php |url-status=dead |archive-date=2012-07-31 |accessdate=2008-02-22 }}</ref> Depicted as Asian in ethnicity, he is a superhumanly accurate sniper/assassin and he is [[William Stryker]]'s second in command of [[Team X (comics)|Team X]]. He and Victor Creed are the only ones from Team X that stayed faithful to Stryker. When Wolverine breaks out from the Weapon X facility, Zero pursues Wolverine to an old barn belonging to an elderly couple who have taken Wolverine in. Zero kills the couple and orders a helicopter strike to kill Wolverine. When Wolverine gets away on a motorcycle, Zero pursues in the helicopter which Wolverine eventually causes to crash. After mocking Wolverine about how "good, innocent people tend to die around [Wolverine]", Wolverine ignites a trail of fuel with his own claws that cause the helicopter to explode, presumably killing Zero who is apparently inside. Zero was also allegedly the one who told [[Blob (comics)|Fred Dukes]] and [[Kestrel (Marvel Comics)|John Wraith]] about Stryker and Victor working together and hunting down mutants. This version of the character is depicted as being exceptionally ruthless, killing several innocent civilians over the course of the film in order to complete his mission. Agent Zero, in fact, refers to himself as a soldier at heart. His powers in the film are enhanced speed, reflexes, agility, and superhuman accuracy with firearms. He is also shown as an expert tracker. Producer [[Lauren Shuler Donner]] says on the DVD commentary that Agent Zero has no scent and that a sequence was planned that he escapes the crash and Logan cuts down the forest to stop him. The character is repeatedly referred to as Zero rather than using his given name.
 
 ===Video games===
 * Maverick is briefly mentioned in ''[[Marvel: Ultimate Alliance]]''.
@@ -145,17 +146,17 @@ In a possible future timeline (Earth-5700), Agent Zero joined a Wolverine-led ve
 {{Weapon Plus}}
 
 {{DEFAULTSORT:North, David}}
-[[Category:Comics characters introduced in 1992]]
 [[Category:Characters created by Jim Lee]]
+[[Category:Comics characters introduced in 1992]]
 [[Category:Fictional assassins]]
 [[Category:Fictional characters with memory disorders]]
 [[Category:Fictional German people]]
 [[Category:Fictional mercenaries]]
 [[Category:Fictional murderers]]
 [[Category:Fictional secret agents and spies]]
-[[Category:Film characters]]
 [[Category:Marvel Comics martial artists]]
 [[Category:Marvel Comics mutants]]
 [[Category:Marvel Comics superheroes]]
 [[Category:Marvel Comics supervillains]]
+[[Category:Superhero film characters]]
 [[Category:Wolverine characters]]

@@ -1,3 +1,4 @@
+{{short description|Fictional character appearing in Marvel Comics}}
 {{notability|date=July 2018}}
 {{Infobox comics character <!--Wikipedia:WikiProject Comics-->
 |image=
@@ -39,7 +40,8 @@ The Stillwell brothers' technology would also later be used to give superpowers 
 * Dr. Farley Stillwell appears in the 1990s ''[[Spider-Man (1994 TV series)|Spider-Man]]'' episode "Sting of the Scorpion", voiced by [[Michael Rye]].<ref>[https://www.imdb.com/character/ch0036440/ Dr. Farley Stillwell], [[IMDb]], retrieved 17 Jan 2010</ref> J. Jonah Jameson hired him to turn [[Mac Gargan]] into the Scorpion. When Scorpion wanted Farley to restore him later on, Farley ended up knocked out and hospitalized. In a flashback in "Make a Wish", Farley was the scientist that led the experiment involving '''neogenic'''<!--boldface per WP:R#PLA--> research,<ref name=Hague>Ian Hague, ''Comics and the Senses: A Multisensory Approach to Comics and Graphic Novels'', Routledge, 2014, ch. 2: "Sight, or, the Ideal Perspective and the Physicality of Seeing".</ref> an accident during this enabled Peter Parker to become Spider-Man. In "The Final Nightmare," Farley was abducted from the hospital by the Scorpion who took him to the laboratory where Spider-Man, Dr. Curt Connors, and [[Vulture (Marvel Comics)|Vulture]] were. While a fight ensued between Spider-Man, Vulture, and Scorpion, Stillwell planned to destroy the '''Neogenic Recombinator'''<!--boldface per WP:R#PLA-->.<ref name=Hague/><ref>The fictional item also appeared in ''Spider-Man Adventures'' #1 (December 1994).</ref> His motivations were to make sure that monsters like the Scorpion were never created again. Dr. Curt Connors tried to intervene saying that it would help cure him. When Farley asks him what it would cure him of, Curt turned into the [[Lizard (comics)|Lizard]] and attacked. Spider-Man took down Lizard as Farley overloaded the Recombinator's transfomer causing it to explode. Farley later explains to Curt that neogenic research is too dangerous and states that its secrets will stay with him forever. He then vows to disappear, never to be seen again.
 
 ===Video games===
-* In the video game adaption to ''[[Spider-Man 3 (video game)|Spider-Man 3]]'', a female Dr. Stillwell (voiced by [[Nika Futterman]]) is based on Dr. Farley Stillwell. In the game, she is head of MechaBioCon and uses the Scorpion as a subject for military cybernetics and mind control. She first uses him to break [[Rhino (comics)|the Rhino]] out of a prison truck. After Spider-Man defeats the Scorpion at a construction zone and frees him from Stillwell's control, he vows revenge and asks Spidey to help. After Spider-Man and Scorpion defeat the Rhino at MechaBioCon, Scorpion goes after Stillwell, who later pulls a gun on him. Scorpion smacks the gun away and is about to kill her, when she reveal there is no surgery to return Gargan back to normal, but Spider-Man and Dr. Jessica Andrews (an employee who has feelings for Gargan) plead Scorpion not to kill her. Scorpion listens and escapes out the window, and Stillwell is webbed up by Spider-Man and later arrested.
+* In the video game adaption to ''[[Spider-Man 3 (video game)|Spider-Man 3]]'', a female Dr. Stillwell (voiced by [[Nika Futterman]]) is based on Dr. Farley Stillwell. In the game, she is head of MechaBioCon and uses a man named Mac Gargan as a subject for military cybernetics and mind control. She first uses him to break [[Rhino (comics)|the Rhino]] out of a prison truck. After Spider-Man defeats the Scorpion at a construction zone and frees him from Stillwell's control, he vows revenge and asks Spidey for help. After Spider-Man and Scorpion defeat the Rhino at MechaBioCon, Scorpion goes after Stillwell who tries to shoot him. Scorpion smacks the gun away and attempts to kills her when he learns that she can't reverse what she did to him, but Spider-Man and Dr. Jessica Andrews (an employee who has feelings for Gargan) plead with him not to. Scorpion listens and escapes out the window, and Stillwell is webbed up by Spider-Man and later arrested.
+* Stillwell is mentioned, though not by name, in ''[[Spider-Man (2018 video game)|Marvel's Spider-Man]]''. In an episode of "Just the Facts with J. Jonah Jameson", Jameson blames Stillwell for creating the Scorpion even though he paid for the experiment, arguing that he couldn't have known the scientist's intentions and accusing him of lacking ethics.
 
 ==References==
 {{Reflist}}
@@ -53,8 +55,10 @@ The Stillwell brothers' technology would also later be used to give superpowers 
 {{Spider-Man}}
 {{Stan Lee}}
 
+{{DEFAULTSORT:Stillwell, Farley}}
 [[Category:Characters created by Stan Lee]]
 [[Category:Characters created by Steve Ditko]]
 [[Category:Comics characters introduced in 1965]]
 [[Category:Fictional scientists]]
 [[Category:Marvel Comics supervillains]]
+[[Category:Spider-Man characters]]

@@ -4,15 +4,14 @@
 |code_name  = Ms. Marvel
 |image      = Generations Ms. Marvel & Ms. Marvel Vol 1 1.png
 |imagesize  = 250
-|caption    = [[Ms. Marvel (Kamala Khan)|Kamala Khan]] and [[Carol Danvers]] on a variant cover of ''[[Generations (comics)|Generations: Ms. Marvel & Ms. Marvel]]'' #1 (November 2017). Art by [[Olivier Coipel]] & [[Laura Martin]].
+|caption    = [[Kamala Khan]] and [[Carol Danvers]] on a variant cover of ''[[Generations (comics)|Generations: Ms. Marvel & Ms. Marvel]]'' #1 (November 2017). Art by [[Olivier Coipel]] & [[Laura Martin]].
 |publisher  = [[Marvel Comics]]
 |debut      = ''Ms. Marvel'' #1
 |debutmo    = January
 |debutyr    = 1977<!-- Debut of the Ms. Marvel identity, not the Carol Danvers character -->
 |writer1    = [[Gerry Conway]]
-|writer2   = Carla Conway
 |artist1    = [[John Buscema]]
-|characters = [[Carol Danvers]]<br/>[[Sharon Ventura]]<br/>[[Moonstone (comics)|Karla Sofen]]<br/>[[Ms. Marvel (Kamala Khan)|Kamala Khan]]
+|characters = [[Carol Danvers]]<br/>[[Sharon Ventura]]<br/>[[Moonstone (comics)|Karla Sofen]]<br/>[[Kamala Khan]]
 |seealso    =
 <!--Series section--> 
 |title               = Ms.  Marvel
@@ -82,11 +81,11 @@
 |altcat              = 
 |hero                = y
 |villain             = 
-|sortkey             = Ms Marvel
-|sort_title          = Ms Marvel
+|sortkey             = Ms. Marvel
+|sort_title          = Ms. Marvel
 }}
 
-'''Ms. Marvel''' is the name of several fictional [[superhero]]es appearing in [[comic book]]s published by [[Marvel Comics]]. The character was originally conceived as a female counterpart to [[Captain Marvel (Marvel Comics)|Captain Marvel]]. Like Captain Marvel, most of the bearers of the Ms. Marvel title gain their powers through [[Kree]] technology or genetics. Marvel has published four ongoing comic series titled ''Ms. Marvel'', with the first two starring '''[[Carol Danvers]]''', and the third and fourth starring '''[[Ms. Marvel (Kamala Khan)|Kamala Khan]]'''.
+'''Ms. Marvel''' is the name of several fictional [[superhero]]es appearing in [[comic book]]s published by [[Marvel Comics]]. The character was originally conceived as a female counterpart to [[Captain Marvel (Marvel Comics)|Captain Marvel]]. Like Captain Marvel, most of the bearers of the Ms. Marvel title gain their powers through [[Kree]] technology or genetics. Marvel has published four ongoing comic series titled ''Ms. Marvel'', with the first two starring '''[[Carol Danvers]]''' and the third and fourth starring '''[[Kamala Khan]]'''.
 
 == Carol Danvers ==
 {{main|Carol Danvers}}
@@ -98,17 +97,17 @@ Sharon Ventura, the second character to use the pseudonym Ms. Marvel, first appe
 
 == Karla Sofen ==
 {{main|Karla Sofen}}
-Dr. Karla Sofen, the supervillain known as '''Moonstone''', first appeared as the [[gun moll]] of [[Doctor Faustus (comics)|Doctor Faustus]], in ''[[Captain America]]'' #192 (December 1975) by [[Marv Wolfman]] and [[Frank Robbins]]. In ''[[Hulk (comics)|The Incredible Hulk]]'' #228 (October 1978), Sofen becomes the psychiatrist of the villain Moonstone, also known as [[Nefarius|Lloyd Bloch]]. Sofen tricks Bloch into giving her the meteorite that empowers him, and she adopts both the name and abilities of Moonstone. During the "[[Dark Reign (comics)|Dark Reign]]" storyline, Sofen joins [[Norman Osborn]]'s group of Avengers, known as the [[Dark Avengers]], as the doppelganger of the previous Ms. Marvel, Carol Danvers.<ref>''[[Dark Avengers]]'' #1 (January 2009)</ref> Sofen becomes the title character of the ''Ms. Marvel'' series beginning in issue #38 (June 2009) until Danvers takes the title back in issue #47 (January 2010).
+Dr. Karla Sofen, the supervillain known as '''Moonstone''', first appeared as the [[gun moll]] of [[Doctor Faustus (comics)|Doctor Faustus]], in ''[[Captain America]]'' #192 (December 1975) by [[Marv Wolfman]] and [[Frank Robbins]]. In ''[[Hulk|The Incredible Hulk]]'' #228 (October 1978), Sofen becomes the psychiatrist of the villain Moonstone, also known as [[Nefarius|Lloyd Bloch]]. Sofen tricks Bloch into giving her the meteorite that empowers him, and she adopts both the name and abilities of Moonstone. During the "[[Dark Reign (comics)|Dark Reign]]" storyline, Sofen joins [[Norman Osborn]]'s group of Avengers, known as the [[Dark Avengers]], as the doppelganger of the previous Ms. Marvel, Carol Danvers.<ref>''[[Dark Avengers]]'' #1 (January 2009)</ref> Sofen becomes the title character of the ''Ms. Marvel'' series beginning in issue #38 (June 2009) until Danvers takes the title back in issue #47 (January 2010).
 
 == Kamala Khan ==
-{{main|Ms. Marvel (Kamala Khan)}}
-Kamala Khan, created by [[Sana Amanat]], [[G. Willow Wilson]], and [[Adrian Alphona]], is the fourth character to take the name Ms. Marvel. Khan first appeared in ''Captain Marvel'' #17 (November 2013) and is a 16-year-old [[Pakistani-American]] from [[Jersey City, New Jersey]], who idolizes Carol Danvers. Khan was given her own ''Ms. Marvel'' series, which premiered in February 2014, becoming Marvel Comics' first [[Muslim]] character to headline her own comic book.<ref>Robinson, Wills (6 November 2013). [http://www.dailymail.co.uk/news/article-2488263/Marvel-Comics-relaunches-Ms-Marvel-16-year-old-Muslim-girl.html " Marvel Comics brings back Ms Marvel as a 16-year-old Muslim daughter of Pakistani immigrants living in Jersey City"]. ''[[The Daily Mail]]''.</ref><ref>{{cite web |last=Wheeler |first=Andrew |date=6 November 2013 |title=All-New Marvel NOW! Q&A: Ms. Marvel! |url=http://marvel.com/news/story/21466/all-new_marvel_now_qa_ms_marvel |publisher=[[Marvel Comics|Marvel.com]] |accessdate=7 November 2013}}</ref> The first collected volume of this series, ''Ms. Marvel Volume 1: No Normal'', won the 2015 [[Hugo Award]] for Best Graphic Story.<ref>{{cite web|url=http://comicbook.com/2015/08/23/guardians-of-the-galaxy-orphan-black-and-orphan-black-win-in-biz/|title=Guardians of the Galaxy, Orphan Black and Ms. Marvel Win In Bizarre Hugo Awards Ceremony|date=April 23, 2015|author=Russ Burlingame}}</ref>
+{{main|Kamala Khan}}
+Kamala Khan, created by [[Sana Amanat]], [[G. Willow Wilson]], and [[Adrian Alphona]], is the fourth character to take the name Ms. Marvel. Khan first appeared in ''Captain Marvel'' #17 (November 2013) and is a 16-year-old [[Pakistani-American]] from [[Jersey City, New Jersey]], who idolizes Carol Danvers. Khan was given her own ''Ms. Marvel'' series, which premiered in February 2014, becoming Marvel Comics' first [[Muslim]] character to headline her own comic book.<ref>Robinson, Wills (6 November 2013). [http://www.dailymail.co.uk/news/article-2488263/Marvel-Comics-relaunches-Ms-Marvel-16-year-old-Muslim-girl.html "Marvel Comics brings back Ms. Marvel as a 16-year-old Muslim daughter of Pakistani immigrants living in Jersey City"]. ''[[The Daily Mail]]''.</ref><ref>{{cite web |last=Wheeler |first=Andrew |date=6 November 2013 |title=All-New Marvel NOW! Q&A: Ms. Marvel! |url=http://marvel.com/news/story/21466/all-new_marvel_now_qa_ms_marvel |publisher=[[Marvel Comics|Marvel.com]] |accessdate=7 November 2013}}</ref> The first collected volume of this series, ''Ms. Marvel Volume 1: No Normal'', won the 2015 [[Hugo Award]] for Best Graphic Story.<ref>{{cite web|url=http://comicbook.com/2015/08/23/guardians-of-the-galaxy-orphan-black-and-orphan-black-win-in-biz/|title=Guardians of the Galaxy, Orphan Black and Ms. Marvel Win In Bizarre Hugo Awards Ceremony|date=April 23, 2015|author=Russ Burlingame}}</ref>
 
 == References ==
 {{Reflist}}
 
 {{Ms. Marvel}}
-{{Captain Marvel}}
+{{Captain Marvel (Marvel Comics)}}
 
 [[Category:Comics about women]]
 [[Category:Feminist comics]]
@@ -118,3 +117,5 @@ Kamala Khan, created by [[Sana Amanat]], [[G. Willow Wilson]], and [[Adrian Alph
 [[Category:Fictional characters who became a protagonist in a spin-off]]
 [[Category:Female characters in comics]]
 [[Category:Comics characters introduced in 1977]]
+[[Category:Marvel Comics female superheroes]]
+[[Category:Articles about multiple fictional characters]]

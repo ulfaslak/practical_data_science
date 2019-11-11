@@ -6,8 +6,9 @@
 |publisher=[[Marvel Comics]]
 |debut='''As Miles Warren's clone''':<br>''[[The Spectacular Spider-Man|Spectacular Spider-Man]]'' #25 (December 1978)<br>'''As Malcolm McBride''':<br>''[[The Spectacular Spider-Man|Spectacular Spider-Man]]'' #149 (April 1989)<br>'''As William Allen''':<br>''Spider-Man: Dead Man's Hand'' (April 1997)
 |creators=[[Bill Mantlo]]<br>[[Jim Mooney]]<br>[[Frank Springer]]
+|homeworld=[[New York City|New York]]
 |alliances=Carnage Family/[[Maximum Carnage]] (as Malcolm McBride)<br>[[S.H.I.E.L.D.]] (as William Allen)
-|partners='''As Malcolm McBride'''<br/>[[Shriek (comics)|Shriek]]<br/>[[Carnage (comics)|Carnage]]<br/>[[Doppelganger (comics)|Doppelganger]]<br/>[[Demogoblin]]
+|partners='''As Malcolm McBride'''<br/>[[Shriek (comics)|Shriek]]<br/>[[Carnage (Cletus Kasady)|Carnage]]<br/>[[Doppelganger (comics)|Doppelganger]]<br/>[[Demogoblin]]
 |aliases= Miles Warren<br>Malcolm Mcbride<br>William Allen
 |powers=[[Telepathy]]<br>[[Levitation]]<br>Density control<br>Ability to disintegrate organic matter at a touch
 }}
@@ -15,6 +16,8 @@
 
 ==Publication history==
 The Miles Warren clone version of Carrion first appeared in ''[[The Spectacular Spider-Man]]'' #25 and was created by [[Bill Mantlo]], [[Jim Mooney]], and [[Frank Springer]]. Carrion emerged as part of a storyline that was a sequel to the original [[Clone Saga]] and as a result he has one of the most complicated histories of any Spider-Man villain. His history has been [[Retroactive continuity|retconned]] several times as successive writers changed the status of the various clones, the plans and motivations of Professor Miles Warren and other aspects from the stories. Often these changes took place in stories which did not directly involve Carrion, resulting in further stories trying to tie up gaps. No fewer than three separate incarnations have been encountered.
+
+William Allen first appeared in ''Spider-Man: Dead Man's Hand'' #1 (April 1997), created by [[Roger Stern]] and Dan Lawlis. <ref>''Spider-Man: Dead Man's Hand'' #1</ref>  McBride was created by [[Sal Buscema]] and [[Gerry Conway]] in ''[[The Spectacular Spider-Man]]'' #149 (April 1989).<ref>''The Spectacular Spider-Man'' #149 (April 1989) </ref>
 
 ==Fictional character biography==
 ===Miles Warren clone===
@@ -54,30 +57,44 @@ The sentient Carrion virus is able to infect and control victims without alterin
 ===Dead No More: The Clone Conspiracy===
 During the ''[[Dead No More: The Clone Conspiracy]]'', the Jackal begins "reanimating" the deceased loved ones and enemies of Spider-Man, though a flaw in the resurrection process causes those brought back by it to degenerate into zombie-like Carrions unless they take a special pill daily. In numerous unidentified realities where Parker Industries allied with the Jackal's company New U Technologies, the degeneration becomes contagious and spreads uncontrollably, turning all of humanity into mindless hordes of Carrions.<ref>''Amazing Spider-Man'' Vol. 4 #21</ref>
 
+===Spider-Man: Heroes & Villains===
+Malcom McBride appears in ''Spider-Man: Heroes & Villains''.<ref>''Spider-Man: Heroes & Villains Collection'' #40. Marvel Comics.</ref>
+
 ==In other media==
 ===Video games===
 * The Malcolm McBride version of Carrion appears as a recurring villain in the mid-1990s [[SEGA Genesis|Sega Genesis]] / [[Super Nintendo|Super Nes]] video game called ''[[Spider-Man and Venom: Maximum Carnage]]''. He is one of the villains recruited by Carnage to help create chaos in New York. Carrion appears with Doppelganger and Shriek numerous times in the game and hovers above the player's character attempting to grab the character's head and destroy the character. The player has to defeat him numerous times on several levels with other villains.
 
 ===Novels===
-* Per the Spider-Man novel ''Spider-Man: Requiem'', [[Sin-Eater (comics)|Stanley Carter]] was infected by the Carrion Virus by the Cabal of Scrier, bringing Stanley back to life in an attempt to steal the Darkhold from S.H.I.E.L.D. Spider-Man and the new Stanley Carter/Carrion battled for a while but eventually Carter began to fight with Carrion for control of his own body and when the Cabal of Scrier brought back the ancient god Chthon (which would destroy the world) Carter/Carrion gave up his own life to stop the god. While Stanley was still alive he had hidden from the authorities in his uncle Emory Carter's house and Emory had been infected by the Carrion virus when he was around Stanley. When Stanley died Emory became the next Carrion but was later defeated by Spider-Man.
+* Per the Spider-Man novel ''Spider-Man: Requiem'', [[Sin-Eater (comics)|Stanley Carter]] was infected by the Carrion Virus by the Cabal of Scrier, bringing Stanley back to life in an attempt to steal the [[Darkhold]] from S.H.I.E.L.D. Spider-Man and the new [[Sin-Eater (comics)|Stanley Carter]]/Carrion battled for a while but eventually Carter began to fight with Carrion for control of his own body and when the Cabal of Scrier brought back the ancient god Chthon (which would destroy the world) Carter/Carrion gave up his own life to stop the god. While Stanley was still alive he had hidden from the authorities in his uncle Emory Carter's house and Emory had been infected by the Carrion virus when he was around Stanley. When Stanley died Emory became the next Carrion but was later defeated by Spider-Man.
 
 ==References==
 <!--See [[Wikipedia:Footnotes]] for an explanation of how to generate footnotes using the <ref(erences/)> tags-->
 {{Reflist}}
 
 ==External links==
-* http://marvel.com/universe/Carrion_%28Miles_Warren_clone%29
+* [http://marvel.com/universe/Carrion_%28Miles_Warren_clone%29 Miles Warren Clone] at Marvel Universe Wiki
 * [http://marvel.com/universe/Carrion Carrion on the Marvel Universe Character Bio Wiki]
 * [http://www.spiderfan.org/characters/carrion1.html SpiderFan.org: Carrion I]
 * [http://www.spiderfan.org/characters/carrion2.html SpiderFan.org: Carrion II]
 * {{Marvunapp|http://www.marvunapp.com/Appendix4/carrionwmallen.htm|Carrion (William Allen)}}
+* {{Marveldatabase|Carrion}}
 {{Spider-Man characters}}
 {{Spider-Man}}
 
 [[Category:Characters created by Bill Mantlo]]
+[[Category:Characters created by Gerry Conway]]
+[[Category:Characters created by Roger Stern]]
+[[Category:Characters created by Sal Buscema]]
 [[Category:Comics characters introduced in 1978]]
 [[Category:Comics characters introduced in 1989]]
+[[Category:Comics characters introduced in 1997]]
 [[Category:Fictional characters from New York City]]
 [[Category:Fictional clones]]
+[[Category:Fictional secret agents and spies]]
+[[Category:Fictional telekinetics]]
+[[Category:Fictional telepaths]]
+[[Category:Fictional viruses]]
 [[Category:Marvel Comics supervillains]]
+[[Category:Marvel Comics telepaths]]
+[[Category:S.H.I.E.L.D. agents]]
 [[Category:Spider-Man characters]]

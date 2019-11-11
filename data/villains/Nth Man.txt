@@ -1,3 +1,4 @@
+{{short description|Fictional character in the Marvel Universe}}
 {{for|the comic book by Larry Hama|Nth Man: The Ultimate Ninja}}
 {{Infobox comics character| <!--Wikipedia:WikiProject Comics--> 
 image=
@@ -13,7 +14,7 @@ image=
 |powers=
 }} 
  
-'''Nth Man''' is a fictional character in the [[Marvel Universe]].
+'''Nth Man''' is a fictional character appearing in [[American comic book]]s published by [[Marvel Comics]].
 
 ==Publication history==
 Thomas Lightner first appeared as '''Blacksun''' in ''[[Marvel Two-in-One]]'' #21-23 (November 1976-January 1977), and was created by [[Bill Mantlo]] and [[Ron Wilson (comics)|Ron Wilson]].

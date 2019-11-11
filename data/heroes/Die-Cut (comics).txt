@@ -17,7 +17,7 @@
 '''Die-Cut''' (real name: '''Czorn Yson''') is a [[fictional character]] appearing in [[American comic book]]s published by [[Marvel Comics]]. The character appears in comic books published by the [[Marvel UK]] imprint. He first appeared in ''Death's Head II & the Origin of Die-Cut'' #1 ([[1993 in comics|1993]]). Die-Cut then co-starred in another miniseries, ''Die-Cut vs G-Force'', before receiving his own ''Die-Cut'' [[Limited series (comics)|limited series]] in November 1993.
 
 ==Fictional character biography==
-Czorn Yson is a [[mutant]] from the planet Ganalon.  The Ganalonians have been engaged in a war with a race of [[cyborg]]s for centuries.  Yson enlists as a soldier in the battle against the cyborgs; it is from his experiences that he gains a pathological hatred of all things mechanical.
+Czorn Yson is a [[Mutant (Marvel Comics)|mutant]] from the planet Ganalon.  The Ganalonians have been engaged in a war with a race of [[cyborg]]s for centuries.  Yson enlists as a soldier in the battle against the cyborgs; it is from his experiences that he gains a pathological hatred of all things mechanical.
 
 Yson is captured by the cyborg forces and tortured for information.  He successfully blocks their mental probes by feigning [[schizophrenia]], but eventually slips into true madness.  When the Minion cyborg, the future [[Death's Head]] II, arrives to assimilate his personality, Yson willingly submits in order to end his torture.<ref>''Death's Head II & the Origin of Die-Cut'' #2</ref>
 
@@ -34,7 +34,7 @@ Die-Cut has a blade, called the Pscythe, attached to his left arm.  Drawn from h
 *[http://www.marvunapp.com/Appendix/diecutmuk.htm Die-Cut] at the Appendix to the Handbook of the Marvel Universe
 *{{gcdb series|id=4767|title=''Die-Cut''}}
 *{{comicbookdb|type=character|id=6549|title=Die-Cut}}
-*[http://www.comics-db.com/Marvel_Comics/D/Die-Cut/index.html Die-Cut] at the [[Big Comic Book DataBase]]
+*[https://archive.is/20130119144644/http://www.comics-db.com/Marvel_Comics/D/Die-Cut/index.html Die-Cut] at the [[Big Comic Book DataBase]]
 {{refend}}
 
 [[Category:1993 comics debuts]]

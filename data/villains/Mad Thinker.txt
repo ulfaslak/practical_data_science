@@ -1,4 +1,3 @@
-{{in-universe|date=March 2015}}
 {{Infobox comics character <!--Wikipedia:WikiProject Comics-->
 |image=
 |caption=
@@ -17,7 +16,7 @@ The '''Mad Thinker''' is a [[fictional]] [[supervillain]] appearing in [[America
 
 ==Publication history==
 {{Expand section|date=March 2015}}
-The Mad Thinker was introduced by [[Stan Lee]] and [[Jack Kirby]] in ''[[Fantastic Four (comic book)|Fantastic Four]]'' #15 (June 1963). Little to nothing was known of his origins or true identity until, over fifty years later, the Mad Thinker's first name was revealed to be '''Julius''' in the pages of Brian Michael Bendis and Alex Maleev’s ''Infamous Iron Man'' #2.<ref>As revealed in ''Infamous Iron Man'' #2</ref>
+The Mad Thinker was introduced by [[Stan Lee]] and [[Jack Kirby]] in ''[[Fantastic Four (comic book)|Fantastic Four]]'' #15 (June 1963). Little to nothing was known of his origins or true identity until, over fifty years later, the Mad Thinker's first name was revealed to be '''Julius''' in the pages of Brian Michael Bendis and Alex Maleev's ''Infamous Iron Man'' #2.<ref>As revealed in ''Infamous Iron Man'' #2</ref>
 
 ==Fictional character biography==
 The professional criminal mastermind known as the Mad Thinker made his debut fighting the Fantastic Four. He once attempted to take over New York City using the [[Baxter Building]] as his base and all organized crime members as his lieutenants. The Fantastic Four were lured away from New York just before a [[meteorite]] struck the city and briefly knocked out electrical power, including the Baxter Building's defense systems. The Mad Thinker took the opportunity to create a robotic servant, the [[Awesome Android]]. He trapped the Fantastic Four in the lower quarters of the building but was eventually caught, after being stopped by an unforeseen factor: the building's mailman, [[Willie Lumpkin]], who on Reed's orders rang a bell at 4 pm, activating a circuit breaker Reed had built into all his devices.<ref>''Fantastic Four'' #15</ref>
@@ -133,6 +132,7 @@ In a parody issue of ''[[What If (comics)|What If?]]'', the entry entitled "Spid
 {{New Warriors}}
 {{Stan Lee}}
 {{Jack Kirby}}
+
 [[Category:Characters created by Jack Kirby]]
 [[Category:Characters created by Stan Lee]]
 [[Category:Comics characters introduced in 1963]]

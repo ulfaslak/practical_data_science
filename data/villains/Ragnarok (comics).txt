@@ -68,6 +68,7 @@ In a "[[What If (comics)|What If?]] Civil War" scenario titled "What if Iron Man
 ==External links==
 * {{Marvelwiki|Ragnarok|Ragnarok}}
 * {{comicbookdb|type=character|id=8457|title=Ragnarok}}
+* {{Marveldatabase|Ragnarok (Earth-616)|Ragnarok}}
 
 {{Thor}}
 {{New Warriors}}
