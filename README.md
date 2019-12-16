@@ -1,6 +1,6 @@
 ### Practical Data Science
 
-This course is an introduction to Data Science. It touches basic python programming, fundamental mathematical tools like linear algebra and statistics, scraping and APIs, machine learning, networks, NLP, parallel computing, and data ethics. It is meant for beginners with little or no experience in the field. Participants that complete the course will be able to do their own data science project. The course is taught at DIS Copenhagen.
+This course is an introduction to Data Science. It touches basic python programming, fundamental mathematical tools like linear algebra and statistics, scraping and APIs, machine learning, networks, NLP, parallel computing, and data ethics. It is meant for beginners with little or no experience in the field. Participants that complete the course will be able to do their own data science project. The course is taught at [DIS Copenhagen](https://disabroad.org/copenhagen/courses/computation-analyses-big-data/).
 
 **To get started:**
 
