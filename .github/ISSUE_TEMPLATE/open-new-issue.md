@@ -1,6 +1,6 @@
 ---
 name: Open new issue
-about: Ask about anything from specific problems to broad questions about the course
+about: Check that your question hasn't already been asked. Then ask about anything from specific problems to broad questions about the course
 title: 'Ex. X.X.X: <Short title for your problem>'
 labels: question
 assignees: ulfaslak
