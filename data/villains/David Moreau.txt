@@ -1,0 +1,42 @@
+{{Infobox comics character <!--Wikipedia:WikiProject Comics-->
+|image=
+|caption=
+|character_name=The Genegineer
+|real_name=David Moreau
+|publisher=[[Marvel Comics]]
+|debut=''[[Uncanny X-Men]]'' #236 (October, 1988)
+|creators=[[Chris Claremont]] and [[Marc Silvestri]]
+|alliances=[[Press Gang (comics)|Press Gang]]
+|aliases= 
+|powers=
+}}
+'''David Moreau''', also known as the '''Genegineer''', is a [[fictional character]] in [[Marvel Comics]]. Working for the island nation of [[Genosha]], he developed a [[mind control]] device which made [[Mutant (Marvel Comics)|mutant]] slavery possible.
+
+==Fictional character biography==
+Little is known about David Moreau's early childhood. He became a scientist and a patriot who wanted to strengthen his nation of Genosha. The [[Sugar Man]] offered him an opportunity to do so: The Sugar Man had come from an [[alternate timeline]], known as the [[Age of Apocalypse]] and had obtained technology invented by his reality's [[Mister Sinister]]. Using this technology, David Moreau created the ''mutate-process'': all inhabitants of Genosha were tested at their 13th birthday for any presence of the ''[[Mutant (Marvel Comics)|X-factor gene]]''. If they tested positive, they were turned into ''mutates'': their memories were erased and their personality changed to become completely obedient, they were sealed in special suits and their powers were genetically changed to serve the needs of their country. At this time, Moreau became known as the Genegineer (a [[portmanteau]] of "Genetic Engineer").<ref>''Uncanny X-Men'' #236</ref>
+
+Dr. Moreau was even willing to turn his son's girlfriend, Jennifer Ransome, into a mutate when she tested positive. [[Zealot (Marvel Comics)|Philip Moreau]] fled the country with Jennifer and would oppose Genosha's policies from abroad. The Genoshan enforcers known as the Magistrates and the privileged mutants known as the Press Gang were sent after them. They captured Jennifer and her friend [[Madelyne Pryor]], not knowing that Madelyne's friends were the [[X-Men]]. Moreau turned Jennifer into a mutate, altering her latent mutant power of cellular manipulation, and investigated Madelyne, who turned out to be not quite human, but not a mutant either. Madelyne's latent powers killed all the Magistrates investigating her and mentally attacked a representation of David Moreau himself. Shortly afterwards, Madelyne and Jennifer were saved by the X-Men and Phillip Moreau and they left Genosha. This was only the beginning of many conflicts between the X-Men and the Genoshan government, who felt that they also had jurisdiction outside Genosha's borders.{{Issue|date=April 2010}}
+
+In their war with the X-Men and their allies, the Genoshans allied themselves with [[Cameron Hodge]] and his [[Right (comics)|RIGHT]] organisation, an anti-mutant hate group. The insane Hodge kidnapped [[Storm (Marvel Comics)|Storm]] and several [[New Mutants]] and wanted Moreau to help him absorb the techno-organic virus from the New Mutant [[Warlock (comics)|Warlock]] so he could change his monstrous [[cybernetic]] form into a more human form. Moreau despised Hodge, who wanted Genosha to conquer the world and wipe out all mutants, while Moreau only was interested in Genosha's safety. Moreau assisted the X-Men in defeating Hodge, but he was killed by Hodge, who broke his neck.<ref>''Uncanny X-Men'' #272</ref>
+
+Dr. '''Sasha Ryan''' would take his place as Genegineer, but by then the Genoshan government had been overthrown and the practice of turning mutants into mutates abolished.{{Issue|date=April 2010}}
+
+==Trivia==
+* The character's name is an [[Homage (arts)|homage]] to the title character of [[H. G. Wells|H.G. Wells]]' science-fiction novel ''[[The Island of Doctor Moreau]]''.{{Citation needed|date=April 2010}}
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://marvel.wikia.com/David_Moreau_%28Earth-616%29 David Moreau] at Marvel Wiki
+* [http://www.comicvine.com/genegineer-david-moreau/4005-28470/ David Moreau] at Comic Vine
+
+{{X-Men}}
+
+{{DEFAULTSORT:Moreau, David}}
+[[Category:Characters created by Chris Claremont]]
+[[Category:Comics characters introduced in 1988]]
+[[Category:Fictional geneticists]]
+[[Category:Fictional scientists]]
+[[Category:Genoshans]]
+[[Category:Marvel Comics supervillains]]

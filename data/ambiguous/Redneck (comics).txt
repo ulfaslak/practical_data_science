@@ -1,0 +1,44 @@
+{{Superherobox| <!--Wikipedia:WikiProject Comics-->
+image=[[Image:Skybolt1.jpg|250px]]
+|caption=Skybolt.<br>Art by [[Paco Medina]].
+|character_name=Redneck
+|real_name=Vincent "Vin" Stewart
+|species=
+|publisher=[[Marvel Comics]]
+|debut=''New X-Men'' vol. 1 #126
+|creators=[[Grant Morrison]]<br>[[Frank Quitely]]
+|alliances=[[New Warriors]]<br>[[Xavier Institute student body|Xavier Institute]]<br>[[Omega Gang]]
+|aliases=Skybolt
+|powers=Uses weaponry and flight pack derived from the designs of [[Beetle (comics)|the Beetle]]<br>Depowered, formerly:<br>Heat generation
+|}}
+'''Vincent Stewart''', codenamed '''Redneck''' and later '''Skybolt''' is a fictional [[Mutant (Marvel Comics)|mutant]] character in the [[Marvel Comics]] Universe.
+
+==Publication history==
+His first appearance was in ''New X-Men #126'' by [[Grant Morrison]] and [[Frank Quitely]].
+
+==Fictional character biography==
+Vincent Stewart, the young mutant called Redneck, was a student of the [[X-Mansion|Xavier Institute]]. He came from a large family in [[Arkansas]], experienced first-hand violence against mutants and became friends with fellow student [[Radian (comics)|Radian]]. Redneck was ready to fight [[Cassandra Nova]] as she made her second assault. Instead, Redneck became mentally controlled by Nova and was forced to fight the [[X-Men]] on her behalf. Redneck and the other students were freed soon after by the [[Stepford Cuckoos]].{{Issue|date=August 2011}}
+
+Sometime after, Redneck joined [[Quentin Quire]], also known as Kid Omega, and his group. This small team of mutants was dubbed the Omega Gang. As the Omega Gang later attacked a small group of humans to avenge the mutant fashion designer Jumbo Carnation, Redneck used his powers to burn one of the humans.{{Issue|date=August 2011}}
+
+When Kid Omega and his gang started a riot at the Xavier Institute, Redneck was stopped by [[Cyclops (Marvel Comics)|Cyclops]], whose optic blasts broke his nose. As his punishment for his involvement in the riot, Redneck was sent to a prison run by humans. As informed by Wolverine, once his sentence would be up, he would be sent overseas to do charity work. He was later questioned about the drug Kick by Bishop. Redneck lost his mutant powers after the event called [[Decimation (comics)|M-Day]].{{Issue|date=August 2011}}
+
+He would later be offered membership in the newest incarnation of the [[New Warriors]]. After being given a flight suit and new technological weaponry based on the designs of [[Beetle (comics)|the Beetle]] and the [[Turbo (comics)|Turbo suit]]<ref>As revealed within ''New Warriors'' vol. 4 #6 and 7</ref> to replace his lost powers he adopted the codename Skybolt, and began training with the team, which included his former Omega Gang teammate [[Tattoo (comics)|Tattoo]], now using the code-name Longstrike. However, on one of the team's first missions out to stop the [[Zodiac (comics)|Zodiac]], Longstrike got too cocky when fighting Cancer, and was brutally killed in front of the rest of the team. Vin didn't seem too saddened by Christine's death, even criticizing her work ethic in front of her brother shortly after her death. Although callous and harsh, he shows a commitment to the New Warriors and their cause.<ref>Marvel News: New Warriors: Out With the Old Pt. 2 [http://marvel.com/news/comics.2008.New_Warriors%3A_Out_with_the_Old_Pt%7Edot%7E_2]</ref> He was later killed along with [[Stacy X|Ripcord]].<ref>''New Warriors'' vol. 4 #16</ref>
+
+==Powers and abilities==
+Using a suit and weapons derived from technology used by the [[Beetle (comics)|Beetle]] and [[Turbo (comics)|Turbo]], Skybolt can fly and fire an array of both lethal and non-lethal projectiles from his wrist-mounted gauntlets. He is also armored in an [[osmium]] alloy, making him durable enough to act as a human battering ram.
+
+Before losing his mutant powers, Redneck had the superhuman ability to generate intense heat from his hands.
+
+==References==
+{{reflist}}
+
+{{Grant Morrison}}
+
+[[Category:Characters created by Frank Quitely]]
+[[Category:Characters created by Grant Morrison]]
+[[Category:Fictional characters from Arkansas]]
+[[Category:Fictional characters with fire or heat abilities]]
+[[Category:Marvel Comics mutants]]
+[[Category:Marvel Comics superheroes]]
+[[Category:Marvel Comics supervillains]]

@@ -1,0 +1,80 @@
+{{short description|Marvel villain}}
+{{lead too short|date=January 2016}}
+{{Infobox comics elements| <!--Wikipedia:WikiProject Comics--> 
+|image=MSH-13.jpg
+|image_size=250
+|caption='''Sentry-459''' battles the hero [[Captain Marvel (Mar-Vell)|Mar-Vell]] on the cover of ''Marvel Super-Heroes'' vol. 1, #13. (Mar 1968) Art by [[Gene Colan]].
+|name=Sentry
+|real_name=
+|type=Robot
+|publisher=[[Marvel Comics]]
+|debut=''[[Fantastic Four (comic book)|Fantastic Four]]'' vol. 1, #64 (Jul 1967)
+|creators=[[Stan Lee]] (writer)<br>[[Jack Kirby]] (artist)
+|supports=[[Kree]]
+|weapon=y
+|aliases=
+|sortkey=Sentry (Kree)
+|powers=Super Strength and durability<br>Magnetism<br>Energy Projection
+|subcat=Marvel Comics
+}}
+'''Sentry''' is a [[character (arts)|fictional character]] appearing in [[American comic book]]s published by [[Marvel Comics]]. The character was created by [[Stan Lee]] and [[Jack Kirby]] in July 1967. It is one of series of giant humanoid robots called Kree Sentries built by the [[Kree]]. The Sentry has also appeared in animated adaptations.
+
+==Publication history==
+{{expand section|date=September 2016}}
+The Kree Sentries first appeared in ''[[Fantastic Four (comic book)|Fantastic Four]]'' vol. 1, #64 (Jul 1967) and was created by [[Stan Lee]] and [[Jack Kirby]].
+
+==Fictional character biography==
+===Sentry-459===
+The Sentries' main purpose is to stand guard over military outposts and depots throughout the Kree Empire. Sentry-459 accompanied a Kree scientific party that journeyed to Earth to experiment on sub-humans (which in turn created the race the [[Inhumans]]). When the Kree left Earth, Sentry 459 remained to monitor Inhuman progress, so that the Kree could later use them as a militia force. Sentry-459 remained inert but observing until activated by the superheroes the [[Fantastic Four]], who fought it to a standstill. Considering itself defeated when the Fantastic Four escaped, the Sentry sent a signal to the Kree alerting them to the presence of meta-humans on Earth and then deactivated itself (the Kree [[Ronan the Accuser]] investigates the signal and battles the Fantastic Four soon after).<ref>''Fantastic Four'' vol. 1 #64 - 65. Marvel Comics.</ref>
+
+The Sentry is then transported by the U.S. Army to [[Cape Canaveral]], where it is reactivated by the Kree Colonel [[Yon-Rogg]], the leader of the Kree expedition now investigating Earth. Yon-Rogg hopes the Sentry will kill the hero [[Captain Marvel (Mar-Vell)|Captain Marvel]], another member of expedition. Mar-Vell, however, manages to defeat it.<ref>''Marvel Super-Heroes'' vol. 1 #13 (Mar 1968). Marvel Comics.</ref>
+
+[[Ronan the Accuser]] later reactivates the Sentry and uses it in an attempt to reverse the course of evolution on Earth, but it is once again defeated by Mar-Vell.<ref>''Captain Marvel'' vol. 1 #47 - 49. Marvel Comics.</ref> The Kree agents attempt to retrieve the Sentry but are driven off by spy agency [[S.H.I.E.L.D.]]. The Sentry is seen again when activated by the [[Super-Adaptoid]], who uses the robot as part of his team [[Heavy Metal (Marvel Comics)|Heavy Metal]] in a bid to destroy the superhero team the [[Avengers (comics)|Avengers]].<ref>''Avengers'' vol. 1 #286 - 290. Marvel Comics.</ref> It returned in the ''[[Blackwulf]]'' series, having been found by [[Ultron]],<ref>as seen in the back-up story in ''Blackwulf'' #3. Marvel Comics.</ref> and joins the Underground Legion<ref>''Blackwulf'' #6</ref> but is eventually destroyed in the series finale.<ref>''Blackwulf'' #10. Marvel Comics.</ref><ref>{{Marvunapp|http://www.marvunapp.com/Appendix/sentry459.htm|Sentry #459}}</ref>
+
+===Other Kree Sentries===
+Sentry-459 is not the only Kree Sentry of the Kree Empire. The following are also Kree Sentries:
+
+====Sentry-9168====
+Another Sentry - designated 9168 - was encountered by the Fantastic Four on the Moon. Only six feet tall, this Sentry was programmed to prevent any space travelers from Earth from finding the remains of a hidden Kree city in the Blue Area of the Moon. The Fantastic Four battle and destroy the Sentry via a remote destruct mechanism.<ref>''Fantastic Four'' vol. 1 #98. Marvel Comics.</ref>
+
+====Sentry-213====
+This {{convert|30|ft|m|adj=on}} tall Sentry was stationed in an unmanned supply depot/surveillance post on the planet [[Uranian (comics)|Uranus]]. It was destroyed by a group of [[Eternals (comics)|Eternals]] led by [[Uranos (comics)|Uranos]], sparking a war with the Kree.<ref>''What If'' vol. 1 #26 (Apr 1981). Marvel Comics.</ref>
+
+====Sentry-372====
+This Sentry only appears once, and battles several members of the [[Imperial Guard (comics)|Shi'ar Imperial Guard]] before being damaged by the [[West Coast Avengers]]. The Sentry then self-destructs and destroys the outpost it was guarding.<ref>''Avengers West Coast'' #80 (1994). Marvel Comics.</ref>
+
+====Sentry-571====
+This version aided the Kree when their "Lunatic Legion" attacked Earth. It was defeated by [[Iron Man]].<ref>''Iron Man'' vol. 3 #7. Marvel Comics.</ref>
+
+== Powers and abilities ==
+Being a robot created by the Kree, the Sentry has Super Strength and durability, Magnetism and Energy Projection
+
+==In other media==
+===Television===
+* The Sentry-213 version of the Kree Sentry appears in the ''[[Fantastic Four (1994 TV series)|Fantastic Four]]'' episode "The Sentry Sinister", voiced by [[Mark Hamill]].<ref>https://www.behindthevoiceactors.com/tv-shows/Fantastic-Four-1994/Sentry-213/</ref>
+* Sentries appeared in the ''[[Fantastic Four: World's Greatest Heroes]]'' episode "Trial by Fire".{{citation needed|date=January 2018}} [[Ronan the Accuser]] accused Johnny Storm of destroying several Sentries.
+* The Kree Sentries appear in ''[[The Avengers: Earth's Mightiest Heroes]]'' episode "459".{{citation needed|date=January 2018}}
+* The Kree Sentries appear in the ''[[Avengers Assemble (TV series)|Avengers Assemble]]'' episode "Captain Marvel."{{citation needed|date=January 2018}} They are used by the Kree soldiers led by Galen-Kor in their plan to capture the recently emerged [[Inhumans]] and a bonus mission to capture [[Carol Danvers|Captain Marvel]].
+
+===Video games===
+* A Kree Sentry appears as an assist character in the 1995 arcade game ''[[Avengers in Galactic Storm]]''.{{citation needed|date=January 2018}}
+* Kree Sentries are enemies in ''[[Marvel: Avengers Alliance#Marvel: Avengers Alliance Tactics|Marvel: Avengers Alliance Tactics]]''.{{citation needed|date=January 2018}}
+* A Kree Sentry appears in ''[[Marvel: Avengers Alliance#Marvel: Avengers Alliance 2|Marvel: Avengers Alliance 2]]''.<ref>https://marvelavengersalliance2.com/aa2_characters/kree-sentry/</ref>
+* Sentry-459 appears in ''[[Lego Marvel Super Heroes 2]]''.<ref>{{cite web|title=Inhuman Nature|url=http://www.ign.com/wikis/lego-marvel-super-heroes-2/Inhuman_Nature|website=IGN Database|accessdate=24 January 2018}}</ref> It serves as a line of defense where [[Black Bolt]] and [[Medusa (comics)|Medusa]] fight it into order to get into the Attilan Royal Palace during [[Maximus (comics)|Maximus]]' allegiance with the [[Kree]] to take down [[Kang the Conqueror]]. Black Bolt and Medusa managed to defeat Sentry-459. In a bonus mission narrated by [[Gwenpool]], [[Morgan le Fay (Marvel Comics)|Morgan le Fay]] summons Sentry-459 to help her defeat [[King Arthur (Marvel Comics)|King Arthur]] and [[Merlin (Marvel Comics)|Merlin]] in the basement of Garret Castle. Sentry-459 is defeated by King Arthur and Merlin.<ref>{{cite web|title=Dude, Where's My Dragon?|url=http://www.ign.com/wikis/lego-marvel-super-heroes-2/Dude,_Where%27s_my_Dragon|website=IGN Database|accessdate=24 January 2018}}</ref>
+
+==References==
+{{Reflist}}
+
+==External links==
+* {{Marvunapp|http://www.marvunapp.com/Appendix4/sentry372.htm|Sentry 372}}
+* {{Marvunapp|http://www.marvunapp.com/Appendix/sentry459.htm|Sentry 459}}
+
+{{Captain Marvel (Marvel Comics)}}
+{{Jack Kirby}}
+{{Stan Lee}}
+
+[[Category:Characters created by Jack Kirby]]
+[[Category:Characters created by Stan Lee]]
+[[Category:Comics characters introduced in 1967]]
+[[Category:Marvel Comics robots]]
+[[Category:Marvel Comics supervillains]]

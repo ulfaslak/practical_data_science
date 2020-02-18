@@ -1,0 +1,59 @@
+{{Infobox comics character
+<!--Wikipedia:WikiProject Comics-->
+| character_name = Cheshire Cat
+| image          = <!-- filename format only -->
+| imagesize      = <!-- default 250 -->
+| caption        = 
+| publisher      = [[Marvel Comics]]
+| debut          = ''[[Luke Cage|Power Man]]'' #37 (November 1976)
+| creators       = [[Marv Wolfman]]<br>[[Ron Wilson (comics)|Ron Wilson]]<br>[[Ed Hannigan]]
+| full_name      = 
+| species        = 
+| homeworld      = <!-- optional -->
+| aliases        = Cheshire
+| alliances      = Flashmob 
+| powers         = Invisibility<br>Intangibility<br>Teleportation
+| cat            = 
+| subcat         = 
+| hero           = 
+| villain        = y
+| sortkey        = 
+| addcharcat#    = 
+}}
+'''Cheshire Cat''' is a fictional supervillain appearing in [[American comic book]]s published by [[Marvel Comics]].
+
+==Publication history==
+Cheshire Cat first appeared in ''[[Luke Cage|Power Man]]'' #37 and was created by [[Marv Wolfman]], [[Ron Wilson (comics)|Ron Wilson]], and [[Ed Hannigan]].
+
+==Fictional character biography==
+A crime lord called Big Brother summoned Cheshire Cat over from Los Angeles to help him against a rival crime lord called Baron.<ref name="Power Man #38">''Power Man'' #38</ref> Working as an [[informant]], he told Big Brother where [[Luke Cage|Power Man]] could be found.<ref>''Power Man'' #37</ref>
+
+Cheshire Cat followed Luke Cage and informed Big Brother that he survived his fight with [[Chemistro]] II, which was being witnessed by Baron's henchman Checkpoint Charlie. Power Man later stormed Big Brother's hideout, where he confronted Big Brother and Cheshire Cat.<ref name="Power Man #38"/>
+
+Cheshire Cat watched Power Man and Big Brother's fight while also being present when Big Brother told Power Man about Baron. After Power Man left, Cheshire Cat and Big Brother discuss their plans to have Power Man destroy Baron. Cheshire Cat then disappeared where he wants his revenge on Power Man. After Cheshire Cat teleported back to Big Brother and told him about Power Man's meeting with Baron, Big Brother gave Cheshire Cat the orders to kill Power Man.<ref>''Power Man'' #39</ref>
+
+While invisible, Cheshire Cat watched as Power Man smashed up Big Brother's control room and then reported it to Big Brother. Much later, Cheshire Cat was with Big Brother in his helicopter when Power Man was tied up on the train that was under Big Brother's control. After the train crashed, Big Brother and Cheshire Cat rode their helicopter down to the wreckage to see if Power Man is dead. Power Man fought Big Brother as Cheshire Cat watched as the helicopter crashed to the ground and exploded.<ref>''Power Man'' #40</ref>
+
+During the ''[[Shadowland (comics)|Shadowland]]'' storyline, Cheshire Cat resurfaced where he appears as a member of [[Nightshade (Marvel Comics)|Nightshade]]'s Flashmob (which also consisted of Chemistro III, [[Comanche (comics)|Comanche]], [[Dontrell Hamilton]], [[Mr. Fish]] II, and [[Spear (comics)|Spear]]) where they attacked [[Power Man (Victor Alvarez)|Victor Alvarez]] on the rooftop. When Cheshire Cat disappeared to evade Victor Alvarez' attack, Cheshire Cat was quickly knocked out by [[Iron Fist (comics)|Iron Fist]] when he and Luke Cage arrived. The Flashmob was remanded to Ryker's Island. Nightshade's solicitor [[Big Ben Donovan]] was able to secure the release of Dontrell Hamilton, Mr. Fish II, and Spear while Cheshire Cat, Chemistro II, and Comanche had to remain in prison due to their warrants and/or parole violations.<ref>''Shadowland: Power Man'' #2</ref>
+
+During the ''[[Spider-Island]]'' storyline, Cheshire Cat was with Flashmob when they tried to leave Manhattan during the spider outbreak and was defeated by [[Heroes for Hire]].<ref>''Spider-Island: Heroes for Hire'' #1</ref>
+
+==Powers and abilities==
+Cheshire Cat has the ability to become invisible and intangible. He can also teleport with his arrival being a secret due to his invisibility.
+
+==References==
+{{reflist}}
+
+==External links==
+* [https://marvel.fandom.com/wiki/Cheshire_%28Earth-616%29 Cheshire Cat] at Marvel Wiki
+* [http://comicvine.gamespot.com/cheshire/4005-73468/ Cheshire Cat] at Comic Vine
+* [http://www.marvunapp.com/Appendix5/cheshirecatpm.htm Cheshire Cat] at Marvel Appendix
+
+{{Luke Cage}}
+
+[[Category:Marvel Comics supervillains]]
+[[Category:Comics characters introduced in 1976]]
+[[Category:Fictional henchmen]]
+[[Category:Fictional gangsters]]
+[[Category:Fictional characters who can turn invisible]]
+[[Category:Fictional characters who can teleport]]

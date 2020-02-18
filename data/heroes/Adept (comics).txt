@@ -1,0 +1,46 @@
+{{Superherobox| <!--Wikipedia:WikiProject Comics-->
+|image=Adept Morituri.jpg
+|converted=y
+|caption='''Adept''' <br> Art by [[Brent Anderson]]
+|character_name='''Adept'''
+|real_name=Jelene Anderson
+|publisher=[[Marvel Comics]]
+|debut= ''Strikeforce Morituri'' #1 (December 1986)
+|creators=[[Peter B. Gillis]]<br> [[Brent Anderson]]
+|alliances=[[Strikeforce: Morituri]]
+|powers=Hyper-invention/ hyper-intelligence <br> Chemical mimicry/ creation <br> Enhanced strength
+|}}
+
+'''Adept''' ('''Jelene Anderson''') is a [[Character (arts)|fictional character]], a superhero appearing in [[American comic book]]s published by [[Marvel Comics]]. The character is usually depicted as member of the [[Strikeforce: Morituri]]. The character was created by [[Peter B. Gillis]] and [[Brent Anderson]].
+
+==Publication history==
+Adept (Jelene Anderson) was created by writer [[Peter B. Gillis]] and artist [[Brent Anderson]] and debuted in ''Strikeforce: Morituri'' #1 (December 1986). The codename "Adept" was introduced in issue #2. Adept remained in the regular cast of the book until her death in ''Strikeforce: Morituri'' #13.
+
+The character is distinct through the series as having a very strong religious feeling. Together with [[Blackthorn (comics)|Blackthorn]], Adept was one of the favorite characters of series creator Gillis: "I had a real soft spot for Adept, since she was the first fundamentalist Christian character to be portrayed positively for as long as I can remember". Gillis himself defines himself as “about as non-fundamentalist-Christian as you can get". Commenting further on the character, Gillis has mentioned that "she really was wonderful, if not easy to write. And I think her death came off beautifully".<ref>[http://magazine.uchicago.edu/0412/alumni/hero.shtml ''The University of Chicago Magazine, Volume 97, Number 2, December 2004'']</ref>
+
+==Fictional character biography==
+Jelene Anderson was a devout Christian who led a peaceful life. However, in 2073, after being tested and found eligible to undergo the elite Morituri process, Anderson felt it was her obligation to defend her planet, Earth, being one of the chosen ones. The Morituri process basically conferred superhuman abilities to mere humans, to be used as superpowered soldiers on Earth's ongoing war against the savage alien invaders collectively known as the Horde. However, the powers came at a terrible price: all recipients invariably died within a year of being empowered, due to a fatal flaw inherent in the scientific process, which made it incompatible with the human organism in the long run.
+
+Undaunted, the always stoic Anderson went on with the process, being one of the first official generation of [[Strikeforce: Morituri]] volunteers.<ref>''Strikeforce: Morituri'' #1</ref> Later, she and her teammates were all sent to the Biowar Facility Alpha (nicknamed "the Garden"), a booby-trapped artificial environment which could help the team manifest their superhuman powers under extreme pressure, instead of wasting precious time. During the test, however, Anderson nearly died when she was trapped in a cage and attacked by venomous snakes. Eventually, within a few minutes, Anderson manifested the ability to analyze every situation and produce the right measures that could counteract it. She managed to chemically produce the antidote for the snakes' poison and also devised a counteractive mechanism that freed her from the cage. When the team were later making up their battlefield codenames, Anderson could not find one that would reflect her abilities in a satisfactory manner. Eventually, teammate [[Blackthorn  (comics)|Blackthorn]] gave her the anonym "Adept".<ref>''Strikeforce: Morituri'' #2</ref>
+
+Adept proved extremely useful in battle, even though she always needed some time before she could produce the solution/counteractive measure to a situation. Later, when the Horde infected a small American city with a living organism, which caused extended skin growth on humans, covering their eyes and nose and causing asphyxia, the team was sent to address the situation. Adept herself was infected by one of the creatures. However, Blackthorn managed to keep her alive and eventually Adept managed to chemically produce the antidote to the infection, preventing further deaths in the city.<ref>''Strikeforce: Morituri'' #5</ref>
+
+Over time, Adept grew close to her teammate, Marathon, and began forming a special bond with him, although they never spelled out any feelings they possibly had. Sometime later, the team managed to infiltrate a Horde mothership, in the Horde fleet in orbit. Adept came upon a storage room filled with artifacts stolen by the Horde during their various raids against other civilizations in the universe. Adept catalogued several of the artifacts and their respective data in her mind, to further process them upon returning to Earth. The team then escaped, making their way to Earth.<ref>''Strikeforce: Morituri'' #6-7</ref>
+
+===Confinement===
+Upon returning to Earth, Adept presented some of her data to her employers, members of the council of the Paedia World Government. The officials were impressed with the volume of invaluable information she had accumulated from the Horde ship, which could potentially prove a decisive factor in the victory of Earth against the Horde in the future. Deeming her too important to be wasted in battle before analyzing exhaustively all the data, they ordered her to remain confine in her chambers and dedicate solely to the analysis of the data, forbidding her from participating in battles anymore. Adept was understandably vexed.<ref>''Strikeforce: Morituri'' #8</ref>
+
+Adept spent several hours trying to decipher the data she had collected, although it proved to be a long and difficult process, especially because she did not have the actual artifacts in front of her, meaning that much of the data made no sense by themselves. However, she did unlock the secrets of several artifacts, including the creation of special flight boots, which were immediately designed and enabled all Morituri to fly. Later, the Morituri, indignant at how she was kept confined in a room, her short lifespan being wasted in such a manner, convinced their commander, Beth Luis Nion, to allow her out of her study for a while, so that she could meet the new Morituri. Adept got acquainted with the new additions to the team, even though she was slightly bemused and felt awkward due to the [[New Age]] beliefs of [[Scaredycat]]. Later, going against the orders of Commander Nion, the team again broke Adept out of her confinement and took her along with them to participate in a battle against the Horde.<ref>''Strikeforce: Morituri'' #9</ref>
+
+===Death===
+Sometime later, [[Radian (Morituri)|Radian]] took the initiative and led the team on a rescue mission of their dead leader's, [[Vyking|Vyking's]] parents, who were held captive by the Horde, after the latter attacked a cruise ship in the middle of the ocean. After commandeering a Horde ship, Radian appeared to negotiate with the Horde, promising to deliver the team to them. The Morituri lashed out at him, perceiving him as a traitor.<ref>''Strikeforce: Morituri'' #11</ref> Eventually, though, Radian drove the commandeered ship away in space and claimed that he had done everything so that Adept could come in contact with the Horde's artifacts again and analyze them properly and efficiently.  The plan worked and the team raided another Horde mothership. While inside, Adept startled everyone when she revealed that Blackthorn was pregnant, a fact she perceived when she briefly touched her.
+
+Eventually, the team members split, fighting the Hordians inside the ship, while [[Scatterbrain (Morituri)|Scatterbrain]] stayed with Adept, to protect her in case of a Hordian's attack, so that she could analyze and process the data from the artifacts, inside the storage room, without any distractions. After a series of fights, Marathon decided to stay behind, sacrificing himself by unleashing his deadly Morituri effect and shattering the entire mothership through the explosion. Devastated, Adept bid her farewells to him and fled the ship with the rest of the Morituri. Adept was mindlinked with Marathon on the moment of his death.<ref>''Strikeforce: Morituri'' #12</ref>
+
+En route back to Earth, Adept's powers kicked into overdrive and she began randomly releasing technical information about the Horde's artifacts, now apparently locked into trance, exhibiting a notable upsurge in power, and possibly manifesting cosmic awareness. Adept briefly reclaimed her clarity, only to declare that she was content to go and thankful to God for all the wonderful things she had seen. The team audiotaped all of her analyses until she died due to the deadly Morituri effect. After the team reached Earth, her teammate, Blackthorn wanted to see her off one last time, however, she was informed that Adept's body had already been taken away for autopsy.<ref>''Strikeforce: Morituri'' #13</ref>
+
+==References==
+{{reflist}}
+
+[[Category:Comics characters introduced in 1986]]
+[[Category:Marvel Comics superheroes]]

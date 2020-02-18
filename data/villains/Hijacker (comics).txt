@@ -1,0 +1,49 @@
+'''Hijacker''' is the name of two [[Fictional character|fictional]] characters appearing in [[American comic book]]s published by [[Marvel Comics]].
+
+The two Hijackers were gimmick-laden villains who specialized in stealing technology for later resale in criminal auctions.
+
+==Publication history==
+The first Hijacker first appeared in ''[[Tales to Astonish]]'' #40 (February 1963), and was created by [[Stan Lee]], [[Larry Lieber]] and [[Jack Kirby]]. The character subsequently appears in ''Marvel Two-In-One'' #24 (February 1976), #96 (February 1983), and ''Captain America'' #319 (July 1986), in which he was killed by the [[Scourge of the Underworld]].
+
+==Fictional character biography==
+===Howard Mitchell===
+{{Infobox comics character <!--Wikipedia:WikiProject Comics--> 
+|image=
+|caption=
+|character_name=Hijacker
+|real_name=Howard Mitchell
+|species=
+|publisher=[[Marvel Comics]]
+|debut=''[[Tales to Astonish]]'' #40 (Feb 1963)
+|creators=[[Stan Lee]]<br>[[Larry Lieber]]<br>[[Jack Kirby]]
+|alliances=
+|aliases=
+|powers=
+}}Originally the owner of an armored car company, Mitchell adopted the masked alias of Hijacker to steal the cargo his cars were transporting and thus mend the financial difficulties of his firm. He was first defeated by [[Hank Pym|Ant-Man]],<ref>''Tales to Astonish'' #40</ref> and later by [[Bill Foster (comics)|Black Goliath]] and the [[Thing (comics)|Thing]].<ref>''Marvel Two-In-One'' #24</ref>  He was good at last-moment "rabbit out of the hat" tricks that no one expected. He returned for vengeance on the Thing after the hero was hospitalized. He used a tank similar in appearance to his last one, but it was not as durable and [[Iron Man]] made quick work of it.<ref>''Marvel Two-In-One'' #96</ref>
+
+Hijacker attended the "Bar With No Name" massacre. Without his gimmicks and protection, he proved easy prey for the [[Scourge of the Underworld]].<ref>{{cite comic|writer = [[Mark Gruenwald]]|penciller = [[Paul Neary]]|inker = [[Dennis Janke]]|story = Overkill|title = [[Captain America]]|volume = 1|issue = 319|date = July 1986|publisher = Marvel Comics}}</ref>
+
+During the ''[[Dark Reign (comics)|Dark Reign]]'' storyline, Hijacker was later among the eighteen criminals, all murdered by the Scourge, to be resurrected by [[Hood (comics)|Hood]] using the power of [[Dormammu]] as part of a squad assembled to eliminate the [[Punisher]].<ref>''Punisher'' vol. 7 #5</ref> He carries over a dozen different kinds of gases in his backpack, and has his giant impenetrable tank.<ref>http://www.comicbookresources.com/news/preview2.php?image=previews/marvelcomics/punisher/villains/PunisherVillains-6.jpg</ref> Hijacker chases the Punisher in his tank, but the Punisher escapes by using Pym particles to shrink down and get into the tank; after taking control of the tank, Punisher crashes it into the building where [[Basilisk (comics)|Basilisk]] was holding [[G. W. Bridge|G.W. Bridge]] and uses the gases on Basilisk.<ref>''Punisher'' vol. 7 #9</ref>
+
+In the cleanup following the ''[[Spider-Island]]'' storyline, he attempted an opportunistic bank heist, but was noticed and pursued by [[Flash Thompson|Venom]]. During the chase, he accidentally ran over a mother and her child causing Flash to lose his temper and bites Hijacker's head off.<ref>''Venom'' (2011) #9</ref>
+
+===Mercenary===
+The second Hijacker is an unnamed mercenary who took on the mantle when he bought vehicle-upgrading nanites from [[Overdrive (comics)|Overdrive]]. He was one of the numerous henchmen available through [[Power Broker]] II's Hench App. His first job came when [[Slug (comics)|Slug]] hired him through the app in order to steal a [[Giganto]] egg from a [[S.H.I.E.L.D.]] cargo ship. While taking control of the S.H.I.E.L.D. cargo ship, Hijacker ended up in a fight against [[Falcon (comics)|Captain America]] and [[Ant-Man (Scott Lang)|Ant-Man]] where Hijacker was knocked out by Captain America.<ref>''Astonishing Ant-Man'' #3</ref> Ant-Man (Scott Lang) would later employ Hijacker's services as part of Ant-Man Security Solutions in an attempt to hack (and later combat) Darren Cross and his Cross Technological Enterprises.<ref>''Astonishing Ant-Man'' #7-11</ref> Hijacker parted ways with Lang when Ant-Man was arrested and his security company was shut down.<ref>''Astonishing Ant-Man'' #13</ref>
+
+==Equipment==
+The first Hijacker gained his abilities from his heavy body-suit, which provided the power for his weapons. His heavy, brown, reinforced fabric suit provided protection against physical, energy, heat, fire, and cold attacks. When sealed with his odd-looking helmet, Hijacker had his own 4-hour oxygen supply and was immune to gases. Hijacker's main weapon was a multifunction gun called a "Vario-Blaster," attached to the belt of his outfit by a cable. With his weapon, Hijacker could fire: "nuclear flame," knock-out nerve gas, damaging projectiles, "ionic blasts,", and an "activator beam" which activated any nearby machinery. Hijacker's "Crime-Tank" was a heavily armored fort on spiked treads. This mobile base was an off-road vehicle, and had electromagnets as weapons. This tank was destroyed by Thing and Black Goliath.<ref>''Marvel Two-In-One'' #24</ref>
+
+The second Hijacker bought special nanites from [[Overdrive (comics)|Overdrive]].
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://marvel.wikia.com/wiki/Howard_Mitchell_%28Earth-616%29 Hijacker] at Marvel Wiki
+* {{Marvunapp|http://www.marvunapp.com/Appendix/hijacker.htm|Hijacker}}
+
+{{Henry Pym}}
+
+[[Category:Comics characters introduced in 1963]]
+[[Category:Male characters in comics]]
+[[Category:Marvel Comics supervillains]]

@@ -1,0 +1,47 @@
+{{short description|Fictional comic book character}}
+{{Infobox comics character| <!--Wikipedia:WikiProject Comics--> 
+image=
+|caption=
+|character_name=Jackhammer
+|real_name=Matthew Banham
+|species=
+|publisher=[[Marvel Comics]]
+|debut=''[[Daredevil (Marvel Comics series)|Daredevil]]'' #123 (July 1975)
+|creators=[[Tony Isabella]]<br>[[Bob Brown (comics)|Bob Brown]]
+|alliances=[[Hydra (comics)|HYDRA]]<br/>[[Power Tools (comics)|Power Tools]]<br/>[[Masters of Evil]]
+|aliases=
+|powers=super-strength.
+}}
+'''Jackhammer''' ('''Matthew Banham'''){{Citation needed|date=March 2008}} is a fictional character appearing in [[American comic book]]s published by [[Marvel Comics]].
+
+==Publication history==
+Jackhammer was first mentioned as a [[Hydra (comics)|HYDRA]] leader in ''Daredevil'' #121; he first appeared in ''Daredevil'' #123 (July 1975) and was created by [[Tony Isabella]] and [[Bob Brown (comics)|Bob Brown]].
+
+The character subsequently appears in ''Captain America'' #371 (June 1990), #373-378 (July–October 1990), ''Guardians of the Galaxy'' #28-29 (September–October 1992), ''Captain America'' #412-414 (February–April 1993), ''Thunderbolts'' #24-25 (March–April 1999), and ''Union Jack'' #1-2 (November–December 2006).
+
+==Fictional character biography==
+Jackhammer is a costumed agent/division leader of [[Hydra (comics)|HYDRA]] when it was under the leadership of the crime lord [[Silvermane]]. When they arranged a kidnapping of [[Foggy Nelson]], [[Daredevil (Marvel Comics character)|Daredevil]], [[Black Widow (Natasha Romanova)|Black Widow]], and [[S.H.I.E.L.D.]] pursued them. Jackhammer was among those who fought Daredevil and was defeated.<ref>''Daredevil'' #123</ref>
+
+Jackhammer later left HYDRA and gained superhuman strength from a treatment at [[Power Broker]], Inc. and started a relationship with female wrestler [[Poundcakes]] whose rebuff threatened the first date of [[Captain America]] and [[Diamondback (Rachel Leighton)|Diamondback]]. [[Anaconda (comics)|Anaconda]] and [[Asp (comics)|Asp]] rendered Jackhammer and Poundcake unconscious.<ref>''Captain America'' #371</ref>
+
+Dr. [[Karl Malus]] of Power Broker, Inc. formed Power Tools with Jackhammer and other villains in their plot to capture [[Battlestar (comics)|Battlestar]] and other characters when they de-powered them. He was among the villains that fought Captain America.<ref>''Captain America'' #373-378</ref>
+
+Jackhammer left Power Tools once when there was an occasion that [[Doctor Octopus]] recruited him to join his incarnation of the [[Masters of Evil]] during the ''[[The Infinity War|Infinity War]]''. He was among the villains that turned on Doctor Octopus causing him to take flight.<ref>''Guardians of the Galaxy'' #28-29</ref>
+
+He would participate in an attack on the Thames Tunnel, threatening many civilians inside. He was swiftly defeated by the superhero [[Union Jack (comics)|Union Jack]].<ref>''Union Jack'' #1-2 (November–December 2006)</ref>
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://www.marvel.com/universe/Jackhammer Jackhammer] at Marvel.com
+* {{Marvunapp|http://www.marvunapp.com/Appendix/jackhammerpt.htm|Jackhammer}}
+
+{{DEFAULTSORT:Jackhammer (Comics)}}
+[[Category:Comics characters introduced in 1975]]
+[[Category:Fictional engineers]]
+[[Category:Fictional mercenaries]]
+[[Category:Hydra agents]]
+[[Category:Marvel Comics characters with superhuman strength]]
+[[Category:Marvel Comics mutates]]
+[[Category:Marvel Comics supervillains]]

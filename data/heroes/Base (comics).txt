@@ -1,0 +1,50 @@
+{{Infobox comics character
+| character_name = Base
+| image = Base-HiroSokuto.gif
+| caption = Base from the pages of ''Genetix''
+| real_name = Hiro Sokuto
+| species = [[Mutant (Marvel comics)|Human Mutant]]
+| publisher = [[Marvel Comics]]
+| debut = ''Genetix'' #1
+| creators =
+| alliances = [[Genetix (comics)|Genetix]]
+| aliases =
+| powers = Control over the four elements, superhuman strength.
+}}
+
+'''Base''' ('''Hiro Sokuto''') is a [[fictional character]], a [[Mutant (Marvel comics)|mutant]] appearing in [[American comic book]]s published by [[Marvel Comics]]. His first appearance was in ''Genetix'' #1.
+
+==Fictional character biography==
+Hiro Sokuto was a mutant born in [[Hiroshima]], [[Japan]], whose powers surfaced at an early age. His father sold Base and his brother Tattoo of Tektos to the [[Yakuza]] to act as drug runners, but they were eventually captured by Dr. [[Oonagh Mullarkey]]'s Mutagenic Search Squad.
+
+His memories were rewritten so that he believed he had been an orphan brought up by a secretive group of warrior priests known as the Hikari-No-Michi, which means the Path of Light, and that he had been advancing under their training, but had to flee when his powers went out of control and he accidentally destroyed the temple. He was also conditioned to believe that Mullarkey found him, befriended him, and helped him control his powers.
+
+Mullarkey sent the newly created Genetix after [[Killpower]] when he was sent through time.<ref>''Killpower: the Early Years'' #1-4</ref>
+
+The Genetix were still working as agents of Gena-Sys under Dr. Mullarkey when they battled the organism Sporr. They learned of Mullarkey's true nature and goals and their false memory implants, and broke free of [[Mys-Tech]] and struck out on their own.<ref>''Codename: Genetix'' #1-4</ref>
+
+A Mys-Tech spy named Panther planted false evidence that sent the [[Gene Dogs]] after Genetix; after a battle, they teamed up to battle one of Mys-Tech's monstrous mutates.<ref>''Gene Dogs'' #2</ref>
+
+Genetix invaded Gena-Sys to learn their true origins, which brought them into conflict with the Psycho-Warriors and Tektos. They destroyed the Swiss base of the Psight Corporation, and uncovered the past history files of the Genetix, although only Base's past was actually divulged.<ref>''Genetix'' #1-6</ref>
+
+Genetix failed to stop [[Death Metal (comics)|Death Metal]] from impregnating Krista Marwan, but prevented Death Metal from abducting her.<ref>''Death Metal vs. Genetix'' #1-2</ref>
+
+After the events of [[Decimation (comics)|M-Day]], Base retained his powers.<ref>''Civil War: Battle Damage Report''</ref>
+
+==Powers and abilities==
+Base can control the four classical elements of [[earth]], [[air]], [[fire]], and [[water]]. He claims he can only combine and control two elements at a time, such as a wave of [[Rock (geology)|rock]].
+
+He also possesses exceptional strength and a high level of mastery of the martial arts.
+
+==References==
+{{reflist}}
+
+==External links==
+*{{Marvunapp|http://www.marvunapp.com/Appendix/genetx.htm#base/|Base}}
+
+[[Category:Fictional characters with elemental and environmental abilities]]
+[[Category:Japanese superheroes]]
+[[Category:Marvel Comics characters with superhuman strength]]
+[[Category:Marvel Comics martial artists]]
+[[Category:Marvel Comics mutants]]
+[[Category:Marvel Comics superheroes]]

@@ -1,0 +1,11 @@
+#Redirect [[List of female supervillains]]
+
+{{Rcat shell|
+{{R from fictional character|Marvel Comics}}
+}}
+
+[[Category:Comics by Jim Starlin]]
+[[Category:Female supervillains]]
+[[Category:Marvel Comics limited series]]
+[[Category:Marvel Comics supervillains]]
+[[Category:Characters created by Jim Starlin]]

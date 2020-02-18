@@ -1,0 +1,72 @@
+{{Infobox comics character
+<!--Wikipedia:WikiProject Comics-->
+| character_name = Painter
+| image          = Strang Tales 108 cover.jpg
+| imagesize      = <!-- default 250 -->
+| caption        = ''Strange Tales'' #108 (May 1963): The Painter debuts. Cover art by [[Jack Kirby]]
+| publisher      = [[Marvel Comics]]
+| debut          = ''[[Strange Tales]]'' #108 (May, 1963)
+| creators       = [[Stan Lee]] (writer)<br>[[Robert Bernstein (comics)|Robert Bernstein]] (scripter)<br>[[Jack Kirby]] (artist)
+| alter_ego      = 
+| full_name      = Wilhelm van Vile
+| species        = <!-- optional -->
+| homeworld      = <!-- optional -->
+| alliances      = Avant Guard
+| partners       = <!-- optional -->
+| supports       = <!-- optional -->
+| aliases        = Painter of 1000 Perils
+| powers         = Matter manipulation, superhuman speed
+| cat            = 
+| subcat         = 
+| hero           =
+| villain        = super
+| sortkey        = 
+| addcharcat#    = 
+}}
+'''Wilhelm van Vile''', better known as '''The Painter''', is a [[fictional character|fictional]] [[supervillain]] appearing in [[American comic book]]s published by [[Marvel Comics]]. The character was created by plotter [[Stan Lee]], writer [[Robert Bernstein (comics)|Robert Bernstein]] and artist [[Jack Kirby]]. He [[first appeared]] in ''[[Strange Tales]]'' #108 (1963).
+
+==Publication history==
+The Painter's premiere in ''Strange Tales'' #108 (May 1963) was a collaboration between editor and story-plotter Stan Lee, script-writer Robert Bernstein, and story-artist Jack Kirby, with inking done by [[Dick Ayers]] and Terry Szenics in charge of lettering. The story is republished in ''Human Torch'' #8 (November 1975).<ref>{{cite comic|title=Human Torch|volume=1|issue=8|date=November 1975|publisher=[[Marvel Comics]]|location=New York City}}</ref> The character is re-imagined by [[Pierce Askegren]] in his 1996 work ''The Ultimate Super-Villains'', edited by Lee and published by Byron Preiss.<ref name="Lee1996">{{cite book|author=Stan Lee|title=The Ultimate Super-Villains|url=https://books.google.com/books?id=X8uMAAAACAAJ|year=1996|publisher=Byron Preiss Multimedia Company|isbn=978-1-57297-113-4}}</ref>
+
+==Fictional character biography==
+===Origins===
+Manhattan-based Wilhelm van Vile, an aspiring painter, attempts to pass off counterfeit paintings as the real deal. However, he makes many obvious mistakes when producing these fake works (such as coloring the boy in ''[[The Blue Boy]]'' green). Van Vile is promptly sent to jail.<ref name="ST 108">{{cite comic|title=Web of Spider-Man|volume=1|issue=108|date=May 1963|writer=[[Stan Lee]] and [[Robert Bernstein (comics)|Robert Bernstein]]|artist=[[Jack Kirby]]|publisher=[[Marvel Comics]]|location=New York City|story=Painter of a Thousand Perils!}}</ref>  
+
+===1960s===
+After being released, van Vile embarks on a cash-counterfeiting career but he once again does not heed major details. [[Johnny Storm]] easily spots his mistakes and throws him back into prison. Tunneling through a crevice in his prison cell's flooring, he finds an underground sanctuary, in which are mystical paints left behind by extraterrestrials. Van Vile discovers that whatever he creates with these paints will come to life. Forming an alliance with a number of small-time criminals, including Scar Tobin, van Vile adopts the ''nom de guerre'' of The Painter of 1000 Perils, or The Painter in short. He then exploits his new-found powers to exact revenge against Johnny Storm.<ref name="ST 108"/>
+
+Storm initially struggles to match the Painter's attacks. However, he later outsmarts the Painter by producing a double of himself, which the villain foolishly lunges for. The real Storm takes the opportunity to destroy the Painter's magical paints.<ref name="ST 108"/>
+
+===Return and death===
+The Painter regains his supervillain abilities some time later and comes under the influence of a multitude of insects which inhabit his body.<ref>{{cite comic|title=Web of Spider-Man|volume=1|issue=75|date=April 1991|writer=Tony Isabella|inker=Keith Williams|penciller=Alex Saviuk|publisher=[[Marvel Comics]]|location=New York City|story=Cold Hands, Warm Art}}</ref> Using unspecified means, he takes over the wills of [[Bora (comics)|Bora]] and [[Spark (Marvel Comics)|Spark]] and sends them to antagonise [[Spider-Man]] and Johnny Storm respectively. Collaboratively, he, Spark and Bora comprise "Avant Guard", a supervillain team.<ref>{{cite comic|title=Web of Spider-Man|volume=1|issue=74|date=March 1991|writer=Tony Isabella|inker=Keith Williams|penciller=Alex Saviuk|publisher=[[Marvel Comics]]|location=New York City|story=Art and Soul}}</ref> When they lose and the situation goes stale, the Painter turns the two mutants into portraits and apparently kills himself by means of bodily explosion.<ref>{{cite comic|title=Web of Spider-Man|volume=1|issue=76|date=May 1991|writer=Tony Isabella|inker=Keith Williams|penciller=Alex Saviuk|publisher=[[Marvel Comics]]|location=New York City|story=Art's Desire}}</ref>
+
+===Resurrection===
+Somehow the Painter is revived (or it could be presumed that it was a double who died previously), and he is seen imprisoned in a supervillain detainment facility, among numerous other foes who go against Spider-Man after being freed from their cells. Dressing up as [[Morlun]], the Painter is swiftly defeated without much challenge.<ref>{{cite comic|title=Avenging Spider-Man|volume=1|issue=13|date=December 2012|writer=Kevin Shinik|inker=Aaron Kuder|penciller=Aaron Kuder|publisher=[[Marvel Comics]]|location=New York City}}</ref>
+
+==Powers and abilities==
+Strictly speaking, the Painter does not possess any superpowers, although he is a considerably skilled artist; he has cited himself as the "greatest painter on Earth".<ref name="Handbook 1"/> It is his enchanted paints that allow him to paint inanimate matter to life. These creations can be erased from existence if he desires so. On top of that, the paints grant him superhuman speed when painting.<ref name="Handbook 1">{{cite book|page=39|title=Marvel Legacy: The 1960s–1990s Handbook|publisher=Marvel Comics|year=2007|isbn=9780785120827}}</ref>
+
+==Other versions==
+===''The Ultimate Super-Villains'' ===
+Having spent many years behind bars, the [[Pierce Askegren]] version of the Painter decides to turn over a new leaf and finds a job as a professional illustrator. He is confronted by an aged Scar Tobin, who demands that the Painter surrender his sorcerous paints. The Painter does not relent and fights back with many of his doubles. It is later revealed that the Painter has not forsaken his criminal life, but instead has been keeping a low profile.<ref name="Lee1996"/>
+
+==See also==
+* {{portal-inline|Comics}}
+
+==References==
+{{Reflist}}
+
+==External links==
+* {{comicbookdb|character|28785}}
+* {{Marvunapp|http://www.marvunapp.com/Appendix/painter.htm|Painter}}
+
+{{Jack Kirby}}
+{{Stan Lee}}
+
+[[Category:Characters created by Jack Kirby]]
+[[Category:Characters created by Robert Bernstein]]
+[[Category:Characters created by Stan Lee]]
+[[Category:Comics characters introduced in 1963]]
+[[Category:Fictional artists]]
+[[Category:Marvel Comics characters who can move at superhuman speeds]]
+[[Category:Marvel Comics supervillains]]

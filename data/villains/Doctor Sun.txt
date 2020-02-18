@@ -1,0 +1,56 @@
+{{short description|Fictional character in Marvel Comics}}
+{{for|the Chinese political leader|Sun Yat-Sen}}
+{{refimprove|date=December 2018}}
+{{Infobox comics character <!--Wikipedia:WikiProject Comics--> 
+|image=
+|caption=
+|character_name=Doctor Sun
+|real_name=
+|species=
+|publisher=[[Marvel Comics]]
+|debut=''[[Tomb of Dracula]]'' #16 (Jan 1974) 
+|creators=[[Marv Wolfman]] and [[Gene Colan]]
+|status=
+|alliances=
+|aliases=[[H.E.R.B.I.E.]]
+|powers=Psionic powers, mind transfer and control. 
+}}
+
+'''Doctor Sun''' is a [[fictional character]], a [[supervillain]] appearing in [[American comic book]]s published by [[Marvel Comics]]. He is a [[cyborg]] who fed on human [[blood]], and has come into conflict with [[Blade (comics)|Blade]], [[Nova (Richard Rider)|Nova]] and the [[Fantastic Four]].
+
+==Publication history==
+Doctor Sun first appeared in ''[[Tomb of Dracula]]'' #16-17 (January–February 1974), and was created by [[Marv Wolfman]] and [[Gene Colan]].
+
+The character subsequently appeared in ''The Tomb of Dracula'' #19-21 (April–June 1974), #26-28 (November 1974-January 1975), #37-42 (October 1975-March 1976), ''Doctor Strange'' #14 (May 1976), ''The Man Called Nova'' #22-25 (1979), ''Fantastic Four'' #206 (May 1979). #208-209 (July–August 1979), and #217 (April 1980).
+
+Doctor Sun received an entry in the ''[[Official Handbook of the Marvel Universe|Official Handbook of the Marvel Universe Deluxe Edition]]'' #17.
+
+==Fictional character biography==
+Doctor Sun was born in [[Peking]], the [[People’s Republic of China]], and was working as a scientist during the [[Cultural Revolution]]. Sun devised a program whereby a [[human]] [[brain]] could be removed from its body and supported indefinitely in a [[Life support|life support system]]. A political enemy managed to sentence Sun to death, then decided that Sun should be the test subject of his own program.
+
+The initial operation succeeded better than expected. Sun's disembodied brain was placed within a robotic chassis.  When Sun's [[mind]] was connected to a [[computer]] bank, he suddenly developed [[Psionics|psionic powers]]. He attacked the doctors, then forced the survivors to serve him. He kept his survival and powers a secret from the Chinese government and eventually left China completely.
+
+Because of his dependence on human [[blood]], Dr. Sun became involved with the study of real [[Vampire (Marvel Comics)|vampire]]s. He decided that a vampiric army could serve him and conquer the world, but first he needed to conquer the vampires. He fought both [[Dracula (Marvel Comics)|Dracula]] and Blade a number of times, drained most of Dracula's powers, and even managed to kill him once, with the help of his minion [[Lucas Brand]].<ref>''The Tomb of Dracula'' (vol. 1) #39 (December 1975)</ref>
+
+After Dracula revived and defeated his plans, Dr. Sun switched tactics. He discovered [[Nova (Richard Rider)|Nova]]'s link to the [[supercomputer]]s of [[Xandar]]. He captured Nova and intended to plug into the computers from Earth. When the [[Sphinx (comics)|Sphinx]] commandeered Nova's ship directly to Xandar, Sun abandoned his body and invaded the Xandarian computers directly.<ref>''Fantastic Four'' #206</ref> When the [[Fantastic Four]] later arrived with [[H.E.R.B.I.E.]], Sun downloaded his mind into the robot's body.<ref>''Fantastic Four'' #208</ref> Upon returning to Earth, he tried to destroy the FF by turning their headquarters against them. He took possession of the [[Baxter Building]]'s computer system. This freed H.E.R.B.I.E., who flew into the computer bank where Sun was isolated.  Dr. Sun was presumed destroyed in the resultant explosion.<ref>''Fantastic Four'' #217</ref>
+
+==Powers and abilities==
+Doctor Sun's disembodied brain has been placed within a robotic chassis. He gained psionic powers after his mind was connected to a computer bank.
+His robotic body provided him with super strength and nigh invulnerability.
+
+==References==
+{{reflist}}
+
+==External links==
+*[http://www.marveldatabase.com/Doctor_Sun Doctor Sun] at the Marvel Database Project
+
+{{Dracula}}
+
+{{DEFAULTSORT:Doctor Sun}}
+[[Category:Characters created by Gene Colan]]
+[[Category:Characters created by Marv Wolfman]]
+[[Category:Comics characters introduced in 1974]]
+[[Category:Fictional cyborgs]]
+[[Category:Fictional physicians]]
+[[Category:Fictional scientists]]
+[[Category:Marvel Comics supervillains]]

@@ -1,0 +1,80 @@
+'''Monsteroso''' can refer to two different characters in the [[Marvel Universe|universe]] of [[Marvel Comics]].
+
+==Monsteroso (Amazing Adventures)==
+{{Infobox comics character <!--Wikipedia:WikiProject Comics-->
+|image=Amazing Adventures 5.png
+|imagesize=200
+|converted=yes
+|caption=Cover to ''[[Amazing Adventures]]'' #5 (Oct 1961). Pencils by [[Jack Kirby]] and [[Steve Ditko]], inks by [[Dick Ayers]].
+|character_name=Monsteroso
+|real_name=
+|species=unknown
+|publisher=[[Marvel Comics]]
+|debut=''[[Amazing Adventures]]'' vol. 1 #5 (Oct 1961)
+|creators=[[Stan Lee]], [[Jack Kirby]]
+|alliances=
+|aliases=
+|powers=superhuman strength, endurance and durability
+|}}
+'''Monsteroso''' is a giant monster in [[Marvel Comics]]. It first appeared in ''[[Amazing Adventures]]'' #5 (Oct 1961), and was created by [[Stan Lee]] and [[Jack Kirby]].<ref>{{comicbookdb|type=issue|id=31695|title=''Amazing Adventures'' #5}}</ref>
+
+===Fictional character history===
+Monsteroso first appeared as an unnamed young passenger on an alien spacecraft passing near Earth. He accidentally launched himself in the vessel's lifeboat towards Earth, which crashed in [[Africa]]. Monsteroso was knocked unconscious in the impact.<ref name=aa5>''[[Amazing Adventures]]'' vol. 1 #5 (Oct 1961)</ref>
+
+The unconscious, almost comatose Monsteroso was discovered by a man named Phil, a circus owner from the United States. Thinking the creature dead, Phil had its body brought to the [[American Museum of Natural History]] in [[New York City]]. It is Phil who first names the creature "Monsteroso".
+
+After healing, Monsteroso revives in the museum. The young alien, confused by its surroundings began rampaging through the city. The police attempted to stop him with conventional force (i.e. bullets and tear gas), unsuccessfully. Meanwhile, Phil realizes that Monsteroso's nature was childlike, not evil, and he convinced an Army scientist to sedate, rather than kill, the creature. After scaling the [[United Nations]] building, it is successfully sedated, and falls into the [[East River]].<ref name="mnyc">{{cite book | last = Sanderson | first = Peter | authorlink = | coauthors = | title = The Marvel Comics Guide to New York City | publisher = [[Pocket Books]] | year = 2007 | location = New York City | pages = 64–73 | url = | doi = | id = | isbn = 1-4165-3141-6}}</ref>
+
+Immediately afterwards, an enormous spacecraft lands, and two enormous aliens disembark, Monsteroso's parents. They retrieve their child and prepare to depart, saying: "It is fortunate that he is unharmed! Fortunate for you!"<ref name="aa5"/>
+
+The story of Monsteroso's origin was reprinted in [[Marvel Comics]]' ''[[Monsters on the Prowl]]'' #28 (June, 1974).
+{{-}}
+
+==Monsteroso (Tales to Astonish)==
+{{Infobox comics character <!--Wikipedia:WikiProject Comics-->
+|image=Monsteroso.png
+|imagesize=200
+|converted=y
+|caption=Panel from ''[[Tales to Astonish]]'' #18 (Apr 1961). Pencils and inks by [[Steve Ditko]].
+|character_name=Monsteroso
+|real_name=
+|species=Sturdian
+|publisher=[[Marvel Comics]]
+|debut=''[[Tales To Astonish]]'' vol. 1 #18 (Apr 1961)
+|creators=[[Stan Lee]], [[Steve Ditko]]
+|alliances=
+|aliases=
+|powers=growth, superhuman strength
+|}}
+'''Monsteroso''' is another (apparently) giant monster in [[Marvel Comics]]. It first appeared in ''[[Tales to Astonish]]'' #18 (Apr 1961), and was created by [[Stan Lee]] and [[Steve Ditko]].<ref>{{comicbookdb|type=issue|id=39679|title=''Tales to Astonish'' #18}}</ref>
+
+===Fictional character history===
+This Monsteroso was hatched in solitude from an egg on a planet apparently devoid of intelligent life otherwise. Soon after his birth, Monsteroso began to uncontrollably grow in size, larger and larger, with no apparent upper limit. Eventually, Monsteroso dwarfed even massive geological features like mountains. Being so large, Monsteroso hailed himself as conqueror and ruler of all he surveyed, until a flood came in which Monsteroso drowned. The "flood" was subsequently revealed to be a scientist washing out a glass slide, utterly unaware of the microscopic ecosystem that had lived within it.<ref>''[[Tales to Astonish]]'' vol. 1 #18 (Apr 1961)</ref>
+
+In later mentions in the Marvel Universe, this Monsteroso was said to be an inhabitant of the [[Microverse]].<ref>''[[Official Handbook of the Marvel Universe]]'' #7, ''s. v.'' "Microverse"</ref>
+
+The first appearance of this Monsteroso was reprinted in ''[[Fantasy Masterpieces]]'' #9 (June 1967).
+
+==See also==
+* Monstro, a Marvel Comics monster also known as [[Giganto]].
+
+==Notes==
+{{reflist}}
+
+==References==
+{{refbegin}}
+* {{Marvunapp|http://www.marvunapp.com/Appendix/monstero.htm|Monsteroso (Amazing Adventures)}}
+* {{Marvunapp|http://www.marvunapp.com/Appendix/mnstroso.htm|Monsteroso (Tales to Astonish)}}
+{{refend}}
+
+{{Stan Lee}}
+{{Jack Kirby}}
+
+[[Category:Comics characters introduced in 1961]]
+[[Category:Characters created by Jack Kirby]]
+[[Category:Characters created by Stan Lee]]
+[[Category:Characters created by Steve Ditko]]
+[[Category:Extraterrestrial supervillains]]
+[[Category:Marvel Comics aliens]]
+[[Category:Marvel Comics characters with superhuman strength]]
+[[Category:Marvel Comics supervillains]]

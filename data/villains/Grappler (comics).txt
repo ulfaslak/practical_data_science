@@ -1,0 +1,10 @@
+#Redirect [[List of Marvel Comics characters: G#Grappler]]
+
+{{Rcat shell|
+{{R from fictional character|Marvel Comics}}
+{{R comics from merge}}
+{{R comics to list entry}}
+}}
+
+[[Category:Comics characters introduced in 1981]]
+[[Category:Marvel Comics supervillains]]

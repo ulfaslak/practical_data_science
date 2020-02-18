@@ -1,0 +1,55 @@
+{{Notability|date=August 2018}}
+{{Infobox comics character <!--Wikipedia:WikiProject Comics-->
+|image=Gladiatrixmu0.png
+|imagesize=200
+|caption=Gladiatrix in Civil War Frontline #4<br/> art by Ramon Bachs. 
+|character_name=Gladiatrix
+|real_name=Robin Braxton
+|publisher=[[Marvel Comics]]
+|debut=''[[Thing (comics)|Thing]]''  #33 ''(March 1986)''
+|creators=[[Mike Carlin]] (writer)<br/>[[Ron Wilson (comics)|Ron Wilson]] (artist)
+|alliances=[[Grapplers (comics)|Grapplers]]<br/>[[Femizons]]<br/>Power Broker Inc
+|aliases=
+|powers=superhuman strength, fighting skills and durability
+}}
+
+'''Gladiatrix''' ('''Robin Braxton''') is a fictional super [[heroine]] appearing in [[American comic book]]s published by [[Marvel Comics]], first introduced in 1986. She was created by [[Mike Carlin]] and [[Ron Wilson (comics)|Ron Wilson]] as a super strong professional wrestler and supervillain as part of [[the Grapplers]]. She later appeared in ''[[Captain America (comic book)|Captain America]]'' and featured in [[Civil War (comics)|Civil War]] siding with the anti-registration faction. 
+
+==Publication history==
+Gladiatrix first appeared in ''[[Thing (comics)|Thing]]''  #33 ''(March 1986)'', and was created by [[Mike Carlin]] and [[Ron Wilson (comics)|Ron Wilson]].<ref name=Thing33/> She later appeared in several issues of the first [[Captain America]] volume, first in issue 352,<ref>''Captain America'' #352</ref> and later as part of the ''Superia Strategem''.<ref name=Superia>''Captain America'' #387–#392</ref> She was included as an "Anti-Registration" character in the 2006–07 [[fictional crossover|crossover]] storyline [[Civil War (comics)|Civil War]].<ref>''Civil War: Front Line'' #4''</ref> The Grapplers received an entry in the appendix of the first volume of the ''[[Official Handbook of the Marvel Universe]]'',<ref name=OHMUVol1-5>{{Cite comic | story =Appendix: The Grapplers | title = [[Official Handbook of the Marvel Universe]] | volume =1 | issue =5 | date = May 1983 | publisher =[[Marvel Comics]] | location =[[New York, NY]]}}</ref> and a full team entry in volume two with a section for Gladiatrix.<ref name=OHMUVol2-5>{{Cite comic | story =The Grapplers | title = [[Official Handbook of the Marvel Universe]] | volume =2 | issue =5 | date = April 1986 | publisher =[[Marvel Comics]] | location =[[New York, NY]]}}</ref>
+
+==Fictional character biography==
+Becoming a professional wrestler shortly after her youth, '''Robin Braxton''' has been fighting for her life ever since. She gained her current enhanced strength through an augmentation given by Power Broker INC. Shortly afterward she abandoned her life as a wrestler and became part of [[The Grapplers]].
+
+They were forced to restrain [[Titania (Grapplers)|Titania]], who had just lost a battle from Battleaxe. When the Grapplers came face to face with the Thing, Gladiatrix decided to remain on the good side and helped him out, saving the day.<ref name=Thing33>''Thing'' #33</ref> Later, Gladiatrix tried out for membership in [[Avengers (comics)|the Avengers]], but was denied after she almost got into a battle with [[Ursa Major (comics)|Ursa Major]].<ref>''Captain America'' #352</ref>
+
+She agreed to join Superia's [[Femizons]] afterward, becoming a supervillain once more. She was attacked by [[Captain America]] and [[Paladin (comics)|Paladin]], whom Gladiatrix manages to capture. The heroes eventually rescued themselves and defeated Gladiatrix afterwards.<ref name=Superia/> She would later be seen attending the  [[Advanced Idea Mechanics|A.I.M.]] Weapons Expo on an island protected by international law.<ref>''Captain America'' #411-414</ref>
+
+===Civil War===
+{{Main|Civil War (comics)}}
+However, during the Civil War event, Gladiatrix chose the side of the heroes once more and became involved with a gang that was strongly against the Super-Hero Registration Act. Her allies include, but are not limited to, [[Solo (Marvel Comics)|Solo]], [[Typeface (comics)|Typeface]] and [[Battlestar (comics)|Battlestar]]. She is apprehended when a [[S.H.I.E.L.D.]] squad enters their hideout. She almost escapes, being responsible for the visiting journalist [[Sally Floyd (comics)|Sally Floyd]]. Debris knocks her down and Sally escapes on her own.<ref>''Civil War: Front Line'' #4</ref>  She is later seen in the [[Negative Zone]] Prison, being contained in some virtual reality apparatus, begging for someone to help her.<ref>''Amazing Spider-Man'' #535</ref> She, along with the other captive heroes were freed by [[Hulkling]].<ref>''Civil War'' #6</ref> The people he freed assisted Captain America in their fight against the Pro-Registration forces. She did not accept the offer of amnesty.<ref name="civilwarbattledamage">{{Comic book reference | Writer = [[Anthony Flamini]] and Ronald Byrd | Penciller =  [[Scott Kolins]] | Inker = [[Scott Kolins]] | Story =  | Title = Civil War: Battle Damage Report | Issue = 1 | Date = March 2007 | Publisher = [[Marvel Comics]] | }}</ref>
+
+==Powers and abilities==
+Gladiatrix has a degree of super-human strength, durability and stamina. She is a skilled wrestler and formidable in hand-to-hand combat.<ref name=OHMUVol2-5/>
+
+==Alternate versions==
+A version of Gladiatrix appeared in ''World War Hulk'': Front Line issue 4, depicting an alternate reality of the [[World War Hulk]] storyline. <ref>''World War Hulk: Front Line'' #4</ref> The world was identified as "Earth-71143" in the [[Multiverse (Marvel Comics)|Marvel Comics Multiverse]].
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{Marvunapp|http://www.marvunapp.com/Appendix/gladtrix.htm|Gladiatrix}}
+
+[[Category:Characters created by Mike Carlin]]
+[[Category:Characters created by Ron Wilson]]
+[[Category:Comics characters introduced in 1986]]
+[[Category:Female characters in comics]]
+[[Category:Female supervillains]]
+[[Category:Fictional mercenaries]]
+[[Category:Fictional professional wrestlers]]
+[[Category:Marvel Comics characters with superhuman strength]]
+[[Category:Marvel Comics female superheroes]]
+[[Category:Marvel Comics mutates]]
+[[Category:Marvel Comics superheroes]]
+[[Category:Marvel Comics supervillains]]

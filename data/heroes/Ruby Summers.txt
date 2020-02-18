@@ -1,0 +1,53 @@
+{{Infobox comics character <!--Wikipedia:WikiProject Comics-->
+|character_name = Ruby Summers
+|image          = Ruby_Summers.jpg
+|converted      = y
+|caption        = Ruby Summers<br>Art by [[Valentine De Landro]].
+|real_name      = Ruby Summers
+|species        = [[Mutant (Marvel Comics)|Human Mutant]]
+|publisher      = [[Marvel Comics]]
+|debut          = [[Layla_Miller#The_Summers_Rebellion|X-Factor: Layla Miller]] #1 <br>(Aug. 2008)
+|creators       = [[Peter David]]<br>[[Valentine De Landro]]
+|alliances      = Summers Rebellion
+|aliases        = 
+|powers         = Optic force beams<br>Capable of shapeshifting into a ruby form
+|cat            = super
+|subcat         = Marvel Comics
+|hero           = y
+|sortkey        = Ruby Summers
+}}
+
+'''Ruby Summers''' is a fictional character in the Marvel Comics Universe first appearing in the [[One-shot (comics)|one-shot]] ''X-Factor: [[Layla Miller]]''.<ref name="x-factor: lm #1">''X-Factor: Layla Miller'' #1</ref>
+
+==Fictional character biography==
+Ruby is the daughter of [[Cyclops (Marvel Comics)|Scott Summers]] and [[Emma Frost]] from the dystopian alternate future [[Multiverse (Marvel Comics)|Earth-1191]].
+
+===Meeting Layla Miller===
+Ruby has been living in the ruins of Atlantic City with her father, Scott Summers for decades. When [[Layla Miller]] and a man named Dwayne show up one day looking for the now-aged Cyclops. Ruby attacks them and, after finding out who Layla Miller is, brings her to her father, who has been waiting to see Layla for decades. After a conversation with Cyclops, Layla convinces Ruby to meet up with a new mutant named Linqon. Together, they start the Summers Rebellion.<ref name="x-factor: lm #1" />
+
+===Years later===
+Years after the start of the rebellion, Ruby rescues the now-aged Layla and [[Jamie Madrox]], whom Layla had just brought into the future from the past, from a Sentinel attack.<ref>''X-Factor'' #41</ref> She is not pleased to find out Layla disobeyed her in bringing Madrox to the future.<ref name="X-F42">''X-Factor'' #42</ref> She later brings Scott and Layla to an old, broken down hotel where an elderly, fragile Doctor Doom currently resides. They question him about time travel when they are attacked by Sentinels, only to be saved by [[Trevor Fitzroy]].<ref>''X-Factor'' #46</ref>
+
+She has also become very close with Layla, developing a sisterly relationship.<ref>''X-Factor'' #44</ref>
+
+Ruby is seen next when an aged [[Doctor Doom]] brings Cortex to their time, however reprogrammed, and forces the Madrox dupe to attack the mutants. Although initially at a disadvantage, as Doom has taken control of Cyclops due to his cyborg nature, she manages to defeat Doom, Cortex, and Cyclops. Doom escapes and Ruby swears to kill him. 
+
+While Madrox battles Cortex, Ruby asks Layla to revive Fitzroy who was killed during Cortex's initial assault. Although Layla does not think that it is a good idea, she complies since Ruby persuades her that they may take control of their own destiny.<ref>''X-Factor'' #50</ref>
+
+===Future Imperfect===
+
+An alternate version of Ruby Summers appears in the Future Imperfect limited series, a tie-in to Marvel's [[Secret Wars (2015)|Secret Wars]] event. She is a member of the resistance against the [[Maestro (comics)|Maestro's]] regime.<ref>’’Future Imperfect’’ vol 1, Issues 1-5</Ref>
+
+==Powers and abilities==
+Ruby has the power to emit force beams from her eyes, like her [[Cyclops (Marvel Comics)|father]],<ref name="x-factor: lm #1"/> but hers are black and take 93 seconds to regenerate.<ref name="X-F42"/> She also has the ability to transform her body into organic ruby similar to her [[Emma Frost#Powers and abilities|mother's]] diamond form.<ref name="x-factor: lm #1"/> This ruby form halts the aging process and allows her to survive without sustenance, but due to fear that she might "age nearly seventy years in seconds" if she reverts, she has remained in this form for decades.
+
+==References==
+{{Reflist}}
+
+{{Marvel Multiverse}}
+
+{{DEFAULTSORT:Summers}}
+[[Category:Characters created by Peter David]]
+[[Category:Comics characters introduced in 2008]]
+[[Category:Marvel Comics mutants]]
+[[Category:Marvel Comics female superheroes]]

@@ -1,0 +1,64 @@
+{{Refimprove|date=January 2009}}
+
+{{Superherobox| <!--Wikipedia:WikiProject Comics-->
+  image = [[Image:Redstone(comics).jpg|250px]]
+| caption = Redstone fighting [[Hyperion (comics)|Hyperion]]
+| character_name = Redstone
+| publisher = [[Marvel Comics]]
+| debut = ('''First''') [[Squadron Supreme]] # 9 (May 1986)<BR>('''Second''') Supreme Power #12
+| creators = ('''Squadron Supreme''') [[Mark Gruenwald]]<BR>('''Supreme Power''') [[J. Michael Straczynski]]<BR>[[Gary Frank]]
+| alter_ego = ('''both''') Michael Redstone
+| species = <!-- optional -->
+| homeworld = Earth
+| alliances = ('''First''') [[Squadron Supreme]]<br/>[[America Redeemers|Redeemers]]<br/>('''Second''') [[People's Republic of China|Chinese government]]
+| aliases = <!-- optional: actual identities the character uses, not nicknames -->
+| supports=<!--optional-->
+| powers = ('''First''') super-strength<BR>('''Second''') super strength, invulnerability, and Flash-Vision
+}}
+
+'''Redstone''' is the name of two fictional characters appearing in [[American comic book]]s published by [[Marvel Comics]].
+
+==Various incarnations of Redstone==
+The first '''Redstone''' is a [[superhero]] who is a native to the alternate universe of the original [[Squadron Supreme]].  A member of Nighthawk's Redeemers, Redstone, a later creation, is a counterpart to [[DC Comics]] and Detroit Justice League character [[Commander Steel|Steel]].{{Citation needed|date=September 2015}}
+
+The second '''Redstone''' is a super-powered [[serial killer]] from the reality of the ''[[Supreme Power]]'' series. Though he shares the same name as the first, his powers in this universe are derived from elements of Hyperion's alien DNA and mimic most - but not all - of his alien abilities.
+
+=== Squadron Supreme ===<!-- This section is linked from [[America Redeemers]] -->
+Michael Redstone was an [[Apache]] born on a reservation somewhere in the Southwest United States of "Other-Earth", or "Earth-S", later known as [[Earth-712]]. As Redstone, he was a part of ''[[Nighthawk (Marvel Comics)#Kyle Richmond (Earth-712)|Nighthawk]]'s [[America Redeemers|Redeemers]]''. Like the [[Greek gods|Greek god]] [[Antaeus]], he drew his power from the Earth, and lost much of his super-strength when not in contact with the ground.
+
+Redstone was recruited into the Redeemers by Nighthawk.<ref>''Squadron Supreme'' #9</ref> Alongside several other Redeemers, he then infiltrated the Squadron Supreme.<ref>''Squadron Supreme'' #10</ref> With [[Thermite (comics)|Thermite]], he captured [[Shape (comics)|Shape]] and took him to Redeemers headquarters for deprogramming.<ref>''Squadron Supreme'' #11</ref> With the other Redeemers, he eventually fought the Squadron in Squadron City, forcing them to end their dictatorship over the United States of "Other-Earth". During the battle, Redstone personally bested Squadron leader [[Hyperion (comics)|Hyperion]]; however, he was only able to achieve this with [[Lamprey (comics)|Lamprey]]'s aid.<ref>''Squadron Supreme'' #12</ref> After this battle, Redstone remained with the Squadron as a costumed adventurer.
+
+Redstone's ties to the Earth proved to be more intimate than he realized for after leaving the planet and traveling into outer space with the Squadron to confront the [[Nth Man]] and prevent him from destroying the universe. Upon leaving Earth's atmosphere he became ill and lost much of his physical mass. His return to Earth did not prevent his demise; the adverse effects of separation from Earth's environment were irreversible, and Redstone perished.<ref>''Squadron Supreme: Death of a Universe''</ref>
+
+=== Supreme Power ===
+{{Unreferenced section|date=January 2009}}
+The first [[supervillain]] to appear in the ''[[Supreme Power]]'' [[fictional universe|universe]], Redstone is what the US government has dubbed a "Power." In essence, he is on par with the likes of Hyperion and Power Princess, but he does not yet exhibit the degree of control over his powers Hyperion possesses, though it can be inferred that this is Redstone's personal choice.{{issue|date=January 2013}}
+
+Michael Redstone was an imprisoned renegade soldier and [[serial killer]] who murdered six women (five [[prostitutes]] and one ''Sergeant Alicia James''.) The murder of the female sergeant, who outranked him, was said to demonstrate "a [[psychology]] that loathes women who have any amount of power over him." A secret government group had been grafting a retro-virus based on [[Hyperion (Supreme Power)|Hyperion]]'s DNA to military convicts who volunteered as human [[guinea pig]]s. Redstone had been one such volunteer.{{issue|date=January 2013}}
+
+After getting his powers (super strength, invulnerability, and "[[Infrared vision|Flash vision]]"; notably, he does not gain Hyperion's ability to fly), he and an unknown number of other test subjects escaped. Redstone resumed killing prostitutes, again mostly black women, but this time in greater numbers, attracting [[Nighthawk (Supreme Power)|Nighthawk]]'s attention. Due to the detective work of Nighthawk and the assistance of Hyperion and Blur, Redstone was apprehended again. The team used a substance that blocked Redstone's nose and mouth, showing Redstone that he still needs oxygen to survive.{{issue|date=January 2013}}
+
+Dr. Spectrum arrived at the scene after the fighting, to take Redstone into custody and to a prison originally made for Hyperion. General Richard Alexander makes a deal with Redstone, and has him dropped into an unknown country whose government is being what the United States considers ''difficult''. Redstone's mission is simple: kill as many people he can, in order to cause mass panic and governmental instability.{{issue|date=January 2013}}
+
+Since then, he has seemingly escaped government control and was last seen hiring out his services to the [[People's Republic of China|Chinese government]], whose intent is to counterbalance the superhuman weapons threat presented by the Squadron Supreme; subsequently, he tracked down Hyperion himself, and confronted him in [[Los Angeles]].{{issue|date=January 2013}}
+
+Redstone and Hyperion fight, resulting in the deaths of many innocent bystanders. Hyperion attempts to suffocate Redstone by flying him into orbit, but Redstone has prepared a nuclear weapon stolen from a submarine that had sunk in the [[Norwegian Sea]]. The bomb will explode if it does not receive a signal from him every 5 minutes. Redstone insists Hyperion let himself be beaten to death or the device will be triggered. Hyperion is blinded by Redstone's flash vision and Redstone's rampage takes the lives of many citizens. [[Power Princess|Zarda]] arrives to save Hyperion but he insists she dispose of the bomb. Finally [[the Atlanta Blur|Blur]] forcibly recruits Nighthawk to aid in the battle and the three heroes confront Redstone.{{issue|date=January 2013}}
+
+==Powers and abilities==
+The Redstone of the Squadron Supreme's Earth possesses superhuman strength, stamina, and durability. His life force and superhuman powers were dependent on his contact with the Earth and its atmosphere. He was a good hand-to-hand combatant, and was coached from Nighthawk and Squadron Supreme members.
+
+==References==
+{{reflist}}
+
+==External links==
+*http://www.marvel.com/universe/Redstone_(Earth-712)
+*[http://www.classicmarvel.com/cast/redstone.htm]
+
+{{DEFAULTSORT:Redstone}}
+[[Category:Characters created by Mark Gruenwald]]
+[[Category:Comics characters introduced in 1986]]
+[[Category:Fictional Apache people]]
+[[Category:Fictional serial killers]]
+[[Category:Fictional soldiers]]
+[[Category:Marvel Comics characters with superhuman strength]]
+[[Category:Marvel Comics supervillains]]

@@ -1,0 +1,110 @@
+{{Infobox comics set index <!--Wikipedia:WikiProject Comics-->
+|code_name  = Captain America
+|image      = <!-- filename format only -->
+|imagesize  = <!-- default 250 -->
+|caption    = 
+|publisher  = [[Marvel Comics]]
+|debut      = ''[[Captain America|Captain America Comics]]'' #1
+|debutmo    = March
+|debutyr    = 1941
+|debutyr1   = 
+|debutyr2   = 
+|debutyr3   = 
+|debutyr4   = 1975
+|debutyr5   = 
+|debutyr6   = 
+|debutyr7   = 
+|debutyr8   = 
+|creators   = [[Joe Simon]]<br />[[Jack Kirby]]
+|characters = [[Captain America|Steve Rogers]]<br />[[Spirit of '76 (Marvel Comics)|William Naslund]]<br />[[Jeffrey Mace]]<br />[[Grand Director|William Burnside]]<br />Bob Russo<br/>"Scar" Turpin<br/>Roscoe Simons<br />[[U.S. Agent (comics)|John Walker]]<br />[[Falcon (comics)|Sam Wilson]]<br />[[Isaiah Bradley]]<br />[[Bucky Barnes|James Buchanan Barnes]]
+|seealso    = [[Alternative versions of Captain America]]
+|cat        = super
+|subcat     = Marvel Comics
+|hero       = y
+|sortkey    = Captain America
+}}
+'''Captain America''' is the name of several [[fictional character]]s appearing in [[American comic book]]s published by [[Marvel Comics]]. The first and primary character is [[Captain America|Steve Rogers]], who was created by [[Joe Simon]] and [[Jack Kirby]]. Other characters have adopted the alias over the years, most notably [[Bucky Barnes]] and [[Falcon (comics)|Sam Wilson]].
+
+==Earth-616==
+===Steven Rogers (Revolutionary War Era)===
+'''Captain Steven Rogers''', the 18th century ancestor of the World War 2 [[supersoldier|Super-Soldier]] serum recipient, wore a colorful costume and carried a round cast iron shield.<ref>''Captain America: Sentinel of Liberty'' #6 (March 1999)</ref>
+
+===Steve Rogers===
+{{main article|Captain America}}
+Steve Rogers, a scrawny Army reject, was given the [[Supersoldier|Super-Soldier]] Serum, becoming the only complete success for [[Weapon Plus|Project: Rebirth]], and the first person to officially be called "Captain America" by the Marvel Universe's American government.
+
+===Isaiah Bradley===
+{{main article|Isaiah Bradley}}
+<!-- Commented out: [[File:IsaiahBradley.jpg|thumb|Isaiah Bradley]] -->
+The [[Weapon Plus|Super-Soldier program]] experimented on [[African American]] test subjects, including Isaiah Bradley, to re-create the formula that had been used to turn Steve Rogers into [[Captain America]], similarly to the [[Tuskegee syphilis study]].<ref>''[[Truth: Red, White & Black]]''</ref><ref>[https://books.google.com/books?id=QrW9kmCAZQQC&pg=PA54#v=onepage&q&f=false Comics as Philosophy] p. 54</ref><ref>[https://books.google.com/books?id=K2J7DpUItEMC&pg=PA498#v=onepage&q&f=false Encyclopedia of comic books and graphic novels, Volume 2] by M. Keith Booker, p.498</ref>
+Considered to be the "Black Captain America", Bradley became an underground legend among much of the African-American community in the Marvel Universe. Isaiah is also the grandfather of Young Avengers team member the [[Patriot (comics)#Fictional character biography|Patriot]] II.
+
+===William Naslund===
+{{main article|Spirit of '76 (Marvel Comics)}}
+After Rogers goes [[missing in action]] and is presumed dead, William Naslund, the former Spirit of '76, on appointment by [[U.S. President]] [[Harry S. Truman]], becomes the next Captain America.<ref>{{Cite comic| writer = [[Roy Thomas]]| penciller = [[Frank Robbins]]| inker = [[Frank Springer]]| story = What if the Invaders Had Stayed Together After World War Two?| title = [[What If (comics)|What If?]]| volume = 1|issue = #4| date = August 1977| publisher = [[Marvel Comics]]}}</ref> The story was used to reconcile Marvel's conflicting accounts of Captain America in the 1950s and 1960s.<ref>{{Cite comic| writer = [[J. M. DeMatteis]]| penciller = [[Ron Wilson (comics)|Ron Wilson]]| inker = [[Vince Colletta]]| story = The Shadows of the Past
+| title = [[Captain America]] Annual| volume = | issue = #6| date = 1982| publisher = Marvel Comics}}</ref><ref>{{Cite comic| writer = J. M. DeMatteis| penciller = [[Sal Buscema]]| inker = [[Kim DeMulder]]| story = Letting Go| title = Captain America| volume = 1| issue = #285| date = September 2983| publisher = Marvel Comics}}</ref>
+
+===Jeffrey Mace===
+{{main article|Jeffrey Mace}}
+Following William Naslund's death, Jeffrey Mace, the former [[Patriot (comics)#Fictional character biography|Patriot]] I, assumes the identity of Captain America.
+
+===William Burnside===
+{{main article|Grand Director}}
+After Jeffrey Mace's retirement, a college professor named William Burnside assumes the identity of Steven Rogers and, in response to the threat of a [[Communism|Communist]] [[Red Skull]], the identity of Captain America.<ref>{{Cite comic| writer = [[Steve Englehart]]| cowriters = [[Stan Lee]]| penciller = Sal Buscema| copencillers = [[John Romita, Sr.|John Romita]]| inker = [[Frank McLaughlin (comics)|Frank McLaughlin]]| coinkers = John Romita| story = The Incredible Origin of the Other Captain America| title = Captain America| volume = 1| issue = #155| date = November 1972| publisher = Marvel Comics}}</ref> He and his [[Nomad (comics)#Jack Monroe|Bucky]] battle communism throughout the 1950s. Unfortunately, he used a flawed Nazi copy of Project: Rebirth to enhance his body, which results in his developing a violent paranoia, necessitating his arrest and placement into suspended animation.
+
+===Bob Russo, "Scar" Turpin, and Roscoe Simmons===
+In a time when Rogers had abandoned the Captain America identity, Bob Russo and "Scar" Turpin appear using the alias for an issue each, but both of them quickly abandon the identity after being injured.<ref>''Captain America'' #178-#179 (Oct. 1974)</ref> Roscoe Simmons wears the star-spangled costume during Rogers' time as the [[Nomad (comics)|Nomad]] I, and is given the [[Captain America's shield|shield]] by Rogers. He briefly serves as the Falcon's junior partner, but is killed by the [[Red Skull]] a mere two issues after adopting the identity.<ref>''Captain America'' #181-#183 (Jan. 1975 - March 1975)</ref>
+
+===John Walker===
+{{main article|U.S. Agent (comics)}}
+When the [[Federal government of the United States|U.S. Government]] strips Rogers of his mantle, it appoints the former Super-Patriot John Walker in his place.<ref>''Captain America'' #333</ref>
+
+===Sam Wilson===
+{{main article|Falcon (comics)}}
+Wilson, former crimefighting partner and friend of Steve Rogers, briefly assumes the mantle of Captain America in comics published in 1999.<ref>''[[Captain America|Captain America: Sentinel of Liberty]]'' #8-9 (April - May 1999)</ref> He resumes the identity in 2014 when Rogers loses the Super-Soldier Serum,<ref>''Captain America'' (vol. 7) #25</ref> remaining in the role for three years real time before relinquishing it to Rogers once more.
+
+===James Buchanan "Bucky" Barnes===
+{{main article|Bucky Barnes}}
+Following Steve Rogers' apparent death, his close friend and former sidekick James Buchanan "Bucky" Barnes/Winter Soldier assumes the identity of Captain America and became a member of the New Avengers fending off the [[Secret Invasion]] by the [[Skrulls]]. Even after Steve Rogers came back from the dead, James Buchanan "Bucky" Barnes continued to use the mantle and share it with him until he died only to be brought back to life by the Infinity Formula.
+
+===Dave Rickford===
+Dave Rickford is a former special forces soldier who attained an augmentation, giving him superpowers, from [[Dr. Malus]] and [[the Power Broker]]. He becomes the new Captain America when Bucky is entangled in legal difficulties and Steve Rogers is the head of [[S.H.I.E.L.D.]]. He is kidnapped by [[Advanced Idea Mechanics|A.I.M.]] and rescued by Rogers, who convinces him to drop the identity.<ref>''Captain America'' #615.1 (May 2011)</ref>
+
+==Alternate universes==
+{{Main|Alternative versions of Captain America}}
+<!-- Add alternate versions to the article above, not here. -->
+
+==See also==
+*[[Captain America's shield]]
+*[[Captain Midlands]]
+*[[Red Guardian]]
+*[[Anti-Cap]]
+*[[Josiah X]]
+
+==Notes==
+{{reflist|30em}}
+
+==References==
+{{refbegin|30em}}
+*{{gcdb|type=character|search=Captain+America|title=Captain America}}
+*{{comicbookdb|type=character|id=208|title=Captain America (Steve Rogers)}}
+*{{comicbookdb|type=character|id=3835|title=Captain America (William Nasland)}}
+*{{comicbookdb|type=character|id=3836|title=Captain America (Jeffrey Mace)}}
+*{{comicbookdb|type=character|id=3838|title=Captain America (Grand Director)}}
+*{{comicbookdb|type=character|id=11511|title=Captain America (Roscoe)}}
+*{{comicbookdb|type=character|id=3839|title=Captain America (John Walker)}}
+*{{comicbookdb|type=character|id=31044|title=Captain America (Sam Wilson)}}
+*{{comicbookdb|type=character|id=9318|title=Captain America (Isaiah Bradley)}}
+*{{comicbookdb|type=character|id=18588|title=Captain America (James Buchanan Barnes)}}
+{{refend}}
+
+==External links==
+*[http://www.marvel.com/universe/Captain_America_(disambiguation) Captain America (disambiguation)] at the Marvel Universe
+*[[MarvelDatabase:Captain America|Captain America]] at the Marvel Database Project
+
+{{Captain America}}
+
+{{SIA|comics}}
+
+[[Category:Captain America]]
+[[Category:Incarnations of comics characters|M]]

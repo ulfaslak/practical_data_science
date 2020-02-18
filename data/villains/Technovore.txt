@@ -1,0 +1,68 @@
+{{Infobox comics character
+<!--Wikipedia:WikiProject Comics-->
+| character_name = Technovore
+| image          = <!-- filename format only -->
+| imagesize      = <!-- default 250 -->
+| caption        = 
+| publisher      = [[Marvel Comics]]
+| debut          = ''[[Iron Man (comic book)|Iron Man]]'' #294 (July 1993)
+| creators       = [[Len Kaminski]]<br>[[Kevin Hopgood]]
+| alter_ego      = 
+| full_name      =
+| species        = [[Nanobot]]
+| homeworld      = <!-- optional -->
+| alliances      = <!-- optional -->
+| partners       = <!-- optional -->
+| supports       = <!-- optional -->
+| aliases        = <!-- optional -->
+| powers         = 
+*Assimilation
+*Adaption
+*Shapeshifting
+| cat            = 
+| subcat         = 
+| hero           = 
+| villain        = y
+| sortkey        = 
+| addcharcat#    = 
+}}
+'''Technovore''' is a fictional [[supervillain]] appearing in [[American comic book]]s published by [[Marvel Comics]].
+
+==Publication history==
+Technovore first appears in ''[[Iron Man (comic book)|Iron Man]]'' #294 and was created by [[Len Kaminski]] and [[Kevin Hopgood]].
+
+==Fictional character biography==
+Technovore is a technological parasite created by a scientist which kills everyone inside the [[Stark Industries|Stark Enterprises]] orbital space station. [[Iron Man]] investigates and confronts the nanotech monstrosity. As Iron Man heads to the station, a being called the "Goddess" takes him aside to offer him a place among her converts; Iron Man refuses and she promises punishment. Entering the station, Iron Man finds that the space crew members are now techno-organic creatures and they attempt to consume him as part of their quest for completion. Iron Man renovates his armor arsenal using the station stores, but after destroying the creatures they reform themselves into a single being calling itself the Technovore.<ref>''Iron Man'' 294. Marvel Comics.</ref>
+
+Iron Man battles the Technovore, but it can reshape itself from injury almost instantly. The Technovore causes the station's center of gravity to change, tearing the structure apart. Iron Man battles the creature in space and prepares his auto-destruct sequence but has to remain linked via telepresence at the last moment to prevent the Technovore from hacking into his computer and halting the countdown. Unfortunately, the Technovore overcomes Tony's controls. But at the explosion's instant, the Goddess separates Tony's consciousness from his body to save him from the neural feedback. She offers Tony another chance to serve her, but when he still refuses she returns him to his body.<ref>''Iron Man'' #295. Marvel Comics.</ref>
+
+==Powers and abilities==
+Technovore's body is made entirely of [[nanobot]]s. It can disassemble itself into a stream of nanites, enabling it to fit into and travel through extremely small spaces. Each nanite carries a copy of the entire viral personality, and it is implied that the whole entity can reconstruct itself from a single unit.
+
+Technovore can absorb technology into itself, adding the abilities of consumed technology into its physical being. In addition, Technovore's inherent resilience is augmented by an ability to adapt to weapons; over time, it will become immune to a given weapon if struck by it enough times.
+
+==In other media==
+===Television===
+* Technovore appears in ''[[Iron Man: Armored Adventures]]'', voiced by [[Tabitha St. Germain]]. In the episode "Seeing Red", it is a virus designed by Tony Stark to consume the data on the Iron Man armor and [[Crimson Dynamo]] armor in [[Project Pegasus]]'s computers and to stop [[Iron Monger|Obadiah Stane]] from getting both. The virus was meant to burn itself out during the process, but became sentient when it uploaded itself into Project Pegasus's nanobot project. In its self-titled episode "Technovore", the Technovore virus molds the nanotechnology into a body which ran loose is the Project Pegasus building, assimilating all technology it could find. James Rhodes traveled to Project Pegasus' building to check out a disturbance, but encounters Technovore. Technovore used Rhodey's earpiece to call its creator so it could consume the Iron Man armor. Anton Harchov who is the lead scientist escapes Project Pegasus just before Iron Man arrives. Iron Man activates the armor's self-destruct, and runs leaving it behind. The explosion destroys Technovore. Later in Russia, Anton leaves a private jet unaware that some of the nanobots from Technovore's body were inside of his coat's fabric.
+* Technovore appears in ''[[The Avengers: Earth's Mightiest Heroes]]'', voiced by [[Dwight Schultz]]. In "Nick Fury: Agent of S.H.I.E.L.D.", it is seen as an inmate at the [[Vault (comics)|Vault]]. In "Alone Against A.I.M.", Technovore is revealed to have escaped during the Vault's mass-breakout and gets captured by [[Advanced Idea Mechanics|A.I.M.]] agents. Technovore was used by A.I.M.'s [[Scientist Supreme]] to take revenge on Tony Stark after A.I.M.'s reprogramming. Technovore gets released in Stark Industries and fought both Tony and [[Maria Hill]]. Later when Technovore dragged [[War Machine]] to the Arc Reactor, [[Iron Man]] used Technovore to consume the Arc Reactor's energy and to deactivate the bombs as well. Technovore then exploded due to consuming too much energy.
+
+===Film===
+* Technovore is a central secondary villain in ''[[Iron Man: Rise of Technovore]]'', voiced by [[Miyu Irino]] in the Japanese version and by [[Eric Bauza]] in the English dub.<ref>http://www.newsarama.com/10284-marvel-and-sony-announce-new-iron-man-animated-feature.html</ref> This version is a [[biotechnological]] nanite virus created by [[Zeke Stane]] which serves as armor. It was created through a combination of biotechnology and mechatronics, a biomechanical organism, every cell of which is created via molecular assembler. It is linked directly into Zeke's nervous system, allowing him to control it through thought alone. Technovore later would gain sentience, mutating its host's body to destroy everything that stands in its way, using the "Howard" satellite as its core. When the "Howard" Satellite is destroyed by [[Pepper Potts]], Technovore is defeated by Iron Man and War Machine. Zeke is freed from Technovore's control and is imprisoned by [[S.H.I.E.L.D.]] in a comatose state.
+
+==References==
+{{Reflist}}
+
+==External links==
+* [https://marvel.fandom.com/wiki/Technovore_%28Earth-616%29 Technovore] at Marvel Wiki
+* [https://comicvine.gamespot.com/technovore/4005-56711/ Technovore] at Comic Vine
+
+{{Iron Man}}
+
+[[Category:Comics characters introduced in 1993]]
+[[Category:Fictional artificial intelligences]]
+[[Category:Fictional murderers]]
+[[Category:Fictional robots]]
+[[Category:Fictional viruses]]
+[[Category:Superhero film characters]]
+[[Category:Marvel Comics robots]]
+[[Category:Marvel Comics supervillains]]

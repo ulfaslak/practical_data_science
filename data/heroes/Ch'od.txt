@@ -1,0 +1,61 @@
+{{Infobox comics character| <!--Wikipedia:WikiProject Comics--> 
+image=Ch'od (Marvel character).jpg
+|real_name=Ch'od
+|caption=Ch'od.<br>Art by [[Billy Tan]].
+|species=[[List of Marvel Comics alien races#S|Saurid]]
+|publisher=[[Marvel Comics]]
+|debut=''[[Uncanny X-Men|X-Men]]'' #104 (Apr 1977)
+|creators=[[Dave Cockrum]]<ref name="Wizard_Aug93"/>
+|alliances=[[Starjammers]]
+|aliases=
+|powers=superhuman strength, endurance, superb marksman, swordsman, and hand-to-hand combatant
+|}}
+
+'''Ch'od''' is a [[fictional character]] appearing in [[American comic book]]s published by [[Marvel Comics]]. The character is usually seen in the [[X-Men]] series and various spin-offs.
+
+==Publication history==
+[[Dave Cockrum]] created the Starjammers with the intent of having them star in their own series. However, when he submitted the concept for Marvel's two try-out series, ''[[Marvel Spotlight]]'' and ''[[Marvel Premiere]]'', he was repeatedly informed that these series were booked for two years solid. Running out of patience, Cockrum showed the Starjammers to ''[[X-Men]]'' writer [[Chris Claremont]], and convinced him to use the characters for this series.<ref name="Wizard_Aug93">{{cite news | last = Meth | first= Clifford | date = August 1993 | title = How a Typhoon Blew in Success | work = [[Wizard (magazine)|Wizard]]: X-Men Turn Thirty | issue = | pages = 50–52}}</ref> He first appeared in ''X-Men'' #104 (April 1977).
+
+==Fictional character biography==
+Ch’od is one of the founding members of the [[Starjammers]]. Though he can be a fierce combatant, he is usually genial and friendly in social interactions (though his sheer size and lizard-like appearance can be intimidating to those unfamiliar with him or his species). Ch’od is accompanied by his small, furry intelligent alien pet Cr’reee, from the planet Lupus.
+
+Ch'od was born on the planet Timor (Varanus IV), in the Shi'ar Empire. He was once a slave on the planet Alsibar, where he met the other original three beings who would become Starjammers, and [[Corsair (comics)|Corsair]] lead a rebellion.<ref>''Classic X-Men'' #15</ref> The group ended up operating out of a powerful starship, and gained the membership of [[Sikorsky (comics)|Sikorsky]], a powerful, insectoid doctor.
+
+Ch'od first met the [[X-Men]] when the Starjammers came to aid them against [[D'Ken]]'s [[Imperial Guard (comics)|Imperial Guard]].<ref>''X-Men'' Vol. 1 #107</ref> He helped save [[Colossus (comics)|Colossus]]'s life in outer space, and engaged in mock combat with [[Ms. Marvel|Carol Danvers]].<ref>''Uncanny X-Men'' #157–158</ref> With the Starjammers, he aided the [[New Mutants]] against the [[Magus (Technarchy)|Magus]].<ref>''New Mutants'' #50</ref>
+
+Ch'od and [[Hepzibah (comics)|Hepzibah]] sought the "map-rod" holding information on the location of the "Phalkon" power source, which was actually the [[Phoenix (comics)|Phoenix]]. [[Deathbird]]'s Shi'ar starships attacked the Starhammers. The Starjammers went to Earth and met [[Excalibur (comics)|Excalibur]], and aided a rebellion against Deathbird on a Shi'ar border world.<ref>''X-Men Spotlight on: Starjammers'' #1–2</ref>
+
+For a time he and his fellow Starjammers were imprisoned and replaced by the [[Skrull|Warskrulls]], who were attempting to conquer the [[Shi'ar]] Empire. The Warskrulls impersonated the Starjammers and key members of the Imperial Guard, until the [[X-Men]] helped rescue them.<ref>''Uncanny X-Men'' #275–277</ref>
+
+Ch'od battled [[Wonder Man]] and the [[Vision (Marvel Comics)|Vision]] while escorting the Shi'ar nega-bomb.<ref>''Wonder Man'' #8</ref>
+
+Ch'od has suffered the death of his loyal friend Corsair.<ref>''Uncanny X-Men'' #486, July 2007</ref> He also endured Hepzibah's stranding on Earth, although several X-Men have remained with the Starjammers.<ref>''Uncanny X-Men'' #487, July 2007</ref>
+
+Ch'od experienced the loss of his right hand after trying to prevent the abduction of Lilandra by the Shi'ar Imperial Guard. He blames himself for failing to prevent the abduction.<ref>''War of Kings'' #1</ref> During the mission to rescue their empress, Ch'od and the Starjammers end up rescuing a team from the [[Guardians of the Galaxy (2008 team)|Guardians of the Galaxy]] led by [[Rocket Raccoon]], who turns out to be an old friend of Ch'od and Corsair. This act however leads to their cover being blown forcing the Starjammers to flee.<ref>''Guardians of the Galaxy'' #13</ref><ref name="Pawns">[http://www.comicbookresources.com/?page=article&id=20802 ALL THE KINGS' MEN: White Pawns by Dave Richards, Staff Writer. Comic Book Resources.com]</ref>
+
+==Powers and abilities==
+As a member of the Saurid race, Ch'od possesses superhuman strength, durability, and endurance, and possesses both lungs and gills.
+
+He is also a superb marksman (with various forms of Shi'ar weaponry), swordsman, and hand-to-hand combatant, having been trained in various forms of combat known in the Shi'ar Galaxy. He is a highly skilled starship pilot. He has carried Shi'ar-manufactured swords, battleaxes, and energy guns as weapons.
+
+==In other media==
+
+===Television===
+* Ch'od appears in the five-part Phoenix Saga of ''[[X-Men (TV series)|X-Men]]''. He appears as a member of the Starjammers in the episode "[[List of X-Men (TV series) episodes#Season Three|Phoenix Saga (Part 4): The Starjammers]]".
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://en.marveldatabase.com/Ch%27od_%28Earth-616%29 Ch'od] at Marvel Wiki
+
+{{Marvel Cosmic}}
+
+[[Category:Characters created by Dave Cockrum]]
+[[Category:Comics characters introduced in 1977]]
+[[Category:Extraterrestrial superheroes]]
+[[Category:Marvel Comics aliens]]
+[[Category:Marvel Comics characters with superhuman strength]]
+[[Category:Marvel Comics martial artists]]
+[[Category:Marvel Comics superheroes]]
+[[Category:Space pirates]]

@@ -1,0 +1,64 @@
+{{Infobox comics character  <!--Wikipedia:WikiProject Comics-->
+| character_name= Condor
+| image=Condor_HCV.jpg
+| imagesize = 200
+| converted=y
+| caption=Art from ''Nova'' #2 (vol. 1). Art by John Buscema.
+| publisher=[[Marvel Comics]]
+| debut=''[[Nova (Richard Rider)|Nova]]'' #2 (1976)
+| issues=
+| creators = [[Marv Wolfman]]<br>[[John Buscema]]
+| alter_ego =
+| full_name = 
+| species = Bird-People
+| homeworld = [[Earth]]
+| alliances = Terrible Trio 
+| partners = <!-- optional -->
+| aliases = <!-- optional -->
+| supports = <!--optional-->
+| powers = Enhanced strength, agility and reflexes. Flight via wings.
+}}
+'''Condor''' is a fictional character appearing in [[American comic book]]s published by [[Marvel Comics]].
+
+==Publication history==
+The Condor first appeared in ''[[Nova (Richard Rider)|Nova]]'' #2-3 (October–November 1976), and was created by [[Marv Wolfman]] and [[John Buscema]]. The character subsequently appears in ''Nova'' #6-8 (February–April 1977), #10 (June 1977), ''Nova'' #2-5 (February–May 1994), #13 (January 1995), ''Nova'' #3-4 (July–August 1999), #7 (November 1999), and ''Amazing Spider-Man'' #562-563 (August 2008).
+
+==Fictional character biography==
+Condor is a winged criminal scientist and is a member of the Bird-People, an offshoot of the [[Inhumans]] that adopted [[Red Raven (Marvel Comics)|Red Raven]]. He was a member of the Terrible Trio, along with [[Diamondhead (comics)|Diamondhead]] and [[Powerhouse (comics)#Powerhouse (Rieg Davan)|Powerhouse]],<ref>''Nova'' Vol 1 #6-8, #10</ref> and an enemy of [[Nova (Richard Rider)|Nova]] and the [[Champions of Xandar]]. During a battle with the [[Sphinx (Marvel Comics)#The First Sphinx|Sphinx]], he was transformed into an actual condor.<ref>''Nova'' Vol 1 #10</ref>
+
+Condor spent several years in the form of an animal until he landed on the island of [[Bird-Brain (Marvel Comics)|Bird-Brain]] and the Ani-Mates. Bird-Brain recognized that the Condor was not a real animal and transformed him into a semi-humanoid. He confronted Nova again angrily and ultimately left feeling their conflict had been useless.<ref>''Nova'' Vol 2 #5</ref>
+
+Condor later attacked Nova and [[Mister Fantastic|Reed Richards]], but was defeated and taken into [[S.H.I.E.L.D.]] custody. Red Raven took this opportunity to attempt to bring the Condor back by force, hoping to place him on trial among the Bird-People to face justice. Red Raven led a group of Avians to assault Manhattan, but Nova managed to convince him to call off the attack.{{Issue|date=April 2010}}
+
+The Condor appeared in ''[[Spider-Man: Brand New Day|Brand New Day]]'' as one of the villains in the bar.<ref>''Amazing Spider-Man'' #562-563</ref>
+
+It is revealed in the [[Guardians of the Galaxy (2008 team)|Guardians of the Galaxy]] series that Condor is one of the inmates left behind in the [[Negative Zone]] 42 prison. He, [[Bison (comics)|Bison]], and [[Gorilla-Man]] II are involved in a fight with [[Star-Lord]] who, with the help of [[Jack Flag]], is trying to stop [[Blastaar]] and his horde from invading Earth via the closed portal in the prison.<ref>''Guardians of the Galaxy'' #9</ref>
+
+During the ''[[Avengers: Standoff!]]'' storyline, Condor was an inmate of Pleasant Hill, a gated community established by S.H.I.E.L.D. After his memory was restored by [[Baron Zemo|Baron Helmut Zemo]] and [[Fixer (comics)|Fixer]], he joined the villains on a rampage against S.H.I.E.L.D. and fought the [[Avengers (comics)|Avengers]].<ref>''All-New, All-Different Avengers'' #8</ref>
+
+==Powers and abilities==
+The Condor possesses two wings on his back which allow for flight. He also has enhanced superhuman strength and sharp talons on the end of each finger.
+
+==Other characters named Condor==
+There had been other characters that used the name Condor:
+
+* A character named Condor was Delvadian revolutionary where his men targeted US Ambassador Jerome Villers only for them to encounter [[Daredevil (Marvel Comics character)|Daredevil]]. After a wounded Villers was captured by Condor's men posing as EMTs, US Representative Keith Bayard tried to round up a posse to fight Condor's men only for them to end up defeated and Bayard to be captured. Daredevil overhears that Bayard is more useful to them while alive.<ref>''Daredevil'' #75</ref> Daredevil overhears Condor's plans to use the helicopters as weapons so that he can free the oppressors of his people. After freeing Bayard, Daredevil follows Condor onto his helicopter. During the fight, Condor leapt off the helicopter as he continues his battle with Daredevil on the ground. With their fight escalating near the statue of Condor, a bolt of lightning strikes the mountain as a landslide ends up crushing Condor while Daredevil gets away from the landslide.<ref>''Daredevil'' #76</ref>
+* A superhero called El Condor was among the South American superheroes that were killed by [[Everyman (Marvel Comics)|Everyman]] (who operated under the alias of [[Zeitgeist (comics)|Zeitgeist]]).<ref>''Captain America'' #442</ref>
+* A character Condor is a member of the Contingency, a former S.H.I.E.L.D. Black Ops team that was created to kill mutants.<ref>''Wolverine/Captain America'' #1</ref>
+
+==References==
+{{Reflist}}
+
+==External links==
+* [http://marvel.wikia.com/wiki/Condor_(Bird_People)_(Earth-616) Condor (Bird People)] at Marvel Wiki
+* [http://marvel.wikia.com/wiki/Condor_%28Daredevil_Foe%29_%28Earth-616%29 Condor (Daredevil villain)] at Marvel Wiki
+* [http://marvel.wikia.com/wiki/El_Condor_%28Earth-616%29 El Condor] at Marvel Wiki
+* [http://marvel.wikia.com/wiki/Condor_%28Contingency%29_%28Earth-616%29 Condor (Contingency member)] at Marvel Wiki
+* {{Marvunapp|http://www.marvunapp.com/Appendix4/condor_avian.htm|Condor}}
+
+{{Nova}}
+[[Category:Characters created by John Buscema]]
+[[Category:Characters created by Marv Wolfman]]
+[[Category:Comics characters introduced in 1976]]
+[[Category:Fictional scientists]]
+[[Category:Marvel Comics supervillains]]

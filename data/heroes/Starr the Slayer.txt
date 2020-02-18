@@ -1,0 +1,64 @@
+{{Notability|date=August 2018}}
+{{Infobox comics character <!--Wikipedia:WikiProject Comics-->
+|image = Starr.jpg
+|converted = y
+|caption = Starr the Slayer, artist [[Barry Windsor-Smith]]
+|character_name = Starr the Slayer
+|real_name = Starr
+|publisher= [[Marvel Comics]]
+|debut = ''[[Chamber of Darkness]]'' #4<br> (April, [[1970 in comics|1970]])
+|creators = [[Roy Thomas]] (writer)<br>[[Barry Windsor-Smith]] (artist)
+|species   = <!-- optional -->
+|homeworld = <!-- optional -->
+|alliances = <!-- optional -->
+|partners  = <!-- optional -->
+|supports  = <!-- optional -->
+|aliases   =  <!-- optional: actual identities the character uses, not nicknames -->
+|powers = Expert [[swordsman]]
+|cat = super
+|subcat = Marvel Comics
+|hero = y
+|sortkey = Starr
+}}
+
+'''Starr the Slayer''' is a [[fictional character]] appearing in [[American comic book]]s published by [[Marvel Comics]]. He first appeared in ''[[Chamber of Darkness]]'' #4, (April 1970), and was created by [[Roy Thomas]] and [[Barry Windsor-Smith]]. In 2007, writer [[Warren Ellis]] introduced a new version of Starr in the Marvel series [[newuniversal]]. 
+
+==Publication history==
+===Chamber of Darkness===
+{{main|Chamber of Darkness}}
+The initial version of Starr, appearing on ''Chamber of Darkness'' #4, was a [[barbarian]] king defending his kingdom. A 20th century writer, Len Carson, dreamed of Starr's adventures. When he was about to turn in a manuscript that would kill off Starr, Starr mysteriously appeared, killing Carson. It is unclear whether or not Starr was intended to be part of the [[Marvel Universe]].<ref>http://www.marvunapp.com/Appendix3/starrslayer.htm marvunapp.com</ref>
+
+Starr the Slayer was a trial run for [[Conan (Marvel Comics)|Conan]] by Roy Thomas and Barry Smith, the original creative team of the Marvel Conan comics. Starr looks and acts like Conan but was created before Marvel Comics got the rights to do Conan.<ref>[http://www.muuta.net/Conan/StarrSlayer.html]</ref>
+
+===newuniversal===
+{{main|Star Brand (newuniversal)#Starr the Slayer}}
+[[Warren Ellis]]'s ''[[newuniversal]]'' series includes another version of Starr. In the universe of ''newuniversal'', some areas of space are part of an artificial construct, the 'newuniversal structure', and do not entirely obey the standard laws of physics. Earth has drifted into this structure on several occasions, and was within it for at least part of Starr's lifetime.{{issue|date=December 2012}}
+
+When a world first moves into the newuniversal structure, a small number of inhabitants are modified in predetermined ways, endowed with abilities that will help their people to cope with these changes. The ''newuniversal'' version of Starr was one such superhuman, gifted with the [[Starbrand]], which has been described as a planetary defense system embodied in human form.{{issue|date=December 2012}}
+
+An archaeological discovery on the new universal Earth reveals that Starr the Slayer, and the "prehistoric" city of [[Zardath]] actually existed in Northern Europe centuries before [[Uruk]], the oldest known human city. Starr, accompanied by three other superhumans, had greatly accelerated the technological development of his people; excavation of Zardath's ruins revealed [[Arc lamp|arc lights]] and possible traces of nuclear power.{{issue|date=December 2012}}
+
+However, Starr was betrayed by the Nightmask [[Nightmask (newuniversal)#Trull|Trull]], one of the other superhumans. Trull plotted against Starr's rule, destroyed the mind of his old friend [[Justice (New Universe)#newuniversal - Ukru|Ukru]] and preyed on other superhumans before they could reveal themselves to Starr and join Zardath.{{issue|date=December 2012}}
+
+Stripped of their minds, Trull's victims were hideously mutated by their own uncontrolled powers, becoming monstrous beasts - which Starr regularly fought and killed, without understanding their origin. Trull was eventually exposed when one of his victims, the mute girl Gila, managed to warn Starr before her death.<ref name="newuniversalconq">{{Comic book reference | Writer = [[Simon Spurrier]] | Artist = [[Eric Nguyen]] | Title = newuniversal: conqueror | Issue = 1 | Date =  October 2008| Publisher = [[Marvel Comics]]}}</ref> Starr's subsequent actions are unknown.
+
+Zardath was eventually buried beneath a rock shelf and undiscovered for approximately four and a half thousand years, uncovered only when earth drifted back into the newuniversal structure and the [[White Event]] created a new batch of superhumans. Starr himself had evidently died some time before Zardath was buried, as his body was entombed deep beneath the city; the tomb survived intact until Zardath was uncovered.{{issue|date=December 2012}}
+
+When the tomb was excavated the Starbrand, the mark associated with a Starbrand's powers, was still visible etched into the forehead of Starr's skull.<ref>[http://www.comicbookresources.com/?page=article&id=7677 CCI, Day 4: Ellis talks "newuniversal"], [[Comic Book Resources]]</ref>
+
+===MAX Comics===
+<!-- [[Starr the Slayer (MAX)]] redirects here -->
+In September 2009, a new version of Starr the Slayer by [[Daniel Way]] and  [[Richard Corben]] was published by Marvel Comic's [[MAX Comics]] imprint.<ref>[http://www.newsarama.com/comics/090620-heroes-starr-slayer.html Heroes Con '09: Marvel's Starr the Slayer Returns], [[Newsarama]], June 19, 2009</ref><ref>[http://www.comicbookresources.com/?page=article&id=21671 HeroesCon: Way & Corben Talk “Starr the Slayer"], [[Comic Book Resources]], June 20, 2009</ref>
+
+==Notes==
+{{reflist|2}}
+
+==External links==
+*[http://www.marvunapp.com/Appendix3/starrslayer.htm marvunapp.com Appendix - profile for Starr the Slayer (the 'Chamber of Darkness' version)]
+*[http://www.comicbookresources.com/news/newsitem.cgi?id=7950 Warren Ellis "newuniversal" interview - with design sketches for ''The Slayer'']
+
+[[Category:Comics characters introduced in 1970]]
+[[Category:Marvel Comics superheroes]]
+[[Category:Fantasy comics]]
+[[Category:Characters created by Roy Thomas]]
+[[Category:Characters created by Barry Windsor-Smith]]

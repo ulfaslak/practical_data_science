@@ -1,0 +1,43 @@
+{{Notability|date=February 2019}}
+{{Infobox comics character| <!--Wikipedia:WikiProject Comics-->
+| image =<!--  Commented out because image was deleted: [[Image:Shapesqsup001.jpg|250px]] -->
+| caption = Shape (II)<BR>Art by [[Gary Frank]]
+| character_name = Shape
+| publisher = [[Marvel Comics]]
+| debut = ''[[Squadron Supreme]]'' #5 (I) (Jan 1986)<BR>Supreme Power #18(II)
+| creators = [[Mark Gruenwald]]
+| real_name =Raleigh Lund
+| alliances =[[Institute of Evil]]<br/>[[Squadron Supreme]]<br/>[[America Redeemers|Redeemers]]
+| aliases = 
+| powers = malleable, putty-like body<BR>[[Blob (comics)|Blob]]
+}}
+'''Shape''' is a fictional character appearing in [[American comic book]]s published by [[Marvel Comics]]. The character was created by [[Mark Gruenwald]].
+
+==Fictional character biography==
+The Shape (real name '''Raleigh Lund''') was born in Simak, Lowengard, in the U.S.A. of the alternate Earth of the [[Squadron Supreme]], [[Earth-712]]. Although he appears to be an adult male, his emotional and intellectual development is comparable to that of a child.
+
+Originally, he was a member of the criminal [[Institute of Evil]], the Squadron's arch-foes, although, lacking sincere criminal intent, he was mostly following the lead of team leader [[Ape-X]], who had been his friend "for years and years." After the Institute of Evil lost a battle against the Squadron,<ref>''Squadron Supreme'' #5</ref> all of the Institute's members underwent behavior modification, their criminal records were pardoned, and they all joined the Squadron.<ref>''Squadron Supreme'' #5</ref> Now, as a public crusader and adventurer, Shape helped supervise the manufacturing of force field belts.<ref>''Squadron Supreme'' #8</ref> He also helped his fellow superheroes and babysat for [[Arcanna|Arcanna Jones]]' three children, becoming especially close with Drusilla Jones.<ref>''Squadron Supreme'' #9</ref> Eventually the behavior modification was reversed by the Squadron's opponents the [[America Redeemers|Redeemers]], but the Shape, having never been a criminal at heart in the first place, still chose to side with the Squadron against [[Nighthawk (Marvel Comics)|Nighthawk]] and the Redeemers. After the battle, Shape helped get the pregnant Arcanna to the delivery room after she collapsed.<ref>''Squadron Supreme'' #12</ref>
+
+Later, Shape accompanied the Squadron in a futile struggle against the [[Nth Man]].<ref>''Squadron Supreme Graphic Novel''</ref> As a result, Shape and the Squadron traveled to Earth.  There, Shape and [[Haywire (comics)|Haywire]] were mentally coerced by the [[Overmind (comics)|Over-Mind]] to prevent [[Quasar (Wendell Vaughn)|Quasar]] from following the starship in which the Over-Mind had kidnapped the Squadron Supreme.<ref>''Quasar'' #13</ref>
+
+==Powers and abilities==
+{{Unreferenced section|date=January 2010}}
+The Shape's entire body is extremely rubbery, putty-like and malleable. He has approximately {{convert|250|lb|abbr=on}} of body mass that he can shift from one area of his body to another; when he is relaxed it settles in his legs and lower body. He can shift up to 80% of his physical mass at will, thus altering his entire shape. He can use this mass to elongate, compress, or enlarge various parts of his body, or form non-humanoid shapes such as hammer-shaped fists or a [[trampoline]]-shaped [[torso]], or taking the shape of a [[hang glider]]. His bones stretch to a maximum of five times their ordinary length. The Shape's below normal intelligence prevents him from thinking of more creative uses for his shifting body mass.{{Issue|date=February 2019}}
+
+His body tissue can resist extreme temperatures and pressures, burning, lacerations, ballistic penetration, and impacts, without sustaining injury. The Shape has a high physical pain threshold, and superhuman durability. He is not invulnerable; certain extreme physical injuries are beyond his ability to resist.{{Issue|date=February 2019}}
+
+==Other Versions==
+===Supreme Power===
+In Part III: High Command, Shape is introduced as Raleigh Lund, a dim-witted, morbidly obese former janitor abandoned as a child by his parents.  He survived from a very early age by eating discarded food and sleeping in dumpsters. He possesses superhuman strength and apparent invulnerability. In ''Supreme Power: Hyperion'', he is described by General Alexander as the perfect soldier—loyal, invulnerable, and strong—though he is quite lacking in the area of independent thought and strategy.{{Issue|date=February 2019}}
+
+==References==
+{{reflist}}
+
+==External links==
+*http://www.marvel.com/universe/Shape_%28Earth-712%29
+
+[[Category:Characters created by Mark Gruenwald]]
+[[Category:Comics characters introduced in 1986]]
+[[Category:Fictional characters who can stretch themselves]]
+[[Category:Fictional shapeshifters]]
+[[Category:Marvel Comics supervillains]]

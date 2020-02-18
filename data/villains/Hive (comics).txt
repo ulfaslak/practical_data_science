@@ -1,0 +1,73 @@
+{{more footnotes|date=March 2016}}
+{{About|the Marvel villain|the DC Comics criminal organization|H.I.V.E.}}
+{{Infobox comics character 
+<!--Wikipedia:WikiProject Comics-->
+| image          = <!-- [[WP:NFCC]] violation: Secret Warriors Vol 1 12.jpg -->
+| imagesize      = <!-- default 250 -->
+| caption        = Hive (left) attacking [[Yo-Yo Rodriguez]] and [[Stonewall (comics)|Stonewall]] on the cover of ''[[Secret Warriors (comic book)|Secret Warriors]]'' #12.  
+| debut          = ''[[Secret Warriors (comic book)|Secret Warriors]]'' #2 (May 2009)
+| creators       = [[Brian Michael Bendis]]<br />[[Alex Maleev]]
+| alter_ego      =
+| full_name      = 
+| species        = <!-- optional -->
+| homeworld      = <!-- optional -->
+| alliances      = [[Hydra (comics)|Hydra]]
+| partners       = <!-- optional -->
+| supports       = <!-- optional -->
+| aliases        = 
+| powers         =
+| cat            = super
+| subcat         = Marvel Comics
+| hero           = 
+| villain        = y
+| sortkey        = Hive
+| addcharcat#    =
+}}
+'''Hive''' is a fictional supervillain appearing in [[American comic book]]s published by [[Marvel Comics]]. Hive was an experiment made to physically embody the ideals of the fictional terrorist group [[Hydra (comics)|HYDRA]]. The entity is composed of untold numbers of genetically-engineered parasites.
+
+Hive appeared in the [[Marvel Cinematic Universe]] TV series ''[[Agents of S.H.I.E.L.D.]]'' where he was an ancient [[Inhumans|Inhuman]] and was primarily portrayed by [[Brett Dalton]].
+
+==Publication history==
+Hive first appeared in ''[[Secret Warriors (comic book)|Secret Warriors]]'' #2 (May 2009) and was created by [[Brian Michael Bendis]] and [[Alex Maleev]].
+
+==Fictional character biography==
+The Hive was created in the [[Hydra (comics)|HYDRA]] laboratories in their home base of Gehenna. An unknown and unwitting HYDRA agent was offered/fed to these parasites as a host around which they could merge into a singular being. Grotesque and menacing in both stature and appearance, the Hive had no identity of its own, per se, as its collective will dominate the human host it engulfs.<ref>''Secret Warriors'' #2</ref> However, it possesses a quiet and cunning intelligence and as a result of its conditioning is completely dedicated to the HYDRA cause to the extent that [[Baron Strucker]] appointed it as a figurehead alongside himself, the [[Viper (Madame Hydra)|Viper]], [[Gorgon (Tomi Shishido)|Gorgon]], [[Kraken (character)#Daniel Whitehall|Kraken]], and the new Madame HYDRA in the form of triple agent [[Valentina Allegra de Fontaine]].<ref>''Secret Warriors'' #3</ref>
+
+When HYDRA went to war against the rival organization [[Leviathan (Marvel Comics)|Leviathan]], Valentina revealed her true allegiance and murdered her predecessor Viper. When Strucker and the other heads discovered Viper's corpse, the Hive shocked and appalled them all by merging with the deceased woman's body re-animating Viper, but with the parasites themselves gathering into a bulbous mass atop her head with four prehensile tentacles.<ref>''Secret Warriors'' #4</ref>
+
+Nick Fury has one of his teams led by his son Mikel Fury sent to destroy the Hive Base located in the Indian Ocean. The team is attacked by hundreds of HYDRA agents being controlled by Hive itself. The team is overrun, but not before sacrificing themselves to blow up the base presumably killing Hive.<ref>''Secret Warriors #24''</ref>
+
+Taking back her title as Madame HYDRA, Viper and Gorgon subsequently broke away from Baron Strucker's weakening grip on HYDRA and formed an alliance with [[Norman Osborn]]'s [[H.A.M.M.E.R.]] organization.<ref>''Secret Warriors'' #20</ref> During this brief and fragile union, Osborn arranged for Madame HYDRA to undergo surgery to remove the Hive from her in a way that would keep her alive.<ref>''Secret Warriors'' #21</ref>
+
+Hive is later found alive in a HYDRA-decorated crypt in [[Egypt]] by the new [[Madame Hydra|Madame HYDRA]] in her bid to form a new HYDRA High Council to assist Steve Rogers, who had his history altered to be a HYDRA sleeper agent for years by [[Red Skull]]'s clone using the powers of [[List of Marvel Comics characters: K#Kobik|Kobik]].<ref>''Captain America: Steve Rogers'' #14</ref>
+
+During the ''[[Secret Empire (comics)|Secret Empire]]'' storyline, Hive is shown to have taken control of the [[The Hand (comics)|Hand]] when the Underground encounters him and Gorgon in [[Madripoor]]. Hive is defeated by the Tony Stark A.I.<ref>''Secret Empire'' #5</ref>
+
+==Powers and abilities==
+The Hive's body, while bipedal, is not a solid figure but a writhing congregation of its many parasites. As such, these parasites can actually latch away from the mass and attack others at high speed—making them effective projectile weapons. As one, the Hive is capable of asserting itself as an individual, albeit without name or personality. In this form it is capable of speech—the language, however, is unknown, though spoken also by other HYDRA agents—suggesting it is one of their own design, created for strategic secrecy when in the field. The Hive is capable of breathing both on land and underwater.
+
+Hive's strength level is never revealed but it is implied that the Hive possesses a greater than average physical strength from the combined efforts of its parasites. The Hive's only weakness is that despite the deadliness of its parasites it still has the physical limitations of its human host; in other words, whilst it can improve upon the host's strength and skills it cannot perform impossibilities such as flight if the host cannot. Also, any ailments afflicting the host prior to absorption will still be present and will affect the Hive—for instance, its original human host possessed a minute blood disorder and was also a diabetic—hence, why the HYDRA heads deemed him as fodder for the Hive experiment and would have also made him weak enough to be absorbed. These maladies would have also been present within the Hive afterwards. When the Hive later merged with the Viper, these ailments would no longer be present.
+
+==In other media==
+[[File:Hive_Agents_of_Shield.png|thumb|right|Hive as he appears on the television series ''[[Agents of S.H.I.E.L.D.]]'']]
+An Inhuman version of Hive, also known as '''Alveus''', appears as the main antagonist in [[Agents of S.H.I.E.L.D. (season 3)|season 3]] of ''[[Agents of S.H.I.E.L.D.]]'' Originally a [[Maya civilization|Maya]] warrior in ancient times (portrayed by Jason Glover), he was captured by the [[Kree]] Reapers and became one of their first subjects to undergo [[Terrigen Mist|Terrigenesis]], a process used to create [[super soldiers]] known as [[Inhumans]].<ref>{{cite episode|title=[[Failed Experiments]]|series=Marvel's Agents of S.H.I.E.L.D.|credits=Stanzler, Wendey (director); Brent Fletcher (writer)|network=[[American Broadcasting Company|ABC]]|airdate=May 3, 2016|season=3|number=19}}</ref> Terrigenesis transforms him into a mass of cellular parasites which survives by inhabiting a dead human host, gaining their memories in the process, and he can manifest an alien-like head with protruding tentacles. Hive can expel the parasites to devour humans for nourishment, or infect Inhumans to "[[Mind control|sway]]" them under his control in a [[Group mind (science fiction)|hive mind]].<ref>{{cite episode|title=[[Many Heads, One Tale]]|series=Marvel's Agents of S.H.I.E.L.D.|credits=Brown, Garry A. (director); Jed Whedon and DJ Doyle (writer)|network=[[American Broadcasting Company|ABC]]|airdate=November 17, 2015|season=3|number=8}}</ref> The ancient Inhumans feared him and used Kree technology to banish him to a faraway planet called Maveth.<ref>{{cite episode|title=[[Paradise Lost (Agents of S.H.I.E.L.D.)|Paradise Lost]]|series=Marvel's Agents of S.H.I.E.L.D.|credits=Stanzler, Wendey (director); George Kitson and Sharla Oliver (writer)|network=[[American Broadcasting Company|ABC]]|airdate=April 12, 2016|season=3|number=16}}</ref> His remaining worshipers established a [[secret society]] to prepare the world for his return (ultimately evolving into the terrorist organization [[Hydra (comics)|HYDRA]]) and provide new victims/hosts, including Lord Manzini (portrayed by Daniel J. Wolfe),<ref>{{cite episode|title=[[Purpose in the Machine]]|series=Marvel's Agents of S.H.I.E.L.D.|credits=Tancharoen, Kevin (director); DJ Doyle (writer)|network=[[American Broadcasting Company|ABC]]|airdate=October 6, 2015|season=3|number=2}}</ref> Nathaniel Malick (portrayed by [[Joel Courtney]])<ref>{{cite episode|title=[[4,722 Hours]]|series=Marvel's Agents of S.H.I.E.L.D.|credits=Bochco, Jesse (director); Craig Titley (writer)|network=[[American Broadcasting Company|ABC]]|airdate=October 27, 2015|season=3|number=5}}</ref> and NASA astronaut Will Daniels (portrayed by [[Dillon Casey]]). Through HYDRA's efforts, Hive returns to Earth in the corpse of HYDRA leader '''Grant Ward''' (portrayed by [[Brett Dalton]]).<ref>{{cite episode|title=[[Maveth]]|series=Marvel's Agents of S.H.I.E.L.D.|credits=Misiano, Vincent (director); Jeffrey Bell (writer)|network=[[American Broadcasting Company|ABC]]|airdate=December 8, 2015|season=3|number=10}}</ref> Hive seizes control of HYDRA and recreates the Terrigenesis experiment, seizing a warhead to spread worldwide a virus that transforms humans into Hive-infected [[Alpha Primitive|primitive Inhuman warriors]].<ref>{{cite episode|title=[[Emancipation (Agents of S.H.I.E.L.D.)|Emancipation]]|series=Marvel's Agents of S.H.I.E.L.D.|credits=Misiano, Vincent (director); Craig Titley (writer)|network=[[American Broadcasting Company|ABC]]|airdate=May 10, 2016|season=3|number=20}}</ref> His efforts are thwarted by [[S.H.I.E.L.D.]] when Lincoln Campbell entraps them both in a space bound [[Quinjet]] containing the exploding warhead, killing them both.<ref>{{cite episode|title=[[Ascension (Agents of S.H.I.E.L.D.)|Ascension]]|series=Marvel's Agents of S.H.I.E.L.D.|credits=Tancharoen, Kevin (director); Jed Whedon (writer)|network=[[American Broadcasting Company|ABC]]|airdate=May 17, 2016|season=3|number=22}}</ref> In "[[The Real Deal (Agents of S.H.I.E.L.D. episode)|The Real Deal]]", a fear manifestation of Hive is among the fear manifestations released when the Kree Beacon exploded near the three monoliths. It was destroyed by Phil Coulson and [[Deathlok]].<ref>{{cite episode|title=The Real Deal|series=Agents of S.H.I.E.L.D.|credits=Tancharoen, Kevin (director); Jed Whedon & Maurissa Tancharoen & Jeffrey Bell (writer)|network=[[American Broadcasting Company|ABC]]|airdate=March 9, 2018|season=5|number=12}}</ref>
+
+==References==
+{{Reflist|30em}}
+* ''[[Secret Warriors (comic book)|Secret Warriors]]'' #2-6, 12, 15, 16, 20, and 24, Marvel Comics.
+
+==External links==
+* [http://marvel.fandom.com/wiki/Hive_%28Earth-616%29 Hive] at Marvel Wiki
+* [http://comicvine.gamespot.com/the-hive/4005-60718/ Hive] at Comic Vine
+* [https://marvelcinematicuniverse.fandom.com/wiki/Hive Hive] at Marvel Cinematic Universe Wiki
+
+{{Brian Michael Bendis}}
+[[Category:Characters created by Alex Maleev]]
+[[Category:Characters created by Brian Michael Bendis]]
+[[Category:Comics characters introduced in 2009]]
+[[Category:Hydra agents]]
+[[Category:Fictional mass murderers]]
+[[Category:Fictional hypnotists and indoctrinators]]
+[[Category:Fictional parasites and parasitoids]]
+[[Category:Marvel Comics television characters]]
+[[Category:Fictional genetically engineered characters]]

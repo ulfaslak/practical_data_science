@@ -1,0 +1,10 @@
+#Redirect [[1989 in comics]]
+
+{{Rcat shell|
+{{R from fictional character|Marvel Comics}}
+{{R from merge}}
+{{R comics to list entry}}
+}}
+
+{{DEFAULTSORT:Agent (Comics)}}
+[[Category:Marvel Comics superheroes]]

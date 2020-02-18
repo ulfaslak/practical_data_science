@@ -1,0 +1,64 @@
+{{Infobox comics character
+<!--Wikipedia:WikiProject Comics-->
+| character_name = Mister Rasputin
+| image          = <!-- filename format only -->
+| imagesize      = <!-- default 250 -->
+| caption        = 
+| publisher      = [[Marvel Comics]]
+| debut          = ''[[Strange Tales]]'' #145 (1966)
+| creators       = [[Dennis O'Neil]] (writer)<br>[[Steve Ditko]] (artist)
+| alter_ego      = 
+| full_name      = Pavel Rasputin
+| species        = <!-- optional -->
+| homeworld      = <!-- optional -->
+| alliances      = <!-- optional -->
+| partners       = <!-- optional -->
+| supports       = <!-- optional -->
+| aliases        = Pavel Plotnick
+| powers         = Sorcery, force-field generation, energy projection, teleportation 
+| cat            = 
+| subcat         = 
+| hero           = super
+| villain        = y
+| sortkey        = 
+| addcharcat#    = 
+}}
+'''Pavel Plotnick''' (né Rasputin), better known as '''Mister Rasputin''', is a fictional character, a super villain appearing in [[American comic book]]s published by [[Marvel Comics]]. 
+
+==Publication history==
+Mister Rasputin made his official debuts in June 1966's ''[[Strange Tales]]'' #145, which was edited by [[Stan Lee]], written by [[Dennis O'Neil]], drawn by [[Steve Ditko]], and lettered by [[Artie Simek]]. The issue was a double feature, showcasing both Doctor Strange and Nick Fury.<ref name="Handbook 1"/>
+
+==Fictional character biography==
+===1960s===
+An alleged descendant of Russian mystic [[Grigori Rasputin]], Pavel Rasputin craves world domination. Adopting the moniker of Mister Rasputin, he starts to hone his sorcery skills, before stealing classified papers from various government sites. Aware of Rasputin's treachery, [[Doctor Strange]] tracks him down and fights him. However, having had already exhausted his reserves during his recent encounter with Tazza, Strange is unable to attack Rasputin full-force. Just as he is about to call upon his mystic cloak to subdue Rasputin, the villain withdraws a firearm and shoots the Sorcerer Supreme. Greatly weakened, Strange barely makes his way to the hospital, where he recuperates.<ref name="Rasputin 1">{{cite comic|writer=[[Dennis O'Neil]]|artist=[[Steve Ditko]]|editor=[[Stan Lee]]|title=[[Strange Tales]]|issue=145|date=June 1966|publisher=Marvel Comics|location=New York City|story=To Catch a Magician!}}</ref>
+
+Not contented with his pseudo-victory, Rasputin sends an assassin to murder Strange. Using his astral form, Strange confronts Rasputin for the second time. This time, he is able to defeat him. Strange uses sorcery to remove all knowledge about magic from Rasputin's mind, before turning him in to the police.<ref name="Rasputin 1"/>
+
+===1980s===
+Reflecting on his own actions in prison, Rasputin decides to change his legal name to Pavel Plotnick. He relocates to [[Ohio]] and joins the insurance industry. Finding a wife, he fathers two children. His son Lamar later learns about the dark arts by accident. This newfound information allows him to capture [[Cloak and Dagger (comics)|Cloak]]. Plotnick discovers what has occurred and apologetically frees Cloak, before admonishing his son.<ref name="Rasputin 2">{{cite comic|writer=[[Terry Austin (comics)|Terry Austin]]|penciller=Dan Lawlis|inker=P. Craig Russell|title=Cloak and Dagger|issue=1|volume=3|date=October 1988|publisher=Marvel Comics|location=New York City|story=Blind Salvation}}</ref>
+
+===2000s===
+During the ''[[Dark Reign (comics)|Dark Reign]]'' storyline after Doctor Strange is stripped of his "Sorcerer Supreme" title because he utilized [[dark magic]], the Eye of Agamotto greets Plotnick and proposes that he be a candidate for the vacant title.<ref name="Rasputin 3">{{cite comic|writer=[[Brian Michael Bendis]]|penciller=Billy Tan|inker=Matt Banning|title=New Avengers|issue=53|date=July 2009|publisher=Marvel Comics|location=New York City}}</ref>
+
+===2010s===
+Mister Rasputin has returned to his mischievous ways and was apprehended by [[S.H.I.E.L.D.]] Operatives of [[Mys-Tech]] working for Commander Myrrden infiltrated the Sanctum Sanctorum causing S.H.I.E.L.D. Agent [[Phil Coulson]] to bring Mister Rasputin in with a promise that if he helps them against Mys-Tech, his debt to S.H.I.E.L.D. will be paid. After placing some spying charges into the Sanctum Sanctorum, Mister Rasputin accompanied Phil Coulson and [[Spider-Man]] into the Sanctum Sanctorum where they defeated the Mys-Tech Agents. When Commander Myrrden is defeated and the Book of Morphesti that was opened was closed, Mister Rasputin removed the spell that was used on [[Wong (comics)|Wong]]. Phil Coulson then asked Spider-Man to stick around to make sure that Mister Rasputin remained long enough for Phil Coulson to get his release papers filled out.<ref>''S.H.I.E.L.D.'' Vol. 3 #3</ref>
+
+==Powers and abilities==
+A mystic himself, Mister Rasputin was capable of energy manipulation, force-field generation, illusion creation, and teleportation.<ref name="Handbook 1">{{cite book|page=40|title=Marvel Legacy: The 1960s–1990s Handbook|publisher=Marvel Comics|year=2007|isbn=9780785120827}}</ref>
+
+==See also==
+* {{portal-inline|Comics}}
+
+==References==
+{{Reflist}}
+
+==External links==
+* [http://marvel.wikia.com/wiki/Pavel_Plotnick_(Earth-616) Mister Rasputin] at Marvel Wiki
+* [http://comicvine.gamespot.com/mr-rasputin/4005-36485/ Mister Rasputin] at Comic Vine
+* {{Marvunapp|http://www.marvunapp.com/Appendix/mrrasp.htm|Mister Rasputin}}
+
+{{Doctor Strange}}
+
+[[Category:Fictional characters who use magic]]
+[[Category:Marvel Comics characters who use magic]]
+[[Category:Marvel Comics supervillains]]

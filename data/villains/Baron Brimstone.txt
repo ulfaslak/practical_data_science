@@ -1,0 +1,46 @@
+{{Infobox comics character<!--Wikipedia:WikiProject Comics-->
+| image =
+| caption =
+| character_name = Baron Brimstone
+| publisher = [[Marvel Comics]]
+| debut = ''Machine Man'' #16 (August 1980)
+| creators = [[Tom DeFalco]] (script)<br>[[Steve Ditko]] (art)
+| alter_ego = Baron Walther Theodoric
+| full_name =
+| species = <!-- optional -->
+| homeworld = <!-- optional -->
+| alliances = Satan Squad
+| aliases = <!-- optional: actual identities the character uses, not nicknames -->
+| supports=<!--optional-->
+| powers = Magic user
+}}
+'''Baron Brimstone''' is a fictional [[supervillain]] appearing in [[American comic book]]s published by [[Marvel Comics]].
+
+==Publication history==
+Baron Brimstone first appeared in ''[[Machine Man]]'' #16 (August 1980), and was created by [[Tom DeFalco]] (script) and [[Steve Ditko]] (art).
+
+The character subsequently appears in ''Marvel Team-Up'' #99 (November 1980), ''The Avengers'' #251 (January 1985), and ''Fantastic Four'' #336 (January 1990).
+
+==Fictional character biography==
+Baron Brimstone is a [[criminal]] who appears to use a combination of [[magic (paranormal)|magical powers]] and [[technology|technological devices]] in committing thefts.
+
+Baron Brimstone successfully steals the Sol-Mac from the Chem-Solar Corporation with the intention of mass-producing it as a weapon and selling it to various figures in the "criminal underworld". The security at Chem-Solar and [[Machine Man]] are unable to prevent the theft. Baron Brimstone later organizes a meeting with non-[[Maggia (comics)|Maggia]] affiltrated criminals to recruit them into his Satan Squad. Duke Dawson, one of the assembled criminals, takes exception to Brimstone's leadership and met with Delmar Insurance agent Pamela Quinn. This results in Baron Brimstone sending his lieutenants [[Snake Marston (comics)|"Snake" Marston]] and [[Hammer Harrison|"Hammer" Harrison]] to bring her in for interrogation. When Machine Man tracks them and finds the Satan Squad's hideout, he rescues Quinn, and hands Baron Brimstone to the police.<ref>''Machine Man'' #16</ref>
+
+While at a Maximum Security unit on Ryker's Island, Baron Brimstone [[hypnosis|hypnotizes]] a guard into freeing him. During this escape, he frees [[Sandman (Marvel Comics)|Sandman]]. Baron plots revenge on Machine Man. With Sandman, he appears at Delmar Insurance to kidnap Pamela Quinn only to be thwarted by Machine Man and [[Spider-Man]]. Baron Brimstone manages to escape.<ref>''[[Marvel Team-Up]]'' #99</ref>
+
+Baron Brimstone later robs a [[casino]] on the [[French Riviera]]. The Caribbean-based casino owners hire [[Paladin (comics)|Paladin]] to bring him to justice. The [[Wasp (comics)|Wasp]] assists in the Baron's defeat.<ref>''[[Avengers (comics)|Avengers]]'' #251</ref>
+
+During the ''[[Acts of Vengeance]]'', [[Doctor Doom]] later uses his Aggression Enhancer to force Baron Brimstone, as well as [[Armadillo (comics)|Armadillo]], [[Man-Ape]], [[Orka (comics)|Orka]], [[Stilt-Man]], and [[Whirlwind (comics)|Whirlwind]], into attacking the [[Fantastic Four]] at their court hearing. All the villains are defeated and taken into police custody <ref>''Fantastic Four'' #336</ref>
+
+Several years later, Baron Brimstone is involved in a "cursed arms" racket (Demonica Soulcutters, or "Damunition") in Miami, and encounters investigating members of the latest incarnation of Heroes For Hire: [[Silver Sable]], [[Paladin (comics)|Paladin]], [[Satana (Marvel Comics)|Satana]] and [[Ghost Rider (Johnny Blaze)|Ghost Rider]]. He is defeated when Silver Sable, momentarily entranced by the bedeviled weaponry, tricks him into holding one of the guns (merely holding it seemingly possesses the user into not letting it go) which she had secretly emptied. Brimstone is then dragged though a portal to Hell, to answer to the demon responsible for the Demonica.<ref>''[[Heroes For Hire]]'' Vol.3 #2</ref>
+
+==References==
+{{reflist}}
+
+==External links==
+* [https://marvel.fandom.com/Walther_Theodoric_(Earth-616) Baron Brimstone] at Marvel Wiki
+* {{Marvunapp|http://www.marvunapp.com/Appendix3/baronbrimstonetheodoric.htm|Baron Brimstone}}
+
+[[Category:Comics characters introduced in 1980]]
+[[Category:Characters created by Steve Ditko]]
+[[Category:Marvel Comics supervillains]]

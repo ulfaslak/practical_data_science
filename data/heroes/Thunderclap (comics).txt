@@ -1,0 +1,49 @@
+{{Infobox comics character
+|image=Thunderclapmu0.png
+|image_size=225
+|caption=Thunderclap in Civil War Frontline #3,<br/>art by Ramon Bachs.
+|character_name=Thunderclap
+|real_name=Stanley George Johnson
+|publisher=[[Marvel Comics]]
+|debut=''Spider-Man Weekly'' #607, (October, 1984)
+|creators=[[Mike Collins (comics)|Mike Collins]] (writer)<br/>[[Barry Kitson]] (artist)
+|alliances=None
+|species=Human 
+|previous_alliances=
+|aliases=
+|relatives=
+|powers=Sonic boom projection via metal gloves<br>Wears cowl which contains protective silicone cups and an electronic device 
+}}
+
+'''Thunderclap''' ('''Stanley George Johnson'''<ref name="battledamage">{{Comic book reference | Writer = [[Anthony Flamini]] & Ronald Byrd | Penciller =  | Inker =  | Story =  | Title = [[Civil War (comics)|Civil War Battle Damage Report]] | Issue = one-shot |date= March 2007 | Publisher = [[Marvel Comics]]}}</ref>) is a fictional [[superhero]] created by [[Marvel UK]] a division of [[Marvel Comics]].
+
+==Publication history==
+{{expand section|date=November 2015}}
+Thunderclap first appeared in ''Spider-Man Weekly'' #607 (October 1984), and was created by [[Mike Collins (comics)|Mike Collins]] and [[Barry Kitson]].
+
+==Fictional character biography==
+Born in [[West Bromwich]], [[England]], Stanley George Johnson was a struggling electronics salesman until he decided to cannibalize together other people's technology to create a pair of hydraulically powered gloves that could create [[sonic boom]]s.<ref name="battledamage"/> Soon, he left England for [[New York, New York]] and took the name Thunderclap.
+
+Thunderclap's first appearance on the superhero scene comes when [[Spider-Man]] is trying to help police officers prevent a robber from escaping. As Spider-Man is about to stop the disaster, Thunderclap intervenes, slamming his hands together to create sonic booms that cause massive property damage while stopping the burglars. Spider-Man leaves after lecturing Thunderclap, and Thunderclap apologizes to the police for the damage he has caused. When the press arrive, however, Thunderclap introduces himself and blames Spider-Man for the property damage. Thunderclap is declared a true hero by the ''[[Daily Bugle]].<ref>''Spider-Man Weekly'' #607</ref>
+
+===Civil War===
+{{Main|Civil War (comics)}}
+Years later, during the ''[[Civil War (comics)|Civil War]]'' storyline, Thunderclap is seen battling the superhero [[Bantam (comics)|Bantam]]. The fight, which is witnessed by [[Sally Floyd (comics)|Sally Floyd]], is over Thunderclap's refusal to comply with the [[Superhuman Registration Act]] and Bantam's efforts to bring him in. The battle concludes when Thunderclap knocks Bantam into a gas truck, which explodes and kills him. Thunderclap tries to apologize but, feeling too ashamed, disappears into a nearby alley. Floyd, in a later issue of ''Frontline'', wonders about the convenience of the gas truck being so close to the battle.<ref>''Civil War: Frontline'' #3</ref>
+
+==Equipment==
+Thunderclap's piston-like metal gloves are connected to a hydraulic device in the back of his suit which uses potential and kinetic energy that allow the gloves to collide together faster than the [[speed of sound]]. The resulting sonic boom (approximately 2000 decibels) is released outwards in a destructive energy sphere which strikes any matter with which it comes into contact with tremendous impact.<ref name="battledamage"/>
+
+The sonic boom also has the tendency to temporarily deafen and disorientate anyone in the immediate area. Thunderclap's [[cowl]] is outfitted with protective silicone cups on the sides and an electronic device which muffle the sound of his sonic booms while amplifying quieter sounds to higher decibel levels.<ref name="battledamage"/>
+
+==Notes==
+{{Reflist}}
+
+==References==
+{{refbegin}}
+*[http://www.marvunapp.com/Appendix/thunderclapsm.htm Thunderclap] at the Appendix to the Handbook of the Marvel Universe
+*{{comicbookdb|type=character|id=6670|title=Thunderclap}}
+{{refend}}
+
+[[Category:Comics characters introduced in 1984]]
+[[Category:Marvel Comics superheroes]]
+[[Category:Marvel UK characters]]

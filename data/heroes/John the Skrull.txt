@@ -1,0 +1,48 @@
+{{in-universe|date=June 2018}}
+{{notability|date=June 2018}}
+{{Infobox comics character <!--Wikipedia:WikiProject Comics-->
+|character_name=John the Skrull
+|image=[[Image:Johnskrull.jpg|150px]]
+|caption=John the Skrull.<br>Art by [[Leonard Kirk]].
+|publisher=[[Marvel Comics]]
+|debut=''[[Pete Wisdom|Wisdom]]'' #1 (November 2006)
+|creators=[[Paul Cornell]] (writer)<br>[[Trevor Hairsine]] (artist)
+|alter_ego = 
+|full_name =
+|species   =[[Skrull]]
+|homeworld = <!-- optional -->
+|alliances=[[Skrull#Fall of the Skrull Empire|Skrull Empire]]<br>[[MI-13 (Marvel Comics)|MI-13]]
+|partners  = <!-- optional -->
+|supports  = <!-- optional -->
+|aliases=[[John Lennon]]
+|powers=Shapeshifting<br>Flight via wings
+|}}
+
+'''John the Skrull''' is a [[fictional character]], a [[superhero]] appearing in [[American comic book]]s published by [[Marvel Comics]]. He first appears in ''[[Pete Wisdom|Wisdom]]'' #1 (November 2006), and was created by [[Paul Cornell]] and [[Trevor Hairsine]]. As a [[Skrull]], he normally takes the shape of [[John Lennon]].
+
+==Fictional character biography==
+John the Skrull's birth name and background have not been revealed. In 1963, four Skrull agents were sent to Earth, ordered to [[disguise]] themselves as the [[Beatles]] and facilitate a Skrull invasion of Earth. The four "Skrull Beatles" decided that they would rather remain on Earth, where there was "money and power", rather than help the Skrulls conquer it. John, notably, fell into a relationship with a [[Kree]], Captain Boko of the Kree Liberation Army.<ref>''Wisdom #2''</ref>
+
+Some decades later, John comes to be in the employ of the British secret service agency [[MI-13 (Marvel Comics)|MI-13]], investigating paranormal occurrences throughout the British Isles. In this capacity he meets [[Pete Wisdom]], and helps thwart, among other things, a [[Martian]] invasion of Britain from an alternate universe.<ref>''Wisdom #1-6''</ref>
+
+At the time of the [[Secret Invasion]], as the Skrull Empire mounts a new invasion of Earth driven by religious prophecy, John, considered a [[traitor]] by the Skrull high command, finds himself a target. A Skrull agent posing as Mr. Grimsdale, the chair of the [[Joint Intelligence Committee (UK)|Joint Intelligence Committee]], attempts to have the Skrull Beatles all killed as potentially disloyal to the British; only John survives this purge, and the Skrull Grimsdale is unmasked and killed by Wisdom. John joins Wisdom, [[Captain Britain]], and [[Spitfire (comics)|Spitfire]], all now recruited by [[MI-13 (Marvel Comics)|MI:13]] to fight off the Skrull attack on the [[Siege Perilous (comics)|Siege Perilous]].<ref>''[[Captain Britain and MI: 13]]'' #1</ref><ref>[http://www.comicbookresources.com/?page=article&id=16432 Defense of the Realms: Cornell on "Captain Britain and MI:13"], [[Comic Book Resources]], May 15, 2008</ref>
+
+John and the others are captured by the invading Skrulls in [[Avalon (Marvel Comics)|Avalon]], an interdimensional location central to British magic. This is after multiple battles against many Skrull forces. While angrily insulting the captors,  John is executed by a Skrull as an example. Ultimately, all British based Skrulls are killed via a deal Wisdom makes with formerly imprisoned demonic forces.<ref name="CBMI4">{{Comic book reference | Writer = [[Paul Cornell]] | Penciller = [[Leonard Kirk]] | Inker = [[Jesse Delperdang]] | Story = The Guns Of Avalon | Title = Captain Britain and MI: 13 | Issue = 4 | Date = October 2008 | Publisher = [[Marvel Comics]] | }}</ref>
+
+==Powers and abilities==
+John's Skrull physiology enables him to [[shapeshift]] into virtually any form that he chooses. He normally favours the shape of John Lennon, but has been shown to, for example, grow wings and tentacles to better participate in battle.
+
+==Notes==
+{{reflist}}
+
+==References==
+{{refbegin}}
+*{{comicbookdb|type=character|id=14781|title=John the Skrull}}
+*[http://www.comicbookresources.com/?page=article&id=12828 Super Spy Weekend: John the Skrull], [[Comic Book Resources]], March 8, 2008.
+{{refend}}
+
+{{Skrull}}
+
+[[Category:Comics characters introduced in 2006]]
+[[Category:Marvel Comics superheroes]]
+[[Category:Skrull]]

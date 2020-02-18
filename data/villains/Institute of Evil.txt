@@ -1,0 +1,61 @@
+{{short description|Fictional comic book evil organization}}
+{{Multiple issues|
+{{In-universe|subject = comics|category = comics|date = October 2009}}
+{{Notability|date=January 2019}}
+}}
+{{merge to|Squadron Supreme|discuss=Talk:Squadron Supreme#Proposed merge with Institute of Evil|date=January 2019}}
+
+{{Infobox comics organization| <!--Wikipedia:WikiProject Comics-->
+|image=
+|imagesize=
+|caption=Former Institute of Evil members joining the Squadron Supreme
+|publisher=[[Marvel Comics]]
+|debut=''[[Squadron Supreme]]'' #5 (January 1986)
+|creators=[[Mark Gruenwald]]<br>[[Bob Hall (comics)|Bob Hall]]
+|base=
+|members=[[Ape-X]]<br>Doctor Decibel<br>Foxfire<br>Lamprey<br>[[Mink (comics)|Mink]]<br>[[Quagmire (comics)|Quagmire]]<br>[[Shape (comics)|Shape]]
+|subcat=Marvel Comics
+|hero=
+|villain=y
+}}
+The '''Institute of Evil''' is a fictional organization appearing in [[American comic book]]s published by [[Marvel Comics]].
+
+==Publication history==
+{{expand section|date=August 2016}}
+The Institute of Evil first appeared in ''[[Squadron Supreme]]'' #5 and was created by [[Mark Gruenwald]] and [[Bob Hall (comics)|Bob Hall]].
+
+==Fictional team history==
+The Institute of Evil existed in the Earth-712 universe and served as the [[Squadron Supreme]]’s arch-foes.  The known members of the Institute of Evil included [[Ape-X]] (the leader), [[Doctor Decibel]], [[Foxfire (comics)|Foxfire]], [[Lamprey (comics)|Lamprey]], [[Quagmire (comics)|Quagmire]], and the [[Shape (comics)|Shape]].
+
+The Behavior Modification process invented by Squadron member [[Tom Thumb (comics)#Squadron Supreme|Tom Thumb]] would prove to be the Institute of Evil's undoing. The [[Golden Archer]] used the machine to make fellow Squadron member [[Lady Lark]] obsessed with him. However, he couldn't stand her irrational behavior, so went for a walk and was captured by the Institute. They tortured the Archer until he revealed the Squadron's new base of operations. They then kidnapped the Squadron's family members and attacked their headquarters. They began ambushing Squadron members and using the behavior modification machines on them as they returned from their missions. The Institute then brought the Squadron back to their lair where the Golden Archer and their captive family members were held. The Squadron attacked, revealing that Tom Thumb had designed the process not to work on Squadron members, and defeated the Institute completely.<ref>''Squadron Supreme'' #5 (mini-series) (Jan. 1986)</ref>
+
+The Institute of Evil's members were subjected to the Behavior Modification process, altering their personalities. The former super-criminals all became elected to full membership in the Squadron Supreme and aided them in their efforts to conquer the world in order to forcibly turn it into a [[utopia]].<ref>''Squadron Supreme'' #6 (mini-series) (Feb. 1986)</ref>
+
+Some Institute members did not fare so well as members of the Squadron. Ape-X suffered from a psychotic withdrawal from reality and fell into a coma, due to her behavior modification process. After saving twenty factory workers from a gas leakage, Quagmire went into a coma. In the hospital, he was sucked into the hole in his brain that is a portal into the dimension from which his dark matter originates, and Doctor Decibel suffocated in Quagmire's extra-dimensional slime.<ref>''Squadron Supreme'' #10 (mini-series) (June 1986)</ref>
+
+In time, Squadron Supreme member [[Nighthawk (Marvel Comics)#Kyle Richmond (Earth-712)|Nighthawk]] objected to the extreme methods the Squadron was using to achieve its goals, and left the group. Nighthawk formed a rebel group, known as the America Redeemers, to oppose the Squadron's "benevolent" tyranny. The Redeemers included other enemies of the Squadron, expelled Squadron member the [[Golden Archer|Black Archer]], as well as unknown superheroes that infiltrated the Squadron to help take it down. With the help of [[Master Menace#Squadron Supreme|Master Menace]], the Redeemers were able to reverse the Behavior Modification of Foxfire, Lamprey, and the Shape and recruited them into his group. These three agents also remained in the Squadron as double agents.<ref>''Squadron Supreme'' #11 (mini-series) (July 1986)</ref>
+
+When the Redeemers finally confronted the Squadron Supreme, an all-out battle broke out. Lamprey tried to absorb [[Doctor Spectrum#Joseph Ledger (Earth-712)|Doctor Spectrum]]’s power, but Doctor Spectrum was able to overload Lamprey's power which killed Lamprey. Foxfire, who had long been in love with Doctor Spectrum, tried to gain his approval by betraying Nighthawk, to allow the Squadron to win the fight. She used her powers to kill Nighthawk by blasting his heart and causing a massive coronary. Foxfire was then killed by fellow Redeemer [[Mink (comics)|Mink]], who had been in love with Nighthawk. The death of Nighthawk caused the Squadron members to realize that they had become the very thing that they had intended to oppose, and thus ended the fight.<ref>''Squadron Supreme'' #12 (mini-series) (Aug. 1986)</ref>
+
+The [[Shape (comics)|Shape]] was the only former member of the Institute of Evil that eventually chose to side with the Squadron Supreme, finding happiness in his new calling.<ref>''Squadron Supreme: Death of a Universe'' (graphic novel) (1989)</ref>
+
+==Members==
+* '''[[Ape-X]]''' - An intelligent ape who is a loose pastiche of [[Gorilla Grodd]].
+* '''Doctor Decibel''' - A criminal surgeon.
+* '''Foxfire''' - 
+* '''Lamprey''' - A power-absorbing supervillain who is a pastiche of [[Parasite (comics)|Parasite]].
+* '''[[Mink (comics)|Mink]]''' - A criminal who is a pastiche for [[Catwoman]].
+* '''[[Quagmire (comics)|Quagmire]]''' - 
+* '''[[Shape (comics)|Shape]]''' - A supervillain who is loosely based on [[Plastic Man]]. Defected to the Squadron Supreme.
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://www.marvel.com/universe/Institute_Of_Evil_%28Earth-712%29 Institute of Evil] at Marvel.com
+* [http://marvel.wikia.com/wiki/Institute_of_Evil_(Earth-712) Institute of Evil] at Marvel Wiki
+* [http://comicvine.gamespot.com/institute-of-evil/4060-42130/ Institute of Evil] at Comic Vine
+
+{{Squadron Supreme}}
+
+[[Category:Marvel Comics supervillains]]

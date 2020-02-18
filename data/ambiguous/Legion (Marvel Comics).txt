@@ -1,0 +1,260 @@
+{{short description|Fictional character from the Marvel Universe}}
+{{redirect|David Haller|the British swimmer|David Haller (swimmer)}}
+{{Infobox comics character| <!--Wikipedia:WikiProject Comics-->
+|image=Legion (Marvel Comics character).png
+|caption={{Descript-cvr-art|New Mutants|3|21|January, 2011|art=Dave Wilkins|pub=Marvel}}
+|character_name=Legion
+|real_name=David Charles Haller
+|species=[[Mutant (Marvel Comics)|Human Mutant]]
+|publisher=[[Marvel Comics]]
+|debut= ''[[New Mutants]]'' #25 (March 1985)
+|creators= [[Chris Claremont]] (writer)<br>[[Bill Sienkiewicz]] (artist)
+|alliances=[[List of X-Men members#Muir Island X-Men (1989)|Muir Island X-Men]]<br>[[X-Men]]
+|aliases=Daniel Haller, Cyndi, Rodney, Ian, Lucas, Fanya, Jack Wayne, Boris, Zachary, Sylvester, Jemail Karami
+|powers= * Reality warping
+* Shapeshifting
+* Matter manipulation and transmutation
+* Energy manipulation
+* [[Telepathy]]
+* [[Telekinesis]]
+* [[Teleportation]]
+* Time travel
+}}
+'''Legion''' ('''David Charles Haller''') is a fictional character appearing in [[American comic book]]s published by [[Marvel Comics]]. He is the [[Mutant (Marvel Comics)|mutant]] son of [[Professor X|Professor Charles Xavier]] and [[Gabrielle Haller]]. Legion takes the role of an [[antihero]] who has a severe mental illness including a form of [[dissociative identity disorder]]. 
+
+The television series [[Legion (TV series)|''Legion'']] premiered on [[FX (TV channel)|FX network]] in 2017. The lead character was portrayed by [[Dan Stevens]]. The series is developed, written, directed, and produced by [[Noah Hawley]].
+
+==Publication history==
+{{expand section|date=March 2017}}
+Created by writer [[Chris Claremont]] and artist [[Bill Sienkiewicz]], Legion made his debut in ''[[New Mutants]]'' #25 (March 1985).
+
+In 1991, Legion was assigned to be a co-starring character in the newly revamped ''[[X-Factor (comics)|X-Factor]]'', as a member of the eponymous superteam. However, writer [[Peter David]] was uncomfortable with this, and ultimately editor [[Bob Harras]] independently came to the conclusion that Legion should not be used in the series. David explained "I don't mind building a story around [Legion], but working him into a group - you're really asking for a bit much from the reader. Believing that a group of people will come together to form a team is enough of a suspension of disbelief... 'Oh, by the way, one of them is so nuts he shouldn't be setting foot off [[Muir Island]]'... that's asking the reader to bend so far he will break."<ref>{{cite news | last = O'Neill | first = Patrick Daniel | date = February 1992 | title = Peter David | work = [[Comics Interview]] | issue = 105 | pages = 19–20 | publisher = [[Fictioneer Books]]|issn=1052-5548}}</ref>
+
+==Fictional character biography==
+While working in an [[Israel]]i psychiatric facility, [[Professor X|Charles Xavier]] met a patient named [[Gabrielle Haller]]. The two had an affair that, after an amicable end and unbeknownst to Xavier, ultimately resulted in the birth of their son David (Gabrielle had not told Xavier she was pregnant).<ref>''[[Uncanny X-Men]]'' #161 and ''[[New Mutants]]'' vol. 1 #1. Marvel Comics.</ref>
+
+David, at a young age, was living with his mother and stepfather in Paris when his home was attacked by terrorists and his stepfather killed. The trauma of the situation caused an initial manifestation of David's mutant powers, as David incinerated the minds of the terrorists. In the process, he unintentionally absorbed the mind of the terrorist leader, Jemail Karami, into his own. Being linked to so many others at their time of death, David was rendered [[catatonia|catatonic]] for years. As he slowly recovered, he was moved to the care of [[Moira MacTaggert]] at the [[Muir Island]] mutant research facility. The trauma (possibly in conjunction with the nature of his reality-altering powers) had caused David's psyche to splinter into multiple personalities, each personality manifesting different mutant abilities.<ref name="New">''New Mutants'' #27. Marvel Comics.</ref>
+
+The Karami personality, which manifested telepathic abilities, struggled for years to separate his consciousness from David's. In the process, Karami reintegrated many of the splintered personalities back into David's core personality (thus ending David's catatonia). Some of the personalities resisted Karami, most notably Jack Wayne, a swaggering adventurer who was [[psychokinesis|telekinetic]], and Cyndi, a temperamental, rebellious girl who was [[pyrokinesis|pyrokinetic]]. Ultimately Karami, Wayne, and Cyndi continued to exist as David's most prominent alternate personalities.<ref>''[[New Mutants]]'' vol. 1 #26-28. Marvel Comics.</ref>
+
+During his time at Muir Island, David saved Moira and [[Wolfsbane (comics)|Wolfsbane]] from a fatal accident by accessing the telekinetic abilities of his Jack Wayne personality. However, this allowed Jack Wayne to take control of David's body, and he left the island. The [[New Mutants]] tracked him down and, after a struggle, convinced Wayne to allow David to again assume control.<ref>''[[New Mutants]]'' vol. 1 #44. Marvel Comics.</ref> Soon after, David was possessed by the [[Shadow King]]. While under the Shadow King's influence, David killed the mutant [[Destiny (Irene Adler)|Destiny]] and destroyed 2/3 of the island. When the [[X-Men]] and [[X-Factor (comics)|X-Factor]] defeated the Shadow King, David was again left in a coma.<ref>[[Muir Island Saga]], involving ''[[Uncanny X-Men]]'' #278-280 and ''[[X-Factor (comics)|X-Factor]]'' #69-70. Marvel Comics.</ref>
+
+===Legion Quest/Age of Apocalypse===
+Years later, David awoke from his coma believing his psyche fully healed. When he had killed the mutant [[precognition|precog]] Destiny, David had absorbed her psyche. Destiny gave David vague prophetic guidance about the great world that could exist "if only, years ago, [[Professor X]] had been given a real chance to fulfill his dream."<ref>''X-Men vol. 2'' #38. Marvel Comics.</ref> David, who despite his belief was not sane, understood these words as a directive to travel back in time and kill [[Magneto (Marvel Comics)|Magneto]], Xavier's greatest adversary, to allow his father Professor X achieve the dream of human-mutant coexistence. 
+
+As several X-Men attempted to stop him, Legion traveled twenty years into the past, accidentally dragging the X-Men with him. David appeared in the past in front of Xavier and Magneto, who at the time were orderlies in a mental hospital. As Legion attacked Magneto, the X-Men intervened. After overpowering the X-Men, Legion readied his fatal blow for Magneto, but Xavier leaped in front of the lethal psychic attack and was himself killed. By accidentally killing his father, the horrified David prevented his own birth and ceased to exist. The death of Xavier created a catastrophic alternate timeline, the [[Age of Apocalypse]].<ref>{{cite journal|title=Dreams Die!|journal=X-Men|date=February 1995|volume=2|series=Legion Quest|issue=41}}</ref> 
+
+Ultimately, [[Bishop (comics)|Bishop]] managed to fix the timeline by enlisting the aid of the new reality's X-Men to travel back in time to the moment of Xavier's murder. There Bishop confronted Legion, using David's own power to create a psionic loop that showed the young mutant the damage that his actions would cause. David allowed the energy released in this process to incinerate him, in his last moments apologizing for what he had done."<ref>''X-Men Omega'' #1. Marvel Comics.</ref> 
+
+While David was considered deceased, some of his alternate personalities manifested as spirits and started terrorizing Israel (where David had been born). [[Excalibur_(comics)|Excalibur]] was called to stop them. Ultimately [[Meggan]] used her empathy to calm their rage, convincing them to go "towards the light."<ref>''Excalibur (1st series)'' #121. Marvel Comics.</ref>
+
+===Return===
+David had in fact not died; rather, his mind manifested in Otherplace, a timeless interdimensional limbo. When Bishop had turned Legion's psychic power back on him, it devastated David's mental landscape, undoing all the healing efforts of Karami and Professor Xavier. David now had thousands of personalities vying for control in his mind. David wandered through Otherplace for an untold period of time, trying to make his way back home.<ref>''New Mutants'' vol. 3 #3. Marvel Comics.</ref> [[Magik_(Illyana_Rasputin)|Magik]], a mutant able to travel across dimensions, reached out and contacted one of David's personalities, "The Legion," who could alter reality at a cosmic scale (this incredibly powerful personality claimed to be the "real" David, although it was distinct from David's core personality).<ref>''New Mutants'' vol. 3 #20. Marvel Comics.</ref> Magik offered to guide Legion back to this dimension, provided that The Legion would aid her by destroying her nemeses, the Elder Gods, when she asked.<ref name="''New Mutants'' vol. 3 #21. Marvel Comics.">''New Mutants'' vol. 3 #21. Marvel Comics.</ref>
+
+David re-manifested in the physical world, although his core David personality had been imprisoned in his mindscape by his other personalities, allowing the more malicious personalities to take turns controlling his body. One of these personalities killed and absorbed the mind of a young girl, Marci Sobol, who became another personality within Legion. David was discovered by the New Mutants as they investigated a possible mutant case in [[Westcliffe, Colorado]].<ref>''New Mutants'' vol. 3 #1. Marvel Comics.</ref> David absorbed [[Karma (comics)|Karma]] and [[Magik_(Illyana_Rasputin)|Magik]] into his mind. As the rest of the team fought a losing battle against various personalities that seized control of Legion's body, in his mindscape Karma and Magik destroyed other hostile personalities. Eventually they found the Marci personality, who led them to David's imprisoned core self. By freeing David and helping him reassert control, Karma and Magik saved the rest of the team and were restored to their bodies.<ref>''New Mutants'' vol. 3 #4. Marvel Comics.</ref> David was detained by the X-Men and put in the care of Professor X, [[Doctor Nemesis]], [[Danger (comics)|Danger]], and [[Rogue_(comics)|Rogue]].<ref name="New Mutants, vol. 3 #5">''New Mutants'' vol. 3 #5. Marvel Comics.</ref>
+
+Weeks later, Magik managed to bring the Elder Gods back to Earth, planning to have her revenge on them. The Elder Gods manifested, causing catastrophic destruction, and appeared ready to lay waste to the world. As the various mutant teams tried to stop this apocalypse, Magik sent her ally Karma to free Legion and awaken "The Legion" personality to fulfill its bargain. The Legion, who Magik called "The God Mutant," appeared and altered reality to wipe the Elder Gods from existence and reset the world to a time before they had manifested.<ref name="''New Mutants'' vol. 3 #21. Marvel Comics."/>  After this, David's core personality returned and he was taken back into the care and treatment of the X-Men.
+
+===Age of X===
+Believing that David's psyche would be healed if his alternate personalities were quarantined, [[Doctor Nemesis]] began to catalog and contain these personalities within David's mind. Unbeknownst to Doctor Nemesis and Professor Xavier, however, David's mind subconsciously perceived this intervention as a threat and created a "psychic antibody," a powerful new personality, to defend itself. The new personality had access to a degree of David's underlying ability to alter reality and time. Assuming the appearance of the deceased Moira McTaggert (considered a mother figure by David due to his time under her care at Muir Island), the personality attempted to 'protect' Legion from the 'assault' on his mind by creating a [[Pocket_universe|pocket reality]] where Legion was the hero that he always wanted to be.<ref>''X-Men: Legacy #244. Marvel Comics.</ref> Many members of various X-teams were also brought into this new reality, which existed separately from [[Earth-616|Marvel's primary continuity]].<ref>''X-Men: Legacy #247. Marvel Comics.</ref>
+
+The alternate pocket reality, the [[Age of X]], was a dystopia in which mutants had been hunted almost to extinction; the remaining mutants were kept alive by Legion's mutant team, who daily generated a force wall to repel attacking human forces. Legion himself remained unaware that one of his personalities had created this world, and most of the mutants who had been brought into the reality by 'Moira' believed that they had always been there. Within this pocket reality the 'Moira' personality was practically omnipotent, creating and controlling random soldiers for Legion and the other mutants to kill. Eventually, Legacy, the alternate [[Rogue (comics)|Rogue]], discovered that 'Moira' had in fact created this reality. Confronted with this truth, Legion spoke to 'Moira,' who tearfully offered to create as many universes for him as he wanted. Instead, David absorbed 'Moira' back into himself and erased the Age of X reality, restoring its participants to [[Earth-616]] reality; ultimately, this entire timeline had lasted seven days in their normal continuity.<ref>''X-Men: Legacy'' #245-248; ''New Mutants'' Vol. 3 #22-23. Marvel Comics.</ref>
+
+===Lost Legions===
+With the Age of X incident underscoring the potentially apocalyptic scope of David's power, Professor X proposed a new approach to help Legion retain control of himself. Instead of isolating David from the other personalities in his mind, Professor X suggested that he learn to co-exist with them. To this end, Doctor Nemesis, Madison Jeffries and Reed Richards designed a Neural Switchboard Wristband for David. This switchboard assigned unique numbers to different Legion personalities. When David entered a number, the device stimulated cells in his thalamus and neocortex, creating a one-way link between David's core personality and the alternate personality he had selected. This allowed Legion to access the power of that personality for several seconds without being overwhelmed by it. While testing the device, Legion discovered that six of his personalities were no longer in his mind, but had "escaped," manifesting separately from him in the real world.<ref name="X-Men: Legacy #249">''X-Men: Legacy'' #249. Marvel Comics.</ref> With a team of X-Men, Legion tracked down and reabsorbed all of these rogue personas. While absorbing the last one, he accidentally absorbed Rogue along with it, and, after releasing her, David suffered a massive shock to his nervous system. Rogue stated that, while she was inside Legion, she was connected to thousands of types of powers and there were more being born all the time.<ref name="X-Men: Legacy #253">''X-Men: Legacy'' #253. Marvel Comics.</ref>
+
+===The Fiend===
+To aid his recovery, Professor X left Legion with Merzah the Mystic, a powerful empath and telepath who ran a Himalayan monastery. While at the monastery, David gained much greater control of himself, and he stopped using the Neural Switchboard Wristband. Under Merzah's tutelage, David learned to visualize a facility in his mind where his alternate personalities could be kept and controlled.<ref name="X-Men: Legacy Vol. 2 #1">''X-Men: Legacy'' Vol. 2 #1. Marvel Comics.</ref> However, while David was at the monastery, elsewhere in the world Professor X was killed. When Legion sensed this, the mental shock caused a catastrophic release of energy that killed Merzah and everyone else at the monastery.<ref>''X-Men: Legacy'' Vol. 2 #2. Marvel Comics.</ref> In addition, without knowing it, David subconsciously created a new personality, The Fiend. This personality was able to kill other personalities in his mind, absorbing their powers in the process.
+
+In the final issue of ''X-Men: Legacy'', Legion, reaching the full extent of his powers, decided to erase himself from existence.<ref name="X-Men: Legacy #24">''X-Men: Legacy'' Vol.2 #24. Marvel Comics.</ref>
+
+===Trauma===
+For unknown reasons (perhaps elements of his own psyche working against him), Legion's attempt to erase himself from existence failed. When he reappeared, David's mind was again fragmented into many personalities, including a malicious new personality, "Lord Trauma." Lord Trauma aimed to take over David's mind and body by absorbing all of David's other personalities. In a desperate attempt to save himself, David sought out the help of renowned young psychotherapist Hannah Jones to delve into his fractured mind and fight back this dark personality.<ref name="Legion 1">''Legion'' #1. Marvel Comics.</ref> While Jones was ultimately able to help Legion defeat Trauma, she remained trapped in David's psyche (her body in a [[Persistent_vegetative_state|vegetative coma]]). To thank Jones, Legion placed her psyche into a dream state/alternate reality where she achieved her biggest goals.<ref name="Legion 5">''Legion'' #5. Marvel Comics.</ref>
+
+=== X-Men Break Up ===
+As the X-Men race around the globe to fight the temporal anomalies that have been springing up and to corral the hundreds of Madrox duplicates wreaking havoc, Legion arrives at the X-Mansion, seemingly in control of his powers and psyche. While the young X-Men try to ascertain what he wants, elsewhere Jean Grey and Psylocke team up to psychically purge whatever force is controlling the army of Madrox duplicates. Finding the prime Madrox imprisoned below the area where the army of duplicates are congregating, he explains that Legion imprisoned him and implanted his numerous personalities and powers across the hundreds of duplicates. However, with his control broken, Legion goes berserk in the mansion, attacking the young X-Men and ranting about a vision of the future. The rest of the X-Men arrive to help but Legion singlehandedly takes on the whole team until he and Jean Grey go head-to-head. Legion then explains that he's trying to prevent a vision of the future - the arrival of the Horsemen of Salvation - but just as Legion mentions them, the Horsemen arrive.<ref>''Uncanny X-Men'' (2018) #3. Marvel Comics.</ref>
+
+==Powers and abilities==
+[[File:XMEN-LegionPowers.jpg|thumb|right|250px|[[Doctor Nemesis]], [[Blindfold (comics)|Blindfold]], and [[Professor X]] among Legion's alters.]]
+Legion is an [[Omega-level mutant]]<ref name="New Mutants, vol. 3 #4">''New Mutants, vol. 3'' #4. Marvel Comics.</ref> who has [[dissociative identity disorder|multiple personalities]]. Fundamentally, he has the ability to alter reality and time on a cosmic scale at will,<ref name="X-Men: Legacy #24"/> but due to his multiple personalities, in practice his abilities vary depending on the dominant personality: each alter has different powers enabled by David's subconscious manipulation of reality. The core personality, David Haller himself, generally does not manifest mutant abilities, but must access various personalities to use their power, sometimes losing control of himself to that personality. Some of Legion's personalities physically transform his body (e.g., manifesting a prehensile tongue, becoming a woman, transforming into a werewolf, etc.). The first alter to manifest, Jemail Karami, was [[telepathy|telepathic]].  Other prominent alters include Jack Wayne ([[psychokinesis|telekinetic]]) and Cyndi ([[pyrokinesis|pyrokinetic]]). Legion has over a thousand different personalities (the exact number is unknown), and his mind can create additional alters in response to external or internal events.<ref>''X-Men: Legacy'' #254</ref>
+
+The cumulative abilities of all his personalities make him one of the most powerful mutants in existence, if not the most powerful.<ref>''X-Men: Legacy'' vol. 2 #6.</ref> Since the abilities of his personalities stem from his subconscious alteration of reality, Legion is theoretically capable of manifesting any power he can imagine. In two instances David has manifested the full extent of his ability to alter time and reality: in the first, he wiped the Elder Gods from existence and reset the universe to a state before the Elder Gods first appeared on Earth,<ref>''New Mutants, vol. 3'' #20-21. Marvel Comics.</ref> and in the other he observed the entirety of spacetime and mended damage his personalities had done to it.<ref name="X-Men: Legacy #24"/>
+
+Legion can absorb other people's psyches into his mind, either intentionally or, if he is next to them when they die, unintentionally.<ref name="New Mutants, vol. 3 #5"/> Conversely, in several instances Legion has had personalities manifest and act separately from him (or even against him) in the physical world; in most instances Legion has ultimately reabsorbed these personalities back into himself. Presumably, both his absorption of other psyches and the physical manifestations of his own personalities are enabled by Legion's underlying ability to alter reality/time at will.
+
+Generally, David's ability to access and control his personalities/powers is closely tied to his self confidence and self esteem: the better he feels about himself, the more control he exercises. Unfortunately, David often suffers from self-doubt and self-recrimination, meaning that he must struggle to remain in control. Following the Age of X, David briefly used a Neural Switchboard Wristband engineered by [[Doctor Nemesis]], [[Madison Jeffries]], and [[Reed Richards]]. This device allowed Legion to utilize a personality's power set for several seconds without being overwhelmed by that personality. However, he soon abandoned this and attempted instead to develop a more organic control over his personalities.<ref name="X-Men: Legacy Vol. 2 #1"/>
+
+===Personalities===
+The following characters are different personalities of Legion that have appeared thus far, each one manifesting different powers:
+
+* Through the personality of terrorist '''Jemail Karami''' (the name given to Personality #2), he has manifested [[telepathy]].<ref>''New Mutants'' #26. Marvel Comics.</ref>
+* Through the personality of roustabout adventurer '''Jack Wayne''' (the name given to Personality #3), he has manifested [[psychokinesis|telekinesis]].<ref name="New" /> This personality was often quite dangerous and would not hesitate to hurt or kill others if it would allow him to remain independent/free from David's control.<ref>''New Mutants'' vol. 3 #2. Marvel Comics.</ref> Eventually, Jack Wayne was subsumed by a different, malevolent Legion personality, '''Lord Trauma.'''<ref>''Legion'' #1-5. Marvel Comics.</ref>
+* Through the personality of the rebellious girl '''Cyndi''' (the name given to Personality #4), he has manifested [[pyrokinesis]]. This personality of Legion has a crush on [[Cypher (Marvel Comics)|Cypher]].<ref name="New"/>
+* Through the personality of '''The Legion''' (the name given to Personality #5, which claims to be Legion's "real me"), he can warp time and reality. [[Magik_(Illyana_Rasputin)|Magik]] nicknamed this personality the "God-Mutant."<ref name="''New Mutants'' vol. 3 #21. Marvel Comics."/>
+* Through the personality of '''Sally''' (the name given to Personality #67), he has the appearance of an obese woman with [[Hulk]]-like super-strength.<ref>''New Mutants'' vol. 3 #3. Marvel Comics.</ref>
+* Through the personality of a punk rocker named '''Lucas''' (the name given to Personality #115), he can channel sound into energy blasts.<ref>''New Mutants'' vol. 3 #14. Marvel Comics.</ref>
+* Through '''Personality #181''', he can enlarge himself to an undetermined size. This was the first power Legion utilized with the Neural Switchboard Wristband.<ref>''X-Men: Legacy'' #248. Marvel Comics.</ref>
+* Through the personality of '''Johnny Gomorrah''' (the name given to Personality #186), he can transmute his enemies and objects into salt.<ref name="X-Men: Legacy #249"/>
+* Through the personality of '''Time-Sink''' (the name given to Personality #227), he has the ability of time-manipulation.<ref name="X-Men: Legacy #253"/> This rebellious personality was able to become independent from David but was eventually found and reabsorbed by David.<ref>''X-Men: Legacy'' Vol. 1 #250. Marvel Comics.</ref> David was ultimately forced to stop using Time-Sink's powers because when David tried to access the personality, it would always fight to get back its freedom.<ref name="X-Men: Legacy #253"/>
+* Through '''Personality #302''', he can move at supersonic speeds.<ref name="X-Men: Legacy #253"/>
+* Through the personality of '''Styx''' (the name given to Personality #666), he has the ability to absorb the consciousness of anyone he touches, turning that person's body into a shell that he can then control. The possessed individual can still access any special abilities they have, and there does not appear to be a limit to the number of individuals simultaneously controlled.<ref name="X-Men: Legacy #251"/> David considers this manipulative personality his most dangerous, because it is clever, cruel, and extremely ambitious.<ref>''X-Men: Legacy'' Vol. 1 #252. Marvel Comics.</ref> Styx was able to become independent from Legion, manifesting as a desiccated corpse, and tried to take control of Legion himself, so that he could use Legion's reality-altering powers to remake the world according to his will. Legion, using the power of his '''Chain''' personality, managed to trick and reabsorb Styx.<ref name="X-Men: Legacy #253"/>
+* Through '''Personality #762''', he becomes a [[Piracy|pirate]] with the ability to belch an acidic gas.
+* Through '''Personality #898''', he becomes a [[centaur]].
+* Through the personality of '''Delphic''' (the name given to Personality #1012), he becomes a blue-skinned, seemingly-omniscient female seer who will answer any three questions from supplicants.<ref name="X-Men: Legacy #249"/>
+
+Legion personalities that have not been assigned numbers include:
+
+* '''Absence''', an [[Extraterrestrial life|alien]]/[[demon]] creature with its eyes sewn shut who claims to have traveled through different realities and who can siphon off heat and love.<ref>''New Mutants'' vol. 3 #4. Marvel Comics.</ref>
+* '''Bleeding Image''', a living voodoo doll who can redirect and amplify the pain from any injury he inflicts on himself onto his victims. As he notes, "How much must David hate himself, to have imagined me?" This malicious personality was able to become independent from David but he was eventually found and stated to have been destroyed by Magneto.<ref>''X-Men: Legacy'' #252. Marvel Comics.</ref>
+* '''Chain''', effectively a human virus who turns anyone he touches into a copy of himself with a new weapon. The power dissipates when the original is dealt with. This personality was able to become independent from David but he was eventually found and reabsorbed by David.<ref name="X-Men: Legacy #251">''X-Men: Legacy'' #251. Marvel Comics.</ref>
+* '''Chronodon''', a [[dinosaur]] with a clock on its face. Based on its name and appearance, it can be assumed that it can manipulate time in some way.
+* '''[[Clown]]''', a surly-looking clown that can blast energy from his mouth.
+* '''Compass Rose''', who can locate any person and teleport to them.
+* '''The Delusionaut''', a train engineer with a billow stack for a head who uses the smoke that he exudes to create illusions so convincing that they fool even powerful telepaths such as [[Emma Frost]]. He manifested outside of Legion to help him at one point, and eventually was one of the personalities that volunteered to meld together to form '''Gestalt'''.<ref>''X-Men: Legacy'' vol. 2 #20.</ref> 
+* '''Drexel''', a foul-mouthed simpleton with super-strength.
+* '''Endgame''', huge and aggressive armor that instantly manifests the perfect counter to any attack executed against it (for example, becoming intangible, manifesting super strength, transmuting its material from metal to wood to defeat Magneto, etc.). This personality became independent from David, but it was eventually found and reabsorbed by David.<ref name="X-Men: Legacy #253"/>
+* '''The Fiend/"Charles Xavier"''', a dangerous personality David created following the mental shock of the death of his father, Professor X. The Fiend manifests as either a yellow [[goblin]]-like creature or in the guise of Professor X; it has significant psychic abilities, including [[precognition]] and [[Spirit_possession|possession]], and can kill other Legion personalities in Legion's mind, absorbing their power.<ref name="Legion 1"/> Eventually, the Fiend became independent from David and tried to help him retain more control of himself.<ref>''X-Men: Legacy'' vol. 2 #6.</ref>
+* '''Findel the Finder''', who can find anyone across the galaxy.
+* '''Gestalt''', a powerful fusion of several Legion personalities with the core personality of David himself, allowing the abilities of these personalities to manifest simultaneously under David's control. Legion created Gestalt to successfully repel an attack on his mind.<ref>''X-Men: Legacy'' vol. 2 #24. Marvel Comics.</ref>
+* '''Hugh Davidson''', a stereotypical prepster with a long prehensile tongue.
+* '''Hunter''', a macho-man personality David's mind created to replace Jack Wayne, when that personality was subsumed by the Lord Trauma personality.
+* '''Hypnobloke''', a gentleman with flashing swirls for eyes who wears a top hat and carries a pocket watch. He has the power of hypnotic suggestion.
+* '''Joe Fury''', an angry young man who can generate flame and other types of energy, and whom David struggles to repress.<ref name="Legion 1"/>
+* '''Kirbax the Kraklar''', a demonic creature that can fly and generate electricity.
+* '''Ksenia Nadejda Panov''', a Moscovite heiress, discus-throwing champion, caviar exporter, and torturer of puppies. She has the ability to generate ionic scalpels from her fingers.
+* '''K-Zek the Conduit''', an [[Android (robot)|android]] with the ability of [[Wireless_power_transfer|far-field, concentrated wireless energy transfer (or WET)]].
+* '''Lord Trauma''', a malevolent personality who can bring out the worst traumas a person has experienced and draw power from the psychic energies that result. This personality became independent from David and tried to absorb all his other personas in order to gain control over David's body, although Trauma was eventually destroyed.<ref name="Legion 5"/>
+* '''Marci Sabol''', a normal human girl who befriended David but was killed and absorbed into him by one of his other personalities;<ref>''New Mutants'' vol. 3 #1. Marvel Comics.</ref> she has significant influence within David's mindscape.<ref name="''New Mutants'' vol. 3 #21. Marvel Comics."/> 
+* '''Max Kelvin''', a crotchety old man whose eyes protrude when he uses his powers of plasmatic flame generation.
+* '''Moira Kinross/X''', a mother figure created by David's mind to protect his mindscape from tampering. This persona, which could warp reality, became independent from David and created the dystopian pocket reality dubbed ''[[Age of X]]'' where David was seen as a hero. Within this pocket reality X was practically omnipotent, altering the mindsets and personalities of the fabricated entities in her reality.<ref>''Age of X: Alpha'' #1. Marvel Comics.</ref> 
+* '''Mycolojester''', a [[plant]]-like entity with the attire of a [[jester]], who can emit toxic spores from his skin. These spores act as a powerful nerve gas, but their effects can be dissipated by water.<ref>''X-Men: Legacy'' vol. 2 #6.</ref> This personality volunteered to help David by merging with several other personalities to become '''Gestalt.'''<ref>''X-Men: Legacy'' vol. 2 #20.</ref>
+* '''Non-Newtonian Annie''', a skinny purple woman dressed in pink clothes and cloaked in a "zero-tau nullskin" that does not conform to [[Conservation_of_energy|the law of conservation of energy]] (e.g., [[kinetic energy]] that hits it is immediately amplified and reflected directly back on its source).<ref>''X-Men: Legacy'' vol. 2 #4.</ref>
+* '''Origamist''', one of the most powerful personalities in David's mind, is a reality warping sumo wrestler who can fold [[spacetime]], allowing, among other things, instant [[teleportation]] of any object to any location.
+* '''Protozoan Porter''', a large green [[leech]]-like being who can teleport by disassembling himself into minuscule ameboid-like parts that reassemble after reaching his destination.<ref>''X-Men: Legacy'' vol. 2 #10.</ref> This personality volunteered to help David by merging with several other personalities to create '''Gestalt.'''<ref>''X-Men: Legacy'' vol. 2 #20.</ref> 
+* '''Pukatus Jr.''', a small [[cherub]]-like demon who flies and can vomit an acidic substance.
+* '''Skinsmith''', who can produce artificial skin on any surface or bend/alter the skin of others.<ref>''X-Men: Legacy'' vol. 2 #4.</ref>
+* '''Specs''', a nervous young man with large glasses who can see through solid objects. This personality develops a romantic interest in [[Magma_(comics)|Magma]].<ref>''New Mutants'' vol. 3 #4."</ref> 
+* '''Susan in Sunshine''', an innocent-looking blonde child with the ability to sense, augment and manipulate the emotions of those around her and, if she wishes, convert those emotions into destructive energy.<ref name="X-Men: Legacy #249"/> This personality became independent from Legion, but she was eventually found and reabsorbed by him.<ref name="X-Men: Legacy #251"/>
+* '''Tami Haar''', a nightclub singer who is a friend and companion to David; she appears to have a master knowledge of David's mindscape, which among other things allows her to manifest in the real world.<ref>''Legion'' #4.</ref>
+* '''Tyrannix the Abominoid''', a small and hapless [[Cthulhu]]-like creature with telepathic powers.<ref name="X-Men: Legacy Vol. 2 #1"/> When David traveled within his mindscape, he often used Tyrannix as a backpack. Tyrannix was the first personality to volunteer to help David by melding to create '''Gestalt.'''<ref>''X-Men: Legacy'' vol. 2 #20.</ref>
+* '''The Weaver''', probably Legion's most powerful splinter personality, a large [[arachnid]] creature whose massive limbs are connected to a main body wreathed in bright light. The Weaver can change and refabricate reality itself, and it is ultimately revealed to be either David's core self or a mirror of David. When David and the Weaver united, he could observe and alter [[Spacetime|all time and space]] at will; David, aware of the extent and implications of this godlike power, attempted to unmake himself by erasing his own birth.<ref name="X-Men: Legacy #24"/> For unknown reasons his attempt failed (it may have been undermined by other aspects of David's psyche), in the process creating the '''Lord Trauma''' personality.<ref>''Legion'' #1. Marvel Comics.</ref>
+* '''The White Witch Doctor''', a murderous white man dressed as a witch doctor who killed Marci Sabol and absorbed her psyche into Legion, creating the '''Marci Sabol''' personality.<ref>''New Mutants'' vol. 3 #5.</ref>
+* '''Wormhole Wodo''', who can open a [[wormhole]] between two points anywhere in the galaxy, allowing near instantaneous travel between them.<ref>''X-Men: Legacy'' vol. 2 #5.</ref>
+* '''Zari Zap''', a young punk woman with short, spiked hair who can manipulate electricity.<ref>''X-Men: Legacy'' vol. 2 #4.</ref>
+* '''Zero G. Priestly''', a robed priest who floats upside down and can control gravity.
+* '''Zubar''', a personality that likes to call himself "the Airshrike" and has the power to levitate himself.<ref name="X-Men: Legacy Vol. 2 #1"/>
+
+==Mentality==
+Legion has been described as having [[dissociative identity disorder|multiple personality disorder]].<ref>{{cite web |url=http://marvel.com/universe/Professor_X |title=Professor X |work=Marvel.com |accessdate=2017-07-07 }}</ref>
+
+===Origin of name===
+Legion's name<ref name="marveldirectory1">{{cite web|url=http://www.marveldirectory.com/individuals/l/legion.htm|title=Legion|website=www.marveldirectory.com}}</ref> is derived from a passage in the Christian Bible (found in Mark 5 and Luke 8). In it, [[Jesus]] asks a man possessed by many evil spirits what his name is, to which the man replies "I am [[Legion (demon)|Legion]], for we are many."
+
+==Other versions==
+===Ultimate Marvel===
+The ''[[Ultimate Marvel|Ultimate]]'' incarnation of [[Proteus (Marvel Comics)#Ultimate Proteus|Proteus]] is a combination of Legion and Proteus from the mainstream comics. His mother is [[Moira MacTaggert]] and his father is Charles Xavier. He possesses Proteus' reality warping power and is named '''David Xavier'''. He escapes his mother's [[Muir Island|facility]], looking for his father, and murders hundreds to discredit him. David is later crushed by [[Alternate versions of Colossus#Ultimate Colossus|Colossus]], while possessing [[S.T.R.I.K.E.]] agent [[Betsy Braddock]] inside a car.<ref>''Ultimate X-Men'' #15-19 (2002). Marvel Comics.</ref>
+
+===Age of X===
+[[File:AgeofX-ForceWarriors.jpg|thumb|right|200px|The Force Warriors. Alternate versions of [[Unuscione]], [[Hellion (Marvel Comics)|Hellion]], [[Rachel Summers]], Legion, and [[Psylocke]]]]
+In the ''[[Age of X]]'' reality, Legion leads the Force Warriors, a select group of telekinetics who rebuild the "Force Walls" (telekinetic shields that protect Fortress X) on a daily basis to protect mutants from human attacks. Unlike his 616 counterpart, there is no trace of the other personalities shown. It is ultimately revealed that the Age of X reality was unconsciously created by Legion himself. A flashback reveals that in the 616 universe Professor X was arguing with [[Dr. Nemesis]] regarding the latter's containment and deletion of Legion's other personalities in an effort to stabilize him. While Dr. Nemesis claimed that everything was going according to his plan, Professor X was unconvinced and entered Legion's mind. There he found the other personalities dead and their rotting corpses left in their containment units. This surprised Dr. Nemesis, who had thought that when a personality was deleted it should simply disappear. Professor X was then attacked by what he called a "psychic antibody," a personality Legion had subconsciously created to defend against Nemesis's deleting of the personalities. To overcome Professor X on the psychic plane, this personality took on the face of Moira MacTaggart and claimed that it would make a world where Legion could be happy. The 'Moira' personality then reshaped Utopia into Fortress X and inserted itself as Moira and the supercomputer X. When finally confronted about its actions, the personality made the Force walls fall, allowing the human armies to attack. 'Moira' announced her intention to destroy the 616 universe as well as the Age of X and to create a new safe place for David to live happily forever. Instead, David absorbed her and reverted the Fortress X to the normal reality, with a few modifications.<ref>''New Mutants'' Vol. 3 #24. Marvel Comics.</ref>
+
+==In other media==
+===Television===
+====Live action====
+''[[Legion (TV series)|Legion]]'', a live-action television series, premiered on [[FX (TV Channel)|FX]] in 2017. Produced by [[20th Century Fox Television]] and [[Marvel Television]],<ref>{{cite web|url=http://deadline.com/2015/10/x-men-marvel-series-legion-fx-pilot-hellfire-fox-1201582209/|title='X-Men' Marvel TV Dramas Set: FX Orders 'Legion' Pilot, Fox Developing 'Hellfire'|first=Nellie|last=Andreeva|date=14 October 2015|publisher=}}</ref> the series takes place in a warped reality (depicted as perceived by the titular character) and runs "parallel" to the [[X-Men (film series)|''X-Men'' film universe]], with further connections to take place in season two.<ref>{{cite web|last=Huver |first=Scott |url=https://www.moviefone.com/2016/06/30/simon-kinberg-star-wars-fx-legion-interview/ |title=Simon Kinberg Talks Star Wars Canon, Teases FX's 'Very Different' X-Men Series 'Legion' |publisher=Moviefone |date=2016-06-30 |accessdate=2017-07-07}}</ref><ref name="hollywoodreporter1">{{cite web|url=http://www.hollywoodreporter.com/news/bryan-singer-peter-rice-edinburgh-922716 |title=Bryan Singer, Peter Rice in Edinburgh Talk FX's 'Legion,' Start of 'X-Men' Movie Franchise |publisher=Hollywood Reporter |date=2016-08-25 |accessdate=2017-07-07}}</ref> In February 2016, [[Dan Stevens]] was cast as the eponymous lead character.<ref>{{cite web|url=http://marvel.com/news/tv/25702/dan_stevens_aubrey_plaza_jean_smart_cast_in_fx_networks_pilot_for_legion|title=Dan Stevens, Aubrey Plaza &amp; Jean Smart Cast in FX Networks' Pilot for 'Legion'|website=News - Marvel.com}}</ref><ref>{{cite web|url=http://deadline.com/2016/02/legion-amber-midthunder-cast-fx-marvel-pilot-1201707006/|title='Legion' FX Pilot Casts Amber Midthunder|publisher=Deadline|last=Andreeva|first=Nellie|date=February 22, 2016}}</ref> The series was picked up by FX in early 2017 with 8 episodes.<ref>{{cite web|url=http://marvel.com/news/tv/26239/fx_networks_picks_up_legion_to_series|title=FX NETWORKS PICKS UP 'LEGION' TO SERIES|publisher=Marvel|date=May 31, 2016}}</ref> In the series premiere, David is captured from the Clockworks mental facility, where he has been since a suicide attempt, by an anti-mutant government unit known as Division 3 which wants to harness David's abilities for themselves. David is rescued by a team of rogue mutants and taken to the "Summerland" training facility, where he develops a romantic relationship with body-swapping mutant Sydney "Syd" Barrett ([[Rachel Keller (actress)|Rachel Keller]]).<ref>{{cite episode|title=Chapter 1|series=Legion|credits=Hawley, Noah (director); Noah Hawley (writer)|network=[[FX (TV Channel)|FX]]|airdate=February 8, 2017|season=1|number=1}}</ref> In "Chapter 7", David learns that his biological father is [[Professor X|a powerful psychic mutant]] whose nemesis the [[Shadow King]] has lived in David's mind like a mental parasite since he was a little boy.<ref>{{cite episode|title=Chapter 7|series=Legion|credits=Gordon, Dennie (director); Jennifer Yale (writer)|network=[[FX (TV Channel)|FX]]|airdate=March 22, 2017|season=1|number=7}}</ref> In the episode "Chapter 8", Shadow King is able to leap from David's body and ends up possessing the body of fellow psychic mutant Oliver Bird ([[Jemaine Clement]]), and promptly drives away from Summerland. In the episode's [[Post-credits scene|coda]], a sphere-like drone traps David inside it and absconds with him.<ref>{{cite episode|title=Chapter 8|series=Legion|credits=Uppendahl, Michael (director); Noah Hawley (writer)|network=[[FX (TV Channel)|FX]]|airdate=March 29, 2017|season=1|number=8}}</ref>
+
+In the [[Legion (season 2)|second season]], David is found by his friends and it is revealed that the drone was sent by Syd from the future.<ref>{{cite episode|title=Chapter 9|series=Legion|credits=Mielants, Tim (director); Noah Hawley & Nathaniel Halpern (writer)|network=[[FX (TV Channel)|FX]]|airdate=April 3, 2018|season=2|number=1}}</ref> He also begins to pursue the Shadow King during Summerland's alliance with Division 3, but learns that he must work with him due to a plague in the future.<ref>{{cite episode|title=Chapter 10|series=Legion|credits=Amirpour, Ana Lily (director); Noah Hawley & Nathaniel Halpern (writer)|network=[[FX (TV Channel)|FX]]|airdate=April 10, 2018|season=2|number=2}}</ref> In the last couple episodes of season 2, the more [[Psychopathy|psychopathic]] nature of David is explored, and he is revealed as a villain. Showrunner [[Noah Hawley]] later revealed that he has always looked at David as a villain.<ref>{{Cite web | url=https://ew.com/tv/2018/06/12/legion-season-2-finale-noah-hawley-interview/ | title='Legion' finale: Showrunner Noah Hawley on the show's surprise new villain}}</ref> The episode "Chapter 18", features a prologue of sorts depicting the David Haller of [[Earth-616]] (also portrayed by Dan Stevens) viewing the events of the show from a crystal ball.<ref>{{cite episode|title=Chapter 18|series=Legion|credits=Gonzales, Dana (director); Noah Hawley & Nathaniel Halpern (writer)|network=[[FX (TV Channel)|FX]]|airdate=June 5, 2018|season=2|number=10}}</ref> Luke Roessler portrays a young David Haller, later reprising his role (credited as "Cereal Kid") in ''[[Deadpool 2]]''.<ref name="LegionCrossover?">{{cite web|url=https://www.hollywoodreporter.com/heat-vision/deadpool-2-sets-up-mister-sinister-future-movies-1113812|title=The Villain Who Deserves His Close-Up After 'Deadpool 2'|last=Newby|first=Richard|work=[[The Hollywood Reporter]]|date=May 22, 2018|accessdate=May 24, 2018|archiveurl=https://web.archive.org/web/20180522212852/https://www.hollywoodreporter.com/heat-vision/deadpool-2-sets-up-mister-sinister-future-movies-1113812|archivedate=May 22, 2018|url-status=live}}</ref>
+
+====Animation====
+* Legion appears in the ''[[X-Men: Evolution]]'' episode "Sins of the Son" voiced by [[Kyle Labine]]. Legion's backstory remains mostly unchanged, although David Haller is a fairly normal blonde teenager with no visible mutant powers. In the episode, David appears to be kidnapped by a [[Scotland|Scottish]] [[punk subculture|punk]] named '''Lucas''', but in reality Lucas and David are one and the same. David's body can somehow change to match whichever of his multiple personalities is dominant, with personality and body shifts sometimes happening at random. The mechanism behind this ability is never fully explained, although it is possible that David is using strong psionic abilities to alter people's perception of his appearance rather than actually changing as [[Mastermind (Jason Wyngarde)|Mastermind]] had done when first trying to avoid being discovered. His personalities sometimes appeared in two places at once, supporting the control-of-perception theory. Only three personalities were shown. As David has no obvious powers of his own, Lucas possesses telepathic and telekinetic powers, as well as pyrokinetics while '''Ian''', the third personality, is a young mute boy who is also a pyrokinetic. As Lucas is shown capable of both telepathic and pyrokinetic powers, it is possible the Lucas persona may have access to the powers of other personalities (if any beyond these three exist). Lucas lured Professor X to Scotland and tricked him into locking David's other personalities away, leaving Lucas free to be himself. It was never explained what Lucas's goals were after this, as the show has stopped production before his storyline could be further explored.
+* Legion is mentioned in ''[[Marvel Anime|Marvel Anime: X-Men]]''. He is the root cause of something called "Damon-Hall Syndrome". This condition affects mutants that develop a secondary mutation causing multiple personalities, uncontrolled physical mutation, and psychological instability. There is a vaccine which Beast created to stop its progress. It should also be mentioned that one of the main antagonists of the series named '''Takeo Sasaki''' (voiced by [[Atsushi Abe]] in the Japanese version and by [[Steve Staley]] in the English Dub) is the son of Professor X and [[Moira MacTaggert|Yui Sasaki]] (a scientist in mutant research). This character is similar to Legion in many ways except for design and name, and is also similar to [[Proteus (Marvel Comics)|Proteus]] in terms of his reality-warping powers. He attended his mother's school for mutants where he was a classmate of [[Armor (comics)|Hisako Ichiki]] and an incident with Takeo being picked on by the other children resulted in a fire that burned the nearby neighborhood and had included a small burn on Hisako's hand. [[Mastermind (Jason Wyngarde)|Mastermind]] planned to use a near-comatose Takeo to warp reality so that the mutants can rule the world. Takeo's powers go out of control enough for him to kill Mastermind and for the entire facility he was in to collapse as he emerges as a colossal energy being. Learning that Takeo hates him for being born into a world where his powers cause him so much suffering, Professor X blames himself for causing Takeo pain. The X-Men try to attack Takeo, but are easily defeated. Professor X then prepares to destroy Takeo's mind and kill him, fully intending to die along with his son. Jean's presence manages to revive the X-Men and give them courage to fight on against. Hisako recalls her friendly past with Takeo and insists that Takeo is a good person who can be saved. Her feelings cause her armor to generate a brilliant light, reaching Takeo and bringing him back to his senses. He and Charles are able to reconcile and Takeo's body is destroyed. Before his death, Takeo is able to reassure Yui and Charles that he is all right.
+
+==Collected Editions==
+
+===X-Men Legacy===
+{| class="wikitable"
+|-
+! Title !! Material collected !! Publication date !! ISBN
+|-
+| X-Men Legacy, Volume 1: Prodigal
+| ''X-Men Legacy'' (vol. 2) #1–6
+|May 7, 2013
+| {{ISBNT|978-0785162490}}
+|-
+| X-Men Legacy, Volume 2: Invasive Exotics 
+| ''X-Men Legacy'' (vol. 2) #7–12
+|September 17, 2013
+| {{ISBNT|978-0785167181}}
+|-
+| X-Men Legacy, Volume 3: Revenants
+| ''X-Men Legacy'' (vol. 2) #13–18
+|December 3, 2013
+| {{ISBNT|978-0785167198}}
+|-
+| X-Men Legacy, Volume 4: For We Are Many
+| ''X-Men Legacy'' (vol. 2) #19–24
+|May 6, 2014
+| {{ISBNT|978-0785154327}}
+|}
+
+===Other Series===
+{| class="wikitable"
+|-
+! Title !! Material collected !! Publication date !! ISBN
+|-
+||X-Men: Legion Quest 
+| ''Uncanny X-Men'' #381–321, ''X-Men'' #38–41, ''X-Men Unlimited'' #4–7, ''X-Men Annual'' #3, ''X-Factor'' #107–109 and ''Cable'' #20
+|April 17, 2018
+| {{ISBNT|978-1302910389}}
+|-
+||X-Men: Age of X
+| ''Age of X Alpha'' #1, ''X-Men Legacy'' #245–247, ''New Mutants'' #22–24, ''Age of X Universe'' #1–2 and Age of X Historical Logs
+|January 11, 2012
+| {{ISBNT|978-0785152903}}
+|-
+|X-Men: Legion - Shadow King Rising
+| ''New Mutants'' #26–28 & #44, ''Uncanny X-Men'' #253–255, #278-280 and ''X-Factor'' #69–70
+|January 30, 2018
+| {{ISBNT|978-1302909550}}
+|}
+
+==See also==
+* [[Crazy Jane]] - A related character
+* [[Rising_Stars_(comic)#Characters | Stephanie Maas]] - A comic character with superpowers and multiple personalities disorder
+
+==References==
+{{reflist|2}}
+
+==External links==
+* {{Marvelwiki|Legion_(David_Haller)|Legion (David Haller)}}
+* [http://marvel.wikia.com/David_Haller_%28Earth-616%29 Legion] at Marvel Wiki
+** [http://marvel.wikia.com/Legion_%28Earth-616%29_Personality_Index Legion Personality Index] at Marvel Wiki
+* [http://www.comicvine.com/legion/4005-13349/ Legion] at Comic Vine
+* [http://uncannyxmen.net/characters/legion UncannyXmen.Net Spotlight on Legion]
+
+{{New Mutants}}
+{{X-Men}}
+
+[[Category:Characters created by Bill Sienkiewicz]]
+[[Category:Characters created by Chris Claremont]]
+[[Category:Comics characters introduced in 1985]]
+[[Category:Fictional characters with multiple personalities]]
+[[Category:Fictional characters with schizophrenia]]
+[[Category:Fictional Israeli Jews]]
+[[Category:Jewish superheroes]]
+[[Category:Fictional characters with energy-manipulation abilities]]
+[[Category:Fictional characters with fire or heat abilities]]
+[[Category:Fictional characters by physics or reality manipulation]]
+[[Category:Male characters in comics]]
+[[Category:Male characters in television]]
+[[Category:Marvel Comics characters who can teleport]]
+[[Category:Marvel Comics characters who have mental powers]]
+[[Category:Fictional telekinetics]]
+[[Category:Marvel Comics mutants]]
+[[Category:Marvel Comics telepaths]]
+[[Category:Marvel Comics superheroes]]
+[[Category:Marvel Comics supervillains]]
+[[Category:Marvel Comics television characters]]
+[[Category:Fictional attempted suicides]]
+[[Category:Fictional cannabis users]]
+[[Category:Time travelers]]

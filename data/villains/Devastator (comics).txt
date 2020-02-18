@@ -1,0 +1,45 @@
+{{short description|Marvel comic book characters}}
+{{For|the [[Fantastic Four]] enemy|Devos the Devastator}}
+{{Infobox comics character <!--Wikipedia:WikiProject Comics--> 
+|image=
+|caption=
+|character_name=Devastator
+|real_name=I: Kirov Petrovna<br>II: Gregori Larionov
+|species=
+|publisher=[[Marvel Comics]]
+|debut=I: ''[[The Incredible Hulk (comic book)|The Incredible Hulk]] #186'' (Apr 1975)<br>II: ''[[Rom (comics)|Rom]] #44'' (Jul 1983)
+|creators=I: [[Len Wein]] and [[Herb Trimpe]]<br>II: [[Bill Mantlo]] and [[Sal Buscema]]
+|alliances=[[Soviet Super-Troopers]]
+|aliases=I: Peter Kirkman
+|powers=
+}}
+
+'''Devastator''' is a name used by three [[fictional character]]s appearing in [[American comic book]]s published by [[Marvel Comics]].
+
+==Fictional character biography==
+
+===Devastator (Kirov Petrovna)===
+The first Devastator was [[Soviet Union|Soviet]] officer, spy, and saboteur Kirov Petrovna, who wore a suit of [[power armor]] designed by the [[Gremlin (comics)|Gremlin]].  Gremlin was told by the State that his father, the [[Gargoyle (comics)#Gargoyle (Yuri Topolov)|Gargoyle]], had been killed by the [[Hulk]], and the deformed super-scientist sought revenge.  Petrovna infiltrated the [[Hulkbusters|Hulkbuster]] base in New Mexico, and smuggled in the Devastator suit. He attempted to destroy the base under his Soviet leader's orders. During the battle with the Hulk, the Hulk caused the energy in the suit's gauntlets to misdirect the microwave energy back into the suit, incinerating both suit and wearer.<ref>''Hulk'' #186</ref>
+
+===Devastator (Gregori Larionov)===
+The second Devastator was another Soviet officer, using a version of the Devastator suit re-built by Soviet scientists using the Gremlin's notes (Gremlin had defected in the meantime).  He was sent by the Soviet government along with his Soviet Super-Troopers to Khystym to execute the Gremlin. This time, Devastator was defeated by Gremlin and two [[Spaceknights]] ([[Rom (comics)|Rom]] and [[Starshine (comics)#Brandy Clark|Starshine]]), and his satellite power source was destroyed.<ref>''Rom'' #44-45</ref>
+
+Devastator (presumably the same one) was next seen battling the [[Crimson Dynamo#The sixth Crimson Dynamo|Crimson Dynamo]] in a training exercise.<ref>''Iron Man'' #255</ref>
+
+===Unnamed Devastator{{anchor|Devastator III}}===
+In the pages of ''[[Avengers World]]'', a third Devastator appears as a member of S.P.E.A.R. where he is a member of S.P.E.A.R.'s Ascendants.<ref>''Avengers World'' #7</ref>
+
+==Powers and abilities==
+The Devastator power armor was designed by the [[Gremlin (comics)|Gremlin]].  This full body armor is equipped with electronic devices which absorb microwave energy and can convert it for use as blasts of heat or concussive force. Its solar powered boot jets enable the wearer to fly at just under Mach 1, with range limited only by available light plus 3 hour battery reserve. The gauntlets contain microwave projectors that generate devastating force blasts. Because the battle-suit draws power from [[microwave]] energy beamed down from a [[satellite]] located in [[geosynchronous orbit]], the suit's wearer must maintain a line-of-sight position relative to the satellite to avoid sudden power cut-off. The satellite itself was protected by [[Electronic countermeasures|ECMs]] which rendered it invisible to conventional modes of detection.
+
+The second Devastator also possesses extensive hand-to-hand combat training, while the original possessed limited hand-to-hand combat training.
+
+==Transformers character==
+The [[Constructicons|Constructicon]] [[wikt:gestalt|gestalt]] [[Constructicons|Devastator]] from The [[Transformers series|Transformers]] also appeared in Marvel (in comics and by Marvel Productions as a cartoon), making the third Marvel character to wear the name.
+
+==References==
+{{reflist}}
+
+[[Category:Fictional Russian people]]
+[[Category:Fictional secret agents and spies]]
+[[Category:Marvel Comics supervillains]]

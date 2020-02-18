@@ -1,0 +1,49 @@
+{{short description|Fictional organization in Marvel Universe}}
+{{Infobox comics organization| <!--Wikipedia:WikiProject Comics-->
+|image=
+|imagesize=
+|caption=
+|name=Trash
+|publisher=[[Marvel Comics]]
+|debut=''[[Power Pack]]'' #31 (Aug 1987)
+|creators=[[Louise Simonson]]<br>[[John Bogdanove]]
+|base=Chicago
+|members= Airhead<br>Blasting Cap<br>Brute<br>Crazy Legs<br>Razor Cut<br>Thor Kid<br>Troop
+|subcat=Marvel Comics
+|hero=
+|villain=y
+}}
+
+'''Trash''' is a fictional [[Mutant (Marvel Comics)|mutant]] [[street gang]] appearing in [[American comic book]]s published by [[Marvel Comics]].
+
+==Fictional team history==
+Trash is a street gang made up of superhuman mutant youths, and it was originally employed by an older mutant [[drug kingpin]] named the Garbage Man. The original lineup of Trash included Airhead, Blasting Cap, Brute, Crazy Legs, and Razor Cut. The Garbage Man employed the gang to run drugs to his various [[crackhouse]]s. On one such mission, Trash encountered and fought [[Power Pack]]. Trash allowed the young heroes to follow them back to the Garbage Man’s headquarters, hoping to trap them. Trash and Garbage Man beat and captured Power Pack, and Garbage Man ordered the gang to kill the members of Power Pack with a lethal overdose of drugs. When Trash refused, they were forced to fight their criminal employer, and they freed Power Pack to help. Blasting Cap blew up the Garbage Man’s warehouse, but the members of Trash assumed that he had escaped and would find them later. Despite a hefty admonishing by Power Pack, and scarred by their bad experiences with society as they were, Trash surmised that becoming heroes like Power Pack was no option for them.<ref name="Power Pack #32"/>
+
+Sometime thereafter, Brute and Airhead left the gang. The three remaining members, Blasting Cap, Crazy Legs, and Razor Cut, relocated to Chicago at some point. There, a young man who dressed like [[Thor (Marvel Comics)|Thor]] and went by the name of Thor Kid, joined the gang. When Thor Kid attempted to mug a young man named Troop, Thor Kid and Trash were attacked by [[Luke Cage]]. The people of the neighborhood united to chase the gang away.{{issue|date=February 2012}}
+
+Later, Trash approached Troop and offered him membership in the gang, asking him to help them take down Cage. The gang arranged to work for another employer named Rapidfire to acquire guns with armor-piercing rounds to try to kill Cage. Trash tried to ambush Cage, but Troop warned him and a fight ensued. Crazy Legs refused to shoot Cage, so Thor Kid smashed Crazy Legs with his hammer and took the gun. Razor Cut stabbed Thor Kid, telling him Trash would survive without him. Blasting Cap became overexcited by the infighting and caused the building to explode. Cage pulled Blasting Cap and Crazy Legs from the fire, but the fate of Razor Cut and Thor Kid is unknown.{{issue|date=February 2012}}
+
+==Members==
+* '''Garbage Man'''<ref name="Power Pack #31">''Power Pack'' #31</ref>&mdash;former leader and enslaver. He is extremely strong and resistant to injury. He is a bully who throws his employees around and uses any excuse to force them to work for him for nothing, thus driving them further into crime.
+* '''Razorcut'''<ref name="Power Pack #31"/>&mdash;the leader of Trash, he possesses diamond-hard skin and claws that can cut through almost anything. He is indestructible and vicious, but does draw the line at murder.<ref name="Power Pack #32">''Power Pack'' #32</ref> He was golden-skinned at first, but later took on a more [[reptile|reptilian]] appearance. He is also known as '''Razor'''.<ref name="Power Pack #31"/>
+* '''Airhead'''<ref name="Power Pack #31"/>&mdash;has the ability to inflate her head and float and in this condition she can lift tremendous weights. There is some indication that she was abused by her father.<ref name="Power Pack #32"/> Current whereabouts are unknown.
+* '''Blasting Cap'''<ref name="Power Pack #31"/>&mdash;later known as '''Blast''',<ref>''Cage'' #11</ref> he can generate explosive charges within inanimate objects. This ability has made him something of a nervous wreck and he finds it difficult to focus: sometimes he is unable to make objects explode, other times he panics and blows them up sky-high. Current whereabouts are unknown.
+* '''Brute'''<ref name="Power Pack #31"/>&mdash;possesses super strength. He is muscle-bound but simple-minded. Current whereabouts are unknown.
+* '''Crazy Legs'''<ref name="Power Pack #31"/>&mdash;can extend his legs to great length. Possessed of a strategic mind, he is the nearest that the group has to any brains. Current whereabouts are unknown.
+* '''Thor Kid'''<ref name="Cage #5">''Cage'' #5</ref>&mdash;a normal human teenager who carries a hammer. He is also known as just '''Thor'''.<ref name="Cage #5"/> Current whereabouts are unknown.
+
+==References==
+{{reflist}}
+
+==External links==
+* {{Marvunapp|http://www.marvunapp.com/Appendix3/airhead.htm|Airhead}}
+* {{Marvunapp|http://www.marvunapp.com/Appendix3/blastingcap.htm|Blasting Cap}}
+* {{Marvunapp|http://www.marvunapp.com/Appendix3/brutetrash.htm|Brute}}
+* {{Marvunapp|http://www.marvunapp.com/Appendix3/crazylegs.htm|Crazy Legs}}
+* {{Marvunapp|http://www.marvunapp.com/Appendix3/garbageman.htm|Garbage Man}}
+* {{Marvunapp|http://www.marvunapp.com/Appendix3/razorcut.htm|Razorcut}}
+* {{Marvunapp|http://www.marvunapp.com/Appendix3/thorkidtrash.htm|Thor Kid}}
+
+[[Category:Fictional organizations in Marvel Comics]]
+[[Category:Marvel Comics mutants]]
+[[Category:Marvel Comics supervillains]]

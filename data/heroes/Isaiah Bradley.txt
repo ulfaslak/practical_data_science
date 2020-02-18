@@ -1,0 +1,91 @@
+{{Hatnote|"Black Captain America" redirects here. For the "All-New Captain America" whose secret identity is the African American Sam Wilson, see [[Falcon (comics)]].}}
+{{Infobox comics character| <!--Wikipedia:WikiProject Comics-->
+|image=IsaiahBradley.jpg
+|image_size=
+|caption=Isaiah Bradley promotional artwork
+|character_name=Isaiah Bradley
+|real_name=Isaiah Bradley
+|publisher=Marvel
+|debut=''[[Truth: Red, White & Black]]'' #1 (January [[2003 in comics|2003]])
+|creators=Robert Morales (writer)<br>[[Kyle Baker]] (artist/inker)<br>[[Axel Alonso]] (editor)<br>(based upon the [[Captain America|Steve Rogers]] character by [[Joe Simon]] & [[Jack Kirby]])
+|alliances=Project: Rebirth
+|aliases= [[Captain America (set index)|Captain America]]
+|powers=Trained unarmed combatant<br>Peak physical attributes<br>Slowed aging<br>Extraordinary immunity to disease<br>Carries a concave triangular metal shield
+}}
+'''Isaiah Bradley''' is a [[fictional character]] appearing in [[American comic book]]s published by [[Marvel Comics]]. The character is depicted as an early product of the United States' Super-Soldier program (codenamed Project: Rebirth) during [[World War II]] and an alternate version of '''[[Captain America]]'''.
+
+==Publication history==
+As depicted in the [[2003 in comics|2003]] [[Limited series (comics)|limited series]] ''[[Truth: Red, White & Black]]'', the World War II [[Weapon Plus|Super Soldier program]] of 1942, operated by "Reinstein" (Dr. Wilfred Nagel, employing an alias previously used by [[Dr. Abraham Erskine]]), uses [[African American]] test subjects to re-create the formula that had previously been used to turn Steve Rogers from a skinny, but patriotic, army reject into [[Captain America]]. The clandestine experimentation that empowers Isaiah holds similarities with the [[Tuskegee syphilis experiment|Tuskegee Syphilis Study]].<ref>{{cite book|url=https://books.google.com/books?id=K2J7DpUItEMC&pg=PA498| title=Encyclopedia of Comic Books and Graphic Novels, Volume 2|chapter=Race and Ethnicity|editor-first=M. Keith|editor-last=Booker|first=Jennifer D.|last=Ryan|page=498|publisher=[[ABC-CLIO]]|year=|isbn=978-0-313-35751-0|accessdate=2013-08-17}}</ref><ref name=philosophy>{{cite book|url=https://books.google.com/books?id=QrW9kmCAZQQC&pg=PA46|title=Comics as Philosophy|chapter=Authorship and Creation of Black Captain America|publisher=[[University Press of Mississippi]]|year=2007|isbn=9781604730661|last=Carpenter|first=Standford W.|editor-last=McLaughlin|editor-first=Jeff|accessdate=2013-08-17}}</ref>
+
+==Concept and creation==
+The original concept for the character came from an offhand comment by Marvel's publisher, [[Bill Jemas]].  [[Axel Alonso]] was taken by the idea and pursued it, as it offered a chance to tell a larger story about America's history.  [[Robert Morales]], who was brought in to write the story, created the supporting cast and the ending.  The idea of an African American Captain America made Morales laugh, but, once he heard the premise, he found it depressing.  Bradley's strong marriage came from an unsuccessful [[Luke Cage]] proposal by [[Brian Azzarello]].  Morales originally envisioned the character as a scientist who experimented on himself, a reference to [[Silver Age of Comic Books|Silver Age]] scientists [[Reed Richards]] and [[Bruce Banner]]; however, Marvel wanted a more explicit reference to the Tuskegee Syphilis Study.  Morales was able to push through an ending in which Bradley suffered brain damage, a reference to [[Muhammad Ali]] that gave the character a tragic ending.  Morales performed extensive research into the time period, which he balanced with editorial suggestions.<ref name=philosophy/>
+
+==Fictional character biography==
+Project: Rebirth begins as a collaboration between US, British and German eugenicists led by Dr. "Josef Reinstein" (real name Dr. Wilfred Nagel), and Dr. Koch. When World War II begins, Koch takes over the German program and Josef Reinstein takes over the American program. Each attempts to recreate the super soldier serum which had previously turned Steve Rogers into Captain America a year prior to Pearl Harbor. Reinstein's early attempts to refine the formula are tested on African-Americans. Three hundred of these soldiers are taken from Camp Cathcart and subjected to potentially fatal experiments at an undisclosed location, as seen in ''Truth: Red, White & Black''. Only five subjects survive the original trials. In the name of secrecy, US soldiers execute the camp's commander and hundreds of black soldiers left behind at Camp Cathcart. The government tells the families of the three hundred subjects that their loved ones had died in battle.{{issue|date=July 2014}}
+
+Due to field missions in Europe and internal strife, Bradley emerges the sole survivor of his test group. He steals a spare costume and a shield intended for Captain America before he engages in a suicide mission to destroy the Super-Soldier efforts of the Nazis at the Schwarzebitte concentration camp. There, he is able to assassinate Koch, but the mission ends when the Germans capture Bradley. Nazi interest in the American [[supersoldier]] is high; he is even brought before the [[Führer]] himself, who decides to dissect him in order to reverse engineer his powers and send the spare parts back to America as a message. Bradley is later rescued by German insurgents, only to be court-martialed and imprisoned at [[United States Disciplinary Barracks|Leavenworth]] around 1943. In 1960, Bradley is pardoned by [[Dwight D. Eisenhower|President Eisenhower]] and released.{{issue|date=July 2014}}
+
+Considered to be the "Black Captain America", Isaiah Bradley is depicted as an underground legend among much of the African-American community in the Marvel Universe. A number of the most noted Africans and African-Americans of the twentieth century's last four decades visit Bradley as a sign of respect and, in many cases, hero worship. He receives fictional visits from [[Malcolm X]], [[Richard Pryor]], [[Muhammad Ali]], [[Angela Davis]], [[Alex Haley]], [[Nelson Mandela]], and [[Colin Powell]].<ref>''Truth: Red, White & Black'' #7</ref> Outside the Black community, however, he remains largely unknown. When he arrives as a special guest at the wedding of [[Storm (Marvel Comics)|Storm]] and the [[Black Panther (comics)|Black Panther]], several African-American heroes are awestruck, including [[Luke Cage]] (who describes him as "the first me"), [[Bill Foster (comics)|Goliath (Bill Foster)]], [[Monica Rambeau]], [[Delroy Garrett|Triathlon]], and the [[Falcon (comics)|Falcon]]. However, the Canadian-born [[Wolverine (character)|Wolverine]] is totally unaware of the man's identity or importance.<ref>''Black Panther'' vol. 4 #18 (Sept. 2006)</ref>
+
+===Josiah X===
+{{Main|Josiah X}}
+While Isaiah is in prison, the government attempts to use his altered DNA to create another Super-Soldier. After 39 attempts the result is a child named Josiah, Isaiah and Faith's genetic son. [[Josiah X]], as he would later call himself, is born to a surrogate mother, who smuggles him out of the government's clutches.
+
+===Steve Rogers===
+Meanwhile, the long-term effects of the test serum severely damage Isaiah Bradley's mind and body, similar in part to the effects of various steroids and [[Alzheimer's disease|Alzheimer's]]. In 2003, Steve Rogers (Captain America) learns the truth behind the Super-Soldier program and attempts a reconciliation with the now-childlike Isaiah Bradley.<ref name=philosophy/> However, Captain America never discovers that the true mastermind behind the Super-Soldier program is the clandestine organization [[Weapon Plus]] and that Bradley is only one in a long line of ''Weapons'', including [[Wolverine (character)|Wolverine]] and [[Fantomex]].
+
+===Patriot===
+{{Main|Patriot (comics)}}
+Isaiah is also the grandfather of Elijah Bradley (aka [[Patriot (comics)|Patriot]] of the [[Young Avengers]]). Elijah initially claims that his powers originated from a blood transfusion from Isaiah, whereby he gained the abilities of the super soldier serum; however, it is subsequently revealed that this is a lie, and Elijah really gains his powers artificially from the drug Mutant Growth Hormone. The Young Avengers convince him that he does not need superpowers to be a superhero, and he becomes the head of the Young Avengers using his intelligence and natural athletic abilities. Eli is critically injured in a battle with the [[Kree]] and [[Skrull]]s, and he ends up getting the blood transfusion from his grandfather.
+
+==Powers, abilities, and equipment==
+While Isaiah possesses no superhuman powers as such, the super soldier formula running through his veins means that, physically, he is the perfect human: his agility, dexterity, strength, speed, endurance, reflex and reaction time, coordination, and balance are superior to any Olympic athlete who has or ever will compete. Once it is metabolized, the super soldier formula enhances all of his bodily functions to the peak of human efficiency: his body eliminates any excessive build-up of lactic acid and other fatigue poisons in his muscles, which grants him phenomenal endurance; he has an extraordinary immunity to disease; and his aging process is also slowed dramatically. Isaiah is trained in unarmed combat by the [[US Army]].
+
+Isaiah carries a concave triangular metal shield, useful for either defense or offense, which he decorated with the [[Double V campaign]] eagle crest, a symbol of a victory against the Axis as well as a victory against racial discrimination at home.<ref>{{cite book|url=https://books.google.com/books?id=NVrpGKMgVqgC&pg=PA125|title=Bodies Out of Control: Rethinking Science Texts|first=Matthew|last=Weinstein|page=125|publisher=[[Peter Lang Publishing]]|location=New York|year=2010|accessdate=2013-08-17}}</ref> For protection, he wears a loose chain mesh shirt over light padding; the shirt is capable of blunting the impact of most small arms fire.
+
+==Other versions==
+* In ''Captain America'' vol. 4, #28, an Isaiah Bradley from an alternate Earth becomes Captain America and never marries. Later, he is elected president and serves two terms.<ref>{{cite book|url=https://books.google.com/books?id=gQD0WX6czQAC&pg=PA158|title=Captain America and the Struggle of the Superhero: Critical Essays|editor-first=Robert G.|editor-last=Weiner|chapter=History of the Marvel Zombies and Colonel America among the Marvel Zombies|page=158|first=Mark R.|last=McDermott|publisher=[[McFarland & Company|McFarland]]|year=2009|accessdate=2013-08-17}}</ref> He travels back in time, incidentally crossing to [[Earth-616]], and brings the mainstream Captain America and Rebecca Quan forward into his own time to prevent his daughter, Rebecca "Becky" Barnes, from traveling to Earth-616.
+* Though Bradley hasn't appeared in any [[Ultimate Marvel]] title, the origins of [[Ultimate Nick Fury]] share many similarities with Bradley, as well with [[Luke Cage]].<ref>{{cite web|url=http://www.comicbookresources.com/?page=article&id=16700|last=Tabu|first=Hannibal|title=The Buy Pile|date=2008-06-05|accessdate=2013-08-17}}</ref> During World War II, Nick Fury is unwillingly inducted into a United States government experiment to recreate the Super Soldier Serum. The only subject to survive, Fury leaves the experiment with a [[healing factor]], enhanced physical attributes and slowed or halted aging.<ref>''[[Ultimate Origins]]'' #4</ref> In a 1980s-set flashback that opens ''[[Miles Morales: The Ultimate Spider-Man]]'' #8, Miles Morales's father and uncle meet two black men in the back room of a club, one of whom ([[Turk Barrett]]) says an "Izzy" had just been "telling us what really happened to Captain America back in World War II." It is unclear if the Izzy mentioned refers to the other man, who would presumably be Bradley, or one of several girls in the room.
+* In the ''[[Spider-Gwen]]'' reality, Isaiah Bradley was mentioned to be a US Army Private who was one of the four candidates (consisting of himself, Bucky Barnes, Steve Rogers, and Samantha Wilson) for the Strategic Scientific Reserve's Project Rebirth. Like Bucky Barnes and Steve Rogers, Isaiah was heavily damaged during the operation's sabotage caused by Nazi double-agents. With Bucky and Steve also in the same status, Samantha Wilson became Captain America.<ref>''Spider-Gwen'' Vol 2 #2</ref>
+
+==Captain America timeline==
+Clarifying the timeline for Isaiah Bradley and Steve Rogers—and who predates whom—Robert Morales states in his appendix to the ''Truth: Red, White & Black'' trade paperback collection (2004):
+
+{{quote|''Truth'' was originally planned to be outside of the Marvel Universe's official continuity. The editorial decision to place it ''into'' continuity meant explaining Timely Comics' first publication of Joe Simon and Jack Kirby’s ''Captain America'' in 1940—a full year before Pearl Harbor and the true start of our story.}}
+
+''Truth'' co-creator Kyle Baker further clarified the respective timelines of Bradley and Rogers in an interview:
+{{quote|With Captain America, people get on my case for 'changing' Captain America. We got a lot of grief from the Captain America fans on that series until the fifth and sixth issues came out; when it turned out that we hadn't tinkered with the continuity. Before that, everybody was very upset, because our story started with Pearl Harbor, and everybody knows that the first issue of Captain America took place before Pearl. Somewhere in the middle of the series, it's revealed that Cap already existed, and we hadn't tinkered with the timeline, and suddenly, the book is okay.<ref>{{cite web|last=Brady| first=Matt |url=http://forum.newsarama.com/printthread.php?s=&threadid=4442 |title=Newsarama - Baker's Future In Plastic: Kyle Baker On Plastic Man |work=newsarama.com |date=2003-07-07| archiveurl=https://web.archive.org/web/20090302001348/http://forum.newsarama.com/printthread.php?s=&threadid=4442| archivedate=2009-03-02|accessdate=2013-08-17}}</ref>}}
+
+Editor Axel Alonso described the debate as internet fans unfairly prejudging the series based on assumptions that it tarnished Captain America's legacy.<ref>{{cite web|last=Phegley|first=Kiel|title=Axel-In-Charge: Axel's Early Years|url=http://www.comicbookresources.com/?page=article&id=34680|work=[[Comic Book Resources]]|accessdate=2013-08-17|date=2011-09-30}}</ref>
+
+==Analysis==
+The character of Isaiah Bradley sends a message on race relations, conspiracy theory, and in a less measure [[Doping in sports|performance enhancement]] in sports.<ref>{{cite book|url=https://books.google.com/books?id=1UopTvWYaYgC&pg=PA148|title=Superheroes and Superegos: Analyzing the Minds Behind the Masks|first=Sharon|last=Packer|page=148|publisher=[[ABC-CLIO]]|year=2009|isbn=9780313355370|accessdate=2013-08-17}}</ref>
+
+==Collected editions==
+Stories he has appeared in have been collected into [[graphic novel]]s:
+*''[[Truth: Red, White & Black]]'' (collects ''Truth: Red, White & Black'' #1-7, by Robert Morales and [[Kyle Baker]]); published in 2004. Reprinted in 2009 as ''Captain America: Truth''.
+*''Captain America: Homeland'' (collects ''Captain America'' vol. 4 #21-28, by Robert Morales, Chris Bachalo and [[Eddie Campbell]]); published in 2004.
+
+==References==
+{{Reflist}}
+
+==External links==
+* {{Marvelwiki|Bradley,_Isaiah|Isaiah Bradley}}
+* {{comicbookdb|type=character|id=2043|title=Isaiah Bradley}}
+* {{comicbookdb|type=character|id=9318|title=Captain America (Isaiah Bradley)}}
+* {{Marveldatabase}}
+
+{{Captain America}}
+{{Weapon Plus}}
+
+{{DEFAULTSORT:Bradley, Isaiah}}
+[[Category:African-American superheroes]]
+[[Category:Captain America characters]]
+[[Category:Fictional United States Army personnel]]
+[[Category:Marvel Comics martial artists]]
+[[Category:Marvel Comics mutates]]
+[[Category:Marvel Comics superheroes]]
+[[Category:United States-themed superheroes]]
+[[Category:Fictional super soldiers]]
+[[Category:Fictional World War II veterans]]
+[[Category:Comics characters introduced in 2003]]

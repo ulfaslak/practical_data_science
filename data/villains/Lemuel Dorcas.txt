@@ -1,0 +1,65 @@
+{{refimprove|date=July 2016}}
+{{Infobox comics character<!--Wikipedia:WikiProject Comics--> 
+|image=
+|caption=
+|character_name=Doctor Lemuel Dorcas
+|publisher=[[Marvel Comics]]
+|debut=''[[Sub-Mariner]]'' #5 (Sep 1968) 
+|creators=[[Roy Thomas]] (writer)<br> [[John Buscema]] (artist)
+|full_name=Lemuel Dorcas
+|species = <!--optional-->
+|homeworld = <!--optional-->
+|alliances=
+|aliases = <!-- optional: actual identities the character uses, not nicknames -->
+|partners=[[Attuma]]<br/>[[Byrrah]]<br/>[[Krang (Marvel Comics)|Krang]]<br/>[[Tiger Shark (Marvel Comics)|Tiger Shark]]
+|supports= <!--optional-->
+|powers=Scientific knowledge<br>Wields many devices<br>Regenerative healing factor
+|}} 
+'''Lemuel Dorcas''' is a fictional character appearing in [[American comic book]]s published by [[Marvel Comics]]. He is notable for playing a part in the origins of [[Namor]] villains [[Tiger Shark (Marvel Comics)|Tiger Shark]], [[Orka (comics)|Orka]], and [[Piranha (comics)|Piranha]].
+
+==Publication history==
+Dr. Lemuel Dorcas first appeared in ''Sub-Mariner'' #5-6 (September-October 1968), and was created by [[Roy Thomas]] and [[John Buscema]].
+
+The character subsequently appeared in ''Sub-Mariner'' #15 (July 1969), #23-24 (March-April 1970), #33 (January 1971), ''Marvel Team-Up'' #14 (October 1973), and ''Super-Villain Team-Up'' #1-3 (August-December 1975). The character made a posthumous appearance in ''Marvel Tales'' #249 (May 1991), and his body was later dumped into the ocean in ''Namor'' #42 (September 1993).
+
+Doctor Dorcas received an entry in the ''[[Official Handbook of the Marvel Universe|Official Handbook of the Marvel Universe Deluxe Edition]]'' #17.
+
+==Fictional character biography==
+Dr. Lemuel Dorcas was a marine biologist, genetic engineer, inventor, and would-be conqueror.  Dorcas was responsible for transforming injured Olympic swimmer Todd Arliss into the superhuman [[Tiger Shark (Marvel Comics)|Tiger Shark]], and planned to use Tiger Shark as a pawn in his schemes of world conquest.<ref>''Sub-Mariner'' #5. Marvel Comics.</ref>
+
+Dorcas formed an alliance with the [[Homo mermanus|Atlantean]] [[Krang (Marvel Comics)|Warlord Krang]].  Krang provided his follower [[Orka (comics)|Orka]] as a test subject, and Dorcas endowed Orka with the powers of a [[killer whale]]. Warlord Krang and Dorcas used Orka and a fleet of killer whales to attack [[Atlantis (Marvel Comics)|Atlantis]], but were thwarted by [[Namor]] and interference by Tiger Shark.<ref>''Sub-Mariner'' #23. Marvel Comics.</ref>
+
+Dorcas and Warlord Krang later formed a secret alliance with [[Byrrah]] in a plot to keep Namor from being crowned prince of Atlantis, and allow Byrrah to take the crown. Namor captured Dorcas and Warlord Krang, who revealed Byrrah's involvement in the plot, thus ruining his bid for power.<ref>''Sub-Mariner'' #33. Marvel Comics.</ref>
+
+Dorcas was also responsible for the creation of [[Piranha (comics)|Piranha]] when a normal piranha was exposed to the remaining radiation from Dorcas' previous experiment.<ref>''Sub-Mariner #71 (May 1974). Marvel Comics.</ref>
+
+[[Attuma]], Dorcas, and Tiger Shark captured [[Hydro-Base]] and took Namor prisoner there.{{issue|date=March 2014}} Namor regained his freedom with the help of the [[Hydro-Men]], and attacked the conspirators, throwing Tiger Shark into one of Attuma's war machines. As Dorcas was able to fire a lethal blast from his hand weapon at Namor, the machine toppled on top of Dorcas and crushed him to death.<ref>''Super-Villain Team Up'' (1st series) #3. Marvel Comics.</ref>
+
+Namor and Stingray pushed the Octo-Mek and Dorcas's corpse into the ocean. The Octo-Mek later developed slight sentience and became a robot based on Dorcas.<ref>''Namor'' Vol. 1 #42. Marvel Comics.</ref>
+
+Lemuel Dorcas turns up alive, having survived due to the [[starfish]]-related experiments he had conducted upon himself and kept his survival secret. Upon setting up a base in Tetiaroa Atoll, Doctor Dorcas mutated several creatures to serve him and kept them under his control with neuroleeches. He also hired the handsome Kei to bring him women. Lemuel Dorcas then developed an obsession for [[Songbird (comics)|Songbird]] where he kidnapped her and repaired her vocal cords as he intends to make Songbird his slave. However, Songbird was able to escape from Doctor Dorcas's clutches, as with the surgery restoring her persuasive powers as well, she turned Doctor Dorcas's henchmen against him.<ref name="Thunderbolts #171">''Thunderbolts'' #171. Marvel Comics.</ref>
+
+==Powers and abilities==
+Lemuel Dorcas did not have powers at first, but had scientific knowledge. He employed many devices ranging from the Morphotron to laser guns to nuclear bombs.
+
+Upon resurfacing following his apparent death, Lemuel Dorcas mutated himself with regenerative starfish tissue which altered his appearance and enabled him to regrow limbs.<ref name="Thunderbolts #171"/>
+
+==Other versions==
+A version of Dorcas appears in the [[Ultimate Marvel]] reality. This version is an Atlantean who serves as an advisor to Namora. During the "[[Ultimatum (Ultimate Marvel)|Ultimatum]]" storyline, the [[Alternative versions of the Thing#Ultimate Marvel|Thing]], [[Invisible Woman]], and [[Mole Man#Ultimate Marvel|Dr. Arthur Molekevic]] fight Doctor Dorcas alongside Namora and Tiger Shark in Atlantis and defeat him.<ref>''Ultimate Fantastic Four'' #60</ref>
+
+==References==
+{{reflist}}
+
+==External links==
+* [https://marvel.fandom.com/wiki/Lemuel_Dorcas_(Earth-616) Lemuel Dorcas] at Marvel Wiki
+* {{Marvunapp|http://www.marvunapp.com/Appendix3/drdorcasnamor.htm|Lemuel Dorcas}}
+
+{{Namor}}
+
+{{DEFAULTSORT:Dorcas, Dr. Lemuel}}
+[[Category:Characters created by John Buscema]]
+[[Category:Characters created by Roy Thomas]]
+[[Category:Comics characters introduced in 1968]]
+[[Category:Fictional biologists]]
+[[Category:Fictional scientists]]
+[[Category:Marvel Comics supervillains]]

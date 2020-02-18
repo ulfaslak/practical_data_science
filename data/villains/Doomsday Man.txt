@@ -1,0 +1,91 @@
+{{Infobox comics character
+<!--Wikipedia:WikiProject Comics-->
+| character_name = 
+| image          = DoomsdayManMarvel.jpg
+| imagesize      = 
+| caption        = Doomsday Man on the cover of ''[[The Avengers (comic book)|The Avengers]]'' Vol. 3, #17 (June 1999) <br> Art by Tom Smith and [[Jerry Ordway]]
+| alt            = 
+| publisher      = [[Marvel Comics]]
+| debut          = ''[[Silver Surfer (comic book)|Silver Surfer]]'' Vol. 1, #13 (February 1970)
+| first_series   = 
+| first_episode  = 
+| first_comic    = 
+| creators       = [[Stan Lee]] (writer) <br> [[John Buscema]] (artist)
+| voiced_by      = 
+| based_on       = 
+| alter_ego      = 
+| full_name      =
+| species        = Robot
+| homeworld      = Earth
+| alliances      = [[Advanced Idea Mechanics]]
+| partners       = Destructor
+| supports       = 
+| aliases        = 
+| powers         = Lasers <br> Teleportation <br> Superhuman strength and durability
+| cat            = super
+| subcat         = Marvel Comics
+| hero           = 
+| villain        = y
+| sortkey        = Doomsday Man
+| addcharcat#    = 
+}}
+
+'''Doomsday Man''' is a [[character (arts)|fictional character]] appearing in [[American comic book]]s published by [[Marvel Comics]]. Primarily an enemy of [[Carol Danvers]], the character exists within Marvel's main [[shared universe]], known as the [[Marvel Universe]]. Created by writer [[Stan Lee]] and artist [[John Buscema]], the character first appeared in ''[[Silver Surfer (comic book)|Silver Surfer]]'' Vol. 1, #13 (February 1970).
+
+== Publication history ==
+
+The Doomsday Man was introduced in ''[[Silver Surfer (comic book)|Silver Surfer]]'' Vol. 1, #13 and reappeared in ''[[Ms. Marvel]]'' Vol. 1, #3-4 in a two-part storyline that ended with it fusing with '''Kerwin Korman''', a villain who had previously appeared in ''Ms. Marvel'' Vol. 1, #1-2 under the name '''Destructor'''.<ref>{{cite book|author = [[Jeff Rovin]]|title = The Encyclopedia of Super Villains|year = 1987|publisher = [[Infobase Publishing|Facts on File]]|isbn = 9780816013562|page = 242}}</ref> The aggregate of Doomsday Man and Korman was subsequently featured in a story-arc that took place in ''The [[Avengers (comics)|Avengers]]'' Vol. 3, #15-17<ref> {{cite magazine|author = Eric Nolen-Weathington|title = Marvel, Alan Moore, and the McCarthy Era|magazine = Modern Masters|location = United States|publisher = [[TwoMorrows Publishing]]|date = 28 August 2007|language = English|volume = 1|issue = 13|page = 79}} </ref><ref>{{cite web|url = http://insidepulse.com/2015/09/11/retro-reviews-avengers-vol-3-1-34-by-kurt-busiek-george-perez-with-others-for-marvel-comics/|title = Retro-Reviews: ''Avengers'' Vol. 3 #1-34 By Kurt Busiek & George Perez With Others For Marvel Comics|last = Fulton|first = James|publisher = Inside Pulse|date = 11 September 2015|website = insidepulse.com|accessdate = 9 January 2017}}</ref> before making its final appearance to date in ''Ms. Marvel'' Vol. 2, #11-12.
+
+== Fictional character biography ==
+
+After the [[Apollo 11]] moon landing, the United States government commissioned Doctor John Kronton to create an automaton that could assist mankind with exploring and colonizing other worlds, a project supervised by [[Carol Danvers]]. When construction of the nigh-invincible robot was complete, Danvers, fearing that it could possibly turn against humanity, successfully convinced a Senatorial Commission to abandon the project and seal the android away with other apocalyptic weapons on a desolate island in the [[Pacific Ocean]].<ref name = "SS13">{{Cite comic|writer = Stan Lee|penciller = John Buscema|inker = Don Adkins|letterer = Sam Rosen|editor = Stan Lee|story = The Dawn of the Doomsday Man!|title = Silver Surfer|volume = 1|issue = #13|date = February 1970|publisher = Marvel Comics|location = United States}}</ref><ref name = "MM4">{{Cite comic|writer = Chris Claremont|penciller = Jim Mooney|inker = Joe Sinnott|colorist = Janice Cohen|letterer = Irving Watanabe|editor = Archie Goodwin|story = Death is the Doomsday Man!|title = Ms. Marvel|volume = 1|issue = #4|date = April 1977|publisher = Marvel Comics|location = United States}}</ref>
+
+The robot (dubbed "the Doomsday Man" by the tabloids) activates and breaks free of its prison, taking with it a Cobalt Bomb. Learning of the Doomsday Man's existence, the [[Silver Surfer]] attempts to destroy it and prevent the detonation of the Cobalt Bomb with the assistance of Doctor Kronton, who eventually reveals that he had secretly programmed the Doomsday Man to awaken and threaten mankind, intending to stop it himself, thus becoming a hero in the eyes of the people of Earth. The Surfer separates the Doomsday Man from the Cobalt Bomb and attempts to trap it in a pit formed with his Power Cosmic. Doctor Kronton tries to help his creation climb back up to the surface and is killed by it when the Doomsday Man swats him away, an act that causes it to lose its grip and fall deep beneath the Earth's surface while the Surfer safely disposes of the Cobalt Bomb.<ref name = "SS13"/>
+
+[[File:DestructorMsMarvel.jpg|thumb|left|Destructor on the cover of ''Ms. Marvel'' Vol. 1, #4 (April 1977). Art by Danny Cresp, [[Ed Hannigan]] and [[Frank Giacoia]].]]
+
+[[Advanced Idea Mechanics|A.I.M.]] acquires and gains control of the Doomsday Man, which they attach to a rocket set for the [[Kennedy Space Center]]. Carol Danvers, now the superheroine [[Ms. Marvel]], intercepts the projectile, causing it to crash land near the [[Florida]] cave where she had first become Ms. Marvel.<ref>{{Cite comic|writer = Chris Claremont|penciller = John Buscema|inker = Joe Sinnott|colorist = Dan Warfield|letterer = John Costanza|editor = Archie Goodwin|story = The Lady's Not for Killing!|title = Ms. Marvel|volume = 1|issue = #3|date = March 1977|publisher = Marvel Comics|location = United States}}</ref> Recommencing her battle with the Doomsday Man, Ms. Marvel manages to deactivate it by attacking the weak point that had been secretly installed in the back of its head by Doctor Kronton. Ms. Marvel is then ambushed by Kerwin Korman, the villainous Destructor. Searching for the source of Ms. Marvel's powers, Korman stumbles onto and opens a spare energy core for the nearby Psyche-Magnitron, unleashing an explosive blast of radiation that launches Ms. Marvel out of the cave and fuses Korman with the Doomsday Man.<ref name = "MM4"/>
+
+A.I.M. recovers the amalgam of the Doomsday Man and Korman and leaves a decoy in its place.<ref name = "A17">{{Cite comic|writer = Jerry Ordway|penciller = Jerry Ordway|inker = Al Gordon|colorist = Tom Smith|letterer = RS and Comicraft's Wes Abbott|editor = Tom Brevoort|story = Cage of Freedom|title = The Avengers|volume = 3|issue = #17|date = June 1999|publisher = Marvel Comics|location = United States}}</ref> The fake is later unearthed and destroyed by [[Monica Rambeau|Captain Marvel]].<ref>{{Cite comic|writer = Ralph Macchio|penciller = John Buscema|inker = Tom Palmer|colorist = Max Scheele|letterer = Bill Oakley|editor = Mark Gruenwald|story = Heavy Metal!|title = The Avengers|volume = 1|issue = #288|date = February 1988|publisher = Marvel Comics|location = United States}}</ref>
+
+A.I.M.'s leader, [[MODOK]], eventually loses interest in the Doomsday Man, which is left abandoned beneath a warehouse in [[The Bronx]]. When the building is destroyed during an altercation involving A.I.M., the [[New Warriors]], the [[Avengers (comics)|Avengers]] and Lord Templar,<ref>{{Cite comic|writer = Kurt Busiek|penciller = George Perez|inker = Al Vey and Scott Koblish|colorist = Tom Smith|letterer = Richard Starkings and Comicraft/WA|editor = Tom Brevoort|story = Lords & Leaders|title = The Avengers|volume = 3|issue = #13|date = February 1999|publisher = Marvel Comics|location = United States}}</ref> Doomsday Man escapes and, after concluding that Korman's usefulness as [[Wetware computer|wetware]] is waning, sets out to replace him with Ms. Marvel.<ref name = "A17"/>
+
+Doomsday Man breaks the [[Wrecking Crew (comics)|Wrecking Crew]] out of prison and orders them to capture Ms. Marvel, who has since become Warbird. When the Wrecking Crew are cornered by the Avengers after mistakenly attacking [[Monica Rambeau|Photon]], Doomsday Man attempts to execute them from afar to prevent them from revealing its existence and then abducts Warbird itself, bringing her to its base in the Bronx.<ref>{{Cite comic|writer = Kurt Busiek|penciller = George Perez|inker = Al Vey and Scott Koblish|colorist = Tom Smith|letterer = Richard Starkings and Comicraft/WA|editor = Tom Brevoort|story = The Three-Fold Path|title = The Avengers|volume = 3|issue = #15|date = April 1999|publisher = Marvel Comics|location = United States}}</ref><ref>{{Cite comic|writer = Jerry Ordway|penciller = Jerry Ordway|inker = Al Gordon|colorist = Tom Smith|letterer = Richard Starkings and Comicraft|editor = Tom Brevoort|story = Mistaken Identity|title = The Avengers|volume = 3|issue = #16|date = May 1999|publisher = Marvel Comics|location = United States}}</ref> As it and Warbird fight, Doomsday Man rants about how it requires her to be complete and about how they both share "the [[Kree]] warrior's bond" due to being "born of the Psyche-Magnitron". The Avengers, having tracked Warbird down, arrive and manage to damage the Doomsday Man enough to incapacitate it and reveal the trapped Korman.<ref name = "A17"/> [[Hank Pym|Goliath]] begins studying the Doomsday Man to try and find a way to separate Korman from it, but his work is cut short when he is abducted by [[Ultron]].<ref>{{Cite comic|writer = Jerry Ordway|penciller = Jerry Ordway|inker = Al Vey, Jerry Ordway and George Perez|colorist = Tom Smith|letterer = RS/Comicraft|editor = Tom Brevoort|story = The Battle for Imperion City!|title = The Avengers|volume = 3|issue = #18|date = July 1999|publisher = Marvel Comics|location = United States}}</ref>
+
+Doomsday Man was subsequently reacquired by A.I.M. and once again placed in storage after the organization found itself unable to discern how to control it or how to replicate its fusion with Korman. After spending months in a vegetative state, Korman awoke, assumed control of his and Doomsday Man's shared body and embarked on a rampage, intent on murdering both Warbird (who had gone back to being Ms. Marvel) and "a great number of people" by releasing the Targoth, infectious zombies that A.I.M. had manufactured for Slorenia.<ref>{{Cite comic|writer = Brian Reed|penciller = Roberto de la Torre|inker = Jon Sibal|colorist = Chris Sotomayor|letterer = Dave Sharpe|editor = Bill Rosemann and Warren Simons|story = Doomsday|title = Ms. Marvel|volume = 2|issue = #11|date = 3 January 2007|publisher = Marvel Comics|location = United States}}</ref>
+
+Ms. Marvel combats Korman while her sidekick, [[Anya Corazon|Araña]], destroys the Targoth. When Korman severely injures Araña,<ref>{{cite book|author = Kevin Michael Scott|title = Marvel Comics' Civil War and the Age of Terror: Critical Essays on the Comic Saga|year = 2015|publisher = [[McFarland & Company]]|isbn = 9780786496891|page = 127}}</ref><ref>{{cite book|author = Frederick Luis Aldama and Christopher González|title = Graphic Borders: Latino Comic Books Past, Present, and Future|year = 2016|publisher = [[University of Texas Press]]|isbn = 9781477309155|page = 215}}</ref> an enraged Ms. Marvel batters the Doomsday Man with a car, tears it open and nearly kills the exposed Korman, relenting at the last minute when the suicidal Korman whispers, "Heh... thank... you". Emergency services are able to stabilize Korman, who is later revealed to have been intentionally awakened and given control of the Doomsday Man by a rogue A.I.M. faction which had also manipulated Ms. Marvel into fighting Korman as a part of a "test run" intended to gauge whether or not Korman would be of use against MODOK.<ref>{{Cite comic|writer = Brian Reed|penciller = Roberto De La Torre and Patrick Zircher|inker = Jon Sibal|colorist = Chris Sotomayor|letterer = Dave Sharpe|editor = Bill Rosemann|story = Something Dark is Coming|title = Ms. Marvel|volume = 2|issue = #12|date = 7 February 2007|publisher = Marvel Comics|location = United States}}</ref>
+
+== Powers and abilities ==
+
+As it was constructed to be able to withstand and function in every conceivable environment, the Doomsday Man is nigh-invulnerable and superhumanly strong. It also has a laser cannon mounted on its right arm and a "[[Photonics|photonic]] nullifier" hidden within its mouth. A.I.M. provided the Doomsday Man with further armaments, including [[tachyon]] blasters attached to its head and gun-arm and the power to teleport itself and others.
+
+Kerwin Korman merging with it increased the Doomsday Man's mental faculties, giving it a human-like mind and personality, as well as the ability to improvise. Korman himself was a genius inventor and engineer and like Carol Danvers he was mutated into a human-Kree hybrid entity via exposure to the radiation emitted by the Psyche-Magnitron.
+
+== References ==
+
+{{Reflist}}
+
+== External links ==
+
+* [http://comicvine.gamespot.com/doomsday-man/4005-19948/ Doomsday Man] at Comic Vine
+* [http://marvel.wikia.com/wiki/Doomsday_Man_(Earth-616) Doomsday Man] at Marvel Wikia
+* {{comicbookdb|type=character|id=8603|title=Doomsday Man}}
+* {{marvunapp|http://www.marvunapp.com/Appendix4/doomsdaymanrobot.htm|Doomsday Man}}
+* [http://comicvine.gamespot.com/destructor/4005-35272/ Destructor] at Comic Vine
+* [http://marvel.wikia.com/wiki/Kerwin_Korman_(Earth-616) Kerwin Korman] at Marvel Wikia
+* {{comicbookdb|type=character|id=39074|title=Destructor}}
+* {{marvunapp|http://www.marvunapp.com/Appendix4/destructorkorman.htm|Destructor}}
+
+{{Ms. Marvel}}
+{{Stan Lee}}
+
+[[Category:Characters created by Stan Lee]]
+[[Category:Characters created by John Buscema]]
+[[Category:Comics characters introduced in 1970]]
+[[Category:Fictional cyborgs]]
+[[Category:Fictional mass murderers]]
+[[Category:Marvel Comics characters with superhuman strength]]
+[[Category:Marvel Comics characters who can teleport]]
+[[Category:Marvel Comics robots]]
+[[Category:Marvel Comics weapons]]

@@ -1,0 +1,58 @@
+{{Infobox comics character| <!--Wikipedia:WikiProject Comics-->
+image=
+|caption=
+|character_name=Brute
+|real_name=Reed Richards
+|species=
+|publisher=[[Marvel Comics]]
+|debut=''[[Marvel Premiere]]'' #2 (May 1972)
+|creators=[[Roy Thomas]]<br>[[Gil Kane]]
+|status=
+|alliances=[[Frightful Four]]
+|previous_alliances=
+|aliases=[[Mister Fantastic]]
+|relatives=
+|powers=Super-strength<br>Enhanced durability<br>Genius-level intellect
+|}}
+'''Brute''' is a [[fictional character]] appearing in [[American comic book]]s published by [[Marvel Comics]]. He is [[Counter-Earth (comics)|Counter-Earth]]'s version of [[Mister Fantastic]].
+
+==Publication history==
+The [[Mister Fantastic|Reed Richards]] of [[Counter-Earth (comics)#The High Evolutionary Counter-Earth|Counter-Earth]] first appeared in ''[[Marvel Premiere]]'' #2 (May 1972), and was created by [[Roy Thomas]] and [[Gil Kane]].
+
+The character subsequently appears as '''The Brute''' in ''Warlock'' #6-7 (June, August 1973), ''Fantastic Four'' #175-179 (October 1976-February 1977), #181-183 (April–June 1977), ''Fantastic Four Unlimited'' #3 (September 1993), ''Paradise X: Heralds'' #1-2 (December 2001-January 2002), and ''Fantastic Four'' #47 (November 2001), and #49 (January 2002).
+
+The Brute received an entry in the ''Marvel Legacy: The 1970s Handbook'' #1 (2006), and the ''Official Handbook of the Marvel Universe A to Z'' HC vol. #2 (2008).
+
+==Fictional character biography==
+Brute is a version of [[Mister Fantastic|Reed Richards]] from a world created by the [[High Evolutionary]] called [[Counter-Earth (comics)#The High Evolutionary Counter-Earth|Counter-Earth]]. He was exposed to cosmic rays that initially did not affect him; [[Human Torch|Johnny Storm]] and [[Thing (comics)|Ben Grimm]] were unaffected, and [[Invisible Woman|Susan Storm]] was left in a comatose state.{{issue|date=July 2013}}. The cosmic rays eventually gave him the ability to transform into a savage purple-skinned behemoth called the Brute.{{issue|date=July 2013}} The Brute became evil after being hit on the head with a metallic cylinder.{{issue|date=July 2013}}
+
+The Brute made his way to ''True Earth'', where he joined the [[Frightful Four]] to beat the Fantastic Four, [[Thundra]] and [[Tigra]].<ref>''Fantastic Four'' #177. Marvel Comics.</ref> Later, the [[Impossible Man]] inadvertently freed the Fantastic Four, who overcame the Frightful Four. During the ensuing fight, the Brute managed to trap the original Reed Richards in the [[Negative Zone]] and replace him.<ref>''Fantastic Four'' #178. Marvel Comics.</ref> Once accepted as the leader of the Fantastic Four, he sent the Human Torch and the Thing into the Negative Zone and battled with Invisible Girl.<ref>''Fantastic Four'' #182. Marvel Comics.</ref> However, the remaining trio made it back from the Negative Zone with the help of [[Annihilus]] who lost his Cosmic Rod to [[Mad Thinker]]'s [[Awesome Android]]. After seeing Reed Richard's selfless dedication to his wife, the concussion that made the Brute evil wore off and he sacrificed himself to keep the original Reed Richards' promise to return the cosmic Rod to Annihilus.<ref>''Fantastic Four'' #183. Marvel Comics.</ref>
+
+Brute was glimpsed when Abraxas scanned through the alternate Earths.<ref>''Fantastic Four'' Vol. 3 #47. Marvel Comics.</ref> As Abraxas assaulted Mister Fantastic, he told him "As you die on this Earth, so do your other selves across the realities." Brute was shown among the Reed Richards to be among the victims of Abraxas' attack.<ref>''Fantastic Four'' Vol. 3 #49. Marvel Comics.</ref>
+
+During the "[[Avengers: Standoff!]]" storyline, Brute was an inmate of Pleasant Hill, a gated community established by S.H.I.E.L.D.<ref>''All-New, All-Different Avengers'' #8. Marvel Comics.</ref>
+
+==Powers and abilities==
+Richards can transform at will into the Brute, who possesses an 8–9 foot tall form with significant [[superhuman]] strength and durability. In addition, he retains the brilliant genius and much of the knowledge of Reed Richards.
+
+At one point he proved able to absorb geothermal energy from the Earth's core, increasing his own power. In such form, he could also fire energy blasts.
+
+==Other versions==
+The Brute makes an appearance in the tie-in comic, ''[[Spider-Man Unlimited]]''. In this continuum, a Counter-Earth version of Reed and his friends were exposed to cosmic rays like their Earth counterparts. Reed became a creature known as The Brute, Sue ended up in a coma, Johnny was dead, and only Ben was unaffected. Using his good standing with the High Evolutionary as Reed Richards (who tries to maintain his secret identity by putting up a snobby front), Brute secretly aids the Counter-Earth rebels against them. Ben Grimm helps out by gathering data held by The High Evolutionary.<ref>''Spider-Man Unlimited'' Vol. 2 #3. Marvel Comics.</ref>
+
+==References==
+{{Reflist}}
+
+==External links==
+* [https://marvel.fandom.com/wiki/Reed_Richards_(Counter-Earth)_(Earth-616) Brute] at Marvel Wiki
+* [https://comicvine.gamespot.com/the-brute/4005-35370/ Brute] at Comic Vine
+* {{Marvunapp|http://www.marvunapp.com/Appendix/brutereedceh.htm|Brute}}
+* [http://comicbookdb.com/character.php?ID=5855 Brute] at Comic Book DB
+
+{{Fantastic Four}}
+
+[[Category:Characters created by Gil Kane]]
+[[Category:Characters created by Roy Thomas]]
+[[Category:Comics characters introduced in 1972]]
+[[Category:Marvel Comics characters with superhuman strength]]
+[[Category:Marvel Comics supervillains]]

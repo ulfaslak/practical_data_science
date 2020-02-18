@@ -1,0 +1,51 @@
+{{notability|date=June 2018}}
+{{in-universe|date=June 2018}}
+{{Infobox comics character| <!--Wikipedia:WikiProject Comics-->
+noimage=yes
+|caption=
+|publisher=[[Marvel Comics]]
+|debut=''[[Fantastic Four]]'' #32 (1965)
+|creators=[[Stan Lee]] (writer)<br>[[Jack Kirby]] (artist)<br>[[Chic Stone]]
+|character_name=Morrat
+|real_name=
+|species=[[Skrull]]
+|alliances=[[Skrull]] Empire
+|aliases=
+|powers=Shapeshifting
+}}
+'''Warlord Morrat''' is a fictional character appearing in [[American comic book]]s published by [[Marvel Comics]]. He is depicted as a member of the [[Skrull]] Empire, and like all Skrulls, he can shapeshift.
+
+==Publication history==
+Warlord Morrat first appears in ''[[Fantastic Four]]'' #32 and was created by [[Stan Lee]], [[Jack Kirby]], and [[Chic Stone]].
+
+==Fictional character biography==
+Morrat is a [[warlord]] in the Skrull army. After the defeat of [[Super-Skrull]] (who was posing as [[Franklin Storm]]), Warlord Morrat came up with the idea to strap an energy projector on the real Franklin Storm's chest which will activate when he saw the [[Fantastic Four]]. The plan fails, but Storm dies.<ref>''Fantastic Four'' Vol. 1 #32</ref>
+
+While on a hunting expedition with his men and his fiancee the Skrull princess [[Anelle]], Morrat captures the currently-depowered Fantastic Four, intending to kill them and start a revolution against the [[Dorrek VII|emperor]] so he could rule instead. Before the team could be executed, [[Reed Richards|Mister Fantastic]] manages to reactivate their powers. The emperor then arrives, strips Morrat of his rank, and orders his men to kill him. Anelle jumps in front of him in an attempt to save his life, but the [[Invisible Woman]] protects her with a force field and the laser kills Morrat anyway. When Reed reveals that Susan has saved his daughter, the emperor allows them one request. They ask for the life of the one responsible for Franklin Storm’s death, and the emperor presents them with Morrat’s body, settling their debt and dismissing the earthlings back to the safety of their planet.<ref>''Fantastic Four'' Vol 1. #37</ref>
+
+==Powers and abilities==
+Like every other Skrull, he can shapeshift.
+
+==In other media==
+Warlord Morrat appears in the 1967 ''[[Fantastic Four (1967 TV series)|Fantastic Four]]'' TV series episode "Behold a Distant Star", voiced by [[Tol Avery]].
+
+Warlord Morrat appears in the 1994 ''[[Fantastic Four (1994 TV series)|Fantastic Four]]'' TV series episode "Behold, A Distant Star", voiced by [[Dan Gilvezan]].
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://marvel.com/universe/Morrat Morrat] at Marvel.com
+* {{Marvunapp|http://www.marvunapp.com/Appendix/morratskrull.htm|Morrat}}
+* {{Marveldatabase}}
+
+{{Skrull}}
+{{Jack Kirby}}
+{{Stan Lee}}
+
+[[Category:Characters created by Jack Kirby]]
+[[Category:Characters created by Stan Lee]]
+[[Category:Comics characters introduced in 1965]]
+[[Category:Fictional warlords]]
+[[Category:Marvel Comics supervillains]]
+[[Category:Skrull]]

@@ -1,0 +1,69 @@
+{{more citations needed|date=May 2008}}
+{{Infobox comics character
+<!--Wikipedia:WikiProject Comics-->
+| character_name = Rose
+| image = Amazingspiderman253.jpg
+| imagesize = <!-- default 250 -->
+| converted = y
+| caption = Cover of ''[[The Amazing Spider-Man]]'' #253 (Jun 1984). Art by [[Rick Leonardi]].
+| publisher = [[Marvel Comics]]
+| debut = ''[[The Amazing Spider-Man]]'' #253 (Jun 1984)
+| creators = [[Tom DeFalco]]
+| alter_ego = - [[Richard Fisk]]<br>- Sergeant Blume<br>- Jacob Conover<br>- Philip Hayes
+| full_name =
+| species = <!-- optional -->
+| homeworld = <!-- optional -->
+| alliances = <!-- optional -->
+| partners = <!-- optional -->
+| supports = <!-- optional -->
+| aliases = <!-- optional -->
+| powers =
+| cat = super
+| subcat = Marvel Comics
+| hero =
+| villain = y
+| sortkey = Rose
+}}
+The '''Rose''' is a persona used by four [[fictional character]]s that appear in [[comic books]] published by [[Marvel Comics]]. The original Rose first appeared in ''[[The Amazing Spider-Man]]'' #253 (June 1984), and was created by writer [[Tom DeFalco]].
+
+==Publication history==
+[[Tom DeFalco]] recounted: 
+
+{{quote|When I created the Rose, I wanted a character in [[middle management]]. We had all the big [[crime lord|crimelords]], and then the second-tier crimelords, and this guy was supposed to be second-tier. He doesn't fight, he hires people to do the fighting. I put him in a mask to make him distinctive. It was not a plan that he would have a [[secret identity]]. But at some point later on, I was reading something about the big mystery of "Who is the Rose?" I didn't realize there was a mystery! So I realized I'd have to come up with something for the Rose, and I figured I'd use [[Roderick Kingsley]], because we'd already eliminated him as [[Hobgoblin (comics)|the Hobgoblin]] but he fit perfectly as the Rose.<ref name="Back35">{{cite journal|last= Greenberg|first= Glenn|authorlink= Glenn Greenberg|date= August 2009|title= When Hobby Met Spidey|journal= [[Back Issue!]]|issue= 35|page= 15}}</ref>}}
+
+DeFalco was fired from ''The Amazing Spider-Man'' by editor [[Jim Owsley]] before he could reveal the Rose's identity.<ref name="Back35"/> A subsequent issue of ''[[Web of Spider-Man]]'', written by Owsley, revealed the Rose to be [[Richard Fisk]].
+
+==Fictional character biography==
+The character of Rose is depicted as a well-dressed, calm, calculating and gentleman-like crime lord who favors [[rose]]s and wears a leather, lilac-colored mask.
+
+===Richard Fisk===
+{{main|Richard Fisk}}
+The first Rose was '''[[Richard Fisk]]''', the son of [[Kingpin (comics)|Wilson Fisk]], who sought to overthrow his father after learning he was the Kingpin of Crime. He later became a [[Punisher (comics)|Punisher]]-like [[vigilante]], calling himself '''Blood Rose'''. He was eventually shot dead by his own mother, [[Vanessa Fisk|Vanessa]].<ref>http://marvel.com/universe/Fisk,_Richard</ref>
+
+===Sergeant Blume===
+The second Rose was '''Sergeant Blume''' (first name unrevealed), a police officer seeking revenge on the Kingpin for the death of his brother, another policeman. While Blume allied himself with Richard in hopes of doing good by breaking the Kingpin's hold on the city, he ended up implicated in several crimes while in the Kingpin's service. He ultimately was shot and killed in a confrontation with Richard's men in the [[Catskills]] after he had kidnapped Peter Parker (Spider-Man)'s [[Aunt May]] and wife [[Mary Jane Watson]], mistakenly thinking that Peter had discovered information that would blow the lid off of the Kingpin's organization, thus revealing Blume as a double agent.<ref>http://marvel.com/universe/Rose_(Blume)</ref>
+
+===Jacob Conover===
+The third Rose was '''Jacob Conover''', a reporter at the ''[[Daily Bugle]]'', who took up the identity as payment for saving the life of crime lord [[Don Fortunato]] many years earlier. This Rose was loyal solely to Fortunato, as at the time the Kingpin had not returned to power, and his principal enforcer was the cyborg powerhouse known as [[Delilah (comics)|Delilah]]. Conover faced a repeated threat to his territory from the [[Argentina|Argentinian]] crime lord known as the [[Black Tarantula]], eventually being present without his Rose disguise when the Tarantula launched a direct assault on Fortunato's home. Preparing to gun down the Tarantula and a roomful of witnesses, Conover was stopped by Spider-Man and carted off to jail.
+
+===Phillip Hayes===
+<!-- [[Philip Hayes (Spiderman)]] redirects here -->
+The fourth Rose was '''Dr. Phillip Hayes'''. He took up the Rose persona after he lost his funding in gene-therapy research after an accident in the Phelcorps laboratory, a result of which was the new heroine [[Jackpot (comics)|Jackpot]]. He deals in "Ebony" shipments, a synthesized drug created from [[Corruptor (comics)|Corruptor]]'s sweat glands. He managed to slip under the superhero radar for a while, but Jackpot was getting closer to discovering his involvement. After he discovered the secret identity of his opponent (through a coincidence resulting from being [[Jackpot (comics)|Sara Ehret]]'s co-worker), he hires [[Boomerang (comics)|Boomerang]] to track Sara down at her house and murders her husband in front of her and her daughter. He is later arrested and unmasked, much to Sara's shock.
+
+==Powers and abilities==
+The Roses have no superhuman powers. Richard Fisk is trained in the use of guns and has some martial-arts training; Sergeant Blume is a trained police officer; and Jacob Conover is trained in the use of firearms and has a number of criminal contacts.
+
+The Roses always carries a handgun and often carries a variety of mini grenades.
+
+==Other versions==
+In [[Marvel Adventures]] continuity, the Rose is a criminal with enough financial resources to bid a fortune on highly sophisticated battlesuits.<ref>"Marvel Adventures: Spider-Man" #21 (January, 2007)</ref>
+
+== References ==
+{{Reflist|30em}}
+{{Spider-Man characters}}
+{{Spider-Man}}
+
+[[Category:Comics characters introduced in 1984]]
+[[Category:Fictional henchmen]]
+[[Category:Fictional police officers in comics]]
+[[Category:Fictional reporters]]
